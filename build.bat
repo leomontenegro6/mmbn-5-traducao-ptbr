@@ -22,9 +22,9 @@ echo ==Gerando rom traduzida da versao Equipe Colonel.
 
 echo ==Aplicando patches extras na rom modificada:==
 
-::echo ==Graficos==
+echo ==Graficos==
 ::call recomprimir_graficos_comprimidos.bat
-::.\Ferramentas\armips.exe .\Asm\graficos_equipe_colonel.asm
+.\Ferramentas\armips.exe .\Asm\graficos_equipe_colonel.asm
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Equipe Colonel"
@@ -41,9 +41,9 @@ echo ==Gerando rom traduzida da versao Equipe Proto Man.
 
 echo ==Aplicando patches extras na rom modificada:==
 
-::echo ==Graficos==
+echo ==Graficos==
 ::call recomprimir_graficos_comprimidos.bat
-::.\Ferramentas\armips.exe .\Asm\graficos_equipe_protoman.asm
+.\Ferramentas\armips.exe .\Asm\graficos_equipe_protoman.asm
 
 echo ==Expandindo rom para 16mb==
 .\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Equipe ProtoMan"

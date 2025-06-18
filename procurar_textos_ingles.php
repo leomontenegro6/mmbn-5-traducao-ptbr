@@ -13,7 +13,7 @@ foreach (glob('Scripts/Editados/GBA/Comum/*.tpl') as $file) {
     // Ler o conteúdo do arquivo
     $script = file_get_contents($file);
 
-    // Expressão regular para capturar blocos "script x mmbn4 {...}"
+    // Expressão regular para capturar blocos "script x mmbn5 {...}"
     preg_match_all('/script\s+\d+\s+mmbn5\s+\{(.*?)\}/s', $script, $matches);
 
     // Array para armazenar os textos extraídos

@@ -1,9 +1,14 @@
 <?php
 $graficos = [
-    (object)['nome' => 'Fonte textos', 'offset' => '0x694F5C', 'tiles' => '1x1323'],
-    (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6C7C50', 'tiles' => '16x20'],
-    (object)['nome' => 'Fonte grande', 'offset' => '0x68DF5C', 'tiles' => '16x20'],
-    (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x6ADBC0', 'tiles' => '1x14'],
+    (object)['nome' => 'Fonte textos', 'offset' => '0x6C2804', 'tiles' => '1x1321'],
+    (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6BB7A4', 'tiles' => '16x56'],
+    (object)['nome' => 'Fonte grande', 'offset' => '0x6CCD44', 'tiles' => '1x1168'],
+    (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x6D9E90', 'tiles' => '1x14'],
+    //(object)['nome' => 'Menus', 'offset' => '0x6E2D04', 'tiles' => '1x76'],
+    //(object)['nome' => 'Menus2', 'offset' => '0x6E4C88', 'tiles' => '16x7'],
+    //(object)['nome' => 'Chip Select', 'offset' => '0x6F952C', 'tiles' => '1x7'],
+    //(object)['nome' => 'L or R', 'offset' => '0x6FB808', 'tiles' => '1x8'],
+    //(object)['nome' => 'Pause', 'offset' => '0x6FCA88', 'tiles' => '1x10'],
 ];
 
 foreach($graficos as $g) {
