@@ -4,7 +4,9 @@
 .open "Mega Man Battle Network 5 - Equipe Colonel (BR).gba", 0x08000000
 
 ; Gráficos descomprimidos, em seus respectivos offsets.
-; Fontes dos textos acentuadas (sem VWF)
+; Fontes dos textos acentuadas.
+.org 0x080426BC
+    .incbin "Graficos/Editados/Fonte textos (VWF).gba"
 .org 0x086C2804
     .incbin "Graficos/Editados/Fonte textos.gba"
 .org 0x086BB7A4

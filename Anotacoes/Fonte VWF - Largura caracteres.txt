@@ -1,0 +1,12 @@
+A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z
+08 08 08 08 08 08 08 08 07 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08 08
+07 07 07 07 07 07 07 07 06 07 07 07 07 07 07 07 07 07 07 07 07 07 07 07 07 07
+
+
+a  b  c  d  e  f  g  h  i  j  k  l  m  n  o  p  q  r  s  t  u  v  w  x  y  z
+08 07 07 07 08 06 07 07 06 05 07 06 08 07 07 07 07 07 07 06 07 08 08 08 07 08
+
+Tabela da rotina VWF encontada no offset 0x0426BC
+Offset relativo da letra 'a' minúscula: 0x98
+Offset relativo do caractere 'Á' acentuado: 0x100
+Offset relativo dos caracteres de pontuação (-): 0x24C
