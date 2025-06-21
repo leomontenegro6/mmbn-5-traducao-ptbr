@@ -1,3 +1,2 @@
-- Editar tela-título do jogo
 - Passar scripts pro Sahgo começar a tradução
 - Editar menu exibido ao apertar Start
