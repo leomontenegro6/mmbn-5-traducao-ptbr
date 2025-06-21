@@ -23,7 +23,7 @@ echo ==Gerando rom traduzida da versao Equipe Colonel.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-::call recomprimir_graficos_comprimidos.bat
+call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_equipe_colonel.asm
 
 echo ==Expandindo rom para 16mb==
@@ -42,7 +42,7 @@ echo ==Gerando rom traduzida da versao Equipe Proto Man.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-::call recomprimir_graficos_comprimidos.bat
+call recomprimir_graficos_comprimidos.bat
 .\Ferramentas\armips.exe .\Asm\graficos_equipe_protoman.asm
 
 echo ==Expandindo rom para 16mb==
