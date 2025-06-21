@@ -24,12 +24,10 @@
 ; Catalogando ponteiros dos gráficos.
 .org 0x08030844
     .dw logo_tela_titulo + 0x80000000
-;.org 0x0802594c
-;    .dw nomes_tela_titulo1
-;.org 0x08025978
-;    .dw nomes_tela_titulo2
-;.org 0x0802597c
-;    .dw nomes_tela_titulo3
+.org 0x0803082C
+    .dw nomes_tela_titulo1 + 0x80000000
+.org 0x08030814
+    .dw nomes_tela_titulo2 + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .orga filesize("Mega Man Battle Network 5 - Equipe ProtoMan (BR).gba")
@@ -39,16 +37,12 @@ logo_tela_titulo:
     .incbin "Graficos/Recomprimidos/Logo tela-titulo equipe protoman.gba"
     .align
 
-;nomes_tela_titulo1:
-;    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 1.gba"
-;    .align
+nomes_tela_titulo1:
+    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 1.gba"
+    .align
 
-;nomes_tela_titulo2:
-;    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 2.gba"
-;    .align
-
-;nomes_tela_titulo3:
-;    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 3.gba"
-;    .align
+nomes_tela_titulo2:
+    .incbin "Graficos/Recomprimidos/Nomes tela-titulo 2.gba"
+    .align
 
 .close
