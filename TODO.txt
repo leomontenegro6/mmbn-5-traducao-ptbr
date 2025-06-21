@@ -1,3 +1,2 @@
-- Editar tela-título do jogo, e o gráfico "Licensed by Nintendo"
-- Refatorar mmbn-dialog-previewer para adicionar suporte ao MMBN5
+- Editar tela-título do jogo
 - Passar scripts pro Sahgo começar a tradução
