@@ -5,13 +5,13 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	W-What's this⋯this
-	space?
+	M-mas que...
+	que espaço é este?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Ah,the exit!"
+	"... Ah, a saída!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,7 +24,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 340
-	"*Clang!*"
+	"Plóm!"
 	keyWait
 		any = false
 	end
@@ -34,8 +34,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯⋯⋯
-	W-Where am I?
+	.........
+	O-onde é que eu tô?
 	"""
 	keyWait
 		any = false
@@ -48,8 +48,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	M-MegaMan! Look
-	behind you!
+	M-MegaMan!
+	Atrás de você, olha!
 	"""
 	keyWait
 		any = false
@@ -61,7 +61,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯W-What?"
+	"... O q-quê?"
 	keyWait
 		any = false
 	end
@@ -70,7 +70,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's⋯my house⋯"
+	"É... a nossa casa..."
 	keyWait
 		any = false
 	clearMsg
@@ -82,9 +82,9 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Y-You can't have
-	come into the real
-	world⋯can you?
+	N-não pode ser!
+	Cê veio parar no mundo
+	real...? N-não, né?
 	"""
 	keyWait
 		any = false
@@ -96,7 +96,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"M-Maybe⋯"
+	"T-talvez..."
 	keyWait
 		any = false
 	end
@@ -106,9 +106,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's ACDC Town,but
-	there's something
-	funny about it⋯
+	Bom, é o Bairro ACDC,
+	sim, mas tem alguma
+	coisa estranha nele...
 	"""
 	keyWait
 		any = false
@@ -121,8 +121,8 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. It looks like
-	the Cyberworld⋯
+	É. Parece parte do mundo
+	cibernético mesmo...
 	"""
 	keyWait
 		any = false
@@ -135,9 +135,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Like a digitized
-	version of ACDC
-	Town⋯
+	Como se fosse uma
+	versão digitalizada
+	de ACDC...
 	"""
 	keyWait
 		any = false
@@ -150,9 +150,9 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This must be what
-	Dad wanted to show
-	us all!
+	Deve ser isso o que
+	o papai queria mostrar
+	pra gente!
 	"""
 	keyWait
 		any = false
@@ -164,11 +164,11 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I guess so."
+	"Talvez, né?"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Ah!"
+	"... Ah!"
 	keyWait
 		any = false
 	end
@@ -177,7 +177,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Someone's coming!"
+	"Tem alguém vindo!"
 	keyWait
 		any = false
 	end
@@ -186,11 +186,11 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Er⋯ Excuse me!"
+	"Er... Licença!"
 	keyWait
 		any = false
 	clearMsg
-	"Could you tell me⋯"
+	"Pode me dizer o..."
 	keyWait
 		any = false
 	end
@@ -200,24 +200,23 @@ script 16 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Dr.Hikari's just
-	become the father
-	of twin boys!
+	O Dr.Hikari acabou de se
+	tornar pai de gêmeos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard they're
-	called Hub and Lan!
+	Ouvi dizer que os nomes
+	deles são Hub e Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone says how
-	cute they are! It's
-	wonderful!
+	E tá todo mundo falando
+	que eles são umas gra-
+	cinhas! Que maravilha!
 	"""
 	keyWait
 		any = false
@@ -229,7 +228,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -238,18 +237,18 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"D-Did she just say⋯"
+	"E-ela falou..."
 	keyWait
 		any = false
 	clearMsg
-	"Hub⋯and Lan⋯?!"
+	"Hub... e Lan...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then this is ACDC
-	Town⋯in the year we
-	were born?!
+	Então, esse é o Bairro
+	ACDC... do ano em que
+	a gente nasceu?!
 	"""
 	keyWait
 		any = false
@@ -259,7 +258,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯It looks that way."
+	"... É o que tá parecendo."
 	keyWait
 		any = false
 	clearMsg
@@ -271,9 +270,9 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But I can't see
-	anything here that
-	Regal would want.
+	... Mas eu não tô vendo
+	nada aí que o Regal
+	pudesse querer.
 	"""
 	keyWait
 		any = false
@@ -286,9 +285,9 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'd say we need to
-	have a real good
-	look around.
+	Acho que a gente devia
+	dar uma boa investigada
+	no lugar.
 	"""
 	keyWait
 		any = false
@@ -301,15 +300,15 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I agree. We'd better
-	scout around a bit.
+	Concordo.
+	A hora de fazer
+	reconhecimento é agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's down to you,
-	MegaMan!
+	Manda ver, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -321,7 +320,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end

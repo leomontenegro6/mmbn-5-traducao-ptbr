@@ -15,20 +15,20 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ChaosUnison⋯"
+	"União do Caos..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe I
-	have this power⋯
+	Não acredito que eu
+	tenho esse poder...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just wonder who
-	sent that E-Mail.
+	Mas quem será que
+	mandou aquele e-mail?
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's read that
-	E-Mail!
+	Lan, bora ler aquele
+	e-mail!
 	"""
 	keyWait
 		any = false
@@ -56,8 +56,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Chaud,you wanted to
-	give me something?
+	Chaud, você queria
+	me dar uma coisa?
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Baryl,you wanted to
-	give me something?
+	Baryl, você queria
+	me dar uma coisa?
 	"""
 	keyWait
 		any = false
@@ -106,9 +106,9 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,take this to
-	commemorate the
-	return of MegaMan.
+	Tome, Lan.
+	Pra comemorar a volta
+	do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -123,7 +123,7 @@ script 5 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -138,23 +138,23 @@ script 5 mmbn5 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Lan
-	"Thank you,Chaud!"
+	"Valeu, Chaud!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Heh,you don't need
-	to thank me.
+	He, não precisa me
+	agradecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I expect a lot more
-	work from MegaMan,
-	that's all.
+	Eu espero muito mais
+	trabalho do MegaMan,
+	é só isso.
 	"""
 	keyWait
 		any = false
@@ -191,9 +191,9 @@ script 6 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan,take this to
-	commemorate the
-	return of MegaMan.
+	Tome, Lan Hikari,
+	para celebrar a
+	volta do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -208,7 +208,7 @@ script 6 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printFolderName
@@ -223,23 +223,23 @@ script 6 mmbn5 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Lan
-	"Thank you,Baryl!"
+	"Obrigado, Baryl!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Baryl
 	"""
-	You don't need to
-	thank me.
+	Não precisa me
+	agradecer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I expect a lot more
-	work from MegaMan,
-	that's all.
+	Eu espero muito mais
+	trabalho do MegaMan,
+	é só isso.
 	"""
 	keyWait
 		any = false
@@ -250,9 +250,9 @@ script 7 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Your goal is End
-	Area4.
-	Hurry up.
+	O seu objetivo está
+	na Área Endo 4.
+	Não demore.
 	"""
 	keyWait
 		any = false
@@ -263,9 +263,8 @@ script 8 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Your goal is End
-	Area4.
-	Hurry up.
+	O seu objetivo está na
+	Área Endo 4. Rápido!
 	"""
 	keyWait
 		any = false
@@ -276,16 +275,15 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Even though the
-	mission was delayed,
+	A missão foi adiada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you still need to be
-	ready to go at any
-	time.
+	mas você ainda precisa
+	estar pronto pra partir
+	a qualquer momento.
 	"""
 	keyWait
 		any = false
@@ -296,16 +294,15 @@ script 11 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Even though the
-	mission was delayed,
+	A missão foi adiada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you still need to be
-	ready to go at any
-	time.
+	mas você ainda precisa
+	estar pronto para partir
+	a qualquer momento.
 	"""
 	keyWait
 		any = false
@@ -319,15 +316,16 @@ script 15 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Chaud is resting in
-	a different room.
+	O Chaud está
+	descansando
+	em outra sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He must be pretty
-	exhausted.
+	Deve estar exausto
+	mesmo.
 	"""
 	keyWait
 		any = false
@@ -338,15 +336,16 @@ script 16 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Baryl is resting in
-	a different room.
+	O Baryl está
+	descansando
+	em outra sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He must be pretty
-	exhausted.
+	Deve estar exausto
+	mesmo.
 	"""
 	keyWait
 		any = false
@@ -360,38 +359,38 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	What?
+	O quê?
 	Raika? Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"I see."
+	"Entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you go
-	home and rest today.
+	Acho melhor você ir
+	pra casa descansar.
 	"""
 	keyWait
 		any = false
@@ -405,7 +404,7 @@ script 21 mmbn5 {
 	msgOpen
 	"""
 	Raika?
-	What happened?
+	O que houve?
 	"""
 	keyWait
 		any = false
@@ -419,38 +418,38 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	What?
+	O quê?
 	Higsby? Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"I see."
+	"Entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you go
-	home and rest today.
+	É melhor você ir
+	para casa descansar.
 	"""
 	keyWait
 		any = false
@@ -463,9 +462,9 @@ script 23 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Nice work.
-	You can go home and
-	rest now.
+	Bom trabalho.
+	Já pode ir pra casa
+	descansar.
 	"""
 	keyWait
 		any = false
@@ -480,22 +479,22 @@ script 24 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The communications
-	system in End Area3
-	is protected by
+	O sistema de comunica-
+	ções na Área Endo 3 é
+	protegido por uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strong security.
-	Nebula won't soon
-	strike there.
+	segurança bem forte.
+	A Nebula não o atacará
+	tão cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan,go take a look."
+	"Vá lá dar uma conferida,\nLan."
 	keyWait
 		any = false
 	end
@@ -509,24 +508,24 @@ script 25 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	The communications
-	system in End Area3
-	is protected by
+	O sistema de comunica-
+	ções na Área Endo 3 é
+	protegido por uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strong security.
-	Nebula won't soon
-	strike there.
+	segurança bem forte.
+	A Nebula não o atacará
+	tão cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan Hikari,go take a
-	look.
+	Lan Hikari, por favor,
+	vá conferir a área.
 	"""
 	keyWait
 		any = false
@@ -537,23 +536,23 @@ script 30 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What?! GargCastle
-	was attacked?
+	O quê?! O Castelo
+	Shachi foi atacado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do something
-	about the disruption
-	in the Net!
+	Vou fazer alguma
+	coisa pra controlar a
+	perturbação na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You head to
-	GargCastle!
+	Você, vai pro
+	Castelo Shachi!
 	"""
 	keyWait
 		any = false
@@ -564,23 +563,23 @@ script 31 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	What?! GargCastle
-	was attacked?
+	O quê?! O Castelo
+	Shachi foi atacado?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do something
-	about the disruption
-	in the Net!
+	Farei alguma coisa
+	para controlar a
+	perturbação na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You head to
-	GargCastle!
+	Por favor, siga para o
+	Castelo Shachi, agora!
 	"""
 	keyWait
 		any = false
@@ -591,22 +590,22 @@ script 35 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The next mission is
-	in End Area5.
+	A próxima missão
+	é na Área Endo 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll head to End
-	Area4 first.
+	Vou seguir pra Área
+	Endo 4 na frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Send MegaMan right
-	away.
+	Mande o MegaMan pra lá
+	sem demora.
 	"""
 	keyWait
 		any = false
@@ -617,22 +616,22 @@ script 36 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	The next mission is
-	in End Area5.
+	A próxima missão
+	é na Área Endo 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll head to End
-	Area4 first.
+	Seguirei para a
+	Área Endo 4 primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Send MegaMan right
-	away.
+	Mande o MegaMan para
+	lá o quanto antes.
 	"""
 	keyWait
 		any = false
@@ -643,8 +642,8 @@ script 40 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I'd better send
-	MagnetMan ASAP.
+	É melhor eu mandar
+	o MagnetMan logo.
 	"""
 	keyWait
 		any = false
@@ -655,9 +654,8 @@ script 41 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Hey,Lan,let's head
-	on over to End
-	Area4.
+	Lan, por favor, sigamos
+	para a Área Endo 4.
 	"""
 	keyWait
 		any = false
@@ -668,9 +666,9 @@ script 42 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	All right,it's time
-	to work. Good luck,
-	Lan.
+	Beleza, hora de
+	trabalhar.
+	Boa sorte, Lan.
 	"""
 	keyWait
 		any = false
@@ -680,7 +678,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -690,9 +688,9 @@ script 44 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I can't wait to take
-	em on! Let's go to
-	End Area now!
+	Tô doido pra dar uma
+	surra neles! Bora logo
+	lá pra Área Endo!
 	"""
 	keyWait
 		any = false
@@ -703,13 +701,13 @@ script 45 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	End Area is a
-	pretty big place.
+	A Área Endo é um
+	lugar bem grande.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Truly amazing⋯"
+	"Incrível..."
 	keyWait
 		any = false
 	end
@@ -718,16 +716,16 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"So let's go."
+	"Vamos."
 	keyWait
 		any = false
 	end
@@ -737,9 +735,9 @@ script 47 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Y-you just watch me,
-	huh! I'll show you
-	guys a fight,huh!
+	F-fica olhando, é!
+	Vou mostrar pra vocês
+	como é que se luta, é!
 	"""
 	keyWait
 		any = false
@@ -759,9 +757,8 @@ script 60 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	There must be
-	something in the
-	VisionBurst.
+	Deve haver alguma coisa
+	na Visão Passada.
 	"""
 	keyWait
 		any = false
@@ -781,9 +778,8 @@ script 61 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	There must be
-	something in the
-	VisionBurst.
+	Deve haver alguma coisa
+	na Visão Passada.
 	"""
 	keyWait
 		any = false
@@ -794,15 +790,15 @@ script 62 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No dog⋯
-	You're kidding.
+	Nenhum cão lá...?
+	Não pode ser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK.
-	Keep investigating.
+	... Tudo bem.
+	Continue investigando.
 	"""
 	keyWait
 		any = false
@@ -813,15 +809,15 @@ script 63 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No dog⋯
-	You're kidding.
+	Nenhum cão lá...?
+	Não pode ser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK.
-	Keep investigating.
+	... Tudo bem.
+	Continue investigando.
 	"""
 	keyWait
 		any = false
@@ -835,16 +831,15 @@ script 65 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Chaud is out at the
-	moment.
+	O Chaud está fora,
+	no momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even he needs a
-	break every once in
-	a while.
+	Até ele precisa de uma
+	pausa, de vez em quando.
 	"""
 	keyWait
 		any = false
@@ -855,16 +850,15 @@ script 66 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Baryl is out at the
-	moment.
+	O Baryl está fora,
+	no momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even he needs a
-	break every once in
-	a while.
+	Até ele precisa de uma
+	pausa, de vez em quando.
 	"""
 	keyWait
 		any = false
@@ -875,15 +869,14 @@ script 70 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,Nebula attacked
-	us!
+	Lan, a Nebula nos
+	atacou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need your
-	reinforcement!
+	Precisamos do seu apoio!
 	"""
 	keyWait
 		any = false
@@ -894,15 +887,14 @@ script 71 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan Hikari,Nebula
-	attacked us!
+	Lan Hikari, a Nebula nos
+	atacou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need your
-	reinforcement!
+	Precisamos do seu apoio!
 	"""
 	keyWait
 		any = false
@@ -913,8 +905,9 @@ script 75 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Good luck with the
-	new MissionCtrl⋯
+	Boa sorte na busca
+	pelo novo Controle
+	de Missão...
 	"""
 	keyWait
 		any = false
@@ -925,8 +918,9 @@ script 76 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Good luck with the
-	new MissionCtrl⋯
+	Boa sorte na busca
+	pelo novo Controle
+	de Missão...
 	"""
 	keyWait
 		any = false

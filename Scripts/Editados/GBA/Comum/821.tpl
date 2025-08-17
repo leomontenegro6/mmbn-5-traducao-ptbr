@@ -4,22 +4,21 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"There you are."
+	"Aí está você."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This mission will be
-	carried out by the
-	two of us.
+	Esta missão será
+	executada por nós dois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be liberating
-	ACDC Area3 which
-	lies past here.
+	Vamos liberar a
+	Área ACDC 3, que
+	fica além daqui.
 	"""
 	keyWait
 		any = false
@@ -31,7 +30,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end
@@ -40,7 +39,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Lan,you tuned in?"
+	"Hikari, está na escuta?"
 	keyWait
 		any = false
 	clearMsg
@@ -51,7 +50,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"Tô, sim."
 	keyWait
 		any = false
 	clearMsg
@@ -63,21 +62,20 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Just like Chaud told
-	you on the phone,
+	Como o senhor Chaud
+	falou durante a ligação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the success of this
-	mission depends on
-	your operation.
+	o sucesso desta missão
+	depende da sua operação.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm in your hands."
+	"Eu estou nas suas mãos."
 	keyWait
 		any = false
 	clearMsg
@@ -89,15 +87,14 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No probs,leave it to
-	me!
+	Relaxa!
+	Pode deixar comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this party
-	started!
+	Bora botar pra quebrar!
 	"""
 	keyWait
 		any = false
@@ -109,22 +106,22 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Very well!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you how to
-	proceed on this
-	liberation mission.
+	Vou lhe mostrar como
+	realizar esta missão
+	de liberação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll learn the
-	ropes after a couple
-	of battles!
+	Após umas poucas lutas,
+	sei que entenderá como
+	funciona!
 	"""
 	keyWait
 		any = false
@@ -136,7 +133,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"OK!"
 	keyWait
 		any = false
 	end
@@ -145,7 +142,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -157,8 +154,8 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But how can I open
-	that door⋯?
+	Mas como faremos pra
+	abrir essa porta...?
 	"""
 	keyWait
 		any = false
@@ -169,8 +166,8 @@ script 10 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	It's open now!
-	Now,go!
+	Pronto, está aberta!
+	Vá!
 	"""
 	keyWait
 		any = false
@@ -183,8 +180,7 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Talk about slice and
-	dice!
+	Você é "afiado" mesmo!
 	"""
 	keyWait
 		any = false
@@ -194,22 +190,21 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"There you are."
+	"Aí está você."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This mission will be
-	carried out by the
-	two of us.
+	Esta missão será
+	executada por nós dois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be liberating
-	ACDC Area3 which
-	lies past here.
+	Iremos liberar a
+	Área ACDC 3, que
+	fica além daqui.
 	"""
 	keyWait
 		any = false
@@ -221,7 +216,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end
@@ -230,7 +225,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Lan,you tuned in?"
+	"Lan Hikari,\nestá na escuta?"
 	keyWait
 		any = false
 	clearMsg
@@ -241,7 +236,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"Tô."
 	keyWait
 		any = false
 	clearMsg
@@ -253,21 +248,20 @@ script 16 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Just like Baryl told
-	you on the phone,
+	Como o Baryl explicou
+	durante a ligação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the success of this
-	mission depends on
-	your operation.
+	o sucesso desta missão
+	depende da sua operação.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm in your hands."
+	"Eu estou nas suas mãos."
 	keyWait
 		any = false
 	clearMsg
@@ -279,15 +273,14 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No probs,leave it to
-	me!
+	Tá bom!
+	Pode deixar comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this party
-	started!
+	Bora botar pra quebrar!
 	"""
 	keyWait
 		any = false
@@ -300,24 +293,24 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Well,it sounds like
-	you're ready.
+	Bom, me parece que
+	você está pronto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll show you how to
-	proceed on this
-	liberation mission.
+	Vou lhe mostrar como
+	realizar esta missão
+	de liberação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll learn the
-	ropes after a couple
-	of battles!
+	Após umas poucas lutas,
+	sei que entenderá como
+	funciona!
 	"""
 	keyWait
 		any = false
@@ -329,7 +322,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -338,7 +331,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -350,8 +343,8 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But how can I open
-	that door⋯?
+	Mas como faremos pra
+	abrir essa porta...?
 	"""
 	keyWait
 		any = false
@@ -361,11 +354,11 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Like this."
+	"Assim."
 	keyWait
 		any = false
 	clearMsg
-	"Now,go!"
+	"Agora vá!"
 	keyWait
 		any = false
 	clearMsg
@@ -377,8 +370,7 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Talk about slice and
-	dice!
+	Você é "afiado" mesmo!
 	"""
 	keyWait
 		any = false

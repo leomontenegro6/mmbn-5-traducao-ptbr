@@ -5,56 +5,56 @@ script 0 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This is the Castle
-	Keep of GargCastle.
-	The Lord of the
+	Esta é a torre de
+	menagem do Castelo
+	Shachi. O Senhor do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	castle lived here.
-	Now it's the network
-	monitoring center.
+	castelo vivia aqui.
+	Agora, é o centro de
+	monitoramento da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? It doesn't
-	look like a network
-	monitoring center?
+	Hã? "Não parece um
+	centro de monitoramento
+	de rede"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,of course it
-	doesn't. This castle
-	also has historic
+	Oras, claro que não
+	parece. O castelo também
+	tem valor histórico,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	value so the latest
-	electronic devices
-	are disguised.
+	então, os dispositivos
+	eletrônicos modernos
+	ficam disfarçados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For instance,look
-	at that statue.
+	Por exemplo, tome aquela
+	estátua ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in to
-	the GargCastleHP
-	from there.
+	É possível se conectar
+	à página do Castelo
+	Shachi a partir dela.
 	"""
 	keyWait
 		any = false
@@ -65,17 +65,16 @@ script 10 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	How do you like
-	that fusuma door
-	picture?
+	Gostou dessa porta com
+	ilustração, a "fusuma"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm happy to work
-	here since I can see
-	that every day.
+	Poder vê-la todos os
+	dias me deixa feliz
+	por trabalhar aqui.
 	"""
 	keyWait
 		any = false
@@ -86,8 +85,8 @@ script 11 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Where am I?
-	I'm totally lost!
+	Onde é que eu tô?
+	Tô "perdidaço"!
 	"""
 	keyWait
 		any = false
@@ -98,26 +97,25 @@ script 20 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	That guy has been
-	talking to his
-	action figure.
+	Aquele cara ali não para
+	de falar com o boneco.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if he
-	thinks it's a real
-	general⋯
+	Será que ele pensa
+	que é um general de
+	verdade...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
-	"Naaahhh⋯"
+	"Nãããão..."
 	keyWait
 		any = false
 	end
@@ -127,22 +125,23 @@ script 21 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Me lawd,I am deeply
-	hon-ored.
+	Meu senhor, estou
+	profundamente honrado.
+	Muito "kouei"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How do you like
-	my Old Electopian?
+	E aí? Maneiro, o meu
+	ni-honense, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I learned it by
-	watching TV shows.
+	Eu aprendi vendo
+	programas ni-honenses.
 	"""
 	keyWait
 		any = false

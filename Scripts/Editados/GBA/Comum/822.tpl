@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Liberation complete."
+	"Liberação concluída."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Area is now
-	safe.
+	A Área ACDC está
+	a salvo agora.
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
@@ -34,23 +34,24 @@ script 2 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	But we can hardly
-	let our guard down.
+	Mas não podemos
+	baixar a guarda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've only freed one
-	part of the Nebula
-	controlled Net.
+	Nós libertamos apenas
+	uma parte da Rede sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Many fierce battles
-	still lie ahead.
+	Ainda há várias
+	batalhas acirradas
+	pela frente.
 	"""
 	keyWait
 		any = false
@@ -62,7 +63,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
@@ -74,9 +75,9 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I'll contact you as
-	soon as the next
-	mission is planned.
+	Entrarei em contato
+	assim que a próxima
+	missão for mapeada.
 	"""
 	keyWait
 		any = false
@@ -86,13 +87,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Liberation complete."
+	"Liberação concluída."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Area is now
-	safe.
+	A Área ACDC Area
+	está a salvo agora.
 	"""
 	keyWait
 		any = false
@@ -104,7 +105,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
@@ -116,24 +117,24 @@ script 7 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	But ACDC Area is
-	hardly the only
-	place occupied.
+	Mas a Área ACDC está
+	longe de ser a única
+	área ocupada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've only freed one
-	part of the Nebula-
-	controlled Net.
+	Nós só libertamos uma
+	parte da Rede que está
+	sob o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our battle has only
-	just begun!
+	A nossa luta está
+	apenas começando!
 	"""
 	keyWait
 		any = false
@@ -145,7 +146,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
@@ -157,16 +158,16 @@ script 9 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I'll contact you as
-	soon as the next
-	mission is planned.
+	Entrarei em contato
+	assim que a próxima
+	missão for mapeada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Until then,keep
-	sharp!
+	Até então,
+	mantenha-se firme!
 	"""
 	keyWait
 		any = false
@@ -176,7 +177,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's jack out,Lan!"
+	"Vamos desconectar, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,8 +189,8 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roger!
-	Nice work,MegaMan!
+	Vamos!
+	Bom trabalho, MegaMan!
 	"""
 	keyWait
 		any = false

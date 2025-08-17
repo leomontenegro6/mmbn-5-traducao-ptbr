@@ -5,9 +5,8 @@ script 0 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	What do you mean,
-	ProtoMan's been
-	deleted?!
+	Como assim,
+	o ProtoMan foi deletado?!
 	"""
 	keyWait
 		any = false
@@ -20,45 +19,46 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	And what are we
-	supposed to do now
-	without a leader?!
+	E o que a gente faz
+	agora sem um líder?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all just a
-	bunch of amateurs,
-	right?!
+	A gente não passa
+	de um bando de
+	amadores, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sure,we've been
-	through a few things
+	Digo, é, a gente já
+	passou por uns belos
+	perrengues,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I've only gone
-	ahead with missions
+	mas eu só consegui
+	seguir com as missões
+	até o fim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because we had a
-	pro on the team!
+	porque a gente tinha
+	um profissional no time!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without a leader,
-	we're nothing!
+	Sem um líder,
+	a gente não é nada!
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -79,14 +79,14 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"I'm sorry,everyone⋯"
+	"Desculpa, gente..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is my fault.
-	It's because of me
-	that ProtoMan⋯
+	É tudo minha culpa.
+	Foi por minha causa
+	que o ProtoMan...
 	"""
 	keyWait
 		any = false
@@ -99,17 +99,17 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No,ProtoMan was
-	deleted in the line
-	of duty⋯
+	Não. ProtoMan foi
+	deletado no cumprimento
+	do dever.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Protecting civilians
-	is an Official
-	NetBattlers job⋯
+	Proteger civis é
+	o trabalho de um
+	NetLutador Oficial...
 	"""
 	keyWait
 		any = false
@@ -120,8 +120,8 @@ script 5 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	⋯How can I apologize
-	enough⋯?
+	... Como eu posso fazer
+	pra me desculpar...?
 	"""
 	keyWait
 		any = false
@@ -133,18 +133,18 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"You don't need to⋯"
+	"Não precisa..."
 	keyWait
 		any = false
 	clearMsg
-	"He⋯"
+	"Ele..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan followed
-	the path he believed
-	in to the end⋯
+	O ProtoMan seguiu
+	o caminho em que
+	acreditava até o fim...
 	"""
 	keyWait
 		any = false
@@ -156,7 +156,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -166,25 +166,24 @@ script 8 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Of course,ProtoMan
-	is a huge loss to
-	us.
+	Claro, não deixa de
+	ser uma perda tremenda
+	para todos nós.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Nebula is still
-	going ahead with
-	its plans even now.
+	Mas a Nebula ainda está
+	avançando com seus
+	planos, mesmo agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just stand
-	around here doing
-	nothing.
+	Não podemos ficar aqui
+	parados sem fazer nada.
 	"""
 	keyWait
 		any = false
@@ -197,9 +196,9 @@ script 9 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	So we're doing the
-	next mission without
-	a leader?!
+	Então a gente vai
+	fazer a próxima
+	missão sem um líder?!
 	"""
 	keyWait
 		any = false
@@ -212,16 +211,16 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯No,we have a
-	leader.
+	... Não.
+	Nós temos um líder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Lan and MegaMan,I
-	want you two to lead
-	the next mission.
+	... Lan, MegaMan.
+	Eu quero que vocês
+	liderem a próxima missão.
 	"""
 	keyWait
 		any = false
@@ -231,7 +230,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯What?!"
+	"... O quê?!"
 	keyWait
 		any = false
 	end
@@ -241,9 +240,9 @@ script 12 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Yeah,they've got the
-	experience and the
-	skills too.
+	É... Eles têm a
+	experiência E as
+	habilidades, também.
 	"""
 	keyWait
 		any = false
@@ -255,25 +254,25 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W-Wait a minute!"
+	"P-pera aí!"
 	keyWait
 		any = false
 	clearMsg
-	"I can't be leader!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We couldn't do
-	anything to save
-	ProtoMan⋯
-	"""
+	"Eu não posso ser o líder!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're not capable of
-	leading the team⋯
+	A gente não conseguiu
+	fazer nada pra salvar
+	o ProtoMan...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A gente não é capaz
+	de liderar uma equipe...
 	"""
 	keyWait
 		any = false
@@ -286,9 +285,9 @@ script 14 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,I believe in you
-	which is why I'm
-	asking.
+	Lan, eu acredito em
+	você. É por isso que
+	estou pedindo.
 	"""
 	keyWait
 		any = false
@@ -299,9 +298,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But⋯ I'm scared⋯
-	What if it goes like
-	that again⋯
+	Mas... Eu tô com medo...
+	E se as coisas acabarem
+	deste jeito de novo...?
 	"""
 	keyWait
 		any = false
@@ -312,16 +311,17 @@ script 16 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	One day⋯ Think about
-	it for just one day.
+	Um dia...
+	Tome só um dia pra
+	pensar na ideia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you still say no
-	then,I'll choose
-	another leader.
+	Se mesmo depois disso
+	você ainda recusar,
+	eu elejo outro líder.
 	"""
 	keyWait
 		any = false
@@ -333,7 +333,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
@@ -345,15 +345,14 @@ script 18 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's all for
-	today.
+	Isso é tudo por hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,think it over
-	properly,okay⋯
+	Lan, por favor, pense
+	bem nisso, tá bom...?
 	"""
 	keyWait
 		any = false
@@ -365,7 +364,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -375,9 +374,8 @@ script 20 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	What do you mean,
-	Colonel's been
-	deleted?!
+	Como assim, o Colonel
+	foi deletado?!
 	"""
 	keyWait
 		any = false
@@ -390,45 +388,46 @@ script 21 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	And what are we
-	supposed to do now
-	without a leader?!
+	E o que a gente vai
+	fazer sem um líder?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all just a
-	bunch of amateurs,
-	right?!
+	A gente não passa
+	de um bando de
+	amadores, né??!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sure,we've been
-	through a few things
+	Sim, a gente venceu
+	umas lutas bem difíceis,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I've only gone
-	ahead with missions
+	mas eu só consegui
+	seguir com as missões
+	até o fim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because we had a
-	pro on the team!
+	porque a gente
+	tinha um profissional
+	na equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without a leader,
-	we're nothing!
+	Sem um líder...
+	nós não somos nada!
 	"""
 	keyWait
 		any = false
@@ -440,7 +439,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -449,14 +448,14 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"I'm sorry,everyone⋯"
+	"Desculpa, gente..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is my fault.
-	It's because of me
-	that Colonel⋯
+	A culpa é minha.
+	Foi por minha causa
+	que o Colonel...
 	"""
 	keyWait
 		any = false
@@ -469,16 +468,16 @@ script 24 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No,Colonel was
-	deleted in the line
-	of duty⋯
+	Não. O Colonel foi
+	deletado no cumprimento
+	do dever.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Protecting civilians
-	is our job⋯
+	Proteger civis é o
+	nosso trabalho...
 	"""
 	keyWait
 		any = false
@@ -489,8 +488,8 @@ script 25 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	⋯How can I apologize
-	enough⋯?
+	... Como eu posso fazer
+	pra me desculpar...?
 	"""
 	keyWait
 		any = false
@@ -502,14 +501,14 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"You don't need to⋯"
+	"Não precisa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel followed
-	the path he believed
-	in to the end⋯
+	O Colonel seguiu
+	o caminho em que
+	acreditava até o fim...
 	"""
 	keyWait
 		any = false
@@ -521,7 +520,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -531,25 +530,24 @@ script 28 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Of course,Colonel
-	is a huge loss to
-	us.
+	Claro, não deixa de
+	ser uma perda tremenda
+	para todos nós.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Nebula is still
-	going ahead with
-	its plans even now.
+	Mas a Nebula ainda está
+	avançando com seus
+	planos, mesmo agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just stand
-	around here doing
-	nothing.
+	Não podemos ficar aqui
+	parados sem fazer nada.
 	"""
 	keyWait
 		any = false
@@ -562,9 +560,9 @@ script 29 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	So we're doing the
-	next mission without
-	a leader?!
+	Então vamos fazer a
+	próxima missão sem
+	um líder, é?!
 	"""
 	keyWait
 		any = false
@@ -577,16 +575,16 @@ script 30 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯No,we have a
-	leader.
+	... Não.
+	Nós temos um líder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Lan and MegaMan,I
-	want you two to lead
-	the next mission.
+	... Lan, MegaMan.
+	Eu quero que vocês
+	liderem a próxima missão.
 	"""
 	keyWait
 		any = false
@@ -596,7 +594,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯What?!"
+	"... O quê?!"
 	keyWait
 		any = false
 	end
@@ -606,9 +604,9 @@ script 32 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Yeah,they've got the
-	experience and the
-	skills too.
+	É... Eles têm a
+	experiência E as
+	habilidades, também! É!
 	"""
 	keyWait
 		any = false
@@ -620,25 +618,25 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W-Wait a minute!"
+	"P-pera aí!"
 	keyWait
 		any = false
 	clearMsg
-	"I can't be leader!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We couldn't do
-	anything to save
-	Colonel⋯
-	"""
+	"Eu não posso ser o líder!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're not capable of
-	leading the team⋯
+	A gente não conseguiu
+	fazer nada pra salvar
+	o Colonel...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A gente não é capaz
+	de liderar uma equipe...
 	"""
 	keyWait
 		any = false
@@ -651,9 +649,9 @@ script 34 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan,I believe in you
-	which is why I'm
-	asking.
+	Lan, eu acredito em
+	você. É por isso que
+	estou pedindo.
 	"""
 	keyWait
 		any = false
@@ -664,9 +662,9 @@ script 35 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But⋯ I'm scared⋯
-	What if it goes like
-	that again⋯
+	Mas... Eu tô com medo...
+	E se as coisas acabarem
+	deste jeito de novo...?
 	"""
 	keyWait
 		any = false
@@ -677,16 +675,17 @@ script 36 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	One day⋯ Think about
-	it for just one day.
+	Um dia...
+	Tome só um dia para
+	pensar na ideia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you still say no
-	then,I'll choose
-	another leader.
+	Se mesmo depois disso
+	você ainda recusar,
+	eu elejo outro líder.
 	"""
 	keyWait
 		any = false
@@ -698,7 +697,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
@@ -710,15 +709,14 @@ script 38 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	That's all for
-	today.
+	Isso é tudo por hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,think it over
-	properly,okay⋯
+	Lan, por favor,
+	pense bem nisso...
 	"""
 	keyWait
 		any = false
@@ -730,7 +728,7 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end

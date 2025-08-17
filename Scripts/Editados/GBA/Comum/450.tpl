@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS ORAN
-	AREA1.
+	ESTA É A ÁREA ORAN 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WATCH FOR ROCK OR
-	GRASS PANELS WHEN
-	YOU BATTLE.
+	CUIDADO COM ROCHAS E
+	QUADROS DE GRAMAS NA
+	HORA DE LUTAR.
 	"""
 	keyWait
 		any = false
@@ -25,29 +24,27 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Viruses around here
-	sometimes look like
-	living things,
+	Os vírus daqui às vezes
+	parecem seres vivos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the comps
-	have lots of
-	samurai and ninja
+	e os sistemas são
+	cheios de vírus
+	samurais e ninjas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	viruses! Cool.
-	I really want to
+	Legal, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"go and see that!"
+	"Tô doido pra ver isso!"
 	keyWait
 		any = false
 	end
@@ -57,13 +54,12 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I love the
-	view from here!
+	Eu adoro a vista daqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so happy⋯"
+	"Que plenitude..."
 	keyWait
 		any = false
 	end
@@ -73,9 +69,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EV⋯
-	⋯ACUATE⋯
-	IM⋯!
+	EV...
+	... CUAR...
+	IM...!
 	"""
 	keyWait
 		any = false
@@ -83,9 +79,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -96,8 +92,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Rel⋯!
-	through⋯ dow⋯!
+	Apr...!
+	Atrav... baix...!
 	"""
 	keyWait
 		any = false
@@ -105,9 +101,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -118,23 +114,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE THEY
-	SABOTAGED THE
+	PARECE QUE ELES
+	SABOTARAM AS CONEXÕES
+	ATÉ AQUI, NA ÁREA ORAN.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CONNECTION EVEN
-	OUT HERE IN
-	ORAN AREA.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WAS I ACTING
-	CRAZY?
+	EU AGI DE FORMA
+	ERRÁTICA?
 	"""
 	keyWait
 		any = false
@@ -145,16 +134,16 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Nothing but bad
-	news lately.
+	Ultimamente, a gente só
+	tem ouvido notícia ruim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll try to
-	relax by watching
-	the scenery⋯
+	Acho que eu vou tentar
+	relaxar apreciando a
+	paisagem...
 	"""
 	keyWait
 		any = false
@@ -165,15 +154,14 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ORAN AREA1
-	BEGINS HERE!
+	A ÁREA ORAN 1
+	COMEÇA AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EXCITING,
-	ISN'T IT?
+	EMOCIONANTE, NÃO ACHA?
 	"""
 	keyWait
 		any = false
@@ -184,15 +172,15 @@ script 31 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Thanks to that
-	famous team of
+	Graças àquela famosa
+	equipe de Navis,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis,I can walk
-	around in peace!
+	posso andar por aqui em
+	paz!
 	"""
 	keyWait
 		any = false
@@ -203,9 +191,9 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HEARD SCILAB AREA
-	IS IN SERIOUS
-	TROUBLE!
+	OUVI DIZER QUE A ÁREA
+	SCILAB ESTÁ EM SÉRIOS
+	APUROS!
 	"""
 	keyWait
 		any = false
@@ -216,13 +204,13 @@ script 41 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	SciLab Area is
-	under attack?!
+	A Área SciLab está sob
+	ataque?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's really bad⋯"
+	"Isso é péssimo..."
 	keyWait
 		any = false
 	end
@@ -232,9 +220,9 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ORAN AREA LETS
-	YOU GET IN TOUCH
-	WITH NATURE!
+	A ÁREA ORAN LHE
+	PROPORCIONA CONTATO
+	COM A NATUREZA!
 	"""
 	keyWait
 		any = false
@@ -245,17 +233,15 @@ script 51 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I've never seen
-	the real-world
-	Oran Isle.
+	Eu nunca fui na Ilha
+	Oran do mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have?! What
-	does it look like?
-	Is the ocean blue?
+	Você, já?! Como ela é?
+	O mar é azulzinho mesmo?
 	"""
 	keyWait
 		any = false

@@ -27,7 +27,7 @@ script 0 mmbn5 {
 		item = 116
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 1 mmbn5 {
 		item = 114
 	"""
 	"
-	just expired!
+	expirou!
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 2 mmbn5 {
 		item = 116
 	"""
 	"
-	seem to be expired.
+	parece ter expirado.
 	"""
 	keyWait
 		any = false
@@ -87,7 +87,7 @@ script 3 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Lan,it seems that
+	Lan, parece que
 	"
 	"""
 	printItem
@@ -95,7 +95,7 @@ script 3 mmbn5 {
 		item = 116
 	"""
 	"
-	has expired.
+	expirou.
 	"""
 	keyWait
 		any = false
@@ -111,7 +111,7 @@ script 4 mmbn5 {
 		item = 114
 	"""
 	"
-	seem to be expired.
+	parece ter expirado.
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 5 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Lan,it seems that
+	Lan, parece que
 	"
 	"""
 	printItem
@@ -130,7 +130,7 @@ script 5 mmbn5 {
 		item = 114
 	"""
 	"
-	has expired.
+	expirou.
 	"""
 	keyWait
 		any = false
@@ -142,7 +142,7 @@ script 10 mmbn5 {
 	positionTextCenter
 		width = 9
 		height = 1
-	"System error."
+	"Erro de sistema."
 	keyWait
 		any = false
 	clearMsg
@@ -150,9 +150,9 @@ script 10 mmbn5 {
 		width = 15
 		height = 3
 	"""
-	Check the connection
-	with the Wireless
-	Adapter and reboot.
+	Confira a conexão com
+	o Adaptador Wireless
+	e reinicie.
 	"""
 	waitHold
 }
@@ -161,21 +161,22 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Error!
-	Transmission failed.
+	Erro!
+	Falha de transmissão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't put anything
-	between Wireless
-	Adapters.
+	Não deixe nada entre
+	os Adaptadores Wireless.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Keep them close."
+	"""
+	E mantenha-os próximos.
+	"""
 	keyWait
 		any = false
 	waitHold
@@ -185,8 +186,8 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's practice,Lan!
-	Starting program!
+	Bora praticar, Lan!
+	Iniciando programa!
 	"""
 	keyWait
 		any = false
@@ -211,8 +212,7 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You have mail,
-	Lan!
+	E-mail novo, Lan!
 	"""
 	keyWait
 		any = false
@@ -222,7 +222,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"New mail,Hiakri."
+	"E-mail novo,\nHikari."
 	keyWait
 		any = false
 	end
@@ -232,7 +232,7 @@ script 22 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	New mail,
+	E-mail novo,
 	Lan Hikari.
 	"""
 	keyWait
@@ -244,29 +244,28 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You have mail,
-	Lan!
+	E-mail novo, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press START to
-	open the PET.
+	Aperte START
+	pra abrir o PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select E-Mail from
-	the menu to
+	Selecione
+	"E-mail" no menu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	check and read
-	your mail!
+	pra conferir
+	e ler e-mails!
 	"""
 	keyWait
 		any = false
@@ -277,9 +276,8 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go and catch
-	up with Dex,
-	Lan!
+	Vamos atrás
+	do Dex, Lan!
 	"""
 	keyWait
 		any = false
@@ -289,20 +287,21 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ChaosUnison⋯?"
+	"União do Caos...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So now I have
-	ChaosUnison.
+	Então, agora, eu tenho
+	a União do Caos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just who the heck
-	sent that mail?
+	Mas, afinal, quem
+	foi que mandou
+	aquele e-mail?
 	"""
 	keyWait
 		any = false
@@ -311,5 +310,5 @@ script 26 mmbn5 {
 	end
 }
 script 30 mmbn5s {
-	"THANK YOU FOR PLAYING!!"
+	"OBRIGADO POR JOGAR!!"
 }

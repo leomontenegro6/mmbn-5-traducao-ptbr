@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Look who's here⋯"
+	"Olha só quem tá aqui..."
 	keyWait
 		any = false
 	clearMsg
@@ -17,7 +17,7 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	MagnetMan,
-	get outta my way!
+	sai da frente!
 	"""
 	keyWait
 		any = false
@@ -29,14 +29,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Not so fast⋯"
+	"Ô, devagar aí..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yer gonna have to go
-	through me to get to
-	this server!
+	Cê vai ter que passar
+	por mim pra poder mexer
+	neste servidor!
 	"""
 	keyWait
 		any = false
@@ -49,8 +49,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh?! Aren't we on
-	the same side?!
+	Hã?! Mas a gente não
+	tá do mesmo lado?!
 	"""
 	keyWait
 		any = false
@@ -62,29 +62,28 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Same side⋯?"
+	"\"Mesmo lado\"...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was just helping
-	out because Ms.
-	Tesla told me to.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	How humiliating it
-	was losing to you.
+	Eu só tava te ajudando
+	porque a Srta. Tesla
+	mandou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna get my
-	revenge right here,
-	right now!!!
+	Foi tão humilhante ser
+	vencido por você...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Então, eu vou me
+	vingar, aqui e agora!
 	"""
 	keyWait
 		any = false
@@ -96,7 +95,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!!"
+	"Lá vem ele, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -107,11 +106,14 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We've got no choice!"
+	"É, a gente não\ntem escolha!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -122,7 +124,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +144,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"MegaMan⋯!"
+	"MegaMan...!"
 	keyWait
 		any = false
 	clearMsg
@@ -155,7 +157,7 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	KnightMan,
-	get outta my way!
+	sai da frente!
 	"""
 	keyWait
 		any = false
@@ -167,14 +169,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"I don't think so⋯"
+	"Infelizmente, não posso..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No one touches
-	this server while
-	I'm still here!
+	Ninguém encostará neste
+	servidor enquanto eu
+	estiver aqui!
 	"""
 	keyWait
 		any = false
@@ -187,8 +189,8 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Huh?! Aren't we on
-	the same side?!
+	Hã?! Mas a gente não
+	tá do mesmo lado?!
 	"""
 	keyWait
 		any = false
@@ -201,34 +203,36 @@ script 13 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I am not your
-	teammate right now!
+	No momento, não sou
+	seu aliado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am just a knight
-	seeking battle!!!
+	Não... Sou só um
+	cavaleiro que busca
+	um embate!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I am hungry for
-	a fight with you.
+	E estou faminto por
+	um duelo com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you satisfy
-	my battle lust?
+	Será você capaz de
+	satisfazer minha
+	sede por batalha?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"En garde!!!"
+	"Em guarda!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -239,7 +243,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!!"
+	"Lá vem ele, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -250,11 +254,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We've got no choice!"
+	"É, a gente não\ntem escolha!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -265,7 +272,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -276,7 +283,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"A bitter defeat!!!"
+	"Uma derrota amarga!!!"
 	keyWait
 		any = false
 	end

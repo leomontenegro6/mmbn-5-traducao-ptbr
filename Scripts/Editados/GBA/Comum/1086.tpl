@@ -8,8 +8,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	These must be⋯
-	DarkPanels!
+	Esses devem ser...
+	Quadros Negros!
 	"""
 	keyWait
 		any = false
@@ -22,17 +22,17 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Liberation Mission?
-	But we don't have a
-	team.
+	Uma Missão de Liberação?
+	Mas a gente nem tem uma
+	equipe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can MegaMan
-	liberate this area
-	all by himself?
+	Será que você consegue
+	liebrar essa área
+	inteira sozinho?
 	"""
 	keyWait
 		any = false
@@ -45,16 +45,17 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're deep in
-	NebulaArea. We
-	can't contact them.
+	A gente tá bem fundo
+	na Área Nebula. Não
+	dá pra contatar eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to do it
-	by ourselves,Lan.
+	A gente vai ter que
+	encarar essa sozinhos,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -66,7 +67,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"But⋯"
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -76,9 +77,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	mugshotHide
 	"""
-	Being reckless
-	doesn't mean being
-	brave,MegaMan.
+	Imprudência não é
+	a mesma coisa que
+	bravura, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -90,7 +91,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -113,11 +114,11 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're here!"
+	"Você? Aqui?!"
 	keyWait
 		any = false
 	clearMsg
-	"B-But how?!"
+	"M-mas como?!"
 	keyWait
 		any = false
 	clearMsg
@@ -129,17 +130,17 @@ script 8 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I sensed your
-	presence near
-	NebulaArea.
+	Eu senti a sua
+	presença próxima
+	à Área Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's my duty to
-	support you.
-	I'm team leader.
+	É o meu dever te apoiar.
+	Eu sou o líder da equipe,
+	afinal.
 	"""
 	keyWait
 		any = false
@@ -151,13 +152,14 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thanks,ProtoMan!"
+	"Valeu, ProtoMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Two might be enough
-	if we fight hard!
+	Acho que nós dois
+	damos conta, se
+	lutarmos com tudo!
 	"""
 	keyWait
 		any = false
@@ -169,7 +171,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"We aren't alone."
+	"Não somos só nós."
 	keyWait
 		any = false
 	clearMsg
@@ -180,7 +182,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What do you mean?"
+	"Como assim?"
 	keyWait
 		any = false
 	end
@@ -193,8 +195,8 @@ script 12 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	You should have
-	given me a yell!
+	Cê devia ter me
+	dado um toque, cara!
 	"""
 	keyWait
 		any = false
@@ -207,9 +209,9 @@ script 13 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Especially if you're
-	planning to rub
-	somebody out!
+	Ainda mais se o lance
+	for dar uma coça em
+	algum otário!
 	"""
 	keyWait
 		any = false
@@ -222,9 +224,9 @@ script 14 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	We're a team!
-	It's a bad idea
-	to work alone.
+	Somos uma equipe!
+	Trabalhar sozinho é
+	uma péssima estratégia.
 	"""
 	keyWait
 		any = false
@@ -236,7 +238,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Aw,guys⋯"
+	"Pessoal...!"
 	keyWait
 		any = false
 	clearMsg
@@ -248,9 +250,9 @@ script 16 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I put out an
-	emergency call.
-	Only 3 arrived.
+	Eu fiz um chamado
+	de emergência...
+	e só três apareceram.
 	"""
 	keyWait
 		any = false
@@ -263,8 +265,8 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You guys are
-	more than enough!
+	Ah, vocês são mais
+	que o suficiente!
 	"""
 	keyWait
 		any = false
@@ -277,17 +279,17 @@ script 18 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Time to begin our
-	mission in this
-	dark world!
+	Hora de iniciar a
+	nossa missão neste
+	mundo sombrio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mission is
-	to liberate within
-	12 phases! Go!
+	A meta é liberar a área
+	dentro de 12 fases!
+	Vamos!
 	"""
 	keyWait
 		any = false
@@ -298,8 +300,8 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	These must be⋯
-	DarkPanels!
+	Esses devem ser...
+	Quadros Negros!
 	"""
 	keyWait
 		any = false
@@ -312,17 +314,17 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Liberation Mission?
-	But we don't have a
-	team.
+	Uma Missão de Liberação?
+	Mas a gente nem tem uma
+	equipe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can MegaMan
-	liberate this area
-	all by himself?
+	Será que você consegue
+	liebrar essa área
+	inteira sozinho?
 	"""
 	keyWait
 		any = false
@@ -335,16 +337,17 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're deep in
-	NebulaArea. We
-	can't contact them.
+	A gente tá bem fundo
+	na Área Nebula. Não
+	dá pra contatar eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to do it
-	by ourselves,Lan.
+	A gente vai ter que
+	encarar essa sozinhos,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -356,7 +359,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"But⋯"
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -366,9 +369,9 @@ script 23 mmbn5 {
 script 24 mmbn5 {
 	mugshotHide
 	"""
-	Being reckless
-	doesn't mean being
-	brave,MegaMan.
+	Imprudência não é
+	a mesma coisa que
+	bravura, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -380,7 +383,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -400,11 +403,11 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're here!"
+	"Você? Aqui?!"
 	keyWait
 		any = false
 	clearMsg
-	"B-But how?!"
+	"M-mas como?!"
 	keyWait
 		any = false
 	clearMsg
@@ -416,17 +419,17 @@ script 28 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I sensed your
-	presence near
-	NebulaArea.
+	Eu senti a sua
+	presença próxima
+	à Área Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's my duty to
-	support you.
-	I'm team leader.
+	É o meu dever te apoiar.
+	Eu sou o líder da equipe,
+	afinal.
 	"""
 	keyWait
 		any = false
@@ -438,13 +441,14 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thanks,Colonel!"
+	"Valeu, Colonel!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Two might be enough
-	if we fight hard!
+	Acho que nós dois
+	damos conta, se
+	lutarmos com tudo!
 	"""
 	keyWait
 		any = false
@@ -456,7 +460,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"We aren't alone."
+	"Não somos só nós."
 	keyWait
 		any = false
 	clearMsg
@@ -467,7 +471,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -477,8 +481,8 @@ script 32 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I'll fight anytime,
-	anywhere!
+	Eu estou sempre apto
+	a um bom duelo!
 	"""
 	keyWait
 		any = false
@@ -491,8 +495,9 @@ script 33 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	MegaMan! Let me
-	kick some butt too!
+	MegaMan! Deixa um
+	pouquinho da diversão
+	pra mim, também!
 	"""
 	keyWait
 		any = false
@@ -505,9 +510,9 @@ script 34 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	We're friends!
-	You can ask us
-	for help any time!
+	Nós somos amigos!
+	Pode nos pedir ajuda
+	a qualquer momento!
 	"""
 	keyWait
 		any = false
@@ -519,7 +524,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Aw,guys⋯"
+	"Pessoal...!"
 	keyWait
 		any = false
 	clearMsg
@@ -531,9 +536,9 @@ script 36 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I put out an
-	emergency call.
-	Only 3 arrived.
+	Eu fiz um chamado
+	de emergência...
+	e só três apareceram.
 	"""
 	keyWait
 		any = false
@@ -546,8 +551,8 @@ script 37 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You guys are
-	more than enough!
+	Ah, vocês são mais
+	que o suficiente!
 	"""
 	keyWait
 		any = false
@@ -560,17 +565,17 @@ script 38 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Time to begin our
-	mission in this
-	dark world!
+	Hora de iniciar a
+	nossa missão neste
+	mundo sombrio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mission is
-	to liberate within
-	12 phases! Go!
+	A meta é liberar a área
+	dentro de 12 fases!
+	Vamos!
 	"""
 	keyWait
 		any = false

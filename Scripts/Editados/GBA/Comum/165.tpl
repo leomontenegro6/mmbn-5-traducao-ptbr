@@ -7,16 +7,15 @@ script 0 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	An electro-barrier
-	for keeping
-	intruders out.
+	Uma eletrobarreira
+	para barrar intrusos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It uses dangerously
-	high voltage.
+	Utiliza alta voltagem.
+	Perigosamente alta.
 	"""
 	keyWait
 		any = false
@@ -29,21 +28,20 @@ script 1 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A security system
-	for blocking
-	intruders.
+	Um sistema de segurança
+	para barrar intrusos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to disable
-	this first!!!
+	Temos que desativá-lo
+	primeiro!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in!"
+	"Dá para se conectar\nnele!"
 	keyWait
 		any = false
 	end
@@ -55,24 +53,24 @@ script 2 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	The way is barred by
-	the security system
-	electro-barrier.
+	O caminho está barrado
+	pela eletrobarreira do
+	sistema de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't go on
-	without disabling
-	this first!
+	Não podemos avançar
+	sem desativá-la
+	primeiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like
-	I can jack in!!!
+	Parece que dá para
+	se conectar nela!!
 	"""
 	keyWait
 		any = false
@@ -81,15 +79,15 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	It may not
-	look like much
+	Pode não parecer
+	grande coisa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but this machine
-	produces DarkChips.
+	mas essa máquina
+	produz Chips das Trevas.
 	"""
 	keyWait
 		any = false
@@ -98,16 +96,16 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	The machine before
-	Lan's eyes is the
-	DarkChip source.
+	A máquina diante de Lan
+	é a fonte dos Chips das
+	Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Production is
-	currently underway.
+	A produção está em
+	andamento.
 	"""
 	keyWait
 		any = false
@@ -120,24 +118,24 @@ script 5 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	This security system
-	controls the
-	electro-barrier.
+	Esse sistema de
+	segurança controla
+	a eletrobarreira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We gotta disable the
-	barrier's control
-	system!
+	Temos que desativar
+	o sistema de controle
+	da barreira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's designed
-	for jacking in.
+	Foi projetada para
+	permitir conexão.
 	"""
 	keyWait
 		any = false
@@ -150,16 +148,16 @@ script 6 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A high-voltage
-	electro-barrier⋯
+	Uma eletrobarreira
+	de alta voltagem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears that the
-	plant has many
-	layers of security.
+	Parece que a usina
+	contém múltiplas
+	camadas de segurança.
 	"""
 	keyWait
 		any = false
@@ -172,16 +170,16 @@ script 7 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A high-voltage
-	electro-barrier⋯
+	Uma eletrobarreira
+	de alta voltagem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears that the
-	plant has many
-	layers of security.
+	Parece que a usina
+	contém múltiplas
+	camadas de segurança.
 	"""
 	keyWait
 		any = false
@@ -190,17 +188,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	This is dark
-	energy manifested in
-	material form.
+	Isso é energia negra
+	manifestada sob
+	forma material.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems this is
-	what makes DarkChip
-	production possible.
+	Parece ser isso o que
+	possibilita a produção
+	de Chips das Trevas.
 	"""
 	keyWait
 		any = false
@@ -209,24 +207,25 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	This seems to be the
-	machine the makes
-	DarkChips.
+	Essa parece ser a
+	máquina que produz
+	Chips das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It could be called
-	the mother of the
-	DarkPower.
+	Pode-se dizer que é
+	a mãe do Poder das
+	Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a control
-	port for jacking in.
+	Possui uma entrada
+	de controle para
+	conexão.
 	"""
 	keyWait
 		any = false
@@ -235,14 +234,13 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	A security system
-	for keeping
-	intruders out.
+	Um sistema de segurança
+	para barrar intrusos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's not on now."
+	"Não está ligado."
 	keyWait
 		any = false
 	end
@@ -250,14 +248,14 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A security system.
-	The barrier is
-	currently disabled.
+	Um sistema de
+	segurança. A barreira
+	está desligada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in."
+	"É possível se conectar\nnela."
 	keyWait
 		any = false
 	end
@@ -265,22 +263,22 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	The electro-barrier
-	of this security
+	A eletrobarreira
+	desse sistema de
+	segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	system is currently
-	disabled.
+	está desligada agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like
-	I can jack in!!!
+	Parece que é possível
+	se conectar!!
 	"""
 	keyWait
 		any = false
@@ -289,21 +287,21 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	This security system
-	controls the
-	electro-barrier.
+	Esse sistema de
+	segurança controla
+	a eletrobarreira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The barrier is
-	off right now.
+	A barreira está
+	desligada agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in."
+	"É possível se conectar\nnela."
 	keyWait
 		any = false
 	end
@@ -311,9 +309,8 @@ script 13 mmbn5 {
 script 14 mmbn5 {
 	msgOpen
 	"""
-	The security system
-	is currently
-	disabled.
+	O sistema de segurança
+	está desligado agora.
 	"""
 	keyWait
 		any = false

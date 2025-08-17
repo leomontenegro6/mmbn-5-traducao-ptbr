@@ -10,22 +10,22 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Dex!"
+	"Fala, Dex!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
-	"What's up,Lan!"
+	"E aí, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Dad wants to show
-	everybody something
-	at SciLab. Let's go!
+	O papai quer mostrar
+	uma coisa pra gente
+	lá no SciLab. Bora lá!
 	"""
 	keyWait
 		any = false
@@ -33,8 +33,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	"""
-	Hey,that sounds
-	totally cool!
+	Eita, parece coisa boa,
+	isso aí!
 	"""
 	keyWait
 		any = false
@@ -42,22 +42,22 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,let's meet in 30
-	minutes in front of
-	Metroline Station!
+	Tá: a gente se vê na
+	frente da Estação
+	Metrolinha em meia hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
-	"You betcha!"
+	"Fechou!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"See you then!"
+	"Té lá!"
 	keyWait
 		any = false
 	end
@@ -67,9 +67,9 @@ script 1 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Don't look at me
-	like that! I won't
-	be late!
+	Não olha pra mim assim,
+	não!
+	Eu não vou me atrasar!
 	"""
 	keyWait
 		any = false
@@ -91,8 +91,9 @@ script 5 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Sorry pal,could you
-	leave me alone?
+	Foi mal, cara, mas
+	pode me deixar sozinho
+	agora?
 	"""
 	keyWait
 		any = false
@@ -103,9 +104,9 @@ script 6 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I can't forgive
-	myself for letting
-	them get GutsMan.
+	Eu não consigo me 
+	perdoar por deixar eles
+	pegarem o GutsMan.
 	"""
 	keyWait
 		any = false
@@ -116,16 +117,16 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I can't stand being
-	powerless with the
-	Net in trouble.
+	Eu não suporto estar
+	tão inútil quando a
+	Rede tá nessa fria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just wish I could
-	do something!
+	Queria poder fazer
+	alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -141,9 +142,9 @@ script 30 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Shoot,where did I
-	put my swimming
-	shorts?
+	Argh, onde foi que eu
+	botei o meu calção de
+	banho?
 	"""
 	keyWait
 		any = false
@@ -154,8 +155,8 @@ script 35 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	The beach! Time to
-	swim!
+	A praia!
+	Bora nadaaar!
 	"""
 	keyWait
 		any = false

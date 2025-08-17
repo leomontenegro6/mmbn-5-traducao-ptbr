@@ -5,25 +5,25 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hmph!
-	It seems I've
-	underestimated you!
+	Hmpf!
+	Parece que eu
+	te subestimei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought all the
-	Navis of your
-	caliber were gone.
+	Achei que não tinha
+	mais nenhum Navi
+	do seu calibre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enough fooling
-	around! I'll show
-	you my true power.
+	OK, chega de brincar!
+	Hora de eu te mostrar
+	o meu verdadeiro poder!
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 155
-	"*bzzt! bzzt!*"
+	"Tzzz! Tzzz!"
 	keyWait
 		any = false
 	clearMsg
@@ -49,17 +49,16 @@ script 2 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hmph! Fine time for
-	headquarters to
-	recall me!
+	Hmpf! O QG tinha que
+	me ligar justo agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What,the scientist
-	kidnapped from
-	SciLab has awakened?
+	Hã? O cientista que
+	sequestramos do SciLab
+	acordou?
 	"""
 	keyWait
 		any = false
@@ -72,8 +71,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The "scientist
-	kidnapped from
+	O "cientista que
+	sequestraram do
 	SciLab"?!
 	"""
 	keyWait
@@ -86,13 +85,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You mean my Dad!!!"
+	"É o papai!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where have you taken
-	him?!
+	Pra onde vocês
+	levaram ele?!
 	"""
 	keyWait
 		any = false
@@ -105,31 +104,31 @@ script 5 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Ah,you're the son of
-	that scientist?
+	Ah, então, cê é o
+	filho do cientista, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,don't expect
-	to be seeing him
-	anytime soon.
+	Bom, não vá esperando
+	que ele volte pra casa
+	tão cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be "borrowing"
-	him until our plan
-	comes to fruition!
+	A gente vai pegar ele
+	"emprestado" até
+	realizar nosso plano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keh heh heh!
-	So long,kid!
+	Hae he he!
+	Falou, guri!
 	"""
 	keyWait
 		any = false
@@ -139,7 +138,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait!!!"
+	"Espera!!!"
 	keyWait
 		any = false
 	end
@@ -148,13 +147,13 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hrk!"
+	"Hrck!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only this door
-	would open!
+	Se, ao menos, desse
+	pra abrir essa porta!
 	"""
 	keyWait
 		any = false
@@ -162,8 +161,9 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Can't you break it
-	with the MegaBstr?
+	Não dá pra você
+	quebrar ela com o
+	seu MegaAtirador?
 	"""
 	keyWait
 		any = false
@@ -171,17 +171,16 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	This door is laced
-	with a terrible
-	DarkPower.
+	A porta tá coberta
+	com um Poder das
+	Trevas horrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Buster is
-	powerless against
-	it.
+	O Atirador é inútil
+	contra ele...
 	"""
 	keyWait
 		any = false
@@ -193,13 +192,13 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right. Shoot!"
+	"Sei... Droga!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to think
-	of something else.
+	A gente vai ter que
+	pensar em outra coisa.
 	"""
 	keyWait
 		any = false
@@ -209,14 +208,14 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah."
+	"É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At least we know
-	that Dad is being
-	held somewhere.
+	Agora, a gente sabe que
+	o papai tá sendo mantido
+	prisioneiro, pelo menos.
 	"""
 	keyWait
 		any = false
@@ -226,7 +225,7 @@ script 10 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*bee-bee-beep!*"
+	"Bi-Bi-Biip!"
 	wait
 		frames = 42
 	end
@@ -235,30 +234,42 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's from SciLab!
-	I'll read it!
+	É do SciLab!
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"News flash.\n SciLab main system\n was infiltrated."
+	"""
+	"Urgente: o sistema
+	central do SciLab
+	foi invadido.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" The invaders must\n be stopped\n immediately,"
+	"""
+	Os invasores
+	precisam ser detidos
+	imediatamente,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" before SciLab is\n taken over!\""
+	"""
+	antes que o SciLab
+	acabe sendo tomado
+	por completo!"
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -270,20 +281,19 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Could this be the
-	work of Nebula?
+	Deve ser coisa
+	da Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're always up
-	to no good!
+	Aqueles malditos...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,let's go!"
+	"Bora pra lá, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -295,9 +305,9 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But we have to leave
-	without Mom knowing
-	why we're going⋯
+	Bom, a gente vai ter
+	que sair sem deixar a
+	mamãe saber por quê...
 	"""
 	keyWait
 		any = false
@@ -309,21 +319,20 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right."
+	"É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't need to
-	worry Mom any
-	further.
+	Melhor a gente não
+	preocupar ele ainda mais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to think
-	of a good excuse!
+	Vamos ter que pensar
+	numa boa desculpa!
 	"""
 	keyWait
 		any = false

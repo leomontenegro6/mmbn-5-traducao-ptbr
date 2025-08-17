@@ -6,22 +6,22 @@ script 0 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"・・・・・・・・・"
+	"........."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	His red eyes stare
-	straight ahead.
+	O olhar dele, vermelho,
+	está fixos à frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like he's
-	fighting to control
-	himself.
+	Ele parece estar lutando
+	para manter controle
+	sobre si.
 	"""
 	keyWait
 		any = false
@@ -42,9 +42,9 @@ script 5 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I know. Nebula
-	is responsible
-	for all of this.
+	Eu sei. A Nebula foi a
+	responsável por tudo
+	isso.
 	"""
 	keyWait
 		any = false
@@ -55,17 +55,17 @@ script 10 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	That guy Regal
-	from the broadcast
-	is behind all this!
+	Aquele tal de Regal,
+	da transmissão... É ele
+	por trás disso tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means we
-	won't be safe until
-	we take him out!
+	Ou seja: não estaremos
+	a salvo até ele ser
+	contido!
 	"""
 	keyWait
 		any = false
@@ -76,32 +76,30 @@ script 15 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I can't leave the
-	ship--I'm the
-	captain!
+	Não posso deixar o
+	navio. Eu sou o capitão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even if Nebula
-	tries to sink us,
-	I'll never leave.
+	Mesmo que a Nebula
+	tente nos afundar,
+	daqui eu não saio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't back down
-	for terrorists!
+	Me recuso a me curvar
+	para terroristas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The most important
-	thing right now is
-	staying brave!
+	O mais importante agora
+	é mantermos a valentia!
 	"""
 	keyWait
 		any = false

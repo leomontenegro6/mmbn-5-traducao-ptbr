@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,go to End
-	Area5!
+	Lan, siga para a
+	Área Endo 5!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll send ProtoMan
-	after you!
+	Mandarei o ProtoMan
+	também!
 	"""
 	keyWait
 		any = false
@@ -24,15 +24,15 @@ script 1 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan Hikari,go to
-	End Area5!
+	Lan Hikari, siga para
+	a Área Endo 5!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll send Colonel
-	after you!
+	Enviarei o Colonel
+	para lhe acompanhar!
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,7 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,go after the
-	Leader!
+	Lan, vá atrás do líder!
 	"""
 	keyWait
 		any = false
@@ -55,8 +54,7 @@ script 6 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan,go after the
-	Leader!
+	Lan, vá atrás do líder!
 	"""
 	keyWait
 		any = false

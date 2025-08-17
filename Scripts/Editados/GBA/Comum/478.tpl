@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What? Nebula's
-	attacking us
-	again soon?!
+	O quê? A Nebula tá
+	atacando de novo,
+	tão cedo assim?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd better
-	get out of here!
+	É melhor eu dar o fora
+	daqui!
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,14 @@ script 1 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You shouldn't
-	stay here
-	any longer.
+	Você não devia ficar
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better
-	evacuate.
+	É melhor evacuar a área.
 	"""
 	keyWait
 		any = false
@@ -45,16 +43,16 @@ script 10 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	People say I'm
-	quiet. I'm getting
-	sick of it.
+	Todo mundo diz que
+	eu sou quietinho.
+	Um SACO, isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should just go
-	totally wild!
+	Eu devia era dar a
+	doida!
 	"""
 	keyWait
 		any = false
@@ -65,16 +63,16 @@ script 11 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I just want to
-	go wild!
+	Eu quero tanto sair
+	quebrando tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I should
-	fire a cannon at
-	anybody I find!
+	Acho que vou atirar um
+	Cannon em todo mundo
+	que eu vir na frente!
 	"""
 	keyWait
 		any = false
@@ -85,9 +83,8 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ooogh⋯
-	I still don't
-	feel well⋯
+	Ouuugh...
+	Eu ainda tô meio mal...
 	"""
 	keyWait
 		any = false
@@ -98,16 +95,16 @@ script 21 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm OK now.
-	But I'm worried
+	Eu tô bem agora.
+	Mas fico preocupada
+	com a minha família
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about my family
-	and friends in
-	other areas.
+	e os meus amigos nas
+	outras áreas.
 	"""
 	keyWait
 		any = false
@@ -118,16 +115,15 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Suddenly I felt
-	so destructive!
-	I can't believe
+	Eu fiquei tão
+	destrutivo de repente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lost myself
-	like that!
+	Não acredito que perdi
+	a cabeça desse jeito!
 	"""
 	keyWait
 		any = false
@@ -138,16 +134,15 @@ script 31 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	How did it feel?
-	It was like
+	"Como foi a sensação"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a feeling of
-	hate flooded
-	my whole body.
+	Foi tipo um sentimento
+	de raiva invadindo o
+	meu corpo todo.
 	"""
 	keyWait
 		any = false
@@ -158,21 +153,17 @@ script 40 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I guess Nebula
-	will take over
-	the whole world.
+	Acho que a Nebula vai
+	dominar o mundo inteiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does that mean
-	they'll delete
+	Será que isso quer dizer
+	que ela vai deletar a
+	minha escola também...?
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"my school⋯?"
 	keyWait
 		any = false
 	end
@@ -182,15 +173,15 @@ script 41 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	They can control
-	people's minds!
+	Eles podem controlar as
+	mentes das pessoas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're totally
-	invincible!
+	São simplesmente
+	invencíveis!
 	"""
 	keyWait
 		any = false

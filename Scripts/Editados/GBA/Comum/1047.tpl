@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's do it!
-	Liberate panels!
+	Vamos lá!
+	Liberar quadros!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,7 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah!
-	I liberated it!
+	Isso! Liberei!
 	"""
 	keyWait
 		any = false
@@ -29,8 +28,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Great job!
-	1 turn liberation!
+	Bom trabalho!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -41,8 +40,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Oh,no!
-	Liberation failed!
+	Essa não!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -52,7 +51,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -61,7 +60,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -71,8 +70,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yes! TwinLiberation
-	succeeded!
+	Isso! Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -83,15 +82,15 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Alright!
-	1 turn liberation!
+	Legal!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -102,8 +101,8 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -113,7 +112,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -124,7 +123,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -133,7 +132,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -151,8 +150,8 @@ script 61 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	End without
-	doing anything?
+	Encerrar sem
+	fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -165,7 +164,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -174,7 +173,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -192,8 +191,8 @@ script 65 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Use
-	LongSwrd?
+	Usar
+	Espada Longa?
 	
 	"""
 	positionOptionHorizontal
@@ -206,7 +205,7 @@ script 65 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -215,7 +214,7 @@ script 65 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -233,9 +232,9 @@ script 66 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,MegaMan!
-	We're using Order
-	Points!
+	OK, MegaMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -248,8 +247,8 @@ script 67 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roger!
-	LongSwrd!
+	Entendido!
+	Espada Longa!
 	"""
 	keyWait
 		any = false
@@ -260,8 +259,7 @@ script 70 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -271,8 +269,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MegaMan got:
-	"Heart"!!
+	MegaMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -284,13 +282,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"MegaMan recovers\n"
+	"MegaMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -300,8 +298,8 @@ script 72 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -311,8 +309,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MegaMan got:
-	"Order Points"!!
+	MegaMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -326,7 +324,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -336,8 +334,7 @@ script 73 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -347,7 +344,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -369,8 +366,8 @@ script 74 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -379,13 +376,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"MegaMan got:\n"
+	"MegaMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -399,8 +396,8 @@ script 75 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -410,8 +407,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MegaMan got a
-	BattleChip for:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -432,8 +429,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	MegaMan's HP
-	recovered to max!
+	Os PV de MegaMan
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -442,8 +440,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -464,13 +462,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"MegaMan got:\n"
+	"MegaMan sofreu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -496,8 +494,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	MegaMan got:
-	has been paralyzed!
+	MegaMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -508,16 +506,15 @@ script 85 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm OK now!
-	I can move!
+	Eu tô bem agora!
+	Consigo me mexer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan got:
-	has recovered!
+	MegaMan se recuperou!
 	"""
 	keyWait
 		any = false
@@ -527,14 +524,13 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I can move!"
+	"Já posso me mover!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan got:
-	has recovered!
+	MegaMan se recuperou!
 	"""
 	keyWait
 		any = false
@@ -550,8 +546,7 @@ script 87 mmbn5 {
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan got:
-	became paralyzed!
+	MegaMan foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -562,17 +557,16 @@ script 90 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Nnngh⋯!
-	I can't move⋯!
+	Nnngh...!
+	Não consigo me mover!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan
-	has been
-	frozen!
+	MegaMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -583,8 +577,9 @@ script 91 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -595,8 +590,8 @@ script 92 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cancel the mission
-	and retreat?
+	Cancelar missão
+	e recuar?
 	
 	"""
 	positionOptionHorizontal
@@ -609,7 +604,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -618,7 +613,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -633,8 +628,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat now!
-	Retreat!
+	Recuar, gente!
+	Recuar!
 	"""
 	keyWait
 		any = false
@@ -645,8 +640,7 @@ script 105 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Great going!
-	The boss is down!
+	Boa! O chefão já era!
 	"""
 	keyWait
 		any = false

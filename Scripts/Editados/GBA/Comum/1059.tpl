@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Let's ribbit!
-	Liberate panels!
+	Bora lá, coaxo!
+	Liberar quadro!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Ribbit!
-	Liberation complete!
+	Coaxo!
+	Liberação concluída!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 2 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Nice ribbit!
-	1 turn liberation!
+	Boa, coaxo!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -41,7 +41,7 @@ script 3 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Aw,Ribbit!
+	Poxa, coaxo!
 	Liberation failed!
 	"""
 	keyWait
@@ -52,7 +52,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -61,7 +61,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -71,9 +71,9 @@ script 6 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Ribbit!
-	TwinLiberation
-	succeeded!
+	Coaxo!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -84,15 +84,15 @@ script 7 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Ribbit!
-	1 turn liberation!
+	Coaxo!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -103,8 +103,8 @@ script 8 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -118,14 +118,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpenQuick
-	"Sing to "
+	"Cantar para "
 	printNavi
 		buffer = 1
 		navi = 0
 	"""
 	?
-	(A:Choose  B:Cancel)
-	(L/R: Select Navi)
+	(A:Confirmar  B:Sair)
+	(L/R: Escolher Navi)
 	"""
 	waitHold
 }
@@ -136,14 +136,14 @@ script 11 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Sing to "
+	"Cantar para "
 	printNavi
 		buffer = 1
 		navi = 0
 	"""
 	?
-	(A:Choose  B:Cancel)
-	(L/R: Select Navi)
+	(A:Confirmar  B:Sair)
+	(L/R: Escolher Navi)
 	"""
 	waitHold
 }
@@ -152,7 +152,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpenQuick
-	"Sing a song to help\n"
+	"Cantar para ajudar\n"
 	printNavi
 		buffer = 1
 		navi = 0
@@ -167,7 +167,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -176,7 +176,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -192,9 +192,9 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,ToadMan!
-	We're using Order
-	Points!
+	OK, ToadMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -203,9 +203,9 @@ script 12 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Ribbit!
-	It's a LifeMelody
-	so don't croak!
+	Coaxo!
+	É a Melodia da Vida.
+	Quero ver vida aí!
 	"""
 	keyWait
 		any = false
@@ -226,8 +226,8 @@ script 55 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	OK to save,
-	ribbit?
+	Vamos salvar,
+	coaxo?
 	
 	"""
 	positionOptionHorizontal
@@ -240,7 +240,7 @@ script 55 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -249,7 +249,7 @@ script 55 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -266,8 +266,8 @@ script 55 mmbn5 {
 		jumpIfTrue = continue
 		jumpIfFalse = 58
 	"""
-	OK to overwrite
-	previous save data?
+	Sobrescrever dados de
+	salvamento anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -280,7 +280,7 @@ script 55 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -289,7 +289,7 @@ script 55 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -307,13 +307,13 @@ script 56 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpenQuick
-	"Save error."
+	"Erro no salvamento."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try saving again,
-	ribbit?
+	Tentar de novo,
+	coaxo?
 	
 	"""
 	positionOptionHorizontal
@@ -326,7 +326,7 @@ script 56 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -335,7 +335,7 @@ script 56 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -352,8 +352,8 @@ script 56 mmbn5 {
 		jumpIfTrue = continue
 		jumpIfFalse = 58
 	"""
-	OK to overwrite
-	previous save data?
+	Sobrescrever dados de
+	salvamento anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -366,7 +366,7 @@ script 56 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -375,7 +375,7 @@ script 56 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -393,14 +393,14 @@ script 57 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpenQuick
-	"Save completed."
+	"Salvamento concluído."
 	keyWait
 		any = false
 	end
 }
 script 58 mmbn5 {
 	mugshotHide
-	"Saving⋯"
+	"Salvando..."
 	wait
 		frames = 20
 	waitHold
@@ -413,8 +413,8 @@ script 60 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Recover HP during
-	this phase?
+	Restaurar PV
+	durante esta fase?
 	
 	"""
 	positionOptionHorizontal
@@ -427,7 +427,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -436,7 +436,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -454,8 +454,8 @@ script 61 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	End phase without
-	doing anything?
+	Encerrar fase
+	sem fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -468,7 +468,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -477,7 +477,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -495,8 +495,7 @@ script 70 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -506,8 +505,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ToadMan got:
-	"Heart"!!
+	ToadMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -519,13 +518,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"ToadMan recovers\n"
+	"ToadMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -535,8 +534,8 @@ script 72 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -546,8 +545,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ToadMan got:
-	"Order Points"!!
+	ToadMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -561,7 +560,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -571,8 +570,7 @@ script 73 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -582,7 +580,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ToadMan got:
+	ToadMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -604,8 +602,8 @@ script 74 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -614,13 +612,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"ToadMan got:\n"
+	"ToadMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -634,8 +632,8 @@ script 75 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -645,8 +643,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ToadMan got a
-	BattleChip for:
+	ToadMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -667,8 +665,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	ToadMan's HP
-	recovered to max!
+	Os PV de ToadMan
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -677,8 +676,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -694,18 +693,18 @@ script 80 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Cr-r-roak!"
+	"C-c-coaxo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"ToadMan received\n"
+	"ToadMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -720,7 +719,7 @@ script 81 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Ribbit!"
+	"Coaxo!"
 	keyWait
 		any = false
 	clearMsg
@@ -731,8 +730,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	ToadMan
-	has been paralyzed!
+	ToadMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -742,14 +741,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Ribbit!"
+	"Coaxo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	ToadMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -759,14 +758,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Ribbit!"
+	"Coaxo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	ToadMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -776,14 +775,14 @@ script 87 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Ribbit!"
+	"Coaxo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	ToadMan
-	became paralyzed!
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -794,17 +793,16 @@ script 90 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Ribbit! I-I can't
-	m-move⋯
+	Coaxo! N-não consigo
+	me mexer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	ToadMan
-	has been
-	frozen!
+	ToadMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -815,8 +813,9 @@ script 91 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -826,7 +825,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -837,7 +836,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -846,7 +845,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -861,8 +860,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -873,8 +872,8 @@ script 105 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Ribbit! We
-	croaked the boss!
+	Coaxo! O chefão foi
+	nadar com os peixinhos!
 	"""
 	keyWait
 		any = false

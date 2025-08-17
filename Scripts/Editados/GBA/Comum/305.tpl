@@ -5,17 +5,17 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Without Dr.Hikari
-	around,maintenance
-	is crucial.
+	Sem o Dr. Hikari aqui,
+	é crucial darmos atenção
+	à manutenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,no system bugs.
-	It's running
-	smoothly.
+	OK, nenhum bug de
+	sistema. Está tudo
+	operando normalmente.
 	"""
 	keyWait
 		any = false

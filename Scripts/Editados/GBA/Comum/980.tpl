@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlizzardMan
 	msgOpen
-	"Whoosh!!!"
+	"Fuuuu!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Never thought you'd
-	get this far!!!
+	Nunca imaginei que vocês
+	chegariam tão longe!!!
 	"""
 	keyWait
 		any = false
@@ -31,18 +31,18 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BlizzardMan
 	msgOpen
-	"Whoosh!!!"
+	"Fuuuuu!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're not gonna
-	ruin our plan!
+	Você não vai arruinar
+	os nossos planos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whoosh!!!"
+	"Fuuuuu!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,18 +65,21 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We gotta defeat
-	BlizzardMan to
-	continue!
+	A gente tem que
+	vencer o BlizzardMan
+	pra poder avançar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +90,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
@@ -99,8 +102,9 @@ script 6 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	I'm gonna freeze ya!
-	Whoosh!!!
+	Prepara pra
+	virar picolé!
+	Fuuuuu!!!
 	"""
 	keyWait
 		any = false

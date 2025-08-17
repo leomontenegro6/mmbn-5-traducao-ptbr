@@ -3,8 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A door bars the way.
-	It won't open.
+	Uma porta barra o
+	caminho.
+	Não dá para abrir.
 	"""
 	keyWait
 		any = false
@@ -13,9 +14,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A sturdy door.
-	Normal attacks will
-	not affect it.
+	Uma porta rígida.
+	Ataques normais não
+	surtem efeito nela.
 	"""
 	keyWait
 		any = false
@@ -24,9 +25,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Complex security
-	prevents this door
-	from opening.
+	Um completo sistema de
+	segurança impede esta
+	porta de abrir.
 	"""
 	keyWait
 		any = false

@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS TREE'S REALLY
-	AN ADVANCED WEATHER
-	OBSERVATION SYSTEM!
+	ESTA ÁRVORE, NA
+	VERDADE, É UM SISTEMA
+	QUE MONITORA O CLIMA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRETTY GOOD
-	CAMOUFLAGE,EH?
+	CAMUFLAGEM INCRÍVEL,
+	NÃO ACHA?
 	"""
 	keyWait
 		any = false
@@ -25,17 +25,17 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT?!
-	MY WEATHER FORECAST
-	WAS WRONG?
+	O QUÊ?!
+	A MINHA PREVISÃO DO
+	TEMPO ESTAVA ERRADA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH,IT'S NICE
-	WEATHER TODAY⋯
-	A-HA-HA-HA⋯
+	AH, ER, CLIMA BOM,
+	O DE HOJE, NÉ...?
+	AH HA HA HA...
 	"""
 	keyWait
 		any = false
@@ -45,7 +45,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"UMMM⋯"
+	"HUUMM..."
 	keyWait
 		any = false
 	clearMsg
@@ -54,8 +54,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I JUST FELT LIKE
-	SAYING THAT.
+	SÓ BATEU UMA VONTADE
+	DE FALAR ISSO.
 	"""
 	keyWait
 		any = false
@@ -72,7 +72,8 @@ script 5 mmbn5 {
 	msgOpen
 	"""
 	ARGH!!!
-	DON'T COME NEAR ME!
+	NÃO CHEGA PERTO DE
+	MIM!
 	"""
 	keyWait
 		any = false
@@ -83,8 +84,9 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T REMEMBER
-	WHAT JUST HAPPENED.
+	EU NÃO CONSIGO ME
+	LEMBRAR DO QUE
+	ACONTECEU.
 	"""
 	keyWait
 		any = false
@@ -100,13 +102,14 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LET THE WIND RAGE
-	AND THUNDER CRASH!
+	QUE O VENTO RUJA,
+	QUE O TROVÃO
+	ARREBENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WAHAHAHAHA!"
+	"GA HA HA HA HA!"
 	keyWait
 		any = false
 	end
@@ -116,9 +119,9 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY HEAD STILL HURTS.
-	FEELS LIKE SOMEONE
-	KNOCKED ME SILLY.
+	A MINHA CABEÇA AINDA
+	DÓI. É COMO SE ALGUÉM
+	TIVESSE ME NOCAUTEADO.
 	"""
 	keyWait
 		any = false
@@ -134,9 +137,9 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IF YOU HAVE TO POINT
-	THE FINGER,BLAME
-	THE WEATHER!!!
+	SE QUER CULPAR
+	ALGUÉM POR ISSO,
+	CULPE O CLIMA!!!
 	"""
 	keyWait
 		any = false
@@ -147,9 +150,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯HUH?
-	WHAT THE HECK
-	WAS I DOING?
+	... UÉ?
+	O QUE É QUE EU
+	ESTAVA FAZENDO?
 	"""
 	keyWait
 		any = false

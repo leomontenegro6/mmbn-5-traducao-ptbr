@@ -8,13 +8,13 @@ script 0 mmbn5 {
 		jumpIfNotAllSet = 8
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -29,13 +29,13 @@ script 1 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -50,13 +50,13 @@ script 2 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -72,13 +72,13 @@ script 3 mmbn5 {
 		jumpIfLess = 11
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -93,13 +93,13 @@ script 4 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -114,13 +114,13 @@ script 5 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -133,13 +133,13 @@ script 6 mmbn5 {
 		jumpIfFalse = 14
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -154,13 +154,13 @@ script 7 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -170,20 +170,20 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat your
-	enemies throughout
-	the Cyberworld.
+	Derrote seus inimigos
+	espalhados pelo
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -192,19 +192,18 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find 3
-	GFrags.
+	Reúna 3 Fragmentos G.
 	"""
 	keyWait
 		any = false
@@ -213,19 +212,18 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find 40
-	MFrags.
+	Reúna 40 Fragmentos M.
 	"""
 	keyWait
 		any = false
@@ -234,20 +232,19 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Drive yourself
-	to the absolute
-	limit.
+	Leve a si mesmo para
+	o limite absoluto.
 	"""
 	keyWait
 		any = false
@@ -256,19 +253,19 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find all
-	SFrags.
+	Reúna todos os
+	Fragmentos S.
 	"""
 	keyWait
 		any = false
@@ -277,20 +274,20 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Carve 30
-	combinations that
-	bear new power.
+	Grave 30 combinações
+	que geram um novo
+	poder.
 	"""
 	keyWait
 		any = false
@@ -299,19 +296,19 @@ script 13 mmbn5 {
 script 14 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find all
-	DarkFrags.
+	Encontre todos os
+	Fragmentos das Trevas.
 	"""
 	keyWait
 		any = false
@@ -320,19 +317,19 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find all
-	MFrags.
+	Reúna todos os
+	Fragmentos M.
 	"""
 	keyWait
 		any = false

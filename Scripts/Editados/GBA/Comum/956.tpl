@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Lan,Lan!!!"
+	"Lan! Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong,Mom!!!"
+	"Que foi, mãe?!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,7 +26,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Your Dad⋯"
+	"O seu pai..."
 	keyWait
 		any = false
 	end
@@ -49,8 +49,8 @@ script 4 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I just saw your Dad
-	behind him⋯
+	Eu vi o seu pai
+	atrás desse homem...
 	"""
 	keyWait
 		any = false
@@ -62,7 +62,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -73,59 +73,60 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"I am Dr.Regal⋯"
+	"Eu sou o Dr. Regal..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ruler of the
-	new world.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You,the people of
-	Electopia,
+	governante
+	do novo mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are the lucky
-	subjects of my
-	grand experiment.
+	Vocês, habitantes de
+	Ni-Hon,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't be alarmed.
-	It won't hurt
-	a bit⋯
+	terão a sorte de serem
+	as cobaias do meu
+	experimento magistral.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rather,you'll feel
-	the joy of being
-	freed from bondage.
+	Não precisam ficar
+	alarmados. Não irá doer
+	nada. Pelo contrário:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your time has come⋯
-	Just do whatever
-	you want⋯
+	vocês sentirão
+	a alegria de se
+	libertarem das amarras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In a few minutes,
-	you shall be free.
+	A sua hora chegou...
+	Façam o que tiverem
+	vontade...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Em uma questão de
+	minutos, vocês estarão
+	livres.
 	"""
 	keyWait
 		any = false
@@ -136,8 +137,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Regal⋯ He's putting
-	his plan in motion!
+	Regal...
+	Ele tá executando
+	o plano da Nebula!
 	"""
 	keyWait
 		any = false
@@ -147,7 +149,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Lan,wait!!!"
+	"Lan, espera!!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -158,14 +160,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sorry,Mom."
+	"Desculpa, mãe."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know it's
-	dangerous but I
-	have to go!
+	Eu sei que é perigoso,
+	mas eu tenho que ir!
 	"""
 	keyWait
 		any = false
@@ -177,20 +178,20 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"⋯Take this Amulet."
+	"... Leve este amuleto."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gramps always kept
-	it with him.
+	O seu avô sempre
+	levava consigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure it will
-	protect you,too.
+	Com certeza ele também
+	vai te proteger.
 	"""
 	keyWait
 		any = false
@@ -202,7 +203,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,Mom!"
+	"... Obrigado, mãe!"
 	keyWait
 		any = false
 	clearMsg
@@ -218,8 +219,8 @@ script 12 mmbn5 {
 		timer = 0
 		value = 9
 	"""
-	Lan got an:
-	"Amulet"!!!
+	Lan recebeu:
+	"Amuleto"!!!
 	"""
 	keyWait
 		any = false
@@ -232,7 +233,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Bye,Mom."
+	"Tchau, mãe."
 	keyWait
 		any = false
 	clearMsg
@@ -243,7 +244,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Be careful."
+	"Vai com cuidado."
 	keyWait
 		any = false
 	clearMsg
@@ -255,15 +256,15 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry,I have
-	Gramps's Amulet now.
+	Relaxa.
+	Eu tô com o amuleto
+	do vovô agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go,
-	MegaMan!!!
+	Bora, MegaMan!!!
 	"""
 	keyWait
 		any = false
@@ -275,7 +276,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!!"
+	"Tá!!!"
 	keyWait
 		any = false
 	end

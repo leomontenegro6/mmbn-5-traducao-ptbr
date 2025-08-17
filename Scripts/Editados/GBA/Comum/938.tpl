@@ -4,13 +4,16 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"Look for the box\n that blocks the\n rocks.\""
+	"""
+	"Uma caixa que
+	detém as rochas
+	marca o local..."
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I wonder if it's
-	here?
+	... Será que é aqui?
 	"""
 	keyWait
 		any = false
@@ -22,7 +25,7 @@ script 1 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -35,7 +38,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 212
-	"Clink⋯"
+	"Clinc..."
 	keyWait
 		any = false
 	clearMsg
@@ -47,8 +50,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Something's
-	happening!
+	Tá acontecendo
+	alguma coisa!
 	"""
 	keyWait
 		any = false
@@ -58,7 +61,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"There it is!"
+	"Olha só!"
 	keyWait
 		any = false
 	end
@@ -68,9 +71,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The door to the
-	VisionBurst of ACDC
-	Town 11 years ago!
+	A porta pra Visão
+	Passada do Bairro ACDC
+	de 11 anos atrás!
 	"""
 	keyWait
 		any = false
@@ -83,9 +86,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Okay,MegaMan,
-	when you're ready,
-	let's go in!
+	... OK, MegaMan.
+	Assim que cê tiver
+	pronto, bora entrar!
 	"""
 	keyWait
 		any = false
@@ -97,7 +100,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	end

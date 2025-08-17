@@ -5,8 +5,7 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Tsk! I've had enough
-	of you!
+	Tsc! Cansei de você!
 	"""
 	keyWait
 		any = false
@@ -18,7 +17,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Get ready⋯"
+	"Prepare-se..."
 	keyWait
 		any = false
 	end
@@ -28,8 +27,8 @@ script 2 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Change of tactics!
-	I'm jacking out!
+	Mudança de planos!
+	Desconectar!
 	"""
 	keyWait
 		any = false
@@ -42,8 +41,9 @@ script 3 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You're lucky! This
-	isn't over!
+	Você deu sorte, por
+	enquanto! Isto aqui
+	ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -54,8 +54,8 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan,I'm jacking
-	out too!
+	ProtoMan, eu vou
+	desconectar também!
 	"""
 	keyWait
 		any = false
@@ -67,7 +67,7 @@ script 5 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*Click!*"
+	"Clic!"
 	keyWait
 		any = false
 	end
@@ -77,8 +77,7 @@ script 6 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Tsk! I've had enough
-	of you!
+	Tsc! Cansei de você!
 	"""
 	keyWait
 		any = false
@@ -90,7 +89,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Get ready⋯"
+	"Prepare-se..."
 	keyWait
 		any = false
 	end
@@ -100,8 +99,8 @@ script 8 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Change of tactics!
-	I'm jacking out!
+	Mudança de planos!
+	Desconectar!
 	"""
 	keyWait
 		any = false
@@ -114,8 +113,9 @@ script 9 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You're lucky! This
-	isn't over!
+	Você deu sorte, por
+	enquanto! Isto aqui
+	ainda não acabou!
 	"""
 	keyWait
 		any = false
@@ -126,8 +126,8 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Colonel,I'm jacking
-	out too!
+	Colonel, eu vou
+	desconectar também!
 	"""
 	keyWait
 		any = false
@@ -139,7 +139,7 @@ script 11 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod!*"
+	"Hm!"
 	keyWait
 		any = false
 	end

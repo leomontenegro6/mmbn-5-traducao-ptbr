@@ -8,8 +8,8 @@ script 0 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Lets you Crossover
-	Battle with Boktai2:
+	Faça uma Luta
+	Cruzada com Boktai 2:
 	Solar Boy Django!
 	"""
 	waitHold
@@ -22,8 +22,8 @@ script 1 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I'll change your
-	name and comment.
+	Eu troco o seu
+	nome e comentário.
 	"""
 	waitHold
 }
@@ -35,8 +35,8 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I'll explain
-	Crossover Battles.
+	Vou explicar as
+	Lutas Cruzadas.
 	"""
 	waitHold
 }
@@ -48,8 +48,8 @@ script 10 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	The other player
-	is registering now.
+	O outro jogador está
+	se registrando agora.
 	"""
 	wait
 		frames = 30
@@ -67,7 +67,7 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Want to battle
+	Lutar contra
 	"
 	"""
 	printLinkBuffer
@@ -83,7 +83,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -92,7 +92,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -113,12 +113,12 @@ script 13 mmbn5 {
 	wait
 		frames = 5
 	"""
-	We'll battle
+	Lutaremos contra
 	"
 	"""
 	printLinkBuffer
 		buffer = 20
-	".\""
+	"\"."
 	waitHold
 }
 script 14 mmbn5 {
@@ -126,8 +126,8 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The other player
-	is registering now.
+	O outro jogador está
+	se registrando agora.
 	"""
 	wait
 		frames = 30
@@ -139,8 +139,8 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	I'm waiting for a
-	connection.
+	Estou aguardando
+	uma conexão.
 	"""
 	keyWait
 		any = false
@@ -152,8 +152,8 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	I declined the
-	request to battle.
+	Eu recusei o
+	pedido de luta.
 	"""
 	keyWait
 		any = false
@@ -165,9 +165,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	The other player
-	declined our
-	request to battle.
+	O outro jogador
+	recusou o nosso
+	pedido de luta.
 	"""
 	keyWait
 		any = false
@@ -179,8 +179,8 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	Failed to format
-	Wireless Adapter.
+	Falha ao formatar o
+	Adaptador Wireless.
 	"""
 	keyWait
 		any = false
@@ -191,8 +191,8 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Enter your
-	name!
+	Insira o
+	seu nome!
 	"""
 	keyWait
 		any = false
@@ -203,8 +203,8 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Enter your
-	comment!
+	Insira seu
+	comentário!
 	"""
 	keyWait
 		any = false
@@ -218,8 +218,8 @@ script 22 mmbn5 {
 	printLinkBuffer
 		buffer = 2
 	"""
-	"
-	okay?
+	".
+	É isso?
 	
 	"""
 	positionOptionHorizontal
@@ -232,7 +232,7 @@ script 22 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -241,7 +241,7 @@ script 22 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -262,8 +262,8 @@ script 23 mmbn5 {
 	printLinkBuffer
 		buffer = 3
 	"""
-	"
-	okay?
+	".
+	É isso?
 	
 	"""
 	positionOptionHorizontal
@@ -276,7 +276,7 @@ script 23 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -285,7 +285,7 @@ script 23 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -303,8 +303,8 @@ script 24 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cancel entry and
-	return to Menu?
+	Abortar processo
+	e voltar ao Menu?
 	
 	"""
 	positionOptionHorizontal
@@ -317,7 +317,7 @@ script 24 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -326,7 +326,7 @@ script 24 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -347,8 +347,8 @@ script 25 mmbn5 {
 		global = 4
 		value = 1
 	"""
-	Go back to
-	edit your name?
+	Voltar para a
+	edição do seu nome?
 	
 	"""
 	positionOptionHorizontal
@@ -361,7 +361,7 @@ script 25 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -370,7 +370,7 @@ script 25 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -390,8 +390,8 @@ script 25 mmbn5 {
 		global = 4
 		value = 2
 	"""
-	Cancel entry and
-	return to Menu?
+	Abortar processo
+	e voltar ao Menu?
 	
 	"""
 	positionOptionHorizontal
@@ -404,7 +404,7 @@ script 25 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -413,7 +413,7 @@ script 25 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -431,8 +431,8 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cancel entry and
-	return to title?
+	Cancelar processo e
+	voltar à tela de título?
 	
 	"""
 	positionOptionHorizontal
@@ -445,7 +445,7 @@ script 26 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -454,7 +454,7 @@ script 26 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -475,8 +475,8 @@ script 27 mmbn5 {
 		global = 4
 		value = 1
 	"""
-	Go back to
-	edit your name?
+	Voltar para a
+	edição do seu nome?
 	
 	"""
 	positionOptionHorizontal
@@ -489,7 +489,7 @@ script 27 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -498,7 +498,7 @@ script 27 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -518,8 +518,8 @@ script 27 mmbn5 {
 		global = 4
 		value = 2
 	"""
-	Cancel entry and
-	return to title?
+	Cancelar processo e
+	voltar à tela de título?
 	
 	"""
 	positionOptionHorizontal
@@ -532,7 +532,7 @@ script 27 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -541,7 +541,7 @@ script 27 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -604,11 +604,11 @@ script 51 mmbn5s {
 	end
 }
 script 52 mmbn5s {
-	"Next"
+	"Próx."
 	end
 }
 script 53 mmbn5s {
-	"Back"
+	"Voltar"
 	end
 }
 script 54 mmbn5s {
@@ -616,7 +616,7 @@ script 54 mmbn5s {
 	end
 }
 script 55 mmbn5s {
-	"End"
+	"Fim"
 	end
 }
 script 56 mmbn5s {
@@ -723,8 +723,8 @@ script 80 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	We won,Lan!
-	Smooth operating!
+	Vencemos, Lan!
+	Mandou bem na operação!
 	"""
 	keyWait
 		any = false
@@ -736,8 +736,8 @@ script 81 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	We won,Lan!
-	Smooth operating!
+	Vencemos, Lan!
+	Mandou bem na operação!
 	"""
 	keyWait
 		any = false
@@ -749,8 +749,8 @@ script 82 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	Sorry,Lan! I'll try
-	harder next time.
+	Desculpa, Lan! Me
+	esforço mais na próxima.
 	"""
 	keyWait
 		any = false
@@ -762,8 +762,8 @@ script 83 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	Sorry,Lan! I'll try
-	harder next time.
+	Desculpa, Lan! Me
+	esforço mais na próxima.
 	"""
 	keyWait
 		any = false
@@ -775,8 +775,8 @@ script 84 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	That was close!
-	We'll win next time!
+	Foi quase! Na próxima,
+	a gente vence!
 	"""
 	keyWait
 		any = false
@@ -788,8 +788,8 @@ script 85 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	Don't give up
-	yet,Lan!
+	Tá cedo pra
+	desistir, Lan!
 	"""
 	keyWait
 		any = false
@@ -801,8 +801,8 @@ script 86 mmbn5 {
 		mugshot = MegaMan
 	msgOpenQuick
 	"""
-	Communication error!
-	Let's try again!
+	Erro de comunicação!
+	Vamos tentar de novo!
 	"""
 	keyWait
 		any = false
@@ -821,7 +821,7 @@ script 90 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" About Crossovers\n"
+	" Sobre L. Cruzadas\n"
 	option
 		brackets = 0
 		left = 1
@@ -830,7 +830,7 @@ script 90 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" About Disturb Icon\n"
+	" Sobre Ícone de Pert.\n"
 	option
 		brackets = 0
 		left = 2
@@ -839,7 +839,7 @@ script 90 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Block and MaxMode"
+	" Bloqueio e ModoMáx"
 	select
 		default = 0
 		BSeparate = true
@@ -866,7 +866,7 @@ script 91 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" About Crossovers\n"
+	" Sobre L. Cruzadas\n"
 	option
 		brackets = 0
 		left = 1
@@ -875,7 +875,7 @@ script 91 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" About Disturb Icon\n"
+	" Sobre Ícone de Pert.\n"
 	option
 		brackets = 0
 		left = 2
@@ -884,7 +884,7 @@ script 91 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Block and MaxMode"
+	" Bloqueio e ModoMáx"
 	select
 		default = 1
 		BSeparate = true
@@ -911,7 +911,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" About Crossovers\n"
+	" Sobre L. Cruzadas\n"
 	option
 		brackets = 0
 		left = 1
@@ -920,7 +920,7 @@ script 92 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" About Disturb Icon\n"
+	" Sobre Ícone de Pert.\n"
 	option
 		brackets = 0
 		left = 2
@@ -929,7 +929,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Block and MaxMode"
+	" Bloqueio e ModoMáx"
 	select
 		default = 2
 		BSeparate = true
@@ -950,25 +950,25 @@ script 93 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	Crossover Battles
-	let you play with
-	a friend who has
+	Na Luta Cruzada,
+	você pode jogar com
+	um amigo que possua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a copy of "Boktai 2:
-	Solar Boy Django."
-	We win if we can
+	o jogo "Boktai 2:
+	Solar Boy Django".
+	Para vencer,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	defeat ShadeMan
-	or knock Django's
-	HP to zero.
+	derrote ShadeMan ou
+	reduza os PV do
+	Django a zero.
 	"""
 	keyWait
 		any = false
@@ -983,77 +983,76 @@ script 94 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	We can use a
-	Disturb Icon
-	to disrupt the other
+	Podemos usar um
+	Ícone de Perturbação
+	para interferir com o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	player's attack.
-	Attack ShadeMan with
-	a BatCan chip to
+	ataque do outro jogador.
+	Ataque o ShadeMan com
+	um chip BatCan para
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	send over a
-	Disturb Icon.
-	There're 4 BatCans.
+	mandar um Ícone.
+	São 4 BatCans.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Each has a different
-	kind of
-	Disturb Icon.
+	Cada um tem um
+	Ícone de Perturbação
+	diferente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCan1 is "
+	"O BatCan1 é "
 	callDisturbIcon
 		color = 2
 	spacePx
 		count = 18
 	"""
 	.
-	It gives Django a
-	Status Abnormality.
+	Causa uma Anomalia de
+	Condição ao Django.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCan2 is "
+	"O BatCan2 é "
 	callDisturbIcon
 		color = 1
 	spacePx
 		count = 18
 	"""
 	.
-	It sends ShadeCrow
-	to the other side.
+	Ele manda ShadeCrow
+	para o outro lado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCan3 is "
+	"O BatCan3 é "
 	callDisturbIcon
 		color = 3
 	spacePx
 		count = 18
 	"""
 	.
-	It recovers
-	ShadeMan's HP!
+	Ele restaura os
+	PV do ShadeMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BatCan4 is "
+	"O BatCan4 é "
 	callDisturbIcon
 		color = 2
 	spacePx
@@ -1068,37 +1067,37 @@ script 94 mmbn5 {
 		count = 18
 	"""
 	.
-	It sends
-	3 Disturb Icons
+	Envia 3 Ícones
+	de Perturbação
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"at the same time!"
+	"ao mesmo tempo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's another
-	way to send a
-	Disturb Icon,too:
+	Há outra forma de
+	mandar um Ícone de
+	Perturbação também:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"a Counter Attack!"
+	"com um Contra-Ataque!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If your chip attack
-	hits just as Shade-
-	Man attacks you,
+	Se o ataque do seu chip
+	atingir assim que o
+	ShadeMan te atacar,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"you can send "
+	"poderá mandar "
 	callDisturbIcon
 		color = 0
 	spacePx
@@ -1108,40 +1107,40 @@ script 94 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	The other side's
-	ShadeMan will
-	launch WingStorm.
+	O ShadeMan do outro
+	lado lançará uma
+	WingStorm.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't forget that
-	the other side will
-	send Disturb Icons
+	Não esqueça de que
+	o outro lado mandará
+	Ícones de Perturbação
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to you!"
+	"para você!"
 	keyWait
 		any = false
 	clearMsg
-	"If you get "
+	"Se você receber "
 	callDisturbIcon
 		color = 1
 	spacePx
 		count = 18
 	"""
 	,
-	you get Mettaur; if
+	aparecerá 1 Mettaur.
 	
 	"""
 	callDisturbIcon
 		color = 2
 	spacePx
 		count = 18
-	",Tuby."
+	", Tuby."
 	keyWait
 		any = false
 	clearMsg
@@ -1150,8 +1149,8 @@ script 94 mmbn5 {
 	spacePx
 		count = 18
 	"""
-	 recovers
-	ShadeMan's HP.
+	 restaura
+	os PV do ShadeMan.
 	
 	"""
 	callDisturbIcon
@@ -1172,55 +1171,54 @@ script 95 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	You can Block,
-	but can use only
-	it once.
+	Você pode Bloquear,
+	mas somente uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select Block
-	instead of OK on the
-	Custom Screen.
+	Selecione "Bloquear"
+	em vez de "OK" na
+	Tela de Customização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will knock away
-	all Disturb Icons
-	sent at you.
+	Irá descartar todos os
+	Ícones de Perturbação
+	mandados para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember,the
-	other player can
-	Block once,too.
+	Lembre-se: o outro
+	jogador também só pode
+	Bloquear uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,if a battle
-	goes on too long,it
-	will enter MaxMode.
+	Ah, e, se uma luta se
+	estender demais, ela
+	entrará no ModoMáx.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Attack strength is
-	doubled so as to
+	A força dos ataques
+	é dobrada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	end the battle
-	more quickly.
+	de forma a encerrar
+	a luta mais rápido.
 	"""
 	keyWait
 		any = false

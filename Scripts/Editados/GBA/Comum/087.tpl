@@ -68,8 +68,8 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go inside and
-	break the barrier!
+	Entra lá e acaba
+	com essa barreira!
 	"""
 	keyWait
 		any = false
@@ -80,9 +80,9 @@ script 31 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're done with
-	that area! Let's
-	move on!
+	Já resolvemos tudo
+	nessa área!
+	Vamos continuar!
 	"""
 	keyWait
 		any = false
@@ -173,9 +173,9 @@ script 45 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is it!
-	Our chance to
-	smash Regal's plan!
+	É isso! A nossa
+	chance de acabar com
+	o plano do Regal!
 	"""
 	keyWait
 		any = false

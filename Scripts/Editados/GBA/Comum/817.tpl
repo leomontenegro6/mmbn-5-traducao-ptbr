@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the control
-	panel for the main
-	system⋯
+	Lan, o painel de
+	controle do sistema
+	central...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"is this way!"
+	"tá nesta direção!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,14 +24,14 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And I think the
-	infiltrator will be
-	there,too!
+	E eu acho que o
+	infiltrado vai tá lá,
+	também!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful,MegaMan!"
+	"Vai com cuidado,\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -42,11 +42,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I will!"
+	"Poxa deixar!"
 	keyWait
 		any = false
 	clearMsg
-	"Here goes nothing!"
+	"Bom, aqui vai!"
 	keyWait
 		any = false
 	end
@@ -55,7 +55,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Nobody home?!"
+	"Não tem ninguém?!"
 	keyWait
 		any = false
 	clearMsg
@@ -67,16 +67,16 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You don't know what
-	kind of enemy you're
-	up against!
+	Não dá pra saber com
+	que tipo de inimigo a
+	gente tá lidando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't let your guard
-	down,MegaMan!
+	Não baixa a guarda,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -99,8 +99,9 @@ script 6 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯Nice work,MegaMan.
-	You,too,Lan.
+	... Bom trabalho,
+	MegaMan.
+	Você também, Lan Hikari.
 	"""
 	keyWait
 		any = false
@@ -111,15 +112,15 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who's that?!
-	Show yourself!!!
+	Quem tá aí?!
+	Aparece!!
 	"""
 	keyWait
 		any = false
 	end
 }
 script 8 mmbn5 {
-	"Y⋯You can't be⋯"
+	"N... Não pode ser..."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -127,7 +128,7 @@ script 8 mmbn5 {
 	end
 }
 script 9 mmbn5 {
-	"⋯What power!!!"
+	"... Quanto poder!!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -139,16 +140,15 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you doing
-	here,ProtoMan?!
+	O que é que você tá
+	fazendo aqui, ProtoMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,you must be here
-	on an Official
-	mission!
+	Ah, cê deve tá aqui
+	numa missão Oficial, né?
 	"""
 	keyWait
 		any = false
@@ -161,15 +161,14 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Unfortunately,you're
-	wrong.
+	Infelizmente, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm here to fight
-	you!
+	Estou aqui...
+	para lutar com você!
 	"""
 	keyWait
 		any = false
@@ -181,7 +180,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ProtoMan,wait!!!"
+	"ProtoMan, espera!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -192,7 +191,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"That I cannot do!"
+	"Não posso!"
 	keyWait
 		any = false
 	clearMsg
@@ -203,7 +202,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who are you?!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
@@ -214,14 +213,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"I am Colonel."
+	"Eu sou Colonel."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,MegaMan,are you
-	as skilled as they
-	say?
+	Então, MegaMan...
+	Você é mesmo tão
+	habilidoso como dizem?
 	"""
 	keyWait
 		any = false
@@ -236,8 +235,8 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	How do you know my
-	name?!
+	Como é que você
+	sabe o meu nome?!
 	"""
 	keyWait
 		any = false
@@ -249,7 +248,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Get ready."
+	"Em guarda."
 	keyWait
 		any = false
 	clearMsg
@@ -260,7 +259,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!"
+	"Lá vem ele, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -271,7 +270,10 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -282,7 +284,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -294,7 +296,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"You're mine!"
+	"Você está acabado!"
 	keyWait
 		any = false
 	end
@@ -303,7 +305,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"I'll delete you!"
+	"Prepare-se para\nser deletado!"
 	keyWait
 		any = false
 	end

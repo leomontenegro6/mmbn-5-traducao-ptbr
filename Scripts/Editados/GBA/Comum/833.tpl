@@ -3,17 +3,17 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	2 hours from ACDC
-	Town,Lan and friends
-	arrived
+	Duas horas após
+	partirem do Bairro ACDC,
+	Lan e seus amigos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at the tiny island
-	of Oran in the
-	Pacific Ocean.
+	chegaram na pequena
+	Ilha Oran, no
+	Oceano Pacífico.
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"We're here!"
+	"Chegamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -35,8 +35,8 @@ script 2 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Wow!
-	Time to go crazy!
+	Legal!
+	Eu vou sair primeiro!
 	"""
 	keyWait
 		any = false
@@ -49,8 +49,8 @@ script 3 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Shoot,Dex! Not just
-	yet!
+	Ai, Dex!
+	Não seja bruto!
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,7 @@ script 4 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Welcome to Oran
-	Isle!
+	Bem-vindos à Ilha Oran!
 	"""
 	keyWait
 		any = false
@@ -72,14 +71,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Wow,it's beautiful!"
+	"Nossa, é linda!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The waters are
-	clear,and the air is
-	crisp!
+	A água é transparente,
+	e o ar é tão puro!
 	"""
 	keyWait
 		any = false
@@ -92,23 +90,21 @@ script 6 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Heh heh,what'd I
-	tell ya?
+	He he. Eu falei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And we're the only
-	ones here⋯
+	E, como somos as
+	únicas pessoas aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,all this bounty
-	is ours for the
-	pickin'!
+	essa fartura toda
+	é toooda nossa!
 	"""
 	keyWait
 		any = false
@@ -119,8 +115,8 @@ script 7 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Look over there! The
-	beach!
+	Olha ali!
+	A praia!
 	"""
 	keyWait
 		any = false
@@ -131,8 +127,8 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yahoo!
-	Let's take a dip!
+	Uhúúú!
+	Bora pra água!
 	"""
 	keyWait
 		any = false
@@ -143,8 +139,8 @@ script 9 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,I bet I can swim
-	faster than you!
+	Aposto que eu nado mais
+	rápido do que você, Lan!
 	"""
 	keyWait
 		any = false
@@ -154,7 +150,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I bet you can't!"
+	"Pois prepara pra\nperder essa aposta!"
 	keyWait
 		any = false
 	clearMsg
@@ -166,9 +162,9 @@ script 11 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	OK! Last one to hit
-	the beach is a
-	rotten egg!
+	Beleza! O último a
+	chegar na praia é
+	a mulher do padre!
 	"""
 	keyWait
 		any = false
@@ -179,8 +175,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey!
-	No fair,Dex!
+	Aí!
+	Isso aí é trapaça, Dex!
 	"""
 	keyWait
 		any = false
@@ -190,7 +186,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mayl,Yai,let's go!"
+	"Mayl! Yai! Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -202,30 +198,28 @@ script 14 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	My! Boys never stop
-	goofing off,do they?
+	Ai! Meninos nunca
+	param de bobeira, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You go ahead by
-	yourself!
+	Podem ir na frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll catch up to
-	you after we change
-	on the ship.
+	A gente já vai, depois
+	que a gente se trocar
+	no navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,go have your
-	silly race!
+	Não vai espiar, hein!
 	"""
 	keyWait
 		any = false
@@ -238,8 +232,7 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's nothing
-	silly about it!
+	Q-que papo é esse?!
 	"""
 	keyWait
 		any = false
@@ -252,9 +245,8 @@ script 16 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Sure,sure! Better
-	run along! Dex is
-	waiting!
+	Vai, corre logo!
+	O Dex tá te esperando!
 	"""
 	keyWait
 		any = false
@@ -265,8 +257,8 @@ script 17 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Mayl,let's go inside
-	the ship.
+	Vem, Mayl, vamos trocar
+	de roupa no navio.
 	"""
 	keyWait
 		any = false
@@ -278,7 +270,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -288,16 +280,15 @@ script 19 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Lan,what're you
-	standing there for?
+	Lan, tá parado
+	aí por quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't stand to part
-	from us beautiful
-	ladies?
+	... Pera, você queria
+	MESMO espiar a gente?
 	"""
 	keyWait
 		any = false
@@ -307,17 +298,16 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
-	"Are you kidding!"
+	"Não fala besteira!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See you guys later,
-	then!
+	Tá bom, eu vou lá!
 	"""
 	keyWait
 		any = false
@@ -329,7 +319,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Tee hee hee!"
+	"Hi hi hi!"
 	keyWait
 		any = false
 	end
@@ -338,7 +328,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Let's go,Mayl."
+	"Vamos, Mayl."
 	keyWait
 		any = false
 	end

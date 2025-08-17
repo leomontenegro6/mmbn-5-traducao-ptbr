@@ -8,30 +8,28 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Let's begin a
-	"liberation
-	mission"!
+	Agora, vamos iniciar uma
+	"missão de liberação"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This area is
-	controlled by
-	BlizzardMan.
+	Esta área é controlada
+	por BlizzardMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeating him
-	will free the
-	area but⋯
+	Se o derrotarmos,
+	libertaremos a área.
+	Porém...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"take a look!"
+	"Observe!"
 	keyWait
 		any = false
 	end
@@ -44,17 +42,17 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	That's a DarkPanel.
-	It's tainted by
-	DarkPower.
+	Esse é um Quadro Negro.
+	Ele é manchado com o
+	Poder das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must "liberate"
-	those panels to get
-	to BlizzardMan.
+	É preciso "liberar"
+	esses quadros para
+	chegar ao BlizzardMan.
 	"""
 	keyWait
 		any = false
@@ -66,7 +64,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"Liberate\"?"
+	"\"Liberar\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -78,25 +76,25 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Stand by a panel
-	and press A Button.
-	Select the command
+	Fique em frente a um
+	quadro e aperte "A".
+	Selecione o comando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Liberation." A
-	virus will pop out
-	from under the panel.
+	"Liberação." Vírus,
+	então, irão sair do
+	quadro e atacar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Deleting these
-	viruses is called
-	"liberation."
+	Deletar esses vírus
+	é o que chamamos de
+	"liberação".
 	"""
 	keyWait
 		any = false
@@ -109,9 +107,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So I've got to
-	delete viruses as
-	I move ahead.
+	Então, eu tenho que
+	deletar vírus pra
+	poder avançar.
 	"""
 	keyWait
 		any = false
@@ -124,62 +122,63 @@ script 5 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Each Navi also has
-	its own unique
-	Liberate command.
+	Cada Navi também possui
+	seu próprio comando
+	especial de Liberação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WideSwrd for me.
-	LongSwrd for you.
+	Espada Larga para mim.
+	Espada Longa para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These let you
-	liberate a big
-	area all at once.
+	Com eles, você poderá
+	liberar uma área maior
+	de uma só vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a look at
-	a gauge at the
-	upper right.
+	Observe o medidor no
+	canto superior-direito
+	da tela aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those are "Order
-	Points." You use
+	Esses são os
+	"Pontos de Comando".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	1 pt every time
-	you use your
-	special command.
+	Você gasta 1 ponto
+	sempre que usa seu
+	comando especial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some DarkPanels
-	contain Order Pts
-	so you'll be able
+	Alguns Quadros Negros
+	escondem Pontos de
+	Comando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to replenish them
-	along the way.
+	então, você poderá
+	restaurá-los no
+	decorrer da missão.
 	"""
 	keyWait
 		any = false
@@ -193,9 +192,8 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll go and give
-	this liberation
-	thing a try.
+	Tá, eu vou tentar esse
+	negócio de liberação.
 	"""
 	keyWait
 		any = false
@@ -208,16 +206,16 @@ script 15 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	All right.
-	Good luck.
+	Certo.
+	Boa sorte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,you're the
-	operator so stay
-	sharp!
+	Hikari, como
+	operador, você
+	precisa ficar atento!
 	"""
 	keyWait
 		any = false
@@ -229,7 +227,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Leave it to me!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -241,46 +239,45 @@ script 17 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Press R Button if
-	you want to operate
-	a different Navi.
+	Aperte "R" caso queira
+	operar um outro Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Except for MegaMan,
-	each Navi lets you
+	Fora o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use their special
-	chip just once on
+	cada Navi lhe permite
+	usar o chip especial
+	dele ou dela só uma vez
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Custom Screen.
-	My special chip
-	is "StepSwrd."
+	na Tela de Customização.
+	O meu chip especial
+	é o "StepSwrd."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press L Button to
-	check the area map.
+	Aperte "L" para conferir
+	o mapa da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press START
-	if you want to
-	cancel the mission.
+	Aperte "START"
+	caso queira
+	cancelar a missão.
 	"""
 	keyWait
 		any = false
@@ -292,7 +289,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -304,8 +301,7 @@ script 19 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	One more
-	thing.
+	E mais uma coisa.
 	"""
 	keyWait
 		any = false
@@ -317,7 +313,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes?"
+	"Sim?"
 	keyWait
 		any = false
 	end
@@ -330,9 +326,9 @@ script 21 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Don't liberate
-	if you're in a
-	situation like this.
+	É melhor não liberar
+	se você estiver em
+	uma situação assim.
 	"""
 	keyWait
 		any = false
@@ -346,8 +342,8 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why? What's
-	the difference?
+	Por que não?
+	Qual que é a diferença?
 	"""
 	keyWait
 		any = false
@@ -360,24 +356,23 @@ script 23 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The more DarkPanels
-	surrounding a
-	Navi,the harder
+	Quanto mais Quadros
+	Negros cercam o Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the battle becomes.
-	Get it?
+	mais difícil a batalha
+	se torna. Entende?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I recommend starting
-	this battle from
-	the lower right.
+	Recomendo iniciar
+	essa luta deste ponto
+	inferior-direito.
 	"""
 	keyWait
 		any = false
@@ -390,13 +385,13 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha.
-	Understood!
+	Ah, saquei.
+	Certo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready,MegaMan?"
+	"Pronto, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -407,7 +402,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You got it!"
+	"Com toda a certeza!"
 	keyWait
 		any = false
 	clearMsg
@@ -419,29 +414,28 @@ script 26 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Your mission is
-	to liberate within
-	7 phases.
+	A sua meta é liberar
+	a área dentro de
+	sete fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you manage
-	to pull it off,
+	Caso consiga,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an Official will
-	give you a rare
-	chip as a reward.
+	um Oficial lhe dará
+	um chip bem raro
+	como recompensa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -451,30 +445,28 @@ script 30 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Let's begin a
-	"liberation
-	mission"!
+	Agora, vamos iniciar uma
+	"missão de liberação"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This area is
-	controlled by
-	BlizzardMan.
+	Esta área é controlada
+	por BlizzardMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeating him
-	will free the
-	area but⋯
+	Se o derrotarmos,
+	libertaremos a área.
+	Porém...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"take a look!"
+	"Observe!"
 	keyWait
 		any = false
 	end
@@ -484,17 +476,17 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	That's a DarkPanel.
-	It's tainted by
-	DarkPower.
+	Esse é um Quadro Negro.
+	Ele é manchado com o
+	Poder das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must "liberate"
-	those panels to get
-	to BlizzardMan.
+	É preciso "liberar"
+	esses quadros para
+	chegar ao BlizzardMan.
 	"""
 	keyWait
 		any = false
@@ -506,7 +498,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"Liberate\"?"
+	"\"Liberar\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -518,25 +510,25 @@ script 33 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Stand by a panel
-	and press A Button.
-	Select the command
+	Fique em frente a um
+	quadro e aperte "A".
+	Selecione o comando
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Liberation." A
-	virus will pop out
-	from under the panel.
+	"Liberação." Vírus,
+	então, irão sair do
+	quadro e atacar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Deleting these
-	viruses is called
-	"liberation."
+	Deletar esses vírus
+	é o que chamamos de
+	"liberação".
 	"""
 	keyWait
 		any = false
@@ -549,9 +541,9 @@ script 34 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So I've got to
-	delete viruses as
-	I move ahead.
+	Então, eu tenho que
+	deletar vírus pra
+	poder avançar.
 	"""
 	keyWait
 		any = false
@@ -564,62 +556,64 @@ script 35 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Each Navi also has
-	its own unique
-	Liberate command.
+	Cada Navi também possui
+	seu próprio comando
+	especial de Liberação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ScrenDiv for me.
-	LongSwrd for you.
+	O meu é a Investida
+	Visor.
+	O seu é a Espada Longa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These let you
-	liberate a big
-	area all at once.
+	Com eles, você poderá
+	liberar uma área maior
+	de uma só vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a look at
-	a gauge at the
-	upper right.
+	Observe o medidor no
+	canto superior-direito
+	da tela aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those are "Order
-	Points." You use
+	Esses são os
+	"Pontos de Comando".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	1 pt every time
-	you use your
-	special command.
+	Você gasta 1 ponto
+	sempre que usa seu
+	comando especial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some DarkPanels
-	contain Order Pts
-	so you'll be able
+	Alguns Quadros Negros
+	escondem Pontos de
+	Comando,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to replenish them
-	along the way.
+	então, você poderá
+	restaurá-los no
+	decorrer da missão.
 	"""
 	keyWait
 		any = false
@@ -630,9 +624,8 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll go and give
-	this liberation
-	thing a try.
+	Tá, eu vou tentar esse
+	negócio de liberação.
 	"""
 	keyWait
 		any = false
@@ -645,16 +638,16 @@ script 45 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	All right.
-	Good luck.
+	Certo.
+	Boa sorte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,you're the
-	operator so stay
-	sharp!
+	Lan Hikari, como
+	operador, você
+	precisa ficar atento!
 	"""
 	keyWait
 		any = false
@@ -666,7 +659,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Leave it to me!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -678,46 +671,45 @@ script 47 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Press R Button if
-	you want to operate
-	a different Navi.
+	Aperte "R" caso queira
+	operar um outro Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Except for MegaMan,
-	each Navi lets you
+	Fora o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use their special
-	chip just once on
+	cada Navi lhe permite
+	usar o chip especial
+	dele ou dela só uma vez
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the Custom Screen.
-	My special chip
-	is "C-Cannon."
+	na Tela de Customização.
+	O meu chip especial é o
+	"C-Cannon".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press L Button to
-	check the area map.
+	Aperte "L" para conferir
+	o mapa da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press START
-	if you want to
-	cancel the mission.
+	Aperte "START"
+	caso queira
+	cancelar a missão.
 	"""
 	keyWait
 		any = false
@@ -729,7 +721,7 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -741,8 +733,7 @@ script 49 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	One more
-	thing.
+	E mais uma coisa.
 	"""
 	keyWait
 		any = false
@@ -754,7 +745,7 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes?"
+	"Sim?"
 	keyWait
 		any = false
 	end
@@ -764,9 +755,9 @@ script 51 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Don't liberate
-	if you're in a
-	situation like this.
+	É melhor não liberar
+	se você estiver em
+	uma situação assim.
 	"""
 	keyWait
 		any = false
@@ -777,8 +768,8 @@ script 52 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why? What's
-	the difference?
+	Por que não?
+	Qual que é a diferença?
 	"""
 	keyWait
 		any = false
@@ -791,24 +782,23 @@ script 53 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The more DarkPanels
-	surrounding a
-	Navi,the harder
+	Quanto mais Quadros
+	Negros cercam o Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the battle becomes.
-	Get it?
+	mais difícil a batalha
+	se torna. Entende?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I recommend starting
-	this battle from
-	the lower right.
+	Recomendo iniciar
+	essa luta deste ponto
+	inferior-direito.
 	"""
 	keyWait
 		any = false
@@ -821,13 +811,13 @@ script 54 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha.
-	Understood!
+	Ah, saquei.
+	Certo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready,MegaMan?"
+	"Pronto, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -838,7 +828,7 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You got it!"
+	"Com toda a certeza!"
 	keyWait
 		any = false
 	clearMsg
@@ -850,29 +840,28 @@ script 56 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Your mission is
-	to liberate within
-	7 phases.
+	A sua meta é liberar
+	a área dentro de
+	sete fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you manage
-	to pull it off,
+	Caso consiga,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	an Official will
-	give you a rare
-	chip as a reward.
+	um Oficial lhe dará
+	um chip bem raro
+	como recompensa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

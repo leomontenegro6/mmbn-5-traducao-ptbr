@@ -9,8 +9,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Did a helicopter
-	Navi come here?
+	Por acaso um
+	Navi helicóptero
+	passou por aqui?
 	"""
 	keyWait
 		any = false
@@ -23,24 +24,23 @@ script 1 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Yes.
-	He made it all the
-	way here.
+	Passou.
+	Simplesmente apareceu
+	aqui de repente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then he slipped away
-	in a flash.
+	e, depois, desapareceu
+	em um piscar de olhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I take it he paid
-	you a visit as well,
-	then.
+	Suponho que ele também
+	tenha visitado vocês.
 	"""
 	keyWait
 		any = false
@@ -53,16 +53,16 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,he got through
-	the security of this
-	place?
+	Caramba...
+	Ele conseguiu passar
+	pela segurança daqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know who
-	they are?
+	Enfim, você sabe
+	quem eles são?
 	"""
 	keyWait
 		any = false
@@ -75,40 +75,40 @@ script 3 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The operator is
-	Charlie,an ex-ace
-	copter pilot⋯
+	O operador é Charlie
+	Airstar, ex-piloto
+	prodígio de helicópteros
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	who once belonged to
-	the Netopia team,the
-	Red Thunders.
+	que já pertenceu a uma
+	equipe ameropana, os
+	Trovões Vermelhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's now a freelance
-	pilot who drifts
-	between countries.
+	Agora, ele é um piloto
+	freelancer que viaja
+	de país em país.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His Navi,GyroMan,is
-	one of the best in
-	Netopia
+	Seu Navi, GyroMan.EXE,
+	é um dos melhores da
+	Ameropa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when it comes to
-	speed and agility.
+	quando o assunto é
+	velocidade e agilidade.
 	"""
 	keyWait
 		any = false
@@ -120,13 +120,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A helicopter pilot?"
+	"Um piloto de helicóptero?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What reason would he
-	have to bother us?
+	E por que raios ele
+	resolveu vir encher
+	a nossa paciência?
 	"""
 	keyWait
 		any = false
@@ -139,23 +140,23 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Only he would know
-	the answer to that.
+	Isso, só ele saberia
+	responder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is all that we
-	know at this time.
+	No momento, isso é
+	tudo o que eu sei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without more data,
-	we'll just have to
-	stay alert.
+	Sem mais dados,
+	só podemos continuar
+	alertas.
 	"""
 	keyWait
 		any = false
@@ -167,7 +168,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'll be careful."
+	"Beleza, eu vou\ntomar cuidado."
 	keyWait
 		any = false
 	clearMsg
@@ -200,15 +201,15 @@ script 7 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is ObservRm 7.
-	Chaud,do you read?
+	Aqui é da Sala
+	de Observação 7.
+	Chaud, está na escuta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula is on the
-	move!
+	A Nebula está agindo!
 	"""
 	keyWait
 		any = false
@@ -216,9 +217,9 @@ script 7 mmbn5 {
 	soundPlayBGM
 		track = 12
 	"""
-	SciLab Area net
-	corruption will be
-	upon Oran Area!
+	A corrupção de rede da
+	Área SciLab irá cair
+	sobre a Área Oran!
 	"""
 	keyWait
 		any = false
@@ -230,44 +231,43 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Understood."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,head for the
-	Net.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Nebula is
-	contaminating the
-	Net.
+	Lan, siga para a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Oran Area net
-	has likely taken a
-	big hit.
+	Ao que parece, a Nebula
+	está contaminando ela
+	neste exato momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have trouble
-	jacking in from Oran
-	Isle.
+	A Área Oran
+	provavelmente foi
+	fortemente afetada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take the route from
-	ACDC Area.
+	Acho que não vai ser
+	possível chegar lá
+	acessando da Ilha Oran.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pegue a rota
+	da Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -280,8 +280,8 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha! We're right
-	on it!
+	Beleza!
+	Pode deixar com a gente!
 	"""
 	keyWait
 		any = false
@@ -294,8 +294,8 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Do not underestimate
-	your foe.
+	E não subestime
+	o adversário.
 	"""
 	keyWait
 		any = false
@@ -311,7 +311,7 @@ script 11 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod*"
+	"Uhum!"
 	keyWait
 		any = false
 	end
@@ -325,8 +325,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Did a ninja Navi
-	come here?
+	Um Navi ninja
+	passou por aqui?
 	"""
 	keyWait
 		any = false
@@ -339,17 +339,16 @@ script 13 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	You mean ShadowMan?
-	Yes,he did. He has
-	quite the nerve.
+	O ShadowMan?
+	Passou, sim.
+	Tanta ousadia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I take it he paid
-	you a visit as well,
-	then.
+	Suponho que ele também
+	tenha visitado vocês.
 	"""
 	keyWait
 		any = false
@@ -362,16 +361,17 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,he got through
-	the security of this
-	place?
+	Caramba...
+	Ele conseguiu passar
+	pela segurança daqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know who
-	they are?
+	Enfim, você sabe
+	quem são ele e o
+	operador dele?
 	"""
 	keyWait
 		any = false
@@ -383,30 +383,29 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"His name is Dusk."
+	"O nome do operador\né Dark Miyabi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He travels the
-	world,deleting Navis
-	for a fee.
+	Ele viaja mundo afora,
+	deletando Navis...
+	pelo preço certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He's an assassin."
+	"É um assassino\nde aluguel."
 	keyWait
 		any = false
 	clearMsg
-	"His Navi,ShadowMan,"
+	"O Navi dele,\nShadowMan.EXE,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is one of the
-	fastest,most agile
-	Navis in the world.
+	é um dos Navis mais
+	rápidos e ágeis do mundo.
 	"""
 	keyWait
 		any = false
@@ -418,13 +417,14 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"An assassin⋯"
+	"Assassino de aluguel..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What reason would he
-	have to bother us?
+	Mas que motivo ele
+	teria pra encher a
+	nossa paciência?
 	"""
 	keyWait
 		any = false
@@ -437,23 +437,23 @@ script 17 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Only he would know
-	the answer to that.
+	Isso, acho que só ele
+	saberia responder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is all that we
-	know at this time.
+	No momento, isso é
+	tudo o que eu sei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without more data,
-	we'll just have to
-	stay alert.
+	Sem mais dados,
+	só podemos continuar
+	alertas.
 	"""
 	keyWait
 		any = false
@@ -465,7 +465,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Rest assured!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -498,15 +498,15 @@ script 19 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This is ObservRm 7.
-	Baryl,do you read?
+	Aqui é da Sala
+	de Observação 7.
+	Baryl, está na escuta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula is on the
-	move!
+	A Nebula está agindo!
 	"""
 	keyWait
 		any = false
@@ -514,9 +514,9 @@ script 19 mmbn5 {
 	soundPlayBGM
 		track = 12
 	"""
-	SciLab Area net
-	corruption will be
-	upon Oran Area!
+	A corrupção de rede da
+	Área SciLab irá cair
+	sobre a Área Oran!
 	"""
 	keyWait
 		any = false
@@ -528,44 +528,43 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Understood."
+	"Certo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,head for the
-	Net.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Nebula is
-	contaminating the
-	Net.
+	Lan, siga para a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Oran Area net
-	has likely taken a
-	big hit.
+	Ao que parece, a Nebula
+	a está contaminando
+	neste exato momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have trouble
-	jacking in from Oran
-	Isle.
+	A Área Oran
+	provavelmente foi
+	fortemente afetada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take the route from
-	ACDC Area.
+	Acho que não vai ser
+	possível chegar lá
+	acessando da Ilha Oran.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pegue a rota
+	da Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -577,7 +576,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Roger!"
+	"... OK!"
 	keyWait
 		any = false
 	clearMsg
@@ -589,8 +588,8 @@ script 22 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Do not underestimate
-	your foe.
+	E não subestime
+	seu adversário.
 	"""
 	keyWait
 		any = false
@@ -604,7 +603,7 @@ script 23 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod*"
+	"Uhum!"
 	keyWait
 		any = false
 	end

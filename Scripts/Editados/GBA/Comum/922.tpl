@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You've got some
-	talent! I want you
-	to have this!
+	Você tem talento, até!
+	Eu quero que fique com
+	isto!
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,8 @@ script 1 mmbn5 {
 		timer = 0
 		value = 1
 	"""
-	MegaMan got:
-	"HelmData"!!!
+	MegaMan adquiriu:
+	"Dados do Elmo"!!!
 	"""
 	keyWait
 		any = false
@@ -39,8 +39,8 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Remember,stay
-	calm and focused.
+	Lembre-se: mantenha a
+	calma e a concentração.
 	"""
 	keyWait
 		any = false

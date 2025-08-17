@@ -6,12 +6,12 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	Dex!
-	Hold up,willya⋯
+	Pera aí, vai...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Whoa!"
+	"... Aaahh!"
 	keyWait
 		any = false
 	end
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Incredible,ain't it?"
+	"Incrível, né?"
 	keyWait
 		any = false
 	clearMsg
@@ -32,9 +32,8 @@ script 2 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Is this the OldMine
-	Yai was talking
-	about?
+	É essa a Velha Mina de
+	que a Yai tava falando?
 	"""
 	keyWait
 		any = false
@@ -46,22 +45,22 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"It sure is!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once an active
-	OldMine,now it's
-	entirely abandoned.
+	Outrora uma mina ativa,
+	agora tá completamente
+	inabitada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The tunnels dug long
-	ago form a vast
-	maze.
+	Os túneis escavados
+	há tanto tempo formam
+	um enorme labirinto.
 	"""
 	keyWait
 		any = false
@@ -71,14 +70,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"I know!"
+	"Já sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This'll be the Dex
-	Expedition Team's
-	next conquest!
+	Esta vai ser a próxima
+	conquista da Equipe
+	de Expedição do Dex!
 	"""
 	keyWait
 		any = false
@@ -90,7 +89,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Yipee!"
+	"Uuuhúúú!"
 	keyWait
 		any = false
 	clearMsg
@@ -101,7 +100,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Yay!"
+	"Êêêê!"
 	keyWait
 		any = false
 	clearMsg
@@ -113,16 +112,17 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't remember
-	joining any Dex
-	Expedition Team⋯
+	Eu que não entrei pra
+	nenhuma "Equipe de
+	Expedição do Dex"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it sounds like
-	fun⋯Yahoo!!!
+	... mas parece
+	divertido, então...
+	Ééééé!!!
 	"""
 	keyWait
 		any = false
@@ -135,17 +135,16 @@ script 8 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Alright,everybody,
-	be ready for
-	anything!
+	Beleza, povo.
+	Se preparem pra tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next stop,the deep
-	dark reaches of the
-	cavernous maze!
+	Partiu profundezas
+	sombrias do labirinto
+	cavernoso!
 	"""
 	keyWait
 		any = false
@@ -156,7 +155,7 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Yaaaay!!!"
+	"Ééééé!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -168,8 +167,8 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Fellow explorers,
-	onward march!
+	Colegas exploradores,
+	avante!
 	"""
 	keyWait
 		any = false
@@ -181,7 +180,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"⋯Huh?"
+	"... Ué?"
 	keyWait
 		any = false
 	end
@@ -190,7 +189,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yikes!"
+	"Aahh!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -201,7 +200,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK?!"
+	"Dex! Meninas!\nVocês tão bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +211,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Hellooooo!!!"
+	"Eeeeeeeiii!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -227,7 +226,7 @@ script 15 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Is everybody OK?"
+	"Tá todo mundo bem aí?"
 	keyWait
 		any = false
 	clearMsg
@@ -238,21 +237,20 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Yeah,we're fine!"
+	"É, a gente tá bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This hole is
-	connected to the
-	OldMine.
+	Esse buraco tá ligado
+	à Velha Mina.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll look for an
-	exit!
+	A gente vai procurar
+	por uma saída!
 	"""
 	keyWait
 		any = false
@@ -265,23 +263,22 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! I'll come
-	looking for you!
+	Tá! Eu vou aí
+	encontrar vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll need to stay
-	in contact with each
-	other!
+	É bom a gente
+	manter contato.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is your SubPET
-	working?
+	O seu SubPET
+	tá funcionando?
 	"""
 	keyWait
 		any = false
@@ -293,18 +290,18 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"It's working!"
+	"Tá, sim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll contact you if
-	anything happens!
+	Eu te ligo caso
+	role alguma coisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See ya soon!"
+	"Até já!"
 	keyWait
 		any = false
 	clearMsg
@@ -315,7 +312,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Be careful!"
+	"Tomem cuidado!"
 	keyWait
 		any = false
 	clearMsg
@@ -327,9 +324,8 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,then you're
-	going into the
-	OldMine?
+	Lan, você vai entrar
+	na Velha Mina?
 	"""
 	keyWait
 		any = false
@@ -339,7 +335,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure am,MegaMan!"
+	"Claro que eu vou,\nMegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -350,7 +346,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK! Be careful!"
+	"Beleza! Vai com cuidado!"
 	keyWait
 		any = false
 	end

@@ -3,42 +3,45 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A statue of some
-	general of long
-	ago.
+	A estátua de um
+	general de muito
+	tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He has a very
-	valiant look.
+	Tem uma aparência
+	muito galante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A security camera
-	has been installed
-	because of vandals.
+	Uma câmera de segurança
+	foi instalada devido a
+	vândalos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in."
+	"""
+	Dá para se conectar
+	nela.
+	"""
 	keyWait
 		any = false
 	end
 }
 script 1 mmbn5 {
 	msgOpen
-	"Replica Katanas."
+	"Réplicas de katanas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are the main
-	souvenirs from here.
+	São o principal
+	souvenir daqui.
 	"""
 	keyWait
 		any = false
@@ -47,9 +50,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Castle figures and
-	souvenir T-shirts
-	are available here.
+	Há miniaturas do
+	castelo e camisas
+	à venda aqui.
 	"""
 	keyWait
 		any = false
@@ -58,9 +61,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	End region cookies
-	are famous for their
-	raisins.
+	Doces da região Endo
+	são famosos por suas
+	ameixas.
 	"""
 	keyWait
 		any = false
@@ -69,24 +72,25 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	This shop cooks
-	dumplings right
-	before your eyes.
+	Esta loja assa
+	bolinhos bem diante
+	dos seus olhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The delicious
-	smell draws you
-	closer for a look.
+	O aroma delicioso atrai
+	Lan para conferir mais
+	de perto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The dumpling cooker
-	has a jack in port.
+	A assadeira de
+	bolinhos possui uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
@@ -95,16 +99,15 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The bench outside
-	the dumpling store
+	O banco fora da
+	loja de bolinhos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	looks like something
-	from a long gone
-	age.
+	parece até que veio
+	de séculos atrás.
 	"""
 	keyWait
 		any = false
@@ -113,9 +116,9 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	The pine tree is
-	a perfect accent
-	for the castle.
+	O pinheiro é um
+	complemento perfeito
+	para o castelo.
 	"""
 	keyWait
 		any = false
@@ -123,15 +126,15 @@ script 6 mmbn5 {
 }
 script 7 mmbn5 {
 	msgOpen
-	"\"Gargoyle Castle\n was built some\n 300 years ago.\""
+	"\"O Castelo Shachi foi\nconstruído há cerca\nde 300 anos.\""
 	keyWait
 		any = false
 	clearMsg
-	"\"The Gargoyles on\n the Castle Keep are\n for protecting"
+	"\"Os Shachi, os peixes-\ndragão, no telhado do\ncastelo servem para"
 	keyWait
 		any = false
 	clearMsg
-	" against fire.\""
+	"proteger contra incêndios.\""
 	keyWait
 		any = false
 	end
@@ -143,15 +146,17 @@ script 8 mmbn5 {
 		jumpIfFalse = 10
 	msgOpen
 	"""
-	Pamphlets are laid
-	out at the entrance.
+	Panfletos são
+	disponibilizados
+	na entrada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The cover features
-	Gargoyles.
+	A capa mostra os
+	famosos peixes-dragão
+	"Shachi".
 	"""
 	keyWait
 		any = false
@@ -160,9 +165,9 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	The pine tree is
-	a perfect accent
-	for the castle.
+	O pinheiro é um
+	complemento perfeito
+	para o castelo.
 	"""
 	keyWait
 		any = false
@@ -178,28 +183,30 @@ script 10 mmbn5 {
 		flag = 546
 	msgOpen
 	"""
-	Pamphlets are laid
-	out at the entrance.
+	Panfletos são
+	disponibilizados
+	na entrada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
-	"Wait!!!"
+	"Espere!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	shiny underneath⋯
+	Tem alguma coisa
+	brilhante debaixo
+	deles...
 	"""
 	keyWait
 		any = false
@@ -211,8 +218,8 @@ script 10 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -225,8 +232,8 @@ script 10 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Now Lan can carry
-	more SubChips!!!
+	Agora Lan pode portar
+	mais SubChips!!
 	"""
 	keyWait
 		any = false
@@ -235,15 +242,17 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	Pamphlets are laid
-	out at the entrance.
+	Panfletos são
+	disponibilizados
+	na entrada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The cover features
-	Gargoyles.
+	A capa mostra os
+	famosos peixes-dragão
+	"Shachi".
 	"""
 	keyWait
 		any = false

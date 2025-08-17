@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,yeah!!!"
+	"Beleza!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,more coming!"
+	"Lan, aí vem mais!"
 	keyWait
 		any = false
 	end

@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,guys,here it is."
+	"Beleza, gente, tá aqui."
 	keyWait
 		any = false
 	clearMsg
@@ -16,15 +16,14 @@ script 1 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Wow! Not bad,not
-	bad!
+	Olha!
+	Nada mal, nada mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let's cook up
-	some fish!
+	Agora bora assar peixes!
 	"""
 	keyWait
 		any = false
@@ -35,21 +34,21 @@ script 2 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	*phew!* That was
-	delicious!
+	Uff!
+	Nossa, tava uma delícia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Food is twice as
-	good when you work
-	for it!
+	A comida fica duplamente
+	gostosa quando você se
+	esforça pra conseguir.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,guys?"
+	"Né, gente?!"
 	keyWait
 		any = false
 	clearMsg
@@ -61,16 +60,16 @@ script 3 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	It was great,even
-	without seasoning!
+	Tava muito gostoso,
+	mesmo sem tempero!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess you can't go
-	wrong when the fish
-	is this fresh!
+	Acho que não tinha como
+	dar ruim, com um peixe
+	fresco destes!
 	"""
 	keyWait
 		any = false
@@ -83,17 +82,17 @@ script 4 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Most of my meals are
-	cooked by world-
-	class chefs.
+	A minha comida é sempre
+	preparada por chefs
+	mundialmente renomados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never knew such
-	primitive food could
-	taste so great!
+	Nunca imaginei que
+	comida primitiva assim
+	podia ser tão boa!
 	"""
 	keyWait
 		any = false
@@ -106,9 +105,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dang! I sure wish
-	I'd caught that
-	fish⋯
+	Poxa! Eu queria
+	tanto ter pegado
+	aquele peixe...
 	"""
 	keyWait
 		any = false
@@ -121,24 +120,23 @@ script 6 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Well,know that our
-	stomachs are full,
+	Bom, agora que a gente
+	tá de bucho cheio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's time for an
-	island trek! And
-	guess what?
+	hora de explorar a
+	ilha! E adivinha só?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I found a path that
-	leads into the
-	forest!
+	Eu achei uma estrada
+	que leva pra mais
+	fundo na floresta!
 	"""
 	keyWait
 		any = false
@@ -151,9 +149,9 @@ script 7 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Really?
-	I must say,that's
-	intriguing!
+	Jura?
+	Preciso admitir que
+	isso é bem intrigante!
 	"""
 	keyWait
 		any = false
@@ -166,8 +164,8 @@ script 8 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	And a bit spooky,but
-	it sounds like fun!
+	E meio assustador...
+	mas também divertido!
 	"""
 	keyWait
 		any = false
@@ -180,9 +178,8 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A trek?
-	That does sound like
-	fun,right Lan?
+	Explorar?
+	Parece legal, né, Lan?
 	"""
 	keyWait
 		any = false
@@ -194,14 +191,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anything to get my
-	mind off that
-	silly fishing!
+	Eu topo qualquer coisa
+	pra esquecer esse
+	fiasco da pesca!
 	"""
 	keyWait
 		any = false
@@ -214,13 +211,13 @@ script 11 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	OK,everybody,
-	follow me!
+	Beleza, galera,
+	venham comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"And we're off!"
+	"Simbora!"
 	keyWait
 		any = false
 	end
@@ -229,7 +226,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Mayl,let's go!"
+	"Vamos, Mayl!"
 	keyWait
 		any = false
 	clearMsg
@@ -241,8 +238,8 @@ script 13 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	OK!
-	Lan,let's go!
+	Tá!
+	Vem, Lan!
 	"""
 	keyWait
 		any = false
@@ -261,9 +258,9 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	Oh,yeah,Lan? Make
-	sure the fire's out.
-	Got to be safe!
+	Ah, Lan? Apaga
+	direitinho a fogueira.
+	Segurança sempre!
 	"""
 	keyWait
 		any = false
@@ -271,8 +268,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Huh?!
-	Why me?!
+	Ué?! Por que eu?!
 	"""
 	keyWait
 		any = false
@@ -280,30 +276,28 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	You've already
-	forgot who lost the
-	fishing contest?
+	Já esqueceu quem perdeu
+	a disputa de pesca?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"She has a point,Lan!"
+	"Verdade, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Wait,Mayl?!"
+	"Poxa, Mayl! Até tu?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Let's just get it
-	done,Lan!
+	Faz isso logo, Lan!
 	"""
 	keyWait
 		any = false
@@ -311,8 +305,8 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	If you say so,
-	MegaMan⋯
+	... Bom, se cê
+	tá dizendo...
 	"""
 	keyWait
 		any = false
@@ -320,15 +314,16 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	We'll run ahead,so
-	hurry up!
+	A gente vai indo
+	na frente, então.
+	Não demora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"See you soon,Lan!"
+	"Até já, Lan!"
 	keyWait
 		any = false
 	end

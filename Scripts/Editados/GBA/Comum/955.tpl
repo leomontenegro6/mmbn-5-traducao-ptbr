@@ -4,22 +4,21 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Hikari⋯"
+	"Hikari..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were tight-
-	lipped to the end,
-	I'll give you that.
+	Você segurou a
+	língua até o final.
+	Admirável, admito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,your
-	efforts have all
-	been in vain.
+	Contudo, seus esforços
+	foram todos em vão.
 	"""
 	keyWait
 		any = false
@@ -31,7 +30,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯It c-can't be!!!"
+	"... N-não pode ser!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,23 +42,22 @@ script 2 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Your father was a
-	great scientist⋯
+	O seu pai era, de fato,
+	um grande cientista...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even I didn't
-	realize he had
-	disguised the
+	Nem eu percebi que
+	ele havia disfarçado
+	o "Relatório Hikari"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Hikari Report"
-	as a dog⋯
+	sob a forma de um cão...
 	"""
 	keyWait
 		any = false
@@ -71,13 +69,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯R-Regal⋯"
+	"... R-Regal..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you gonna
-	do with Gow?
+	O que você vai
+	fazer com o Gáu?
 	"""
 	keyWait
 		any = false
@@ -89,11 +87,11 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"I'm gonna complete⋯"
+	"Eu irei completar..."
 	keyWait
 		any = false
 	clearMsg
-	"SoulNet!"
+	"a RedeAlma!"
 	keyWait
 		any = false
 	clearMsg
@@ -104,13 +102,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Soul⋯Net⋯"
+	"Rede... Alma..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you did that,
-	the world would⋯!
+	Mas, se você fizer
+	isso, o mundo vai...!
 	"""
 	keyWait
 		any = false
@@ -123,9 +121,9 @@ script 6 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Yes! My utopia,an
-	utterly evil world,
-	shall be complete⋯
+	Sim! A minha utopia, um
+	mundo de pura maldade,
+	se concretizará...
 	"""
 	keyWait
 		any = false
@@ -138,14 +136,14 @@ script 7 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I never imagined
-	SoulNet would turn
-	out like this⋯
+	Não acredito que a
+	RedeAlma vai tomar
+	esse rumo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Father,forgive me⋯"
+	"Pai, me perdoe..."
 	keyWait
 		any = false
 	clearMsg
@@ -157,9 +155,9 @@ script 8 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Behold,Hikari⋯
-	Electopia stained
-	in evil⋯
+	Contemple, Hikari...
+	Ni-Hon, manchada pelo
+	mal...
 	"""
 	keyWait
 		any = false
@@ -169,40 +167,41 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"It's Regal⋯"
+	"Regal falando..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Move NebulaGray to
-	the 3rd ExpServ.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	⋯And transmit at max
-	speed to the
-	microservers
+	Movam Nebula Gray para
+	o terceiro Servidor
+	Experimental.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we planted
-	in Electopia.
+	... E transmitam-no a
+	velocidade máxima para
+	os microsservidores
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may halt
-	DarkChip production.
+	que plantamos em Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Yes,that's right."
+	"""
+	Já podem suspender
+	a produção de Chips
+	das Trevas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Sim, isso mesmo."
 	keyWait
 		any = false
 	end
@@ -211,14 +210,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Everything's ready⋯"
+	"Está tudo pronto..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,Hikari⋯
-	Behold the fruits
-	of my experiment!
+	Agora, Hikari...
+	Contemple os frutos
+	do meu experimento!
 	"""
 	keyWait
 		any = false
@@ -231,8 +230,8 @@ script 11 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Your evil plan
-	will fail.
+	O seu plano maligno
+	vai ruir.
 	"""
 	keyWait
 		any = false
@@ -244,29 +243,29 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your hope soon will
-	turn to despair⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And you'll once
-	again see just how
-	weak people are!
+	A sua experança logo se
+	tornará desespero...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must tell the
-	nation it has begun!
-	Get the camera.
+	E você, mais uma vez,
+	verá o quão fracas
+	são as pessoas!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Preciso avisar ao país
+	que já começou!
+	Prepare a câmera.
 	"""
 	keyWait
 		any = false
@@ -278,7 +277,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Yes,Dr.!!!"
+	"Sim, senhor!!!"
 	keyWait
 		any = false
 	end
@@ -287,7 +286,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Lan⋯ MegaMan⋯"
+	"Lan... MegaMan..."
 	keyWait
 		any = false
 	end

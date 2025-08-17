@@ -3,15 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A microserver
-	planted by Nebula.
+	Um microsservidor
+	plantado pela Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be destroyed
-	at once.
+	Ele precisa ser
+	destruído o quanto
+	antes.
 	"""
 	keyWait
 		any = false

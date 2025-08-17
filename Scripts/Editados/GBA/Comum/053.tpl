@@ -14,9 +14,9 @@ script 0 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It's your PET--your
-	PErsonal Terminal.
-	MegaMan's in here.
+	É o seu PET, seu
+	Terminal Pessoal. É
+	onde o MegaMan fica.
 	"""
 	waitHold
 }
@@ -34,9 +34,9 @@ script 1 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It's recipe data
-	for Mom's
-	special stew.
+	Dados de receita
+	para o ensopado
+	especial da sua mãe.
 	"""
 	waitHold
 }
@@ -54,8 +54,9 @@ script 2 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Identification for
-	SciLab employees.
+	Documento de identifi-
+	cação de funcionários
+	do SciLab.
 	"""
 	waitHold
 }
@@ -73,8 +74,8 @@ script 3 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It's a bamboo pole.
-	Perfect for fishing!
+	É uma vara de bambu.
+	Perfeita para pescar!
 	"""
 	waitHold
 }
@@ -92,8 +93,7 @@ script 4 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	An old fishing
-	line and hook.
+	Velhos anzol e linha.
 	"""
 	waitHold
 }
@@ -111,8 +111,8 @@ script 5 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Bait for fishing.
-	It feels gross.
+	Isca de pesca.
+	Tão nojento.
 	"""
 	waitHold
 }
@@ -130,9 +130,8 @@ script 6 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Very dry wood.
-	Looks like
-	it'll burn well.
+	Madeira das bem secas.
+	Do tipo que queima bem.
 	"""
 	waitHold
 }
@@ -150,8 +149,8 @@ script 7 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A dry twig.
-	Very brittle.
+	Um galho seco.
+	Ultra frágil.
 	"""
 	waitHold
 }
@@ -169,8 +168,8 @@ script 8 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Very dry
-	grass.
+	Grama demasiadamente
+	seca.
 	"""
 	waitHold
 }
@@ -188,9 +187,9 @@ script 9 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Data for the mine
-	area's electronic
-	lock on Oran Isle.
+	Dados da trava eletrô-
+	nica na área da mina
+	na Ilha Oran.
 	"""
 	waitHold
 }
@@ -208,8 +207,9 @@ script 10 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A program that
-	lets Navis think.
+	Um programa que
+	permite a Navis
+	pensar.
 	"""
 	waitHold
 }
@@ -227,8 +227,9 @@ script 11 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A program that
-	lets Navis speak.
+	Um programa que
+	permite a Navis
+	falar.
 	"""
 	waitHold
 }
@@ -246,8 +247,9 @@ script 12 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A program that
-	lets Navis move.
+	Um programa que
+	permite a Navis
+	se moverem.
 	"""
 	waitHold
 }
@@ -265,8 +267,9 @@ script 13 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A program that
-	lets Navis fight.
+	Um programa que
+	permite a Navis
+	lutar.
 	"""
 	waitHold
 }
@@ -284,8 +287,9 @@ script 14 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It's memo paper.
-	It says "53214."
+	É um bilhete em um
+	papel. Está escrito:
+	"53214."
 	"""
 	waitHold
 }
@@ -303,9 +307,9 @@ script 15 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A program that
-	lets Navis break
-	hard rocks.
+	Um programa que
+	permite a Navis
+	lutar.
 	"""
 	waitHold
 }
@@ -323,9 +327,9 @@ script 16 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A program that
-	can vacuum up
-	any kind of cloud.
+	Um programa que
+	aspira todo o tipo
+	de nuvem.
 	"""
 	waitHold
 }
@@ -343,9 +347,9 @@ script 17 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Key for starting the
-	device that controls
-	rock supply.
+	Chave que liga o apa-
+	relho que controla o
+	suprimento de rochas.
 	"""
 	waitHold
 }
@@ -363,8 +367,9 @@ script 18 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Key to lock a
-	CyberHatch.
+	Chave para
+	trancar uma
+	CyberEscotilha.
 	"""
 	waitHold
 }
@@ -382,9 +387,9 @@ script 19 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	1 from a set of 3
-	keys needed to lock
-	a CyberHatch.
+	1 de 3 chaves neces-
+	sárias para trancar
+	uma CyberEscotilha.
 	"""
 	waitHold
 }
@@ -402,9 +407,9 @@ script 20 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	1 from a set of 3
-	keys needed to lock
-	a CyberHatch.
+	1 de 3 chaves neces-
+	sárias para trancar
+	uma CyberEscotilha.
 	"""
 	waitHold
 }
@@ -422,9 +427,9 @@ script 21 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	1 from a set of 3
-	keys needed to lock
-	a CyberHatch.
+	1 de 3 chaves neces-
+	sárias para trancar
+	uma CyberEscotilha.
 	"""
 	waitHold
 }
@@ -442,9 +447,9 @@ script 22 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Key to open a
-	security door
-	run by SciLab.
+	Chave para abrir uma
+	porta de segurança
+	controlada pelo SciLab.
 	"""
 	waitHold
 }
@@ -462,9 +467,9 @@ script 23 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	An invite to a
-	party being held on
-	the Queen Bohemia.
+	Convite para uma
+	festa sediada no
+	Rainha Boêmia.
 	"""
 	waitHold
 }
@@ -482,9 +487,9 @@ script 24 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Stamp card for
-	a game on the
-	Queen Bohemia.
+	Cartão de carimbos
+	para um jogo no
+	Rainha Boêmia.
 	"""
 	waitHold
 }
@@ -502,9 +507,9 @@ script 25 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It says "Gow loves
-	fish--and the
-	bigger the better."
+	"O Gáu adora peixão.
+	Não consegue tirar
+	o olho de um!"
 	"""
 	waitHold
 }
@@ -522,9 +527,9 @@ script 26 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	This key-shaped data
-	is quite heavy and
-	appears very old.
+	Estes dados em forma
+	de chave são pesados
+	e parecem bem antigos.
 	"""
 	waitHold
 }
@@ -542,14 +547,14 @@ script 27 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	3rd ACDC,4th
-	square. There find
-	the way to Oran.
+	Terceira ACDC,
+	quarto quadro. Lá,
+	um caminho para Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Open its center!"
+	"Abra o centro!"
 	waitHold
 }
 script 28 mmbn5 {
@@ -565,7 +570,10 @@ script 28 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Armor image data."
+	"""
+	Dados de imagem
+	de uma armadura.
+	"""
 	waitHold
 }
 script 29 mmbn5 {
@@ -581,7 +589,10 @@ script 29 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Katana image data."
+	"""
+	Dados de imagem
+	de uma katana.
+	"""
 	waitHold
 }
 script 30 mmbn5 {
@@ -597,7 +608,10 @@ script 30 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Helmet image data."
+	"""
+	Dados de imagem
+	de um elmo.
+	"""
 	waitHold
 }
 script 31 mmbn5 {
@@ -614,9 +628,9 @@ script 31 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It's made of oak.
-	Very sturdy. Won't
-	break easily.
+	Madeira de carvalho.
+	Bem rígida. Não
+	quebra facilmente.
 	"""
 	waitHold
 }
@@ -634,9 +648,9 @@ script 32 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	A picture of my
-	grandpa and Gow.
-	It makes me smile.
+	Foto do meu avô
+	com o Gáu.
+	Ela me faz sorrir.
 	"""
 	waitHold
 }
@@ -654,8 +668,9 @@ script 33 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Key-shaped data that
-	Tadashi left behind.
+	Dados em forma de
+	chave que Tadashi
+	Hikari deixou para trás.
 	"""
 	waitHold
 }
@@ -673,8 +688,9 @@ script 34 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Amulet that Tadashi
-	used to wear.
+	Amuleto que Tadashi
+	Hikari costumava
+	portar.
 	"""
 	waitHold
 }
@@ -692,8 +708,8 @@ script 35 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Mayl's PET.
-	Roll isn't here.
+	O PET da Mayl.
+	A Roll não está aqui.
 	"""
 	waitHold
 }
@@ -711,8 +727,8 @@ script 36 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Dex's PET.
-	GutsMan isn't here.
+	O PET do Dex.
+	O GutsMan não está aqui.
 	"""
 	waitHold
 }
@@ -730,8 +746,8 @@ script 37 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Yai's PET.
-	Glide isn't here.
+	O PET da Yai.
+	O Glide não está aqui.
 	"""
 	waitHold
 }
@@ -749,8 +765,9 @@ script 38 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Identification as
-	a Nebula member.
+	Documento de
+	identificação de
+	membros da Nebula.
 	"""
 	waitHold
 }
@@ -768,18 +785,21 @@ script 39 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It says
-	"Net,SciLab,3,
-	 center,straight
+	"Rede, SciLab, 3,
+	centro, reto 27,
+	daí siga 4.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	" 27,turn and go 4.\n Turn again,go 4 and\n then check⋯ Hikari"
+	"""
+	Vire de novo, siga 4
+	e, aí, confira...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" data,reaction⋯\""
+	"Dados Hikari, reação...\""
 	waitHold
 }
 script 40 mmbn5 {
@@ -795,15 +815,26 @@ script 40 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"\"To my son,Yuichiro⋯"
+	"""
+	"Para o meu filho,
+	Yuichiro...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Don't go neglecting\n Gow! You shouldn't\n get his fur wet."
+	"""
+	Tome mais cuidado com
+	o Gáu! Cuidado pra não
+	deixar molhar o pelo.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" He's grouchy wet,so\n if rainy be a nice\n kid and let him in\""
+	"""
+	Ele odeia se molhar. Se
+	chover, seja bonzinho
+	e deixe ele entrar."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -815,7 +846,7 @@ script 40 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"That's all it says."
+	"Isso é tudo."
 	waitHold
 }
 script 41 mmbn5 {
@@ -832,9 +863,9 @@ script 41 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	It says "Gow loves
-	fish--and the
-	bigger the better."
+	"O Gáu adora peixão.
+	Não consegue tirar
+	o olho de um!"
 	"""
 	waitHold
 }
@@ -852,9 +883,9 @@ script 42 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	File containing
-	data for Higsby's
-	customers.
+	Arquivo contendo
+	dados dos clientes
+	do Higsby.
 	"""
 	waitHold
 }
@@ -872,9 +903,9 @@ script 64 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	white parts with
-	the L and R Button.
+	Permite a você girar
+	peças brancas com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -892,9 +923,9 @@ script 65 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	yellow parts with
-	the L and R Button.
+	Permite a você girar
+	peças amarelas com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -912,9 +943,9 @@ script 66 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	pink parts with
-	the L and R Button.
+	Permite a você girar
+	peças rosa com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -932,9 +963,9 @@ script 67 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	red parts with
-	the L and R Button.
+	Permite a você girar
+	peças vermelhas com
+	os botões "L" e "R".
 	"""
 	waitHold
 }
@@ -952,9 +983,9 @@ script 68 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	blue parts with
-	the L and R Button.
+	Permite a você girar
+	peças azuis com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -972,9 +1003,9 @@ script 69 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Lets you rotate
-	green parts with
-	the L and R Button.
+	Permite a você girar
+	peças verde com os
+	botões "L" e "R".
 	"""
 	waitHold
 }
@@ -992,9 +1023,9 @@ script 80 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Text with the code
-	for connecting to
-	Mayl's HP.
+	Arquivo com um código
+	para se conectar à
+	página da Mayl.
 	"""
 	waitHold
 }
@@ -1012,9 +1043,9 @@ script 81 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Text with the code
-	for connecting to
-	Dex's HP.
+	Arquivo com um código
+	para se conectar à
+	página da Dex.
 	"""
 	waitHold
 }
@@ -1032,9 +1063,9 @@ script 82 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Text with the code
-	for connecting to
-	Yai's HP.
+	Arquivo com um código
+	para se conectar à
+	página da Yai.
 	"""
 	waitHold
 }
@@ -1052,9 +1083,9 @@ script 83 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Text with the code
-	for connecting to
-	SciLab's HP.
+	Arquivo com um código
+	para se conectar à
+	página da SciLab.
 	"""
 	waitHold
 }
@@ -1072,9 +1103,9 @@ script 84 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Text with the code
-	for connecting to
-	GargCastleHP.
+	Arquivo com um código
+	para acessar a página
+	do Castelo Shachi.
 	"""
 	waitHold
 }
@@ -1092,8 +1123,8 @@ script 85 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Text with a code for
-	connecting areas.
+	Arquivo com um código
+	para conectar áreas.
 	"""
 	waitHold
 }
@@ -1110,7 +1141,7 @@ script 86 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Mayl's banner"
+	"Banner da Mayl."
 	waitHold
 }
 script 87 mmbn5 {
@@ -1126,7 +1157,7 @@ script 87 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Dex's banner"
+	"Banner do Mayl."
 	waitHold
 }
 script 88 mmbn5 {
@@ -1142,7 +1173,7 @@ script 88 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Yai's banner"
+	"Banner da Yai."
 	waitHold
 }
 script 89 mmbn5 {
@@ -1158,7 +1189,7 @@ script 89 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"SciLab banner"
+	"Banner do SciLab."
 	waitHold
 }
 script 90 mmbn5 {
@@ -1174,7 +1205,10 @@ script 90 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"GargCastle banner"
+	"""
+	Banner do Castelo
+	Shachi.
+	"""
 	waitHold
 }
 script 96 mmbn5 {
@@ -1182,8 +1216,8 @@ script 96 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Increases max HP
-	+20
+	Aumenta PV
+	máximos em 20.
 	"""
 	waitHold
 }
@@ -1192,8 +1226,9 @@ script 97 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Increases NaviCust
-	MemoryMap size
+	Aumenta o tamanho do
+	Mapa de Memória do
+	Customizador de Navi.
 	"""
 	waitHold
 }
@@ -1202,8 +1237,9 @@ script 98 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Increases chip
-	selection capacity+1
+	Aumenta a capacidade
+	de seleção de chips
+	em 1.
 	"""
 	waitHold
 }
@@ -1212,8 +1248,9 @@ script 99 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Increases chip
-	selection capacity+2
+	Aumenta a capacidade
+	de seleção de chips
+	em 2.
 	"""
 	waitHold
 }
@@ -1222,8 +1259,9 @@ script 100 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Increases chip
-	selection capacity+3
+	Aumenta a capacidade
+	de seleção de chips
+	em 3.
 	"""
 	waitHold
 }
@@ -1232,8 +1270,9 @@ script 101 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Increases SubChip
-	carrying capacity
+	Aumenta número
+	máximo de SubChips
+	carregados.
 	"""
 	waitHold
 }
@@ -1247,14 +1286,17 @@ script 112 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Recovers 50HP!"
+	"Restaura 50 PV!"
 	waitHold
 }
 script 113 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Recovers max HP!"
+	"""
+	Restaura
+	todos os PV!
+	"""
 	waitHold
 }
 script 114 mmbn5 {
@@ -1262,9 +1304,9 @@ script 114 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Won't encounter
-	weak viruses
-	for a while
+	Você fica sem
+	encontrar vírus
+	fracos por um tempo.
 	"""
 	waitHold
 }
@@ -1272,7 +1314,10 @@ script 115 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Removes traps \nform mystery data"
+	"""
+	Remove armadilhas de
+	alvos misteriosos.
+	"""
 	waitHold
 }
 script 116 mmbn5 {
@@ -1280,8 +1325,9 @@ script 116 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Easy to encounter
-	the last enemy
+	Aumenta as chances
+	de re-encontrar
+	último inimigo.
 	"""
 	waitHold
 }
@@ -1290,8 +1336,8 @@ script 117 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Unlocks mystery
-	data.
+	Desbloqueia
+	dados misteriosos.
 	"""
 	waitHold
 }
@@ -1299,6 +1345,6 @@ script 118 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"All SubChips"
+	"Todos os SubChips."
 	waitHold
 }

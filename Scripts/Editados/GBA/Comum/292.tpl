@@ -4,18 +4,19 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hee-hee!"
+	"Hi hi hi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Money!!! Money
-	money money!!
+	Dinheiro!!!
+	DINHEIRO!!!
+	DINHEEEIROOOO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ha-hee-hee!"
+	"Ha ha he hi hi!"
 	keyWait
 		any = false
 	end
@@ -30,14 +31,13 @@ script 5 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Was I saying
-	something
-	embarrassing⋯?
+	Eu falei alguma coisa
+	embaraçosa...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"C'mon! Tell me!"
+	"Vai! Conta!"
 	keyWait
 		any = false
 	end
@@ -47,20 +47,20 @@ script 10 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I saw myself in
-	security camera
-	footage⋯
+	Eu me assisti nas
+	filmagens da câmera
+	de segurança...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I wasn't normal."
+	"Eu não tava normal."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What happened to
-	me?! I'm scared.
+	O que deu em mim?!
+	Que medo...
 	"""
 	keyWait
 		any = false

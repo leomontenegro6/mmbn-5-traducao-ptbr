@@ -17,16 +17,15 @@ script 0 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	What is this
-	silly painting of
-	birds?
+	Que quadro idiota de
+	passarinhos é esse?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They look so chirpy,
-	it's making me mad!
+	Parecem tão alegres...
+	Isso me enche de raiva!
 	"""
 	keyWait
 		any = false
@@ -41,8 +40,8 @@ script 1 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	You stole my candy!
-	Give it back!
+	Cê roubou o meu bombom!
+	Devolve!
 	"""
 	keyWait
 		any = false
@@ -50,14 +49,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	What?! That was
-	MINE! Don't you
-	remember?!
+	Quê?! Ele era MEU!
+	Não lembra, não?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's MINE,OK?"
+	"Ele é meu! MEU!!"
 	keyWait
 		any = false
 	end
@@ -67,16 +65,15 @@ script 2 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I didn't know
-	you were so
-	selfish!
+	Eu não sabia que você
+	era egoísta assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want to see
-	you any more!
+	Nunca mais quero olhar
+	pra tua cara!
 	"""
 	keyWait
 		any = false
@@ -84,17 +81,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BlackWoman
 	"""
-	That's MY line,
-	you stingy,
-	stinky Scrooge!
+	Isso aí, eu que digo,
+	rei dos sovinas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At least I ain't
-	too short!
-	Shorty,shorty!
+	E, pelo meno, eu não
+	sou noiva de bolo!
+	Baaiixiiinhoo!!
 	"""
 	keyWait
 		any = false
@@ -102,8 +98,8 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	Dang.
-	That was harsh!
+	Argh.
+	Aí cê pegou pesado!
 	"""
 	keyWait
 		any = false
@@ -114,17 +110,16 @@ script 3 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Now what is this
-	silly painting of
-	a plane?!
+	Que quadro idiota de
+	avião é esse?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The way it's flying
-	so happy-go-lucky
-	makes me mad!
+	O jeito como ele tá
+	voando todo cheio de
+	vida me enche de raiva!
 	"""
 	keyWait
 		any = false
@@ -135,9 +130,8 @@ script 10 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Uhhh⋯ why was
-	I so angry?
-	I don't remember.
+	Ungh... Por que eu tava
+	tão zangada? Não lembro.
 	"""
 	keyWait
 		any = false
@@ -148,29 +142,28 @@ script 11 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Ouch⋯why was
-	I fighting?
+	Ai... Por que eu tava
+	brigando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Who are you?"
+	"Quem é você?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = FriesBoy
 	"""
-	Huh? Who
-	are you?
+	Hã? Eu que pergunto!
 	"""
 	keyWait
 		any = false
@@ -186,23 +179,23 @@ script 12 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Huh? Huh?
-	HUH?!
+	Ué? Ué?
+	UÉ?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why am I
-	here?!
+	Eu tô fazendo o quê
+	aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I remember us
-	walking along the
-	harbor together⋯
+	Só lembro da gente
+	dando uma volta no
+	porto juntos...
 	"""
 	keyWait
 		any = false
@@ -219,21 +212,21 @@ script 13 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	Did I say
-	something
-	really nasty?
+	É impressão minha,
+	ou eu fui super má
+	no que eu falei?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I hope not⋯"
+	"Tomara que não..."
 	keyWait
 		any = false
 	end
@@ -243,8 +236,8 @@ script 20 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Ow! My head!
-	It hurts! Why?!
+	Ai! A minha cabeça!
+	Que dor! Por quê?!
 	"""
 	keyWait
 		any = false
@@ -255,15 +248,15 @@ script 21 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Why am I
-	so hungry?
+	Por que eu tô com
+	tanta fome?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess fighting
-	make me hungry?
+	Será que brigar afeta
+	o meu apetite...?
 	"""
 	keyWait
 		any = false
@@ -274,16 +267,16 @@ script 22 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	My head clouded
-	up⋯
+	A minha mente ficou
+	toda turva...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And suddenly I
-	started fighting
-	a total stranger.
+	e, de repente, eu
+	comprei briga com um
+	completo estranho.
 	"""
 	keyWait
 		any = false
@@ -294,16 +287,16 @@ script 23 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I dimly remember
-	what I said to her.
+	Eu até lembro, mais ou
+	menos, o que eu disse
+	pra ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How could I have
-	said something
-	like THAT?!
+	Como que eu pude falar
+	uma coisa daquelas?!
 	"""
 	keyWait
 		any = false
@@ -314,14 +307,13 @@ script 24 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I think I said
-	something even
-	worse to him.
+	Eu acho que falei uma
+	coisa ainda pior pra ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I just know it."
+	"Sei que falei..."
 	keyWait
 		any = false
 	end
@@ -331,40 +323,39 @@ script 30 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	SciLab square has
-	never been this
-	quiet before.
+	A praça do SciLab nunca
+	esteve tão quieta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People are staying
-	home because they're
-	afraid they'll start
+	As pessoas não querem
+	sair de casa por medo
+	de voltarem a agir do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	acting like they
-	did yesterday. Even
-	when they do go out,
+	jeito que agiram ontem.
+	E, mesmo quando elas
+	saem de casa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they just can't stop
-	doubting each other.
+	não conseguem parar de
+	duvidar umas das outras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is this what Regal
-	wanted? If so,he
-	succeeded.
+	Era isso o que o Regal
+	queria? Porque, se era,
+	ele conseguiu.
 	"""
 	keyWait
 		any = false

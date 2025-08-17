@@ -3,7 +3,7 @@
 script 0 mmbn5 {
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	wait
 		frames = 62
 	end
@@ -12,7 +12,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,it's your phone!"
+	"Lan, é uma ligação!"
 	keyWait
 		any = false
 	end
@@ -22,37 +22,36 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I see you've arrived
-	in Oran Area.
+	Vejo que chegou
+	na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are 6
-	remaining Nebula
-	agents.
+	Ainda restam seis
+	agentes da Nebula aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're hidden in
-	Oran Areas 1,2,
-	and 3.
+	Eles estão escondidos
+	pelas Áreas Oran
+	1, 2 e 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find all 6 and
-	delete them,then
-	contact me.
+	Encontre e delete todos
+	os seis e, depois, entre
+	em contato.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck."
+	"Boa sorte."
 	keyWait
 		any = false
 	clearMsg
@@ -60,7 +59,7 @@ script 2 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -72,32 +71,31 @@ script 3 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I see you've arrived
-	in Oran Area.
+	Vejo que você chegou
+	na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are 6
-	remaining Nebula
-	agents.
+	Ainda restam seis
+	agentes da Nebula aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're hidden in
-	Oran Areas 1,2,
-	and 3.
+	Eles estão escondidos
+	pelas Áreas Oran
+	1, 2 e 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find all 6 and
-	delete them,then
-	contact me.
+	Encontre e delete todos
+	os seis e, depois, entre
+	em contato.
 	"""
 	keyWait
 		any = false
@@ -110,7 +108,7 @@ script 3 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -122,9 +120,9 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's go
-	find the remaining
-	Nebula agents!
+	MegaMan, bora atrás
+	dos agentes da Nebula
+	que sobraram aqui!
 	"""
 	keyWait
 		any = false
@@ -136,7 +134,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Vamos!"
 	keyWait
 		any = false
 	end

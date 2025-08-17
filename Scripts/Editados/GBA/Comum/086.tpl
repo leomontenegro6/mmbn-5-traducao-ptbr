@@ -27,8 +27,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see nothing
-	unusual here⋯
+	Não tô vendo nada
+	de anormal aqui...
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go find
-	Nebula's hidden
-	microservers!
+	Vamos atrás dos
+	microsservidores
+	da Nebula!
 	"""
 	keyWait
 		any = false

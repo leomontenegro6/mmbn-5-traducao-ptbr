@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This is SciLab!"
+	"Chegamos! SciLab!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,7 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Should we go inside,
-	then?
+	E aí, bora entrar?
 	"""
 	keyWait
 		any = false
@@ -26,13 +25,12 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	⋯The hour is upon
-	us.
+	... É chegada a hora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Begin the operation⋯"
+	"Iniciem a operação..."
 	keyWait
 		any = false
 	end

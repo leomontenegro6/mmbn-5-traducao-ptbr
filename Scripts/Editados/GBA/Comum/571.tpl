@@ -5,20 +5,20 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS AREA'S FINALLY
-	BEEN LIBERATED⋯
+	ESTA ÁREA FINALMENTE
+	FOI LIBERTADA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT NEBULA STILL
-	HAS END AREA5.
+	MAS A NEBULA AINDA
+	TEM A ÁREA ENDO 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IT'S FRUSTRATING!"
+	"QUE FRUSTRANTE!"
 	keyWait
 		any = false
 	end
@@ -28,8 +28,8 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	T⋯ LOUD!
-	S⋯OP⋯!
+	AL... EMAIS!
+	P... RA...!
 	"""
 	keyWait
 		any = false
@@ -37,9 +37,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -50,17 +50,17 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	END AREA5 IS
-	STILL UNDER
-	NEBULA'S CONTROL!
+	A ÁREA ENDO 5 AINDA
+	ESTÁ SOB O CONTROLE
+	DA NEBULA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HOPE THAT TEAM
-	OF NAVIS WILL
-	LIBERATE IT SOON!
+	ESPERO QUE AQUELA
+	EQUIPE DE NAVIS
+	LIBERE ELA LOGO!
 	"""
 	keyWait
 		any = false
@@ -71,17 +71,16 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I've been hiking
-	around the different
-	areas.
+	Eu venho caminhando
+	pelas várias áreas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The castle-shaped
-	statue in End Area
-	is my favorite!
+	A estátua de castelo
+	na Área Endo é a
+	minha favorita!
 	"""
 	keyWait
 		any = false
@@ -92,21 +91,20 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS
-	END AREA2!
+	ESTA É A ÁREA ENDO 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	END AREA5
-	HAS BEEN LIBERATED!
-	I'M SO PSYCHED!
+	A ÁREA ENDO 5 FOI
+	LIBERTADA!
+	ESTOU TÃO FELIZ!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YEE-HAW!"
+	"ÍRRAAAA!"
 	keyWait
 		any = false
 	end
@@ -116,8 +114,8 @@ script 40 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What's the fuss
-	all about?
+	Que algazarra toda é
+	essa?
 	"""
 	keyWait
 		any = false
@@ -128,8 +126,8 @@ script 41 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ANOTHER INCIDENT?
-	WHAT A DOWNER⋯
+	OUTRO INCIDENTE?
+	QUE TRISTE...
 	"""
 	keyWait
 		any = false
@@ -140,15 +138,9 @@ script 50 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Even an experienced
-	Navi like me
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	is scared to go
-	to the Undernet!
+	Até um Navi experiente
+	como eu tem medo de ir
+	na Undernet!
 	"""
 	keyWait
 		any = false
@@ -159,21 +151,21 @@ script 51 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STAY FOCUSED,
-	EVEN IF NEBULA
-	DOES ATTACK.
+	MANTENHA O FOCO,
+	MESMO SE A NEBULA
+	ATACAR DE VERDADE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S THE WAY
-	TO SURVIVE!
+	É O ÚNICO JEITO DE
+	SOBREVIVER!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AW,YEAH!"
+	"ÉÉÉÉ!"
 	keyWait
 		any = false
 	end

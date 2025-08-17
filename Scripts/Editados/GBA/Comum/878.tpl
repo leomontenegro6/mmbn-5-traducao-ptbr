@@ -2,34 +2,34 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Mmn⋯Mmnph⋯"
+	"Mmn... Mmngh..."
 	keyWait
 		any = false
 	clearMsg
-	"M⋯MegaMan"
+	"M... MegaMan"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・
+	.
 	MegaMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Aieegh!"
+	"Aaahh!"
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 207
-	"*thmp*"
+	"Fluap!"
 	keyWait
 		any = false
 	end
@@ -39,13 +39,13 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	*pant pant*⋯
-	A nightmare?
+	Arf... Arf...
+	Um pesadelo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯MegaMan"
+	"... MegaMan..."
 	keyWait
 		any = false
 	end
@@ -53,7 +53,7 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	keyWait
 		any = false
 	end
@@ -63,17 +63,15 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The phone⋯
-	I'd better answer
-	it.
+	É uma ligação...
+	É melhor eu atender.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan usually
-	tells me "It's your
-	phone!."
+	Normalmente, o MegaMan
+	ia gritar: "Ligação!"
 	"""
 	keyWait
 		any = false
@@ -85,7 +83,7 @@ script 4 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"RRRRING"
+	"TRRRIIIIM! "
 	storeTimer
 		timer = 1
 		value = 2
@@ -94,7 +92,7 @@ script 4 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*click*"
+	"Pup."
 	wait
 		frames = 120
 	end
@@ -103,11 +101,11 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oops!"
+	"Opa!"
 	keyWait
 		any = false
 	clearMsg
-	"Wonder who it was?"
+	"Quem será que era?"
 	keyWait
 		any = false
 	end
@@ -117,9 +115,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's a message on
-	the answering
-	machine.
+	Deixaram uma mensagem
+	de voz.
 	"""
 	keyWait
 		any = false
@@ -130,7 +127,7 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	mugshotHide
 	msgOpen
-	"REPLAYING MESSAGE"
+	"REPRODUZINDO MENSAGEM."
 	keyWait
 		any = false
 	clearMsg
@@ -142,21 +139,20 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Chaud here."
+	"É o Chaud."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have something to
-	speak to you
-	about.
+	Eu preciso falar com
+	você sobre uma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Meet me at the
-	harbor near SciLab.
+	Me encontre no porto
+	perto do SciLab.
 	"""
 	keyWait
 		any = false
@@ -168,33 +164,32 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"It's me."
+	"Sou eu."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I know you must
-	be feeling down.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You should come out
-	and see the sea.
+	Lan, sei que deve
+	estar para baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Meet me at the
-	harbor behind
-	SciLab.
+	Acho que seria bom você
+	sair para ver o mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See you soon."
+	"""
+	Me encontre no porto
+	atrás do SciLab.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Até então."
 	keyWait
 		any = false
 	clearMsg
@@ -204,7 +199,7 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	mugshotHide
 	msgOpen
-	"NO FURTHER MESSAGES"
+	"NENHUMA NOVA MENSAGEM."
 	keyWait
 		any = false
 	clearMsg
@@ -216,8 +211,7 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Time to head out,
-	I guess.
+	Acho que eu vou lá, né...
 	"""
 	keyWait
 		any = false

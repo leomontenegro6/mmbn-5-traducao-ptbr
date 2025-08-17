@@ -45,38 +45,35 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'RE MEGAMAN,
-	RIGHT?
+	VOCÊ É O MEGAMAN, NÃO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MS. YAI ENTRUSTED ME
-	WITH THE P-CODE FOR
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"THIS WEB PAGE."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	SHE TOLD ME THAT IF
-	YOU STOPPED BY,
+	A SRTA. YAI CONFIOU A
+	MIM O CÓDIGO-P DESTA
+	PÁGINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHOULD GIVE THE
-	CODE TO YOU.
+	E ME INSTRUIU PARA
+	QUE, CASO VOCÊ
+	PASSASSE AQUI,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PLEASE USE IT."
+	"""
+	EU LHE DESSE O
+	CÓDIGO.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"POR FAVOR, PEÇO QUE\nACEITE."
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +84,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -102,8 +99,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	COME AGAIN
-	SOON!
+	ESPERAMOS VÊ-LO AQUI
+	DE NOVO EM BREVE!
 	"""
 	keyWait
 		any = false
@@ -164,33 +161,33 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME! THIS IS
-	MS. YAI'S WEB PAGE!
+	BEM-VINDO! ESTA É A
+	PÁGINA DA SRTA. YAI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S LINK-FREE RIGHT
-	NOW,BUT WE CAN MAKE
-	ONE IF YOU WANT.
+	ESTÁ SEM LINKS NO
+	MOMENTO, MAS PODEMOS
+	CRIAR UM, SE QUISER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN YOU COULD COME
-	AND GO DIRECTLY
-	BETWEEN LAN'S
+	COM ELE, VOCÊ PODERIA
+	TRANSITAR LIVREMENTE
+	ENTRE AS PÁGINAS DO
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PAGE AND MS. YAI'S!"
+	"LAN E DA SRTA. YAI!"
 	keyWait
 		any = false
 	clearMsg
-	"SHALL I LINK THEM?"
+	"PERMITE-ME CRIAR O\nLINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -205,7 +202,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -214,7 +211,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -228,13 +225,13 @@ script 4 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LEMME KNOW IF YOU
-	CHANGE YOUR MIND.
+	AVISE-ME CASO MUDE
+	DE IDEIA.
 	"""
 	keyWait
 		any = false
@@ -245,16 +242,16 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,YOU'LL REALLY
-	LINK PAGES WITH US?!
+	AH, ACEITA MESMO
+	CRIAR UM LINK ENTRE
+	NOSSAS PÁGINAS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE,TAKE THIS.
-	USE THIS BANNER
-	TO COME HERE.
+	TOME. USE ESSE BANNER
+	PARA VIR PARA CÁ.
 	"""
 	keyWait
 		any = false
@@ -266,7 +263,7 @@ script 5 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -281,13 +278,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK,I'LL
-	PLACE A LINK!
+	CERTO, VOU INSTALAR
+	O LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ONE-TWO-THREE!!!"
+	"UN! DEUX! TROIS!!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -309,16 +306,16 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME.
-	THIS IS MS. YAI'S
-	WEB PAGE!
+	BEM-VINDO.
+	ESTA É A PÁGINA DA
+	SRTA. YAI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S REALLY QUITE
-	EXTRAVAGANT.
+	CONHECIDA POR SER
+	DEVERAS EXTRAVAGANTE.
 	"""
 	keyWait
 		any = false
@@ -334,16 +331,17 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MS. YAI'S LATEST
-	THING IS GOLDFISH.
+	A MAIS RECENTE
+	OBSESSÃO DA SRTA. YAI
+	SÃO PEIXINHOS DOURADOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DESIGNED HER PAGE
-	TO FIT IN WITH THAT.
-	WHAT DO YOU THINK?
+	FIZ O DESIGN DA PÁGINA
+	COM ELES EM MENTE.
+	O QUE ACHOU?
 	"""
 	keyWait
 		any = false
@@ -359,16 +357,16 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MS. YAI ASSOCIATES
-	WITH A LOT OF
-	PEOPLE.
+	A SRTA. YAI SE ASSOCIA
+	COM DIVERSAS PESSOAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS BBS IS
-	ALWAYS PACKED!!!
+	PORTANTO, ESTE
+	FÓRUM ESTÁ SEMPRE
+	MOVIMENTADO!!
 	"""
 	keyWait
 		any = false
@@ -379,9 +377,9 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯COME.
-	THIS⋯⋯YA⋯
-	WE⋯⋯
+	... VINDO.
+	ESTA... PÁ...
+	YA...
 	"""
 	keyWait
 		any = false
@@ -389,9 +387,9 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -402,8 +400,8 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯YAI'S⋯EST
-	⋯ING⋯GOLD⋯
+	... RECENTE... SÃO...
+	... INHOS... RAD...
 	"""
 	keyWait
 		any = false
@@ -411,9 +409,9 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -424,8 +422,8 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS⋯S⋯IS
-	⋯WAYS⋯ED.
+	ESTE... O... SEM...
+	... MOV... AD...
 	"""
 	keyWait
 		any = false
@@ -433,9 +431,9 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -446,15 +444,16 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DON'T EXPECT ME TO
-	SAY "WELCOME!"
+	NÃO ESPERA QUE EU VÁ
+	FALAR "BEM-VINDO" NÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M ON EDGE RIGHT
-	NOW⋯ DON'T PUSH ME!
+	EU TÔ SUPER ARISCO
+	AGORA...
+	NÃO ME PROVOCA!
 	"""
 	keyWait
 		any = false
@@ -465,21 +464,22 @@ script 17 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯NOW THAT I THINK OF
-	IT,I DON'T LIKE
-	THIS PAGE DESIGN.
+	... QUER SABER?
+	EU NÃO GOSTO DO
+	DESIGN DA PÁGINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE SHOULD USE
-	DARKER COLORS.
+	A GENTE DEVIA ERA
+	USAR CORES MAIS
+	ESCURAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HEH HEH HEH⋯"
+	"HE HE HE..."
 	keyWait
 		any = false
 	end
@@ -489,13 +489,13 @@ script 18 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE BBS IS NONE
-	OF YOUR BUSINESS!!!
+	O FÓRUM NÃO É DA
+	TUA CONTA, NÃO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"NOW BEAT IT!!!"
+	"CAI FORA!!!"
 	keyWait
 		any = false
 	end
@@ -505,16 +505,16 @@ script 19 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T REMEMBER
-	WHAT JUST HAPPENED⋯
-	LET ME START BY
+	NÃO CONSIGO ME LEMBRAR
+	DO QUE HOUVE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WELCOMING YOU TO
-	MS. YAI'S WEB PAGE.
+	DE TODO MODO, DOU-LHE
+	AS BOAS-VINDAS À
+	PÁGINA DA SRTA. YAI.
 	"""
 	keyWait
 		any = false
@@ -525,17 +525,17 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHEN I CAME TO,
-	I WAS BAD-MOUTHING
-	THIS WEB PAGE.
+	QUANDO DEI POR MIM,
+	EU ESTAVA FALANDO
+	MAL DA PÁGINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T BELIEVE IT⋯
-	I ALWAYS TREAT THIS
-	PAGE WITH SUCH CARE.
+	NÃO ACREDITO NISSO...
+	EU SEMPRE A TRATO COM
+	TANTO CARINHO.
 	"""
 	keyWait
 		any = false
@@ -546,16 +546,16 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHEN I CAME TO,
-	I WAS SHOUTING
-	TERRIBLE THINGS.
+	QUANDO ME DEI CONTA,
+	EU ESTAVA GRITANDO
+	COISAS TERRÍVEIS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I MUST APOLOGIZE
-	TO MS. YAI.
+	DEVO ME DESCULPAR
+	COM A SRTA. YAI.
 	"""
 	keyWait
 		any = false

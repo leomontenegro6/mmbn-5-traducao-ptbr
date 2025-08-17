@@ -47,8 +47,8 @@ script 5 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Wanna try using my
-	"
+	Quer experimentar usar
+	minha "
 	"""
 	printFolderName
 		buffer = 0
@@ -58,31 +58,32 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	It may not be that
-	strong but a weaker
+	Ela pode não ser lá
+	muito forte, mas usar
+	uma pasta mais fraca
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	folder teaches you
-	to focus better.
+	nos ajuda a nos
+	concentrar melhor
+	durante as lutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it's OK with you,
-	I'll transfer it
-	right now and
+	Se você estiver de
+	acordo, eu posso
+	transferi-la agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	overwrite your
-	current Extra
-	Folder.
+	sobrescrevendo a sua
+	Pasta Extra atual.
 	"""
 	keyWait
 		any = false
@@ -98,7 +99,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -107,7 +108,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -121,20 +122,20 @@ script 5 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you really
-	want to improve,
+	Mas, se quiser mesmo
+	ficar mais forte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you should equip
-	a weaker folder.
+	devia lutar com uma
+	pasta mais fraca.
 	"""
 	keyWait
 		any = false
@@ -145,8 +146,9 @@ script 6 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You decided you want
-	to use "
+	E então? Decidiu
+	experimentar a
+	"
 	"""
 	printFolderName
 		buffer = 0
@@ -155,22 +157,21 @@ script 6 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"You won't be sorry!"
+	"Você não vai se\narrepender!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it's OK with you,
-	I'll transfer it
-	right now and
+	Se estiver de acordo,
+	eu posso transferi-la
+	agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	overwrite your
-	current Extra
-	Folder.
+	sobrescrevendo a sua
+	Pasta Extra atual.
 	"""
 	keyWait
 		any = false
@@ -186,7 +187,7 @@ script 6 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -195,7 +196,7 @@ script 6 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -209,20 +210,20 @@ script 6 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you really
-	want to improve,
+	Mas, se quiser mesmo
+	ficar mais forte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you should equip
-	a weaker folder.
+	devia lutar com uma
+	pasta mais fraca.
 	"""
 	keyWait
 		any = false
@@ -233,8 +234,8 @@ script 7 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'll start the
-	transfer⋯
+	Vou iniciar a
+	transferência...
 	"""
 	keyWait
 		any = false
@@ -243,31 +244,31 @@ script 7 mmbn5 {
 	startGiveFolder
 		slot = 2
 		folder = 2
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	soundDisableTextSFX
 	soundPlay
 		track = 116
-	"*BEEP!*"
+	"BIP!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Transfer's complete!"
+	"Transferência concluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Extra Folder
-	should now be
+	Sua Pasta Extra,
+	agora, deve ser a
 	"""
 	keyWait
 		any = false
@@ -276,18 +277,18 @@ script 7 mmbn5 {
 	printFolderName
 		buffer = 0
 		entry = 2
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
-	"Use \""
+	"Use a \""
 	printFolderName
 		buffer = 0
 		entry = 2
 	"""
 	"
-	to strengthen your
-	mind!!!
+	para fortalecer
+	a sua mente!!
 	"""
 	keyWait
 		any = false
@@ -303,17 +304,17 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STOP EATING SUCH
-	JUNK FOOD LIKE
-	INSTANT NOODLES!
+	PARE DE COMER LIXO
+	COMO MACARRÃO
+	INSTANTÂNEO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'LL TRY OUR BEST
-	TO MAKE YOU SOME
-	REALLY GOOD FOOD.
+	NOS DEDICAMOS AO
+	MÁXIMO PARA PREPARAR
+	COMIDA BOA PARA VOCÊ.
 	"""
 	keyWait
 		any = false
@@ -329,17 +330,17 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DON'T EAT THAT
-	FROZEN FOOD LIKE IT
-	WAS SO DELICIOUS!
+	NÃO MINTA PRA SI MESMO!
+	COMIDA CONGELADA
+	NÃO É DELICIOSA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOESN'T IT MAKE YOU
-	WANT TO CRY HAVING
-	TO EACH SUCH FOOD?
+	COMO VOCÊ NÃO CHORA
+	TENDO QUE COMER UMA
+	COISA DESSAS?
 	"""
 	keyWait
 		any = false
@@ -350,9 +351,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STO⋯⋯ING⋯CH
-	⋯FO⋯LI⋯
-	⋯TANT⋯DLES
+	PAR... MER... LIX...
+	COM... RRÃO...
+	... TÂNEO...
 	"""
 	keyWait
 		any = false
@@ -361,9 +362,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -374,9 +375,9 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO⋯E⋯⋯T
-	⋯ZEN⋯⋯OD⋯IT
-	⋯SO⋯⋯OUS
+	NÃO... MIN... SI...
+	... IDA... ELADA...
+	... ORA...?
 	"""
 	keyWait
 		any = false
@@ -385,9 +386,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -398,28 +399,28 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	INSTANT NOODLES MAKE
-	MY BLOOD BOIL!!!
+	MACARRÃO INSTANTÂNEO
+	ME DEIXA PISTOLA!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY WOULD YOU LIKE
-	SUCH JUNK FOOD!!!
+	COMO QUE ALGUÉM
+	GOSTA DESSE LIXO?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYONE KNOWS THAT
-	HOMEMADE FOOD IS
-	MUCH TASTIER!!!
+	TODO MUNDO SABE QUE
+	COMIDA CASEIRA É
+	MAIS GOSTOOOSAAA!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IT'S SO ANNOYING!"
+	"QUE RAAAAIVAAAA!!"
 	keyWait
 		any = false
 	end
@@ -429,28 +430,28 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	FROZEN FOOD IS
-	SO ANNOYING⋯
+	COMIDA CONGELADA
+	É TÃO IRRITANTE...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYBODY IS JUST
-	SO DANG LAZY!!!
+	TODO MUNDO É TÃO,
+	MAS TÃO PREGUIÇOSO!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVERYONE KNOWS THAT
-	A HOME-COOKED MEAL
-	IS MUCH TASTIER!!!
+	TODOS SABEM QUE
+	COMIDA CASEIRA
+	É MUITO MELHOR!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I MEAN,REALLY!"
+	"SÉRIO, GENTE!!"
 	keyWait
 		any = false
 	end
@@ -460,16 +461,16 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY ANGER BOILED OVER
-	LIKE A POT LEFT TOO
-	LONG ON THE STOVE.
+	A MINHA FÚRIA FERVEU,
+	ATÉ QUE A PANELA
+	TRANSBORDOU.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T REMEMBER
-	ANYTHING AFTER THAT.
+	DEPOIS DISSO, NÃO ME
+	LEMBRO DE MAIS NADA.
 	"""
 	keyWait
 		any = false
@@ -480,15 +481,16 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BEFORE I KNEW IT,
-	I WAS LOST IN ANGER.
+	QUANDO ME DEI CONTA,
+	EU TINHA ME PERDIDO
+	NA RAIVA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WONDER IF I'M
-	CALCIUM DEFICIENT?
+	SERÁ QUE É FALTA
+	DE CÁLCIO?
 	"""
 	keyWait
 		any = false

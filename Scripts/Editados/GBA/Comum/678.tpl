@@ -10,15 +10,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE
-	SERVERCOMP.
+	ESTE É O COMPUTADOR
+	DO SERVIDOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	POWER IS NEVER DOWN.
-	IT'S ON 24/7!
+	A ENERGIA NUNCA ACABA.
+	FICA LIGADA 24 HORAS
+	POR DIA!
 	"""
 	keyWait
 		any = false
@@ -34,14 +35,14 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVEN IF IT'S
-	IMPOSSIBLE,I'M GONNA
-	SHOUT IT OUT LOUD⋯
+	MESMO SENDO
+	IMPOSSÍVEL, EU VOU
+	GRITAR PROS CÉUS...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I NEED A VACATION!!!"
+	"EU PRECISO\nDE FÉRIAS!!!"
 	keyWait
 		any = false
 	end
@@ -56,14 +57,14 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS SERVER CONNECTS
-	SCILAB AREA WITH
-	ORAN AREA.
+	ESTE SERVIDOR LIGA
+	A ÁREA SCILAB
+	À ÁREA ORAN.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOW CONVENIENT!"
+	"É TÃO CONVENIENTE!"
 	keyWait
 		any = false
 	end
@@ -77,24 +78,23 @@ script 5 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I am one of the 5
-	who guard the Under-
-	net door beyond.
+	Eu sou um dos 5 que
+	guardam a porta além
+	da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must endure our
-	trial before you can
-	open the door.
+	Você precisará passar
+	pela nossa provação
+	para abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you brave
-	our trial?
+	Tentará desafiá-la?
 	"""
 	keyWait
 		any = false
@@ -108,7 +108,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No problem!\n"
+	" Já é!\n"
 	option
 		brackets = 0
 		left = 1
@@ -117,7 +117,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Wait a sec!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -128,13 +128,13 @@ script 5 mmbn5 {
 			jump = 6,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Then let's
-	see if you can
-	endure our trial!
+	Então, vejamos se você
+	supera nossa provação!
 	"""
 	keyWait
 		any = false
@@ -149,9 +149,9 @@ script 6 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I understand.
-	Return when you wish
-	to brave our trial.
+	Entendo. Volte quando
+	quiser tentar passar
+	pela nossa provação.
 	"""
 	keyWait
 		any = false
@@ -164,23 +164,23 @@ script 7 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Well done.
-	I have clearly
-	seen your power.
+	Bom trabalho.
+	Sua força é evidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -193,15 +193,16 @@ script 8 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -212,15 +213,15 @@ script 9 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Is that the extent
-	of your power?
+	É esse o limite da sua
+	força?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Return again when
-	you are ready.
+	Retorne quando se
+	sentir preparado.
 	"""
 	keyWait
 		any = false
@@ -233,8 +234,8 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	POW⋯IS⋯ER⋯
-	IT⋯ON⋯7
+	A EN... SE... RE...
+	LI... A... DIA!
 	"""
 	keyWait
 		any = false
@@ -243,9 +244,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -256,9 +257,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EV⋯IF⋯⋯
-	IM⋯⋯BLE⋯⋯NA
-	⋯OUT⋯OUT⋯D
+	MES... SA...
+	IM... SSÍ...
+	EU V... GRI...
 	"""
 	keyWait
 		any = false
@@ -267,9 +268,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -280,9 +281,9 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TH⋯SER⋯⋯ECTS
-	⋯AB⋯OR⋯
-	I⋯
+	O... SER... CIONA...
+	... AB... OU...
+	EU...
 	"""
 	keyWait
 		any = false
@@ -291,9 +292,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -304,15 +305,16 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHY DO I HAVE TO
-	WORK EVERYDAY?
+	POR QUE EU TENHO QUE
+	TRABALHAR TODO DIA?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GET ANGRIER THE
-	MORE I THINK OF IT!
+	QUANTO MAIS EU PENSO
+	NISSO, MAIS RAIVOSO
+	EU FICO!
 	"""
 	keyWait
 		any = false
@@ -322,13 +324,13 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"GIMME A VACATION!!!"
+	"ME DÁ FÉRIAS!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT STINKS HAVING TO
-	WORK SO MUCH!
+	É HORRÍVEL TER QUE
+	TRABALHAR TANTO ASSIM!
 	"""
 	keyWait
 		any = false
@@ -339,14 +341,17 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HATE THOSE SMUG
-	SCILAB AREA NAVIS.
-	THEY SHOULD STAY
+	EU ODEIO AQUELES
+	NAVIS METIDOS DA
+	ÁREA SCILAB.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHERE THEY BELONG."
+	"""
+	ELES DEVIAM FICAR
+	NA LAIA DELES!
+	"""
 	keyWait
 		any = false
 	end
@@ -356,8 +361,8 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	M-MY HEADS STILL
-	THROBBING⋯
+	M-MINHA CABEÇA AINDA
+	TÁ LATEJANDO...
 	"""
 	keyWait
 		any = false
@@ -368,15 +373,15 @@ script 17 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHA-WHAT HAPPENED
-	TO ME?
+	O-O QUE ACONTECEU
+	COMIGO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UHHH⋯
-	I CAN'T REMEMBER.
+	UNNNGH...
+	NÃO CONSIGO LEMBRAR.
 	"""
 	keyWait
 		any = false
@@ -387,14 +392,14 @@ script 18 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I REMEMBER SAYING
-	SOME REALLY MEAN
-	THINGS.
+	EU ME LEMBRO DE
+	FALAR UMAS COISAS
+	SUPER CRUEIS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHY WOULD I DO THAT?"
+	"MAS POR QUE EU\nFARIA ISSO?"
 	keyWait
 		any = false
 	end

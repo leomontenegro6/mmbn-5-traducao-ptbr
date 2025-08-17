@@ -10,22 +10,22 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'RE NOT MOCKING
-	ME BECAUSE I'M AN
-	OLD MODEL,ARE YOU?
+	VOCÊ NÃO TÁ ZOMBANDO
+	DE MIM SÓ PORQUE EU
+	SOU MODELO ANTIGO, TÁ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S NOT LIKE I
-	HAD A CHOICE ABOUT
-	GROWING OLD!!!
+	NÃO É COMO SE EU
+	PUDESSE EVITAR
+	ENVELHECER!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M REALLY FED UP⋯"
+	"TÔ TÃO CANSADO DISSO..."
 	keyWait
 		any = false
 	end
@@ -39,22 +39,22 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH,SORRY. MY
-	RESPONSE TIME'S
-	BEEN SLOW LATELY.
+	AH, DESCULPA. O MEU
+	TEMPO DE RESPOSTA
+	ANDA MEIO LENTO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND MY BODY FEELS
-	SLUGGISH. *SIGH*
-	AM I GETTING OLD?
+	E O MEU CORPO PARECE
+	TÃO PESADO. AI, AI...
+	EU TÔ FICANDO VELHO?
 	"""
 	keyWait
 		any = false
@@ -65,17 +65,17 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU⋯⋯MO⋯⋯ME
-	BE⋯I⋯⋯OLD
-	⋯EL⋯A⋯⋯
+	VOCÊ... ZO... MI...
+	POR... EU... ELO...
+	... NT... GO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -86,17 +86,16 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A⋯MY⋯DY⋯
-	SLU⋯⋯
-	AM⋯⋯TING⋯
+	A... MEU... RES... NTO...
+	FIC... LHO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -106,14 +105,14 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I HATE THEM⋯"
+	"ODEIO ELES..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I REALLY HATE THOSE
-	GUYS WHO KEEP SAYING
-	I'M AN OLD MODEL.
+	ODEIO DEMAIS TODO
+	MUNDO QUE ME CHAMA
+	DE MODELO ANTIGO!
 	"""
 	keyWait
 		any = false
@@ -124,16 +123,17 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UUUUUH!!! IT REALLY
-	BOILS MY BLOOD WHEN
-	THEY SAY I'M OLD!!!
+	UUUGHH!!! FICO FULO
+	DA VIDA QUANDO ME
+	CHAMAM DE VELHO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WASN'T MY CHOICE
-	TO GROW OLD!!!
+	NÃO É COMO SE FOSSE
+	ESCOLHA MINHA FICAR
+	VELHO!!!
 	"""
 	keyWait
 		any = false
@@ -144,8 +144,8 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SO CONFUSED.
-	WHAT HAPPENED?
+	AI, QUE CONFUSÃO.
+	O QUE ACONTECEU?
 	"""
 	keyWait
 		any = false
@@ -156,8 +156,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I ONLY REMEMBER
-	BEING REALLY ANGRY.
+	EU SÓ CONSIGO ME
+	LEMBRAR DE FICAR
+	FURIOSÍSSIMO.
 	"""
 	keyWait
 		any = false

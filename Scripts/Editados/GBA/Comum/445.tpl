@@ -5,15 +5,15 @@ script 10 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I promise not to
-	upset you any more!
+	Eu prometo que nunca
+	mais te deixo triste!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I promise⋯ no!
-	I swear it!
+	Eu prometo... não!
+	Eu juro!
 	"""
 	keyWait
 		any = false
@@ -24,15 +24,15 @@ script 11 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	Our argument
-	made me realize⋯
+	A nossa briga me fez
+	perceber...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just how important
-	you are to me!
+	o quanto você é
+	importante pra mim!
 	"""
 	keyWait
 		any = false
@@ -43,15 +43,15 @@ script 12 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Do you like
-	samurai movies?
+	Cê curte filmes de
+	samurai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard they're
-	popular again.
+	Parece que eles tão
+	na moda de novo.
 	"""
 	keyWait
 		any = false
@@ -62,8 +62,8 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	ACDC AREA2!
+	BEM-VINDO À ÁREA
+	ACDC 2!
 	"""
 	keyWait
 		any = false
@@ -74,9 +74,8 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Eve⋯
-	⋯can't⋯
-	⋯ue⋯lov⋯!!
+	Ne... pode...
+	... oss... am...!!
 	"""
 	keyWait
 		any = false
@@ -84,9 +83,9 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -97,9 +96,9 @@ script 21 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	I love⋯ N⋯
-	even⋯
-	⋯botag⋯!!
+	Eu amo... N...
+	mesmo...
+	... stad...!!
 	"""
 	keyWait
 		any = false
@@ -107,9 +106,9 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -120,8 +119,7 @@ script 22 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	A⋯
-	hear⋯ing!
+	A... ou... ir!
 	"""
 	keyWait
 		any = false
@@ -129,9 +127,9 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -142,8 +140,8 @@ script 23 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WH⋯ S?!
-	I⋯ANY⋯!!
+	POR... S?!
+	EU... NHUM...!!
 	"""
 	keyWait
 		any = false
@@ -151,9 +149,9 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -164,9 +162,9 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	That communication
-	error of yours was
-	so cute⋯!
+	Aquele seu erro de
+	comunicação foi tão
+	lindo...!
 	"""
 	keyWait
 		any = false
@@ -177,9 +175,9 @@ script 31 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	That communication
-	error of yours was
-	so macho!
+	Aquele seu erro de
+	comunicação foi tão
+	másculo...!
 	"""
 	keyWait
 		any = false
@@ -190,24 +188,23 @@ script 32 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm SO into
-	samurai movies!
+	Eu tô SUPER fã de
+	filmes de samurai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I really want
-	to go and see
-	GargCastle!
+	Agora eu tô morrendo de
+	vontade de conhecer o
+	Castelo Shachi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?! You've
-	already seen
-	it? Really?!
+	Hã?! Você já foi lá?!
+	Sério?!
 	"""
 	keyWait
 		any = false
@@ -218,8 +215,9 @@ script 33 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT JAMMING ATTACK
-	WAS REALLY ROUGH!
+	AQUELE ATAQUE DE
+	INTERFERÊNCIA FOI
+	POTENTE!
 	"""
 	keyWait
 		any = false
@@ -230,9 +228,9 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HELLO! ACDC AREA
-	IS A NICE AND
-	PEACEFUL PLACE!
+	OLÁ! A ÁREA ACDC É
+	UM LUGAR AGRADÁVEL
+	E PACÍFICO!
 	"""
 	keyWait
 		any = false
@@ -243,21 +241,20 @@ script 41 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	*Yawn*
-	I'm so sleepy⋯
+	Uaaaah.
+	Que sono...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was up all
-	night long,
-	surfing the Net!
+	Eu basicamente virei a
+	noite surfando na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"G'night!"
+	"Boa noite!"
 	keyWait
 		any = false
 	end
@@ -267,17 +264,15 @@ script 42 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I wonder what
-	that famous team
-	of Navis looks like?
+	Como será que é aquele
+	famoso grupo de Navis?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're heroes,
-	so they must be
-	good looking!
+	Eles são heróis, então,
+	devem ser bem bonitões!
 	"""
 	keyWait
 		any = false
@@ -288,8 +283,8 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S THIS FUSS
-	ALL ABOUT?
+	POR QUE ESTE CAOS
+	TODO?
 	"""
 	keyWait
 		any = false
@@ -300,9 +295,8 @@ script 51 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Looks like SciLab
-	Area has been
-	attacked.
+	Parece que a Área
+	SciLab foi atacada.
 	"""
 	keyWait
 		any = false
@@ -313,15 +307,15 @@ script 52 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	What happened?
-	What happened?
+	O que aconteceu?
+	O que aconteceu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	C'MON! You've got
-	to tell me!
+	VAI!
+	Você TEM que me falar!
 	"""
 	keyWait
 		any = false
@@ -332,15 +326,15 @@ script 60 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ACDC AREA2
-	IS THIS WAY!
+	A ÁREA ACDC 2
+	FICA POR AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HOPE YOU
-	ENJOY IT!
+	ESPERO QUE APROVEITE
+	A VISITA!
 	"""
 	keyWait
 		any = false
@@ -351,16 +345,16 @@ script 61 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Going to the
-	Undernet? You've
-	got to be kidding.
+	Você vai pra Undernet?
+	Não pode estar falando
+	sério.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you serious?
-	You shouldn't go!
+	... É sério?
+	Não faça isso!
 	"""
 	keyWait
 		any = false

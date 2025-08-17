@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sorry,guys!"
+	"Foi mal, gente!"
 	keyWait
 		any = false
 	end
@@ -13,14 +13,14 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"*Ahem!* Lan!"
+	"Ca-hem! Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've told you before
-	not to make a lady
-	wait!
+	Eu já falei que é
+	muito feio fazer
+	uma dama esperar!
 	"""
 	keyWait
 		any = false
@@ -33,8 +33,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm sorry,really! I
-	didn't mean it!
+	Desculpa, é sério!
+	Foi sem querer!
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 3 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,okay⋯I'll let
-	you off this time.
+	Ai, tá bom...
+	Eu te perdoo, desta vez.
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,where are we
-	going?
+	Mas e aí, pra onde
+	é que a gente vai?
 	"""
 	keyWait
 		any = false
@@ -73,9 +73,8 @@ script 5 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Right,I was
-	wondering the same
-	thing.
+	Pois é, eu também
+	queria saber.
 	"""
 	keyWait
 		any = false
@@ -87,7 +86,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Yeah,where to,Yai?"
+	"É, Yai. Pra onde?"
 	keyWait
 		any = false
 	clearMsg
@@ -99,47 +98,45 @@ script 7 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Today we're heading
-	to the deserted
-	island of Oran!
+	Hoje, a gente vai pra
+	ilha deserta de Oran!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A long time ago,
-	Oran Isle
-	prospered⋯
+	Muito tempo atrás, a
+	Ilha Oran prosperava
+	como fonte de carvão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	as a source of coal.
-	But with the demand
-	for coal gone,
+	Mas, uma vez
+	que a demanda
+	por carvão sumiu,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the mines closed,
-	and the island
-	became deserted.
+	as minas fecharam
+	e a ilha ficou deserta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With nobody to
-	bother us⋯
+	Sem ninguém pra
+	encher a gente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can have all the
-	fun we ever wanted!
+	a gente vai poder curtir
+	o quanto a gente quiser!
 	"""
 	keyWait
 		any = false
@@ -152,9 +149,9 @@ script 8 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	A deserted island!
-	That sounds like a
-	real adventure!
+	Uma ilha deserta!
+	Tá aí uma aventura
+	de verdade!
 	"""
 	keyWait
 		any = false
@@ -166,7 +163,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Time to cast sail!"
+	"Bom, içar velas!"
 	keyWait
 		any = false
 	end
@@ -174,7 +171,7 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hooray!"
+	"Êêêêê!"
 	keyWait
 		any = false
 	end

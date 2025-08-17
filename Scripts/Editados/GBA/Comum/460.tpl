@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Did you see the
-	news? Dang!
+	Cê viu o noticiário?
+	Caramba!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was going
-	to visit End Area
-	today!
+	Eu tava até planejando
+	ir na Área Endo hoje!
 	"""
 	keyWait
 		any = false
@@ -25,16 +24,14 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PEOPLE OF
-	SCILAB AREA!
+	POVO DA ÁREA SCILAB!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE RECEIVED
-	WARNING OF
-	A COMING ATTACK!
+	RECEBEMOS UM AVISO
+	DE UM ATAQUE VINDOURO!
 	"""
 	keyWait
 		any = false
@@ -45,22 +42,21 @@ script 10 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I feel so edgy
-	right now.
+	Eu tô tão arisca agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything just
-	makes me MAD!
+	Tudo me deixa tão
+	BRAVA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stay away from
-	me! I mean it!
+	Não chega perto de mim!
+	É sério!
 	"""
 	keyWait
 		any = false
@@ -75,15 +71,15 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	MY BODY IS
-	BURNING HOT!
+	O MEU CORPO TÁ
+	ARDENTO TANTO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS THIS WHAT
-	HATE FEELS LIKE?
+	É ISTO QUE É
+	SENTIR ÓDIO?
 	"""
 	keyWait
 		any = false
@@ -94,16 +90,15 @@ script 20 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I still don't
-	feel good⋯
+	Eu ainda não tô bem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm worried I'll
-	say something
-	nasty if I relax⋯!
+	Tenho medo de falar
+	alguma coisa cruel se
+	eu baixar a guarda...!
 	"""
 	keyWait
 		any = false
@@ -114,16 +109,16 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE RANGE OF THE
-	LAST ATTACK SEEMS
-	QUITE LARGE.
+	O ALCANCE DO ÚLTIMO
+	ATAQUE PARECE TER
+	SIDO ENORME.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M WORRIED ABOUT
-	THE OTHER AREAS.
+	ESTOU PREOCUPADO COM
+	AS OUTRAS ÁREAS.
 	"""
 	keyWait
 		any = false
@@ -134,16 +129,16 @@ script 30 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I feel like my
-	body is full
-	of burning hate!
+	Sinto como se o meu
+	corpo estivesse cheio
+	de uma raiva ardente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What in the world
-	is going on⋯?
+	O que é que tá
+	acontecendo...?
 	"""
 	keyWait
 		any = false
@@ -154,9 +149,8 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HATE IS SUCH
-	A TERRIBLY
-	STRONG POWER!
+	O ÓDIO É UMA FORÇA
+	TERRÍVEL E INTENSA!
 	"""
 	keyWait
 		any = false
@@ -167,15 +161,16 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE AFTERMATH
-	OF THE ATTACK
+	OS EFEITOS COLATERAIS
+	DO ATAQUE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAN STILL BE SEEN
-	IN EVERY AREA.
+	AINDA PODEM SER
+	SENTIDOS EM TODAS
+	AS ÁREAS.
 	"""
 	keyWait
 		any = false
@@ -186,9 +181,8 @@ script 41 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	I can sense
-	that everyone
-	is terrified.
+	Dá pra sentir que tá
+	todo mundo aterrorizado.
 	"""
 	keyWait
 		any = false

@@ -12,15 +12,16 @@ script 0 mmbn5 {
 		jumpIfFalse = 12
 	msgOpen
 	"""
-	An abandoned
-	wheelbarrow⋯
+	Um carrinho de mão
+	abandonado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bits of coal
-	are strewn about.
+	Com vários pedacinhos
+	de carvão espalhados
+	pelo chão.
 	"""
 	keyWait
 		any = false
@@ -28,13 +29,16 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	msgOpen
-	"Rusty steel drums."
+	"""
+	Barris de aço
+	enferrujados.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They've been left
-	here for years.
+	Estão largados aqui
+	há anos.
 	"""
 	keyWait
 		any = false
@@ -42,13 +46,17 @@ script 1 mmbn5 {
 }
 script 2 mmbn5 {
 	msgOpen
-	"A beat-up old crane."
+	"""
+	Um guindaste bem
+	gasto.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The lever is rusted
-	and won't budge.
+	A alavanca está tão
+	enferrujada, que não
+	sai do lugar.
 	"""
 	keyWait
 		any = false
@@ -57,9 +65,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	The steel drum is
-	rusting away into
-	a pile of scrap.
+	O barril de aço está
+	bem enferrujado, quase
+	virando ferro-velho.
 	"""
 	keyWait
 		any = false
@@ -72,22 +80,23 @@ script 4 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A rotted pole with
-	a speaker attached.
+	Um mastro desgastado
+	com um alto-falante
+	embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a port for
-	jacking in
+	Há uma entrada
+	de conexão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but there is really
-	no need to do that.
+	mas realmente não há
+	por que usá-la.
 	"""
 	keyWait
 		any = false
@@ -96,17 +105,17 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The steel drum is
-	turning orange from
-	rust.
+	O barril de aço está
+	alaranjado de tanta
+	ferrugem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The air is filled
-	with a distinctly
-	rusty odor.
+	O ar está carregado
+	de um odor notável de
+	oxidação.
 	"""
 	keyWait
 		any = false
@@ -119,24 +128,22 @@ script 6 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	An old crane
-	that's quite
-	decrepit looking.
+	Um velho guindaste de
+	aparência decrépita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A close look reveals
-	it's key has been
-	left behind.
+	Olhando bem, pode-se
+	ver que uma chave foi
+	deixada para trás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try to turn
-	it on?
+	Tentar ligar?
 	"""
 	keyWait
 		any = false
@@ -151,7 +158,7 @@ script 6 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -160,7 +167,7 @@ script 6 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -176,17 +183,17 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	The sight of this
-	old wheelbarrow is
-	somehow sad.
+	Ver esse velho
+	carrinho de mão é
+	triste, de certa forma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This old coal mine
-	is a mere shadow of
-	its former self.
+	A velha mina de carvão
+	agora é só uma sombra
+	do que já foi.
 	"""
 	keyWait
 		any = false
@@ -195,16 +202,16 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Some parts are
-	extremely rusted.
+	Certas peças estão
+	cobertas de ferrugem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was probably
-	corroded by the
-	salty ocean air.
+	Provavelmente corroídas
+	pela brisa salgada do
+	mar.
 	"""
 	keyWait
 		any = false
@@ -215,16 +222,16 @@ script 9 mmbn5 {
 	flagSet
 		flag = 299
 	"""
-	After a bit,the
-	crane starts to make
-	a terrible sound.
+	Após um tempo,
+	o guindaste começa a
+	emitir um som horrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would be wise to
-	leave it alone.
+	Seria sábio deixá-lo
+	quieto.
 	"""
 	keyWait
 		any = false
@@ -233,17 +240,16 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	An old crane. It's
-	on but might break
-	down at any moment.
+	Um velho guindaste.
+	Está ligado, mas a um
+	triz de quebrar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The port for jacking
-	in is not working
-	properly.
+	A entrada de conexão
+	não está funcional.
 	"""
 	keyWait
 		any = false
@@ -252,16 +258,17 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A rotten pillar with
-	a speaker attached.
+	Um mastro aos pedaços,
+	com um alto-falante
+	embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's really old
-	but there is a port
-	for jacking in.
+	É antiguíssimo,
+	mas possui uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
@@ -277,26 +284,27 @@ script 12 mmbn5 {
 		flag = 542
 	msgOpen
 	"""
-	An abandoned
-	wheelbarrow⋯
+	Um carrinho de mão
+	abandonado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bits of coal
-	are strewn about.
+	Com vários pedacinhos
+	de carvão espalhados
+	pelo chão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
 	"Hm?"
@@ -304,8 +312,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	There's something
-	else amid the coal.
+	Há alguma coisa
+	em meio ao carvão.
 	"""
 	keyWait
 		any = false
@@ -317,8 +325,8 @@ script 12 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -331,9 +339,8 @@ script 12 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	1 MB!!
+	Memória padrão
+	aumentada em 1 MB!!
 	"""
 	keyWait
 		any = false
@@ -342,15 +349,16 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	An abandoned
-	wheelbarrow⋯
+	Um carrinho de mão
+	abandonado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bits of coal
-	are strewn about.
+	Com vários pedacinhos
+	de carvão espalhados
+	pelo chão.
 	"""
 	keyWait
 		any = false

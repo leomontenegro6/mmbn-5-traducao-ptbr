@@ -10,16 +10,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME. THIS IS THE
-	WEB PAGE FOR SCILAB,
+	BEM-VINDO. ESTA É A
+	PÁGINA DO SCILAB,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHERE THE TOP MINDS
-	IN ELECTOPIA
-	GATHER.
+	ONDE SE REÚNEM AS
+	MAIORES MENTES DE
+	NI-HON.
 	"""
 	keyWait
 		any = false
@@ -35,16 +35,16 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL KINDS OF DEBATES
-	ARE CARRIED OUT ON
-	THIS PAGE.
+	DEBATES DE TODOS OS
+	TIPOS SÃO REALIZADOS
+	NESTA PÁGINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW ABOUT JOINING
-	IN SOMETIME?
+	QUE TAL PARTICIPAR
+	TAMBÉM, QUALQUER DIA?
 	"""
 	keyWait
 		any = false
@@ -60,23 +60,23 @@ script 2 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	One theory claims
-	that DarkChips were
+	Uma das teorias
+	sugere que os
+	Chips das Trevas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	created from
-	people's hate.
+	nasceram do ódio
+	das pessoas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you remember that
-	paper Dr.Hikari
-	published?
+	Lembra do ensaio que
+	o Dr. Hikari publicou?
 	"""
 	keyWait
 		any = false
@@ -91,21 +91,20 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"⋯I see."
+	"... Entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,once the Dark-
-	Power builds up to
-	a certain level,
+	Então, quando o Poder
+	das Trevas alcança um
+	certo nível,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it manifests in
-	physical form.
+	ele toma forma física.
 	"""
 	keyWait
 		any = false
@@ -121,24 +120,23 @@ script 4 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Those Nebula fiends
-	are raising havoc
-	to no end
+	Aqueles patifes da
+	Nebula estão causando
+	estragos imensuráveis,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but SciLab is going
-	to put a stop to it
-	soon.
+	mas o SciLab logo irá
+	pôr um fim nisso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna show
-	them a thing or two!
+	Vamos dar uma bela
+	lição neles!
 	"""
 	keyWait
 		any = false
@@ -149,8 +147,8 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PLEASE,TAKE YOUR
-	TIME.
+	POR FAVOR, FIQUE À
+	VONTADE.
 	"""
 	keyWait
 		any = false
@@ -242,41 +240,41 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME!"
+	"BEM-VINDO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW ABOUT LINKING
-	THIS WEB PAGE WITH
-	YOURS?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	SCILAB'S WEB PAGE
-	IS LINK-FREE!
+	QUE TAL LINKAR ESTA
+	PÁGINA COM A SUA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF WE LINK OUR
-	PAGES,YOU COULD
-	COME AND GO DIRECTLY
+	A PÁGINA DO SCILAB
+	ESTÁ SEM LINKS, NO
+	MOMENTO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN YOURS
-	AND SCILAB'S.
+	SE LINKARMOS NOSSAS
+	PÁGINAS, VOCÊ PODERÁ
+	TRANSITAR LIVREMENTE
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SHALL I LINK THEM?"
+	"""
+	ENTRE A SUA PÁGINA
+	E A DO SCILAB.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"POSSO CRIAR O LINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -291,7 +289,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -300,7 +298,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -315,8 +313,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I SEE⋯
-	MAYBE NEXT TIME⋯
+	ENTENDO...
+	TALVEZ UMA OUTRA
+	HORA...
 	"""
 	keyWait
 		any = false
@@ -327,16 +326,16 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'LL REALLY LINK
-	PAGES WITH US?!
+	VAI MESMO LINKAR
+	A SUA PÁGINA COM
+	A NOSSA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE,TAKE THIS.
-	USE THIS BANNER
-	TO COME HERE.
+	TOME. USE ESSE BANNER
+	PARA VIR PARA CÁ.
 	"""
 	keyWait
 		any = false
@@ -348,7 +347,7 @@ script 12 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -363,15 +362,15 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK,I'LL
-	PLACE A LINK!
+	CERTO, VOU INSTALAR
+	O LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HEAVE-HO⋯
-	HEAVE-HO!!!
+	HURRHÁÁÁ...
+	HURRHÁÁÁ...!!!
 	"""
 	keyWait
 		any = false
@@ -389,8 +388,8 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WEL⋯⋯IS⋯
-	⋯B P⋯F⋯ ⋯LAB
+	BEM... É...
+	... NA... RE... LAB.
 	"""
 	keyWait
 		any = false
@@ -399,9 +398,9 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -412,8 +411,8 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	H⋯⋯OUT⋯⋯⋯PATING
-	⋯TIME?
+	O... SAI... PANDO...
+	... TEMPO?
 	"""
 	keyWait
 		any = false
@@ -422,9 +421,9 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -435,8 +434,8 @@ script 16 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Cre⋯⋯fr⋯
-	pe⋯ha⋯
+	Cre... de...
+	pe... cha...
 	"""
 	keyWait
 		any = false
@@ -445,9 +444,9 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -458,9 +457,9 @@ script 17 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	So⋯on⋯the⋯ark
-	⋯wer⋯⋯up⋯
-	a⋯tain⋯vel
+	Al... uém... o... rco...
+	... rgiz... u...
+	um... to... vel...
 	"""
 	keyWait
 		any = false
@@ -469,9 +468,9 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -482,9 +481,9 @@ script 18 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Tho⋯Ne⋯⋯fi⋯
-	are⋯ing⋯vok
-	to⋯e⋯
+	Mas... Ne... fi...
+	são... ando... aos...
+	ao... e...
 	"""
 	keyWait
 		any = false
@@ -493,9 +492,9 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -506,8 +505,8 @@ script 19 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	Ple⋯ta⋯your
-	ti⋯
+	POR F... QUE... À...
+	TAD...
 	"""
 	keyWait
 		any = false
@@ -515,9 +514,9 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -528,15 +527,9 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT'S BECOME REALLY
-	LONELY AROUND HERE
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	SINCE THAT SHOCKING
-	EVENT.
+	FICOU TÃO SOLITÁRIO
+	AQUI, DEPOIS DAQUELE
+	INCIDENTE.
 	"""
 	keyWait
 		any = false
@@ -547,20 +540,20 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Net hasn't
-	been much fun
+	A Rede não tem andaodo
+	muito divertida,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	because of Nebula's
-	recent acts.
+	devido às ações
+	recentes da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"They make me so mad!"
+	"Aqueles lá me deixam\nfurioso!"
 	keyWait
 		any = false
 	end
@@ -570,16 +563,16 @@ script 22 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SCILAB'S WEB PAGE
-	WILL STAND UP TO ANY
-	OLD NEBULA ATTACK!
+	A PÁGINA DO SCILAB
+	RESISTIRÁ A TODO ATA-
+	QUE BESTA DA NEBULA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE FIGHT FOR THE
-	FUTURE OF SCIENCE!
+	NÓS LUTAMOS PELO
+	FUTURO DA CIÊNCIA!
 	"""
 	keyWait
 		any = false
@@ -594,9 +587,9 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I NEED A SCIENTIFIC
-	EXPLANATION FOR
-	MY ANGER!!!
+	EU PRECISO DE UMA
+	EXPLICAÇÃO CIENTÍFICA
+	PRA MINHA RAIVA!!!
 	"""
 	keyWait
 		any = false
@@ -611,9 +604,9 @@ script 24 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I wanna annoy every-
-	one by making weird
-	posts on the BBS!
+	Eu quero irritar todo
+	mundo "spammando"
+	besteira no Fórum!
 	"""
 	keyWait
 		any = false
@@ -624,9 +617,9 @@ script 25 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RESEARCH IS A WASTE!
-	LET'S STOP GETTING
-	SO STRESSED OUT!!!
+	PESQUISA É UMA PERDA
+	DE TEMPO! ENTÃO PRA
+	QUE SE ESTRESSAR?!!
 	"""
 	keyWait
 		any = false
@@ -637,15 +630,16 @@ script 26 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VISITORS ONLY RAISE
-	MY WORK LOAD!!!
+	VISITAS SÓ SERVEM
+	PRA ME DAR MAIS
+	TRABALHO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU PLEASE GET
-	OUT OF HERE,NOW?
+	PODE, POR FAVOR,
+	SUMIR DAQUI LOGO?!
 	GRRR!!! GRRR!!!
 	"""
 	keyWait
@@ -657,15 +651,17 @@ script 27 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY MIND'S ALL FUZZY.
-	WHAT JUST HAPPENED?
+	A MINHA MENTE ESTÁ
+	TÃO CONFUSA.
+	O QUE ACONTECEU?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAN IT EVEN BE
-	PROVEN BY SCIENCE?
+	SERÁ ALGO SEQUER
+	POSSÍVEL DE SE PROVAR
+	CIENTIFICAMENTE?
 	"""
 	keyWait
 		any = false
@@ -676,17 +672,17 @@ script 28 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I suddenly lost my
-	temper while reading
-	the BBS.
+	Eu perdi a cabeça de
+	repente enquanto lia
+	o Fórum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I use it a lot but
-	this is the first
-	time that happened.
+	Eu o uso muito já faz
+	tempo, e é a primeira
+	vez que isso acontece.
 	"""
 	keyWait
 		any = false
@@ -697,17 +693,17 @@ script 29 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I SUDDENLY GOT ANGRY
-	AND STARTED BAD
-	MOUTHING SCIENCE.
+	EU FIQUEI FURIOSO DE
+	REPENTE E COMECEI A
+	FALAR MAL DA CIÊNCIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I FEEL SO ASHAMED.
-	AFTER ALL,I'M A
-	SCILAB PROGRAM⋯
+	QUE VERGONHA!
+	AFINAL, EU SOU UM
+	PROGRAMA DO SCILAB...
 	"""
 	keyWait
 		any = false
@@ -718,9 +714,9 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NEBULA MUST'VE BEEN
-	BEHIND THAT ATTACK,
-	RIGHT?
+	ERA A NEBULA POR
+	TRÁS DESSE ATAQUE,
+	NÃO ERA?
 	"""
 	keyWait
 		any = false

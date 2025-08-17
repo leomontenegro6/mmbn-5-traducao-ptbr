@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	My work is done for
-	today. Time to go do
-	some Net.
+	Terminei o meu trabalho
+	do dia. Hora de ir para
+	a Rede.
 	"""
 	keyWait
 		any = false
@@ -18,31 +18,32 @@ script 1 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I know what you're
-	thinking,but my
-	memory's not bad.
+	Sei o que está pensando,
+	mas a minha memória
+	não é tão ruim assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can remember all
-	the chip codes.
+	Eu consigo me lembrar
+	de todos os códigos de
+	chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For instance,there
-	are 4 cannon types,
-	A,B,C and *.
+	Por exemplo,
+	há 4 tipos de Cannon:
+	A, B, C e *.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do you think?
-	Not bad,eh?
+	Que tal?
+	Nada mal, não é?
 	"""
 	keyWait
 		any = false
@@ -53,25 +54,25 @@ script 2 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	To win a NetBattle,
-	you need to practice
-	and practice!
+	Pra vencer na NetLuta,
+	tem que praticar,
+	praticar e praticar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's what my
-	teacher said,and I
-	wish I could.
+	Foi isso que o meu
+	professor falou. E eu
+	bem que queria, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't there some
-	easier way to
-	win at NetBattles?
+	Não tem nenhum jeito
+	mais fácil de vencer
+	na NetLuta?
 	"""
 	keyWait
 		any = false
@@ -89,29 +90,30 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"What's that?"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	SerchMan is great
-	at analyzing data!
+	O SearchMan é do
+	caramba pra analisar
+	dados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Raika
-	"Of course."
+	"Claro que é."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no data
-	SerchMan can't
-	analyze!
+	Não existe dado que
+	o SearchMan não
+	consiga analisar.
 	"""
 	keyWait
 		any = false
@@ -119,8 +121,8 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Aren't you kind of
-	on-edge today?
+	... Cê tá meio arisco
+	hoje, hein?
 	"""
 	keyWait
 		any = false
@@ -128,9 +130,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	"""
-	Nah,not really.
-	I'm always like
-	this in Sharo.
+	Não é verdade.
+	Eu sou sempre assim
+	em Sharo.
 	"""
 	keyWait
 		any = false
@@ -138,44 +140,44 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You don't say.
-	OK⋯
+	Ah, é?
+	Tá bom...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a job for
-	SerchMan and his
-	powers!!!
+	Enfim, eu tenho um tra-
+	balho pro SearchMan e
+	pras habilidades dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*yada yada yada*"
+	"Blá, blá, blá..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Raika
 	"""
-	OK,I'll help you
-	out.
+	... Tudo bem, irei lhe
+	ajudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on over to the
-	research lab and
-	I'll meet you there.
+	Siga para o laboratório
+	de pesquisa e eu lhe
+	encontrarei lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to take care
-	of something first!
+	Preciso resolver uma
+	coisa antes.
 	"""
 	keyWait
 		any = false
@@ -183,8 +185,8 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,I'll be waiting
-	for you!
+	Beleza.
+	Te espero lá!
 	"""
 	keyWait
 		any = false
@@ -197,15 +199,15 @@ script 11 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	I just have to
-	contact Sharo.
+	Só preciso contatar
+	Sharo primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You go on ahead and
-	wait for me!
+	Pode ir na frente,
+	logo eu irei lá.
 	"""
 	keyWait
 		any = false
@@ -216,9 +218,9 @@ script 12 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	I'm busy now.
-	Don't bug me unless
-	you've got business⋯
+	Estou ocupado agora.
+	Não me incomode, a
+	menos que haja motivo...
 	"""
 	keyWait
 		any = false
@@ -236,92 +238,15 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"What's up,Lan,huh?"
+	"Fala aí, Lan! É!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Hey,NumberMan's
-	good at analyzing
-	data,isn't he?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Higsby
-	"Of course,huh!!!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'd like to see the
-	data NumberMan
-	couldn't analyze!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	I have a job for
-	him and his powers!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"*yada yada yada*"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Higsby
-	"""
-	Security analysis of
-	Dr.Hikari's
-	computer,huh!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Sounds fun! I'll
-	help you,huh!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I have to call a
-	trader but I'll
-	catch up with you.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You go on ahead,
-	Lan,huh.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"""
-	OK,I'll wait for you
-	there!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Hey Higsby⋯ there's
-	something odd about
-	you today.
+	Ei, o NumberMan é bom
+	em analisar dados, né?
 	"""
 	keyWait
 		any = false
@@ -329,31 +254,109 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Nope,nothing odd,
-	huh! Just your pal
-	Higsby,huh!
+	Isso é como perguntar
+	se água é molhada!!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ainda tô pra achar
+	dados que o NumberMan
+	não consiga analisar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well⋯ OK,I hope so."
+	"""
+	Pois eu tenho um
+	trabalho pra ele e
+	pros poderes dele!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Blá, blá, blá..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
 	"""
-	I'll be right there,
-	huh!
+	Uma varredura de
+	segurança no computador
+	do Dr. Hikari, é?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Parece divertido!
+	Claro, eu te ajudo, é!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vou ter que ligar pra
+	um contato primeiro,
+	mas chego já lá!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pode ir na frente, Lan.
+	É.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"OK,see you there!"
+	"""
+	Tá, te espero lá!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ei, Higsby...
+	Cê tá meio estranho
+	hoje, né?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Higsby
+	"""
+	E-estranho? Eu? Não!
+	Eu sou o seu amigo de
+	sempre, o Higsby, é!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"Bom... Tá, né?"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Higsby
+	"""
+	Eu chego já lá, é!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"Tá bom, té lá!"
 	keyWait
 		any = false
 	flagSet
@@ -365,8 +368,8 @@ script 14 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I'll be right there,
-	you go on ahead!
+	Chegarei lá rapidinho.
+	Pode ir na frente, é!
 	"""
 	keyWait
 		any = false
@@ -377,9 +380,9 @@ script 15 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Sorry,I'm too busy
-	to hang out right
-	now.
+	Desculpa, mas tô
+	ocupado demais pra
+	brincar agora, é.
 	"""
 	keyWait
 		any = false
@@ -395,16 +398,16 @@ script 20 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Yes!
-	A complete reversal.
+	Boa!
+	Um contra-ataque
+	perfeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? What's wrong
-	with my Navi all of
-	a sudden?
+	Hã? O que deu no meu
+	Navi, de repente?
 	"""
 	keyWait
 		any = false
@@ -412,17 +415,17 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	Heh,you're trying
-	to get me to go easy
-	on you!
+	He, cê só tá falando
+	isso pra eu pegar leve
+	contigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wha'?! Now my Navi's
-	starting to act up!
-	What's going on?!
+	... Ué? Agora é o meu
+	Navi que tá doido!
+	O que tá rolando?!
 	"""
 	keyWait
 		any = false
@@ -438,9 +441,9 @@ script 22 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Dang,I forgot my
-	PET. How can I get
-	any work done?
+	Droga, esqueci o meu
+	PET em casa. Como eu
+	vou trabalhar agora?
 	"""
 	keyWait
 		any = false
@@ -451,8 +454,9 @@ script 30 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	All right! How do
-	like that recovery?!
+	Beleza!
+	Gostou dessa minha
+	cura?!
 	"""
 	keyWait
 		any = false
@@ -460,8 +464,9 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	Not as good as this
-	recovery!
+	Ah, ela foi fraquinha...
+	Saca só esta MINHA
+	cura!
 	"""
 	keyWait
 		any = false
@@ -469,9 +474,9 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	Oh yeah? Then how do
-	yah like this one?!
-	Recovered!
+	Ah, é?
+	Então toma esta aqui!
+	Curado!
 	"""
 	keyWait
 		any = false
@@ -479,8 +484,8 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	I knew it! Here's
-	another recovery!
+	Sabia! E eu também...
+	me curo de novo!
 	"""
 	keyWait
 		any = false
@@ -488,32 +493,32 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = CapBoy
 	"""
-	You think so! Then
-	how about⋯
+	Espertinho!
+	Então, eu vou...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	wait
 		frames = 20
-	"・"
+	"."
 	wait
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
 	"""
-	Enough.
-	We can't go on like
-	this forever!
+	Tá, chega.
+	Assim, esta luta não
+	acaba nunca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OrangeShirtBoy
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	end
@@ -523,16 +528,15 @@ script 32 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Wow,I really dodged
-	the bullet.
+	Ufa, dei muita sorte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good thing I forgot
-	my PET today,huh!
-	How ironic.
+	Ainda bem que eu
+	esqueci o meu PET hoje!
+	A vida tem dessas.
 	"""
 	keyWait
 		any = false
@@ -548,23 +552,23 @@ script 40 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	So they finally
-	liberated End Area.
+	Então, liberaram a
+	Área Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess that just
-	leaves the Undernet.
+	Agora, só falta a
+	Undernet, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that area was
-	always kind of
-	under their control⋯
+	Mas aquela área sempre
+	esteve meio que sob o
+	controle de bandidos...
 	"""
 	keyWait
 		any = false
@@ -580,9 +584,8 @@ script 41 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What's the big
-	uproar in the
-	SciLab?
+	Que comoção toda é
+	essa no SciLab?
 	"""
 	keyWait
 		any = false
@@ -593,9 +596,9 @@ script 42 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Well the SciLab has
-	quieted down.
-	What was that about?
+	O SciLab parece ter
+	se acalmado.
+	O que foi aquilo?
 	"""
 	keyWait
 		any = false
@@ -606,9 +609,9 @@ script 43 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'd like to see the
-	Undernet after it's
-	liberated sometime.
+	Agora que a Undernet
+	foi liberada, acho que
+	vou visitá-la, um dia.
 	"""
 	keyWait
 		any = false
@@ -618,14 +621,14 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"How boring⋯"
+	"Que tédio..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If time really was
-	money,I'd be rich
-	by now⋯
+	Se tempo fosse mesmo
+	dinheiro, eu seria
+	milionário agora...
 	"""
 	keyWait
 		any = false
@@ -641,24 +644,25 @@ script 45 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You may think I'm
-	just spinning around
-	here but my head's
+	Você pode achar que eu
+	estou só rodopiando
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	full with my next
-	research topic.
+	mas a minha mente está
+	ocupada com a minha
+	próxima pesquisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Argh!
-	Deadlines! Nothing
-	but deadlines!
+	Prazos!
+	Prazos pra todo lado!
 	"""
 	keyWait
 		any = false
@@ -669,22 +673,22 @@ script 46 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	A problem at SciLab?
-	Someone will call me
-	if they need me.
+	Um problema no SciLab?
+	Se precisarem de mim,
+	sei que me chamarão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm more concerned
-	about my next
-	research topic.
+	Estou mais preocupado
+	agora é com meu próximo
+	tópico de pesquisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dang deadlines⋯"
+	"Malditos prazos..."
 	keyWait
 		any = false
 	end
@@ -695,15 +699,15 @@ script 47 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"*mumble mumble*"
+	"Hm... Hm..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	No answer.
-	He seems to be
-	deep in thought.
+	Ele não responde.
+	Parece estar perdido
+	em seus pensamentos.
 	"""
 	keyWait
 		any = false
@@ -719,17 +723,17 @@ script 48 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I came to see my
-	grandson who works
-	here but he had to
+	Vim ver meu neto, que
+	trabalha aqui, mas ele
+	teve que voltar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hurry back to work
-	because of the
-	incident. Poor boy!
+	correndo pro trabalho
+	por causa do incidente.
+	Ô, coitado!
 	"""
 	keyWait
 		any = false
@@ -740,9 +744,9 @@ script 49 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	My grandson who
-	works here is fine.
-	Time to go home.
+	Meu neto, que trabalha
+	aqui, está bem. Hora de
+	eu ir para casa.
 	"""
 	keyWait
 		any = false
@@ -753,17 +757,17 @@ script 50 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I saw in the news
-	that there was some
-	major incident at
+	Eu vi no noticiário que
+	rolou um incidente sério
+	no SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SciLab. I was right
-	by there,too,but I
-	didn't notice it.
+	E eu tava bem pertinho
+	de lá na hora, mas não
+	notei nada.
 	"""
 	keyWait
 		any = false
@@ -774,32 +778,32 @@ script 51 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	On the Net,
-	when a site tries to
-	install something,
+	Na Rede, quando um
+	site tenta fazer você
+	instalar alguma coisa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't just click on
-	"Yes" without
-	thinking about it.
+	não se deve clicar
+	em "Sim" sem antes
+	pensar bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't make
-	sure that program is
-	really safe first,
+	Se você não confirmar
+	que o programa é
+	mesmo seguro primeiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you might really
-	regret it later.
+	pode se arrepender
+	amargamente depois.
 	"""
 	keyWait
 		any = false

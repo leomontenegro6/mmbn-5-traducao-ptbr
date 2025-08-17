@@ -5,16 +5,17 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You probably already
-	know this,but
-	ProtoMan is back⋯
+	Vocês já devem estar
+	cientes disso, mas o
+	ProtoMan voltou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means our
-	whole team is here.
+	O que significa que
+	a equipe toda está
+	reunida aqui.
 	"""
 	keyWait
 		any = false
@@ -27,9 +28,9 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	So can we go
-	strike Nebula's
-	home base?!
+	Então a gente pode
+	ir atacar a base
+	da Nebula?!
 	"""
 	keyWait
 		any = false
@@ -40,9 +41,9 @@ script 2 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	How can we do
-	that without knowing
-	where it is?
+	Como faríamos isso,
+	se nem sabemos onde
+	ela fica?
 	"""
 	keyWait
 		any = false
@@ -52,7 +53,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Um⋯ Errr⋯"
+	"Ah... Err..."
 	keyWait
 		any = false
 	clearMsg
@@ -64,8 +65,9 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	We have a general
-	fix on their base.
+	Nós determinamos
+	a localização
+	aproximada dela.
 	"""
 	keyWait
 		any = false
@@ -75,7 +77,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Really?!"
+	"Determinaram?!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,9 +89,9 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan's access
-	log contains its
-	probable location.
+	O registro de acesso
+	do ProtoMan revelou
+	a localização portátil.
 	"""
 	keyWait
 		any = false
@@ -102,8 +104,8 @@ script 7 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Well,what are
-	we waitin' for!!!
+	Bom, o que a gente
+	tá esperando, então?!
 	"""
 	keyWait
 		any = false
@@ -116,8 +118,8 @@ script 8 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	How's ProtoMan,
-	anyway?
+	Aliás, como é que
+	tá o ProtoMan?
 	"""
 	keyWait
 		any = false
@@ -129,13 +131,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"He's lucid now."
+	"Ele está lúcido agora."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He should be fully
-	recovered tomorrow.
+	Deve se recuperar por
+	completo já amanhã.
 	"""
 	keyWait
 		any = false
@@ -147,7 +149,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"That's a relief⋯"
+	"Ah, que alívio..."
 	keyWait
 		any = false
 	clearMsg
@@ -159,16 +161,16 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That means we head
-	for Nebula's home
-	base tomorrow!
+	Então, a gente
+	ataca a base da
+	Nebula amanhã!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After all,we gotta
-	have our leader!
+	Afinal de contas,
+	o nosso líder voltou!
 	"""
 	keyWait
 		any = false
@@ -180,13 +182,13 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Um,uhhh,Chaud?"
+	"E-Err, Chaud?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we going to
-	Nebula's base,too?
+	A gente também vai
+	pra base da Nebula?
 	"""
 	keyWait
 		any = false
@@ -199,8 +201,8 @@ script 13 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You don't have to go
-	if you're scared⋯
+	Se estiverem com medo,
+	não precisam ir...
 	"""
 	keyWait
 		any = false
@@ -213,30 +215,31 @@ script 14 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	⋯We've come this
-	far with you guys
+	... Já chegamos
+	até aqui com vocês,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so we're gonna stick
-	around till the end.
+	então, nós vamos
+	encarar essa até o fim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever I'm scared,
-	I just put one foot
-	forward.
+	Sempre que eu fico com
+	medo, eu dou um passo
+	a frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That somehow makes
-	it easier to go on.
+	Não sei por quê, mas
+	isso deixa mais fácil
+	seguir adiante.
 	"""
 	keyWait
 		any = false
@@ -248,51 +251,53 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hm⋯ Ok then⋯"
+	"Hm... Pois bem, então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be at the park in
-	front of Higsby's at
-	10 AM tomorrow.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You don't have to
-	come if you don't
-	want to.
+	Estejam no parque em
+	frente à Loja do Higsby
+	amanhã, às 10h00.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've all done more
-	than enough already.
+	Não precisam ir,
+	se não quiserem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This one's shaping
-	up to be one
-	heck of a battle.
+	Vocês todos já lutaram
+	mais que o suficiente
+	pela nossa causa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't say a word
-	if you stay home.
+	Ao que tudo indica,
+	essa vai ser uma
+	batalha das grandes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all.
-	Meeting's over!
+	Se preferirem ficar
+	em suas casas, eu
+	não vou dizer nada.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Isso é tudo.
+	Declaro encerrada
+	a reunião!
 	"""
 	keyWait
 		any = false
@@ -303,16 +308,17 @@ script 16 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	You probably already
-	know this,but
-	Colonel is back⋯
+	Vocês já devem estar
+	cientes disso, mas o
+	Colonel voltou...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means our
-	whole team is here.
+	O que significa que
+	a equipe toda está
+	reunida aqui.
 	"""
 	keyWait
 		any = false
@@ -325,9 +331,9 @@ script 17 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	So can we go
-	strike Nebula's
-	home base?!
+	Então a gente pode
+	ir atacar a base
+	da Nebula?!
 	"""
 	keyWait
 		any = false
@@ -338,13 +344,13 @@ script 18 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	How can we do
-	that without knowing
+	Como seria possível
+	fazê-lo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"where it is?"
+	"sem saber onde fica?"
 	keyWait
 		any = false
 	end
@@ -353,7 +359,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Oh,good point⋯"
+	"Ah, verdade..."
 	keyWait
 		any = false
 	clearMsg
@@ -365,8 +371,9 @@ script 20 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	We have a general
-	fix on their base.
+	Nós determinamos
+	a localização
+	aproximada dela.
 	"""
 	keyWait
 		any = false
@@ -376,7 +383,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Really?!"
+	"É mesmo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -388,9 +395,9 @@ script 22 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Colonel's access
-	log contains its
-	probable location.
+	O registro de acesso
+	do Colonel revelou a
+	localização portátil.
 	"""
 	keyWait
 		any = false
@@ -403,8 +410,8 @@ script 23 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Well,what are
-	we waitin' for!!!
+	Bom, o que a gente
+	tá esperando, então?!
 	"""
 	keyWait
 		any = false
@@ -417,8 +424,8 @@ script 24 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	How's Colonel,
-	anyway?
+	Por sinal,
+	como está o Colonel?
 	"""
 	keyWait
 		any = false
@@ -430,13 +437,13 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"He's lucid now."
+	"Ele está lúcido agora."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He should be fully
-	recovered tomorrow.
+	Deve se recuperar por
+	completo já amanhã.
 	"""
 	keyWait
 		any = false
@@ -448,7 +455,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"That's a relief⋯"
+	"Ah, que alívio..."
 	keyWait
 		any = false
 	clearMsg
@@ -460,16 +467,16 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That means we head
-	for Nebula's home
-	base tomorrow!
+	Então, a gente
+	ataca a base da
+	Nebula amanhã!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After all,we gotta
-	have our leader!
+	Afinal de contas,
+	o nosso líder voltou!
 	"""
 	keyWait
 		any = false
@@ -481,13 +488,13 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Um,uhhh,Colonel?"
+	"E-err, Colonel?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we going to
-	Nebula's base,too?
+	A gente também vai
+	pra base da Nebula?
 	"""
 	keyWait
 		any = false
@@ -500,8 +507,8 @@ script 29 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	You don't have to go
-	if you're scared⋯
+	Se estiverem com medo,
+	não precisam ir...
 	"""
 	keyWait
 		any = false
@@ -514,33 +521,35 @@ script 30 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Wh-who's scared,
-	huh?!
+	Q-quem é que tá
+	com medo aqui?! É!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This team's gonna
-	make a man outta me.
+	Esta equipe me
+	transformou num
+	homem de verdade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I'm gonna ask
-	Ms.Mariko to mar⋯
+	Depois desta missão,
+	eu vou pedir a Srta.
+	Mari em ca...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Ahuh-choo! At any"
+	"... Ca-hem! E-enfim!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	r-rate,I'm not
-	gonna chicken out!
+	Eu não vou amarelar
+	agora! É!
 	"""
 	keyWait
 		any = false
@@ -552,51 +561,53 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Hm⋯ Ok then⋯"
+	"Hm... Pois bem, então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be at the park in
-	front of Higsby's at
-	10 AM tomorrow.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You don't have to
-	come if you don't
-	want to.
+	Estejam no parque em
+	frente à Loja do Higsby
+	amanhã, às 10h00.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've all done more
-	than enough already.
+	Não precisam ir,
+	se não quiserem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This one's shaping
-	up to be one
-	heck of a battle.
+	Vocês todos já lutaram
+	mais que o suficiente
+	pela nossa causa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't say a word
-	if you stay home.
+	Ao que tudo indica,
+	essa vai ser uma
+	batalha das grandes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's all.
-	Meeting's over!
+	Se preferirem ficar
+	em suas casas, eu
+	não vou dizer nada.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Isso é tudo.
+	Declaro encerrada
+	a reunião!
 	"""
 	keyWait
 		any = false

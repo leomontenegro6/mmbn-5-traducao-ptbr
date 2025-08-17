@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Tsk! Why you!
-	I'll get you for this!
+	Tsc! Desgraçado!
+	Cê ainda vai pagar
+	por isso!
 	"""
 	keyWait
 		any = false
@@ -17,9 +18,9 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Who would've thought
-	we'd encounter more
-	Nebula agents?
+	Quem ia imaginar que
+	a gente ia esbarrar em
+	mais agentes da Nebula?
 	"""
 	keyWait
 		any = false
@@ -32,23 +33,23 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess you have to
-	stay on guard when
-	you're on the Net.
+	Acho que, na Rede,
+	a gente tem que ficar
+	sempre esperto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have to keep
-	forging ahead!
+	Enfim, temos que
+	seguir em frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,restore the
-	network!
+	MegaMan,
+	restaura a rede!
 	"""
 	keyWait
 		any = false
@@ -60,7 +61,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -70,9 +71,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,network
-	restoration
-	complete!
+	Lan, restauração
+	da rede concluída!
 	"""
 	keyWait
 		any = false
@@ -85,8 +85,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Time to enter
-	SciLab Area!
+	Legal!
+	Hora de entrar
+	na Área SciLab!
 	"""
 	keyWait
 		any = false
@@ -98,7 +99,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -107,7 +108,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -116,7 +117,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end

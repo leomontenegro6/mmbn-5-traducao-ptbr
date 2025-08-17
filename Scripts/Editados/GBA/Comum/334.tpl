@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,thanks for
-	saving us!
+	Lan, obrigada por
+	salvar a gente!
 	"""
 	keyWait
 		any = false
@@ -17,13 +17,13 @@ script 1 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You got us out of a
-	real tight spot,Lan!
+	Cê tirou a gente dum
+	belo dum aperto, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks,buddy!"
+	"Valeu, parça!"
 	keyWait
 		any = false
 	end
@@ -33,15 +33,15 @@ script 2 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	My⋯My knees are
-	still knocking!
+	As... as minhas pernas
+	ainda tão tremendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know if I
-	can walk yet⋯
+	Não sei se eu consigo
+	andar ainda...
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The secret door
-	is in there. Go!
+	A porta secreta fica aí.
+	Vá!
 	"""
 	keyWait
 		any = false
@@ -17,13 +17,13 @@ script 1 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	There seems to
-	be a secret door
+	Parece haver uma
+	porta secreta aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in there. Go!"
+	"Prossiga!"
 	keyWait
 		any = false
 	end
@@ -33,15 +33,16 @@ script 2 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	The look of this
-	building spells
+	Esse prédio é perigo
+	puro. Dá para sentir
+	só de olhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trouble already.
-	Hope we make it⋯
+	Espero que a gente
+	saia dessa vivo...
 	"""
 	keyWait
 		any = false
@@ -52,16 +53,15 @@ script 3 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	This place is
-	totally terrifying!
+	Que lugar aterrorizante!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there's no
-	turning back.
-	Let's do our best!
+	Mas não há mais volta.
+	Vamos nos dedicar ao
+	máximo!
 	"""
 	keyWait
 		any = false
@@ -72,9 +72,9 @@ script 4 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	So this is Nebula's
-	base,huh? Let's
-	trash this place!
+	Então, essa é a base
+	da Nebula... Bora
+	desmoronar isso aí tudo!
 	"""
 	keyWait
 		any = false
@@ -84,13 +84,15 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"This is Nebula's"
+	"""
+	Então, esse que é o
+	esconderijo da Nebula?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	hideout,huh?
-	Let's smash it!
+	Bora reduzir ele a pó!
 	"""
 	keyWait
 		any = false
@@ -101,13 +103,13 @@ script 6 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	We're in enemy
-	territory. Keep
+	Estamos em território
+	inimigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"your guard up."
+	"Não baixe a guarda."
 	keyWait
 		any = false
 	end
@@ -117,16 +119,17 @@ script 7 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I am Higsby!
-	A lone wolf,huh!
-	I'm not scared!
+	Eu sou o Higsby!
+	Um lobo solitário, é!
+	Não tô com medo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not scared
-	at all,huh!
+	N-n-não t-tô com
+	n-n-nenhum m-m-medo!
+	É!
 	"""
 	keyWait
 		any = false
@@ -137,8 +140,8 @@ script 8 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	I'm so nervous,
-	waking around here!
+	Só pisar aqui já me
+	deixa super nervosa!
 	"""
 	keyWait
 		any = false
@@ -149,16 +152,15 @@ script 9 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	I've done a lot
-	of investigative
-	assignments⋯
+	Eu já fiz muitas
+	matérias investigativas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But this is the
-	scariest by far!
+	Mas esta é, de longe,
+	a mais sinistra!
 	"""
 	keyWait
 		any = false
@@ -169,8 +171,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's locked tight.
-	Find another way.
+	Tá bem trancado.
+	Bora achar outro
+	caminho.
 	"""
 	keyWait
 		any = false

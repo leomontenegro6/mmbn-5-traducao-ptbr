@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Uh-Uuh!!!"
+	"Ung... Ungh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?!"
+	"O que foi, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,14 +26,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I feel terrible!"
+	"Eu tô me sentindo\npéssimo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel this cruddy
-	sensation welling
-	up in my soul⋯
+	É uma sensação de
+	podridão que tá
+	invadindo a minha alma...
 	"""
 	keyWait
 		any = false
@@ -45,7 +45,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hang in there!!!"
+	"Aguenta firme!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,18 +65,19 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this⋯is this me?"
+	"Isso... isso é a minha...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I get it! It's the
-	darkness in my soul!
+	... Entendi!
+	É a escuridão
+	na minha alma!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here it comes,Lan!!!"
+	"Lá vem, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -88,14 +89,17 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,you must
-	conquer the darkness
-	in your soul!!!
+	MegaMan, você tem que
+	conquistar as trevas
+	na sua alma!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +110,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	end

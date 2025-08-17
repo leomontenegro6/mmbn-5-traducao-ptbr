@@ -19,15 +19,15 @@ script 0 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Hey,kid! Eat
-	those cookies!
+	Aí, guri!
+	Come os meus biscoitos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If ya don't,I'll
-	smack you one!
+	Se não comer, eu te dou
+	um "pescotapa"!
 	"""
 	keyWait
 		any = false
@@ -38,16 +38,16 @@ script 1 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Are you trying to
-	get me in trouble?
+	Cê tá tentando me
+	enrolar, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think you are!
-	Yeah! Yeah! I'm
-	not THAT silly!
+	Eu acho que tá! Que
+	boniiito, hein?! Eu não
+	sou TÃO boba assim!
 	"""
 	keyWait
 		any = false
@@ -62,9 +62,8 @@ script 2 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Just shut up and
-	do what I tell ya
-	to do!
+	Só cala a boca e faz
+	o que eu tô mandando!
 	"""
 	keyWait
 		any = false
@@ -72,16 +71,15 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	Who the heck do
-	you think you are?
+	Quem você pensa que é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better shut
-	up and listen to
-	ME,buddy!
+	É VOCÊ quem tem que
+	calar a boca e ME
+	obedecer, mané!
 	"""
 	keyWait
 		any = false
@@ -92,9 +90,9 @@ script 10 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	What was that,
-	just now? It was
-	kinda spooky!
+	O que foi aquilo
+	ainda agora?
+	Foi meio sinistro!
 	"""
 	keyWait
 		any = false
@@ -110,16 +108,16 @@ script 11 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I⋯ I can't
-	remember anything
-	I was doing before!
+	Eu... Eu não consigo me
+	lembrar de nada do que
+	eu tava fazendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like I
-	wasn't myself⋯!
+	Eu tava, tipo,
+	fora de mim...!
 	"""
 	keyWait
 		any = false
@@ -130,9 +128,9 @@ script 12 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Honey,do you
-	remember why
-	we were arguing?
+	Querida, você lembra
+	sobre o que estávamos
+	discutindo?
 	"""
 	keyWait
 		any = false
@@ -140,8 +138,8 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	No,sweetheart!
-	Not at all⋯
+	Não, amor!
+	Realmente não lembro...
 	"""
 	keyWait
 		any = false
@@ -152,9 +150,8 @@ script 20 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	What in the world
-	happened?! I'm
-	like totally lost!
+	Mas o que aconteceu?!
+	Eu tô suuuper perdida!
 	"""
 	keyWait
 		any = false
@@ -165,24 +162,24 @@ script 21 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	It felt like I hit
-	my head on something
-	really hard.
+	Eu fico com essa lem-
+	brança de que bati a
+	cabeça com muita força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't remember
-	anything after that.
+	E não me lembro de
+	mais nada depois disso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm still feeling
-	dark and confused.
-	I'm scared.
+	Ainda tô toda
+	desnorteada e confusa...
+	Dá um medo, isso.
 	"""
 	keyWait
 		any = false
@@ -193,16 +190,17 @@ script 22 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	That was the oddest
-	experience I've
-	ever had!
+	Essa foi a experiência
+	mais maluca que eu já
+	tive!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who did that? It
-	wasn't funny at all!
+	Quem foi o culpado
+	disso? Não teve graça
+	nenhuma!
 	"""
 	keyWait
 		any = false
@@ -213,16 +211,16 @@ script 23 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I've never,
-	ever lost my
-	memory before!
+	Eu NUNCA perdi a
+	memória antes.
+	Nem uma vezinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a first
-	time for everything!
+	... Acho que tem uma
+	primeira vez pra tudo!
 	"""
 	keyWait
 		any = false
@@ -233,16 +231,17 @@ script 30 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I'll never stop
-	selling my cookies!
-	No matter what!
+	Eu nunca vou parar de
+	vender meus biscoitos!
+	Nunca, jamais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Nebula-whatever
-	doesn't scare me!
+	Aquela "Nebulosa" ou
+	sei lá o quê não me
+	assusta!
 	"""
 	keyWait
 		any = false
@@ -253,24 +252,23 @@ script 31 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Nebula's behind
-	yesterday's
-	incident.
+	A Nebula tava por trás
+	do incidente de ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People are too
-	scared to go out
-	but not me!
+	Tá todo mundo com medo
+	demais pra sair de casa,
+	mas eu, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to put
-	on a brave face!
+	A gente tem que mostrar
+	coragem!
 	"""
 	keyWait
 		any = false

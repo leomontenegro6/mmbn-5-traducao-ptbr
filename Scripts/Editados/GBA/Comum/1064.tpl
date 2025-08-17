@@ -23,8 +23,8 @@ script 4 mmbn5s {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	Grrrowl!
-	BeastBreath!
+	Rrraaaarrrh!
+	Baforada Selvagem!
 	"""
 	keyWait
 		any = false

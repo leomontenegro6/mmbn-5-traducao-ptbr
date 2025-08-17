@@ -4,13 +4,17 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Regal must be near."
+	"""
+	O Regal deve
+	estar por perto.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I sense a strong
-	DarkPower here⋯
+	Estou sentindo um
+	Poder das Trevas
+	fortíssimo aqui...
 	"""
 	keyWait
 		any = false
@@ -21,8 +25,9 @@ script 1 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Whoever crosses my
-	path will be sorry!
+	Quem quer que se meta
+	no meu caminho vai se
+	arrepender muito!
 	"""
 	keyWait
 		any = false
@@ -32,13 +37,17 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Regal must be near."
+	"""
+	O Regal deve
+	estar por perto.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I sense a strong
-	DarkPower here⋯
+	Estou sentindo um
+	Poder das Trevas
+	fortíssimo aqui...
 	"""
 	keyWait
 		any = false
@@ -49,8 +58,8 @@ script 3 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Not even fear will
-	stop me!
+	Nem o medo vai
+	me parar! Coaxo!
 	"""
 	keyWait
 		any = false
@@ -61,13 +70,12 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The final battle's
-	near!
+	A batalha final tá perto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go!!!"
+	"Vamos lá!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -79,8 +87,7 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	keep an eye out!!!
+	MegaMan, olho aberto!!!
 	"""
 	keyWait
 		any = false
@@ -92,7 +99,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!!!"
+	"Sempre!!!"
 	keyWait
 		any = false
 	end

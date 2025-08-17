@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	GyroMan,can you
-	handle it?
+	GyroMan, consegue
+	dar conta disso?
 	"""
 	keyWait
 		any = false
@@ -18,14 +18,14 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Leave it to me."
+	"Deixa comigo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a key point
-	that'll take the
-	whole thing out.
+	Tem um ponto chave ali
+	que vai desfazer a
+	coisa toda.
 	"""
 	keyWait
 		any = false
@@ -35,13 +35,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Here goes nothing."
+	"Lá vai."
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 28
-	"GyroForm!"
+	"GyroForma!"
 	keyWait
 		any = false
 	end
@@ -50,7 +50,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"3,2,1,GO!"
+	"3, 2, 1, VAI!"
 	keyWait
 		any = false
 	end
@@ -59,18 +59,18 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Target located!"
+	"Alvo localizado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a DarkChip.
-	Be gone!
+	É um Chip das Trevas.
+	Tchauzinho, mané!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fire!"
+	"Fogo!"
 	keyWait
 		any = false
 	end
@@ -79,7 +79,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"All done!"
+	"Pronto!"
 	keyWait
 		any = false
 	end
@@ -89,8 +89,7 @@ script 6 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Am I late for the
-	party?
+	Tô atrasado pra festa?
 	"""
 	keyWait
 		any = false
@@ -103,8 +102,8 @@ script 7 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Not at all!
-	Let's go!
+	He. Claro que não!
+	Vamos!
 	"""
 	keyWait
 		any = false
@@ -114,7 +113,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's go!"
+	"Bora, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -125,7 +124,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -135,8 +134,8 @@ script 10 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	ShadowMan,can you
-	handle it?
+	ShadowMan, consegue
+	dar conta disso?
 	"""
 	keyWait
 		any = false
@@ -148,13 +147,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Simple."
+	"É muito simples."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I only need to hit a
-	key point.
+	Eu só preciso chegar
+	a um ponto chave para
+	resolver a situação.
 	"""
 	keyWait
 		any = false
@@ -164,22 +164,22 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Here goes."
+	"Aqui vou eu."
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 28
 	"""
-	Weight of a feather,
-	speed of a hare!
+	Rin! Pyou! Tou!
+	Sha! Kai! Jin!
+	Retsu! Zai! Zen!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make me light
-	as air!
+	Arte Ninja Mãe-D'água!
 	"""
 	keyWait
 		any = false
@@ -189,7 +189,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Hrah!"
+	"Reá!"
 	keyWait
 		any = false
 	end
@@ -198,18 +198,19 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"It's a DarkChip⋯"
+	"Um Chip das Trevas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But no match for the
-	Muramasa!
+	Humpf. Não há nada que
+	a minha Muramasa não
+	seja capaz de cortar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hyah!"
+	"Eiá!"
 	keyWait
 		any = false
 	end
@@ -218,7 +219,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"It is done!"
+	"Feito!"
 	keyWait
 		any = false
 	end
@@ -227,7 +228,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Wait for me!"
+	"Esperem por mim!"
 	keyWait
 		any = false
 	clearMsg
@@ -239,8 +240,8 @@ script 17 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The crew's all here.
-	Now let's go!
+	Agora, a equipe está
+	toda reunida. Vamos!
 	"""
 	keyWait
 		any = false
@@ -250,7 +251,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's go!"
+	"Bora, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +262,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end

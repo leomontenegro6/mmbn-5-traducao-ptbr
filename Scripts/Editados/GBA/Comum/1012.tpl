@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's⋯it's gone?"
+	"Ela... sumiu?"
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's back inside me."
+	"Voltou pra dentro de mim."
 	keyWait
 		any = false
 	clearMsg
@@ -24,7 +24,10 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We can't defeat it?"
+	"""
+	Então, a gente não
+	consegue vencer ela...?
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -36,17 +39,17 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	As long as we have
-	a soul,our evil
-	will endure.
+	Enquanto tivermos almas,
+	a maldade dentro de nós
+	persistirá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But after that last
-	battle,I'm confident
-	I can beat it!
+	Mas, depois dessa última
+	luta, eu tô confiante de
+	que consigo vencer ela!
 	"""
 	keyWait
 		any = false
@@ -59,17 +62,17 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's like they say:
-	We're all our own
-	worst enemy.
+	É como eles dizem:
+	nós somos o nosso
+	pior inimigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I know we can
-	battle the evil
-	within us!!!
+	Mas eu sei que a gente
+	consegue surrar o mal
+	dentro da gente!!!
 	"""
 	keyWait
 		any = false
@@ -81,7 +84,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!!!"
+	"É isso aí!!!"
 	keyWait
 		any = false
 	end

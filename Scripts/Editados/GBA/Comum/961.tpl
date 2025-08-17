@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Gaaahhh!!!"
+	"Aaackkh!!!"
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Quick,the server!"
+	"Rápido, o servidor!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,7 +24,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!!"
+	"Tá bom!!!"
 	keyWait
 		any = false
 	end
@@ -33,7 +33,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"Foi, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -44,11 +44,11 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's that!"
+	"Resolvido!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Oh,Tesla!"
+	"... Ah, Tesla!"
 	keyWait
 		any = false
 	clearMsg
@@ -59,13 +59,14 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oww,my head⋯ What
-	are you doing here?
+	Ai! Minha cabeça...
+	Você tá fazendo
+	o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -77,7 +78,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You OK,Tesla?!"
+	"Cê tá bem, Tesla?!"
 	keyWait
 		any = false
 	clearMsg
@@ -89,21 +90,22 @@ script 7 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Yeah. I came after
-	that mail about the
-	servers
+	Tô, sim. Eu vim pra cá
+	quando recebi o e-mail
+	sobre os servidores,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but then I started
-	feeling all weird.
+	mas, aí, comecei
+	a me sentir toda
+	esquisita.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm okay now,though."
+	"Mas já tá\ntudo bem agora."
 	keyWait
 		any = false
 	clearMsg
@@ -115,16 +117,17 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see⋯ Well,it's
-	all clear now.
+	Entendi...
+	Bom, já tá tudo
+	resolvido aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We destroyed
-	the server Nebula
-	planted!
+	A gente destruiu o
+	servidor que a Nebula
+	plantou!
 	"""
 	keyWait
 		any = false
@@ -136,7 +139,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"⋯Oh,nice work!"
+	"... Ah, bom trabalho!"
 	keyWait
 		any = false
 	clearMsg
@@ -152,8 +155,7 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Is MagnetMan
-	OK?
+	O MagnetMan tá bem?
 	"""
 	keyWait
 		any = false
@@ -166,13 +168,13 @@ script 11 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	⋯Yeah!
-	Just out cold!
+	... Tá, sim!
+	Ele só apagou.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What did he do?"
+	"O que ele fez?"
 	keyWait
 		any = false
 	clearMsg
@@ -183,14 +185,14 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uhhh⋯ Never mind!"
+	"Er... Nada de mais!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,MegaMan!
-	Let's go find
-	the next server!!
+	OK, MegaMan!
+	Bora atrás do
+	próximo servidor!!
 	"""
 	keyWait
 		any = false
@@ -202,7 +204,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -211,7 +213,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Noooooo!!!"
+	"Nãããããooo!!!"
 	keyWait
 		any = false
 	end
@@ -220,7 +222,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Quick,the server!"
+	"Rápido, o servidor!"
 	keyWait
 		any = false
 	clearMsg
@@ -240,7 +242,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!"
+	"Foi, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -251,11 +253,11 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's that!"
+	"Resolvido!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Oh,Pride!"
+	"... Ah, Pride!"
 	keyWait
 		any = false
 	clearMsg
@@ -266,13 +268,13 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ouch⋯ What
-	are you doing here?
+	Ai...
+	Por que você está aqui?
 	"""
 	keyWait
 		any = false
@@ -284,7 +286,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You okay!?"
+	"Cê tá bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -296,21 +298,22 @@ script 21 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Yeah. I came after
-	that mail about the
-	servers
+	Estou, sim. Vim aqui
+	após receber o e-mail
+	sobre os servidores,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but then I started
-	feeling all weird.
+	mas, de repente,
+	comecei a me sentir
+	tão estranha...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm okay now,though."
+	"Mas já estou bem."
 	keyWait
 		any = false
 	clearMsg
@@ -322,16 +325,17 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see⋯ Well,it's
-	all clear now.
+	Entendi...
+	Bom, já tá tudo
+	resolvido agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We destroyed
-	the server Nebula
-	planted!
+	A gente destruiu o
+	servidor que a Nebula
+	plantou!
 	"""
 	keyWait
 		any = false
@@ -343,7 +347,10 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"You're amazing⋯"
+	"""
+	Vocês são mesmo
+	incríveis...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -359,8 +366,7 @@ script 24 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Is KnightMan
-	OK?
+	O KnightMan tá bem?
 	"""
 	keyWait
 		any = false
@@ -373,15 +379,14 @@ script 25 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	⋯Oh dear!
-	Are you hurt?
+	... Ah, céus!
+	Você se feriu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did KnightMan
-	do that⋯?
+	Foi o KnightMan quem...?
 	"""
 	keyWait
 		any = false
@@ -393,14 +398,14 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uhhh⋯ Never mind!"
+	"Aah... Deixa isso pra lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,MegaMan!
-	Let's go find
-	the next server!!
+	OK, MegaMan!
+	Bora atrás do
+	próximo servidor!!
 	"""
 	keyWait
 		any = false
@@ -412,7 +417,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

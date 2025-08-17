@@ -13,21 +13,22 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE TWO SPEAR
-	TRAPS UP AHEAD
-	WAITING FOR YOU.
+	HÁ DUAS ARMADILHAS
+	DE LANÇAS À FRENTE,
+	À SUA ESPERA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE TWO RED-MASKED
-	NINJAS WITH YOU.
+	LEVE DOIS NINJAS DE
+	MÁSCARA VERMELHA COM
+	VOCÊ.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -37,9 +38,9 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RETURN THE NINJA AND
-	TRY AGAIN FROM THE
-	START?
+	DEVOLVER O NINJA E
+	TENTAR DE NOVO DO
+	INÍCIO?
 	"""
 	keyWait
 		any = false
@@ -55,7 +56,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -64,7 +65,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -75,13 +76,14 @@ script 1 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT A GREAT WARRIOR
-	SPIRIT! YOU NEVER
-	GIVE UP!
+	MAS QUE ESPÍRITO
+	GUERREIRO INCRÍVEL!
+	VOCÊ NUNCA DESISTE!
 	"""
 	keyWait
 		any = false
@@ -93,25 +95,28 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ALL RIGHT,THEN."
+	"POIS BEM, ENTÃO."
 	keyWait
 		any = false
 	clearMsg
-	"EEEYAH!"
+	"RÊI-IÁ!"
 	flagSet
 		flag = 2733
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY SPIRITED SHOUT
-	HAS RETURNED ALL
-	NINJAS TO THEIR
+	O MEU GRITO
+	ESPIRITUOSO FEZ
+	TODOS OS NINJAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"""
+	VOLTAREM ÀS SUAS
+	POSIÇÕES ORIGINAIS.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -123,21 +128,22 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE ARE TWO SPEAR
-	TRAPS UP AHEAD
-	WAITING FOR YOU.
+	HÁ DUAS ARMADILHAS
+	DE LANÇAS À FRENTE,
+	À SUA ESPERA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE TWO RED-MASKED
-	NINJAS WITH YOU.
+	LEVE DOIS NINJAS DE
+	MÁSCARA VERMELHA COM
+	VOCÊ.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -147,9 +153,8 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AMAZING SKILLS!
-	KEEP UP THE GREAT
-	WORK!
+	MAS QUANTA HABILIDADE!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false
@@ -168,44 +173,38 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE IS ONE CEILING
-	TRAP,
+	HÁ UMA ARMADILHA DE
+	TETO E DUAS ARMADILHAS
+	DE ÁGUA À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND TWO WATER TRAPS
-	UP AHEAD WAITING
-	FOR YOU.
+	PASSANDO A ARMADILHA
+	DE TETO, HÁ UM NINJA
+	DE MÁSCARA AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S ONE BLUE-
-	MASKED NINJA PAST
-	THE CEILING TRAP.
+	PRIMEIRO, LEVE 1
+	NINJA DE MÁSCARA
+	BRANCA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FIRST TAKE ONE
-	WHITE-MASKED NINJA,
+	E, DEPOIS, LEVE 2
+	NINJAS DE MÁSCARA
+	AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	THEN TAKE TWO
-	BLUE-MASKED NINJAS
-	WITH YOU.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -215,9 +214,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RETURN THE NINJA AND
-	TRY AGAIN FROM THE
-	START?
+	DEVOLVER O NINJA E
+	TENTAR DE NOVO DO
+	INÍCIO?
 	"""
 	keyWait
 		any = false
@@ -233,7 +232,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -242,7 +241,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -257,9 +256,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT A GREAT WARRIOR
-	SPIRIT! YOU NEVER
-	GIVE UP!
+	MAS QUE ESPÍRITO
+	GUERREIRO INCRÍVEL!
+	VOCÊ NUNCA DESISTE!
 	"""
 	keyWait
 		any = false
@@ -271,25 +270,28 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ALL RIGHT,THEN."
+	"POIS BEM, ENTÃO."
 	keyWait
 		any = false
 	clearMsg
-	"EEEYAH!"
+	"RÊI-IÁ!"
 	flagSet
 		flag = 2733
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY SPIRITED SHOUT
-	HAS RETURNED ALL
-	NINJAS TO THEIR
+	O MEU GRITO
+	ESPIRITUOSO FEZ
+	TODOS OS NINJAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"""
+	VOLTAREM ÀS SUAS
+	POSIÇÕES ORIGINAIS.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -301,44 +303,38 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE IS ONE CEILING
-	TRAP,
+	HÁ UMA ARMADILHA DE
+	TETO E DUAS ARMADILHAS
+	DE ÁGUA À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND TWO WATER TRAPS
-	UP AHEAD WAITING
-	FOR YOU.
+	PASSANDO A ARMADILHA
+	DE TETO, HÁ UM NINJA
+	DE MÁSCARA AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S ONE BLUE-
-	MASKED NINJA PAST
-	THE CEILING TRAP.
+	PRIMEIRO, LEVE 1
+	NINJA DE MÁSCARA
+	BRANCA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FIRST TAKE ONE
-	WHITE-MASKED NINJA,
+	E, DEPOIS, LEVE 2
+	NINJAS DE MÁSCARA
+	AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"""
-	THEN TAKE TWO
-	BLUE-MASKED NINJAS
-	WITH YOU.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -348,9 +344,8 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AMAZING SKILLS!
-	KEEP UP THE GREAT
-	WORK!
+	MAS QUANTA HABILIDADE!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false

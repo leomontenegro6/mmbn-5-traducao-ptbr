@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I was beginning to
-	wonder if you were
-	coming!
+	Eu tava começando a
+	me perguntar se cê
+	ia chegar algum dia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next stop,SciLab
-	Area!
+	Próxima parada:
+	Área SciLab!
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,GyroMan!"
+	"Espera, GyroMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -35,7 +35,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Why should I?"
+	"Por que eu esperaria?"
 	keyWait
 		any = false
 	end
@@ -45,8 +45,9 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shoot! He slips away
-	like a snake!
+	Saco! Ele fica
+	escorregando da gente,
+	que nem uma cobra!
 	"""
 	keyWait
 		any = false
@@ -59,8 +60,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And he's as fast as
-	a cheetah!
+	E é rápido feito uma
+	onça!
 	"""
 	keyWait
 		any = false
@@ -73,9 +74,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No time to stand in
-	awe! We've gotta go
-	after him!
+	Bom, não é hora de
+	ficar admirando ele!
+	Atrás dele!
 	"""
 	keyWait
 		any = false
@@ -87,7 +88,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh,right!!!"
+	"Er, tá!!!"
 	keyWait
 		any = false
 	end
@@ -97,15 +98,15 @@ script 7 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I'd almost given up
-	on you.
+	Quase cheguei a achar
+	que você não viria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let's head for
-	SciLab Area.
+	Agora, sigamos para
+	a Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -115,7 +116,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait,ShadowMan!"
+	"Espera, ShadowMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -127,8 +128,8 @@ script 9 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Why wait,when I can
-	run?
+	Por que esperar,
+	quando eu posso correr?
 	"""
 	keyWait
 		any = false
@@ -139,8 +140,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shoot! He slips away
-	like a snake!
+	Saco! Ele fica
+	escorregando da gente,
+	que nem uma cobra!
 	"""
 	keyWait
 		any = false
@@ -153,8 +155,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	And he's as fast as
-	a cheetah!
+	E é rápido feito uma
+	onça!
 	"""
 	keyWait
 		any = false
@@ -167,9 +169,9 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No time to stand in
-	awe! We've gotta go
-	after him!
+	Bom, não é hora de
+	ficar admirando ele!
+	Atrás dele!
 	"""
 	keyWait
 		any = false
@@ -181,7 +183,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh,right!!!"
+	"Er, tá!!!"
 	keyWait
 		any = false
 	end

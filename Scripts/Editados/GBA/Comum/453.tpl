@@ -5,53 +5,51 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO ORAN
-	AREA2.
+	BEM-VINDO À ÁREA
+	ORAN 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR YOUR
-	INFORMATION,
+	SÓ PARA QUE FIQUE
+	AVISADO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CANNOT REACH
-	ORAN AREA3 FROM
-	HERE.
+	NÃO É POSSÍVEL ACESSAR
+	A ÁREA ORAN 3 DAQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ENTRANCE TO ORAN
-	AREA3,
+	A ENTRADA PARA A
+	ÁREA ORAN 3
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS ON THE TOP FLOOR
-	OF ORAN AREA1.
+	FICA NO ANDAR DE CIMA
+	DA ÁREA ORAN 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT NEBULA DARKLOIDS
-	ARE LURKING IN ORAN
-	AREA3
+	MAS DARKLOIDES DA
+	NEBULA ESTÃO NA
+	ÁREA ORAN 3 AGORA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO IT IS BEST YOU'RE
-	NOT GOING THERE
-	ANYWAY⋯
+	ENTÃO É MELHOR NEM
+	IR LÁ, MESMO...
 	"""
 	keyWait
 		any = false
@@ -62,23 +60,24 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I want to become a
-	cyber journalist.
+	Eu quero me tornar
+	um jornalista da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I came here to
-	cover the occupation
-	of the area.
+	Então, vim aqui para
+	escrever sobre a
+	ocupação da área...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wish I hadn't!
-	This is scary!
+	E que arrependimento,
+	viu?!
+	Que meeedooo!
 	"""
 	keyWait
 		any = false
@@ -89,24 +88,24 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE FLOORS WITH
-	ARROWS ON THEM ARE
-	MOVING PATHWAYS.
+	OS PISOS COM SETAS
+	NELES SÃO CAMINHOS
+	AUTOMÁTICOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	USE THE RIGHT SIDE
-	TO GO TO THE FAR
-	SIDE
+	USE O DA DIREITA
+	PARA IR PARA O LADO
+	DE LÁ,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND THE LEFT SIDE TO
-	COME BACK.
+	E O DA ESQUERDA PARA
+	VOLTAR.
 	"""
 	keyWait
 		any = false

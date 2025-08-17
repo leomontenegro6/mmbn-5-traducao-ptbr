@@ -8,28 +8,29 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	A virus,hmm?
-	Obnoxious little⋯
+	Um vírus, hm?
+	Verme impertinente...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan!"
+	"Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave 'em to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	flagSet
@@ -41,9 +42,9 @@ script 1 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Do you seriously
-	think you can stop
-	me with a virus?!
+	Acha mesmo que pode
+	me parar com um simples
+	vírus?!
 	"""
 	keyWait
 		any = false
@@ -55,15 +56,16 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave 'em to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	flagSet

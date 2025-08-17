@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	You lack experience⋯
-	I cannot allow you
-	to proceed.
+	A você, falta
+	experiência... Não
+	permito que prossiga.
 	"""
 	keyWait
 		any = false
@@ -18,8 +18,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh no! Not another
-	challenge!
+	Ah, não!
+	Outro desafio,
+	de novo, não!
 	"""
 	keyWait
 		any = false

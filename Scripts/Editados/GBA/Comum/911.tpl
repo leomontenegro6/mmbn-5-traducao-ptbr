@@ -5,15 +5,17 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Can't let big fish⋯
-	out of his sight⋯
+	"Não consegue tirar
+	o olho"...
+	de um peixão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯maybe it means its
-	eyes come out?!
+	... Será que isso quer
+	dizer que os olhos do
+	Shachi saem?!
 	"""
 	keyWait
 		any = false
@@ -22,13 +24,13 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotHide
 	msgOpen
-	"The Gargoyle's eyes\n"
+	"""
+	Os olhos do Shachi se
+	abrem com um "clique",
+	"""
 	soundPlay
 		track = 212
-	"""
-	open with a click,
-	revealing something!
-	"""
+	"\nrevelando algo!"
 	keyWait
 		any = false
 	end
@@ -38,15 +40,14 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This looks like a
-	DataDisk⋯
+	Parece ser um
+	Disco de Dados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check it out,
-	MegaMan.
+	Lê ele aí, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -57,8 +58,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's a key to
-	something⋯
+	... É uma chave pra
+	alguma coisa...
 	"""
 	keyWait
 		any = false
@@ -70,11 +71,11 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A key⋯?"
+	"Uma chave...?"
 	keyWait
 		any = false
 	clearMsg
-	"For what?"
+	"Mas de quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -86,22 +87,26 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ah,wait a minute!
-	There's TextData in
-	here too!
+	Ah, espera!
+	Tem um arquivo de
+	texto aqui, também!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll read it⋯"
+	"Eu vou ler..."
 	keyWait
 		any = false
 	clearMsg
-	"\"3rd ACDC,4th\n square. There find\n the way to Oran."
+	"""
+	"Terceira ACDC,
+	quarto quadro. Lá,
+	um caminho para Oran.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Open its center!\""
+	"Abra o centro!\""
 	keyWait
 		any = false
 	clearMsg
@@ -113,15 +118,16 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I've heard a lot of
-	those words before⋯
+	Eu já ouvi todas essas
+	palavras antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need to figure
-	out what it means⋯
+	Agora, a gente só
+	precisa descobrir o
+	que elas significam...
 	"""
 	keyWait
 		any = false
@@ -130,7 +136,7 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Lan got:"
+	"Lan obteve:"
 	keyWait
 		any = false
 	clearMsg
@@ -145,7 +151,7 @@ script 7 mmbn5 {
 		item = 26
 	"""
 	"
-	and "TextData"!!!
+	e "Arquivo de Texto"!!!
 	"""
 	keyWait
 		any = false
@@ -159,9 +165,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We'll have to read
-	it over and figure
-	out where to go!
+	Temos que ler o
+	negócio com atenção
+	pra descobrir aonde ir!
 	"""
 	keyWait
 		any = false
@@ -173,7 +179,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 		any = false
 	end

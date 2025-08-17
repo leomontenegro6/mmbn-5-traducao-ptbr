@@ -20,121 +20,119 @@ script 0 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I'm a chip dealer
-	from Netopia!
+	Sou um vendedor de
+	chips da Ameropa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got special
-	chips that you
-	can't get in stores!
+	Tenho chips especiais
+	aqui, que não se acha
+	nas lojas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's right. I'm
-	a secret dealer!
+	Pois é: eu sou um
+	vendedor secreto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't tell any
-	Officials about
-	me,OK?
+	Não vai me caguetar
+	pros Oficiais, tá bom?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,Tuby is
-	really hot now.
-	Even in Electopia!
+	Enfim, o Tuby tá com
+	tudo agora.
+	Até em Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going crazy
-	because everyone
-	wants it!
+	A demanda tá tanta que
+	eu tô ficando tonto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,I have only
-	one left! Y'know,
-	our meeting here⋯
+	E, agora, só sobrou
+	um! Olha, este nosso
+	encontro aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This has to be
-	fate or something!
+	só pode ter sido
+	obra do destino!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can take
-	this last chip!
+	Este último chip
+	pode ser seu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're the luckiest
-	guy in history!
+	Cê é o garoto mais
+	sortudo da história!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I see you look
-	worried about
-	the price.
+	Tô vendo que cê tá
+	preocupado com o preço,
+	né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Zennys are
-	important! Oh,I
-	understand!
+	Zennys são importantes!
+	Claro, eu entendo, sim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen. It
-	usually costs
+	Olha. Normalmente,
+	ele custaria
 	10000 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,I'll cut you
-	a better deal.
+	Mas eu vou te fazer
+	um negócio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	2000 Zennys! Wow!
-	What a price!
+	2000 Zennys!
+	Cara...!
+	OLHA esse preço!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't beat it!
-	What do ya say?
+	Tá praticamente de
+	graça! E aí, que tal?
 	"""
 	keyWait
 		any = false
@@ -150,7 +148,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -159,7 +157,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -173,14 +171,14 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = BlackMan
-	"Oh,no! Really?"
+	"Pô, cara! Sério?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't want it?
-	Are you sure?
-	No way!
+	Certeza que não quer?
+	Certeza mesmo?
+	Pensa bem!
 	"""
 	keyWait
 		any = false
@@ -198,8 +196,9 @@ script 1 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I knew it!
-	You've got taste!
+	Sabia! Um menino de
+	bom gosto desses não
+	ia deixar passar.
 	"""
 	keyWait
 		any = false
@@ -212,8 +211,8 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -232,15 +231,16 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	"""
-	I sold out all the
-	chips I brought!
+	E pronto!
+	Vendi todos os chips
+	que eu trouxe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I love Electopia!
-	My kind of town!
+	Eu amo tanto Ni-Hon!
+	Este país é o bicho!
 	"""
 	keyWait
 		any = false
@@ -250,14 +250,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Oh no!"
+	"Eita, menino..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No Zennys,
-	no business!
-	Them's the breaks!
+	Sem Zennys,
+	sem venda!
+	É o mercado, garoto!
 	"""
 	keyWait
 		any = false
@@ -268,22 +268,20 @@ script 3 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Oh! So you're
-	back!
+	Ah! Cê voltou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,you want
-	Tuby,right?
+	E aí, vai levar o Tuby?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's 2000 Zennys!
-	Now's your chance!
+	2000 Zennys!
+	Não perde essa chance!
 	"""
 	keyWait
 		any = false
@@ -299,7 +297,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -308,7 +306,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -322,14 +320,14 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = BlackMan
-	"Oh,no! Really?"
+	"Pô, garoto! Sério?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't want it?
-	Are you sure?
-	No way!
+	Certeza que não quer?
+	Certeza mesmo?
+	Pensa bem!
 	"""
 	keyWait
 		any = false
@@ -340,9 +338,8 @@ script 4 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I'm sold out of
-	all my chips!
-	Thanks!
+	Eu vendi todos os meus
+	chips! Valeu!
 	"""
 	keyWait
 		any = false
@@ -353,8 +350,8 @@ script 5 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Get outta here,
-	kid! Get! Get!
+	Cai fora, garoto!
+	Xô! Xô!
 	"""
 	keyWait
 		any = false
@@ -374,13 +371,13 @@ script 10 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Would you like to
-	have my SubChips?
+	Eu vendo SubChips nas
+	horas vagas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to take a look?\n"
+	"Gostaria de conferir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -391,7 +388,7 @@ script 10 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"Sure  "
+	"Tá  "
 	option
 		brackets = 0
 		left = 0
@@ -400,7 +397,7 @@ script 10 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"No,thanks"
+	"Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -416,7 +413,7 @@ script 10 mmbn5 {
 }
 script 11 mmbn5 {
 	clearMsg
-	"\"Be prepared and\n have no regrets.\""
+	"\"O seguro morreu de\n velho.\""
 	keyWait
 		any = false
 	end
@@ -426,8 +423,8 @@ script 12 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I just realized
-	I don't have any!
+	Acabo de perceber
+	que estou sem!
 	"""
 	keyWait
 		any = false

@@ -9,33 +9,32 @@ script 0 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	A long time ago,I
-	was a Navi who
-	worked these mines.
+	Muito tempo atrás,
+	eu era um Navi que
+	trabalhava nestas minas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's shut down now
-	but I'm still here
-	watching over it.
+	Está inativa agora,
+	mas eu continuo aqui,
+	cuidando delas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been around
-	since the very
-	beginning
+	Estou aqui desde
+	o começo de tudo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so there isn't a
-	thing I don't know
-	about mining!
+	então, não tem nada que
+	eu não saiba sobre
+	mineração!
 	"""
 	keyWait
 		any = false
@@ -58,27 +57,27 @@ script 1 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	What's the trouble,
-	kid?
+	Que foi, rapaz?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,you wish to
-	unlock that door?
+	Ah, você quer destrancar
+	aquela porta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It should open with
-	my item,the
+	Deve ser possível
+	abri-la com este meu
+	item aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\""
+	"o \""
 	printItem
 		buffer = 0
 		item = 9
@@ -87,16 +86,16 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	but I can't just
-	give it away.
+	mas eu não posso
+	simplesmente dá-lo
+	de graça assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would 1000 Zennys
-	seem like a fair
-	price?
+	1000 Zennys seria um
+	preço justo por ele?
 	"""
 	keyWait
 		any = false
@@ -112,7 +111,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -121,7 +120,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -136,8 +135,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	I see. That's a
-	pity.
+	Entendo.
+	Bom, que pena.
 	"""
 	keyWait
 		any = false
@@ -153,18 +152,17 @@ script 2 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Then,1000 Zennys it
-	is.
+	Então, 1000 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,now the
+	Tome, o
 	"
 	"""
 	printItem
@@ -172,7 +170,7 @@ script 2 mmbn5 {
 		item = 9
 	"""
 	"
-	is yours to keep!
+	é todo seu!
 	"""
 	keyWait
 		any = false
@@ -184,7 +182,7 @@ script 2 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -199,9 +197,9 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	This'll allow me to
-	eat for a while.
-	Thanks,kid!
+	Com isto, vou poder me
+	alimentar por um tempo.
+	Obrigado, rapaz!
 	"""
 	keyWait
 		any = false
@@ -217,24 +215,25 @@ script 3 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Sorry,but you've not
-	enough Zennys.
+	Desculpe, mas você
+	não tem os Zennys
+	necessários.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't have many
-	ways of earning
-	money.
+	Eu não tenho muitas
+	formas de fazer
+	dinheiro, então...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to come
-	back once you've
-	saved 1000 Zennys.
+	Você vai ter que voltar
+	depois que economizar
+	1000 Zennys.
 	"""
 	keyWait
 		any = false
@@ -245,8 +244,8 @@ script 4 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hello,kid. Are you
-	going to buy my
+	Oi, rapaz.
+	Vai comprar o meu
 	"
 	"""
 	printItem
@@ -257,9 +256,8 @@ script 4 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	It's only 1000
-	Zennys. How about
-	it?
+	Custa só 1000 Zennys.
+	Que tal?
 	"""
 	keyWait
 		any = false
@@ -275,7 +273,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -284,7 +282,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -299,8 +297,8 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	I see. That's a
-	pity.
+	Entendo.
+	Bem, que pena.
 	"""
 	keyWait
 		any = false
@@ -311,17 +309,16 @@ script 5 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I know it's fun to
-	explore mines but be
-	careful!
+	Sei que é divertido
+	explorar minas, mas
+	tome cuidado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Old mines like this
-	can pack a lot of
-	surprises!
+	Minas velhas como esta
+	são cheias de surpresas!
 	"""
 	keyWait
 		any = false
@@ -331,14 +328,14 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait,MegaMan!"
+	"MegaMan, espera!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too dangerous
-	to go on without
-	preparing!
+	É perigoso demais
+	entrar aí sem se
+	preparar primeiro!
 	"""
 	keyWait
 		any = false
@@ -348,22 +345,22 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THIS IS ORAN AREA1."
+	"ESTA É A ÁREA ORAN 1."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS AREA IS UNDER
-	THE CONTROL OF SOME
-	VERY SCARY NAVIS.
+	A ÁREA ESTÁ SOB O
+	CONTROLE DE UNS NAVIS
+	SINISTROS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT? YOU'RE NOT
-	GOING TO RUN? SUIT
-	YOURSELF!
+	O QUÊ?
+	"VOCÊ NÃO VAI FUGIR"?
+	VOCÊ QUE SABE!
 	"""
 	keyWait
 		any = false
@@ -373,14 +370,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Eep!!!"
+	"Aahh!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't scare me like
-	that! I thought you
-	were a Nebula Navi!
+	Não me assusta desse
+	jeito! Achei que era um
+	Navi da Nebula!
 	"""
 	keyWait
 		any = false
@@ -391,9 +388,8 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,do you want to
-	start the liberation
-	mission?
+	Lan, vamos começar a
+	missão de liberação?
 	"""
 	keyWait
 		any = false
@@ -409,7 +405,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -418,7 +414,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -433,8 +429,8 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Beleza, Lan.
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -448,13 +444,13 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false

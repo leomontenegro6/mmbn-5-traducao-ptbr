@@ -3,13 +3,14 @@
 script 0 mmbn5 {
 	mugshotHide
 	msgOpen
-	"GRAAAAAAH⋯"
+	"GRRAAAAHH..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NO MERCY FOR THAT
-	WHICH NEGATES EVIL⋯
+	NÃO TEREI
+	MISERICÓRDIA PARA COM
+	QUEM NEGA O MAL...
 	"""
 	keyWait
 		any = false
@@ -23,7 +24,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Something's coming!"
+	"Tem alguma coisa vindo!"
 	keyWait
 		any = false
 	end
@@ -31,8 +32,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	I SHALL KEEP RISING
-	AGAIN AND AGAIN⋯
+	EU CONTINUAREI A
+	ASCENDER, VEZES
+	E MAIS VEZES...
 	"""
 	keyWait
 		any = false
@@ -44,7 +46,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!!"
+	"Lá vem ele, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -56,13 +58,17 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll keep knocking
-	him down!!!
+	Pois a gente vai
+	continuar derrubando
+	ele!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -73,7 +79,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	end

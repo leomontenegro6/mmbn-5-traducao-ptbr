@@ -5,9 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The link to SciLab
-	seems to be
-	closed,Lan!
+	Parece que o link pro
+	SciLab tá fechado, Lan!
 	"""
 	keyWait
 		any = false

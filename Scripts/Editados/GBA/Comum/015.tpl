@@ -2,24 +2,25 @@
 
 script 0 mmbn5 {
 	"""
-	Newsflash.
-	SciLab main system
-	was infiltrated.
+	Urgente: o sistema
+	central do SciLab
+	foi invadido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The invaders must
-	be stopped
-	immediately,
+	Os invasores
+	precisam ser detidos
+	imediatamente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before SciLab is
-	taken over!
+	antes que o SciLab
+	acabe sendo tomado
+	por completo!
 	"""
 	keyWait
 		any = false
@@ -27,49 +28,48 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	"""
-	As you know,a
-	criminal group
-	called Nebula
+	Como já sabem,
+	um grupo criminoso
+	chamado Nebula
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has launched an
-	invasion of the Net.
-	As a result
+	executou uma
+	invasão na Rede.
+	Como resultado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	security has been
-	tightened all
-	across the globe.
+	sistemas de segurança
+	por todo o mundo foram
+	reforçados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Security is at its
-	absolute tightest
-	in End City,
+	O nível de segurança
+	está especialmente alto
+	na Cidade de Endo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which is the
-	center of the
-	network.
+	a qual serve como
+	o centro da Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For your own safety,
-	please stay off the
-	Net for now!
+	Para a sua própria
+	segurança, fiquem
+	fora da Rede por ora!
 	"""
 	keyWait
 		any = false
@@ -82,32 +82,31 @@ script 2 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 100
 	"""
-	The next mission
-	will take place
-	in Oran Area3.
+	A próxima missão se
+	dará na Área Oran 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we need to
-	scout out the
-	area first.
+	Mas, primeiro,
+	precisaremos fazer
+	reconhecimento na área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your orders are
-	to go to Oran
-	Area1 on the Net.
+	As suas ordens são
+	para ir à Área Oran 1,
+	na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll send ProtoMan
-	along as well.
+	Enviarei o ProtoMan
+	também.
 	"""
 	keyWait
 		any = false
@@ -118,40 +117,38 @@ script 3 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 101
 	"""
-	Nebula agents still
-	remain in Oran
-	Area.
+	Agentes da Nebula
+	continuam na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Immediately make
-	your way to Oran
-	Area.
+	Suas ordens são
+	para ir até lá
+	imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,Oran Area
-	network is
-	unstable.
+	Porém, a rede da área
+	está instável agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will not be
-	able to jack in
-	from Oran Isle.
+	Você não será capaz
+	de acessá-la através
+	da Ilha Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go there by way of
-	ACDC Area.
+	Siga para lá através
+	da Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -162,143 +159,141 @@ script 4 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 102
 	"""
-	Lan,
-	I'm afraid I'm in a
-	bit of trouble.
+	Lan, acho que estou
+	com problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A helicopter Navi
-	came and challenged
-	me to a battle,
+	Um Navi helicóptero
+	apareceu e me desafiou
+	pra uma luta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	saying he wanted
-	to test my
-	abilities.
+	dizendo que queria
+	testar as minhas
+	habilidades...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But he stole some
-	vital MagnetMan
-	programs!
+	Mas o que ele fez foi
+	roubar programas vitais
+	pro MagnetMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please come to the
-	drill in the
-	OldMine!
+	Por favor, vem aqui pra
+	broca na Velha Mina!
 	"""
 	keyWait
 		any = false
 	end
 }
 script 5 mmbn5 {
-	"Hello,Lan."
+	"Olá, Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used to work
-	with your
-	father.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Please take this
-	NaviCustomizer.
+	Você não me conhece.
+	Eu trabalhava com o
+	seu pai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He wanted you
-	to have it.
+	Por favor, fique com
+	este Customizador de
+	Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you remember
-	how to use it?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Here's a reminder:"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Install it in your
-	PET and turn it
-	on. It'll let you
+	Ele queria que você
+	ficasse com ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	install all sorts
-	of programs
-	in MegaMan.
+	Ainda se lembra
+	de como se usa?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Aqui vai um lembrete:"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Instale-o no seu PET
+	e, depois, ligue-o.
+	Com ele, você poderá
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The better a
-	programmer you are
+	instalar todo o tipo
+	de programas no
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the better you'll be
-	able to customize
-	MegaMan!
+	Quanto melhor você
+	for na programação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've already loaded
-	some programs
-	into it. Use them
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"for practice."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You might need
-	to switch folders
+	melhor conseguirá
+	customizar o MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	depending on the
-	customs you come
-	up with. So let me
+	Eu já pré-carreguei
+	uns programas nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"give you this,too."
+	"Use-os para praticar."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pode ser que você
+	precise trocar de
+	pasta,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	dependendo das
+	customizações que
+	for usar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Portanto, vou lhe dar\nisto aqui também."
 	keyWait
 		any = false
 	clearMsg
@@ -324,9 +319,9 @@ script 5 mmbn5 {
 		slot = 2
 		folder = 2
 	"""
-	Lan got a:
-	NaviCustomizer,
-	NaviCust Program,
+	Lan recebeu:
+	Customizador de Navi
+	e Programas CustNavi:
 	"""
 	keyWait
 		any = false
@@ -349,12 +344,12 @@ script 5 mmbn5 {
 	printNaviCustProgram
 		buffer = 0
 		program = 36
-	"\","
+	"\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and a
+	e
 	"
 	"""
 	printFolderName
@@ -374,85 +369,83 @@ script 6 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 103
 	"""
-	At the end of the
-	last liberation
-	mission,
+	Ao fim da última
+	missão de liberação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a resonance between
-	MegaMan and
-	MagnetMan occurred,
+	ocorreu uma ressonância
+	entre MegaMan e
+	MagnetMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	allowing MegaMan to
-	gain a new ability.
+	permitindo ao MegaMan
+	adquirir uma nova
+	habilidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	According to
-	Dr.Hikari's files,
+	De acordo com os
+	arquivos do Dr. Hikari,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when MegaMan's soul
-	resonates with that
-	of another Navi's,
+	quando a alma do
+	MegaMan ressoa com
+	a de outro Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the synchronicity
-	of the souls that
-	is achieved
+	as almas alcançam uma
+	sincronia temporária,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	temporarily,gives
-	MegaMan that Navi's
-	abilities.
+	dando ao MegaMan as
+	habilidades do Navi
+	em questão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is called
-	DublSoul,
+	Essa é a
+	União de Alma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and should be
-	very useful in your
-	battles.
+	e deve se mostrar
+	bem útil para você
+	em batalha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've attached a
-	practice program.
+	Mandei em anexo um
+	programa de treino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master this new
-	technique
-	immediately!
+	Domine essa nova
+	técnica imediatamente!
 	"""
 	keyWait
 		any = false
@@ -460,23 +453,22 @@ script 6 mmbn5 {
 }
 script 7 mmbn5 {
 	"""
-	Lan,
-	please round up
-	everybody
+	Lan, por favor,
+	reúna todo mundo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and bring them to
-	my lab at SciLab.
+	e venham ao meu
+	laboratório no SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have something
-	to show you.
+	Tenho uma coisa para
+	mostrar para vocês.
 	"""
 	keyWait
 		any = false
@@ -484,68 +476,70 @@ script 7 mmbn5 {
 }
 script 8 mmbn5 {
 	"""
-	Let me tell you
-	about DarkChips.
+	Vou explicar os
+	Chips das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DarkChips can
-	make your Navi
-	very strong.
+	Os Chips das Trevas
+	podem deixar o seu
+	Navi muito forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But they also
-	reduce max HP.
-	Permanently.
+	Mas também reduzem
+	os PV máximos dele.
+	Permanentemente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you continue
-	to use DarkChips,
+	Se você usar Chips das
+	Trevas continuamente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they will slowly
-	begin to poison
+	eles envenenarão
+	seu corpo e alma
+	aos poucos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your body and soul.
-	Eventually,you will
+	Antes que se dê
+	conta, você será
+	controlado pela
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	become controlled
-	by the DarkSoul.
-	If you happen to
+	Alma Sombria.
+	Se você, por acaso,
+	encontrar alguém
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	encounter anyone
-	selling these chips,
-	ignore them.
+	vendendo esses chips,
+	diga não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember. NEVER
-	buy DarkChips!
+	Lembre-se: NUNCA
+	compre Chips das
+	Trevas!
 	"""
 	keyWait
 		any = false
@@ -553,147 +547,149 @@ script 8 mmbn5 {
 }
 script 9 mmbn5 {
 	"""
-	MegaMan faced
-	down the DarkPower
-	within himself.
+	MegaMan enfrentou
+	o Poder das Trevas
+	dentro de si.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,under certain
-	conditions,he can
-	use this DarkPower:
+	Agora, sob certas con-
+	dições, ele pode usar
+	um Poder das Trevas:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ChaosUnison."
+	"a União do Caos."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can ChaosUnison
-	by using DarkChips.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	When in ChaosUnison
-	mode,you can press
+	Você pode ativar a
+	União do Caos com o uso
+	de Chips das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the B Button to use
-	the DarkPower for
+	Uma vez no modo de
+	União do Caos, você
+	pode apertar "B"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a power attack.
-	But don't forget!
+	para usar o Poder
+	das Trevas em um
+	ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The DarkPower is
-	very difficult to
-	control.
+	Mas não se esqueça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Holding down B
-	Button charges up
-	the power within
+	O Poder das Trevas
+	é dificílimo de
+	controlar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you,causing the
-	DarkPower
+	Segurar "B" carrega
+	o poder dentro de
+	você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to appear and change
-	shape continuously.
-	Time it well and
+	fazendo o Poder das
+	Trevas aparecer e
+	mudar de forma sem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	launch your attack,
-	when the DarkPower
-	are largest.
+	parar. Calcule bem
+	o tempo na hora de
+	lançar seu ataque,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you succeed,the
-	attacks will be as
-	strong as DarkChips.
+	quando o Poder das
+	Trevas estiver no auge.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you time it
-	poorly and the
-	DarkPower are small⋯
+	Se acertar, os ataques
+	serão tão fortes quanto
+	Chips das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan will lose
-	his balance with
-	the DarkPower.
+	Mas se você errar o
+	tempo e o Poder das
+	Trevas estiver baixo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They will begin
-	to attack him
-	instead!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Just remember that."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	ChaosUnison lasts
-	for just one turn.
-	Furthermore⋯
+	MegaMan perderá seu
+	equilíbrio com o
+	Poder das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only
-	ChaosUnison when
-	you use DublSoul.
+	E o poder começará
+	a atacar o próprio
+	MegaMan!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Lembre-se bem disso."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A União do Caos
+	só dura um turno.
+	Adicionalmente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Plan well before
-	trying to use it.
+	só se pode usar a
+	União do Caos durante
+	uma União de Alma.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Planeje com cautela
+	antes de usá-la.
 	"""
 	keyWait
 		any = false
@@ -703,83 +699,83 @@ script 9 mmbn5 {
 }
 script 10 mmbn5 {
 	"""
-	This mail is for
-	all Anti-Nebula
-	Core members.
+	Este e-mail é destinado
+	a todos da Tropa
+	Anti-Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula is placing
-	microservers in
+	A Nebula está plantando
+	microsservidores
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyberworld all
-	over Electopia.
+	no espaço cibernético,
+	por toda a Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Destroying those
-	servers might
+	É possível que a
+	destruição desses
+	servidores
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	possibly stop
-	Nebula's attack.
+	pare o ataque da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The closer you get
-	to one,the more
-	it will affect you.
+	Mas quanto mais perto
+	chegarem de um, mais
+	ele afetará vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be very careful."
+	"Tomem muito cuidado."
 	keyWait
 		any = false
 	end
 }
 script 11 mmbn5 {
 	"""
-	Currently,the Net
-	is experiencing
-	widespread errors.
+	No momento, a Rede
+	está apresentando
+	erros abrangentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The communications
-	system in End Area3
-	may be the cause.
+	O sistema de comunica-
+	ções na Área Endo 3
+	pode ser a causa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Navi may be
-	subjected to an
-	evil influence when
+	O seu Navi pode ser
+	sujeito a uma influência
+	maligna ao se conectar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jacked in so please
-	avoid this even in
-	liberated areas.
+	então, por favor,
+	evitem isso, mesmo
+	em áreas liberadas.
 	"""
 	keyWait
 		any = false
@@ -790,57 +786,55 @@ script 12 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 104
 	"""
-	MagnSoul lets you
-	sync by using
-	Elec-based chips.
+	A MagnAlma lhe permite
+	se sincronizar usando
+	chips Elétricos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It changes your body
-	to Elec element to
-	give you magnetism!
+	Seu corpo troca para
+	o elemento Elétrico e
+	ganha magnetismo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With B Button PwrAtk
-	you can pull enemies
-	with a MagBolt.
+	Com o ataque carregado
+	com "B", você puxa
+	alvos com um MagBolt.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press B Button and
-	Left to stop the
-	enemy temporarily.
+	Aperte B + Esquerda
+	para paralisar o inimigo
+	temporariamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use Elec-based chips
-	for double normal
-	power attack damage!
+	E chips Elétricos
+	causam o dobro do
+	dano normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MagnSoul is the
-	ultimate Elec
-	technique!
+	A MagnAlma é o arsenal
+	Elétrico supremo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -851,48 +845,48 @@ script 13 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 105
 	"""
-	You can sync into
-	GyroSoul by using
-	Wind-based chips.
+	Use chips de Vento
+	para se sincronizar
+	com a GyroAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your B Button PwrAtk
-	becomes a TorndArm
-	reaching 3 sq ahead.
+	Seu tiro carregado vira
+	um TorndArm, atacando
+	3 quadros à frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wind-based chips
-	turn a propeller
-	on your back too,
+	Chips de Vento também
+	ligam uma hélice nas
+	suas costas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which doubles Wind
-	and Non-element
-	chips atk strength.
+	o que dobra o poder
+	de ataque de chips de
+	Vento e Neutros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GyroSoul lets you
-	use the wind!
+	Com a GyroAlma,
+	os ventos estão sob
+	o seu comando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -903,64 +897,64 @@ script 14 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 106
 	"""
-	NplmSoul lets you
-	sync by using
-	Fire-based chips.
+	Use chips de Fogo
+	para se sincronizar
+	com a NplmAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It changes your body
-	to Fire element to
-	use new weapons!
+	Ela faz o MegaMan
+	assumir o elemento Fogo
+	e usar novas armas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use B Button PwrAtk
-	for a FireVulc chain
-	of explosions!
+	Use o tiro carregado
+	pra lançar uma série de
+	explosões - um FireVulc!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It also increases
-	your fire attack
-	+40!
+	Ela também aumenta
+	o dano de ataques
+	de fogo em 40!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use A Button PwrAtk
-	with Fire-based
-	chips to double atk,
+	Carregue chips de Fogo
+	segurando "A" para
+	dobrar o dano,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and also let you
-	fire Napalm
-	behind the enemy.
+	e também atirar um
+	Napalm atrás do
+	inimigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NplmSoul makes you
-	a fire specialist!
+	Com a NplmAlma, você
+	vira um especialista
+	no fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -971,48 +965,46 @@ script 15 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 107
 	"""
-	SrchSoul lets you
-	sync by using
-	Cursor-based chips.
+	Use chips de cursor
+	para se sincronizar
+	com a SrchAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your B Button PwrAtk
-	SnipeGun aims at the
-	enemy's squares!
+	Seu tiro carregado vira
+	uma SnipeGun, que mira
+	nos quadros inimigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It also lets you
-	re-edit your
-	Custom Screen,
+	Ela também lhe permite
+	re-editar a sua Tela
+	de Customização,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a critical ability
-	for turning the
-	tide in battle.
+	uma tática vital para
+	mudar o rumo da luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SrchSoul makes you
-	a search master!
+	A SrchAlma torna você
+	um mestre da busca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -1023,61 +1015,63 @@ script 16 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 108
 	"""
-	MedySoul lets you
-	sync by using
-	Recover-based chips.
+	Use chips de cura
+	para se sincronizar
+	com a MedyAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your B Button PwrAtk
-	becomes CapslBomb!
+	O seu ataque carregado
+	com "B" se torna uma
+	CapslBomb!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Plus Chips also
-	appear on the
-	Custom Screen.
+	Além disso, Chips Próton
+	também aparecem na Tela
+	de Customização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select a Plus Chip
-	after choosing an
-	Attack Chip.
+	Selecione um Chip Próton
+	após selecionar um Chip
+	de Ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It lets you add
-	extra effects,
+	Isso lhe permitirá
+	adicionar efeitos
+	extras,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like Paralyze or
-	Confuse.
+	como Paralisia
+	ou Confusão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MedySoul makes you
-	a total mix-master!
+	Com a MedyAlma, você
+	vira um mestre das
+	misturas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -1088,54 +1082,55 @@ script 17 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 109
 	"""
-	ProtSoul lets you
-	synch by using
-	Sword-based chips.
+	Para se sincronizar com
+	a ProtAlma, use chips
+	de espada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your B Button PwrAtk
-	becomes WideSwrd!
+	O seu tiro carregado
+	vira uma WideSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It also lets you
-	reflect attacks with
-	B Button and Left.
+	Você também pode refle-
+	tir ataques apertando
+	"B" + Esquerda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use A Button PwrAtk
-	with Sword-based
-	chips to double atk.
+	Segure "A" com chips
+	de Espada para usar
+	um ataque duplo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,it lets you
-	use StepSlic!
+	E ela também lhe
+	permite desferir
+	um StepSlic!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtSoul makes you
-	a sword master!
+	A ProtAlma transforma
+	você em um mestre da
+	lâmina!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -1143,30 +1138,30 @@ script 17 mmbn5 {
 }
 script 18 mmbn5 {
 	"""
-	Lan! I want you
-	to take this.
+	Lan! Quero que
+	cê leve isto aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't do anything
-	with GutsMan
-	gone but⋯
+	Não tem muita coisa pra
+	eu fazer sem o GutsMan
+	aqui, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You still have
+	Você ainda tem o
 	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If these can help
-	you,take them!
+	Se isto puder te
+	ajudar, leva!
 	"""
 	keyWait
 		any = false
@@ -1183,7 +1178,7 @@ script 18 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1196,38 +1191,38 @@ script 18 mmbn5 {
 }
 script 19 mmbn5 {
 	"""
-	This is the control
-	center for
-	GargoylCastle.
+	Aqui é do centro de
+	controle do Castelo
+	Shachi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We would like to
-	thank you for your
-	help in resolving
+	Gostaríamos de agrade-
+	cer por sua ajuda em
+	resolver o incidente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the incident earlier
-	at GargoylCastle.
+	recente no Castelo
+	Shachi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a token
-	of our appreciation.
+	Esta é uma amostra
+	de nossa gratidão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please accept it
-	with our gratitude.
+	Esperamos que aceite-a,
+	por favor.
 	"""
 	keyWait
 		any = false
@@ -1244,7 +1239,7 @@ script 19 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -1257,21 +1252,21 @@ script 19 mmbn5 {
 }
 script 20 mmbn5 {
 	"""
-	I went through the
-	data and made this.
+	Eu analisei os dados
+	e fiz isto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think you'll
-	find it a lot more
-	useful than I will.
+	Imagino que será bem
+	mais útil para você
+	do que para mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please take it."
+	"Por favor, leve."
 	keyWait
 		any = false
 	clearMsg
@@ -1286,8 +1281,8 @@ script 20 mmbn5 {
 		code = R
 		amount = 1
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -1304,23 +1299,24 @@ script 20 mmbn5 {
 }
 script 21 mmbn5 {
 	"""
-	This magazine with
-	tips and info is
+	Nossa revista é
+	recheada de dicas
+	e informações
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	designed to help
-	NetBattlers get
-	up to speed!
+	sob medida para ajudar
+	NetLutadores a não
+	ficarem para trás!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this issue,we've
-	got 3 hot features!
+	Nesta edição, temos
+	3 matérias quentíssimas!
 	"""
 	keyWait
 		any = false
@@ -1333,7 +1329,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" What's Jacking In?\n"
+	" O que é Conectar?\n"
 	option
 		brackets = 0
 		left = 1
@@ -1342,7 +1338,7 @@ script 21 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Edit Folders!\n"
+	" Editar Pastas!\n"
 	option
 		brackets = 0
 		left = 2
@@ -1351,7 +1347,7 @@ script 21 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Using SubChips!"
+	" Usando SubChips!"
 	select
 		default = 0
 		BSeparate = false
@@ -1364,114 +1360,112 @@ script 21 mmbn5 {
 			jump = continue
 		]
 	clearMsg
-	"Know your SubChips!"
+	"Conheça os seus\nSubChips!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In addition to
-	BattleChips,there
-	are SubChips.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	SubChips can't be
-	used in battle but
-	they can recover
+	Além dos chips de
+	batalha, também existem
+	os SubChips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HP,make it easy
-	to avoid viruses,
-	and other things.
+	Os SubChips não podem
+	ser usados em batalha,
+	mas eles restauram PV,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The thing is,
-	a SubChip can only
-	be used only once.
+	ajudam a evitar vírus,
+	dentre outras coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't worry.
-	You can buy more
-	at SubChip shops
+	Porém! Cada SubChip só
+	pode ser usado uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the Net and
-	in the real world.
+	Não se preocupe. Dá
+	para comprar mais em
+	lojas de SubChips
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just keep an eye
-	out for them.
+	espalhadas pela Rede
+	e pelo mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh! And before I
-	forget,let me tell
-	you something.
+	É só ficar atento
+	para elas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are BBSes
-	here and there
-	on the Cyberworld.
+	Ah! E, antes que eu
+	esqueça, vou contar
+	uma coisinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're great places
-	to get info,learn
-	about new battle
+	Existem Fóruns por aí,
+	tanto aqui quanto no
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	techniques,and
-	all sorts of stuff.
+	São ótimas pedidas para
+	reunir informações,
+	aprender novas técnicas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They can be really
-	useful places so
-	check them out!
+	de luta e várias
+	coisas mais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,young
-	NetBattlers!
+	Eles são "points"
+	muito úteis, então,
+	recomendo conferir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do your best and
-	enjoy your
-	Cyberworld life!
+	OK, então, jovens
+	NetLutadores!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não percam a coragem
+	e aproveitem a sua
+	vida cibernética!
 	"""
 	keyWait
 		any = false
@@ -1479,39 +1473,40 @@ script 21 mmbn5 {
 }
 script 22 mmbn5 {
 	"""
-	This magazine has
-	lots of great info
-	about ACDC Town!
+	Nossa revista é reche-
+	ada de informações
+	iradas sobre ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's is open
-	again after its
-	big renovation!
+	A Loja do Higsby abriu
+	de novo, após grandes
+	reformas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	More chips,more
-	gear and everything
-	else you need,huh!
+	Mais chips, mais equi-
+	pamentos e tudo mais
+	que se pode querer, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby himself is
-	waiting for you!
+	O Higsby está esperando
+	por vocês, em carne e
+	osso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Drop by and see
-	what's in stock!
+	Passem lá e confiram
+	o acervo!
 	"""
 	keyWait
 		any = false
@@ -1519,59 +1514,59 @@ script 22 mmbn5 {
 }
 script 90 mmbn5 {
 	clearMsg
-	"What's Jacking In?"
+	"O que é Conectar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jacking in refers
-	to sending your
-	Navi from your PET
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	into the Cyberworld.
-	You can jack into
+	Conectar significa
+	mandar o seu Navi
+	do seu PET para o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all sorts of
-	machines.
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So keep an eye
-	out for places to
-	jack in.
+	É possível se conectar
+	em todo o tipo de
+	aparelho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To jack in,stand in
-	front of the machine
-	and press R Button!
+	Então, fique esperto!
+	Há pontos de conexão
+	por toda a parte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,young
-	NetBattlers!
+	Para se conectar,
+	fique diante do
+	aparelho e aperte "R"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do your best and
-	enjoy your
-	Cyberworld life!
+	OK, então, jovens
+	NetLutadores!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não percam a coragem
+	e aproveitem a sua
+	vida cibernética!
 	"""
 	keyWait
 		any = false
@@ -1580,159 +1575,157 @@ script 90 mmbn5 {
 script 91 mmbn5 {
 	clearMsg
 	"""
-	Learn to edit
-	your ChipFolder!
+	Aprenda como editar
+	a sua Pasta de Chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can find
-	BattleChips
+	Chips de batalha
+	podem ser encontrados
+	espalhados por todo o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	scattered around
-	the Cyberworld.
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But simply having
-	them doesn't mean
-	you can use them!
+	Mas simplesmente
+	tê-los não significa
+	que você pode usá-los!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever you get
-	a new BattleChip,
+	Sempre que você
+	adquirir um novo chip,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you have to make
-	sure to put it in
-	your ChipFolder!
+	precisa lembrar de
+	inseri-lo na sua
+	Pasta de Chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want to edit
-	your ChipFolder,
-	use your PET.
+	Se quiser editar a
+	sua Pasta, é só usar
+	o seu PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select the Chip-
-	Folder to open
-	the editing screen.
+	Selecione a Pasta para
+	abrir a tela de edição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	While you are
-	editing the folder,
+	Enquanto você
+	edita a pasta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	pressing START lets
-	you sort the data.
+	aperte "START" para
+	organizar os dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can sort the
-	BattleChips in
-	your Pack and
+	Você pode separar
+	os chips na sua
+	Mochila e nas pastas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	folders either by ID
-	or alphabetically.
+	por código de
+	identificação ou
+	alfabeticamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It really helps
-	in organizing
-	your chips.
+	Isso ajuda muito na
+	organização dos chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find BattleChips by
-	deleting viruses
+	Adquira chips
+	vencendo vírus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and opening
-	mystery data
-	on the Cyberworld.
+	e abrindo dados
+	misteriosos no
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,you can buy
-	BattleChips at
-	certain shops
+	Você também pode
+	comprar chips em
+	certas lojas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	as well as trade
-	BugFrags to get
-	them.
+	além de trocar
+	FragBugs por eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The more Battle
-	Chips you get,
+	Quanto mais
+	chips você tiver,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the better a folder
-	you can make for
-	yourself!
+	melhor a pasta que
+	você pode montar para
+	usar em batalha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,young
-	NetBattlers!
+	Certo, jovens
+	NetLutadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do your best and
-	enjoy your 
-	Cyberworld life!
+	Não percam a coragem
+	e aproveitem a sua
+	vida cibernética!
 	"""
 	keyWait
 		any = false
@@ -1743,32 +1736,31 @@ script 99 mmbn5s {
 }
 script 100 mmbn5 {
 	"""
-	The next mission
-	will take place
-	in Oran Area3.
+	A próxima missão será
+	na Área Oran 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we need to
-	scout out the
-	area first.
+	Mas, primeiro,
+	precisamos fazer reco-
+	nhecimento da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your orders are
-	to go to Oran
-	Area1 on the Net.
+	As suas ordens são
+	para ir à Área Oran 1,
+	na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll send Colonel
-	along as well.
+	Enviarei o Colonel
+	para o local também.
 	"""
 	keyWait
 		any = false
@@ -1776,40 +1768,38 @@ script 100 mmbn5 {
 }
 script 101 mmbn5 {
 	"""
-	Nebula agents still
-	remain in Oran
-	Area.
+	Ainda restam agentes
+	da Nebula na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Immediately make
-	your way to Oran
-	Area.
+	Siga para a Área
+	Oran imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,Oran Area
-	network is
-	unstable.
+	Contudo, a rede da
+	área está instável
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will not be
-	able to jack in
-	from Oran Isle.
+	Não será possível
+	acessá-la a partir
+	da Ilha Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go there by way of
-	ACDC Area.
+	Siga para lá através
+	da Área ACDC.
 	"""
 	keyWait
 		any = false
@@ -1817,55 +1807,54 @@ script 101 mmbn5 {
 }
 script 102 mmbn5 {
 	"""
-	Lan,I was mining
-	MagnoMetal on Oran
-	Isle,
+	Lan, eu estava
+	minerando MagnoMetais
+	na Área Oran
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when a ninja Navi
-	challenged me to a
-	battle,
+	quando um Navi ninja
+	me desafiou para uma
+	luta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	saying he wanted
-	to test my
-	abilities.
+	dizendo que queria
+	testar minhas
+	habilidades.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And in the blink of
-	an eye,
+	E, em um piscar de
+	olhos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	he stole some
-	vital KnightMan
-	programs.
+	ele roubou certos
+	programas vitais
+	para o KnightMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	KnightMan is
-	immobilized without
-	those programs!
+	O KnightMan
+	está completamente
+	imobilizado sem eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,lend us your
-	help!
+	Por favor, ajude-nos!
 	"""
 	keyWait
 		any = false
@@ -1873,85 +1862,84 @@ script 102 mmbn5 {
 }
 script 103 mmbn5 {
 	"""
-	At the end of the
-	last liberation
-	mission,
+	Ao término da última
+	missão de liberação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a resonance between
-	MegaMan and
-	KnightMan occurred,
+	ocorreu uma ressonância
+	entre MegaMan e
+	KnightMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	allowing MegaMan to
-	gain a new ability.
+	permitindo ao MegaMan
+	adquirir uma nova
+	habilidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	According to
-	Dr.Hikari's files,
+	De acordo com os
+	arquivos do Dr. Hikari,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when MegaMan's soul
-	resonates with that
-	of another Navi's,
+	quando a alma do
+	MegaMan ressoa com
+	a de outro Navi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the synchronicity
-	of the souls that
-	is achieved
+	a sincronia das almas
+	é temporariamente
+	alcançada,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	temporarily,gives
-	MegaMan that Navi's
-	abilities.
+	fornecendo ao MegaMan
+	as habilidades do Navi
+	em questão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is called
-	DublSoul,
+	É a chamada
+	União de Alma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and should be
-	very useful in your
-	battles.
+	e, com certeza, será
+	bem útil para você
+	em combate.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've attached a
-	practice program.
+	Mandei em anexo um
+	programa de treino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master this new
-	technique
-	immediately!
+	Domine essa nova
+	técnica imediatamente!
 	"""
 	keyWait
 		any = false
@@ -1959,56 +1947,56 @@ script 103 mmbn5 {
 }
 script 104 mmbn5 {
 	"""
-	KngtSoul lets you
-	synch by using
-	Break-based chips.
+	Use chips de quebra
+	para se sincronizar
+	com a KngtAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It gives you
-	temporary
+	Ela lhe fornece
+	invencibilidade
+	temporária
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	invincibility when
-	you use a chip
-	in the front row!
+	quando você usa um
+	chip na coluna da
+	frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use B Button PwrAtk
-	for a devastating
-	Royal Wrecking Ball.
+	Com seu tiro carregado,
+	você usa a esmagadora
+	Bola de Demolição Real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use A Button PwrAtk
-	with Break-based
-	chips to double
+	Segure "A" ao usar
+	chips de quebra para
+	dobrar o seu poder de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	attack power!
-	KngtSoul lets you
-	stand your ground!
+	ataque! A KngtAlma
+	lhe permite se impor
+	e prevalecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -2016,66 +2004,67 @@ script 104 mmbn5 {
 }
 script 105 mmbn5 {
 	"""
-	ShdoSoul lets
-	you synch
+	Para se sincronizar
+	com a ShdoAlma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by using Invisibl-
-	based chips.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"It speeds you up."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Press B Button and
-	Left to use
-	AntiMagc!
+	é só usar chips de
+	invisibilidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use B Button PwrAtk
-	to swing LongSwrd
-	two-squares ahead!
+	Ela amplificará
+	a sua velocidade
+	consideravelmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use A Button PwrAtk
-	with Sword-based
-	chips,
+	Aperte "B" + esquerda
+	para usar AntiMagc!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you can hit any
-	enemy from behind!
+	E o tiro carregado com
+	"B" vira uma LongSwrd
+	dois quadros à frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ShdoSoul makes
-	you as elusive as
-	a shadow!
+	Segure "A" ao usar
+	chips de Espada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it to
-	good use!
+	para atingir qualquer
+	inimigo por trás!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Com a ShdoAlma, você
+	fica tão elusivo...
+	quanto uma sombra!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Estou certo de que ela
+	será útil para você!
 	"""
 	keyWait
 		any = false
@@ -2083,60 +2072,61 @@ script 105 mmbn5 {
 }
 script 106 mmbn5 {
 	"""
-	TmhkSoul lets you
-	sync by using
-	Wood-based chips.
+	Para se sincronizar
+	com a TmhkAlma, use
+	chips de Madeira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It turns all panels
-	into grass panels!
-	And that's not all.
+	Ela transforma todos os
+	quadros em quadros de
+	grama! E tem mais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doubles attack
-	strength for Wood-
-	based chips over
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"grass panels!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Power attack with B
-	Button to swing a
-	3x2 sized tomahawk!
+	Ela dobra o ataque de
+	chips de Madeira sobre
+	quadros de grama!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You won't get
-	Confused or
-	Paralyzed
+	Use o tiro carregado
+	com "B" para atacar
+	com uma machadinha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by Wood-based
-	traps,either.
+	na coluna e duas
+	linhas à frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put TmhkSoul
-	to good use!
+	E, para terminar,
+	armadilhas de Madeira
+	não irão lhe Confundir
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	ou Paralisar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Estou certo de que a
+	TmhkAlma lhe será útil!
 	"""
 	keyWait
 		any = false
@@ -2144,49 +2134,48 @@ script 106 mmbn5 {
 }
 script 107 mmbn5 {
 	"""
-	NumSoul lets you
-	sync by using
-	Bonus point chips.
+	Com chips que fornecem
+	pontos a mais, você
+	acessa a NumAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use B Button PwrAtk
-	to throw a DieBomb.
-	Power depends on the
+	Seu tiro carregado
+	lança um Dado-Bomba.
+	A força depende do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	roll! Plus,it lets
-	you select 10 chips
-	on the Custom
+	número! Ela também lhe
+	permite selecionar 10
+	chips na Tela de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Screen! Non-element
-	chip attacks are
-	+10 damage too!
+	Customização! E dá
+	+10 de dano a chips
+	sem elemento!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NumSoul lets you
-	calculate the battle
-	in your favor!
+	A NumAlma lhe permite
+	quantificar a luta a
+	seu favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it
-	to good use!
+	Estou certo de que
+	ela lhe será útil!
 	"""
 	keyWait
 		any = false
@@ -2194,53 +2183,52 @@ script 107 mmbn5 {
 }
 script 108 mmbn5 {
 	"""
-	ToadSoul lets you
-	sync by using
-	Water-based chips.
+	Sincronize-se com a
+	ToadAlma utilizando
+	chips de Água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use B Button PwrAtk
-	to launch an enemy-
-	Paralyzing ShokSong!
+	Seu tiro carregado dis-
+	para uma ShokSong, que
+	paralisa um alvo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it lets you
-	hide when you're
-	on a Water panel!
+	Além disso, você se
+	esconde ao ficar sobre
+	quadros de Água!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,use A Button
-	power attack with
-	Water-based chips to
+	Segure e solte "A"
+	com chips de Água
+	para dobrar o poder de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"double attack power!"
+	"ataque deles!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ToadSoul may look
-	cute,but it's a
-	real powerhouse!
+	A ToadAlma pode parecer
+	meiga, mas tem poder
+	para dar e vender!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it
-	to good use!
+	Estou certo de que
+	ela lhe será útil!
 	"""
 	keyWait
 		any = false
@@ -2248,87 +2236,86 @@ script 108 mmbn5 {
 }
 script 109 mmbn5 {
 	"""
-	ColSoul lets you
-	sync by using
-	Summon-based chips.
+	Utilizando chips de
+	invocação, você se sin-
+	croniza com a ColAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It lets you plan out
-	sneak attacks.
-	Use B Button PwrAtk
+	Ela lhe permite planejar
+	ataques sorrateiros.
+	Segure e solte "B"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to swing a
-	forward-slicing
-	ScrenDiv attack!
+	para desferir um
+	corte triangular,
+	o ScrenDiv!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Select a Standard
-	Chip that has attack
-	value and is not
+	Selecione um Chip
+	Padrão da Tela de
+	Customização que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	greyed out from the
-	Custom Screen.
+	possua pontos de
+	ataque e não esteja
+	descolorido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use ARM CHANGE and
-	you can then press
-	the B Button⋯
+	Use TROCA DE BRAÇO e,
+	então, aperte "B"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to power attack
-	with that chip!
+	para usar um ataque
+	com esse chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can also
-	plant booby traps
-	in the enemy area!
+	Você também pode
+	plantar armadilhas
+	na área inimiga.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When the enemy
-	finds it,the trap
-	attacks them!
+	Quando o inimigo a
+	encontrar, a armadilha
+	o atacará!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ColSoul lets you
-	use both power
-	and tactics!
+	Com a ColAlma, você
+	pode usar força e
+	estratégia somados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you'll be
-	able to put it
-	to good use!
+	Estou certo de que
+	ela lhe será útil!
 	"""
 	keyWait
 		any = false

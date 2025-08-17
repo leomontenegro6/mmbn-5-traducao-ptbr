@@ -8,13 +8,13 @@ script 0 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 283
-	"Ruff"
+	"Gáu! "
 	wait
 		frames = 16
 	soundDisableTextSFX
 	soundPlay
 		track = 283
-	"Ruff!"
+	"Gáu!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,8 +26,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hey!
-	What was that⋯?
+	Opa!
+	Isso é...?
 	"""
 	keyWait
 		any = false
@@ -38,7 +38,7 @@ script 2 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow!"
+	"Gáu!"
 	keyWait
 		any = false
 	clearMsg
@@ -49,7 +49,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wargh!"
+	"Aah!"
 	keyWait
 		any = false
 	end
@@ -58,7 +58,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He got me again⋯"
+	"De novo..."
 	keyWait
 		any = false
 	clearMsg
@@ -70,8 +70,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Come on,MegaMan!
-	Get with it!
+	Vamos, MegaMan!
+	Cê consegue!
 	"""
 	keyWait
 		any = false
@@ -82,9 +82,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm sorry. I'll make
-	sure I catch him
-	next time!
+	Foi mal. Da próxima vez,
+	eu pego ele sem falta!
 	"""
 	keyWait
 		any = false
@@ -101,13 +100,13 @@ script 7 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 345
-	"Woof"
+	"Gáu! "
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 345
-	"Woof!"
+	"Gáu!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -118,11 +117,11 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"That's Gow barking!"
+	"É o latido do Gáu!"
 	keyWait
 		any = false
 	clearMsg
-	"Ah,unbelievable!"
+	"Ah, não acredito!"
 	keyWait
 		any = false
 	end
@@ -132,23 +131,23 @@ script 9 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	Whoosh!
-	Got you!
+	Fuuu!
+	Te peguei!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let's get out
-	of this oven!
+	Agora, hora de tirar
+	isto aqui do forno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what Dr.
-	Regal wants with
-	you anyway?
+	O que será que
+	o Dr. Regal quer
+	com você, afinal?
 	"""
 	keyWait
 		any = false
@@ -163,21 +162,21 @@ script 10 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow!"
+	"Gáu!"
 	wait
 		frames = 16
 	soundDisableTextSFX
 	" "
 	soundPlay
 		track = 341
-	"Gow!"
+	"Gáu!"
 	wait
 		frames = 16
 	soundDisableTextSFX
 	" "
 	soundPlay
 		track = 341
-	"Gow!"
+	"Gáu!"
 	keyWait
 		any = false
 	clearMsg
@@ -189,8 +188,8 @@ script 11 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	Whoosh!
-	You're a noisy one!
+	Fuuuu!
+	Como você é barulhento!
 	"""
 	keyWait
 		any = false
@@ -201,7 +200,7 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Let Gow go!"
+	"Solta o Gáu!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +211,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = BlizzardMan
 	msgOpen
-	"Whoosh?!"
+	"Fuuu?!"
 	keyWait
 		any = false
 	end
@@ -226,9 +225,9 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	B-But,I thought I
-	defeated you in the
-	liberation⋯
+	M-mas a gente não
+	tinha te deletado
+	na liberação...?!
 	"""
 	keyWait
 		any = false
@@ -240,27 +239,27 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = BlizzardMan
 	msgOpen
-	"Whoosh!"
+	"Fuuuu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You think that was
-	enough to defeat
-	me?!
+	Achou mesmo que aquilo
+	ia ser suficiente pra
+	me vencer?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Darkloid can keep
-	on reviving as long
-	as there's darkness!
+	Um Darkloide sempre
+	volta à vida... enquanto
+	houver escuridão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whoooosh!"
+	"Fuuuuu!"
 	keyWait
 		any = false
 	clearMsg
@@ -272,9 +271,9 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Then we'll just have
-	to keep on defeating
-	you!
+	Então, o jeito vai ser
+	a gente continuar te
+	derrubando!
 	"""
 	keyWait
 		any = false
@@ -301,19 +300,18 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = BlizzardMan
 	msgOpen
-	"Whoosh!"
+	"Fuuuu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't have time to
-	mess around with you
-	now!
+	Não tneho tempo pra
+	perder com vocês agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Whoosh,farewell!"
+	"Adeus! Fuuuuu!"
 	keyWait
 		any = false
 	end
@@ -322,7 +320,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait!"
+	"Espera!"
 	keyWait
 		any = false
 	end
@@ -331,13 +329,13 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'm sorry,Lan⋯"
+	"Desculpa, Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really messed that
-	up⋯
+	Eu vacilei feio
+	desta vez...
 	"""
 	keyWait
 		any = false
@@ -350,9 +348,9 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Never mind. Let's
-	report back to the
-	SciLab!
+	Não esquenta.
+	Bora voltar pro SciLab
+	pra relatar o que rolou!
 	"""
 	keyWait
 		any = false
@@ -366,7 +364,7 @@ script 22 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 155
-	"Rrrring!"
+	"Trrrriiiim!"
 	wait
 		frames = 62
 	keyWait
@@ -380,13 +378,12 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's a phone
-	call!
+	Lan, ligação!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Better get it!"
+	"... É melhor atender!"
 	keyWait
 		any = false
 	clearMsg
@@ -398,8 +395,8 @@ script 24 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ah,good! I reached
-	you!
+	Ah, ótimo!
+	Consegui te ligar!
 	"""
 	keyWait
 		any = false
@@ -411,7 +408,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Who are you?"
+	"... Quem tá falando?"
 	keyWait
 		any = false
 	clearMsg
@@ -423,29 +420,29 @@ script 26 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I work at the
-	SciLab. Our HP
+	Eu trabalho no SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are being attacked
-	by Nebula Darkloids!
+	A nossa página está
+	sendo atacada por
+	Darkloides da Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We really need your
-	help here!
+	Estamos precisando
+	muito da sua ajuda aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to the SciLab
-	as quick as you can!
+	Venha pro SciLab o
+	mais rápido possível!
 	"""
 	keyWait
 		any = false
@@ -457,21 +454,21 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay! I'm coming
-	right away!
+	Tá bom!
+	Eu tô indo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's jack
-	out and get to the
-	SciLab!
+	MegaMan, bora
+	desconectar e
+	ir pro SciLab!
 	"""
 	keyWait
 		any = false
@@ -483,7 +480,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Certo!"
 	keyWait
 		any = false
 	end

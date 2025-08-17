@@ -8,9 +8,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like this
-	area needs to
-	be liberated,too.
+	Parece que esta
+	área também precisa
+	ser liberada.
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah."
+	"Pois é."
 	keyWait
 		any = false
 	end
@@ -34,7 +34,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Everyone!"
+	"Pessoal!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,9 +52,9 @@ script 3 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Whoa,MegaMan!
-	Looks like this is
-	a serious area!
+	Caramba, MegaMan!
+	Esta área aqui
+	parece coisa séria!
 	"""
 	keyWait
 		any = false
@@ -73,8 +73,8 @@ script 4 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Let's liberate!
-	It's party time!
+	Bora liberar!
+	Hora da festa!
 	"""
 	keyWait
 		any = false
@@ -93,16 +93,15 @@ script 5 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Sorry I couldn't
-	make it before.
+	Desculpa eu não ter
+	podido vir antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got my
-	full attention now,
-	though!
+	Mas, agora, você tem
+	a minha atenção total!
 	"""
 	keyWait
 		any = false
@@ -114,13 +113,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,everyone!"
+	"Valeu, gente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯ProtoMan?
-	Where is he?
+	... Mas e o ProtoMan?
+	Cadê ele?
 	"""
 	keyWait
 		any = false
@@ -139,16 +138,17 @@ script 7 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Said he needs to
-	do some research⋯
+	Disse que precisava
+	conduzir uma certa
+	pesquisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like he saw
-	some big angry
-	Navi in NebulaArea.
+	Parece que avistou um
+	Navi grande e raivoso
+	na Área Nebula.
 	"""
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"Big and angry\"?"
+	"\"Grande e raivoso\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -178,8 +178,7 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what's
-	out there⋯?
+	O que será isso...?
 	"""
 	keyWait
 		any = false
@@ -192,23 +191,22 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's check it out
-	together!
+	Bora conferir juntos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's begin the
-	liberation!
+	Hora de começar
+	a liberação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mission is
-	to liberate within
-	14 phases! Go!
+	A meta é liberar
+	a área dentro de
+	14 fases! Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -219,9 +217,9 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like this
-	area needs to
-	be liberated,too.
+	Parece que esta
+	área também precisa
+	ser liberada.
 	"""
 	keyWait
 		any = false
@@ -233,7 +231,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah."
+	"Pois é."
 	keyWait
 		any = false
 	end
@@ -242,7 +240,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Everyone!"
+	"Pessoal!"
 	keyWait
 		any = false
 	clearMsg
@@ -260,9 +258,9 @@ script 23 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	You're being
-	reckless as usual,
-	MegaMan.
+	Você está sendo
+	imprudente como
+	sempre, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -281,8 +279,8 @@ script 24 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	This area puts me
-	on edge!
+	Esta área sempre me
+	deixa à flor da pele!
 	"""
 	keyWait
 		any = false
@@ -301,17 +299,16 @@ script 25 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Sorry I couldn't
-	make it before.
-	*Ribbit*
+	Desculpa não poder
+	vir antes, coaxo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got my full
-	attention now,
-	though! *Ribbit*
+	Mas, agora, você
+	tem 100% da minha
+	atenção! Coaxo!
 	"""
 	keyWait
 		any = false
@@ -323,13 +320,13 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,everyone!"
+	"Valeu, gente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Colonel?
-	Where is he?
+	... Mas e o Colonel?
+	Cadê ele?
 	"""
 	keyWait
 		any = false
@@ -348,16 +345,17 @@ script 27 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Said he needs to
-	do some research⋯
+	Disse que precisava
+	conduzir uma pesquisa
+	aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like he saw
-	some big angry
-	Navi in NebulaArea.
+	Parece que ele avistou
+	um Navi grande e raivoso
+	na Área Nebula.
 	"""
 	keyWait
 		any = false
@@ -369,7 +367,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"\"Big and angry\"?"
+	"\"Grande e raivoso\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -387,8 +385,7 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what's
-	out there⋯?
+	O que será isso...?
 	"""
 	keyWait
 		any = false
@@ -401,23 +398,22 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's check it out
-	together!
+	Bora conferir juntos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's begin the
-	liberation!
+	Hora de começar
+	a liberação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mission is
-	to liberate within
-	14 phases! Go!
+	A meta é liberar
+	a área dentro de
+	14 fases! Vamos lá!
 	"""
 	keyWait
 		any = false

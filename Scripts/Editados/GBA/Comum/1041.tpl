@@ -8,9 +8,9 @@ script 0 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Welcome!
-	R: Read Description
-	B: Quit Shopping
+	Bem-vindo!
+	R: Ler Descrição
+	B: Sair
 	"""
 	waitHold
 }
@@ -22,9 +22,9 @@ script 1 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	How can I help you?
-	R: Read Description
-	B: Quit Shopping
+	Em que posso ajudar?
+	R: Ler Descrição
+	B: Sair
 	"""
 	waitHold
 }
@@ -49,7 +49,7 @@ script 2 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Leaving already?\n"
+	"Já vai embora?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -60,7 +60,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -69,7 +69,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -89,7 +89,7 @@ script 3 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Come again!"
+	"Volte sempre!"
 	waitHold
 }
 script 4 mmbn5 {
@@ -105,7 +105,7 @@ script 4 mmbn5 {
 		item = 0
 	"""
 	"?
-	Are you sure?
+	Certeza?
 	
 	"""
 	positionOptionHorizontal
@@ -118,7 +118,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -127,7 +127,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -158,7 +158,7 @@ script 5 mmbn5 {
 		code = A
 	"""
 	"
-	Are you sure?
+	Certeza?
 	
 	"""
 	positionOptionHorizontal
@@ -171,7 +171,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -180,7 +180,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -216,7 +216,7 @@ script 6 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printItem
@@ -249,7 +249,7 @@ script 7 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -286,8 +286,8 @@ script 8 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Not enough
-	Zennys.
+	Preciso de
+	mais Zennys.
 	"""
 	keyWait
 		any = false
@@ -315,8 +315,8 @@ script 9 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não dá pra
+	levar mais.
 	"""
 	keyWait
 		any = false
@@ -330,9 +330,9 @@ script 10 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Our stock is all
-	sold out!
-	Thank you!
+	Estamos 100%
+	esgotados!
+	Obrigado!
 	"""
 	keyWait
 		any = false
@@ -351,7 +351,7 @@ script 11 mmbn5 {
 		program = 0
 	"""
 	"?
-	Are you sure?
+	Certeza?
 	
 	"""
 	positionOptionHorizontal
@@ -364,7 +364,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -373,7 +373,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -409,7 +409,7 @@ script 12 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printNaviCustProgram
@@ -466,7 +466,7 @@ script 20 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"WANT TO LEAVE?\n"
+	"QUER SAIR?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -477,7 +477,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -486,7 +486,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -505,7 +505,7 @@ script 21 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU BOUGHT
+	COMPROU
 	"
 	"""
 	printItem
@@ -522,7 +522,7 @@ script 22 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU BOUGHT
+	COMPROU
 	"
 	"""
 	printChip
@@ -542,7 +542,7 @@ script 23 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"INSUFFICIENT ZENNYS."
+	"ZENNYS INSUFICIENTES."
 	keyWait
 		any = false
 	waitHold
@@ -553,8 +553,9 @@ script 24 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU CAN'T CARRY
-	ANY MORE.
+	NÃO É
+	POSSÍVEL
+	LEVAR MAIS.
 	"""
 	keyWait
 		any = false
@@ -566,7 +567,7 @@ script 25 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU BOUGHT
+	COMPROU
 	"
 	"""
 	printNaviCustProgram
@@ -584,7 +585,7 @@ script 32 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Want to leave?\n"
+	"Deixar a loja?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -595,7 +596,7 @@ script 32 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -604,7 +605,7 @@ script 32 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -625,7 +626,7 @@ script 36 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printItem
@@ -644,7 +645,7 @@ script 37 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -666,7 +667,7 @@ script 38 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Faltam-lhe Zennys..."
 	keyWait
 		any = false
 	waitHold
@@ -679,8 +680,8 @@ script 39 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não dá para
+	levar mais.
 	"""
 	keyWait
 		any = false
@@ -694,7 +695,7 @@ script 42 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printNaviCustProgram
@@ -712,7 +713,7 @@ script 52 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Want to leave?\n"
+	"Deixar a loja?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -723,7 +724,7 @@ script 52 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -732,7 +733,7 @@ script 52 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -753,7 +754,7 @@ script 56 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printItem
@@ -772,7 +773,7 @@ script 57 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -794,7 +795,7 @@ script 58 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Faltam-lhe Zennys..."
 	keyWait
 		any = false
 	waitHold
@@ -807,8 +808,8 @@ script 59 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não dá para
+	levar mais.
 	"""
 	keyWait
 		any = false
@@ -822,7 +823,7 @@ script 62 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printNaviCustProgram

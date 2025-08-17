@@ -4,20 +4,20 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME!"
+	"BEM-VINDO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OUR DUMPLINGS
-	ARE THE BEST!
+	OS NOSSOS BOLINHOS
+	SÃO SEM IGUAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY'RE A
-	TASTE SENSATION!
+	UMA VERDADEIRA FESTA
+	PARA O PALADAR!
 	"""
 	keyWait
 		any = false
@@ -28,15 +28,15 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WITH DUMPLINGS,THE
-	SAUCE IS CRUCIAL.
+	COM BOLINHOS, O MOLHO
+	É SEMPRE CRUCIAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STORE-BOUGHT SAUCE
-	IS UNTHINKABLE!
+	MOLHO BARATO DE
+	LOJA É INACEITÁVEL!
 	"""
 	keyWait
 		any = false
@@ -51,14 +51,14 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOUR DUMPLINGS ARE
-	WAY TOO FIRM
-	FOR MY SAUCE.
+	OS SEUS BOLINHOS
+	SÃO DUROS DEMAIS
+	PARA O MEU MOLHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GET IT RIGHT!"
+	"FAZ DIREITO!"
 	keyWait
 		any = false
 	end
@@ -72,14 +72,14 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOUR SAUCE IS
-	WAY TOO SWEET
-	FOR MY DUMPLINGS!
+	O SEU MOLHO É
+	DOCE DEMAIS PROS
+	MEUS BOLINHOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GET IT RIGHT!"
+	"FAZ DIREITO!"
 	keyWait
 		any = false
 	end
@@ -89,16 +89,17 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I THINK I SAID SOME
-	HARSH WORK-RELATED
-	THINGS.
+	EU ACHO QUE FALEI
+	UMAS COISAS CRUEIS,
+	PROFISSIONALMENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I APOLOGIZE FROM THE
-	BOTTOM OF MY HEART.
+	PEÇO DESCULPAS,
+	DO FUNDO DO MEU
+	CYBER-CORAÇÃO.
 	"""
 	keyWait
 		any = false
@@ -109,16 +110,16 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WAS THE ONE WHO
-	FINALLY LOST IT.
+	FUI EU QUEM FINALMENTE
+	PERDEU AS ESTRIBEIRAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE FORGIVE ME.
-	I DEEPLY REGRET
-	WHAT I'VE DONE.
+	PEÇO MIL PERDÕES.
+	ME ARREPENDO MUITO
+	PELO QUE EU FIZ.
 	"""
 	keyWait
 		any = false

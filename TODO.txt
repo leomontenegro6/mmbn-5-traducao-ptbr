@@ -1,2 +1,4 @@
-- Passar scripts pro Sahgo começar a tradução
+- Gerar betas pro pessoal poder testar ingame
 - Editar menu exibido ao apertar Start
+
+do 945 ao 999 tem algum estranho

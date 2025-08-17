@@ -4,14 +4,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"There's no way out⋯"
+	"Não tem saída."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were a tough one
-	to catch. But the
-	fun's over now.
+	Você foi bem irritante
+	de pegar. Mas, agora,
+	a brincadeira acabou.
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"N-No⋯"
+	"N-não..."
 	keyWait
 		any = false
 	clearMsg
@@ -34,7 +34,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Say your prayers⋯!"
+	"Comece a rezar!"
 	keyWait
 		any = false
 	end
@@ -47,7 +47,7 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Get out of the way!"
+	"Saia do caminho!"
 	keyWait
 		any = false
 	clearMsg
@@ -58,7 +58,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Hah!"
+	"... Rá!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -80,7 +80,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -89,7 +89,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Wait!"
+	"Espere!"
 	keyWait
 		any = false
 	end
@@ -98,7 +98,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"MegaMan⋯!"
+	"MegaMan...!"
 	keyWait
 		any = false
 	end

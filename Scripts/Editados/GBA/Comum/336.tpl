@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go to End
-	City!
+	Lan, vamos lá pra
+	Cidade de Endo!
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go to
+	Lan, vamos lá pro
 	SciLab!
 	"""
 	keyWait
@@ -33,9 +33,9 @@ script 60 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	What's your business
-	on this deserted
-	island?
+	Oi, menino.
+	Veio fazer o que nesta
+	ilha deserta?
 	"""
 	keyWait
 		any = false
@@ -43,37 +43,36 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Never mind me,what
-	about you?
+	Eu é que queria saber
+	o que VOCÊ faz aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"Me?"
+	"Eu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used to work here,
-	long ago.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It pains me to see
-	this island fall
-	apart like this.
+	Eu trabalhava aqui,
+	muito tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I come
-	and clean it from
-	time to time.
+	Me dói muito ver a ilha
+	decaindo desse jeito.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E é por isso que eu
+	venho limpá-la, de
+	tempos em tempos.
 	"""
 	keyWait
 		any = false
@@ -81,51 +80,50 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	You worked here a
-	long time ago?!
+	Você trabalhava aqui
+	antigamente?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,have you seen
-	this person and this
-	dog?
+	Er, já viu esta pessoa
+	e este cachorro aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Lan showed:
-	"GowPic"!!!
+	Lan mostrou:
+	"FotoGáu"!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"Yeah⋯ I know 'em!"
+	"É... Eu lembro deles!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a SciLab
-	scientist that used
-	to come here a lot.
+	Esse aí era um cientista
+	do SciLab que sempre
+	vinha me ajudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He helped me out."
+	"Ele era muito bom comigo."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	You knew my
-	grandpa?!
+	Você conheceu o meu
+	vô?!
 	"""
 	keyWait
 		any = false
@@ -133,41 +131,40 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	What,you're that
-	scientist's
-	grandson?
+	Ah, então você é neto
+	daquele cientista?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Actually,he left me
-	something.
+	Na verdade, ele deixou
+	uma coisa comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My Navi has it."
+	"Está com o meu Navi\nagora."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's in Oran on the
-	Net,which you
-	enter from OldMine.
+	Ele está na Área Oran
+	da Rede, que dá pra
+	acessar da Velha Mina.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never thought I'd
-	meet the scientist's
-	grandson.
+	Nossa, nunca imaginei
+	que conheceria o neto
+	daquele cientista.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Must be destiny⋯"
+	"Só pode ser destino..."
 	keyWait
 		any = false
 	flagSet
@@ -179,8 +176,8 @@ script 61 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	All right,back to
-	my cleaning⋯
+	Bom, de volta à minha
+	limpeza...
 	"""
 	keyWait
 		any = false

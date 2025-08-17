@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,MY! MY OH MY!
-	WHAT AM I TO DO?
+	Ó, CÉUS! Ó, VIDA!
+	O QUE EU FAÇO?
 	"""
 	keyWait
 		any = false
@@ -16,7 +16,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's wrong?"
+	"O que foi?"
 	keyWait
 		any = false
 	end
@@ -26,46 +26,44 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN HARDLY BEAR TO
-	SAY!
+	AI, DÓI ATÉ FALAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WAS TOLD TO COME
-	AND REORDER THE DATA
+	ME MANDARAM VIR AQUI
+	E REORDENAR OS DADOS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THE DATA ORDER
-	HAS ESCAPED MY
-	MEMORY BANK!
+	MAS A ORDEM DOS DADOS
+	ESCAPOU DO MEU BANCO
+	DE MEMÓRIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I TRIED TO CONTACT
-	THE PERSON WHO ASKED
-	ME
+	EU TENTEI CONTATAR A
+	PESSOA QUE ME MANDOU
+	FAZER ISSO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT HE'S NOT
-	ANSWERING MY
-	PAGES!
+	MAS ELE NÃO RESPONDE
+	ÀS MINHAS MENSAGENS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW I JUST DON'T
-	KNOW WHAT TO DO!!!
+	E, AGORA, EU NÃO SEI
+	MAIS O QUE FAZER!!!
 	"""
 	keyWait
 		any = false
@@ -76,8 +74,8 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,MY! MY OH MY!
-	WHAT AM I TO DO?
+	Ó, CÉUS! Ó, VIDA!
+	O QUE EU FAÇO?
 	"""
 	keyWait
 		any = false
@@ -88,9 +86,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He's right,Lan. What
-	should we do?
-	We can't proceed.
+	Que confusão, Lan.
+	O que a gente faz?
+	Não dá pra gente seguir.
 	"""
 	keyWait
 		any = false
@@ -103,9 +101,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Leave it to me! I'll
-	find the person who
-	gave the order!
+	Deixa comigo!
+	Eu vou achar o sujeito
+	que deu a ordem!
 	"""
 	keyWait
 		any = false
@@ -118,9 +116,9 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,are you
-	forgetting? Nobody
-	is at SciLab now.
+	Lan, já esqueceu?
+	Não tem ninguém no
+	SciLab agora.
 	"""
 	keyWait
 		any = false
@@ -132,7 +130,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Shoot! You're right!"
+	"Droga! É mesmo!"
 	keyWait
 		any = false
 	end
@@ -141,7 +139,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WAIT!"
+	"ESPERE!"
 	keyWait
 		any = false
 	end
@@ -151,38 +149,39 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE PERSON WHO GAVE
-	THE ORDER⋯
+	A PESSOA QUE ME
+	DEU A ORDEM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE IS A METICULOUS
-	NOTE-TAKER!
+	É ALGUÉM QUE
+	FAZ ANOTAÇÕES
+	METICULOSAMENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PERHAPS HE HAS IT
-	WRITTEN DOWN
-	SOMEWHERE?
+	TALVEZ ELE TENHA
+	DEIXADO ANOTADO
+	EM ALGUM LUGAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HE IS A SUBORDINATE
-	OF DR.HIKARI.
+	ELE É UM SUBORDINADO
+	DO DR. HIKARI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE MAY BE A NOTE
-	WHERE DR.HIKARI
-	MIGHT GO.
+	PODE HAVER UMA
+	ANOTAÇÃO ONDE O
+	DR. HIKARI FREQUENTA.
 	"""
 	keyWait
 		any = false
@@ -192,7 +191,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You get that,Lan?"
+	"Ouivu, Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -203,18 +202,18 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure did."
+	"Ouvi, sim."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have your memo
-	in no time!
+	Eu vou lá pegar a
+	anotação rapidinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sit tight,MegaMan!"
+	"Aguenta aí, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -225,7 +224,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thanks,Lan!"
+	"Valeu, Lan!"
 	keyWait
 		any = false
 	end

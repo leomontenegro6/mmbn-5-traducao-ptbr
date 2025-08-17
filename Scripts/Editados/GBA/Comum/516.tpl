@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"This is⋯"
+	"Isto aqui é..."
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 0 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem

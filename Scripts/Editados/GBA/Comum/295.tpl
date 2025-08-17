@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	While Higsby's was
-	closed,a lot of new
-	chips came out!
+	Enquanto a Loja do
+	Higsby tava fechada,
+	saiu muito chip novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I can finally
-	buy them!
+	Agora eu finalmente
+	posso comprar eles!
 	"""
 	keyWait
 		any = false
@@ -25,17 +25,17 @@ script 1 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Whoa! This is no
-	ordinary local chip
-	shop.
+	Puxa vida! Esta não é
+	uma loja de chips de
+	bairro qualquer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a selection!
-	Higsby really knows
-	his chips!
+	Que seleção!
+	O Higsby entende mesmo
+	de chips!
 	"""
 	keyWait
 		any = false
@@ -51,16 +51,16 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm collecting many
-	neat chips for when
-	GutsMan comes home.
+	Eu tô reunindo um monte
+	de chips bons pra quando
+	o GutsMan voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You think he'll be
-	happy?
+	Acha que ele vai ficar
+	feliz com isso?
 	"""
 	keyWait
 		any = false
@@ -71,48 +71,47 @@ script 11 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Chip Trader could
-	give you a rare
-	chip,
+	O Troca-Chips pode te
+	dar um chip raro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or it could give you
-	a useless one.
+	ou pode te dar um chip
+	inútil também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Trading 3 to get
-	only 1 is kind of
-	risky.
+	Trocar 3 chips pra
+	conseguir 1 é meio
+	arriscado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And careful of the
-	auto-save when you
-	use chip trader.
+	E cuidado, porque o jogo
+	salva automaticamente
+	quando você usa ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For example,what if
-	you accidentally put
-	in a rare chip?!
+	Tipo, já pensou se
+	você bota um chip
+	raro por acidente?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yikes!
-	I don't even want to
-	think about it!
+	Credo!
+	Eu não quero nem
+	pensar nisso!
 	"""
 	keyWait
 		any = false
@@ -123,16 +122,16 @@ script 15 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	It's not all about
-	chips,I have to work
-	on my skill,as well⋯
+	Só chips não bastam,
+	tenho que treinar minhas
+	habilidades também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*sigh*⋯Where are
-	you,GutsMan?
+	Ai, ai...
+	Cadê você, GutsMan?
 	"""
 	keyWait
 		any = false
@@ -146,8 +145,8 @@ script 20 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	ProtoMan is so
-	brave!
+	O ProtoMan é tão
+	valente!
 	"""
 	keyWait
 		any = false
@@ -157,7 +156,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Roll sure is cute."
+	"A Roll é tão fofa."
 	keyWait
 		any = false
 	end
@@ -167,25 +166,24 @@ script 22 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	See that Number
-	Trader machine over
-	there?
+	Tá vendo aquela máquina
+	Troca-Números ali?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how you
-	know what 8-digit
-	number to input?
+	Sabe os 8 números que
+	que a gente tem que
+	inserir nela?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The combinations are
-	written in hidden
-	places,I've heard.
+	Ouvi falar que dá pra
+	achar eles anotados em
+	lugares escondidos.
 	"""
 	keyWait
 		any = false
@@ -196,9 +194,9 @@ script 30 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Wonder if I can find
-	some ultra-cheap
-	rare chips?
+	Será que eu descolo
+	algum chip raro
+	ultrarraro por aqui?
 	"""
 	keyWait
 		any = false

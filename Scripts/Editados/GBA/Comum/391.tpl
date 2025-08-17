@@ -14,17 +14,17 @@ script 0 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I'm sorry. I don't
-	want to talk to
-	anybody right now.
+	Desculpa, mas eu não
+	quero falar com ninguém
+	agora, tá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For some reason,
-	Everything I say
-	is negative⋯
+	Não sei por quê, mas
+	tudo que eu falo tá
+	tão negativo...
 	"""
 	keyWait
 		any = false
@@ -35,9 +35,9 @@ script 1 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	C'mon! Anybody!
-	Let me hit you!
-	C'mon!
+	Bora! Alguém aí!
+	Me deixa bater em
+	você! Vai!
 	"""
 	keyWait
 		any = false
@@ -48,9 +48,9 @@ script 10 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	My anger just
-	disappeared
-	suddenly. Why?
+	A minha raiva
+	desapareceu de repente.
+	Por que será?
 	"""
 	keyWait
 		any = false
@@ -66,16 +66,16 @@ script 11 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I feel like I was
-	out of control
-	for a while.
+	Sinto que eu fiquei
+	fora de controle por
+	um instante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did I say anything
-	bad to you?
+	Eu falei alguma
+	barbaridade pra você?
 	"""
 	keyWait
 		any = false
@@ -86,9 +86,9 @@ script 20 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I just don't
-	understand what's
-	going on⋯
+	Eu realmente não
+	entendo o que tá
+	acontecendo...
 	"""
 	keyWait
 		any = false
@@ -99,16 +99,16 @@ script 21 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I remember some
-	strange television
-	broadcast⋯
+	Eu me lembro de uma
+	transmissão esquisita
+	na TV aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Was Regal
-	behind all this?
+	Era o Regal que tava
+	por trás disso?
 	"""
 	keyWait
 		any = false
@@ -119,16 +119,15 @@ script 30 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I just can't relax.
-	I'm just waiting
-	for another
+	Não consigo relaxar.
+	Fico o dia todo só
+	esperando outro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	incident to happen
-	again⋯
+	incidente acontecer...
 	"""
 	keyWait
 		any = false

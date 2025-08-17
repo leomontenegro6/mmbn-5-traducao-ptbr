@@ -5,23 +5,23 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The team did an
-	excellent job.
+	A equipe fez um
+	ótimo trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that this area
-	is liberated,the Net
-	is ours again.
+	Agora que esta área
+	foi liberada, a Rede
+	é nossa novamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All that's left now
-	is the Undernet.
+	Só o que resta agora
+	é a Undernet.
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet⋯"
+	"A Undernet..."
 	keyWait
 		any = false
 	clearMsg
@@ -45,22 +45,23 @@ script 2 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	It feels like we're
-	getting close.
+	Parece que a linha de
+	chegada tá perto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,shall we go in
-	right away?
+	E aí, a gente vai
+	entrar agora mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could go scout
-	about if you want.
+	Eu posso fazer um
+	reconhecimento da
+	área, se cê quiser.
 	"""
 	keyWait
 		any = false
@@ -73,8 +74,8 @@ script 3 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I'm ready when you
-	are⋯
+	Estou pronto a
+	qualquer hora...
 	"""
 	keyWait
 		any = false
@@ -87,8 +88,8 @@ script 4 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I'm happy to go now
-	too.
+	Eu também não teria
+	nada contra ir agora.
 	"""
 	keyWait
 		any = false
@@ -101,9 +102,9 @@ script 5 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	We mustn't be gung-
-	ho about this. We
-	should be cautious⋯
+	Não é bom nos afobarmos
+	aqui. Temos de ser
+	cautelosos...
 	"""
 	keyWait
 		any = false
@@ -114,9 +115,9 @@ script 6 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	You're just scared
-	at the mention of
-	the Undernet,huh?
+	Cê só ficou com medo
+	de ouvir a palavra
+	"Undernet", não foi?
 	"""
 	keyWait
 		any = false
@@ -129,8 +130,8 @@ script 7 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	⋯No,SerchMan's
-	right.
+	... Não, o SearchMan
+	tem razão.
 	"""
 	keyWait
 		any = false
@@ -140,7 +141,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Huh⋯"
+	"Hm..."
 	keyWait
 		any = false
 	clearMsg
@@ -152,23 +153,24 @@ script 9 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Nebula is like a
-	wounded beast now.
+	A Nebula, agora,
+	é como um animal
+	encurralado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no telling
-	what they might do.
+	Não há como saber o
+	que eles farão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And we've taken our
-	fair share of damage
-	too.
+	Para não falar que nós,
+	também, saímos um tanto
+	baqueados da missão.
 	"""
 	keyWait
 		any = false
@@ -181,24 +183,24 @@ script 10 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	⋯Anyway,the door
-	that's blocking the
-	path to the Undernet
+	... De todo modo,
+	a porta que bloqueia
+	o acesso à Undernet
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	probably won't be
-	easy to open⋯
+	provavelmente não será
+	fácil de abrir...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They won't just let
-	us go through on
-	the nod,you know.
+	Não é como se eles
+	fossem nos receber
+	de braços abertos.
 	"""
 	keyWait
 		any = false
@@ -211,16 +213,16 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	So that's it⋯
-	Time to jack out.
+	E é isso...
+	Hora de desconectar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll assemble again
-	when it's time to
-	start the mission.
+	Nos reuniremos de novo
+	quando for a hora de
+	iniciarmos a missão.
 	"""
 	keyWait
 		any = false
@@ -233,14 +235,14 @@ script 12 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Hang on! Are you
-	sure we can't get
-	that door open now?
+	Pera aí! Certeza que
+	não dá pra abrir
+	a porta agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let me check!"
+	"Eu vou conferir!"
 	keyWait
 		any = false
 	clearMsg
@@ -251,7 +253,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯Huh,if you must."
+	"... Hm. Se insiste..."
 	keyWait
 		any = false
 	end
@@ -260,11 +262,11 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Okay,I'm going in!"
+	"Beleza, lá vou eu!"
 	keyWait
 		any = false
 	clearMsg
-	"Waaaargh!"
+	"Gaaargh!"
 	keyWait
 		any = false
 	end
@@ -273,7 +275,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Yaooooow!"
+	"Aaaack!"
 	keyWait
 		any = false
 	end
@@ -282,7 +284,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Hu hu⋯ Dang!"
+	"Urf... Urf... Droga!"
 	keyWait
 		any = false
 	end
@@ -300,7 +302,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Hu hu⋯"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	end
@@ -310,9 +312,9 @@ script 19 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Come on,MagnetMan,
-	that's enough. Let's
-	jack out.
+	Vamos, MagnetMan,
+	já chega. É melhor
+	nos desconectarmos.
 	"""
 	keyWait
 		any = false
@@ -324,7 +326,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"⋯Huh!"
+	"... Hmpf!"
 	keyWait
 		any = false
 	end
@@ -334,21 +336,20 @@ script 21 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We should jack out
-	too.
+	Nós também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be in touch
-	when plans are in
-	place.
+	Entrarei em contato
+	quando um plano tiver
+	sido mapeado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That will be all⋯"
+	"Dispensados..."
 	keyWait
 		any = false
 	end
@@ -358,23 +359,23 @@ script 22 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The team did an
-	excellent job.
+	A equipe fez um
+	ótimo trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that this area
-	is liberated,the Net
-	is ours again.
+	Agora que esta área
+	foi liberada, a Rede
+	é nossa novamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All that's left now
-	is the Undernet.
+	Só o que resta agora
+	é a Undernet.
 	"""
 	keyWait
 		any = false
@@ -386,7 +387,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The Undernet⋯"
+	"A Undernet..."
 	keyWait
 		any = false
 	clearMsg
@@ -398,15 +399,15 @@ script 24 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	⋯What's the plan,
+	... Qual é o plano,
 	Colonel?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Are we going
-	straight in?
+	Vamos adentrar a
+	Undernet agora mesmo?
 	"""
 	keyWait
 		any = false
@@ -419,8 +420,8 @@ script 25 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Time for the final
-	battle at last!
+	É chegada, enfim,
+	a hora da batalha final!
 	"""
 	keyWait
 		any = false
@@ -432,7 +433,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"I'm ready whenever."
+	"Eu tô pronto\nquando precisar."
 	keyWait
 		any = false
 	clearMsg
@@ -443,21 +444,22 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"H-Hang on a second!"
+	"E-esperem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shouldn't we take a
-	breather first?
+	Não seria melhor
+	fazermos uma pausa
+	primeiro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if it would
-	be wise to regain
-	our strength a bit⋯
+	Talvez seja uma boa
+	ideia recuperarmos as
+	forças agora...
 	"""
 	keyWait
 		any = false
@@ -468,9 +470,9 @@ script 28 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	You're just scared
-	at the mention of
-	the Undernet,huh?
+	Você só ficou com medo
+	de ouvir a palavra
+	"Undernet", não foi?
 	"""
 	keyWait
 		any = false
@@ -483,8 +485,8 @@ script 29 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	⋯No,NumberMan's
-	right.
+	... Não, o NumberMan
+	tem razão.
 	"""
 	keyWait
 		any = false
@@ -494,7 +496,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -506,23 +508,24 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Nebula is like a
-	wounded beast now.
+	A Nebula, agora,
+	é como um animal
+	encurralado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no telling
-	what they might do.
+	Não há como saber o
+	que eles farão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And we've taken our
-	fair share of damage
-	too.
+	Para não falar que nós,
+	também, saímos um tanto
+	baqueados da missão.
 	"""
 	keyWait
 		any = false
@@ -535,16 +538,16 @@ script 32 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	A-And anyway⋯
-	That door that leads
-	to the Undernet⋯
+	E-e, de todo modo...
+	a porta que dá
+	acesso à Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I doubt it'll
-	be easy to open it⋯
+	Bom, duvido que ela vá
+	ser fácil de abrir...
 	"""
 	keyWait
 		any = false
@@ -557,16 +560,16 @@ script 33 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	So that's it⋯
-	Time to jack out.
+	E é isso...
+	Hora de desconectar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll assemble again
-	when it's time to
-	start the mission.
+	Nos reuniremos de novo
+	quando for a hora de
+	iniciarmos a missão.
 	"""
 	keyWait
 		any = false
@@ -579,24 +582,24 @@ script 34 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Wait! We can't be
-	sure that the door
-	won't open.
+	Espere! Não há como
+	ter certeza de que a
+	porta não se abrirá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't I at least
-	try my hand at it?
+	Permitiria-me, ao menos,
+	tentar fazê-lo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We knights don't
-	like to turn our
-	backs on the enemy.
+	Nós, cavaleiros, não
+	gostamos de dar as
+	costas ao inimigo.
 	"""
 	keyWait
 		any = false
@@ -608,7 +611,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯Go on then."
+	"... Fique à vontade."
 	keyWait
 		any = false
 	end
@@ -617,11 +620,11 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Huurgh⋯Here goes!"
+	"Hrrgh... Aqui vai!"
 	keyWait
 		any = false
 	clearMsg
-	"Rwoaaargh!"
+	"Uuuaaaaargh!"
 	keyWait
 		any = false
 	end
@@ -639,7 +642,7 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Ha ha⋯ Kuh!"
+	"Arf... Arf... Khhh!"
 	keyWait
 		any = false
 	end
@@ -657,7 +660,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Ha hah⋯"
+	"Ha haa..."
 	keyWait
 		any = false
 	end
@@ -667,8 +670,8 @@ script 41 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Happy now,KnightMan?
-	Let's jack out.
+	Satisfeito, KnightMan?
+	Vamos nos desconectar.
 	"""
 	keyWait
 		any = false
@@ -681,9 +684,9 @@ script 42 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Hmm⋯
-	There's nothing for
-	it⋯
+	Hmm...
+	Acho que não há nada
+	que se possa fazer...
 	"""
 	keyWait
 		any = false
@@ -694,21 +697,20 @@ script 43 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We should jack out
-	too.
+	Nós também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be in touch
-	when plans are in
-	place.
+	Entrarei em contato
+	quando um plano tiver
+	sido mapeado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's all⋯"
+	"Dispensados..."
 	keyWait
 		any = false
 	end
@@ -768,16 +770,16 @@ script 54 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Thanks again,
-	SerchMan.
+	Valeu de novo,
+	SearchMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm impressed by
-	your ice-cool way
-	of keeping calm!
+	Eu tô impressionado
+	com o seu jeito frio
+	de manter a calma!
 	"""
 	keyWait
 		any = false
@@ -789,9 +791,9 @@ script 54 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	MegaMan's soul has
-	communed with
-	SerchMan's!
+	A alma de MegaMan
+	ressoou com a alma
+	de SearchMan!
 	"""
 	keyWait
 		any = false
@@ -805,40 +807,40 @@ script 55 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	We all make a pretty
-	good team. Things
-	gel together nicely.
+	Nós formamos uma boa
+	equipe. A sintonia
+	entre todos é boa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think we stand a
-	good chance with the
-	Undernet too⋯
+	Acho que temos uma boa
+	chance de desbravar a
+	Undernet, também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a commander in
-	the Sharo Army but
-	this time I'll just
+	Eu sou um comandante
+	do Exército de Sharo,
+	mas, desta vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	leave the leading to
-	ProtoMan and fight
-	as a normal soldier.
+	deixarei a liderança
+	com o ProtoMan e lutarei
+	como um soldado normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better rest
-	for the next battle.
+	É bom irmos descansar
+	para a próxima luta.
 	"""
 	keyWait
 		any = false
@@ -849,9 +851,9 @@ script 56 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	SerchMan⋯
-	This team just gets
-	better all the time!
+	SearchMan...
+	Esta equipe só vai
+	ficando melhor!
 	"""
 	keyWait
 		any = false
@@ -864,16 +866,16 @@ script 57 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Thanks again,
+	Obrigado de novo,
 	NumberMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your clear mind and
-	calculated battles
-	really impress me!
+	Sua mente focada e
+	suas lutas calculadas
+	me impressionam muito!
 	"""
 	keyWait
 		any = false
@@ -885,9 +887,9 @@ script 57 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	MegaMan's soul has
-	communed with
-	NumberMan's!
+	A alma de MegaMan
+	ressoou com a alma
+	de NumberMan!
 	"""
 	keyWait
 		any = false
@@ -901,33 +903,33 @@ script 58 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	We all make a very
-	good team. Things
-	gel together nicely.
+	Nós formamos uma boa
+	equipe. A sintonia entre
+	todos é muito boa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should stand a
-	good chance with the
-	Undernet too!
+	Acho que temos uma boa
+	chance de desbravar a
+	Undernet, também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not very strong
-	but I'll give it my
-	best shot!
+	Eu posso não ser
+	muito forte, mas
+	vou dar tudo de mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,we should get
-	some rest before
-	the next battle.
+	Bom, é melhor nós
+	decansarmos antes
+	da próxima luta.
 	"""
 	keyWait
 		any = false
@@ -938,9 +940,9 @@ script 59 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	NumberMan⋯
-	This team just gets
-	better all the time!
+	NumberMan...
+	Esta equipe só vai
+	ficando mais forte!
 	"""
 	keyWait
 		any = false
@@ -952,20 +954,21 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better jack
-	out too,MegaMan.
+	Melhor a gente
+	desconectar também,
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

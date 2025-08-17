@@ -18,28 +18,30 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHEN I SHUT MY EYES,
-	I REMEMBER⋯
+	QUANDO EU FECHO OS
+	OLHOS, AS LEMBRANÇAS
+	VOLTAM PARA MIM...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LONG AGO I SAW A
-	DOG-SHAPED PROGRAM
+	MUITO TEMPO ATRÁS,
+	EU VI UM PROGRAMA
+	EM FORMA DE CACHORRO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BURYING SOMETHING
-	IN A CORNER FLOOR
-	PANEL UP AHEAD.
+	ENTERRANDO UMA COISA
+	NO PAINEL DO CANTO,
+	LOGO EM FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WONDER WHAT IT WAS?"
+	"O QUE SERÁ QUE ERA?"
 	keyWait
 		any = false
 	end
@@ -50,23 +52,23 @@ script 2 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"HMMM⋯"
+	"HMMM..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	HOW MANY YEARS HAVE
-	PASSED SINCE THIS
-	MINE WAS CLOSED⋯
+	QUANTOS ANOS JÁ SE
+	PASSARAM DESDE QUE
+	FECHARAM ESTA MINA...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"HMMM⋯"
+	"HMMM..."
 	keyWait
 		any = false
 	end

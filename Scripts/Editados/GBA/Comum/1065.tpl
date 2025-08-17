@@ -24,7 +24,7 @@ script 7 mmbn5 {
 	msgOpen
 	"""
 	Gyaaaah!
-	HawkAttack!
+	Ataque Falcão!
 	"""
 	keyWait
 		any = false

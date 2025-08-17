@@ -2,21 +2,24 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"\"Dock up ahead\""
+	"\"Cais à frente.\""
 	keyWait
 		any = false
 	end
 }
 script 1 mmbn5 {
 	msgOpen
-	"A bench rest's here."
+	"""
+	É uma bancada
+	para descanso.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SciLab workers come
-	out here to relax
-	and get fresh air.
+	Funcionários do SciLab
+	vêm aqui para relaxar
+	e tomar um ar fresco.
 	"""
 	keyWait
 		any = false
@@ -25,15 +28,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Plate with "SciLab"
-	in large letters.
+	Uma placa com "SciLab"
+	escrito em letras
+	garrafais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I always feel a bit
-	nervous coming here.
+	Lan sempre fica meio
+	nervoso vindo aqui.
 	"""
 	keyWait
 		any = false
@@ -42,16 +46,16 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Even SciLab,home
-	of the best brains
-	in the country,
+	Mesmo o SciLab,
+	lar das maiores
+	mentes do país,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has a plain old
-	trash can.
+	possui uma lata
+	de lixo comum.
 	"""
 	keyWait
 		any = false
@@ -60,15 +64,15 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Contains nothing but
-	energy drinks.
+	Contém somente
+	energéticos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is work at SciLab
-	really that hard?
+	O trabalho no SciLab
+	é puxado assim?
 	"""
 	keyWait
 		any = false
@@ -77,16 +81,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A statue of a man
-	stands here.
+	A estátua de um
+	homem se posta aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It points a finger
-	forward in hope for
-	scientific advances.
+	Um dedo apontado à
+	frente, com fé nos
+	avanços da ciência.
 	"""
 	keyWait
 		any = false
@@ -95,23 +99,23 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A map of the
-	vicinity is provided
-	here.
+	Um mapa das
+	proximidades
+	fica exposto aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SciLab and the Dock
-	are accessible via
+	O SciLab e o Cais
+	são acessíveis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the stairs to the
-	right.
+	através das escadas
+	à direita.
 	"""
 	keyWait
 		any = false
@@ -120,15 +124,15 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	A unique sculpture
-	portraying a chip.
+	Uma escultura bem
+	diferente, retratando
+	um chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is this what
-	they call art?
+	Chamam isso de arte?
 	"""
 	keyWait
 		any = false
@@ -137,16 +141,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A unique sculpture
-	portraying a chip.
+	Uma escultura bem
+	diferente, retratando
+	um chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Studying it with a
-	serious face might
-	make sense of it.
+	Talvez, se você a
+	estudar com seriedade,
+	consiga entendê-la.
 	"""
 	keyWait
 		any = false
@@ -155,24 +160,24 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	A unique sculpture
-	portraying a chip.
+	Uma escultura bem
+	diferente, retratando
+	um chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The concept is the
-	fusion of art and
-	science.
+	O conceito é a fusão
+	entre arte e ciência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a jack in
-	port to symbolize
-	that.
+	E, para simbolizar isso,
+	possui uma entrada de
+	conexão.
 	"""
 	keyWait
 		any = false
@@ -181,9 +186,9 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	A do not enter sign
-	is placed here.
-	It blocks the way.
+	Uma placa de
+	"entrada proibida".
+	Ela barra o caminho.
 	"""
 	keyWait
 		any = false

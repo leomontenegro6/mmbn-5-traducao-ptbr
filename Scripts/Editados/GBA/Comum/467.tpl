@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SCILAB4!
+	BEM-VINDO A SCILAB 4!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE WARP HOLE BEYOND
-	THIS POINT CONNECTS
-	TO SERVERCOMP!
+	O PORTAL ALÉM DAQUI
+	SE CONECTA AO
+	CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
@@ -25,32 +24,29 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Just you wait,
-	Nebula! I'm
-	coming for ya!
+	Espera só, Nebula!
+	Eu ainda te pego!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're going
-	DOWN!
+	Tu já ERA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? Nebula
-	is in End Area5
-	right now?
+	Hã? A Nebula tá na
+	Área Endo 5 agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Uh⋯ Actually,I'm
-	feeling a little
-	sick.
+	Er... Na verdade,
+	bateu uma dor de
+	barriga agora...
 	"""
 	keyWait
 		any = false
@@ -61,9 +57,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WA⋯R⋯G!
-	COMM⋯ S⋯
-	⋯AMME⋯!
+	AL... R... A!
+	COMU... F...
+	...FERÊN...!
 	"""
 	keyWait
 		any = false
@@ -71,9 +67,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -84,8 +80,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A⋯
-	Neb⋯!!
+	A...
+	Neb...!!
 	"""
 	keyWait
 		any = false
@@ -93,9 +89,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -106,17 +102,15 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I hate to say this,
-	but Nebula's
-	really amazing.
+	Eu odeio admitir, mas
+	a Nebula é incrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They seem to know
-	exactly where
-	to attack.
+	Eles parecem saber
+	exatamente onde atacar.
 	"""
 	keyWait
 		any = false
@@ -126,13 +120,14 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THAT WAS SCARY!"
+	"AQUILO DEU UM MEDO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WAS NEBULA BEHIND
-	THAT ATTACK,TOO?
+	A NEBULA TAMBÉM
+	ESTAVA POR TRÁS
+	DESSE ATAQUE?
 	"""
 	keyWait
 		any = false
@@ -143,16 +138,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HELLO!
-	HOW ARE YOU?
+	OLÁ! COMO VAI?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE WARP HOLE BEYOND
-	THIS POINT CONNECTS
-	TO SERVERCOMP!
+	O PORTAL ALÉM DAQUI
+	SE CONECTA AO
+	CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
@@ -163,14 +157,13 @@ script 31 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The warp hole is
-	smack in the middle
-	of the area.
+	O portal fica bem no
+	centro da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Like a bellybutton!"
+	"Parece até um umbigo!"
 	keyWait
 		any = false
 	end
@@ -180,15 +173,15 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SCILAB HP IS
-	UNDER ATTACK!
+	A PÁGINA DO SCILAB
+	ESTÁ SOB ATAQUE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JACK OUT
-	IMMEDIATELY!
+	DESCONECTE-SE
+	IMEDIATAMENTE!
 	"""
 	keyWait
 		any = false
@@ -199,15 +192,14 @@ script 41 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What's the
-	fuss?
+	Que alarde todo é esse?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula? Again?
-	Whoa! Scary.
+	A Nebula? De novo?
+	Eita! Que medo.
 	"""
 	keyWait
 		any = false
@@ -218,16 +210,17 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SCILAB AREA
-	WELCOMES ALL
-	VISITORS!
+	A ÁREA SCILAB DÁ AS
+	BOAS-VINDAS A TODOS
+	OS VISITANTES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FEEL FREE TO
-	VISIT ANYTIME!
+	FIQUE À VONTADE
+	PARA NOS VISITAR
+	QUANDO QUISER!
 	"""
 	keyWait
 		any = false
@@ -238,8 +231,8 @@ script 51 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I wonder if SciLab
-	HP is OK?
+	Será que a página
+	do SciLab está bem?
 	"""
 	keyWait
 		any = false
@@ -250,22 +243,22 @@ script 60 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE WARP HOLE BEYOND
-	THIS POINT CONNECTS
-	TO SERVERCOMP!
+	O PORTAL ALÉM DAQUI
+	SE CONECTA AO
+	CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN GET TO
-	ORAN AREA FROM
-	SERVERCOMP!
+	DÁ PARA ACESSAR A
+	ÁREA ORAN ATRAVÉS
+	DO CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HOW CONVENIENT!"
+	"CONVENIENTE, NÉ?!"
 	keyWait
 		any = false
 	end
@@ -275,16 +268,14 @@ script 61 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Are you heading
-	to the Undernet?
+	Você vai pra Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I were you,
-	I would just
-	stay away!
+	Se eu fosse você,
+	ficava bem longe de lá!
 	"""
 	keyWait
 		any = false

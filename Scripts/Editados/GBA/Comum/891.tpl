@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Ladies & Gentlemen!"
+	"Senhoras e senhores!"
 	keyWait
 		any = false
 	end
@@ -12,62 +12,65 @@ script 1 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I would like to
-	thank you all
+	Muito obrigado a todos
+	por nos agraciarem com
+	sua presença aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for attending this
-	party today,where
-	we at Ubercorp are
+	nesta festa, na qual
+	nós, da Ubercorp,
+	orgulhosamente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	proud to unveil our
-	new booster system!
+	apresentaremos o
+	nosso novo sistema
+	impulsionador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When added to any
-	existing program,
-	this booster system
+	Ao ser instalado em
+	qualquer programa
+	pré-existente, o sistema
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	radically enhances
-	the program's
-	performance.
+	aprimora radicalmente
+	as funcionalidades do
+	programa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Construction work,
-	software R&D⋯
+	Trabalho de construção,
+	desenvolvimento de
+	software...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can be used with
-	anything,including
-	of course,NetNavis!
+	Ele poderá ser usado
+	com tudo, incluindo,
+	claro, NetNavis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're offering it
-	for just 3 hundred
-	million Zennys!!!
+	E nós o ofereceremos
+	por apenas 300
+	milhões de Zennys!!!
 	"""
 	keyWait
 		any = false
@@ -79,31 +82,30 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"3 hundred million?!"
+	"300 milhões?!"
 	keyWait
 		any = false
 	clearMsg
-	"That's⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	one,ten,a hundred,
-	a thousand,ten
-	thousand,
-	"""
+	"M-mas isso é..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a hundred thousand,a
-	million,ten million,
-	100 million,8 zeros!
+	Um, dez, cem, mil,
+	dez mil, cem mil,
+	um milhão, dez milhões,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No way!"
+	"""
+	cem milhões...
+	oito zeros!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,16 +117,15 @@ script 3 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	3 hundred
-	million⋯? What a
-	bargain!
+	300 milhões...?
+	Mas que bagatela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see the device
-	then!
+	Vejamos esse sistema
+	em ação, então!
 	"""
 	keyWait
 		any = false
@@ -135,9 +136,8 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh?! D-Did you just
-	say it was a
-	bargain?!
+	O quê?! E-ele falou
+	que era uma bagatela?!
 	"""
 	keyWait
 		any = false
@@ -150,8 +150,7 @@ script 5 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	So! Without further
-	delay⋯
+	Bom! Sem mais delongas...
 	"""
 	keyWait
 		any = false
@@ -162,21 +161,21 @@ script 6 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The booster system
-	is currently inside
-	this ViewComp.
+	O sistema impulsionador
+	se encontra dentro deste
+	CPU Visualização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If everyone would
-	care to take a look⋯
+	Por favor, amigos,
+	deem uma boa olhada...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here it is!"
+	"Aqui está!"
 	keyWait
 		any = false
 	end

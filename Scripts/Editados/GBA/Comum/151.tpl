@@ -3,9 +3,8 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	This lighthouse
-	protects ships day
-	and night.
+	O farol protege os
+	navios, dia e noite.
 	"""
 	keyWait
 		any = false
@@ -14,8 +13,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A crate about
-	Lan's height.
+	Uma caixa com a mesma
+	altura aproximada do
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A jumbled stack
-	of crates.
+	Um amontoado
+	desorganizado
+	de caixas.
 	"""
 	keyWait
 		any = false
@@ -34,8 +35,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A crate about
-	Lan's height.
+	Uma caixa com a mesma
+	altura aproximada do
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -44,15 +46,15 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	There are
-	doors here⋯
+	Há portas aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They won't budge
-	no matter what.
+	que não se abrem,
+	não importa o que
+	você faça.
 	"""
 	keyWait
 		any = false
@@ -61,24 +63,26 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	An empty crate
-	sits here.
+	Uma caixa vazia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Hm?! Something's
-	scribbled on it.
+	... Hm?! Tem alguma
+	coisa escrita nela.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Why is the\n sea salty?\""
+	"""
+	"Por que o mar é
+	salgado?"
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"I have no idea⋯"
+	"Sei lá..."
 	keyWait
 		any = false
 	end
@@ -86,15 +90,15 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	Shipping containers
-	are stacked here.
+	Contêineres de
+	transporte estão
+	empilhados aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They apparently
-	contain BattleChips.
+	Parecem conter chips.
 	"""
 	keyWait
 		any = false
@@ -102,14 +106,14 @@ script 6 mmbn5 {
 }
 script 7 mmbn5 {
 	msgOpen
-	"For some reason,Lan"
+	"Por algum motivo,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rests one leg on
-	this piling without
-	even thinking.
+	o Lan estende uma
+	perna sobre essa pilha
+	sem se dar conta.
 	"""
 	keyWait
 		any = false
@@ -117,14 +121,14 @@ script 7 mmbn5 {
 }
 script 8 mmbn5 {
 	msgOpen
-	"For some reason,Lan"
+	"Por algum motivo,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	rests one leg on
-	this piling without
-	even thinking.
+	o Lan estende uma
+	perna sobre essa pilha
+	sem se dar conta.
 	"""
 	keyWait
 		any = false
@@ -133,18 +137,15 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	Numbers are carved
-	on the hidden side
+	Há números talhados
+	no lado oculto dessa
+	construção.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"of the building."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Lotto number:
+	Número de loteria:
 	"48958798"
 	"""
 	keyWait

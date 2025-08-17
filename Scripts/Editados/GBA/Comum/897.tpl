@@ -5,13 +5,13 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hand over the
-	booster system!
+	Devolve o sistema
+	impulsionador, já!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hah?! I-It's you!"
+	"Ué?! V-você?!"
 	keyWait
 		any = false
 	end
@@ -21,8 +21,8 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Aren't you the guy
-	from before?!
+	Cê não é aquele
+	menino de antes?!
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Fyrefox⋯what are
-	you doing?!
+	Fyrefox?
+	Tá fazendo o quê aqui?!
 	"""
 	keyWait
 		any = false
@@ -48,21 +48,22 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"What am I doing?!"
+	"O que eu tô fazendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With the booster
-	system,my fireworks
+	Com o sistema
+	impulsionador, os meus
+	fogos de artifício vão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will be bigger and
-	more spectacular
-	than anyone else's!
+	ser maiores e mais
+	espetaculares do que
+	todos no mundo!
 	"""
 	keyWait
 		any = false
@@ -74,7 +75,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯What fireworks?"
+	"... Fogos de quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -86,36 +87,36 @@ script 5 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I make cyber
-	fireworks.
+	Eu faço cyber
+	fogos de artifício.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do whatever it
-	takes to make
-	OldMine bigger!
+	Faço o que for preciso
+	pra deixar a Velha Mina
+	maior!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got it?!"
+	"Sacou?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you really want
-	the booster system
-	back,
+	Se cê quiser mesmo o
+	sistema impulsionador
+	de volta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jack in there and
-	take out my Navi in
-	the ShipComp!
+	se conecta aqui e
+	enfrenta o meu Navi
+	no CPU Navio!
 	"""
 	keyWait
 		any = false
@@ -128,8 +129,8 @@ script 6 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Aren't you the guy
-	from before?!
+	Cê não é aquele
+	carinha de antes?!
 	"""
 	keyWait
 		any = false
@@ -142,8 +143,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dingo⋯why are you
-	doing this?!
+	Dingo...
+	Por que é que cê
+	tá fazendo isso?!
 	"""
 	keyWait
 		any = false
@@ -156,8 +158,8 @@ script 8 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	The booster system's
-	our enemy!
+	O sistema impulsionador
+	é nosso inimigo!
 	"""
 	keyWait
 		any = false
@@ -169,7 +171,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Enemy?"
+	"... Inimigo?"
 	keyWait
 		any = false
 	clearMsg
@@ -181,48 +183,47 @@ script 10 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Ubercorp developed
-	this booster system.
+	A Ubercorp desenvolvou
+	esse sistema.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it was their
-	resort that ruined
-	my village⋯
+	E foi o resort dela que
+	arruinou a minha vila...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There'll be more
-	people like me if
-	their booster system
+	Se o sistema
+	impulsionador se
+	espalhar pelo mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	spreads around the
-	world. I won't let
-	that happen!
+	mais gente ainda vai
+	acabar que nem eu.
+	Mas eu não vou deixar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you really want
-	the booster system
-	back,
+	Se quer mesmo pegar o
+	sistema impulsionador
+	de volta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	jack in there and
-	take out my Navi in
-	the ShipComp!
+	vai ter que se conectar
+	aqui e impedir o meu
+	Navi no CPU Navio!
 	"""
 	keyWait
 		any = false
@@ -235,16 +236,15 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Doesn't look like
-	talking's going to
-	get me anywhere!
+	Acho que não adianta
+	nada tentare resolver
+	isso na conversa agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If that's how it's
-	got to be!
+	Já que é assim...!
 	"""
 	keyWait
 		any = false
@@ -257,13 +257,13 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan,
-	Execute!!!
+	ProtoMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false
@@ -278,13 +278,13 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!"
+	"Conectar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel,
-	Execute!!!
+	Colonel.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

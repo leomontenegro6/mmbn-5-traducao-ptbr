@@ -14,13 +14,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"Whew! Man⋯"
+	"Ufa! Cara..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've traveled the
-	globe searching for
+	Eu viajei pelo mundo
+	em busca de
 	"
 	"""
 	printChip
@@ -30,23 +30,23 @@ script 0 mmbn5 {
 	printCode
 		buffer = 0
 		code = F
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
-	"But no luck yet⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I see you have
-	lotsa chips!
-	"""
+	"E nada ainda..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have
+	Tô vendo que você tem
+	um monte de chips!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se tiver o
 	"
 	"""
 	printChip
@@ -61,8 +61,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I'll trade you my
-	"
+	eu troco com você por
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -72,13 +72,12 @@ script 0 mmbn5 {
 		buffer = 0
 		code = T
 	"""
-	"
-	for it.
+	".
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -93,7 +92,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -102,7 +101,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -117,8 +116,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	Come on!
-	Don't be like that.
+	Ah, vai!
+	Não seja assim.
 	"""
 	keyWait
 		any = false
@@ -136,20 +135,19 @@ script 1 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	For real?!
-	You'll trade?
+	Sério?!
+	Vai trocar mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sweet!!!"
+	"Legal!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's do this
-	before you change
-	your mind!
+	Vamos lá, antes que
+	você mude de ideia!
 	"""
 	keyWait
 		any = false
@@ -166,7 +164,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan traded his
+	Lan trocou um
 	"
 	"""
 	printChip
@@ -181,7 +179,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printChip
@@ -191,7 +189,7 @@ script 1 mmbn5 {
 	printCode
 		buffer = 0
 		code = T
-	".\""
+	"\"."
 	playerFinish
 	playerResetObject
 	keyWait
@@ -200,21 +198,20 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlondMan
 	"""
-	I can't believe it!
-	Thank you!
-	Thank you!
+	Eu nem acredito!
+	Obrigado! Obrigado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is awesome!
-	Way cool!
+	Que irado!
+	Iradíssimo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's mine,all mine!"
+	"Ele é meu! Todo MEU!"
 	keyWait
 		any = false
 	flagSet
@@ -226,8 +223,8 @@ script 2 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	What? It doesn't
-	look like you have a
+	Ué? Parece que você
+	não tem um
 	"
 	"""
 	printChip
@@ -242,8 +239,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Maybe it's in
-	your folder?
+	Será que está em uma
+	pasta sua?
 	"""
 	keyWait
 		any = false
@@ -253,13 +250,12 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = BlondMan
 	msgOpen
-	"Hey!"
+	"Opa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you come back
-	to trade your
+	Voltou pra torcar o seu
 	"
 	"""
 	printChip
@@ -274,7 +270,7 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for my
+	pelo meu
 	"
 	"""
 	printChip
@@ -299,7 +295,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -308,7 +304,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -322,7 +318,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = BlondMan
-	"Ho ho ho⋯"
+	"Ho ho ho..."
 	keyWait
 		any = false
 	end
@@ -332,9 +328,9 @@ script 4 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	What a sweet trade.
-	My chip library is
-	wicked now!
+	Que troca da hora.
+	Agora, a minha coleção
+	tá de arrasar!
 	"""
 	keyWait
 		any = false
@@ -345,9 +341,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,time to search
-	for fishing
-	supplies!
+	Tá, hora de procurar
+	por material de pesca!
 	"""
 	keyWait
 		any = false

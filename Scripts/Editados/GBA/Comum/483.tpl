@@ -5,24 +5,23 @@ script 0 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Even a horrible
-	place like the
-	Undernet has a BBS.
+	Até um lugar terrível
+	como a Undernet tem um
+	fórum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The content is
-	pretty edgy,
-	though.
+	Mas as postagens
+	dele são pesadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't get too
-	scared,kiddo!
+	Não vá fazer xixi
+	nas calças, moleque!
 	"""
 	keyWait
 		any = false

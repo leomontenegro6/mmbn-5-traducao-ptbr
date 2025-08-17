@@ -10,16 +10,16 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I'll contact you
-	tomorrow about the
-	mission.
+	Entrarei em contato com
+	os detalhes da missão
+	amanhã.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go home and rest up
-	for today.
+	Vá para casa e descanse
+	por hoje.
 	"""
 	keyWait
 		any = false
@@ -35,16 +35,16 @@ script 1 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I'll contact you
-	tomorrow about the
-	mission.
+	Entrarei em contato com
+	os detalhes da missão
+	amanhã.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go home and rest up
-	for today.
+	Vá para casa e descanse
+	por hoje.
 	"""
 	keyWait
 		any = false
@@ -55,9 +55,9 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What are you doing?
-	Hurry up and send
-	MegaMan to ACDC Area
+	O que está fazendo?
+	Mande logo o MegaMan
+	para a Área ACDC!
 	"""
 	keyWait
 		any = false
@@ -68,9 +68,9 @@ script 6 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	What are you doing?
-	Hurry up and send
-	MegaMan to ACDC Area
+	Não perca tempo!
+	Envie logo o MegaMan
+	à Área ACDC!
 	"""
 	keyWait
 		any = false
@@ -84,16 +84,15 @@ script 20 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Chaud is off
-	investigating some
-	area.
+	O Chaud saiu para
+	investigar uma área aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He is a very busy
-	lad,indeed.
+	É um rapazinho bem
+	ocupado, mesmo.
 	"""
 	keyWait
 		any = false
@@ -104,16 +103,14 @@ script 21 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Baryl is off
-	investigating some
-	area.
+	O Baryl saiu para
+	investigar uma área aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Baryl certainly is a
-	busy man.
+	Que homem ocupado, viu?
 	"""
 	keyWait
 		any = false
@@ -124,9 +121,9 @@ script 25 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Good work on the
-	ACDC Area3
-	investigation.
+	Bom trabalho na
+	investigação da
+	Área ACDC 3.
 	"""
 	keyWait
 		any = false
@@ -137,9 +134,9 @@ script 26 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Good work on the
-	ACDC Area3
-	investigation.
+	Bom trabalho na
+	investigação da
+	Área ACDC 3.
 	"""
 	keyWait
 		any = false

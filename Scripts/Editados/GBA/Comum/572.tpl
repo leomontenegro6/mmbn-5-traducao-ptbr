@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NEBULA'S TV
-	BROADCAST
-	WAS WEIRD⋯
+	A TRANSMISSÃO DA
+	NEBULA FOI TÃO
+	ESTRANHA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DID YOU SEE IT?"
+	"VOCÊ VIU?"
 	keyWait
 		any = false
 	end
@@ -22,14 +22,13 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NEBULA JUST
-	WARNED OF
-	AN ATTACK.
+	A NEBULA ACABOU DE
+	AVISAR QUE IRÁ ATACAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BE CAREFUL!"
+	"TOME CUIDADO!"
 	keyWait
 		any = false
 	end
@@ -38,13 +37,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"It's Nebula again!"
+	"É a Nebula de novo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what's up
-	this time?
+	O que eles querem
+	desta vez?
 	"""
 	keyWait
 		any = false
@@ -55,13 +54,13 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU LOOK JUST
-	LIKE ME! HEY!
+	VOCÊ É IGUAL A MIM!
+	EI!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"QUIT MIMICKING ME!"
+	"PARE DE ME IMITAR!"
 	keyWait
 		any = false
 	end
@@ -71,13 +70,13 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOUR BODY LOOKS
-	LIKE MINE! HEY!
+	O SEU CORPO É
+	IGUAL AO MEU! EI!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"QUIT MIMICKING ME!"
+	"PARE DE ME IMITAR!"
 	keyWait
 		any = false
 	end
@@ -87,14 +86,14 @@ script 12 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	How dare you
-	approach a
-	genius like me?
+	Como você ousa se
+	aproximar de um
+	GÊNIO como eu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You got some nerve!"
+	"Tamanha ousadia!"
 	keyWait
 		any = false
 	end
@@ -104,8 +103,8 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HUH? WHAT AM
-	I DOING HERE?
+	UÉ? O QUE EU ESTOU
+	FAZENDO AQUI?
 	"""
 	keyWait
 		any = false
@@ -116,15 +115,15 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT IN THE WORLD
-	HAPPENED TO ME?
+	MAS, AFINAL, O QUE
+	ACONTECEU COMIGO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I LOST MY
-	MEMORY!
+	NÃO CONSIGO ME
+	LEMBRAR DE NADA!
 	"""
 	keyWait
 		any = false
@@ -135,16 +134,17 @@ script 22 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Some places are
-	still in trouble.
+	Certos lugares ainda
+	estão encarando
+	problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better be careful
-	when you go to other
-	areas!
+	É bom você tomar
+	cuidado caso vá
+	pra outras áreas!
 	"""
 	keyWait
 		any = false
@@ -155,16 +155,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ANGER AND HATE
-	FILLED MY ENTIRE
-	MIND!
+	RAIVA E ÓDIO
+	PREENCHERAM A
+	MINHA MENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I COULDN'T
-	STOP IT.
+	NÃO CONSEGUI EVITAR.
 	"""
 	keyWait
 		any = false
@@ -175,16 +174,15 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE SITUATION HAS
-	CALMED DOWN.
+	A SITUAÇÃO SE ACALMOU.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT PEOPLE ARE
-	STILL PRETTY
-	SHAKEN UP.
+	MAS AS PESSOAS
+	CONTINUAM BEM
+	ABALADAS.
 	"""
 	keyWait
 		any = false
@@ -195,13 +193,14 @@ script 32 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	All these nasty
-	incidents lately⋯
+	Todos esses incidentes
+	horrorosos que têm
+	acontecido...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's so depressing."
+	"Dá uma deprê."
 	keyWait
 		any = false
 	end
@@ -211,23 +210,22 @@ script 40 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The last attack
-	really shook
-	everybody up!
+	Aquele último ataque
+	abalou forte todo mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been around
-	for a long time
+	Eu vivo pela Rede
+	já tem muito tempo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but this is the
-	worst I've seen!
+	e nunca vi ela
+	tão mal assim!
 	"""
 	keyWait
 		any = false
@@ -238,13 +236,13 @@ script 41 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I just can't calm
-	myself down!
+	Eu simplesmente não
+	consigo me acalmar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm traumatized!"
+	"Tô traumatizada!"
 	keyWait
 		any = false
 	end

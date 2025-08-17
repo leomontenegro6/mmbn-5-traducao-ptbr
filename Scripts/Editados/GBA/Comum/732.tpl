@@ -22,23 +22,22 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEY,LISTEN
-	TO THIS!!!
+	EI, ESCUTA SÓ!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS PAINTING MAY
-	SOON BE DECLARED A
-	NATIONAL TREASURE.
+	ESTE QUADRO PODE SER
+	DECLARADO UM TESOURO
+	NACIONAL EM BREVE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALL OUR WORK
-	PAID OFF!
+	TODO O NOSSO TRABALHO
+	ÁRDUO DEU RESULTADO!
 	"""
 	keyWait
 		any = false
@@ -49,16 +48,15 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M GONNA SMASH
-	THIS PAINTING!
+	EU VOU ESMAGAR
+	ESTE QUADRO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A NATIONAL TREASURE?
-	I COULDN'T CARE
-	LESS!!!
+	TESOURO NACIONAL?
+	TÔ POUCO ME LIXANDO!!!
 	"""
 	keyWait
 		any = false
@@ -69,16 +67,15 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WANTED TO SMASH
-	THE PAINTING.
+	EU TENTEI ESMAGAR
+	O QUADRO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	*SIGH*
-	IT'S SCARY JUST
-	THINKING ABOUT IT.
+	BRRR...
+	DÁ MEDO SÓ DE PENSAR.
 	"""
 	keyWait
 		any = false

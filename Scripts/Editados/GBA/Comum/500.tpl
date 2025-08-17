@@ -12,37 +12,38 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I NEED SOME HELP⋯"
+	"PRECISO DE AJUDA..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PART OF MY PLACE
-	DATABASE HAS BEEN
-	CORRUPTED,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	AND NOW I CAN'T
-	RECALL THE PLACE.
-	THIS IS DESCRIBING:
+	PARTE DO MEU BANCO DE
+	DADOS FOI CORROMPIDO,
+	E, AGORA, EU NÃO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE PLATFORM FOR
-	GETTING ON/OFF
-	SHIPS⋯
+	CONSIGO ME LEMBRAR
+	DE UM LUGAR.
+	ESTA É A DESCRIÇÃO:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALL I KNOW IS IT
-	STARTS WITH D⋯
+	A PLATAFORMA PARA
+	EMBARCAR E DESEMBARCAR
+	DE NAVIOS...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	TUDO O QUE EU SEI É
+	QUE COMEÇA COM D...
+	E TÁ EM INGLÊS...
 	"""
 	keyWait
 		any = false
@@ -63,28 +64,28 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I NEED SOME HELP⋯"
+	"PRECISO DE AJUDA..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PART OF MY PLACE
-	DATABASE HAS BEEN
-	CORRUPTED.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WHAT'S THIS PLACE
-	STARTING WITH H?
+	PARTE DO MEU BANCO DE
+	DADOS FOI CORROMPIDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE SHIP'S INTERIOR
-	CORRIDOR⋯
+	É UMA ÁREA QUE COMEÇA
+	COM "H".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É O CORREDOR QUE
+	RECEBE PESSOAS EM
+	MANSÕES...
 	"""
 	keyWait
 		any = false
@@ -106,32 +107,31 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT PART OF YOUR
-	BODY CAN YOU HOP
-	WITH TO MAKE MUSIC?
+	QUAL A PRIMEIRA PARTE
+	DO NOME DE UM CERTO
+	GÊNERO DE MÚSICA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯THAT'S THE CLUE,BUT
-	I CAN'T MAKE HEAD
-	NOR TAIL OF IT.
+	... MAS SÃO TANTOS
+	GÊNEROS! ESSA DICA
+	NÃO AJUDA MUITO, NÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY CAN'T THE ANSWER
-	JUST BE
-	STRAIGHTFORWARD?
+	MAS SÃO 3 LETRAS...
+	E É UM GÊNERO COMPOSTO
+	POR 2 PALAVRAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MUST BE SECURITY,
-	I GUESS.
+	BOM, NÃO É "RAP"...
 	"""
 	keyWait
 		any = false
@@ -153,29 +153,29 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVEN IF I KNEW THE
-	ANSWER I'D RATHER
-	SEE YOU STRUGGLE!
+	MESMO SE EU SOUBESSE
+	A RESPOSTA, AINDA IA
+	QUERER TE VER SOFRER!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I'LL GIVE YOU A
-	HINT! ARE YOU READY?
+	MAS, ENFIM, AQUI VAI
+	UMA DICA. PRONTO?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A MOTHER HAD ONE
-	CHILD BUT TEN OF
-	THESE WERE BORN⋯
+	É COISA DE INGLÊS.
+	É TIPO "FINGER"...
+	MAS DA OUTRA PONTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WELL? ANY IDEAS?"
+	"E AÍ? ALGUM PALPITE?"
 	keyWait
 		any = false
 	clearMsg
@@ -196,24 +196,24 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A BODY PART THAT
-	GOES WITH "FIRE",
-	"BAND" AND "OVER"⋯
+	É OUTRA PALAVRA COM
+	UMA LETRA FALTANDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOES THAT GIVE YOU
-	ANY IDEAS?
+	UMA COISA QUE SE USA
+	PARA ATACAR OS OUTROS,
+	SEM A ÚLTIMA LETRA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVEN'T A CLUE,
-	MYSELF! SOMEBODY
-	HURRY AND HELP!
+	BOM, "ARMADURA"
+	PROTEGE. E O QUE
+	ATACA É UMA...
 	"""
 	keyWait
 		any = false
@@ -235,15 +235,15 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT'S RIGHT!
-	IT'S "5 3 2 1 4"!
+	ISSO!
+	É "5 3 2 1 4"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL WRITE A MEMO IN
-	CASE YOU FORGET!
+	VOU ANOTAR PARA VOCÊ
+	CASO VOCÊ SE ESQUEÇA!
 	"""
 	keyWait
 		any = false
@@ -257,24 +257,25 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE PLATFORM FOR
-	GETTING ON/OFF
-	SHIPS⋯
+	A PALAVRA EM INGLÊS
+	PRA PLATAFORMA EM QUE
+	SE ENTRA NO NAVIO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT PLACE DOES
-	THAT DESCRIBE?
+	BOM, EM PORTUGUÊS,
+	ACHO QUE SERIA...
+	"DOCA", TALVEZ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I KNOW IT STARTS
-	WITH D⋯ THIS IS
-	DRIVING ME CRAZY!
+	É! E A PALAVRA EM
+	INGLÊS NÃO DEVE SER
+	MUITO DIFERENTE...!
 	"""
 	keyWait
 		any = false
@@ -286,17 +287,17 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE SHIP'S INTERIOR
-	CORRIDOR⋯
-	IT STARTS WITH H⋯
+	UM TIPO DE CORREDOR
+	QUE RECEBE PESSOAS...
+	HUM, TÁ NA PONTA DA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WOULD BE ON THE
-	TIP OF MY TONGUE⋯
-	IF I HAD ONE⋯
+	LÍNGUA...
+	EU ACHO QUE COMEÇA
+	COM "H", MAS...
 	"""
 	keyWait
 		any = false
@@ -308,25 +309,25 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT PART OF YOUR
-	BODY CAN YOU HOP
-	WITH TO MAKE MUSIC?
+	A PRIMEIRA METADE DE
+	UM GÊNERO MUSICAL COM
+	DUAS PALAVRAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WANT TO SAY LEG,
-	BUT THAT DOESN'T
-	REALLY MAKE MUSIC⋯
+	"ROCK 'N' ROLL"?
+	NÃO, SÃO TRÊS
+	PALAVRAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LEG HOP! NO,I DON'T
-	THINK SO. BUT I FEEL
-	LIKE I'M CLOSE⋯
+	"HEAVY METAL"!
+	NÃO, SÃO LETRAS
+	DEMAIS... ARGH!
 	"""
 	keyWait
 		any = false
@@ -338,31 +339,32 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A MOTHER HAD ONE
-	CHILD BUT TEN OF
-	THESE WERE BORN⋯
+	"FINGER" EM INGLÊS É
+	DEDO. QUAL PALAVRA
+	EM INGLÊS SIGNIFICA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU KNOW WHAT IT
-	IS?
+	"A MESMA COISA, SÓ QUE
+	NA OUTRA PONTA"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TWO OF THEM ARE
-	BIGGER THAN THE
-	OTHER EIGHT.
+	BOM, O QUE É "OUTRA
+	PONTA"? OUTRA PONTA
+	DA MÃO? DO CORPO...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SEE! EVERYONE HAS
-	TEN,RIGHT?
+	ISSO! É A OUTRA
+	PONTA DO CORPO!
+	ENTÃO, SERIAM OS...?
 	"""
 	keyWait
 		any = false
@@ -374,24 +376,25 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A BODY PART THAT
-	GOES WITH "FIRE",
-	"BAND" AND "OVER"⋯
+	UMA COISA QUE A GENTE
+	USA PARA ATACAR, MAS
+	SEM A ÚLTIMA LETRA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I HEARD THAT PEOPLE
-	ALWAYS WRESTLE WITH
-	THIS ANSWER.
+	BOM, NÃO DEVE SER
+	"ESPAD"... TEM QUE
+	TER MENOS LETRAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HEY,I WONDER IF
-	THAT'S ANOTHER CLUE.
+	"MARRET"...
+	"RIFL"...
+	AH! ESTOU PERTO!
 	"""
 	keyWait
 		any = false
@@ -411,9 +414,9 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	BETWEEN THE MEMO AND
-	YOUR MEMORY,YOU'RE
-	ALL SET!
+	VOCÊ TEM ANOTADO,
+	E, AGORA, DECOROU!
+	NÃO TEM COMO ERRAR!
 	"""
 	keyWait
 		any = false
@@ -425,9 +428,9 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A DOCK? THANKS!
-	NOW I CAN REPAIR
-	MY PLACE DATABASE!
+	"DOCK"? OBRIGADO!
+	AGORA POSSO CONSERTAR
+	MEU BANCO DE DADOS!
 	"""
 	keyWait
 		any = false
@@ -439,9 +442,9 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE HALL? THANKS!
-	NOW I CAN REPAIR
-	MY PLACE DATABASE!
+	"HALL"? OBRIGADO!
+	AGORA POSSO CONSERTAR
+	MEU BANCO DE DADOS!
 	"""
 	keyWait
 		any = false
@@ -453,9 +456,9 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AH! I GET IT! HIP
-	AND HOP TOGETHER
-	MAKE HIP HOP!
+	AH, ENTENDI!
+	HIP-HOP!
+	HIP, HIP, URRA!
 	"""
 	keyWait
 		any = false
@@ -467,9 +470,9 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT'S RIGHT! THE
-	ANSWER'S TOE. YOU'RE
-	PRETTY GOOD!
+	SIM! A RESPOSTA É
+	"TOE""
+	INGLÊS É DIFÍCIL, NÉ?!
 	"""
 	keyWait
 		any = false
@@ -481,9 +484,9 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH! THE ANSWER'S
-	ARM! THAT ONE REALLY
-	HAD ME STUMPED!
+	AH! ERA "ARMA" SEM O
+	"A"! "ARM"! NOSSA,
+	COMO EU NÃO PERCEBI?!
 	"""
 	keyWait
 		any = false
@@ -495,13 +498,13 @@ script 17 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOW THE DATA HAS
-	BEEN FULLY RESTORED!
+	PRONTO, OS DADOS FORAM
+	100% RESTAURADOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THANK YOU SO MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	end

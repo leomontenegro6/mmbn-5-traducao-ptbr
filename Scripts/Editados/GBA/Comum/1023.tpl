@@ -7,14 +7,14 @@ script 0 mmbn5 {
 		mugshot = NinjaProgRed
 	msgOpen
 	"""
-	TAKE THIS! CYBER
-	NINJA ATTACK!
-	"GALE"!
+	TOMA ISSO!
+	CYBER ARTE NINJA!
+	"VANTANIA"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAAH!"
+	"IÁÁÁÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -28,14 +28,13 @@ script 1 mmbn5 {
 		mugshot = NinjaProgRed
 	msgOpen
 	"""
-	ULTIMATE
-	NINJA ATTACK!
-	"GALE"!
+	ARTE NINJA SUPREMA!
+	"VENTANIA"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAH!"
+	"IIIÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -49,13 +48,12 @@ script 2 mmbn5 {
 		mugshot = NinjaProgRed
 	msgOpen
 	"""
-	THIS IS THE FINAL
-	NINJA ATTACK!
+	ARTE NINJA FINAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAH!"
+	"IIIÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -69,17 +67,17 @@ script 3 mmbn5 {
 		mugshot = NinjaProgRed
 	msgOpen
 	"""
-	THE SPEAR TRAP
-	WAS REMOVED!
+	A ARMADILHA DE
+	LANÇAS FOI REMOVIDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AND NOW,I'LL TAKE"
+	"AGORA,"
 	keyWait
 		any = false
 	clearMsg
-	"MY LEAVE!"
+	"EU ME DESPEÇO!"
 	keyWait
 		any = false
 	end
@@ -91,14 +89,14 @@ script 4 mmbn5 {
 		mugshot = NinjaProgWhite
 	msgOpen
 	"""
-	TAKE THIS! CYBER
-	NINJA ATTACK!
-	"FLY'IN MONKEY"!
+	TOMA ISSO!
+	CYBER ARTE NINJA!
+	"MACACO VOADOR"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAAH!"
+	"IIIIIÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -112,14 +110,13 @@ script 5 mmbn5 {
 		mugshot = NinjaProgWhite
 	msgOpen
 	"""
-	ULTIMATE
-	NINJA ATTACK!
-	"FLY'IN MONKEY"!
+	ARTE NINJA SUPREMA!
+	"MACACO VOADOR"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAAH!"
+	"IIIIIÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -133,17 +130,17 @@ script 6 mmbn5 {
 		mugshot = NinjaProgWhite
 	msgOpen
 	"""
-	THE CEILING TRAP
-	WAS REMOVED!
+	A ARMADILHA DE TETO
+	FOI REMOVIDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AND NOW,I'LL TAKE"
+	"AGORA,"
 	keyWait
 		any = false
 	clearMsg
-	"MY LEAVE!"
+	"EU ME DESPEÇO!"
 	keyWait
 		any = false
 	end
@@ -155,14 +152,14 @@ script 7 mmbn5 {
 		mugshot = NinjaProgBlue
 	msgOpen
 	"""
-	TAKE THIS! CYBER
-	NINJA ATTACK!
-	"WATER STRIDER"!
+	TOMA ISSO!
+	CYBER ARTE NINJA!
+	"INSETO D'ÁGUA"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAAH!"
+	"IIIIIÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -176,9 +173,8 @@ script 8 mmbn5 {
 		mugshot = NinjaProgBlue
 	msgOpen
 	"""
-	ULTIMATE
-	NINJA ATTACK!
-	"WATER STRIDER"!
+	ARTE NINJA SUPREMA!
+	"INSETO D'ÁGUA"!
 	"""
 	keyWait
 		any = false
@@ -197,13 +193,12 @@ script 9 mmbn5 {
 		mugshot = NinjaProgBlue
 	msgOpen
 	"""
-	FINAL
-	NINJA ATTACK!
+	ARTE NINJA FINAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SMOOTH WALK!"
+	"PASSOS LEVES!"
 	keyWait
 		any = false
 	wait
@@ -217,17 +212,17 @@ script 10 mmbn5 {
 		mugshot = NinjaProgBlue
 	msgOpen
 	"""
-	THE WATER TRAP
-	WAS REMOVED!
+	A ARMADILHA DE ÁGUA
+	FOI REMOVIDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AND NOW,I'LL TAKE"
+	"AGORA,"
 	keyWait
 		any = false
 	clearMsg
-	"MY LEAVE!"
+	"EU ME DESPEÇO!"
 	keyWait
 		any = false
 	end

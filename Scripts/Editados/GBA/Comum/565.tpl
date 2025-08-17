@@ -10,48 +10,52 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Hey,kid⋯"
+	"Aí, moleque..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got a really
-	sweet Extra Folder.
+	Eu tenho aqui uma
+	Pasta Extra muito
+	da hora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I call it \""
+	"""
+	Eu chamo ela de
+	"
+	"""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	."
-	Wanna use it?
+	".
+	Quer experimentar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll overwrite your
-	current Extra Folder
+	Eu sobrescrevo a sua
+	Pasta Extra atual
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"with \""
+	"com a \""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
 	"
-	right now if you
-	want.
+	agora mesmo,
+	se cê quiser.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it?"
+	"E aí?"
 	keyWait
 		any = false
 	clearMsg
@@ -66,7 +70,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Please! "
+	" Por favor! "
 	option
 		brackets = 0
 		left = 0
@@ -75,7 +79,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -89,7 +93,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"You're no fun!"
+	"Pirralho chato!"
 	keyWait
 		any = false
 	end
@@ -98,48 +102,48 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Hey,kid⋯"
+	"Aí, moleque..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't keep
-	your mind off my
+	Cê não consegue parar
+	de pensar na minha
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 5
-	",\" can ya?"
+	"\", né?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet you can't even
-	sleep at night.
+	Aposto que nem tá
+	conseguindo dormir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll overwrite your
-	current Extra Folder
+	Eu sobrescrevo a sua
+	Pasta Extra atual
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"with \""
+	"com a \""
 	printFolderName
 		buffer = 0
 		entry = 5
 	"""
-	"
-	if you want.
+	",
+	se cê quiser.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You want it,right?"
+	"Cê quer, não quer?"
 	keyWait
 		any = false
 	clearMsg
@@ -154,7 +158,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Please! "
+	" Por favor! "
 	option
 		brackets = 0
 		left = 0
@@ -163,7 +167,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -177,7 +181,7 @@ script 1 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"You're no fun!"
+	"Pirralho chato!"
 	keyWait
 		any = false
 	end
@@ -187,14 +191,14 @@ script 2 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	OK,I'll start
-	transferring
+	Beleza, vou começar
+	a transferir a
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 5
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
@@ -202,41 +206,41 @@ script 2 mmbn5 {
 	startGiveFolder
 		slot = 2
 		folder = 5
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	soundDisableTextSFX
 	soundPlay
 		track = 116
-	"*BEEP!*"
+	"BIP!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"It's all yours!"
+	"Pronto, é sua!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Extra Folder
-	is now
+	Agora, sua Pasta Extra
+	é a 
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 5
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
-	"Use it well!"
+	"Usa bem ela!"
 	keyWait
 		any = false
 	end
@@ -246,23 +250,24 @@ script 10 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I STORE AND RECREATE
-	BATTLES FOUGHT IN
-	THIS AREA.
+	EU ARMAZENO E RECRIO
+	LUTAS TRAVADAS NESTA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	RELIVE A BATTLE
+	VOCÊ GOSTARIA DE
+	REPETIR UMA BATALHA
+	QUE SE DEU ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN NEBULA AND A
-	CERTAIN NAVI TEAM?
+	A NEBULA E UMA CERTA
+	EQUIPE DE NAVIS?
 	"""
 	keyWait
 		any = false
@@ -278,7 +283,7 @@ script 10 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -287,7 +292,7 @@ script 10 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -301,7 +306,7 @@ script 10 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -310,18 +315,17 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"VERY WELL⋯"
+	"POIS BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHALL
-	RECREATE IT⋯
+	EU A RECRIAREI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯GO!!!"
+	"... AGORA!!!"
 	keyWait
 		any = false
 	flagSet
@@ -332,7 +336,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"AN EPIC BATTLE!"
+	"QUE BATALHA ÉPICA!"
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +347,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"TOO BAD⋯"
+	"QUE PENA..."
 	keyWait
 		any = false
 	clearMsg
@@ -355,8 +359,9 @@ script 14 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	SOMETIMES RETREAT IS
-	THE BEST STRATEGY⋯
+	HÁ VEZES EM QUE
+	RECUAR É A MELHOR
+	ESTRATÉGIA...
 	"""
 	keyWait
 		any = false
@@ -366,15 +371,15 @@ script 14 mmbn5 {
 }
 script 15 mmbn5 {
 	"""
-	IF YOU EVER WANT TO
-	EXPERIENCE THAT
+	SE QUISER REPETIR
+	AQUELA BATALHA DE
+	NOVO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BATTLE AGAIN,JUST
-	LET ME KNOW.
+	É SO ME AVISAR.
 	"""
 	keyWait
 		any = false
@@ -389,8 +394,8 @@ script 220 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm a ProgramDealer.
-	Wanna see my stuff?
+	Sou um Mercador de
+	Programas. Interessado?
 	
 	"""
 	positionOptionHorizontal
@@ -403,7 +408,7 @@ script 220 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -412,7 +417,7 @@ script 220 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -428,7 +433,7 @@ script 220 mmbn5 {
 }
 script 221 mmbn5 {
 	clearMsg
-	"Come again soon."
+	"Volte sempre."
 	keyWait
 		any = false
 	end
@@ -437,7 +442,9 @@ script 222 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Sorry,nothing left."
+	"""
+	Desculpe. Acabou tudo.
+	"""
 	keyWait
 		any = false
 	end

@@ -8,7 +8,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Is MagnetMan OK?"
+	"O MagnetMan tá bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -20,53 +20,52 @@ script 1 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Lan,thank goodness
-	you're here!
+	Lan! Que bom
+	que você chegou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like I said in the
-	mail,he really got
-	me good!
+	Como eu falei no e-mail,
+	aquele cara me pegou de
+	jeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That helicopter jerk
-	stole MagnetMan's
-	programs
+	Aquele desgraçado do
+	helicóptero roubou os
+	programas do MagnetMan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for thought,speech,
-	movement and
-	attack.
+	de pensamento, fala,
+	movimentação e ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He scattered them
-	inside the
-	DrillComp!
+	E, depois, espalhou
+	eles por dentro dos
+	CPU Broca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now MagnetMan can't
-	speak,think,move
-	or attack!
+	Agora, o MagnetMan não
+	pode falar, pensar,
+	se mover ou atacar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's just awful,Lan!"
+	"É um horror, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -77,7 +76,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see⋯"
+	"Entendi..."
 	keyWait
 		any = false
 	clearMsg
@@ -89,16 +88,16 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But he chose not to
-	delete MagnetMan,
+	Mas ele não DELETOU
+	o MagnetMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which proves he's
-	not an agent of
-	Nebula.
+	o que prova que ele
+	não é um agente da
+	Nebula, né...?
 	"""
 	keyWait
 		any = false
@@ -111,8 +110,8 @@ script 4 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Did that Navi visit
-	you,too?
+	Esse Navi também chegou
+	a ir atrás de vocês?
 	"""
 	keyWait
 		any = false
@@ -124,13 +123,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"Aham."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just what are they
-	plotting?
+	O que será que aqueles
+	dois tão tramando?
 	"""
 	keyWait
 		any = false
@@ -143,9 +142,9 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know but
-	for now,let's find
-	MagnetMan's program!
+	Eu não sei. Mas, por
+	enquanto, bora achar os
+	programas do MagnetMan!
 	"""
 	keyWait
 		any = false
@@ -158,14 +157,13 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,we can figure
-	out this mystery
-	later.
+	É. Depois a gente
+	pensa nesse mistério.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,Tesla,we're off!"
+	"OK, Tesla,\na gente vai lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -177,8 +175,7 @@ script 8 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Lan,
-	thank you so much!
+	Obrigada, Lan!
 	"""
 	keyWait
 		any = false
@@ -191,13 +188,13 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll get those
-	programs back,Tesla!
+	A gente VAI recuperar
+	aqueles programas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -218,8 +215,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pride?
-	How's KnightMan?
+	Pride!
+	Como é que tá
+	o KnightMan?
 	"""
 	keyWait
 		any = false
@@ -232,48 +230,48 @@ script 12 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Lan,thank goodness
-	you're here!
+	Lan!
+	Graças aos céus,
+	você veio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like I said in the
-	mail,a ninja Navi
-	came and stole
+	Como expliquei no e-mail,
+	um Navi ninja apareceu
+	e roubou os programas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	KnightMan's thought,
-	speech,movement
-	and attack programs.
+	de pensamento,
+	fala, movimentação e
+	ataque do KnightMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then he scattered
-	them in the Drill-
-	Comp.
+	Em seguida, ele os
+	espalhou pelos CPU Broca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now KnightMan can't
-	speak,think,move
-	or attack!
+	Agora, o KnightMan não
+	pode falar, pensar,
+	se mover ou atacar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's as if his
-	memory banks have
-	been wiped clean!
+	É como se o banco de
+	memória dele houvesse
+	sido apagado!
 	"""
 	keyWait
 		any = false
@@ -285,7 +283,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see⋯"
+	"Entendi..."
 	keyWait
 		any = false
 	clearMsg
@@ -297,16 +295,16 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But he chose not to
-	delete KnightMan,
+	Mas ele NÃO deletou
+	o KnightMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which proves
-	ShadowMan's not a
-	Nebula agent.
+	o que prova que o
+	ShadowMan não é um
+	agente da Nebula, né?
 	"""
 	keyWait
 		any = false
@@ -319,8 +317,9 @@ script 15 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	ShadowMan?! That
-	Navi was ShadowMan?
+	ShadowMan?!
+	Aquele Navi era
+	o ShadowMan?!
 	"""
 	keyWait
 		any = false
@@ -333,15 +332,16 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right,he was once a
-	member of Gospel.
+	Era.
+	Mas, ué.... Ele era
+	um agente da Gospel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,why didn't you
-	recognize him?
+	Como foi que você
+	não reconheceu ele?
 	"""
 	keyWait
 		any = false
@@ -353,44 +353,45 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Well,"
+	"Bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Officially,ShadowMan
-	never belonged to
-	Gospel.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The head of Gospel
-	had him working as
-	a hired gun.
+	Oficialmente, o
+	ShadowMan nunca
+	pertenceu à Gospel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In fact,only a few
-	Gospel members knew
-	of him.
+	O líder da Gospel
+	o havia contratado
+	como mercenário.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His name is all that
-	I heard.
+	Aliás, somente membros
+	seletos sequer sabiam
+	da existência dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did he go to you,as
-	well?
+	Inclusive, tudo o que
+	eu ouvi a respeito dele
+	foi o nome.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ele também foi atrás
+	de vocês?
 	"""
 	keyWait
 		any = false
@@ -402,13 +403,13 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah."
+	"Foi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just what are they
-	plotting?
+	O que será que aqueles
+	dois tão tramando?
 	"""
 	keyWait
 		any = false
@@ -421,9 +422,9 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I don't know,but
-	for now let's find
-	KnightMan's program!
+	Eu não sei. Mas, por
+	enquanto, bora achar os
+	programas do KnightMan!
 	"""
 	keyWait
 		any = false
@@ -436,14 +437,13 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,we can figure
-	out this mystery
-	later.
+	É. Depois a gente
+	pensa nesse mistério.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,Pride,we're off!"
+	"Beleza, Pride,\na gente vai lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -455,8 +455,9 @@ script 21 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Lan⋯
-	You're a godsend.
+	Lan...
+	Você nem imagina
+	a minha gratidão.
 	"""
 	keyWait
 		any = false
@@ -469,13 +470,13 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll have those
-	programs back,Pride!
+	A gente VAI recuperar
+	aqueles programas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

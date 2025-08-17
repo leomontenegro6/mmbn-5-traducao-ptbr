@@ -10,17 +10,16 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Did you see someone
-	dressed just like
-	me?
+	Você viu um homem
+	vestido que nem eu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He was really tired.
-	I hope he hasn't
-	collapsed somewhere⋯
+	Ele estava tão cansado.
+	Espero que não tenha
+	desmaiado por aí...
 	"""
 	keyWait
 		any = false
@@ -31,24 +30,25 @@ script 1 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm backing up this
-	system here.
+	Estou fazendo um
+	backup deste sistema
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A backup is a copy
-	of data you make in
-	case of trouble.
+	Um backup é uma cópia
+	de dados que se faz
+	por precaução.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you're taking
-	lots of backups of
-	your computer data!
+	Espero que você esteja
+	fazendo vários backups
+	do seu computador!
 	"""
 	keyWait
 		any = false
@@ -59,17 +59,17 @@ script 10 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Even electronic
-	devices and PETs
-	connected to the
+	Até dispositivos
+	eletrônicos e PETs
+	conectados à Rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net are acting
-	up. Do you think
-	it's Nebula's fault?
+	estão apresentando
+	defeitos. Acha que é
+	culpa da Nebula?
 	"""
 	keyWait
 		any = false
@@ -80,9 +80,9 @@ script 11 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Excuse me,but I'm
-	busy! Leave me
-	alone!
+	Olha, desculpa, mas
+	eu tô ocupado agora!
+	Não fale comigo!
 	"""
 	keyWait
 		any = false
@@ -93,9 +93,9 @@ script 12 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Damage is spreading!
-	Official NetNavis
-	are being affected!
+	Os estragos estão se
+	espalhando! Oficiais
+	estão sendo afetados!
 	"""
 	keyWait
 		any = false
@@ -106,9 +106,9 @@ script 13 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Leave this to us!
-	Concentrate on
-	your own work!
+	Deixe isto conosco!
+	Concentre-se no seu
+	próprio dever!
 	"""
 	keyWait
 		any = false
@@ -119,25 +119,25 @@ script 20 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Everyone's really
-	tired. They're
-	taking a break.
+	Estão todos exaustos.
+	E, agora, estão fazendo
+	uma pausa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll take a nap too,
-	once someone comes
-	back.
+	Eu também vou dar uma
+	cochilada assim que uma
+	certa pessoa voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on people.
-	Come back so I can
-	get some sleep⋯
+	... Rápido, gente.
+	Voltem logo pra eu
+	poder dormir...
 	"""
 	keyWait
 		any = false
@@ -158,30 +158,30 @@ script 30 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Nebula's attacks are
-	escalating,starting
-	with SciLab,
+	Os ataques da Nebula
+	estão piorando,
+	começando pelas áreas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oran Area,SciLab
-	Area,and so on.
+	SciLab, Oran e assim
+	por diante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The entire Net
-	is in chaos.
+	A Rede inteira está
+	um caos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder where
-	they'll strike next.
+	Onde será que vão
+	atacar a seguir?
 	"""
 	keyWait
 		any = false
@@ -202,24 +202,24 @@ script 31 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	We can't close our
-	eyes for a moment.
-	Nebula might attack
+	Não podemos nem piscar.
+	A Nebula pode atacar
+	em qualquer lugar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	anywhere. Our sleep
-	has been sacrificed
-	for Net peace.
+	Nosso sono teve de ser
+	sacrificado em prol da
+	paz na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no time for
-	negative thinking.
+	Não há tempo pra ficar
+	pensando negativo.
 	"""
 	keyWait
 		any = false
@@ -230,9 +230,9 @@ script 40 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I can't believe how
-	easily they evaded
-	SciLab security.
+	Não acredito no quão
+	facilmente eles driblaram
+	a segurança do SciLab.
 	"""
 	keyWait
 		any = false
@@ -246,24 +246,24 @@ script 41 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's not just Nebula
-	Navis but Darkloids
-	as well⋯
+	Não são só os Navis
+	da Nebula, tem os
+	Darkloides também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not even ProtoMan
-	can take out that
-	many enemies!
+	Nem o ProtoMan consegue
+	enfrentar tantos
+	inimigos assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and
-	reinforce him!
+	Rápido, forneça
+	reforços para ele!
 	"""
 	keyWait
 		any = false
@@ -274,24 +274,24 @@ script 42 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's not just Nebula
-	Navis but DarkLoids
-	as well⋯
+	Não são só os Navis
+	da Nebula, tem os
+	Darkloides também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not even Colonel
-	can take out that
-	many enemies!
+	Nem o Colonel consegue
+	enfrentar tantos
+	inimigos assim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and
-	reinforce him!
+	Rápido, forneça
+	reforços para ele!
 	"""
 	keyWait
 		any = false
@@ -302,9 +302,9 @@ script 43 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Leave this to us.
-	Hurry up over to the
-	SciLab HP! Please!
+	Deixe isto aqui conosco.
+	Rápido, vá à página
+	do SciLab! Por favor!
 	"""
 	keyWait
 		any = false
@@ -315,33 +315,32 @@ script 44 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I can't believe they
-	finally let me enter
-	this room.
+	Nem acredito que
+	finalmente me deixaram
+	entrar nesta sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now's not the
-	time to talk about
-	that.
+	Mas não é hora de falar
+	disso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to at least
-	try to prevent any
-	more incursions.
+	Preciso, pelo menos,
+	tentar prevenir mais
+	invasões.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll buff up the
-	security system as
-	soon as possible.
+	Vou dar uma turbinada
+	no sistema de segurança
+	o quanto antes.
 	"""
 	keyWait
 		any = false
@@ -352,9 +351,9 @@ script 50 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Nebula was repulsed
-	but we have to buff
-	up security fast.
+	A Nebula foi repelida,
+	mas ainda temos que
+	fortalecer a segurança.
 	"""
 	keyWait
 		any = false
@@ -365,17 +364,17 @@ script 51 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Thank you for
-	helping us to avoid
-	the worst scenario.
+	Obrigada por nos ajudar
+	a evitar o pior dos
+	casos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now it's our turn to
-	work at updating the
-	security system!
+	Agora é a nossa vez de
+	trabalhar para atualizar
+	o sistema de segurança!
 	"""
 	keyWait
 		any = false
@@ -386,24 +385,24 @@ script 55 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	So you found the new
-	MissionCtrl.
+	Então, vocês acharam
+	um novo Controle de
+	Missão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You probably
-	shouldn't tell us
-	where it is.
+	É melhor não nos contar
+	onde ele fica.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Secrets should be
-	known by the fewest
-	number of people.
+	Para enganar os
+	inimigos, comece
+	pelos amigos...
 	"""
 	keyWait
 		any = false
@@ -414,17 +413,17 @@ script 56 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This place will be
-	lonely after
-	MissionCtrl moves.
+	Este lugar vai ficar
+	tão solitário sem o
+	Controle de Missão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll miss everyone
-	but I guess there's
-	no other option.
+	Sentirei saudades de
+	todos, mas acho que
+	não há outra opção.
 	"""
 	keyWait
 		any = false
@@ -438,25 +437,25 @@ script 60 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I worked all night
-	on the security
-	system update.
+	Eu virei a madrugada
+	atualizando o sistema
+	de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sleepy but one
-	person needs to be
-	here.
+	Estou morrendo de sono,
+	mas sempre tem que
+	ficar uma pessoa aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if Raika
-	would be mad if I
-	went for a nap.
+	Será que o Raika me
+	mata se eu tirar só
+	uma sonequinha...?
 	"""
 	keyWait
 		any = false
@@ -467,25 +466,25 @@ script 61 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I worked all night
-	on the security
-	system update.
+	Eu virei a madrugada
+	atualizando o sistema
+	de segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone is in
-	their beds while I
-	work on alone⋯
+	Todos estão em suas
+	camas enquanto eu
+	trabalho aqui, sozinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sleepy but one
-	person needs to be
-	here.
+	Estou morrendo de sono,
+	mas sempre tem que
+	ficar uma pessoa aqui.
 	"""
 	keyWait
 		any = false
@@ -516,17 +515,17 @@ script 65 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	This is the nerve
-	center of Electopian
-	sci-tech.
+	Este é o centro nervoso
+	da tecnologia científica
+	de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The computers here
-	are some of the best
-	in the world.
+	Os computadores daqui
+	estão dentre os melhores
+	do mundo.
 	"""
 	keyWait
 		any = false
@@ -542,16 +541,17 @@ script 66 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I'm gonna be a wild
-	man like Baryl,huh!
+	Eu vou ser um cara bem
+	selvagem, que nem o
+	Baryl, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll study Baryl's
-	secrets for being a
-	real man,huh!
+	Vou estudar os segredos
+	dele para ser um homem
+	de verdade, é!
 	"""
 	keyWait
 		any = false
@@ -562,15 +562,14 @@ script 70 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	It's a job from
-	Sharo⋯
+	Uma missão de Sharo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to leave
-	soon.
+	Terei de deixar este
+	lugar em breve.
 	"""
 	keyWait
 		any = false
@@ -581,19 +580,19 @@ script 71 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Higsby's seems to be
-	doing OK⋯
+	Parece que está tudo
+	bem na minha loja...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Baryl is out,huh⋯"
+	"O Baryl não está, é...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll go see
-	how things are.
+	Acho que vou na loja
+	só pra me certificar.
 	"""
 	keyWait
 		any = false
@@ -604,17 +603,16 @@ script 80 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	I never suspected
-	SciLab would get hit
-	while I was out⋯
+	Nunca suspeitei que o
+	SciLab seria atacado
+	na minha ausência...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess the
-	MissionCtrl
-	is useless now⋯
+	Acho que o Controle de
+	Missão é inútil agora...
 	"""
 	keyWait
 		any = false
@@ -625,13 +623,14 @@ script 85 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	So you found the new
-	MissionCtrl⋯
+	Então, você encontrou
+	um novo Controle de
+	Missão...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That was fast."
+	"Foi bem rápido."
 	keyWait
 		any = false
 	end
@@ -645,23 +644,23 @@ script 90 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	If you won't take on
-	the leadership,
+	Se você não quer
+	assumir a liderança,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wouldn't mind
-	being the leader⋯
+	eu não me importaria
+	de ser o líder...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm not sure the
-	other members would
-	follow a newcomer.
+	Mas não sei se os outros
+	membros seguiriam um
+	recém-chegado.
 	"""
 	keyWait
 		any = false
@@ -672,15 +671,15 @@ script 91 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	So you finally
-	decided to do it?
+	Então, finalmente
+	decidiu aceitar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't betray our
-	trust in you!
+	Não ouse trair a nossa
+	confiança em você!
 	"""
 	keyWait
 		any = false

@@ -10,16 +10,15 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Yai!"
+	"Oi, Yai!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Yai
 	"""
-	Oh,if it isn't Lan!
-	What brings you
-	here?
+	Ah, Lan!
+	O que te traz aqui?
 	"""
 	keyWait
 		any = false
@@ -27,9 +26,9 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Dad wants to show
-	everybody something
-	at SciLab. Let's go!
+	O papai quer mostrar
+	uma coisa pra gente
+	no SciLab. Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -37,17 +36,17 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	Sounds fascinating.
-	But I need time to
-	get ready.
+	Parece fascinante!
+	Mas preciso de um
+	tempo pra me aprontar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A lady can't just
-	rush off without
-	getting prepared!
+	Uma dama não pode sair
+	assim, sem preparo
+	prévio!
 	"""
 	keyWait
 		any = false
@@ -55,9 +54,9 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK! Let's meet in 30
-	minutes in front of
-	Metroline Station!
+	Beleza! A gente se vê
+	na frente da Estação
+	Metrolinha em meia hora!
 	"""
 	keyWait
 		any = false
@@ -65,15 +64,15 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	"""
-	30 minutes? Very
-	well!
+	Meia hora?
+	Pois bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"See you then!"
+	"Té lá!"
 	keyWait
 		any = false
 	end
@@ -83,8 +82,8 @@ script 1 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Now,just what shall
-	I wear?
+	Bom, o que eu vou
+	vestir...?
 	"""
 	keyWait
 		any = false
@@ -106,22 +105,23 @@ script 5 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I've been all over
-	searching for Glide
+	Eu já procurei pelo
+	Glide por toda a parte,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I haven't even
-	found a clue.
+	mas não achei uma
+	pista sequer dele
+	ainda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope that he's
-	not hurt⋯
+	Espero que ele não
+	esteja ferido...
 	"""
 	keyWait
 		any = false
@@ -131,7 +131,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"⋯Glide⋯"
+	"... Glide..."
 	keyWait
 		any = false
 	end
@@ -141,9 +141,9 @@ script 10 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I'm so worried about
-	Glide,I can't eat
-	a morsel of food.
+	Tô tão preocupada
+	com o Glide, que não
+	consigo comer nada.
 	"""
 	keyWait
 		any = false
@@ -159,9 +159,9 @@ script 30 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I've got to feed my
-	goldfish before I
-	leave!
+	Eu tenho que alimentar
+	o meu peixinho antes de
+	sair!
 	"""
 	keyWait
 		any = false
@@ -171,29 +171,28 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Don't talk to me!"
+	"Não fala comigo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm thinking very,
-	very hard at the
-	moment!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Now,what swimming
-	suit should I take⋯
+	Eu tô pensando com
+	todos os meus botões
+	agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How will I ever
-	decide with over 30
-	to choose from?
+	Tá, qual maiô eu levo...?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Como eu vou escolher
+	um dentre os mais de
+	trinta que eu tenho?!
 	"""
 	keyWait
 		any = false

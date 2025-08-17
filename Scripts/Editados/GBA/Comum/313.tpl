@@ -14,61 +14,63 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"*pssst* Hey,kid⋯"
+	"Psst! Ei, menino..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can make yer
-	battles a cinch.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	This chip'll make
-	it happen for just
-	500 Zennys.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Huh? Seems fishy?"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Come on! This is
-	one sweet chip!
+	Eu posso deixar as
+	suas lutas cem vezes
+	mais fáceis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯There's only a
-	slight side effect.
+	Este chip aqui faz isso
+	acontecer... e custa só
+	500 Zennys!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Hã? \"Parece suspeito\"?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ah, vá lá!
+	É um chip incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,no,don't get
-	all freaked out.
-	It's nothing really.
+	... Ele só tem um
+	pequeeeeno efeito
+	colateral.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just a small price
-	for more power.
+	Não, não, não precisa
+	surtar. Não é nada de
+	mais, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only 500 Zennys.
-	You want it?
+	Só um minúsculo preço
+	a pagar por mais poder.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E tudo isso por só 500
+	Zennys. Que tal?
 	"""
 	keyWait
 		any = false
@@ -84,7 +86,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -93,7 +95,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -107,7 +109,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"What a cheapskate."
+	"Mão-de-vaca."
 	keyWait
 		any = false
 	end
@@ -123,7 +125,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Thanks pal!"
+	"Obrigado, rapaz!"
 	keyWait
 		any = false
 	clearMsg
@@ -135,8 +137,8 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -155,16 +157,16 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	"""
-	Heh heh heh⋯
-	Easy money.
+	He he he...
+	Que grana fácil.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Hm?
-	Oh,nothin'. Just
-	talking to myself⋯
+	... Hã?
+	Ah, nada, não.
+	Só tô pensando alto...
 	"""
 	keyWait
 		any = false
@@ -175,8 +177,8 @@ script 2 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	⋯That ain't enough.
-	Now scram!
+	... Isso aí não é o
+	bastante. Se manda!
 	"""
 	keyWait
 		any = false
@@ -186,25 +188,26 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Changed your mind?"
+	"Mudou de ideia?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll make yer
-	battles a cinch⋯
+	Vai deixar as lutas
+	cem vezes mais fáceis
+	pra você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only 500 Zennys for
-	this sweet chip.
+	E este chip incrível
+	custa só 500 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well,ya want it?"
+	"E aí, vai querer?"
 	keyWait
 		any = false
 	clearMsg
@@ -219,7 +222,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -228,7 +231,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -242,7 +245,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OldMan
-	"What a cheapskate."
+	"Mão-de-vaca."
 	keyWait
 		any = false
 	end
@@ -252,8 +255,9 @@ script 4 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	It's my last one⋯
-	Don't miss out.
+	É o último que eu
+	tenho...
+	Vai perder essa chance?
 	"""
 	keyWait
 		any = false
@@ -273,16 +277,16 @@ script 5 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	It's because they
-	all look at me
-	suspiciously,right?!
+	É, todo mundo olha pra
+	mim como se eu fosse
+	suspeito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What've I ever
-	done wrong?!
+	O que foi que eu fiz?!
+	Nada!
 	"""
 	keyWait
 		any = false
@@ -303,62 +307,62 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Mr.Quiz?!
-	Who called Mr.Quiz?!
+	Sr. Questionário?!
+	Alguém chamou o
+	Sr. Questionário?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a chance!
-	Try your luck!
+	Arrisque!
+	Tente a sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get ready,set⋯
-	It's quiz time!!!
+	Preparar, apontar...
+	Questionáriooo!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You know who I am?"
+	"Sabe quem eu sou?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the famous Mr.
-	Quiz! I'm mad
-	about quizzes!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	This is a once-in-a
-	lifetime chance for
-	you!
+	Sou o famoso
+	Sr. Questionário! Eu
+	RESPIRO questionários!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A fabulous prize
-	awaits if you can
-	answer my questions!
+	Esta é uma chance
+	única na vida, rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you ready?"
+	"""
+	Se responder às minhas
+	perguntas, um prêmio
+	fabuloso lhe aguarda!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then let the quiz
-	battle begin!
-	Ready,set⋯
+	Então, que comece o
+	duelo de questionário!
+	Preparar, apontar...
 	"""
 	keyWait
 		any = false
@@ -372,7 +376,7 @@ script 10 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Go!\n"
+	" Fogo!\n"
 	option
 		brackets = 0
 		left = 1
@@ -381,7 +385,7 @@ script 10 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Wait"
+	" Espera"
 	select
 		default = 0
 		BSeparate = false
@@ -396,9 +400,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Ah,come on.
-	I'm raring to
-	go!
+	Ah, poxa!
+	Eu tô me coçando pra
+	começar!
 	"""
 	keyWait
 		any = false
@@ -409,45 +413,46 @@ script 11 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Mr.Quiz?!
-	Who called Mr.Quiz?!
+	Sr. Questionário?!
+	Quem chamou o
+	Sr. Questionário?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a chance!
-	Try your luck!
+	Arrisque!
+	Tente a sorte!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get ready,set⋯
-	It's quiz time!!!
+	Preparar, apontar...
+	Questionáriooo!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yep,it's me,Mr.Quiz!"
+	"Sim, sou eu, o\nSr. Questionário!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The one everybody's
-	talking about!
+	Aquele que tá na boca
+	do povo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get right to
-	the quiz battle!
+	Bom, vamos logo ao
+	duelo de questionário!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ready,set⋯"
+	"Preparar, apontar..."
 	keyWait
 		any = false
 	clearMsg
@@ -460,7 +465,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Go!\n"
+	" Fogo!\n"
 	option
 		brackets = 0
 		left = 1
@@ -469,7 +474,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Wait"
+	" Espera"
 	select
 		default = 0
 		BSeparate = false
@@ -484,9 +489,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Ah,come on.
-	I'm raring to
-	go!
+	Ah, poxa!
+	Eu tô me coçando pra
+	começar!
 	"""
 	keyWait
 		any = false
@@ -497,16 +502,15 @@ script 12 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	First,an easy one.
-	Question #1!
+	Vamos começar com uma
+	fácil. Pergunta 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was dropped
-	from the car around
-	the curve?
+	Quando o carro fez a
+	curva, o que caiu?
 	"""
 	keyWait
 		any = false
@@ -522,7 +526,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Luggage\n"
+	" As malas\n"
 	option
 		brackets = 0
 		left = 1
@@ -531,7 +535,7 @@ script 12 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Speed\n"
+	" A velocidade\n"
 	option
 		brackets = 0
 		left = 2
@@ -540,7 +544,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Its driver"
+	" O motorista"
 	select
 		default = 0
 		BSeparate = false
@@ -562,16 +566,17 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	That is correct!!!
-	Now for question #2,
-	another easy one!!!
+	Correto!!
+	Bom, vamos à pergunta
+	2, outra fácil!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It grinds down hills
-	yet remains unseen.
+	O que é que está
+	sempre vindo,
+	mas nunca chega?
 	"""
 	keyWait
 		any = false
@@ -587,7 +592,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Time\n"
+	" O amanhã\n"
 	option
 		brackets = 0
 		left = 1
@@ -596,7 +601,7 @@ script 12 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" A volcano\n"
+	" As férias\n"
 	option
 		brackets = 0
 		left = 2
@@ -605,7 +610,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" A river"
+	" Meu aniversário"
 	select
 		default = 0
 		BSeparate = false
@@ -627,17 +632,17 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	That is correct!!!
-	Now a harder one.
-	Question #3!
+	Correto!!!
+	Agora, vamos a uma
+	mais difícil. Pergunta 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many steel drums
-	are outside the Old-
-	Mine on Oran Isle?
+	Quantos barris de aço
+	há na Ilha Oran, fora
+	da Velha Mina?
 	"""
 	keyWait
 		any = false
@@ -693,17 +698,17 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	That is correct!!!
-	No more playing
-	around! Question #4!
+	Correto!!!
+	Tá, acabou a moleza!
+	Pergunta 4!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the combined
-	Atk of Cannon +
-	MiniBomb + WideSwrd?
+	Qual é o ataque somado
+	de Cannon + MiniBomb +
+	WideSwrd?
 	"""
 	keyWait
 		any = false
@@ -759,24 +764,23 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	That is correct!!!
-	You're pretty good!
+	Correto!!!
+	Você é muito bom!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now for the final
-	question.
-	Question #5!
+	E, agora, vamos à
+	pergunta final.
+	Pergunta 5!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This sport is a bit
-	scary because people
-	hit,throw and steal.
+	Quanto maior é,
+	menos se vê.
 	"""
 	keyWait
 		any = false
@@ -792,7 +796,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Soccer\n"
+	" Fome\n"
 	option
 		brackets = 0
 		left = 1
@@ -801,7 +805,7 @@ script 12 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Baseball\n"
+	" Escuridão\n"
 	option
 		brackets = 0
 		left = 2
@@ -810,7 +814,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Croquet"
+	" Cabelo"
 	select
 		default = 0
 		BSeparate = false
@@ -832,16 +836,16 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Oh man⋯ I never
-	thought you'd make
-	it this far.
+	Caramba... Nunca
+	imaginei que você
+	chegaria longe assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But a promise is a
-	promise. Here ya go.
+	Mas promessa é dívida.
+	Tome.
 	"""
 	keyWait
 		any = false
@@ -854,8 +858,8 @@ script 12 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -874,19 +878,19 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Thanks! That was one
-	wicked quiz battle⋯
+	Valeu! Esse duelo de
+	questionário foi irado...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a good sport but
-	I don't lose often!
+	Eu sou bom perdedor,
+	mas não sou de perder!
 	"""
 	keyWait
 		any = false
@@ -904,14 +908,14 @@ script 13 mmbn5 {
 	msgOpen
 	textSpeed
 		delay = 2
-	"Sorry! Wrong answer!"
+	"Que pena!\nResposta errada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh heh heh⋯
-	I guess you're not
-	in my league yet.
+	He he he...
+	Acho que você ainda
+	não tá à minha altura.
 	"""
 	keyWait
 		any = false
@@ -922,16 +926,17 @@ script 14 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Our quiz battle
-	is over!
+	Nosso duelo de
+	questionário está
+	terminado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I said it was a
-	once-in-a-lifetime
-	chance,remember?
+	Eu disse que era
+	uma chance única na
+	vida, não disse?
 	"""
 	keyWait
 		any = false
@@ -951,17 +956,17 @@ script 15 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Dang it!
-	Why the heck did
-	I come in last!!!
+	Droga!
+	Como assim, eu fiquei
+	em último?!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanna be Quiz
-	Master. Crown me
-	Quiz King!!!
+	Eu quero ser o Questio-
+	nário Mestre. Coroem-me
+	Questionário Rei!
 	"""
 	keyWait
 		any = false
@@ -981,13 +986,13 @@ script 20 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Would you like to
-	have my SubChips?
+	Eu vendo SubChips nas
+	horas vagas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to take a look?\n"
+	"Gostaria de conferir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -998,7 +1003,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -1007,7 +1012,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1023,7 +1028,7 @@ script 20 mmbn5 {
 }
 script 21 mmbn5 {
 	clearMsg
-	"\"Be prepared and\n have no regrets.\""
+	"\"O seguro morreu de\n velho.\""
 	keyWait
 		any = false
 	end
@@ -1037,8 +1042,8 @@ script 22 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I just realized
-	I don't have any!
+	Acabo de perceber
+	que estou sem!
 	"""
 	keyWait
 		any = false
@@ -1053,8 +1058,9 @@ script 23 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Grrr⋯
-	To heck with it all!
+	Grrr...
+	Eu quero mais é que
+	tudo se f... exploda!
 	"""
 	keyWait
 		any = false
@@ -1069,13 +1075,13 @@ script 24 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Would you like to
-	have my SubChips?
+	Eu vendo SubChips nas
+	horas vagas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to take a look?\n"
+	"Gostaria de conferir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1086,7 +1092,7 @@ script 24 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -1095,7 +1101,7 @@ script 24 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

@@ -22,15 +22,16 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	STOP STARING AT
-	THIS DISPLAY STAND!
+	PARA DE FICAR OLHANDO
+	PARA ESTE ANÚNCIO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GET SO MAD WHEN
-	PEOPLE LOOK AT ME!
+	EU FICO FULO DA VIDA
+	QUANDO AS PESSOAS
+	OLHAM PRA MIM!
 	"""
 	keyWait
 		any = false
@@ -41,13 +42,14 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I SUDDENLY COULDN'T
-	CONTROL MYSELF.
+	DE REPENTE, EU PERDI
+	O CONTROLE SOBRE MIM
+	MESMO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT'S GOING ON?"
+	"O QUE TÁ ACONTECENDO?"
 	keyWait
 		any = false
 	end
@@ -57,16 +59,17 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS DISPLAY STAND
-	HAD A BUILT-IN
-	HOLOGRAM SYSTEM.
+	ESTE MOSTRADOR
+	TEM UM SISTEMA DE
+	HOLOGRAMA EMBUTIDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEEE!
-	PRETTY HI-TECH,EH?!
+	UUHÚÚÚÚ!
+	TECNOLOGIA DE PONTA,
+	VIU?!
 	"""
 	keyWait
 		any = false

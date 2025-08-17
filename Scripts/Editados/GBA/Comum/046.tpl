@@ -44,7 +44,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	MegaMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -57,7 +57,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -66,7 +66,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -82,7 +82,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
-	"OK! Roger that!"
+	"OK! Entendido!"
 	keyWait
 		any = false
 	end
@@ -97,7 +97,7 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	MegaMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -110,7 +110,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -119,7 +119,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -145,7 +145,7 @@ script 4 mmbn5 {
 	msgOpen
 	"""
 	MegaMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -158,7 +158,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -167,7 +167,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -184,7 +184,10 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I can't jack out!"
+	"""
+	Não consigo
+	desconectar!
+	"""
 	keyWait
 		any = false
 	flagSet
@@ -196,8 +199,9 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A magnetic field!
-	I can't jack out!
+	Um campo magnético!
+	Não consigo
+	desconectar!
 	"""
 	keyWait
 		any = false
@@ -215,7 +219,7 @@ script 7 mmbn5 {
 	msgOpen
 	"""
 	MegaMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -228,7 +232,7 @@ script 7 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -237,7 +241,7 @@ script 7 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -266,8 +270,9 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Our investigation
-	isn't over yet,Lan!
+	A gente ainda não
+	terminou a nossa
+	investigação, Lan!
 	"""
 	keyWait
 		any = false
@@ -284,8 +289,9 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Our investigation
-	isn't over yet,Lan!
+	A gente ainda não
+	terminou a nossa
+	investigação, Lan!
 	"""
 	keyWait
 		any = false
@@ -299,7 +305,7 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	ProtoMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -312,7 +318,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -321,7 +327,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -340,7 +346,7 @@ script 12 mmbn5 {
 	msgOpen
 	"""
 	Colonel,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -353,7 +359,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -362,7 +368,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -384,9 +390,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No time to jack out,
-	MegaMan! Open the
-	electronic lock!
+	Isso não é hora de
+	desconectar! Abre a
+	tranca eletrônica!
 	"""
 	keyWait
 		any = false
@@ -414,7 +420,7 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	MegaMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -427,7 +433,7 @@ script 15 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -436,7 +442,7 @@ script 15 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -453,7 +459,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK! Roger that!"
+	"OK! Entendido!"
 	keyWait
 		any = false
 	end
@@ -464,7 +470,7 @@ script 17 mmbn5 {
 	msgOpen
 	"""
 	ProtoMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -477,7 +483,7 @@ script 17 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -486,7 +492,7 @@ script 17 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -503,13 +509,13 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Understood."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Jasmine! I'll
-	jack out now.
+	Lan! Jasmine!
+	Vou desconectar agora.
 	"""
 	keyWait
 		any = false
@@ -521,7 +527,7 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	GyroMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -534,7 +540,7 @@ script 19 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -543,7 +549,7 @@ script 19 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -560,13 +566,14 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"Come back now!"
+	"Volte agora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I'm sorry,but
-	I'm jacking out now.
+	Desculpa, Lan, mas
+	eu vou desconectar
+	agora.
 	"""
 	keyWait
 		any = false
@@ -578,7 +585,7 @@ script 21 mmbn5 {
 	msgOpen
 	"""
 	SerchMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -591,7 +598,7 @@ script 21 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -600,7 +607,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -617,13 +624,13 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Roger."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hikari! Fyrefox! The
-	mission's suspended.
+	Hikari! Fyrefox!
+	Missão suspensa.
 	"""
 	keyWait
 		any = false
@@ -635,7 +642,7 @@ script 23 mmbn5 {
 	msgOpen
 	"""
 	NapalmMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -648,7 +655,7 @@ script 23 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -657,7 +664,7 @@ script 23 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -674,14 +681,14 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"OK! Get out!"
+	"Beleza! Sai daí!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Raika! I'm
-	sorry,but I'm
-	jacking out now.
+	Lan! Raika!
+	Foi mal, mas vou
+	desconectar agora!
 	"""
 	keyWait
 		any = false
@@ -693,7 +700,7 @@ script 25 mmbn5 {
 	msgOpen
 	"""
 	MagnetMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -706,7 +713,7 @@ script 25 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -715,7 +722,7 @@ script 25 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -732,13 +739,13 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"OK!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! I'm sorry,but
-	I'm jacking out now.
+	Lan! Desculpa,
+	mas vou desconectar.
 	"""
 	keyWait
 		any = false
@@ -750,7 +757,7 @@ script 27 mmbn5 {
 	msgOpen
 	"""
 	Meddy,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -763,7 +770,7 @@ script 27 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -772,7 +779,7 @@ script 27 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -794,8 +801,8 @@ script 28 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Lan! Chaud! I'm
-	jacking out now.
+	Lan! Chaud!
+	Eu vou desconectar.
 	"""
 	keyWait
 		any = false
@@ -807,7 +814,7 @@ script 29 mmbn5 {
 	msgOpen
 	"""
 	Colonel,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -820,7 +827,7 @@ script 29 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -829,7 +836,7 @@ script 29 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -846,14 +853,14 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Roger."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Ribitta! The
-	mission is
-	suspended for now.
+	Lan! Ribitta
+	A missão está
+	suspendida por ora.
 	"""
 	keyWait
 		any = false
@@ -865,7 +872,7 @@ script 31 mmbn5 {
 	msgOpen
 	"""
 	ShadowMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -878,7 +885,7 @@ script 31 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -887,7 +894,7 @@ script 31 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -904,13 +911,13 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"Roger."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm jacking out now,
-	everyone.
+	Irei desconectar
+	agora, equipe.
 	"""
 	keyWait
 		any = false
@@ -922,7 +929,7 @@ script 33 mmbn5 {
 	msgOpen
 	"""
 	NumberMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -935,7 +942,7 @@ script 33 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -944,7 +951,7 @@ script 33 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -961,14 +968,14 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"All right,huh!"
+	"Tá bom, é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Dingo! I'm
-	sorry,but I'm
-	jacking out now.
+	Lan! Dingo!
+	Desculpa, mas eu
+	vou desconectar, é.
 	"""
 	keyWait
 		any = false
@@ -980,7 +987,7 @@ script 35 mmbn5 {
 	msgOpen
 	"""
 	TomahawkMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -993,7 +1000,7 @@ script 35 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1002,7 +1009,7 @@ script 35 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -1019,14 +1026,14 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Roger that!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Higsby! I'm
-	sorry,but I'm
-	jacking out now.
+	Lan! Higsby!
+	Desculpa, mas eu
+	vou desconectar.
 	"""
 	keyWait
 		any = false
@@ -1038,7 +1045,7 @@ script 37 mmbn5 {
 	msgOpen
 	"""
 	KnightMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -1051,7 +1058,7 @@ script 37 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1060,7 +1067,7 @@ script 37 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -1077,13 +1084,13 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"All right."
+	"Pois bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I'm
-	jacking out now.
+	Lan, irei
+	desconectar agora.
 	"""
 	keyWait
 		any = false
@@ -1095,7 +1102,7 @@ script 39 mmbn5 {
 	msgOpen
 	"""
 	ToadMan,
-	jack out?
+	desconectar?
 	
 	"""
 	positionOptionHorizontal
@@ -1108,7 +1115,7 @@ script 39 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1117,7 +1124,7 @@ script 39 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -1134,13 +1141,14 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan! Baryl! I'm
-	jacking out now.
+	Lan! Baryl!
+	Eu vou desconectar,
+	viu?
 	"""
 	keyWait
 		any = false
@@ -1158,9 +1166,9 @@ script 42 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't leave,Lan!
-	We still have to
-	beat Nebula's Navis!
+	Não vai embora, Lan!
+	Ainda temos que vencer
+	os Navis da Nebula!
 	"""
 	keyWait
 		any = false
@@ -1173,8 +1181,8 @@ script 43 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's find
-	Gow!
+	Lan!
+	Bora achar o Gáu!
 	"""
 	keyWait
 		any = false

@@ -9,56 +9,53 @@ script 0 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Welcome!
-	This is the
-	GargCastleHP!
+	Bem-vindos!
+	Esta é a página
+	do Castelo Shachi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm the webmaster,
-	Jagi.
+	E eu sou o webmaster
+	dela, o Jagi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the Official
-	Battle Bulletin
-	Board.
+	Este é o Fórum
+	Oficial de Lutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The world is running
-	scared from the
-	threat of Nebula.
+	O mundo está
+	morrendo de medo
+	da ameaça da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use this BBS to
-	learn new busting
-	techniques⋯
+	Usem este fórum para
+	aprender novas técnicas
+	de deleção,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so that you will be
-	able to defend
-	yourself.
+	para, assim, poderem
+	se defender dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looking forward to
-	reading your
-	messages!
+	Estou ansioso para ler
+	as mensagens de vocês!
 	"""
 	keyWait
 		any = false
@@ -73,25 +70,24 @@ script 1 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Oh,wow! An Official
-	Battle Bulletin
-	Board!
+	Caramba! Um Fórum
+	Oficial de Lutas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to talk
-	to all the awesome
-	NetBattlers!
+	Mal posso esperar pra
+	falar com os NetLutadores
+	incríveis daqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just know this is
-	going to be
-	a great BBS!
+	Tenho certeza de
+	que este fórum
+	vai ser demais!
 	"""
 	keyWait
 		any = false
@@ -106,57 +102,57 @@ script 2 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Some chips are
-	linked to your Cust
-	Gauge.
+	Certos chips estão
+	ligados à Barra de
+	Customização.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take the Cust
-	Swrd. The higher
-	your Cust Gauge⋯
+	Por exemplo, a CustSwrd.
+	Quanto maior a sua
+	Barra de Customização,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The more powerful
-	the attack but the
-	timing is difficult.
+	mais forte o ataque da
+	espada. Mas é difícil
+	acertar o tempo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can use the
-	SloGauge to slow
-	the gauge⋯
+	Você pode usar
+	um SloGauge pra
+	desacelerar a barra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then it's easier to
-	hit with a more
-	powerful attack.
+	Assim, fica mais
+	fácil acertar um
+	corte bem dado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chips with the
-	"Cust" designation
-	are inseparably⋯
+	Chips com "Cust"
+	no nome estão
+	inseparavelmente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	linked to the Cust
-	Gauge. Use it to
-	your advantage!
+	ligados à Barra de
+	Customização. Use isso
+	em vantagem própria!
 	"""
 	keyWait
 		any = false
@@ -171,71 +167,71 @@ script 3 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	The CustSwrd? That's
-	a mighty sword you
-	have,brave one.
+	A CustSwrd? Que espada
+	poderosa você tem aí,
+	bravo guerreiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it won't stand
-	up to my VarSwrd.
+	Mas ela não é párea
+	para a minha VarSwrd.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The VarSwrd changes
-	attacks based on
-	command inputs.
+	O ataque da VarSwrd
+	muda dependendo dos
+	botões que você aperta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can adjust my
-	attacks for any
-	situation.
+	Eu posso ajustar os
+	meus ataques para
+	qualquer situação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you are wise,you
-	will listen to my
-	teachings.
+	Quem aí for sábio
+	dará ouvidos aos
+	meus ensinamentos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold A Button. Down/
-	Down-Right/Right for
-	LongSwrd. Up/Right/
+	Segure "A". Baixo/
+	Baixo-Direita/Direita
+	para LongSwrd.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Down for WideSwrd.
-	Left/Down/Right for
-	FtrSword.
+	Cima/Direita/Baixo pra
+	WideSwrd. Esquerda/Baixo/
+	Direita pra FtrSword.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No samurai mastered
-	his art in a day.
+	Nenhum samurai domina
+	sua arte em um só dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Train yourself at
-	your own pace for
-	the other commands.
+	Treinem com afinco
+	no seu próprio ritmo
+	para aprender mais.
 	"""
 	keyWait
 		any = false
@@ -250,63 +246,62 @@ script 4 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hello! It's your
-	favorite battle
-	master,Goetsu!
+	Fala, gente! Aqui fala
+	o seu mestre de lutas
+	favorito, o Goetsu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today we'll learn
-	combos using the
-	RockCube.
+	Hoje, vamos aprender
+	combinações envolvendo
+	o RockCube.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a cinch. Put
-	the cube near
-	enemy territory⋯
+	É moleza. Plante um
+	cubo no território
+	inimigo ou perto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And fire a Pulsar
-	at it!
+	e atire um Pulsar nele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When the Pulsar hits
-	the cube⋯
+	Quando o Pulsar
+	atingir o cubo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Supersonic waves
-	emit from the cube
-	for an area attack.
+	ondas supersônicas
+	serão emitidas do cubo
+	e atacarão a área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And its stun effect
-	will allow for
-	repeat attacks!
+	E seu efeito atordoador
+	permite que você ataque
+	várias vezes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are also other
-	chips with special
-	effects like Pulsar.
+	E, sim, existem outros
+	chips com efeitos especi-
+	ais, como o do Pulsar.
 	"""
 	keyWait
 		any = false
@@ -321,77 +316,77 @@ script 5 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Wow,are you really
-	Koetsu,the "Cyber
-	Sage"?
+	Caramba! Você é mesmo
+	Koetsu, o "Cyber Sábio"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It figures you'd be
-	here on the Official
-	Battle BBS!
+	Acho que era de se
+	esperar que aparecesse
+	no Fórum Oficial de Luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I feel very
-	fortunate! Could I
-	ask a question?
+	Bom, sorte a minha!
+	Posso te fazer uma
+	pergunta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can I defeat
-	the Ninja Viruses?
+	Como eu faço pra
+	derrotar aqueles
+	vírus ninja?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're always
-	infecting my web
-	page⋯
+	Eles tão sempre
+	infectando a minha
+	página...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll glare at me,
-	then launch a
-	throwing blade!
+	Os pilantrinhas ficam
+	me encarando, aí lançam
+	uma coisa afiada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I attack back,
-	they disappear
-	before I can hit!
+	E, quando eu vou dar o
+	troco, eles desaparecem
+	antes do ataque acertar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They've got people
-	so scared there's no
-	traffic to my site!
+	Eles assustaram tanto o
+	pessoal que ninguém tá
+	visitando a minha página!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What can I do to
-	delete them?
+	Como eu faço pra
+	deletar eles?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please help me,
+	Por favor, me ajuda,
 	Koetsu!
 	"""
 	keyWait
@@ -407,80 +402,79 @@ script 6 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hello! Koetsu here,
-	on the Official
-	Battle BBS!
+	Fala, gente! Koetsu
+	na área, no Fórum
+	Oficial de Luta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Goro,don't be
-	fooled! That message
-	wasn't me!
+	Goro, não se deixe
+	enganar! Aquela
+	mensagem não foi minha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take another look.
-	It says "Goetsu"!
-	So,allow me⋯
+	Lê ela de novo.
+	O nick do cara era
+	"Goetsu"! Enfim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To give the real
-	answer in this
-	message.
+	Permita-me dar uma
+	resposta genuína
+	a essa mensagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Ninja Viruses
-	are called Genin.
+	Os vírus ninja
+	se chamam Genin.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can only hit
-	these guys at just
-	the right moment.
+	Só dá pra acertar
+	esses carinhas na
+	hora certa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right after Genin
-	attacks,there's a
-	chance to hit!
+	Logo depois que o
+	Genin ataca, ele fica
+	aberto pra um ataque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stay calm,and time
-	it just right to do
-	damage!
+	Fica calmo e lance o
+	seu golpe na hora certa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For those of you
-	with advanced
-	skills⋯
+	Já vocês que têm
+	habilidades mais
+	avançadas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can slice with a
-	sword the moment a
-	Genin shows up!
+	devem conseguir cortar
+	ele com uma espada
+	assim que ele vir!
 	"""
 	keyWait
 		any = false
@@ -496,38 +490,37 @@ script 7 mmbn5 {
 		top = 108
 	"""
 	Koetsu? Goetsu?
-	Who's the real one!?
+	Quem é o verdadeiro?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At any rate,you
-	both know some
-	awesome techniques!
+	Enfim, vocês dois
+	conhecem umas
+	técnicas iradas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,do you know how
-	to use the RedFrut
-	chip correctly?
+	Ah, sabem como se
+	faz pra usar o chip
+	RedFrut direito?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I use it,an
-	apple just pops out
-	onto the field!
+	Sempre que eu uso, uma
+	maçã cai no campo, e...
+	é isso, mais nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What good does a
-	chip like that do?
+	Pra que esse chip serve?
 	"""
 	keyWait
 		any = false
@@ -542,56 +535,55 @@ script 8 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	You little tykes
-	don't even know how
-	to use RedFrut?
+	Vocês não sabem usar
+	o RedFrut? Ah, essas
+	crianças...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just activating it
-	is not enough.
+	Só usar o chip não
+	é o bastante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know that
-	number inside
-	the apple?
+	Sabe o número que
+	aparece dentro da maçã?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The number decreases
-	each time the apple
-	moves.
+	Esse número diminui
+	a cada "casa" que a
+	maçã avança.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Each version of
-	RedFrut has
-	a different effect.
+	Cada versão do chip
+	RedFrut tem um
+	efeito diferente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Break RedFrut before
-	the number reaches
-	zero to activate it.
+	Quebre a RedFrut antes
+	do número chegar a
+	zero pra ativar ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't care for
-	apples,but I'd have
-	RedFrut any day!
+	Eu não gosto de maçã,
+	mas incluiria a RedFrut
+	no meu café da manhã!
 	"""
 	keyWait
 		any = false
@@ -606,63 +598,62 @@ script 9 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	A recent study
-	revealed that⋯
+	Uma pesquisa
+	recente revelou
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	viruses often have
-	preferences for
-	locations.
+	que muitos vírus têm
+	preferências quanto às
+	suas localizações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For example,\[Aqua\]
-	viruses are more
-	likely to appear⋯
+	Por exemplo: vírus de
+	\[Água\] têm mais chances
+	de aparecer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in locations that
-	are related to
-	water.
+	em áreas relacionadas
+	à... bem, à água.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By keeping this fact
-	in mind,
+	Se mantiverem
+	isso em mente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you can be ready to
-	take on the local
-	viruses⋯
+	poderão se preparar
+	para encarar os
+	vírus do local,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by filling your
-	folder with chips
-	according to area.
+	enchendo suas pastas
+	com os chips certos,
+	dependendo da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to be ready
-	to fight more than
-	Nebula. Good luck!
+	Vocês têm que estar
+	prontos pra encarar
+	mais que só a Nebula!
 	"""
 	keyWait
 		any = false
@@ -677,51 +668,48 @@ script 10 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I wanted to keep
-	this a secret⋯
+	Eu ia guardar segredo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But no longer! The
-	forces of justice
-	need my help!
+	mas chega! As forças
+	da justiça precisam
+	da minha ajuda!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now,listen up⋯"
+	"Escutem bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AreaGrab can damage
-	enemies!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And furthermore,
-	you can attack with
-	PanlGrab!
+	O AreaGrab pode causar
+	dano nos inimigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow! Are those some
-	incredible tips,
-	or what!?
+	Aliás, também é
+	possível atacar com
+	o PanlGrab!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't bother to
-	thank me! It's for
-	the good of all!
+	Diz aí! Essas dicas são
+	incríveis ou não são?!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Nem precisam agradecer!
+	Tudo pela paz mundial!
 	"""
 	keyWait
 		any = false
@@ -736,8 +724,8 @@ script 11 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Uh,we already
-	knew that.
+	Er, a gente já
+	sabia disso.
 	"""
 	keyWait
 		any = false
@@ -752,46 +740,45 @@ script 12 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	This is Jagi,the
-	webmaster.
+	Aqui é Jagi,
+	o webmaster.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Official Battle
-	BBS is a free zone
-	for your ideas.
+	O Fórum Oficial de
+	Luta é uma área livre
+	para as suas ideias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,please
-	refrain from flaming
+	Por favor, abstenham-se
+	de provocar os outros
+	usuários
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and posting silly
-	messages.
+	e postar mensagens
+	"engraçacinhas".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And always be sure
-	to include
-	your name.
+	E lembrem-se sempre
+	de incluir seus nomes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In other words,post
-	with the proper
-	netiquette.
+	Ou seja, postem com a
+	"netiqueta" adequada.
 	"""
 	keyWait
 		any = false
@@ -806,41 +793,41 @@ script 13 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	My Dad always uses
-	DrilArm to dig
-	holes.
+	O meu pai sempre
+	usa DrilArm pra
+	cavar buracos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He said when he
-	first uses AreaGrab
-	to expand the area,
+	Ele diz que, primeiro,
+	ele usa AreaGrab pra
+	expandir a área dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then uses DrilArm
-	that he gets more
-	hits in than normal.
+	e depois usa DrilArm,
+	porque acerta mais
+	vezes que o normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now he always uses
-	AreaGrab before
-	DrilArm.
+	Então, é: ele sempre
+	usa AreaGrab antes
+	do DrilArm.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There might be other
-	chip combos that
-	yield extra hits.
+	Devem ter outras
+	combinações assim que
+	conferem mais acertos.
 	"""
 	keyWait
 		any = false
@@ -854,72 +841,72 @@ script 14 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"Hello! Goetsu here."
+	"Fala! Goetsu na área."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's talk about a
-	chip with a very
-	unusual effect.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It's called ElcReel,
-	an \[Elec\] chip with
-	a neat feature.
+	Vamos falar sobre
+	um chip com um efeito
+	bem incomum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't work very
-	well on single
-	enemies.
+	Se chama ElcReel, um
+	chip \[Elét\] com um
+	poder bem interessante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,when fired at
-	crowds of foes⋯
+	Ele não tem um efeito
+	lá tão forte em
+	inimigos isolados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ElcReel hits an
-	enemy and
-	electricity flows⋯
+	Mas, quando disparado
+	em grupos de inimigos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to enemies on
-	surrounding panels,
-	damaging them all!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Isn't that amazing?"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The key to becoming
-	a master NetBattler
+	o ElcReel atinge
+	um alvo com uma
+	corrente contínua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is knowing the
-	characteristics of
-	your chips!
+	que afeta os quadros
+	ao redor, danificando
+	todos os alvos!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Incrível, não é?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A chave para se tornar
+	um mestre NetLutador
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	é conhecer as
+	características
+	dos seus chips!
 	"""
 	keyWait
 		any = false
@@ -934,46 +921,46 @@ script 15 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	My name is Nisshi,
-	and this is my
-	first post.
+	O meu nome é Nisshi,
+	e esta é a minha
+	primeira postagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I read on another
-	BBS that "Elements
-	are everything,"
+	Eu li em outro fórum
+	que "Elementos são tudo",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I wonder if there
-	isn't a combo that⋯
+	então, tava aqui me
+	perguntando se existe
+	alguma combinação que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	makes use of Element
-	panels.
+	se utilize de quadros
+	de Elemento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't figure
-	out any good chip
-	combos myself.
+	Eu não consegui pensar
+	em nenhuma que preste
+	sozinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Could anybody give
-	me any advice?
+	Alguém aí pode me
+	dar uns toques?
 	"""
 	keyWait
 		any = false
@@ -987,69 +974,68 @@ script 16 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"Hello! Koetsu here."
+	"Fala! Koetsu na área."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nisshi,I encourage
-	you to continue
-	developing combos.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	That is one way to
-	improve your skill
-	as a NetBattler.
+	Nisshi, eu te apoio muito
+	a continuar tentando
+	desenvolver combinações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,about a combo
-	that makes use of
-	Element panels⋯
+	É uma das formas que a
+	gente usa pra crescer
+	como NetLutador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I recommend the
-	WavePit chips!
+	Enfim, uma combinação
+	que use quadros
+	de Elemento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's WavePit and
-	RedWave. The first
-	comes up on
+	Eu recomendo os
+	chips WavePit!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AquaPanels,the
-	second comes up
-	on LavaPanels.
+	Tem o WavePit e o
+	RedWave. O primeiro
+	usa Quadros de Água,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,that should
-	get you started. Now
-	you need to think⋯
+	e o outro usa
+	Quadros de Lava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What chips would
-	work well with
-	WavePit chips?
+	Bom, tente aprender o
+	resto a partir daí.
+	É só se perguntar:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	"Quais chips ajudariam
+	o WavePit a funcionar
+	melhor?"
 	"""
 	keyWait
 		any = false
@@ -1063,60 +1049,61 @@ script 17 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"Hello! Goetsu here."
+	"Fala! Goetsu na área."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I figured out what
-	direction you were
-	leading Nisshi in.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Koetsu,you're just
-	like a nice big
-	brother!
+	Eu entendi a direção
+	à qual você quer levar
+	o Nisshi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've always looked
-	up to your busting
-	technique.
+	Você é tipo um irmão
+	mais velho bonzinho,
+	né, Koetsu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't think
-	I'll ever be able to
-	compare to you.
+	Eu sempre admirei
+	as suas técnicas
+	de deleção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'll study up
-	and do my best!
+	Mas acho que nunca
+	vou conseguir me
+	comparar a você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nisshi,my clue for
-	you is "seeds."
+	Mesmo assim, eu vou
+	continuar estudando e
+	dando o melhor de mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,hurry up and
-	complete your
-	new combo!
+	Nisshi, a minha
+	dica para você
+	é "sementes".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Agora complete logo essa
+	sua nova combinação!
 	"""
 	keyWait
 		any = false
@@ -1131,22 +1118,23 @@ script 18 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	When the Shakey
-	virus rolls at me⋯
+	Quando o vírus Shakey
+	rola na minha direção...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a hard time
-	dodging it.
+	eu quase nunca
+	consigo desviar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can anybody tell me
-	how to defeat it?
+	Alguém pode me
+	contar como faz
+	pra vencer ele?
 	"""
 	keyWait
 		any = false
@@ -1161,40 +1149,40 @@ script 19 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Maechan,I feel for
-	you!
+	Maechan, eu entendo
+	a sua dor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shakey gave me a lot
-	of trouble,too,
-	until one day⋯
+	O Shakey também me
+	deu muito trabalho,
+	até que, um dia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I found Slasher,the
-	perfect anti-Shakey
-	chip!
+	eu descobri o Slasher,
+	o chip anti-Shakey
+	mais perfeito que há!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Slasher is also
-	great against other
-	viruses⋯that invade
+	O Slasher também é
+	ótimo contra outros
+	vírus que invadem o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your territory like
-	Shakey!
-	Give it a try.
+	seu território,
+	que nem o Shakey.
+	Experimente!
 	"""
 	keyWait
 		any = false
@@ -1209,31 +1197,30 @@ script 20 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Are you serious,
-	Zono? DarkChips?
+	Sério isso, Zono?
+	Chips das Trevas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They really reduce
-	your Max HP?
+	Eles reduzem mesmo
+	os seus PV máximos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'd be terrible
-	for a NetBattler in
-	the long run!
+	Isso só prejudicaria o
+	NetLutador, com o tempo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You could really
-	regret it if you get
-	into DarkChips!
+	Começar a usar Chips
+	das Trevas é roubada
+	mesmo, claramente!
 	"""
 	keyWait
 		any = false
@@ -1248,17 +1235,16 @@ script 21 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	The Eagle and
-	Hawk tournaments
-	are over!
+	Acabaram os Torneios
+	Águia e Falcão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A grade school kid
-	won one of them!
-	That's incredible!
+	E quem ganhou um deles
+	foi um menino de 10 anos!
+	Incrível!
 	"""
 	keyWait
 		any = false
@@ -1273,25 +1259,25 @@ script 22 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Saki,you wanna know
-	who that grade
-	schooler is? Lan!
+	Saki, sabe quem
+	é esse menino aí?
+	Lan Hikari!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The best battler in
-	ACDC Town and in
-	all of Electopia!
+	O melhor NetLutador
+	de ACDC... e de toda
+	a Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you wanna know
-	who his arch-rival
-	is? Me! Dex!
+	E sabe quem é o
+	arqui-rival dele?
+	Aham! Eu! Dex Oyama!
 	"""
 	keyWait
 		any = false
@@ -1306,33 +1292,32 @@ script 23 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Tee hee! The same
-	Dex who lost in the
-	Den Battle
+	Hi hi! O mesmo Dex
+	que perdeu no Torneio
+	de Batalha Den, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tournament,right?
-	But I shouldn't be
-	talking,though⋯
+	Mas acho que eu
+	não posso falar nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lost the Eagle
-	Tournament. Back to
-	the drawing board!
+	Eu perdi no Torneio
+	Águia. Bom, de volta
+	ao treino, né?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's amazing that
-	Lan could overcome
-	those odds.
+	É incrível o Lan ter
+	conseguido superar
+	todos os desafios.
 	"""
 	keyWait
 		any = false
@@ -1347,45 +1332,45 @@ script 24 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Heh heh! I found the
-	commands for the
-	VarSwrd chip!
+	He he! Eu descobri
+	os comandos pro chip
+	VarSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,don't you go
-	posting this on
-	every BBS you know!
+	Só prometam que não
+	vão sair postando eles
+	em tudo quanto é fórum!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you ready?"
+	"Prontos?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold A Button. Down/
-	Down-Right/Right for
-	LongSwrd. Up/Right/
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Down for WideSwrd.
-	Left/Down/Right for
-	FtrSword,then⋯
+	Segure A. Baixo/Baixo-
+	Direita/Direita pra
+	LongSwrd. Cima/Direita/
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er,sorry,I can't
-	give it all away!
-	Try it for yourself!
+	Baixo pra WideSwrd.
+	Esquerda/Baixo/Direita
+	pra FtrSword, e...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Er, não, não posso
+	entregar TUDO de mão
+	beijada! Vão tentando!
 	"""
 	keyWait
 		any = false
@@ -1400,9 +1385,9 @@ script 25 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I got wasted by a
-	cloud virus! How
-	can I beat it?
+	Eu fui dizimado por um
+	vírus nuvem! Como faço
+	pra vencer ele?!
 	"""
 	keyWait
 		any = false
@@ -1417,23 +1402,23 @@ script 26 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	You must mean Spidy.
-	He can be a toughie.
+	Esse aí deve ser o
+	Spidy. Ele dá trabalho,
+	mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But he's a cinch to
-	beat if you use
-	Slasher!
+	Mas fica moleza quando
+	você usa o Slasher!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can buy Slasher
-	chips in Netopia.
+	Dá pra comprar chips
+	Slasher na Ameropa.
 	"""
 	keyWait
 		any = false
@@ -1448,24 +1433,22 @@ script 27 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	In a Network Duel
-	that I fought,on
-	the results screen,
+	Em um Duelo de Rede
+	que eu fiz, na tela
+	de resultados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got a chip that my
-	opponent didn't even
-	have.
+	eu recebi um chip que o
+	meu oponente nem tinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what that
-	was all about?
+	O que será que rolou ali?
 	"""
 	keyWait
 		any = false
@@ -1480,41 +1463,40 @@ script 28 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hello! Koetsu here!
-	You must have gotten
-	a bonus chip!
+	Fala! Koetsu na área!
+	Você deve ter recebido
+	um chip bônus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's rare,but the
-	victor of a network
-	battle can receive
+	É raro, mas o vencedor
+	de um Duelo de Rede
+	pode receber um chip
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a chip that neither
-	of the players even
-	have!
+	que nenhum dos
+	dois jogadores têm!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you fight enough
-	duels,you'll fill
-	your Data Library!
+	Se lutar bastante,
+	logo logo você enche
+	a sua Coleção!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you can only get
-	standard chips. No
-	Mega or GigaChips.
+	Mas só chips normais
+	aparecem. Nenhum
+	MegaChip ou GigaChip.
 	"""
 	keyWait
 		any = false

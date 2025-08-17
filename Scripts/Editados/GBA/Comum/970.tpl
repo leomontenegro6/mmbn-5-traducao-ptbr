@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mom,I'm home."
+	"Mãe! Cheguei."
 	keyWait
 		any = false
 	clearMsg
@@ -15,14 +15,14 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Welcome back,Lan."
+	"Bem-vindo de volta,\nfilho."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I found something
-	while clearing out
-	Gramps desk.
+	Eu achei uma coisa
+	enquanto limpava a
+	mesa do seu avô.
 	"""
 	keyWait
 		any = false
@@ -34,7 +34,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -46,9 +46,9 @@ script 3 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I'm not sure
-	but I thought
-	you might know.
+	Não sei ao certo,
+	mas achei que, talvez,
+	você soubesse.
 	"""
 	keyWait
 		any = false
@@ -65,8 +65,8 @@ script 4 mmbn5 {
 		timer = 0
 		value = 1
 	"""
-	Lan got a:
-	"DataDisk"!!!
+	Lan recebeu:
+	"Disco de Dados"!!!
 	"""
 	keyWait
 		any = false
@@ -80,9 +80,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wonder what it
-	contains⋯ MegaMan,
-	analyze it please!
+	O que será que tem
+	nele...? MegaMan,
+	analisa, por favor!
 	"""
 	keyWait
 		any = false
@@ -95,18 +95,26 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It contains
-	TextData
-	that reads:
+	... Ele tem outro
+	arquivo de texto.
+	Tá escrito:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Net,SciLab,3,\n center,straight\n 27,turn and go 4."
+	"""
+	"Rede, SciLab, 3,
+	centro, reto 27,
+	daí siga 4.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Turn again,go 4 and\n then check⋯ Hikari\n data,reaction⋯\""
+	"""
+	Vire de novo, siga 4
+	e, aí, confira...
+	Dados Hikari, reação..."
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -117,13 +125,12 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A memo from Gramps⋯"
+	"Uma mensagem do vovô..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Might come in
-	handy.
+	Aposto que é importante.
 	"""
 	keyWait
 		any = false
@@ -135,7 +142,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"⋯⋯Lan."
+	"...... Lan."
 	keyWait
 		any = false
 	end
@@ -147,7 +154,7 @@ script 9 mmbn5 {
 	storeTimer
 		timer = 3
 		value = 1
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -158,7 +165,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Lan⋯You're gonna go⋯"
+	"Lan... Você vai...?"
 	keyWait
 		any = false
 	clearMsg
@@ -170,14 +177,14 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Yeah.
-	⋯We set off
-	tomorrow morning.
+	... Vou, sim.
+	... A gente sai amanhã
+	de manhã, cedinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯How did you know?"
+	"... Como você sabia?"
 	keyWait
 		any = false
 	clearMsg
@@ -189,16 +196,15 @@ script 12 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	After raising you
-	for 10 years,I could
-	just tell.
+	Depois desses dez
+	anos te criando, eu
+	simplesmente soube.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're face gave
-	it away.
+	O seu rosto entregou.
 	"""
 	keyWait
 		any = false
@@ -211,15 +217,16 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't worry,
-	Mom.
+	... Não se preocupa,
+	mãe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna bring Dad
-	back no matter what⋯
+	Vou trazer o papai
+	de volta, custe o
+	que custar...
 	"""
 	keyWait
 		any = false
@@ -231,7 +238,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"⋯OK."
+	"... Certo."
 	keyWait
 		any = false
 	clearMsg
@@ -243,9 +250,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Well,I'm gonna go
-	check out the info
-	on this DataDisk.
+	... Bom, eu vou dar
+	uma investigada nas
+	informações deste disco.
 	"""
 	keyWait
 		any = false
@@ -256,9 +263,9 @@ script 16 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	⋯Gramps,
-	please watch over
-	Lan and Hub⋯
+	... Sr. Tadashi,
+	por favor, cuide do
+	Lan e do Hub...
 	"""
 	keyWait
 		any = false

@@ -72,31 +72,30 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HELLO,MEGAMAN."
+	"OLÁ, MEGAMAN."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU WANNA LINK
-	THIS WEB PAGE WITH
-	LAN'S?
+	GOSTARIA DE LINKAR
+	ESTA PÁGINA À DO LAN?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN YOU COULD COME
-	AND GO DIRECTLY
-	BETWEEN HIS
+	DAÍ, VOCÊ PODERÁ
+	TRANSITAR LIVREMENTE
+	ENTRE ESTA PÁGINA
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PAGE AND DEX'S!"
+	"E A DO DEX!"
 	keyWait
 		any = false
 	clearMsg
-	"SHALL I LINK THEM?"
+	"POSSO CRIAR O LINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -111,7 +110,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -120,7 +119,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -134,7 +133,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -144,16 +143,16 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'LL REALLY LINK
-	PAGES WITH US?!
+	VAI MESMO LINKAR
+	A SUA PÁGINA COM
+	A NOSSA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE,TAKE THIS.
-	USE THIS BANNER
-	TO COME HERE.
+	TOME. USE ESSE BANNER
+	PARA VIR PARA CÁ.
 	"""
 	keyWait
 		any = false
@@ -165,7 +164,7 @@ script 4 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -180,13 +179,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK,I'LL
-	PLACE A LINK!
+	CERTO, VOU INSTALAR
+	O LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HEAVE-HO!!!"
+	"RÂÂÂÂÂP!!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -208,17 +207,17 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE WEB PAGE
-	OF DEX,#1 NETBATTLER
-	IN ACDC TOWN.
+	ESTA É A PÁGINA DO DEX,
+	O MELHOR NETLUTADOR DE
+	ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S CHOCK
-	FULL OF BATTLE
-	INFORMATION.
+	ELA É CHEIA DE
+	INFORMAÇÕES DE
+	NETLUTA.
 	"""
 	keyWait
 		any = false
@@ -229,16 +228,14 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DEX IS ALSO
-	PRETTY GOOD
-	AT CHESS.
+	O DEX TAMBÉM MANDA
+	MUITO BEM NO SHOGI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW ABOUT A
-	GAME OR TWO?
+	E AÍ, VAI UMA PARTIDA?
 	"""
 	keyWait
 		any = false
@@ -254,16 +251,16 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT THERE IS THE
-	BATTLE BBS,THE CROWN
-	JEWEL OF THIS SITE.
+	AQUELE É O FÓRUM DE
+	LUTA, O TESOURO
+	MÁXIMO DESTA PÁGINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WON'T FAIL TO
-	MOVE YOU TO TEARS!
+	VAI TE REDUZIR A
+	LÁGRIMAS, CERTEZA!
 	"""
 	keyWait
 		any = false
@@ -274,9 +271,9 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS⋯⋯WEB⋯GE
-	OF D⋯⋯NE⋯⋯
-	IN ⋯DC⋯⋯N.
+	ESTA.... P... NA...
+	DO D... NETL...
+	DE... DC...
 	"""
 	keyWait
 		any = false
@@ -284,9 +281,9 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -297,9 +294,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	D⋯⋯AL⋯
-	⋯TY⋯D
-	AT⋯S.
+	O D... QU...
+	... HO...
+	PAR... A.
 	"""
 	keyWait
 		any = false
@@ -307,9 +304,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -320,9 +317,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT⋯IS⋯
-	BA⋯BB⋯THE⋯N
-	JE⋯OF⋯⋯S⋯
+	AQUELE... É...
+	FÓ... LU... O T...
+	MÁ... DES... ... NA...
 	"""
 	keyWait
 		any = false
@@ -330,9 +327,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -343,16 +340,17 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T STAND ANYONE
-	STRONGER THAN MY
-	MASTER DEX.
+	EU NÃO SUPORTO NINGUÉM
+	QUE SEJA MAIS FORTE
+	QUE O SENHOR DEX!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL SMASH THEM BY
-	ANY MEANS POSSIBLE!
+	VOU DESTROÇAR ESSAS
+	PESSOAS! ATÉ JOGAR
+	SUJO PRA ISSO!
 	"""
 	keyWait
 		any = false
@@ -363,21 +361,20 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO YOU THINK DEX
-	WOULD BE MAD IF I
-	SCRIBBLED ALL OVER
+	SERÁ QUE O DEX
+	FICARIA ZANGADO SE EU
+	RABISCASSE EM CIMA DA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HIS PICTURE ON
-	THE FLOOR?
+	FOTO DELE NO CHÃO?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HEH HEH HEH HEH⋯"
+	"HE HE HE HE..."
 	keyWait
 		any = false
 	end
@@ -387,15 +384,15 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHO NEEDS A
-	BBS,ANYWAY!
+	QUEM PRECISA DESSE
+	FÓRUM IDIOTA?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE SHOULD SMASH
-	IT TO BITS!
+	A GENTE DEVIA ERA
+	TRITURAR ELE!
 	"""
 	keyWait
 		any = false
@@ -406,16 +403,17 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UUUHHH⋯
-	W-WELCOME TO DEX'S
-	WEB PAGE⋯
+	UUUUNGH...
+	B-BEM VINDO À PÁGINA
+	DO DEX...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OHHH⋯ I STILL HAVE A
-	SPLITTING HEADACHE.
+	AAAI... AINDA TÔ COM
+	UMA DOR DE CABEÇA
+	DAQUELAS.
 	"""
 	keyWait
 		any = false
@@ -426,8 +424,8 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THAT WAS ONE HECK
-	OF A DISTURBANCE.
+	AQUELA FOI UMA
+	INVASÃO DAS GRANDES.
 	"""
 	keyWait
 		any = false
@@ -438,17 +436,17 @@ script 17 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I TRIED TO SMASH UP
-	THE BBS I'M SUPPOSED
-	TO PROTECT.
+	EU TENTEI TRITURAR O
+	FÓRUM QUE SOU RESPON-
+	SÁVEL POR PROTEGER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'D BE OUTTA WORK
-	TOMORROW IF I DID
-	THAT,WOULDN'T I?
+	EU SERIA DEMITIDO
+	RAPIDINHO SE FIZESSE
+	ISSO, NÉ?
 	"""
 	keyWait
 		any = false

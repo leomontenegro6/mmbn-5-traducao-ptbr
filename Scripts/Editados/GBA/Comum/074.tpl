@@ -38,8 +38,8 @@ script 26 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Fix the main
-	system!
+	Conserta o sistema
+	central!
 	"""
 	keyWait
 		any = false
@@ -50,9 +50,9 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Find
-	the Navi currently
-	attacking us!
+	MegaMan! Encontra o
+	Navi que tá atacando
+	a gente agora!
 	"""
 	keyWait
 		any = false
@@ -63,8 +63,8 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out. We'll
-	go on ahead.
+	Desconecta.
+	A gente vai na frente.
 	"""
 	keyWait
 		any = false
@@ -75,8 +75,8 @@ script 40 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nothing unusual
-	in the main system.
+	Nada de anormal
+	no sistema central.
 	"""
 	keyWait
 		any = false

@@ -54,8 +54,9 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to town!
-	What happened?
+	Vamos pro bairro!
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 		any = false
@@ -66,9 +67,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find the
-	server hidden in
-	ACDC Town!
+	Vamos achar o
+	servidor escondido
+	no Bairro ACDC!
 	"""
 	keyWait
 		any = false
@@ -81,7 +82,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's find Chaud!"
+	"Bora achar o Chaud!"
 	keyWait
 		any = false
 	end
@@ -90,7 +91,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's find Baryl!"
+	"Bora achar o Baryl!"
 	keyWait
 		any = false
 	end
@@ -100,9 +101,9 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go find
-	Nebula's hidden
-	microservers!
+	Vamos atrás dos
+	microsservidores
+	da Nebula!
 	"""
 	keyWait
 		any = false
@@ -113,8 +114,7 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	the Undernet!
+	Vamos lá pra Undernet!
 	"""
 	keyWait
 		any = false
@@ -130,8 +130,8 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Tomorrow's the day!
-	Let's go home!
+	É amanhã!
+	Vamos pra casa!
 	"""
 	keyWait
 		any = false
@@ -142,9 +142,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to bed
-	early and get ready
-	for tomorrow!
+	Vamos dormir cedo pra
+	ficarmos prontos pra
+	amanhã!
 	"""
 	keyWait
 		any = false
@@ -155,9 +155,9 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What's the data
-	in the disk
-	supposed to mean?
+	O que será que
+	significam os
+	dados no disco?
 	"""
 	keyWait
 		any = false
@@ -168,8 +168,8 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go through
-	the door in SciLab3!
+	Vamos passar pela
+	porta em SciLab 3!
 	"""
 	keyWait
 		any = false
@@ -185,9 +185,9 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go home
-	and rest up for
-	tomorrow,Lan!
+	Vamos pra casa
+	descansar pra
+	amanhã, Lan!
 	"""
 	keyWait
 		any = false
@@ -197,7 +197,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Want to sleep?"
+	"Vai dormir?"
 	keyWait
 		any = false
 	end
@@ -283,9 +283,9 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's about time
-	to leave! Go
-	say bye to Mom!
+	Já tá na hora da gente
+	ir!
+	Se despede da sua mãe!
 	"""
 	keyWait
 		any = false
@@ -296,8 +296,8 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The meeting place
-	is Higsby's,right?
+	O local de encontro é
+	na Loja do Higsby, né?
 	"""
 	keyWait
 		any = false
@@ -308,9 +308,9 @@ script 27 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back to
-	the Nebula's base
-	when you're ready!
+	Quando cê estiver
+	pronto, vamos voltar
+	pra base da Nebula!
 	"""
 	keyWait
 		any = false

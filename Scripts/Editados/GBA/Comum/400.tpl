@@ -14,13 +14,13 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Would you like to
-	have my SubChips?
+	Eu vendo SubChips nas
+	horas vagas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to take a look?\n"
+	"Gostaria de conferir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -31,7 +31,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -40,7 +40,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -56,7 +56,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"\"Be prepared and\n have no regrets.\""
+	"\"O seguro morreu de\n velho.\""
 	keyWait
 		any = false
 	end
@@ -66,8 +66,8 @@ script 2 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I just realized
-	I don't have any!
+	Acabo de perceber
+	que estou sem!
 	"""
 	keyWait
 		any = false
@@ -81,14 +81,14 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Oh man⋯"
+	"Rapaz..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What am I doing
-	selling SubChips in
-	a place like this?!
+	Por que eu resolvi
+	vender SubChips justo
+	num lugar destes?!
 	"""
 	keyWait
 		any = false
@@ -103,13 +103,13 @@ script 4 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Would you like to
-	have my SubChips?
+	Eu vendo SubChips nas
+	horas vagas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Want to take a look?\n"
+	"Gostaria de conferir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -120,7 +120,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -129,7 +129,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

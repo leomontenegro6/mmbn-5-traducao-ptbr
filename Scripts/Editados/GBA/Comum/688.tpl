@@ -28,16 +28,15 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HM? A NAVI
-	VISITING HERE?
-	HOW UNUSUAL.
+	HM? UM NAVI,
+	VISITANDO ESTE LUGAR?
+	QUE INCOMUM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ANOTHER CURIOUS
-	ONE,EH?
+	CÊ É CURIOSO, NÉ?
 	"""
 	keyWait
 		any = false
@@ -48,9 +47,9 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯A⋯VI
-	⋯TING⋯ERE
-	H⋯⋯⋯AL.
+	... UM... VI...
+	... TANDO... AR...
+	Q... MUM.
 	"""
 	keyWait
 		any = false
@@ -59,9 +58,9 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -72,22 +71,24 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T GET THAT
-	BUNCH WHO LEFT ORAN
-	ISLE OUT OF MY HEAD.
+	NÃO PARO DE PENSAR
+	NAQUELE POVO QUE
+	SAIU DA ILHA ORAN.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOESN'T IT JUST
-	FILL YOU UP WITH
-	HATE?!
+	ISSO NÃO TE ENCHE
+	DE ÓDIO TAMBÉM?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHY'D THEY LEAVE ME!"
+	"""
+	COMO ELES FORAM ME
+	DEIXAR PRA TRÁS?!
+	"""
 	keyWait
 		any = false
 	end
@@ -97,15 +98,16 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I GOT MAD THINKING
-	ABOUT THE PAST.
+	EU FIQUEI FURIOSO AO
+	PENSAR NO PASSADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY AM I THINKING
-	ABOUT THAT NOW?
+	MAS POR QUE EU
+	COMECEI A PENSAR
+	NAQUILO?
 	"""
 	keyWait
 		any = false

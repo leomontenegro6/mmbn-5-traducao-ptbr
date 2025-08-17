@@ -14,7 +14,7 @@ script 0 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -30,8 +30,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A door bars the way.
-	It won't open.
+	Uma porta barra o
+	caminho.
+	Não dá para abrir.
 	"""
 	keyWait
 		any = false
@@ -43,7 +44,7 @@ script 2 mmbn5 {
 		jumpIfTeamColonel = 3
 	msgOpen
 	"""
-	ProtoMan used:
+	ProtoMan usou:
 	"
 	"""
 	printItem
@@ -59,7 +60,7 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Colonel used:
+	Colonel usou:
 	"
 	"""
 	printItem

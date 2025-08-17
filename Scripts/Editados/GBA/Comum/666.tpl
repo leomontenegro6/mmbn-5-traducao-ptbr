@@ -9,9 +9,9 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a Navi charged
-	with the protection
-	of ArmrData.
+	Sou o Navi encarregado
+	de proteger os Dados
+	de Armadura.
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'd sure like your
-	ArmrData⋯
+	Er... Poderia dar
+	eles pra mim...?
 	"""
 	keyWait
 		any = false
@@ -28,40 +28,40 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	You want my
-	ArmrData?!
+	Você quer os meus
+	Dados de Armadura?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sure!"
+	"Ah, de boa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thing is,ArmrData
-	is meant to be used
-	by samurais.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If you're a samurai,
-	then the ArmrData is
-	yours!
+	Só que... os Dados
+	foram feitos para serem
+	usados por samurais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see you beat
-	this challenge!
+	Se você for um samurai,
+	eu te dou os Dados de
+	Armadura!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go!!!"
+	"""
+	Prove que é...
+	encarando este desafio!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Iá!!!"
 	keyWait
 		any = false
 	flagSet
@@ -75,8 +75,8 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Don't neglect your
-	training.
+	Não relaxe no seu
+	treinamento.
 	"""
 	keyWait
 		any = false
@@ -87,22 +87,22 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a Navi charged
-	with the protection
-	of ArmrData.
+	Sou o Navi encarregado
+	de proteger os Dados
+	de Armadura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My armor is guarded
-	by the samurai in
-	the next room over.
+	A armadura é mantida
+	pelo samurai na sala
+	ao lado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Take a good look."
+	"Por que não dá uma\nolhada?"
 	keyWait
 		any = false
 	end
@@ -116,22 +116,22 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Some kind of
-	incident is in
-	progress⋯
+	Tem algum tipo de
+	incidente em
+	andamento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The ArmrData was
-	removed to keep it
-	from the thief.
+	Os Dados de Armadura
+	foram removidos para
+	protegê-los do ladrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a relief."
+	"Ufa."
 	keyWait
 		any = false
 	end

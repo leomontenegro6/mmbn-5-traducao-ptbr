@@ -5,31 +5,31 @@ script 0 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This is the booster
-	system our company
-	has developed!
+	Este é o sistema
+	impulsionador que nossa
+	empresa desenvolveu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Surrounding it are
-	GuardNavis,
+	Cercando-o estão
+	Navis Guardas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reinforced with the
-	booster system!
+	reforçados pelo próprio
+	sistema impulsionador!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are 10 times
-	more powerful than
-	normal Navis!
+	Esses sentinelas são
+	10 vezes mais fortes
+	que Navis normais!
 	"""
 	keyWait
 		any = false
@@ -40,7 +40,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Ooooo!"
+	"Uaaaaau!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,9 +52,9 @@ script 2 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	And now you will all
-	witness the power of
-	the booster system!
+	E, agora, vocês irão
+	testemunhar o poder do
+	sistema impulsionador!
 	"""
 	keyWait
 		any = false
@@ -67,8 +67,8 @@ script 3 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	A-A power cut?!
-	What's going on?!
+	U-um blecaute?!
+	O que houve?!
 	"""
 	keyWait
 		any = false
@@ -80,11 +80,11 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"Gwarrr!"
+	"Ghaaarr!"
 	keyWait
 		any = false
 	clearMsg
-	"Uwarrr!"
+	"Uaaarrh!"
 	keyWait
 		any = false
 	clearMsg
@@ -95,20 +95,20 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"W-What's happening?!"
+	"O-o que está havendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is⋯ is the booster
-	system safe?!
+	O... o sistema
+	impulsionador está bem?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Turn the lights on!
-	Quickly!
+	Liguem as luzes!
+	Rápido!
 	"""
 	keyWait
 		any = false
@@ -119,8 +119,8 @@ script 6 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ah!!! It's gone!!!
-	The booster system!
+	Ah!!! Ele sumiu!!!
+	O sistema impulsionador!
 	"""
 	keyWait
 		any = false
@@ -132,7 +132,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What the⋯?!"
+	"Mas o quê que...?!"
 	keyWait
 		any = false
 	end

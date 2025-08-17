@@ -10,35 +10,35 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Mayl!"
+	"Oi, Mayl!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Something up,Lan?"
+	"Oi, Lan. Que foi?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Dad wants to show
-	everybody something
-	at SciLab. Let's go!
+	O papai quer mostrar
+	uma coisa pra gente
+	no SciLab. Vamos lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Sure!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I have to get
-	ready before I go.
+	Mas, antes, eu tenho
+	que me aprontar.
 	"""
 	keyWait
 		any = false
@@ -46,16 +46,16 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK,let's meet in 30
-	minutes in front of
-	Metroline Station!
+	Tá. A gente se encontra
+	em frente à Estação
+	Metrolinha em meia hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"OK,see you then!"
+	"OK, até lá!"
 	keyWait
 		any = false
 	end
@@ -65,13 +65,13 @@ script 1 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Metroline Station in
-	30 minutes,right?
+	Na Estação Metrolinha
+	em meia hora, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll be there!"
+	"A gente se vê lá!"
 	keyWait
 		any = false
 	end
@@ -81,9 +81,9 @@ script 10 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I hope they find
-	something out about
-	Lan's Dad soon.
+	Tomara que descubram
+	alguma coisa sobre o
+	seu pai logo...
 	"""
 	keyWait
 		any = false
@@ -99,16 +99,14 @@ script 30 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Let's see,what
-	should I bring to
-	the beach?
+	Tá: o que eu levo pra
+	praia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,you have to
-	hurry and get ready!
+	Lan, rápido, se apronta!
 	"""
 	keyWait
 		any = false
@@ -119,8 +117,8 @@ script 35 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	All set! Lan,are you
-	ready?
+	Tô pronta!
+	E você, Lan? Tá?
 	"""
 	keyWait
 		any = false

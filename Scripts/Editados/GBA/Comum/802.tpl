@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	The year was 19xx.
-	Cyber society was
-	almost completed.
+	Era o ano de 19XX.
+	A sociedade cibernética
+	estava quase concluída.
 	"""
 	keyWait
 		any = false
@@ -14,33 +14,35 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	We've done what we
-	can.
+	Fizemos todo o possível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now it's up to the
-	next generation to
-	finish the research,
+	Agora, cabe à
+	próxima geração
+	concluir a pesquisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yes?"
+	"Não é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our offspring will
-	certainly complete
-	what we've started.
+	Os nossos filhos, com
+	certeza, vão terminar
+	o que nós começamos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yes,let us hope so⋯"
+	"""
+	Sim.
+	Temos que ter fé nisso...
+	"""
 	keyWait
 		any = false
 	end

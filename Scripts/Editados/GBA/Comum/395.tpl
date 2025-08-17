@@ -5,23 +5,23 @@ script 0 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	What the heck?!
-	Queen Bohemia is
-	for me and me alone!
+	Ué?! O Rainha Boêmia
+	é só MEU!	
+	E de mais ninguém!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm heading
-	to NetFrica!
+	Estou de partida pra
+	Affriq!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on,get out!
-	Go on! Shoo!
+	Vamos, sai já daqui!
+	Vai! Xô!
 	"""
 	keyWait
 		any = false
@@ -32,16 +32,16 @@ script 1 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Don't waste time!
-	This is an around-
-	the-world cruise!
+	Cala a boca! Agora é
+	um cruzeiro ao redor
+	do mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just point this ship
-	towards Netopia!
+	Vira logo este navio
+	na direção da Ameropa!
 	"""
 	keyWait
 		any = false
@@ -52,31 +52,29 @@ script 2 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Grrr⋯
-	I'll make it dirty!
-	I'll make it dirty!
+	Grrr...
+	Eu vou sujar tudo!
+	Sujar tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll make it all
-	dirty!
+	SUJAR TUDO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	She's smearing
-	trash on the wall.
+	Ela está esfregando
+	lixo nas paredes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better to just
-	leave her alone.
+	É melhor não se meter.
 	"""
 	keyWait
 		any = false
@@ -87,15 +85,15 @@ script 10 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Why am I
-	here⋯?
+	O que eu tô fazendo
+	aqui...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I was
-	on the Deck!
+	Eu achava que eu tava
+	no convés!
 	"""
 	keyWait
 		any = false
@@ -106,15 +104,14 @@ script 11 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	What's
-	going on?
+	O que tá acontecendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a pounding
-	headache⋯
+	Argh, que dor de
+	cabeça do cão...
 	"""
 	keyWait
 		any = false
@@ -130,9 +127,9 @@ script 12 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Eeek! Why is this
-	wall so dirty?! I
-	just cleaned it!
+	Aaainn! Por que essa
+	parede tá tão suja?!
+	Eu ACABEI de limpar!
 	"""
 	keyWait
 		any = false
@@ -143,16 +140,15 @@ script 20 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Electopia is
-	dangerous lately.
+	Ni-Hon anda tão
+	perigosa ultimamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm thinking about
-	going back to
-	Netopia.
+	Estou pensando em voltar
+	para a Ameropa.
 	"""
 	keyWait
 		any = false
@@ -163,9 +159,9 @@ script 21 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I can't believe I
-	got caught in
-	Nebula's trap!
+	Eu não acredito que caí
+	naquela armadilha da
+	Nebula!
 	"""
 	keyWait
 		any = false
@@ -176,8 +172,9 @@ script 22 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	My head hurts⋯
-	I'd better go home.
+	Ai, que dor de cabeça...
+	Acho que eu vou pra
+	casa.
 	"""
 	keyWait
 		any = false
@@ -188,24 +185,24 @@ script 30 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The only crew on
-	board is the captain
-	and myself.
+	Os únicos membros da
+	tripulação presentes
+	são o capitão e eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're worried about
-	another incident.
+	Estamos preocupados com
+	outro incidente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So we told everyone
-	to just stay at
-	home for now.
+	então mandamos os
+	demais ficarem em
+	casa, por ora.
 	"""
 	keyWait
 		any = false

@@ -10,18 +10,18 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"""
-	What the?!
-	You found me
-	here,too?!
+	""" 
+	Ué?!
+	Cê me achou aqui 
+	também?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This really hurts
-	but a promise is a
-	promise. Here⋯
+	Me dói demais, mas
+	promessa é dívida.
+	Toma...
 	"""
 	keyWait
 		any = false
@@ -34,8 +34,8 @@ script 0 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -55,24 +55,24 @@ script 0 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I never thought
-	you'd be so good
-	at this.
+	Nunca achei que cê
+	seria tão bom nisso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll hire you as an
-	intern once I become
+	Acho que, depois que
+	eu virar um mestre no
+	esconde-esconde,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a hide&seek
-	master. Just gimme
-	a call!
+	vou te contratar pra
+	ser meu estagiário.
+	É só me ligar!!
 	"""
 	keyWait
 		any = false
@@ -83,21 +83,22 @@ script 1 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I'll hire you as an
-	intern once I become
+	Depois que eu
+	virar um mestre
+	no esconde-esconde,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a hide&seek
-	master. Just gimme
-	a call!
+	vou te contratar pra
+	ser meu estagiário.
+	É só me ligar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't forget!"
+	"Não esquece, hein!"
 	keyWait
 		any = false
 	end

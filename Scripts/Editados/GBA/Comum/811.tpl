@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What⋯?"
+	"O quê...?"
 	keyWait
 		any = false
 	end
@@ -14,15 +14,15 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Things have really
-	changed.
+	As coisas
+	mudaram mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just what's going
-	on?
+	O que será que
+	tá acontecendo?
 	"""
 	keyWait
 		any = false
@@ -35,23 +35,23 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's forge
-	ahead.
+	MegaMan, bora
+	seguir em frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we're lucky,we'll
-	find some clues.
+	Vai que a gente acha
+	alguma pista, né?
+	Se a gente der sorte...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anything could
-	happen here. Stay on
-	guard!
+	Pode acontecer de tudo
+	aqui. Fica esperto!
 	"""
 	keyWait
 		any = false
@@ -63,7 +63,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

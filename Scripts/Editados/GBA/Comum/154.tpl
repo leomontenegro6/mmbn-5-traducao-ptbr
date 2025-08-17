@@ -21,16 +21,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A climate control
-	system for the
-	entire ship.
+	Um sistema de controle
+	climático para o navio
+	inteiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nowhere
-	to jack in.
+	Não possui entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -39,16 +39,16 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This system controls
-	the speed of the
-	ship's screw.
+	Este sistema controla
+	a velocidade da hélice
+	do navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nowhere
-	to jack in.
+	Não possui entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -57,23 +57,23 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	The Engine Room
-	houses a variety
-	of control systems.
+	A Sala das Máquinas
+	abriga uma variedade
+	de sistemas de controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This one seems to
-	control the engines.
+	Este aqui parece
+	controlar o motor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nowhere to
-	jack in.
+	Não possui entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -88,29 +88,29 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wonder if I can jack
-	into this one⋯
+	Será que, se eu me
+	conectar neste aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	Oh,cool!
-	There's a port!
+	Ah, show!
+	Tem uma entrada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I could jack in!"
+	"Dá pra eu me conectar!"
 	keyWait
 		any = false
 	flagSet
@@ -120,17 +120,17 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A data reader. The
-	screen is a jumbled
-	array of data.
+	Um leitor de dados.
+	Na tela, um emaranhado
+	confuso de dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a port that
-	may allow Lan to
-	jack in.
+	Possui uma entrada que
+	permite ao Lan se
+	conectar.
 	"""
 	keyWait
 		any = false
@@ -147,13 +147,13 @@ script 7 mmbn5 {
 }
 script 8 mmbn5 {
 	msgOpen
-	"A ladder's here."
+	"Uma escada."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It leads to an
-	inspection tunnel.
+	Ela leva a um túnel
+	de inspeção.
 	"""
 	keyWait
 		any = false

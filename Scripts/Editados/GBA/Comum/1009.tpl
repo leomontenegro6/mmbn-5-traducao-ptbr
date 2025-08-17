@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,that's some
-	power emanating from
-	that vortex⋯
+	Lan, tem um poder
+	pesado emanando
+	desse vórtice...
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What'll come out⋯?"
+	"O que será que\nvai sair dele...?"
 	keyWait
 		any = false
 	clearMsg
@@ -31,20 +31,20 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm gonna be crushed
-	by this pressure!
+	E-essa pressão
+	vai me esmagar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here it comes!!!"
+	"Lá vem!!!"
 	keyWait
 		any = false
 	end
 }
 script 3 mmbn5 {
 	msgOpen
-	"⋯Battle against me."
+	"... Lute comigo."
 	keyWait
 		any = false
 	end
@@ -53,7 +53,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯!!!"
+	"...!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,13 +65,13 @@ script 5 mmbn5 {
 		mugshot = Bass
 	msgOpen
 	"""
-	I must taste this
-	power that has
+	Eu preciso experimentar
+	esse poder...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"awakened me⋯"
+	"que me despertou..."
 	keyWait
 		any = false
 	clearMsg
@@ -93,13 +93,14 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There's no way out!"
+	"Não tem outro jeito!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ready,MegaMan!
-	Battle routine,set!
+	Prepara, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -111,7 +112,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -122,7 +123,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"This shall be fun⋯"
+	"Isso será divertido..."
 	keyWait
 		any = false
 	end

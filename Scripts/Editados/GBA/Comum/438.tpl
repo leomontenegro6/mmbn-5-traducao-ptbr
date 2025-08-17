@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO THE
-	VIRTUAL UNIVERSE,THE
-	INTERNET!
+	BEM-VINDO À REDE,
+	O UNIVERSO VIRTUAL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS ACDC AREA1.
-	ENJOY YOURSELF!
+	ESTE É A ÁREA ACDC 1.
+	DIVIRTA-SE!
 	"""
 	keyWait
 		any = false
@@ -25,22 +24,23 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The wide,green road
-	you're standing on
+	E estrada verde e
+	ampla sobre a qual
+	você está agora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is the ACDC Area
-	main street.
+	é a rua principal da
+	Área ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just follow it and
-	you can't go wrong.
+	É só segui-la que você
+	nunca se perde.
 	"""
 	keyWait
 		any = false
@@ -56,24 +56,24 @@ script 2 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hm?
-	KitchenComp?
-	Never heard of it.
+	Hã?
+	CPU Cozinha?
+	Nunca ouvi falar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's in ACDC
-	Area2?
+	Será que é na Área
+	ACDC 2?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just follow the main
-	street to reach ACDC
-	Area2.
+	É só seguir a rua
+	principal que você
+	chega na Área ACDC 2.
 	"""
 	keyWait
 		any = false
@@ -84,9 +84,9 @@ script 3 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Whoops! I'm lost!
-	Which way to the
-	main street?!
+	Eita! Tô perdido!
+	Pra que lado fica a
+	rua principal mesmo?!
 	"""
 	keyWait
 		any = false
@@ -97,14 +97,14 @@ script 4 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	By the looks of you,
-	I'd guess you've
-	finished a big job!
+	A julgar pela aparência...
+	você acabou de concluir
+	um trabalho dos grandes!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Am I right?"
+	"Acertei?"
 	keyWait
 		any = false
 	end
@@ -119,27 +119,27 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Hi,Mega!"
+	"Oi, Mega!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hello,Roll."
+	"Oi, Roll."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Roll
-	"Where are you going?"
+	"O que cê manda hoje?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm running an
-	errand for Mom.
+	Tô fazendo um favor pra
+	minha mãe.
 	"""
 	keyWait
 		any = false
@@ -147,15 +147,15 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	"""
-	GutsMan and Glide
-	were in ACDC Area2.
+	O GutsMan e o Glide
+	tavam lá na Área ACDC 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you spot them,why
-	don't you say hi?
+	Se vir os dois, que tal
+	dar um "oi"?
 	"""
 	keyWait
 		any = false
@@ -166,16 +166,16 @@ script 6 mmbn5 {
 		mugshot = Roll
 	msgOpen
 	"""
-	I'll be heading back
-	to Mayl's PET soon
+	Daqui a pouco eu vou
+	voltar pro PET da Mayl,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but first I'm going
-	to browse around a
-	bit.
+	mas, antes, quero dar
+	mais uma explorada por
+	aí.
 	"""
 	keyWait
 		any = false
@@ -186,72 +186,71 @@ script 7 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Have you heard of a
-	SubChip?
+	Já ouviu falar dos
+	SubChips?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unlike BattleChips,
-	SubChips are
-	disposable.
+	Diferente dos chips de
+	batalha, os SubChips são
+	descartáveis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are many types
-	of SubChips,
-	including chips that
+	Existem diversos tipos
+	de SubChips, incluindo
+	chips que curam PV,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	recover HP,reduce
-	encounters with
-	enemies,
+	chips que reduzem a
+	frequência de encontros
+	com vírus
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and deactivate
-	security. To use a
-	SubChip⋯
+	e chips que desativam
+	bloqueios.
+	Para usar um SubChip,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Open the PET screen
-	with START and
-	select "SubChip."
+	é só abrir a tela do
+	PET apertando "START"
+	e selecionar "SubChip".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unlike BattleChips,
-	you can use them
-	outside of battle.
+	Diferente dos chips de
+	batalha, dá pra usá-los
+	fora das lutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're
-	interested,talk to
-	that Navi over
+	Interessou? Então te
+	aconselho a falar com
+	aquele Navi ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there.
-	He sells a wide
-	variety of SubChips.
+	Ele vende um monte de
+	SubChips diferentes.
 	"""
 	keyWait
 		any = false
@@ -261,22 +260,22 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WARNING! WARNING!"
+	"ALERTA! ALERTA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS AREA HAS BEEN
-	COMMANDEERED BY
-	AN UNKNOWN GROUP!
+	ESTA ÁREA FOI
+	TOMADA POR UM
+	GRUPO DESCONHECIDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ALL VISITORS,JACK
-	OUT IMMEDIATELY! RUN
-	AWAAAY!
+	VISITANTES,
+	DESCONECTEM-SE
+	IMEDIATAMENTE! FUJAAM!
 	"""
 	keyWait
 		any = false
@@ -287,23 +286,22 @@ script 11 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey,what are you
-	doing?!
+	Ei, o que você tá
+	fazendo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This area is
-	dangerous. Run away
-	while you still can!
+	A área tá perigosa.
+	Foge enquanto ainda dá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,boy! I've gotta
-	jack out quick,too!
+	Ai! Eu também tenho que
+	desconectar, e é já!
 	"""
 	keyWait
 		any = false
@@ -314,16 +312,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME!
-	THIS IS ACDC AREA1!
+	BEM-VINDO!
+	ESTA É A ÁREA ACDC 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOLLOW THE MAIN
-	STREET TO REACH ACDC
-	AREA2.
+	SIGA A RUA PRINCIPAL
+	PARA CHEGAR NA ÁREA
+	ACDC 2.
 	"""
 	keyWait
 		any = false
@@ -334,25 +332,24 @@ script 21 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Have you heard?
-	A team of Navis was
-	formed
+	Ficou sabendo?
+	Foi formada uma
+	equipe de Navis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to liberate the
-	occupied Net
-	areas!
+	pra libertar as áreas
+	ocupadas da Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But their identities
-	are unknown. Isn't
-	that cool?!
+	Mas as identidades deles
+	são desconhecidas.
+	Irado, né?!
 	"""
 	keyWait
 		any = false
@@ -363,23 +360,24 @@ script 22 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	When you're standing
-	here at the Net
-	abyss,
+	Quando você encara
+	muito o abismo da Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	don't you begin to
-	see the unseen?
+	você também não começa
+	a ver o que não se pode
+	ver?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No? Maybe it's over
-	your head.
+	Não?
+	Talvez seja só coisa
+	da minha cabeça...
 	"""
 	keyWait
 		any = false
@@ -390,23 +388,23 @@ script 23 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	The real sweet chips
-	aren't found on the
-	main street
+	Os chips bons de verdade
+	não se acha na rua
+	principal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but in these out-of-
-	the-way spots!
+	mas, sim, em lugares
+	mais escondidos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good things come to
-	those who search!
+	Investigar todo o tipo
+	de lugar só dá bom!
 	"""
 	keyWait
 		any = false

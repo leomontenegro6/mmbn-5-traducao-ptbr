@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -22,8 +22,8 @@ script 0 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MegaMan got:
-	"BarrierKey
+	MegaMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -41,8 +41,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -56,8 +56,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,MegaMan!
+	Legal!
+	Mandou bem, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,8 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -85,8 +85,8 @@ script 1 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ProtoMan got:
-	"BarrierKey
+	ProtoMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -104,8 +104,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -119,8 +119,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,ProtoMan!
+	Legal!
+	Mandou bem, ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -131,8 +131,8 @@ script 2 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -148,8 +148,8 @@ script 2 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	GyroMan got:
-	"BarrierKey
+	GyroMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -167,8 +167,8 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -182,8 +182,8 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,GyroMan!
+	Legal!
+	Mandou bem, GyroMan!
 	"""
 	keyWait
 		any = false
@@ -194,8 +194,8 @@ script 3 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -211,8 +211,8 @@ script 3 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	SerchMan got:
-	"BarrierKey
+	SearchMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -230,8 +230,8 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -245,8 +245,8 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,SerchMan!
+	Legal!
+	Mandou bem, SearchMan!
 	"""
 	keyWait
 		any = false
@@ -257,8 +257,8 @@ script 4 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -274,8 +274,8 @@ script 4 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NapalmMan got:
-	"BarrierKey
+	NapalmMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -293,8 +293,8 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -308,8 +308,8 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,NapalmMan!
+	Legal!
+	Mandou bem, NapalmMan!
 	"""
 	keyWait
 		any = false
@@ -320,8 +320,8 @@ script 5 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -337,8 +337,8 @@ script 5 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MagnetMan got:
-	"BarrierKey
+	MagnetMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -356,8 +356,8 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -371,8 +371,8 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good Job,MagnetMan!
+	Legal!
+	Mandou bem, MagnetMan!
 	"""
 	keyWait
 		any = false
@@ -383,8 +383,8 @@ script 6 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -400,8 +400,8 @@ script 6 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	Meddy got:
-	"BarrierKey
+	Meddy adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -419,8 +419,8 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -434,8 +434,8 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,Meddy!
+	Legal!
+	Mandou bem, Meddy!
 	"""
 	keyWait
 		any = false
@@ -446,8 +446,8 @@ script 7 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -463,8 +463,8 @@ script 7 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	Colonel got:
-	"BarrierKey
+	Colonel adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -482,8 +482,8 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -497,8 +497,8 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,Colonel!
+	Legal!
+	Mandou bem, Colonel!
 	"""
 	keyWait
 		any = false
@@ -509,8 +509,8 @@ script 8 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -526,8 +526,8 @@ script 8 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ShadoMan got:
-	"BarrierKey
+	ShadowMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -545,8 +545,8 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -560,8 +560,8 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,ShadoMan!
+	Legal!
+	Mandou bem, ShadowMan!
 	"""
 	keyWait
 		any = false
@@ -572,8 +572,8 @@ script 9 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -589,8 +589,8 @@ script 9 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NumberMan got:
-	"BarrierKey
+	NumberMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -608,8 +608,8 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -623,8 +623,8 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,NumberMan!
+	Legal!
+	Mandou bem, NumberMan!
 	"""
 	keyWait
 		any = false
@@ -635,8 +635,8 @@ script 10 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -652,8 +652,8 @@ script 10 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	TomahawkMan got:
-	"BarrierKey
+	TomahawkMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -671,8 +671,8 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -686,8 +686,8 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Great,TomahawkMan!
+	Legal!
+	Isso aí, TomahawkMan!
 	"""
 	keyWait
 		any = false
@@ -698,8 +698,8 @@ script 11 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -715,8 +715,8 @@ script 11 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	KnightMan got:
-	"BarrierKey
+	KnightMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -734,8 +734,8 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -749,8 +749,8 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,KnightMan!
+	Legal!
+	Mandou bem, KnightMan!
 	"""
 	keyWait
 		any = false
@@ -761,8 +761,8 @@ script 12 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I found:
-	"BarrierKey
+	Encontrei:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -778,8 +778,8 @@ script 12 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	ToadMan got:
-	"BarrierKey
+	ToadMan adquiriu:
+	"Chave de Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -797,8 +797,8 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	"""
-	I unlocked:
-	"BarrierPanel
+	Desbloqueei:
+	"Quadro Barreira 
 	"""
 	printBuffer
 		buffer = 1
@@ -812,8 +812,8 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!
-	Good job,ToadMan!
+	Legal!
+	Mandou bem, ToadMan!
 	"""
 	keyWait
 		any = false

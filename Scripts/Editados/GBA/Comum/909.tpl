@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ah,Raika! We're
-	bumping into each
-	other a lot today!
+	Ah, Raika! A gente tá
+	se esbarrando tanto
+	hoje, hein?
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,8 @@ script 1 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	I'm working⋯ You
-	can't just come and
-	talk to me.
+	Estou trabalhando agora...
+	Não fale comigo.
 	"""
 	keyWait
 		any = false
@@ -35,8 +34,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What? You didn't
-	mind talking before!
+	Ué? Mas, antes, cê
+	papeou comigo mó de boa!
 	"""
 	keyWait
 		any = false
@@ -47,9 +46,9 @@ script 3 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	⋯I don't know what
-	you're on about.
-	Quit bugging me!
+	... Não sei do que você
+	está falando. Não me
+	importune mais!
 	"""
 	keyWait
 		any = false
@@ -60,16 +59,16 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What a grouch! I
-	shouldn't have
-	bothered!
+	Afe, mal-humorado!
+	Ele nem MERECE a
+	minha companhia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,MegaMan.
-	Let's go!
+	Vem, MegaMan.
+	Vamos embora!
 	"""
 	keyWait
 		any = false
@@ -81,13 +80,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"O-Okay⋯"
+	"T-tá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,that was a bit
-	weird⋯
+	Mas aquilo foi meio
+	estranho...
 	"""
 	keyWait
 		any = false
@@ -98,9 +97,9 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Higsby! We're sure
-	running into each
-	other a lot today⋯
+	Higsby! A gente tá
+	se esbarrando tanto
+	hoje, hein...
 	"""
 	keyWait
 		any = false
@@ -112,7 +111,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -124,15 +123,15 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks for your help
-	before.
+	Valeu pela sua ajuda
+	ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And thank NumberMan
-	for me too,okay?
+	E agradece o NumberMan
+	pra mim também, beleza?
 	"""
 	keyWait
 		any = false
@@ -142,29 +141,29 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Thanks for what⋯?"
+	"Agradecer? Pelo quê?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what
-	you mean! But why
-	not?! Any time,huh!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Huh! It's time I got
-	going to see
-	Ms.Mariko!
+	Eu não sei do que você
+	tá falando, mas, de
+	nada! Disponha, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,Lan! See you
-	tomorrow,huh!
+	É! Hora de eu ir
+	me encontrar com
+	a Srta. Mari!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tchau, Lan!
+	Até amanhã, é!
 	"""
 	keyWait
 		any = false
@@ -175,23 +174,24 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯That was weird! He
-	seemed confused.
+	... Que esquisito.
+	Ele parecia confuso
+	com o que eu falei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess all he's
-	thinking about is
-	Ms.Mariko!
+	Vai ver é porque ele
+	só tem Srta. Mari na
+	cabeça! He he!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,let's get
-	going,MegaMan!
+	Enfim, vamos embora,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -203,7 +203,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"O-Okay⋯"
+	"T-tá..."
 	keyWait
 		any = false
 	end

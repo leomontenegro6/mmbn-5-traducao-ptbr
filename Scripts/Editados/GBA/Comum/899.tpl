@@ -6,8 +6,8 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	NapalmMan.
-	The booster system's
-	mine now!
+	O sistema impulsionador
+	é meu agora!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Wha⋯?! How?!"
+	"O quê...?! Mas como?!"
 	keyWait
 		any = false
 	end
@@ -29,16 +29,16 @@ script 2 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I took it back
-	during the battle⋯
+	Eu o tomei de volta
+	durante a luta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are too many
-	bad losers around to
-	take any chances.
+	Tem maus perdedores
+	demais por aqui para
+	correr o risco.
 	"""
 	keyWait
 		any = false
@@ -51,8 +51,9 @@ script 3 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	You⋯! You stole my
-	fireworks dream!
+	Seu...! Você roubou
+	o meu sonho de fogos
+	de artifício!
 	"""
 	keyWait
 		any = false
@@ -64,37 +65,36 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Fyrefox⋯"
+	"Fyrefox..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll never impress
-	people with new
-	fireworks
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	if they were made
-	from something you
-	stole.
+	Você nunca vai impressi-
+	onar as pessoas com
+	novos fogos de artifício
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to put in
-	the effort yourself.
+	se fizer eles com coisas
+	que você roubou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's how to make
-	fireworks people
-	really enjoy.
+	Você mesmo tem que
+	dedicar o esforço.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É assim que se faz
+	fogos que as pessoas
+	amam de verdade.
 	"""
 	keyWait
 		any = false
@@ -106,26 +106,26 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"⋯⋯⋯\n"
+	".........\n"
 	storeTimer
 		timer = 3
 		value = 1
-	"You're right."
+	"Cê tem razão."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been so fixated
-	on making the best
-	fireworks⋯
+	Eu fiquei tão obcecado
+	em fazer os melhores
+	fogos de artifício,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I forgot what should
-	be most important
-	to a craftsman.
+	que esqueci a coisa
+	mais importante pra
+	um artesão.
 	"""
 	keyWait
 		any = false
@@ -146,7 +146,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"What?"
+	"Hm?"
 	keyWait
 		any = false
 	clearMsg
@@ -158,24 +158,24 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Can't we overlook
-	what's happened
-	here?
+	Não dá pra gente fazer
+	vista grossa com o que
+	aconteceu aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The booster system's
-	unharmed,
+	O sistema impulsionador
+	tá são e salvo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and Fyrefox seems
-	genuinely sorry for
-	what he did.
+	e o Fyrefox parece
+	genuinamente arrependido
+	pelo que fez.
 	"""
 	keyWait
 		any = false
@@ -188,8 +188,9 @@ script 9 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	⋯Hah!
-	You really are soft⋯
+	... He!
+	Você é mole demais,
+	mesmo...
 	"""
 	keyWait
 		any = false
@@ -199,28 +200,28 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"NapalmMan⋯"
+	"NapalmMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time we'll
-	pretend nothing
-	happened.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But try anything
-	like this again
+	Desta vez, vamos fingir
+	que nada aconteceu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I won't hesitate
-	to wipe you out!
+	Mas, se tentar
+	alguma gracinha como
+	a de hoje de novo,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	eu não vou pensar duas
+	vezes em te deletar!
 	"""
 	keyWait
 		any = false
@@ -232,64 +233,64 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"⋯Lan,isn't it?"
+	"... É \"Lan\", né?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's right."
+	"Aham."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Fyrefox
 	"""
-	You're fighting
-	Nebula,aren't you?
+	Cê tá lutando contra a
+	Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would you mind if
-	we fight with you?
+	Tudo bem eu lutar
+	junto com você?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Fyrefox
 	"""
-	I still have a lot
-	to learn.
+	Eu ainda tenho muita
+	coisa pra aprender.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But in the fireworks
-	of battle,I could
-	improve.
+	Mas, tanto nos fogos
+	quanto nas lutas, eu
+	ainda posso melhorar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then one day my
-	fireworks will be
-	the best!
+	Aí, um dia, meus fogos
+	de artifício vão ser
+	os melhores do mundo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,NapalmMan?!"
+	"Né não, NapalmMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -300,19 +301,18 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Battle Nebula⋯?"
+	"Lutar contra a Nebula...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give a bunch of bad
-	guys a good
-	pounding⋯?
+	Encher uns bandidos
+	de porrada...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sounds good to me!"
+	"Curti demais a ideia!"
 	keyWait
 		any = false
 	clearMsg
@@ -324,58 +324,59 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'd be happy to
-	have you,Fyrefox!
+	Vai ser o maior prazer
+	ter você do nosso lado,
+	Fyrefox!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,ProtoMan?"
+	"Né, ProtoMan?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	NapalmMan's power
-	would be useful to
-	the team⋯
+	Os poderes do NapalmMan
+	podem ser bem úteis
+	para a equipe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With NapalmMan on
-	our side,
+	Com ele do nosso lado,
+	com certeza a gente
+	consegue se livrar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can kick those
-	Nebula Navis out of
-	End Area1!
+	dos Navis da Nebula
+	na Área Endo 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Fyrefox! NapalmMan!
-	Welcome to the team!
+	Bem-vindos ao time!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! We'll head into
-	the Net as soon as
-	we get back to port.
+	Beleza! Bora pra Rede
+	assim que a gente
+	voltar pro porto!
 	"""
 	keyWait
 		any = false
@@ -387,8 +388,8 @@ script 14 mmbn5 {
 	msgOpen
 	"""
 	TomahawkMan.
-	The booster system's
-	mine now!
+	O sistema impulsionador
+	é meu agora!
 	"""
 	keyWait
 		any = false
@@ -400,7 +401,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Wha⋯?! How?!"
+	"O quê...?! Mas como?!"
 	keyWait
 		any = false
 	end
@@ -410,16 +411,16 @@ script 16 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I took it back
-	during the battle⋯
+	Eu o tomei de volta
+	durante a luta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are too many
-	bad losers around to
-	take any chances.
+	Tem maus perdedores
+	demais por aqui para
+	correr o risco.
 	"""
 	keyWait
 		any = false
@@ -443,8 +444,7 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	TomahawkMan,this is
-	the end!
+	TomahawkMan, acabou!
 	"""
 	keyWait
 		any = false
@@ -457,8 +457,9 @@ script 19 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	W-Wait! Not
-	TomahawkMan! Please!
+	E-espera! Não apaga o
+	TomahawkMan!
+	Por favor!
 	"""
 	keyWait
 		any = false
@@ -470,7 +471,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Colonel,stop!"
+	"Colonel, pare!"
 	keyWait
 		any = false
 	end
@@ -479,7 +480,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"What is it,Lan?"
+	"O que foi, Lan Hikari?"
 	keyWait
 		any = false
 	clearMsg
@@ -490,34 +491,33 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let him go."
+	"Poupa ele."
 	keyWait
 		any = false
 	clearMsg
-	"Dingo⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	maybe your village
-	was ruined by
-	Ubercorp but
-	"""
+	"Dingo..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	would your friends
-	and family there
-	really want this?
+	eu sei que a sua vila
+	foi arruinada pela
+	Ubercorp, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Using force and
-	stealing the booster
-	system is wrong.
+	os seus amigos e família
+	iam mesmo querer isso?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Abusar da força
+	e roubar o sistema
+	impulsionador é errado.
 	"""
 	keyWait
 		any = false
@@ -529,16 +529,16 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"I know⋯"
+	"Eu sei..."
 	storeTimer
 		timer = 3
 		value = 1
@@ -546,24 +546,24 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	There was no
-	other way⋯
+	Mas não tinha
+	outra saída...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We complained about
-	how unreasonable
-	Ubercorp was
+	A gente se queixou
+	quanto aos abusos
+	da Ubercorp,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but no one would
-	believe us. We're
-	just country folk.
+	mas ninguém acreditou
+	na gente. Porque somos
+	só um bando de caipiras.
 	"""
 	keyWait
 		any = false
@@ -571,15 +571,15 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	There is another
-	way.
+	Existe, sim,
+	outra saída.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dingo
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -589,16 +589,15 @@ script 24 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	TomahawkMan⋯and you,
-	Dingo⋯
+	TomahawkMan...
+	E você, Dingo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	join with us and
-	fight against
-	Nebula.
+	Juntem-se à nós e
+	lutem contra a Nebula.
 	"""
 	keyWait
 		any = false
@@ -616,47 +615,46 @@ script 25 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Yes⋯"
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and when we've
-	brought down Nebula,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the world will take
-	you seriously,as
-	warriors of justice.
+	Quando pusermos
+	um fim à Nebula,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then people will
-	listen to your
-	complaints.
+	o mundo levará vocês a
+	sério, como guerreiros
+	da justiça.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E as pessoas darão
+	ouvidos às suas queixas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dingo
-	"Y-You're right!"
+	"... T-tem razão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah! We'd love to
-	join you!
+	É! A gente ia adorar
+	se juntar a vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,TomahawkMan?!"
+	"Né, TomahawkMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -667,14 +665,14 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"No complaints here."
+	"Nada contra."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel⋯ I hereby
-	swear my allegiance
-	to you.
+	Colonel...
+	Daqui em diante, juro
+	a você minha lealdade.
 	"""
 	keyWait
 		any = false
@@ -687,31 +685,32 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	With TomahawkMan on
-	our side,
+	Com o TomahawkMan do
+	nosso lado, aposto que
+	a gente consegue
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we'll carve through
-	those Nebula Navis
-	in End Area1!
+	atravessar aqueles
+	Navis da Nebula na
+	Área Endo 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Dingo! TomahawkMan!
-	Welcome to the team!
+	Bem-vindos ao time!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! We'll head into
-	End Area1 as soon as
-	we get back to port.
+	Beleza! Bora pra Área
+	Endo 1 assim que a
+	gente voltar pro porto!
 	"""
 	keyWait
 		any = false
@@ -720,25 +719,24 @@ script 27 mmbn5 {
 script 28 mmbn5 {
 	msgOpen
 	"""
-	The ship returned to
-	port with the party
-	cancelled.
+	O navio voltou ao
+	porto, a festa tendo
+	sido cancelada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula was accused
-	of trying to steal
-	the booster system,
+	A Nebula foi acusada
+	de tentar roubar o
+	sistema impulsionador,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and one of its
-	members was
-	arrested.
+	e um de seus
+	membros foi preso.
 	"""
 	keyWait
 		any = false

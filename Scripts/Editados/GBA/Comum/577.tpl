@@ -5,22 +5,22 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Man,Nebula totally
-	wiped out this
-	area!
+	Caramba, a Nebula
+	acabou com esta
+	área mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I guess it
-	sort of suits the
+	... Mas acho que meio
+	que combina com a
 	Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh,heh,heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -30,21 +30,20 @@ script 1 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What are you
-	looking at,punk?
+	Tá olhando o quê,
+	otário?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was so close
-	to hitting you,
-	man!
+	Eu QUASE que bato
+	em você, mano!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SO close!"
+	"QUASE!"
 	keyWait
 		any = false
 	end

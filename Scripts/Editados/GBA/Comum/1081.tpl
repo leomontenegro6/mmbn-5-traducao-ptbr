@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	So you made it this
-	far without my help.
-	I'm impressed.
+	Olha, você chegou longe
+	assim sem a minha ajuda?
+	Tô impressionado.
 	"""
 	keyWait
 		any = false
@@ -36,8 +36,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Can
-	you hear me?
+	MegaMan!
+	Tá me ouvindo?
 	"""
 	keyWait
 		any = false
@@ -50,17 +50,17 @@ script 3 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	You're wasting your
-	breath. A DarkSoul
-	fills this body now!
+	Não desperdice saliva.
+	Agora, uma Alma Sombria
+	habita este corpo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you want to beat
-	me,you'll have to
-	delete the body too!
+	Se quiser me vencer,
+	vai ter que deletar
+	o corpo também!
 	"""
 	keyWait
 		any = false
@@ -89,8 +89,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Delete the body⋯?
-	But⋯MegaMan⋯
+	Deletar o corpo...?
+	Mas... MegaMan...
 	"""
 	keyWait
 		any = false
@@ -120,7 +120,7 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorde!
 	"""
 	keyWait
 		any = false
@@ -133,15 +133,14 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	Não há outra escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	Nós temos que lutar,
+	Hikari!
 	"""
 	keyWait
 		any = false
@@ -153,7 +152,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Let's do it!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -164,7 +163,7 @@ script 14 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorda!
 	"""
 	keyWait
 		any = false
@@ -177,15 +176,15 @@ script 15 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	Não tem outra
+	escolha, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	A gente vai ter
+	que lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -197,7 +196,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Let's do it!"
+	"Vamos nessa!"
 	keyWait
 		any = false
 	end
@@ -208,7 +207,7 @@ script 22 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorda!
 	"""
 	keyWait
 		any = false
@@ -221,15 +220,14 @@ script 23 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	Não tem outra escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	A gente vai ter
+	que lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -241,7 +239,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Let's do it!"
+	"Vamos nessa!"
 	keyWait
 		any = false
 	end
@@ -252,7 +250,7 @@ script 26 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorde!
 	"""
 	keyWait
 		any = false
@@ -265,15 +263,13 @@ script 27 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	Não há outra escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	Vamos ter que lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -285,7 +281,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Let's do it!"
+	"Vamos lá!"
 	keyWait
 		any = false
 	end
@@ -296,7 +292,7 @@ script 34 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorde!
 	"""
 	keyWait
 		any = false
@@ -308,13 +304,12 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"I have no choice."
+	"Não me resta escolha."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	Temos de lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -326,7 +321,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Let's do it!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -337,7 +332,7 @@ script 38 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Snap out of it!
+	Abra os olhos!
 	"""
 	keyWait
 		any = false
@@ -350,15 +345,13 @@ script 39 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	... Não há outra escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	Precisamos lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -370,7 +363,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Hi-ya!"
+	"Iá!"
 	keyWait
 		any = false
 	end
@@ -381,7 +374,7 @@ script 46 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorda!
 	"""
 	keyWait
 		any = false
@@ -394,15 +387,15 @@ script 47 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	Não tem outra
+	escolha aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	Vamos ter que
+	lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -414,7 +407,7 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Let's do it!"
+	"Vamos nessa!"
 	keyWait
 		any = false
 	end
@@ -425,7 +418,7 @@ script 50 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Wake up!
+	Acorde!
 	"""
 	keyWait
 		any = false
@@ -438,15 +431,13 @@ script 51 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	There's no other
-	choice.
+	Não há outra escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to fight,
-	Lan!
+	Teremos de lutar, Lan!
 	"""
 	keyWait
 		any = false
@@ -458,7 +449,7 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Let's do it!"
+	"Em guarda!"
 	keyWait
 		any = false
 	end

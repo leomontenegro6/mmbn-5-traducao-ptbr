@@ -37,9 +37,9 @@ script 47 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,find the
-	server and stop
-	this problem!
+	MegaMan, encontra o
+	servidor e resolve
+	esse problema!
 	"""
 	keyWait
 		any = false
@@ -50,8 +50,8 @@ script 48 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see nothing
-	unusual here⋯
+	Não tô vendo nada
+	de anormal aqui...
 	"""
 	keyWait
 		any = false

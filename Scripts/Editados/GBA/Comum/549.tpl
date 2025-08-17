@@ -22,8 +22,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Charlie,
-	now's your chance!!!
+	Charlie, é a sua vez
+	de brilhar!!
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dusk,your turn!!!"
+	"Dark, é com você!!!"
 	keyWait
 		any = false
 	end
@@ -42,7 +42,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"It's all yours,Lan!"
+	"Todo seu, Lan!"
 	keyWait
 		any = false
 	end
@@ -51,7 +51,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"Lan,have go at it."
+	"Faça sua jogada, Lan."
 	keyWait
 		any = false
 	end

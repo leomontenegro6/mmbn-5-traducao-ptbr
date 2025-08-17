@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	I'm heading over to
-	End Area4.
+	Vou seguir para a
+	Área Endo 4 agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to show you
-	guys what I can do⋯
+	Hora de mostrar a vocês
+	como se faz...
 	"""
 	keyWait
 		any = false
@@ -24,16 +24,15 @@ script 1 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan,I'm going to
-	End Area4,huh!!!
+	Lan, eu tô indo lá pra
+	Área Endo 4, é!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Prepare to
-	experience my wrath,
-	huh!!!
+	Prepara pra testemunhar
+	a minha fúria, é!!
 	"""
 	keyWait
 		any = false
@@ -44,14 +43,14 @@ script 20 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I don't mind doing
-	computer maintenance
-	but this is scary⋯
+	Eu não me incomodo de
+	fazer manutenção, mas
+	dá um medo aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*cringe*"
+	"Brr..."
 	keyWait
 		any = false
 	end
@@ -60,14 +59,13 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"I love high places!"
+	"Eu amo alturas!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The view is great
-	and this wind feels
-	awesome!
+	A vista é linda e o
+	vento é tão gostoso!
 	"""
 	keyWait
 		any = false
@@ -78,37 +76,37 @@ script 25 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	There are male and
-	female Gargoyles.
+	Existem shachis machos
+	e fêmeas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A male will have its
-	mouth open,and a
-	female,closed.
+	O macho tem a boca
+	aberta, e a fêmea,
+	fechada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Both Gargoyles in
-	this castle have
-	their mouth closed.
+	Ambos os shachis deste
+	castelo têm a boca
+	fechada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why are both female?
-	That's just another
-	historical mystery.
+	Por que os dois são
+	fêmeas? Esse é outro
+	mistério histórico...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Who knows!"
+	"Ninguém sabe!"
 	keyWait
 		any = false
 	end

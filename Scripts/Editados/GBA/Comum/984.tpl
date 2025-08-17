@@ -5,29 +5,28 @@ script 0 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	I'll give you
-	credit for
-	getting this far
+	Preciso lhes
+	cumprimentar por
+	chegarem tão longe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I can't allow
-	you to go any
-	further.
+	mas não posso permitir
+	que prossigam.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your adventure
-	stops here.
+	A aventurazinha de
+	vocês acaba aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mwa-ha-ha-ha-ha!!!"
+	"Hye-he-ha-ha-ha-ha!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -39,9 +38,9 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The DarkPower's
-	stronger in you,
-	than the last time⋯
+	O Poder das Trevas
+	tá mais forte em você
+	do que da última vez...
 	"""
 	keyWait
 		any = false
@@ -54,13 +53,13 @@ script 2 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Let's dispense with
-	the pleasantries⋯
+	Dispensemos as
+	formalidades...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Shall we?"
+	"Vamos dançar?"
 	keyWait
 		any = false
 	clearMsg
@@ -71,7 +70,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!!"
+	"Aí vem ele, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -82,7 +81,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Stop!!!"
+	"Pode parar!!!"
 	keyWait
 		any = false
 	end
@@ -103,9 +102,9 @@ script 6 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	MegaMan,weren't we
-	gonna eradicate bat
-	brain together?
+	MegaMan, a gente não
+	ia exterminar esse
+	morceguinho juntos?
 	"""
 	keyWait
 		any = false
@@ -118,17 +117,17 @@ script 7 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	It's not polite to
-	come between 2 men
-	in a duel⋯
+	É muita grosseria
+	interromper dois homens
+	prestes a duelar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eternal darkness
-	awaits the one who
-	is wounded this day!
+	A escuridão eterna
+	aguarda aquele que
+	cair ferido neste dia!
 	"""
 	keyWait
 		any = false
@@ -138,7 +137,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"W-what the heck?!!"
+	"M-mas o que que...?!!"
 	keyWait
 		any = false
 	clearMsg
@@ -149,7 +148,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"GyroMan,run!!!"
+	"GyroMan, foge!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -161,14 +160,14 @@ script 10 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I'm not gonna let
-	anything ruin my
-	cool entrance!
+	Eu não vou deixar nada
+	arruinar a minha
+	entrada triunfal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GyroForm!!!"
+	"GyroForma!!!"
 	keyWait
 		any = false
 	end
@@ -177,11 +176,11 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Dang it! I'm being"
+	"Droga!"
 	keyWait
 		any = false
 	clearMsg
-	"pulled in!!!"
+	"Eu tô sendo puxado!!!"
 	keyWait
 		any = false
 	end
@@ -201,7 +200,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = ShadeMan
 	msgOpen
-	"Mwa-ha-ha-ha-ha!!!"
+	"Hya-ha-ha-ha-ha!!!"
 	keyWait
 		any = false
 	end
@@ -211,13 +210,13 @@ script 14 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Now that we're free
-	of that pest,we can
+	Agora que eu me livrei
+	desse inseto incômodo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"battle all we want."
+	"eu e você podemos\nlutar à vontade."
 	keyWait
 		any = false
 	clearMsg
@@ -227,7 +226,7 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Wait!!!"
+	"Pare aí!!!"
 	keyWait
 		any = false
 	end
@@ -248,8 +247,8 @@ script 17 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I'll take care of
-	that bat brain⋯
+	Eu mesmo cuido desse
+	morceguinho petulante...
 	"""
 	keyWait
 		any = false
@@ -262,17 +261,17 @@ script 18 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	It's not polite to
-	come between 2 men
-	in a duel⋯
+	É muita grosseria
+	interromper dois homens
+	prestes a duelar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eternal darkness
-	awaits the one who
-	is wounded this day!
+	A escuridão eterna
+	aguarda aquele que
+	cair ferido neste dia!
 	"""
 	keyWait
 		any = false
@@ -293,7 +292,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ShadowMan,run!!!"
+	"ShadowMan, foge!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -304,7 +303,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"What are you doing?!"
+	"O que é isso?!"
 	keyWait
 		any = false
 	end
@@ -313,7 +312,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Sucking you in!!!"
+	"Estou sendo puxado...!!!"
 	keyWait
 		any = false
 	end
@@ -333,7 +332,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = ShadeMan
 	msgOpen
-	"Mwa-ha-ha-ha-ha!!!"
+	"Hya-ha-ha-ha-haaa!!!"
 	keyWait
 		any = false
 	end
@@ -343,13 +342,14 @@ script 25 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Now that we're free
-	of that pest,we can
+	Agora que eu me livrei
+	desse harlequim
+	impertinente,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"battle all we want."
+	"eu e você podemos\nlutar à vontade."
 	keyWait
 		any = false
 	clearMsg
@@ -361,8 +361,8 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯I can't forgive
-	you⋯
+	... Eu nunca vou
+	te perdoar...
 	"""
 	keyWait
 		any = false
@@ -388,8 +388,9 @@ script 28 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Let's go,MegaMan!!!
-	Battle routine,set!
+	Bora, MegaMan!!!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -401,7 +402,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -413,14 +414,14 @@ script 30 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Rest easy! You'll
-	be among your
-	comrades shortly!!!
+	Não se preocupe!
+	Você logo estará com
+	o seu companheiro!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mwa-ha-ha-ha-ha!!!"
+	"Hya-ha-ha-ha-ha-ha!!!"
 	keyWait
 		any = false
 	end

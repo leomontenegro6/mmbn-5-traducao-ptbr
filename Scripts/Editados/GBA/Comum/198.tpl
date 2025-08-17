@@ -3,8 +3,8 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	It's an Official
-	Battle BBS.
+	É um Fórum Oficial
+	de Luta.
 	"""
 	keyWait
 		any = false

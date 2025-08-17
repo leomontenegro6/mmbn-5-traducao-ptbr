@@ -3,8 +3,8 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	You found
-	damaged Chip Data!
+	Você achou dados
+	danificados de chips!
 	"""
 	waitHold
 }
@@ -30,7 +30,10 @@ script 1 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"Not enough capacity."
+	"""
+	Capacidade
+	insuficiente.
+	"""
 	keyWait
 		any = false
 	end
@@ -57,17 +60,17 @@ script 2 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"You don't have\n"
+	"Você ainda não tem\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" chips yet!"
+	" chips!"
 	keyWait
 		any = false
 	clearMsg
-	"Want to quit?\n"
+	"Sair?\n"
 	soundDisableChoiceSFX
 	positionOptionHorizontal
 		width = 8
@@ -79,7 +82,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -88,7 +91,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -123,7 +126,7 @@ script 3 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only 4."
+	"Só pode usar 4."
 	keyWait
 		any = false
 	end
@@ -151,8 +154,8 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can use only 1
-	same MegaChip.
+	Só pode usar 1
+	MegaChip de cada.
 	"""
 	keyWait
 		any = false
@@ -181,8 +184,8 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can use only 1
-	same GigaChip.
+	Só pode usar 1
+	GigaChip de cada.
 	"""
 	keyWait
 		any = false
@@ -210,7 +213,7 @@ script 6 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -243,7 +246,7 @@ script 7 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -256,14 +259,17 @@ script 7 mmbn5 {
 }
 script 8 mmbn5 {
 	msgOpen
-	"NOT ENOUGH CAPACITY."
+	"""
+	CAPACIDADE
+	INSUFICIENTE.
+	"""
 	keyWait
 		any = false
 	end
 }
 script 9 mmbn5 {
 	msgOpen
-	"YOU DON'T HAVE\n"
+	"VOCÊ NÃO TEM\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -273,7 +279,7 @@ script 9 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"WANT TO QUIT?\n"
+	"SAIR?\n"
 	soundDisableChoiceSFX
 	positionOptionHorizontal
 		width = 8
@@ -285,7 +291,7 @@ script 9 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -294,7 +300,7 @@ script 9 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -310,8 +316,8 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	YOU CAN USE ONLY 4
-	OF THE SAME CHIP.
+	VOCÊ SÓ PODE USAR
+	ATÉ 4 CHIPS IGUAIS.
 	"""
 	keyWait
 		any = false
@@ -320,9 +326,8 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	YOU CAN USE ONLY 1
-	OF THE SAME
-	MEGACHIP.
+	VOCÊ SÓ PODE USAR
+	1 MEGACHIP DE CADA.
 	"""
 	keyWait
 		any = false
@@ -331,9 +336,8 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	YOU CAN USE ONLY 1
-	OF THE SAME
-	GIGACHIP.
+	VOCÊ SÓ PODE USAR
+	1 GIGACHIP DE CADA.
 	"""
 	keyWait
 		any = false
@@ -341,7 +345,7 @@ script 12 mmbn5 {
 }
 script 13 mmbn5 {
 	msgOpen
-	"YOU CAN USE ONLY\n"
+	"VOCÊ SÓ PODE USAR\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -354,7 +358,7 @@ script 13 mmbn5 {
 }
 script 14 mmbn5 {
 	msgOpen
-	"YOU CAN USE ONLY\n"
+	"VOCÊ SÓ PODE USAR\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -388,8 +392,9 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You can use only 1
-	same DarkChip.
+	Você só pode usar
+	um Chip das Trevas
+	de cada.
 	"""
 	keyWait
 		any = false
@@ -417,13 +422,13 @@ script 16 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" DarkChips."
+	" Chips das Trevas."
 	keyWait
 		any = false
 	end
@@ -431,8 +436,9 @@ script 16 mmbn5 {
 script 17 mmbn5 {
 	msgOpen
 	"""
-	YOU CAN USE ONLY
-	1 SAME DARKCHIP.
+	VOCÊ SÓ PODE USAR
+	1 CHIP DAS TREVAS
+	DE CADA.
 	"""
 	keyWait
 		any = false
@@ -440,13 +446,13 @@ script 17 mmbn5 {
 }
 script 18 mmbn5 {
 	msgOpen
-	"YOU CAN USE ONLY\n"
+	"VOCÊ SÓ PODE USAR\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" DARKCHIPS."
+	" CHIPS DAS TREVAS."
 	keyWait
 		any = false
 	end
@@ -455,7 +461,7 @@ script 21 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"Not enough memory."
+	"Memória insuficiente."
 	keyWait
 		any = false
 	end
@@ -464,17 +470,17 @@ script 22 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"You don't have\n"
+	"Você ainda não tem\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" chips yet!"
+	" chips!"
 	keyWait
 		any = false
 	clearMsg
-	"Want to quit?\n"
+	"Sair?\n"
 	soundDisableChoiceSFX
 	positionOptionHorizontal
 		width = 8
@@ -486,7 +492,7 @@ script 22 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -495,7 +501,7 @@ script 22 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -512,7 +518,7 @@ script 23 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"You can use only 4."
+	"Só pode usar 4."
 	keyWait
 		any = false
 	end
@@ -522,8 +528,8 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	You can use only 1
-	same MegaChip.
+	Você só pode usar
+	1 MegaChip de cada.
 	"""
 	keyWait
 		any = false
@@ -534,8 +540,8 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	You can use only 1
-	same GigaChip.
+	Você só pode usar
+	1 GigaChip de cada.
 	"""
 	keyWait
 		any = false
@@ -545,7 +551,7 @@ script 26 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -560,7 +566,7 @@ script 27 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -576,8 +582,8 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	You can use only 1
-	same DarkChip.
+	Você só pode usar 1 de
+	cada Chip das Trevas.
 	"""
 	keyWait
 		any = false
@@ -587,13 +593,13 @@ script 36 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" DarkChips."
+	" Chips das Trevas."
 	keyWait
 		any = false
 	end
@@ -602,7 +608,7 @@ script 41 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"Not enough memory."
+	"Memória insuficiente."
 	keyWait
 		any = false
 	end
@@ -611,17 +617,17 @@ script 42 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"You don't have\n"
+	"Você ainda não tem\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" chips yet!"
+	" chips!"
 	keyWait
 		any = false
 	clearMsg
-	"Want to quit?\n"
+	"Sair?\n"
 	soundDisableChoiceSFX
 	positionOptionHorizontal
 		width = 8
@@ -633,7 +639,7 @@ script 42 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -642,7 +648,7 @@ script 42 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -659,7 +665,7 @@ script 43 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"You can use only 4."
+	"Só pode usar 4."
 	keyWait
 		any = false
 	end
@@ -669,8 +675,8 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	You can use only 1
-	same MegaChip.
+	Você só pode usar
+	1 MegaChip de cada.
 	"""
 	keyWait
 		any = false
@@ -681,8 +687,8 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	You can use only 1
-	same GigaChip.
+	Você só pode usar
+	1 GigaChip de cada.
 	"""
 	keyWait
 		any = false
@@ -692,7 +698,7 @@ script 46 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -707,7 +713,7 @@ script 47 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -723,8 +729,8 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	You can use only 1
-	same DarkChip.
+	Você só pode usar 1 de
+	cada Chip das Trevas.
 	"""
 	keyWait
 		any = false
@@ -734,13 +740,13 @@ script 56 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"You can use only\n"
+	"Você só pode usar\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" DarkChips."
+	" Chips das Trevas."
 	keyWait
 		any = false
 	end

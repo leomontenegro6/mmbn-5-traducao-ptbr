@@ -3,15 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A huge gun battery
-	sits up above.
+	Um enorme canhão se
+	posta acima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula has a heavy
-	defense system.
+	A Nebula possui um
+	sistema de defesa
+	pesado.
 	"""
 	keyWait
 		any = false
@@ -20,16 +21,17 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A pipe stretches
-	deep into the earth.
+	Uma tubulução se
+	estende para as
+	profundezas do solo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears they're
-	using the magma's
-	heat for energy.
+	Parece que estão usando
+	o calor do magma como
+	fonte de energia.
 	"""
 	keyWait
 		any = false
@@ -38,25 +40,24 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	This pipe appears to
-	be part of a power
-	generation system.
+	Essa tubulação parece
+	ser parte de um sistema
+	de geração de energia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The magma's heat
-	is being converted
-	into electricity.
+	O calor do magma
+	é convertido em
+	eletricidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This technology
-	could be used in the
-	service of good.
+	Essa tecnologia poderia
+	ser usada para o bem.
 	"""
 	keyWait
 		any = false
@@ -65,17 +66,16 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A gun battery
-	sits atop this
-	tower.
+	Uma arma se posta
+	sobre a torre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's proof of how
-	heavily armed this
-	place is.
+	É uma prova do quão
+	pesadamente armado
+	este lugar é.
 	"""
 	keyWait
 		any = false
@@ -84,22 +84,22 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	This pipe is part
-	of Nebula's power
-	generation system.
+	Esse tubo faz parte
+	do sistema de geração
+	de energia da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The system converts
-	magma's heat into
-	electricity.
+	O sistema converte
+	o calor do magma em
+	eletricidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in!"
+	"Dá para se conectar\nnele!"
 	keyWait
 		any = false
 	end

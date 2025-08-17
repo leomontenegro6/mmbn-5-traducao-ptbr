@@ -9,9 +9,8 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My duty is to
-	protect this
-	KtnaData.
+	É o meu dever proteger
+	estes Dados da Katana.
 	"""
 	keyWait
 		any = false
@@ -19,8 +18,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Can I have your
-	KtnaData?
+	Poderia me dar
+	esses dados?
 	"""
 	keyWait
 		any = false
@@ -28,24 +27,25 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	You want the
-	KtnaData?!
+	Você quer os meus
+	Dados da Katana?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All right!"
+	"Tudo bem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Show me what
-	you've got!
+	Mas, primeiro,
+	mostre-me do que
+	você é capaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BRING IT ON!"
+	"VAMOS LÁ!"
 	keyWait
 		any = false
 	flagSet
@@ -59,8 +59,7 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Keep up the good
-	work⋯
+	Continue assim...
 	"""
 	keyWait
 		any = false
@@ -71,22 +70,20 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My duty is to
-	protect this
-	KtnaData.
+	É o meu dever proteger
+	estes Dados da Katana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm watching over
-	the katana in
-	this room.
+	Eu vigio a katana que
+	fica nesta sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Take a good look."
+	"Aprecie-a bem."
 	keyWait
 		any = false
 	end
@@ -100,21 +97,21 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	There's been some
-	kind of incident.
+	Parece que ocorreu
+	algum tipo de incidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I removed the
-	KtnaData so it
-	won't get stolen.
+	Eu removi os Dados da
+	Katana para impedi-la
+	de ser roubada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's safe for now."
+	"Ela está a salvo agora."
 	keyWait
 		any = false
 	end

@@ -9,15 +9,16 @@ script 0 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	This is Yai's site!
-	This is the BBS.
+	Esta é a página da Yai!
+	Mais especificamente,
+	o fórum dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please post at your
-	leisure!
+	Por favor, fiquem à
+	vontade para postar!
 	"""
 	keyWait
 		any = false
@@ -32,23 +33,24 @@ script 1 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Nice new site! The
-	goldfish are cute!
+	Ai, a nova página tá
+	tão legal! Os peixinhos
+	são uma graça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It reminds me of the
-	ACDC festival last
-	year! What fun.
+	Faz lembrar do festival
+	de ACDC do ano passado!
+	Pura diversão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should all go
-	again this year!
+	A gente devia ir
+	de novo este ano!
 	"""
 	keyWait
 		any = false
@@ -63,32 +65,33 @@ script 2 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Super site,dude!
-	And tks for trading
-	that nice chip!
+	Maneiro, a página! E
+	valeu por trocar aquele
+	chip legal comigo, Guts!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now Dex's folder
-	won't be just a
-	bunch of cannons!
+	Agora, a pasta do Dex
+	não vai mais ser só
+	um monte de canhões!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I added a BBS to
-	Dex's site,too!
+	E eu também instalei um
+	fórum lá na página do
+	Dex, Guts!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all about
-	battles. Hope to
-	see your comments!
+	Ele é todo sobre lutas.
+	Quero ler os comentários
+	de vocês lá! Guuuts!
 	"""
 	keyWait
 		any = false
@@ -103,39 +106,39 @@ script 3 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Thanks,Mayl. I've
-	the goldfish idea
-	from the ACDC fair.
+	Obrigada, Mayl. A ideia
+	dos peixinhos veio justo
+	do festival de ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remember last time
-	when we scooped
-	goldfish?
+	Lembra quando a gente
+	pegou os peixinhos
+	dourados na barraquinha?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And tks,GutsMan,I
-	checked out the
-	site.
+	E obrigada, GutsMan.
+	Eu conferi a página.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell Dex to take his
-	face off his site!
+	Só... dá pra mandar o
+	Dex tirar a cara feia
+	dele de lá?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll scare
-	everybody away!
+	Só vai assustar
+	os visitantes!
 	"""
 	keyWait
 		any = false
@@ -150,32 +153,33 @@ script 4 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Guess what I found
-	at Higsby's shop
-	in ACDC Town?!
+	Adivinhem só o que eu
+	achei na Loja do Higsby,
+	no Bairro ACDC?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A new PET! It's
-	called Progress PET.
+	Um novo PET!
+	O nome dele é
+	"Progress PET".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would've bought
-	one,but I was short
-	one Zenny⋯
+	Eu até ia comprar um,
+	mas tava meio mal das
+	pernas... e dos Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next time I go,I'll
-	bring my whole
-	piggy bank!
+	Da próxima vez, eu
+	vou levar TODAS as
+	minhas economias!
 	"""
 	keyWait
 		any = false
@@ -190,24 +194,24 @@ script 5 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I went to buy one
-	with Mayl.
+	Eu saí pra comprar
+	um com a Mayl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's easier for our
-	Navis to get around
-	with the new version
+	Essa nova versão deixa
+	bem mais fácil pra nós,
+	Navis, navegarmos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it comes in lots
-	of colors. Mayl got
-	her PET in pink!
+	e vem em várias cores
+	diferentes. A Mayl
+	comprou um PET rosa!
 	"""
 	keyWait
 		any = false
@@ -222,9 +226,9 @@ script 6 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Wow,you got me
-	curious! Sounds like
-	quite a PET!
+	Olha!
+	Agora, eu fiquei curioso!
+	Parece um PET trilegal!
 	"""
 	keyWait
 		any = false
@@ -238,7 +242,7 @@ script 7 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"Neb⋯u⋯la⋯"
+	"Neb... u... la..."
 	keyWait
 		any = false
 	waitHold
@@ -252,40 +256,41 @@ script 8 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I haven't seen Mumu
-	since that last
-	post.
+	Eu não vejo mais o
+	Mumu desde aquela
+	última postagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Could something have
-	happened? Surely he
-	didn't join Nebula?
+	Será que aconteceu
+	alguma coisa? Ele não
+	entrou pra Nebula.. né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why would an
-	organization want to
-	take over the Net?
+	Por que uma organização
+	ia querer dominar a
+	Rede?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder who's behind
-	the Nebula group?
+	Aliás, quem será
+	que tá por trás
+	desse grupo Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How vicious⋯like
-	an internet
-	hijacking⋯
+	Que agressivos...
+	Eles querem, tipo,
+	sequestrar a Rede...
 	"""
 	keyWait
 		any = false
@@ -299,37 +304,38 @@ script 9 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"ACDC Area is free!"
+	"A liberdade cantou\npra Área ACDC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now we can roam the
-	net without fear.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Can you believe how
-	much we're affected
-	when the Net's down?
+	Agora, a gente
+	pode andar pela
+	Rede sem medo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It really shows how
-	much we depend on
-	our Navis.
+	Dá pra acreditar o
+	quanto a gente é afetado
+	quando a Rede cai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It makes me want to
-	take real good care
-	of mine!
+	Realmente, a gente
+	depende demais nos
+	nossos Navis.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só me faz querer
+	cuidar muuuuuito
+	bem do meu!
 	"""
 	keyWait
 		any = false
@@ -344,24 +350,24 @@ script 10 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Beltz is right. We
-	expect a lot from
-	our Navis.
+	O Beltz tem razão.
+	A gente sobrecarrega
+	demais os nosso Navis,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we tend to take
-	them for granted.
+	e, ainda assim,
+	esquece de valorizar
+	eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should treat them
-	with the respect
-	they deserve.
+	Temos que tratá-los com
+	o respeito que merecem.
 	"""
 	keyWait
 		any = false
@@ -376,44 +382,45 @@ script 11 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hey,Yai!
-	How r u doing?
+	Oi, Yai!
+	Como você está?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I took a vacation to
-	Oran Isle,too!
+	Eu também tirei férias
+	na Ilha Oran!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I guess I
-	must've missed you!
+	Mas acho que nós nos
+	desencontramos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad cuz it would
-	have been fun to
-	hang out!
+	Uma pena, porque teria
+	sido muito legal falar
+	com você lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hope to see you at
-	a party!
+	Espero te encontrar
+	em uma festa,
+	qualquer dia desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tell Glide I said
-	hi!
+	Abraço pro Glide,
+	também!
 	"""
 	keyWait
 		any = false
@@ -428,31 +435,31 @@ script 12 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Whoa,dude! I went
-	to Oran Isle,too!
-	It was a blast!
+	Caramba! Eu fui pra
+	Ilha Oran, também!
+	Foi tão da hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Great seafood!
-	Clear skies!
-	That place rocks!
+	Os frutos do mar são
+	ótimos, o céu é azul-
+	zinho... É do caramba!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't miss the
-	OldMine tour!
+	E conhecer a Velha Mina
+	é óbrigatório!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next time I wanna go
-	with GutsMan!
+	Da próxima vez, eu
+	quero ir com o GutsMan!
 	"""
 	keyWait
 		any = false
@@ -467,39 +474,40 @@ script 13 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Gosh,Dex! Gates is
-	a world-famous
-	BattleChip designer.
+	Ai, Dex! O Gates é
+	um designer de chips
+	mundialmente famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't you talk with
-	a little more class?
+	Não dá pra você ter
+	mais classe ao falar
+	com ele?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hello Mr.Gates.
-	I regret not meeting
-	you on Oran Isle.
+	Olá, Sr. Gates.
+	É mesmo lamentável não
+	tê-lo visto na Ilha Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're hosting a
-	party at
-	Ayanokoji's.
+	Vamos dar uma festa
+	na mansão Ayano em
+	breve.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope that we can
-	see you there.
+	Esperamos muito
+	recebê-lo lá.
 	"""
 	keyWait
 		any = false
@@ -514,25 +522,25 @@ script 14 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Wow! Gates is a
-	real-live chip
-	designer?!
+	Caramba! Esse Gates
+	é um designer de
+	chips?! É sério?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have an idea!!!
-	You should make a
-	DexSP GigaChip!
+	Ah, já sei!!!
+	Cê devia fazer um
+	GigaChip DexSP!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would be the
-	toughest chip in all
-	of ACDC Town!!!
+	Ia ser o chip mais
+	fortão de todo o
+	Bairro ACDC!!!
 	"""
 	keyWait
 		any = false
@@ -547,28 +555,28 @@ script 15 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Are you kidding?
-	If a chip were made
-	after you⋯
+	Dex, por favor!
+	Se fossem mesmo fazer
+	um chip de você,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'd be Fool's Gold,
-	or maybe Hot Air.
+	seria "Ouro de Tolo".
+	Ou "Pura Balela".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People would avoid
-	it like the plague!
+	Todo mundo ia evitar,
+	como se fosse pandemia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Just forget it,Dex!"
+	"Só, fica quietinho,\npode ser?"
 	keyWait
 		any = false
 	waitHold
@@ -582,68 +590,65 @@ script 16 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I just can't stop
-	playing Chip Trader.
+	Eu não consigo parar
+	de usar o Troca-Chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a machine at
-	Higsby's.
+	É uma máquina que tem
+	lá na Loja do Higsby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You put in 3 chips,
-	and out comes a new
-	one.
+	Você insere três chips
+	e ele devolve um novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You get chips
-	randomly,but that's
-	part of the fun!
+	O chip que você recebe
+	é aleatório, mas é aí
+	que tá a graça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The other day I put
-	in three Cannon
-	chips⋯
+	Um dia desses, eu
+	botei três Cannons...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And out came a
-	Recov50!
+	e recebi um Recov50!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's just so much
-	fun I can't stop⋯
+	É tão divertido que eu
+	não consigo parar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,by the way,when
-	you use Chip Trader,
+	Ah, por sinal, quando
+	você usa o Troca-Chips,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It saves
-	automatically,so be
-	careful!
+	o jogo salva
+	automaticamente,
+	então, cuidado!
 	"""
 	keyWait
 		any = false
@@ -658,60 +663,58 @@ script 17 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Wow,I know just
-	what you mean,Noah!
+	Ah, eu te entendo, Noah!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You sacrifice three
-	chips to fate⋯
+	Você sacrifica três
+	chips para o acaso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you don't know
-	what'll come of it!
+	sem saber o que virá
+	em troca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And when you get
-	just the coolest
-	chip⋯Oh,wow!
+	E quando vem um
+	chip daqueles super
+	bons... Aaaahhh!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chip Trader is,
-	like,a way of life!
-	A grand battle!
+	O Troca-Chips é, tipo,
+	um modo de VIDA!
+	Uma BATALHA climática!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you know what?
-	I heard about
-	a special trader⋯
+	Ah, e, ficou sabendo?
+	Ouvi falar sobre um
+	Troca-Chips especial
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That accepts ten
-	chips!
+	que aceita DEZ chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow,I can't wait
-	to try that one!
+	Cara! Mal posso esperar
+	pra experimentar esse!
 	"""
 	keyWait
 		any = false
@@ -726,55 +729,53 @@ script 18 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Today I went to the
-	dock near SciLab.
+	Hoje, eu fui no porto
+	perto do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And there was a
-	great big ship
-	moored there!
+	Tinha esse navio
+	enorme atracado lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's called Queen
-	Bohemia.
+	Se chama o
+	"Rainha Boêmia".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd give an arm and
-	a leg for a cruise
-	on that ship!
+	Ah, eu venderia uns
+	órgãos pra entrar em
+	um navio daqueles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet they'd have a
-	banquet like you've
-	never seen⋯
+	Aposto que eles servem
+	um baquete, tipo, de
+	outro mundo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoa! I was just
-	imagining myself on
-	the gorgeous deck.
+	Nnnngh! Eu tava me
+	imaginando naquele
+	convés maravilhoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,how do you
-	suppose I could get
-	invited?
+	Ai... Como será que se
+	faz pra ser convidado?
 	"""
 	keyWait
 		any = false
@@ -789,54 +790,54 @@ script 19 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I heard something
-	happened on
-	Queen Bohemia.
+	Ouvi dizer que
+	aconteceu uma coisa
+	aí no Rainha Boêmia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The perpetrator
-	tried to steal the
-	booster system
+	O culpado tentou roubar
+	o sistema impulsionador
+	desenvolvido por uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯designed by a
-	Ubercorp.
+	tal de Ubercorp.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Booster systems can
-	boost the power of
-	programs.
+	Esses sistemas podem
+	intensificar a força
+	de programas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apparently Nebula
-	was behind the theft
-	attempt!
+	E parece que a Nebula
+	tava por trás dessa
+	tentativa de roubo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First the internet,
-	now booster systems.
+	Primeiro, a Rede,
+	e, agora, sistemas
+	impulsionadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just what is Nebula
-	after?
+	Afinal, do que é que
+	a Nebula tá atrás?
 	"""
 	keyWait
 		any = false
@@ -851,30 +852,30 @@ script 20 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Nebula probably
-	wants to put an end
-	to the digital world
+	A Nebula deve querer
+	acabar com este mundo
+	digital.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They took over End
-	Area,and they can't
-	send emails anymore.
+	Tomaram a Área Endo e,
+	agora, não dá mais pra
+	mandar e-mails lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's going to
-	bring back the
-	homing pigeon!
+	A Nebula vai fazer os
+	pombos-correio voltarem
+	à moda!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heck,I can't wait!"
+	"Olha, tô doido por isso!"
 	keyWait
 		any = false
 	waitHold
@@ -888,41 +889,40 @@ script 21 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	There must be
-	something wrong
-	with me.
+	Tem alguma coisa
+	errada comigo, eu acho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I saw a broadcast by
-	Dr.Regal,and I've
-	felt antsy since.
+	Depois que eu vi a
+	transmissão do Dr. Regal,
+	me senti arisco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It just isn't like
-	me. I've finally
-	calmed down,but⋯
+	Não é do meu feitio,
+	isso. Finalmente consegui
+	me acalmar, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard it's put all
-	of ACDC Town in
-	a panic.
+	Ouvi dizer que isso
+	deixou todo o Bairro
+	ACDC em pânico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm worried sick to
-	think of what might
-	be in store for us.
+	Tô tão preocupado com
+	o que eles podem ter
+	guardado pra gente...
 	"""
 	keyWait
 		any = false
@@ -937,46 +937,48 @@ script 22 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I think of myself as
-	calm,but I screamed
-	my head off!
+	Eu sempre me achei
+	super calma, mas gritei
+	feito uma hiena ali!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing
-	scarier than losing
-	control of yourself.
+	Nada é mais apavorante
+	que perder o controle
+	sobre nós mesmos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I may as well be an
-	Undernet dweller!
+	Eu tava no mesmo nível
+	que um daqueles pilantras
+	da Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I heard
-	it happened
+	E o pior é que
+	eu ouvi dizer que
+	isso aconteceu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in places all
-	across Electopia!
+	por todas as regiões
+	de Ni-Hon!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We mustn't let the
-	underground world
-	take over.
+	Não podemos deixar
+	esse pessoal trevoso
+	dominar a gente!
 	"""
 	keyWait
 		any = false
@@ -991,25 +993,25 @@ script 23 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Shoot,I don't
-	remember a thing for
-	that period.
+	Cara, eu perdi total a
+	memória do que rolou
+	durante esse tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And memory ain't
-	something I wanna
-	lose!
+	E eu não quero perder
+	a minha memória, não,
+	senhor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is big trouble.
-	What the heck's
-	gonna happen?
+	A coisa tá feia...
+	O que será que vai
+	acontecer agora?!
 	"""
 	keyWait
 		any = false
@@ -1024,32 +1026,32 @@ script 24 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	The other day I
-	installed Xfolder
-	in my Extra Folder.
+	Outro dia, eu instalei
+	a XPasta como a minha
+	Pasta Extra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I'm using the
-	Mr.Famous Wannabe's
-	folder!
+	Agora, estou usando a
+	pasta do Aspirante a
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does that make me a
-	Wannabe wannabe?
+	Isso faz de mim um...
+	aspirante a aspirante?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't edit my
-	Extra Folder.
-	Wonder why?
+	Mas eu não consigo
+	editar essa Pasta
+	Extra. Por que será?
 	"""
 	keyWait
 		any = false
@@ -1064,62 +1066,61 @@ script 25 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hey!
-	This is Koetsu!
+	Opa!
+	Koetsu falando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today let's learn
-	about folders.
+	Vamos aprender hoje
+	sobre pastas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can add three
-	folders to Progress
-	PETs.
+	Nos Progress PETs,
+	podemos adicionar
+	até três pastas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Folder1,Folder2,
-	and Extra Folder.
+	A Pasta1, a Pasta2
+	e a Pasta Extra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can edit Folder1
-	and Folder2
-	yourself
+	A Pasta1 e a Pasta2,
+	você pode editar
+	à vontade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you can't edit
-	Extra Folder. But
-	don't worry⋯
+	mas não dá pra editar
+	a Extra. Mas sem pânico!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can install
-	people's folders
-	into Extra Folder.
+	Dá pra instalar pastas
+	de outras pessoas como
+	Pasta Extra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can be fun to
-	battle with other
-	people's folders.
+	Às vezes, é divertido
+	lutar usando as
+	pastas dos outros.
 	"""
 	keyWait
 		any = false
@@ -1134,41 +1135,41 @@ script 26 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Wow! Ever wanted to
-	get a better view
-	of the field?
+	Ei! Já tiveram vontade
+	de ter uma vista melhor
+	do campo de batalha?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like when you're in
-	battle with the
-	Custom Screen on?
+	Tipo, no meio de uma
+	luta, com a Tela de
+	Customização ligada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,you can close
-	the Custom Screen by
-	pressing SELECT!
+	Bom, dá pra fechar a
+	Tela de Customização
+	apertando "SELECT"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press SELECT again
-	to open the Custom
-	Screen again!
+	Aí, é só apertar
+	"SELECT" de novo
+	pra voltar a ela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This way you won't
-	miss a thing
-	in battle!
+	Desse jeito, você
+	não perde nada
+	durante as lutas!
 	"""
 	keyWait
 		any = false
@@ -1183,32 +1184,32 @@ script 27 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Some people are just
-	so long-winded,you
-	know what I mean?
+	Tem umas pessoas que
+	não sabem calar a boca,
+	sabe como é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you ever happen
-	to meet somebody
-	like that⋯
+	Se você acabar
+	esbarrando com
+	alguém assim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just press the
-	B Button!
+	é só apertar
+	o botão "B"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'll teach those
-	motor mouths to
-	mince their words!
+	Isso vai ensinar esses
+	tagarelas a aprenderem
+	a resumir as coisas!
 	"""
 	keyWait
 		any = false
@@ -1223,27 +1224,27 @@ script 28 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Heh heh! Have I got
-	some advice for you!
+	He he! Eu tenho uma
+	dica incrível pra vocês!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press SELECT during
-	an event⋯
+	Apertem "SELECT"
+	durante um evento...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"To skip past it."
+	"pra pular ele."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But be careful not
-	to skip past
-	anything important!
+	Só tomem cuidado pra
+	não pularem nada
+	importante!
 	"""
 	keyWait
 		any = false

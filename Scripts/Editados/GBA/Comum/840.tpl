@@ -5,8 +5,7 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,let's get
-	rolling!
+	Beleza, vamos nessa!
 	"""
 	keyWait
 		any = false
@@ -20,7 +19,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 227
-	"*RUMBLE RUMBLE*"
+	"PRRRUUMMM PRRRUMMM"
 	wait
 		frames = 29
 	end
@@ -29,7 +28,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's that sound?!"
+	"Que barulho é esse?!"
 	keyWait
 		any = false
 	end
@@ -39,8 +38,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yikes! It's an
-	earthquake!
+	Eita!
+	É um terremoto!
 	"""
 	keyWait
 		any = false
@@ -50,13 +49,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Phew! It stopped."
+	"Ufa! Parou."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait! I wonder if
-	everybody's alright?
+	Pera! Será que o
+	pessoal tá bem?!
 	"""
 	keyWait
 		any = false
@@ -68,7 +67,7 @@ script 5 mmbn5 {
 	msgOpen
 	"""
 	Dex! Dex!
-	Are you OK?
+	Vocês tão bem?
 	"""
 	keyWait
 		any = false
@@ -81,8 +80,8 @@ script 6 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yeah,we're still in
-	one piece,dude!
+	Tamos. A gente ainda
+	tá inteiro, aqui!
 	"""
 	keyWait
 		any = false
@@ -94,14 +93,13 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really? Good!"
+	"É mesmo? Ufa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd be in big
-	trouble if this
-	place caved in.
+	Seria péssimo se a
+	caverna desmoronasse.
 	"""
 	keyWait
 		any = false
@@ -114,8 +112,8 @@ script 8 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	That's for sure. Be
-	careful,Lan!
+	Com certeza.
+	Se cuida aí, Lan!
 	"""
 	keyWait
 		any = false
@@ -127,7 +125,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,you too!"
+	"Claro. Vocês também!"
 	keyWait
 		any = false
 	end

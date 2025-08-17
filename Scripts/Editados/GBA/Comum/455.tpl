@@ -5,15 +5,9 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ORAN AREA
-	IS THE WILDEST
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	PLACE IN THE
-	ENTIRE NET!
+	A ÁREA ORAN É O
+	"POINT" MAIS SELVAGEM
+	DA REDE INTEIRA!
 	"""
 	keyWait
 		any = false
@@ -24,17 +18,16 @@ script 1 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I study cyber-
-	biology at my
-	university.
+	Eu estudo cyber-biologia
+	na minha universidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The viruses I find
-	in this area are
-	very interesting⋯
+	Os vírus que se pode
+	achar nesta área são
+	tão interessantes...
 	"""
 	keyWait
 		any = false
@@ -45,23 +38,23 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I came here as an
-	assistant to my
+	Eu tô aqui como
+	assistente do meu
 	professor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm aiming big
-	in my research.
+	A minha pesquisa
+	é bem ambiciosa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want to
-	impress everybody!
+	Eu quero deixar todo
+	mundo de queixo caído!
 	"""
 	keyWait
 		any = false
@@ -72,8 +65,8 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A⋯
-	⋯ANYTHING⋯!
+	A...
+	... NADA...!
 	"""
 	keyWait
 		any = false
@@ -81,9 +74,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -94,8 +87,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Wha⋯
-	⋯eck⋯on?!
+	O qu...
+	abos... cendo?!
 	"""
 	keyWait
 		any = false
@@ -103,9 +96,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -116,8 +109,8 @@ script 12 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Wh⋯is?
-	W⋯!!
+	O q... so?
+	P...!!
 	"""
 	keyWait
 		any = false
@@ -126,9 +119,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -139,16 +132,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HEARD THEY TRACED
-	THE SABOTAGE BACK
-	TO END CITY!
+	PARECE QUE RASTREARAM
+	A SABOTAGEM, E VEIO
+	DA ÁREA ENDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WONDER WHAT'S
-	HAPPENING THERE?
+	O QUE SERÁ QUE ESTÁ
+	ACONTECENDO POR LÁ?
 	"""
 	keyWait
 		any = false
@@ -159,17 +152,16 @@ script 21 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I study cyber-
-	biology at my
-	university.
+	Eu estudo cyber-biologia
+	na minha universidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyber problems
-	are outside of my
-	academic field⋯
+	Problemas de rede estão
+	além do meu campo
+	acadêmico...
 	"""
 	keyWait
 		any = false
@@ -180,9 +172,9 @@ script 22 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Professor! Who's
-	behind all the
-	sabotage?
+	Professor! Quem é que
+	está por trás dessa
+	sabotagem toda?
 	"""
 	keyWait
 		any = false
@@ -193,16 +185,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU ALWAYS SEE
-	SOMETHING NEW
-	WHEN YOU COME HERE!
+	SEMPRE TEM UMA COISA
+	NOVA PARA SE VER AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ORAN AREA IS
-	FULL OF SURPRISES!
+	A ÁREA ORAN É
+	CHEIA DE SURPRESAS!
 	"""
 	keyWait
 		any = false
@@ -213,16 +204,15 @@ script 31 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I'm going to make
-	a presentation on
-	Virus evolution!
+	Farei uma apresentação
+	sobre evolução de vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bugtank,BugtankEX,
-	and then⋯?
+	Bugtank, BugtankEX,
+	e depois...?
 	"""
 	keyWait
 		any = false
@@ -233,9 +223,9 @@ script 32 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Figure that out and
-	you'll become a star
-	of the academy,sir!
+	Se você descobrir isso,
+	vai se tornar um astro
+	acadêmico, senhor!
 	"""
 	keyWait
 		any = false
@@ -246,9 +236,9 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE SOME
-	AREAS ARE HAVING
-	BIG TROUBLE⋯
+	PARECE QUE ALGUMAS
+	ÁREAS ESTÃO TENDO
+	SÉRIOS PROBLEMAS...
 	"""
 	keyWait
 		any = false
@@ -259,8 +249,8 @@ script 41 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	There's something
-	bad happening⋯
+	Tem alguma coisa
+	ruim acontecendo...
 	"""
 	keyWait
 		any = false
@@ -271,8 +261,8 @@ script 42 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Something is
-	wrong,sir!
+	Está rolando algum
+	problema, senhor!
 	"""
 	keyWait
 		any = false
@@ -283,16 +273,16 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SOMETHING REALLY
-	BAD HAPPENED
-	IN SCILAB AREA.
+	ACONTECEU UMA COISA
+	MUITO RUIM NA ÁREA
+	SCILAB.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WONDER IF
-	IT'S OK BY NOW?
+	SERÁ QUE ELA JÁ ESTÁ
+	BEM AGORA?
 	"""
 	keyWait
 		any = false
@@ -303,15 +293,14 @@ script 51 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	What's the next form
-	of BugtankEx?
+	Qual é a forma seguinte
+	do BugtankEX?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Have you seen
-	it?
+	Você já viu?
 	"""
 	keyWait
 		any = false
@@ -322,9 +311,8 @@ script 52 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sir! You've
-	almost figured
-	it out!
+	Senhor! Você está quase
+	chegando na resposta!
 	"""
 	keyWait
 		any = false

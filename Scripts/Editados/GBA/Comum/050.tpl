@@ -4,16 +4,16 @@ script 0 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -33,7 +33,7 @@ script 2 mmbn5 {
 		jumpIfFalse = 5
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -41,7 +41,7 @@ script 2 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -56,9 +56,8 @@ script 2 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	BattleChip:
-	"
+	 adquiriu
+	um chip:
 	"""
 	printChip
 		buffer = 3
@@ -82,16 +81,16 @@ script 4 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -103,15 +102,15 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	It's locked! You
-	need "
+	Bloqueado! Você
+	precisa do "
 	"""
 	printItem
 		buffer = 0
 		item = 117
 	"""
 	"
-	to open it.
+	para acessá-lo.
 	"""
 	keyWait
 		any = false
@@ -128,9 +127,8 @@ script 7 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	BattleChip:
-	"
+	 adquiriu
+	um chip:
 	"""
 	printChip
 		buffer = 3
@@ -150,16 +148,16 @@ script 10 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -179,7 +177,7 @@ script 12 mmbn5 {
 		jumpIfFalse = 15
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -187,7 +185,7 @@ script 12 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -204,9 +202,8 @@ script 12 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	BattleChip:
-	"
+	 adquiriu
+	um chip:
 	"""
 	printChip
 		buffer = 3
@@ -230,16 +227,16 @@ script 14 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -254,13 +251,13 @@ script 15 mmbn5 {
 }
 script 16 mmbn5 {
 	msgOpen
-	"Too many \""
+	"Excesso de \""
 	printItem
 		buffer = 3
 		item = 0
 	"""
 	."
-	Can't take any more.
+	Não pode levar mais.
 	"""
 	keyWait
 		any = false
@@ -279,8 +276,8 @@ script 17 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	SubChip:
+	 adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -297,16 +294,16 @@ script 20 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -326,7 +323,7 @@ script 22 mmbn5 {
 		jumpIfFalse = 25
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -334,7 +331,7 @@ script 22 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!
+	foi ativado!
 	"""
 	keyWait
 		any = false
@@ -350,7 +347,7 @@ script 22 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printBuffer
@@ -373,16 +370,16 @@ script 24 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -407,7 +404,7 @@ script 27 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printBuffer
@@ -426,16 +423,16 @@ script 30 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -455,7 +452,7 @@ script 32 mmbn5 {
 		jumpIfFalse = 35
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -463,7 +460,7 @@ script 32 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -477,7 +474,7 @@ script 32 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -498,16 +495,16 @@ script 34 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -530,7 +527,7 @@ script 37 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got:
+	 adquiriu:
 	"
 	"""
 	printItem
@@ -547,16 +544,16 @@ script 40 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -576,7 +573,7 @@ script 42 mmbn5 {
 		jumpIfFalse = 25
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -584,7 +581,7 @@ script 42 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -599,13 +596,13 @@ script 42 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	printCurrentNavi
-	" got:\n"
+	" adquiriu:\n"
 	printBuffer
 		buffer = 3
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	"\nBugFrags!!!"
+	"\nFragBugs!!!"
 	keyWait
 		any = false
 	playerFinish
@@ -620,16 +617,16 @@ script 44 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -653,13 +650,13 @@ script 47 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	printCurrentNavi
-	" got:\n"
+	" adquiriu:\n"
 	printBuffer
 		buffer = 3
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	"\nBugFrags!!!"
+	"\nFragBugs!!!"
 	keyWait
 		any = false
 	playerFinish
@@ -686,16 +683,16 @@ script 54 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -706,7 +703,7 @@ script 54 mmbn5 {
 		jumpIfTrue = continue
 		jumpIfFalse = 57
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -714,15 +711,15 @@ script 54 mmbn5 {
 		item = 115
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	Os vírus escondidos
+	nos dados misteriosos
+	foram deletados!
 	"""
 	keyWait
 		any = false
@@ -738,8 +735,8 @@ script 57 mmbn5 {
 	flagSetBuffered
 		buffer = 0
 	"""
-	The mystery data was
-	a virus!
+	Os dados misteriosos
+	eram vírus!
 	"""
 	keyWait
 		any = false
@@ -766,16 +763,16 @@ script 64 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -786,7 +783,7 @@ script 64 mmbn5 {
 		jumpIfTrue = continue
 		jumpIfFalse = 67
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -794,15 +791,15 @@ script 64 mmbn5 {
 		item = 115
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The virus hidden
-	in the mystery data
-	was deleted!
+	Os vírus escondidos
+	nos dados misteriosos
+	foram deletados!
 	"""
 	keyWait
 		any = false
@@ -818,8 +815,8 @@ script 67 mmbn5 {
 	flagSetBuffered
 		buffer = 0
 	"""
-	The mystery data was
-	a virus!
+	Os dados misteriosos
+	eram vírus!
 	"""
 	keyWait
 		any = false
@@ -830,16 +827,16 @@ script 70 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -873,7 +870,7 @@ script 72 mmbn5 {
 		jumpIfToadMan = continue
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -881,7 +878,7 @@ script 72 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -895,8 +892,8 @@ script 72 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -917,16 +914,16 @@ script 74 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -963,8 +960,8 @@ script 77 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -981,16 +978,16 @@ script 80 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1024,7 +1021,7 @@ script 82 mmbn5 {
 		jumpIfToadMan = continue
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1032,7 +1029,7 @@ script 82 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1047,8 +1044,8 @@ script 82 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	NaviCust Program:
+	 adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1069,16 +1066,16 @@ script 84 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1116,8 +1113,8 @@ script 87 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	NaviCust Program:
+	 adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1134,16 +1131,16 @@ script 90 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1177,7 +1174,7 @@ script 92 mmbn5 {
 		jumpIfToadMan = continue
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1185,7 +1182,7 @@ script 92 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1199,8 +1196,8 @@ script 92 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1213,9 +1210,8 @@ script 92 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	
+	Memória padrão
+	aumentada em 
 	"""
 	printBuffer
 		buffer = 1
@@ -1235,16 +1231,16 @@ script 94 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1281,8 +1277,8 @@ script 97 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1295,9 +1291,8 @@ script 97 mmbn5 {
 	playerResetObject
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	
+	Memória padrão
+	aumentada em 
 	"""
 	printBuffer
 		buffer = 1
@@ -1313,16 +1308,16 @@ script 100 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1356,7 +1351,7 @@ script 102 mmbn5 {
 		jumpIfToadMan = continue
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1364,7 +1359,7 @@ script 102 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1378,8 +1373,8 @@ script 102 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1392,8 +1387,8 @@ script 102 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	You can now carry
-	more SubChips!!!
+	Agora, você pode
+	portar mais SubChips!
 	"""
 	keyWait
 		any = false
@@ -1407,16 +1402,16 @@ script 104 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1453,8 +1448,8 @@ script 107 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1467,8 +1462,8 @@ script 107 mmbn5 {
 	playerResetObject
 	clearMsg
 	"""
-	You can now carry
-	more SubChips!!!
+	Agora, você pode
+	portar mais SubChips!
 	"""
 	keyWait
 		any = false
@@ -1478,16 +1473,16 @@ script 110 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1521,7 +1516,7 @@ script 112 mmbn5 {
 		jumpIfToadMan = continue
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1529,7 +1524,7 @@ script 112 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1543,8 +1538,8 @@ script 112 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1557,8 +1552,9 @@ script 112 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	NaviCust Memory
-	Map Expanded!
+	O Mapa de Memória
+	do Customizador
+	foi expandido!
 	"""
 	keyWait
 		any = false
@@ -1572,16 +1568,16 @@ script 114 mmbn5 {
 	msgOpen
 	printCurrentNavi
 	"""
-	 accessed
-	the mystery data.
-	・
+	 acessou os
+	dados misteriosos.
+	.
 	"""
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
 	keyWait
@@ -1618,8 +1614,8 @@ script 117 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1632,8 +1628,9 @@ script 117 mmbn5 {
 	playerResetObject
 	clearMsg
 	"""
-	Expands NaviCust
-	MemoryMap!!!
+	O Mapa de Memória
+	do Customizador
+	foi expandido!
 	"""
 	keyWait
 		any = false
@@ -1658,8 +1655,8 @@ script 120 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I don't need
-	this data.
+	Não preciso
+	desses dados.
 	"""
 	keyWait
 		any = false
@@ -1670,8 +1667,8 @@ script 121 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I don't need
-	this data.
+	Não preciso
+	desses dados.
 	"""
 	keyWait
 		any = false
@@ -1680,7 +1677,7 @@ script 121 mmbn5 {
 script 125 mmbn5 {
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1688,7 +1685,7 @@ script 125 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1702,8 +1699,8 @@ script 125 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	PowerUp Program:
+	 adquiriu um
+	programa PowerUp:
 	"
 	"""
 	printItem
@@ -1726,7 +1723,7 @@ script 126 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
+	 adquiriu um
 	PowerUp:
 	"
 	"""
@@ -1743,7 +1740,7 @@ script 126 mmbn5 {
 script 127 mmbn5 {
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1751,7 +1748,7 @@ script 127 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1765,7 +1762,7 @@ script 127 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
+	 adquiriu um
 	PowerUp:
 	"
 	"""
@@ -1779,9 +1776,8 @@ script 127 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	
+	Memória padrão
+	aumentada em 
 	"""
 	printBuffer
 		buffer = 1
@@ -1803,7 +1799,7 @@ script 128 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
+	 adquiriu um
 	PowerUp:
 	"
 	"""
@@ -1817,9 +1813,8 @@ script 128 mmbn5 {
 	playerResetObject
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	
+	Memória padrão
+	aumentada em 
 	"""
 	printBuffer
 		buffer = 1
@@ -1834,7 +1829,7 @@ script 128 mmbn5 {
 script 129 mmbn5 {
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1842,7 +1837,7 @@ script 129 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1856,7 +1851,7 @@ script 129 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
+	 adquiriu um
 	PowerUp:
 	"
 	"""
@@ -1870,8 +1865,9 @@ script 129 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	You can now carry
-	more SubChips!
+	Agora, você pode
+	carregar mais
+	SubChips!
 	"""
 	keyWait
 		any = false
@@ -1887,7 +1883,7 @@ script 130 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
+	 adquiriu um
 	PowerUp:
 	"
 	"""
@@ -1901,8 +1897,9 @@ script 130 mmbn5 {
 	playerResetObject
 	clearMsg
 	"""
-	You can now carry
-	more SubChips!
+	Agora, você pode
+	carregar mais
+	SubChips!
 	"""
 	keyWait
 		any = false
@@ -1911,7 +1908,7 @@ script 130 mmbn5 {
 script 131 mmbn5 {
 	msgOpen
 	"""
-	The SubChip
+	O SubChip
 	"
 	"""
 	printItem
@@ -1919,7 +1916,7 @@ script 131 mmbn5 {
 		item = 117
 	"""
 	"
-	was activated!!!
+	foi ativado!!!
 	"""
 	keyWait
 		any = false
@@ -1934,8 +1931,8 @@ script 131 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	NaviCust Program:
+	 adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1959,8 +1956,8 @@ script 132 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 got a
-	NaviCust Program:
+	 adquiriu um
+	programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1978,8 +1975,8 @@ script 133 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I don't need
-	this data.
+	Não preciso
+	desses dados.
 	"""
 	keyWait
 		any = false
@@ -1990,8 +1987,8 @@ script 134 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I don't need
-	this data.
+	Não preciso
+	desses dados.
 	"""
 	keyWait
 		any = false
@@ -2002,8 +1999,8 @@ script 135 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I don't need
-	this data!
+	Eu não preciso
+	desses dados!
 	"""
 	keyWait
 		any = false
@@ -2014,8 +2011,8 @@ script 136 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I don't need
-	this data.
+	Não preciso
+	desses dados.
 	"""
 	keyWait
 		any = false
@@ -2026,8 +2023,8 @@ script 137 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I don't need
-	this data!
+	Eu não preciso
+	desses dados!
 	"""
 	keyWait
 		any = false
@@ -2038,8 +2035,8 @@ script 138 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I don't need
-	this data.
+	Não preciso
+	desses dados.
 	"""
 	keyWait
 		any = false

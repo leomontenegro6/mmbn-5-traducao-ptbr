@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	There's something
-	romantic about a
-	deserted harbor⋯
+	Um porto deserto tem
+	esse ar de romanticismo,
+	né...?
 	"""
 	keyWait
 		any = false
@@ -18,16 +18,16 @@ script 1 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Oh no!
-	You caught me
-	slacking off!
+	Opa!
+	Você me pegou no flagra
+	fugindo do trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,don't tell
-	anyone!
+	Por favor, não conte
+	para ninguém!
 	"""
 	keyWait
 		any = false
@@ -43,17 +43,17 @@ script 2 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I got bored at home,
-	so I wandered over
-	here.
+	Eu tava morrendo de
+	tédio lá em casa, então
+	acabei vindo pra cá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing to
-	do,so I think I'll
-	stay here a bit.
+	Como eu não tenho nada
+	pra fazer, vou ficar um
+	pouquinho aqui.
 	"""
 	keyWait
 		any = false
@@ -64,8 +64,8 @@ script 3 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Maybe I'll go home
-	in a while⋯
+	Acho que já, já,
+	eu vou pra casa...
 	"""
 	keyWait
 		any = false
@@ -81,9 +81,9 @@ script 10 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Oh no⋯ my hand
-	slipped and my PET
-	fell into the ocean!
+	CARA... A minha mão
+	escorregou e o meu PET
+	caiu no mar!
 	"""
 	keyWait
 		any = false
@@ -99,9 +99,9 @@ script 11 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	My Navi started
-	acting up after I
-	read that E-Mail!
+	O meu Navi começou a
+	apresentar defeitos
+	após eu abrir um e-mail!
 	"""
 	keyWait
 		any = false
@@ -112,25 +112,25 @@ script 20 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I still haven't
-	recovered my PET
-	back from the ocean.
+	Eu não consegui achar
+	o meu PET que caiu no
+	mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess there's no
-	use crying over
-	spilt milk.
+	Bom, não adianta
+	chorar sobre leite
+	derramado, eu acho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's time I
-	just gave up and
-	bought a new PET.
+	Talvez seja melhor eu
+	desistir e comprar logo
+	um novo PET.
 	"""
 	keyWait
 		any = false
@@ -141,54 +141,53 @@ script 21 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	My Navi was messed
-	up after that E-Mail
-	from my company
+	Meu Navi ficou estranho
+	depois daquele e-mail
+	da minha empresa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but now it's fine.
-	What do you think
-	happened?
+	mas, agora, está bem.
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah well⋯ time to
-	read some more
-	company E-Mails.
+	Enfim... Hora de ler mais
+	e-mails da empresa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	"."
 	wait
 		frames = 10
-	"・"
+	". "
 	wait
 		frames = 20
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's this? Hey,
-	this E-Mail wasn't
-	meant for me!
+	Ué? Espera, este
+	e-mail nem era para
+	mim!
 	"""
 	keyWait
 		any = false
@@ -199,9 +198,9 @@ script 30 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Won't the Queen
-	Bohemia ever leave
-	port and set sail?
+	O Rainha Boêmia não
+	vai zarpar pra fora
+	deste porto?
 	"""
 	keyWait
 		any = false
@@ -212,16 +211,16 @@ script 35 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm off work on the
-	boat today but I
-	had nothing better
+	Estou de folga do meu
+	trabalho no navio hoje,
+	mas, como eu não tinha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to do,so here I am.
-	How sad is that?
+	nada melhor pra fazer,
+	cá estou. Triste, né?
 	"""
 	keyWait
 		any = false

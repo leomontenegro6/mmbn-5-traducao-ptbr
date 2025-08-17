@@ -69,9 +69,9 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack into Squirrel-
-	Cmp! Let's show
-	em what we got!
+	Se conecta no CPU
+	do esquilo! Vamos
+	botar pra quebrar!
 	"""
 	keyWait
 		any = false
@@ -82,9 +82,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in,Lan! Let's
-	get to Oran Area
-	through ACDC Area!
+	Se conecta, Lan!
+	Vamos pra Área Oran
+	através da Área ACDC!
 	"""
 	keyWait
 		any = false
@@ -95,8 +95,8 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back to
-	Oran Area,Lan!
+	Bora voltar pra
+	Área Oran, Lan!
 	"""
 	keyWait
 		any = false
@@ -107,9 +107,9 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to fix
-	the Net! Let's go
-	to Oran Area3!
+	A gente tem que con-
+	sertar a Rede! Vamos
+	lá pra Área Oran 3!
 	"""
 	keyWait
 		any = false
@@ -120,8 +120,8 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go check
-	SciLab3!
+	Vamos lá conferir
+	SciLab 3!
 	"""
 	keyWait
 		any = false
@@ -132,8 +132,8 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's head back
-	home and rest.
+	Bora voltar pra
+	casa e descansar.
 	"""
 	keyWait
 		any = false
@@ -152,9 +152,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find Tesla!
-	I'm worried about
-	MagnetMan.
+	Bora encontrar a Tesla!
+	Eu tô preocupado com
+	o MagnetMan.
 	"""
 	keyWait
 		any = false
@@ -165,9 +165,9 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find Pride!
-	I'm worried about
-	KnightMan.
+	Bora encontrar a Pride!
+	Eu tô preocupado com
+	o KnightMan.
 	"""
 	keyWait
 		any = false
@@ -181,9 +181,9 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack into the drill,
-	Lan! Tesla is
-	waiting for us!
+	Se conecta na broca,
+	Lan! A Tesla tá
+	contando com a gente!
 	"""
 	keyWait
 		any = false
@@ -194,9 +194,9 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack into the drill,
-	Lan! Pride is
-	waiting for us!
+	Se conecta na broca,
+	Lan! A Pride tá
+	contando com a gente!
 	"""
 	keyWait
 		any = false
@@ -207,8 +207,8 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	MissionCtrl!
+	Vamos lá pro
+	Controle de Missão!
 	"""
 	keyWait
 		any = false
@@ -222,8 +222,8 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go and
-	talk to Tesla.
+	Vamos lá falar
+	com a Tesla.
 	"""
 	keyWait
 		any = false
@@ -234,8 +234,8 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go and
-	talk to Pride.
+	Vamos lá falar
+	com a Pride.
 	"""
 	keyWait
 		any = false
@@ -270,9 +270,9 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's get to
-	Oran Area through
-	ACDC Area!
+	Lan, vamos pra Área
+	Oran através da
+	Área ACDC!
 	"""
 	keyWait
 		any = false
@@ -286,8 +286,8 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's catch up with
-	GyroMan! Jack in!
+	Vamos até o GyroMan!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -298,8 +298,8 @@ script 27 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's catch up with
-	ShadowMan! Jack in!
+	Vamos até o ShadowMan!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -310,9 +310,8 @@ script 28 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	dark cloud in
-	SciLab2.
+	Vamos ver a nuvem
+	escura em SciLab 2.
 	"""
 	keyWait
 		any = false
@@ -323,9 +322,9 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The mission is about
-	to start,Lan! Let's
-	go to SciLab3!
+	A missão tá pra
+	começar, Lan!
+	Vamos pra SciLab 3!
 	"""
 	keyWait
 		any = false
@@ -367,9 +366,9 @@ script 50 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The port near
-	SciLab⋯I wonder
-	what Chaud's up to.
+	O porto perto do
+	SciLab... O que será
+	que o Chaud quer?
 	"""
 	keyWait
 		any = false
@@ -380,9 +379,9 @@ script 51 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The port near
-	SciLab⋯I wonder
-	what Baryl's up to.
+	O porto perto do
+	SciLab... O que será
+	que o Baryl quer?
 	"""
 	keyWait
 		any = false
@@ -393,9 +392,9 @@ script 52 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'd better go to
-	MissionCtrl. Hang
-	in there,MegaMan!
+	É melhor eu ir pro
+	Controle de Missão.
+	Aguenta aí, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -409,9 +408,9 @@ script 53 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Lan,head to
-	End Area via
-	Oran Area2.
+	Hikari, siga para a
+	Área Endo via
+	Área Oran 2.
 	"""
 	keyWait
 		any = false
@@ -422,9 +421,9 @@ script 54 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Lan,head to
-	End Area via
-	Oran Area2.
+	Lan, siga para a
+	Área Endo via
+	Área Oran 2.
 	"""
 	keyWait
 		any = false
@@ -438,16 +437,17 @@ script 55 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	SciLab controls
-	the door to Oran
-	Area2.
+	O SciLab controla
+	a porta para a
+	Área Oran 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We may get some
-	info in SciLab Area.
+	Talvez possamos
+	reunir informações
+	na Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -458,16 +458,17 @@ script 56 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	SciLab controls
-	the door to Oran
-	Area2.
+	O SciLab controla
+	a porta para a
+	Área Oran 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We may get some
-	info in SciLab Area.
+	Talvez possamos
+	reunir informações
+	na Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -485,9 +486,9 @@ script 57 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Unlock the door to
-	Oran Area2. We'll
-	head to End Area.
+	Destranque a porta para
+	a Área Oran 2. Iremos
+	para a Área Endo.
 	"""
 	keyWait
 		any = false
@@ -498,9 +499,9 @@ script 58 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Unlock the door to
-	Oran Area2. We'll
-	head to End Area.
+	Destranque a porta para
+	a Área Oran 2. Iremos
+	para a Área Endo.
 	"""
 	keyWait
 		any = false
@@ -514,8 +515,8 @@ script 59 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Let's go back to
-	MissionCtrl now.
+	Vamos voltar para
+	o Controle de Missão.
 	"""
 	keyWait
 		any = false
@@ -526,8 +527,8 @@ script 60 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Let's go back to
-	MissionCtrl now.
+	Vamos voltar para
+	o Controle de Missão.
 	"""
 	keyWait
 		any = false
@@ -541,9 +542,9 @@ script 61 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Someone who has
-	an invite
-	to a party⋯ I see.
+	Alguém que tenha um
+	convite para uma
+	festa... Entendo.
 	"""
 	keyWait
 		any = false
@@ -554,9 +555,9 @@ script 62 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Someone who has
-	an invite
-	to a party⋯ I see.
+	Alguém que tenha um
+	convite para uma
+	festa... Entendo.
 	"""
 	keyWait
 		any = false
@@ -570,9 +571,9 @@ script 63 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The big party is
-	tomorrow. Go home
-	and rest up!
+	A festa é amanhã.
+	É melhor você ir
+	para casa descansar!
 	"""
 	keyWait
 		any = false
@@ -583,9 +584,9 @@ script 64 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The big party is
-	tomorrow. Go home
-	and rest up!
+	A festa é amanhã.
+	É melhor você ir
+	para casa descansar!
 	"""
 	keyWait
 		any = false
@@ -599,8 +600,8 @@ script 67 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Let's go to
-	End Area.
+	Vamos para a
+	Área Endo.
 	"""
 	keyWait
 		any = false
@@ -611,8 +612,8 @@ script 68 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Let's go to
-	End Area,Lan.
+	Vamos para a
+	Área Endo, Lan.
 	"""
 	keyWait
 		any = false
@@ -629,7 +630,7 @@ script 70 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Let's go to the port."
+	"Vamos para o porto."
 	keyWait
 		any = false
 	end
@@ -639,8 +640,8 @@ script 71 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Let's go to
-	the port,Lan.
+	Vamos para o porto,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -654,8 +655,8 @@ script 72 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Head to the port
-	and board the ship.
+	Siga para o porto e
+	embarque no navio.
 	"""
 	keyWait
 		any = false
@@ -666,8 +667,8 @@ script 73 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Head to the port
-	and board the ship.
+	Siga para o porto e
+	embarque no navio.
 	"""
 	keyWait
 		any = false
@@ -684,7 +685,7 @@ script 105 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Go to End Area1!"
+	"Vá para a Área Endo 1!"
 	keyWait
 		any = false
 	end
@@ -693,7 +694,7 @@ script 106 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Go to End Area1!"
+	"Vá para a Área Endo 1!"
 	keyWait
 		any = false
 	end
@@ -705,7 +706,7 @@ script 107 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Go to End Area2!"
+	"Vá para a Área Endo 2!"
 	keyWait
 		any = false
 	end
@@ -714,7 +715,7 @@ script 108 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Go to End Area2!"
+	"Vá para a Área Endo 2!"
 	keyWait
 		any = false
 	end

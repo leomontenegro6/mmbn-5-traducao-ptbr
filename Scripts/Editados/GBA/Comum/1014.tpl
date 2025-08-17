@@ -5,25 +5,24 @@ script 0 mmbn5 {
 		mugshot = Bass
 	msgOpen
 	"""
-	That power⋯
-	It is the real
-	thing⋯
+	Essa força...
+	é verdadeira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Interesting⋯
-	If you can retain
-	that power⋯
+	Interessante...
+	Se você conseguir
+	manter essa força...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Then perhaps
-	we shall meet
-	again someday⋯
+	... então, talvez,
+	nós nos reencontremos
+	de novo um dia...
 	"""
 	keyWait
 		any = false
@@ -33,7 +32,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's gone⋯"
+	"Ele foi embora..."
 	keyWait
 		any = false
 	clearMsg
@@ -44,7 +43,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That was too close⋯"
+	"Essa foi por um triz..."
 	keyWait
 		any = false
 	end
@@ -53,13 +52,14 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We somehow won this
-	time but the next⋯
+	A gente deu um jeito
+	de vencer desta vez,
+	mas, na próxima...
 	"""
 	keyWait
 		any = false
@@ -72,16 +72,15 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Have a little more
-	confidence,will ya?!
+	Ô! Mais confiança, cara!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure we'll be
-	even stronger the
-	next time!
+	Com certeza a gente
+	vai estar ainda mais
+	forte na próxima vez!
 	"""
 	keyWait
 		any = false
@@ -93,7 +92,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"... É!"
 	keyWait
 		any = false
 	end

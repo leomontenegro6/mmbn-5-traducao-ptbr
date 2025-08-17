@@ -17,8 +17,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like nothing
-	bad happened here.
+	Parece que não tem
+	nada de ruim rolando
+	aqui.
 	"""
 	keyWait
 		any = false

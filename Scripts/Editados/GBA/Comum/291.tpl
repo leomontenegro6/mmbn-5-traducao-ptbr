@@ -25,16 +25,16 @@ script 0 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Hmm,what to do
-	today⋯
+	Hmm, o que eu faço
+	hoje...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayl is out today,
-	so there's nothing
-	to do⋯
+	A Mayl tá ocupada hoje,
+	então eu tô sem nada
+	pra fazer...
 	"""
 	keyWait
 		any = false
@@ -45,13 +45,16 @@ script 5 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Dex asked me to come
-	over today.
+	O Dex me convidou pra
+	ir na casa dele hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's he up to?"
+	"""
+	O que será que ele tá
+	aprontando?
+	"""
 	keyWait
 		any = false
 	end
@@ -61,17 +64,17 @@ script 10 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Dex is doing all
-	sorts of things for
+	O Dex tá fazendo todo
+	o tipo de coisas pelo
 	GutsMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if there's
-	anything I can do
-	for Glide⋯
+	Será que tem alguma
+	coisa que eu possa
+	fazer pelo Glide...?
 	"""
 	keyWait
 		any = false
@@ -82,9 +85,9 @@ script 15 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I think I'll emulate
-	Dex and start doing
-	something for Glide.
+	Acho que eu vou copiar
+	o Dex e fazer alguma
+	coisa pelo Glide.
 	"""
 	keyWait
 		any = false
@@ -95,23 +98,23 @@ script 20 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	For now,I'll drink
-	a lot of milk.
+	Pra começar, eu vou
+	tomar muito leite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I'm bigger,
-	I'll be able to hold
+	Quando eu ficar maior,
+	vou poder segurar o
+	meu PET com mais força
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	onto my PET tightly
-	and operate Glide
-	like I should.
+	e operar o Glide do
+	jeito certo.
 	"""
 	keyWait
 		any = false
@@ -132,17 +135,17 @@ script 50 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I don't care how
-	strong you and
-	MegaMan are.
+	Olha, não importa o
+	quanto você e o
+	MegaMan sejam fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't underestimate
-	Nebula. Those guys
-	are pretty nasty.
+	Não subestimem a
+	Nebula. Aqueles lá
+	são impiedosos.
 	"""
 	keyWait
 		any = false
@@ -157,16 +160,16 @@ script 55 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You're looking for
-	a big room?
+	Você tá atrás de uma
+	sala bem amplo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,I don't
-	remember any room
-	like that⋯
+	Desculpa, mas não
+	consigo pensar em
+	nenhum lugar assim...
 	"""
 	keyWait
 		any = false
@@ -177,14 +180,15 @@ script 56 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The SciLab HP has
-	suffered a Nebula
-	attack.
+	A página do SciLab foi
+	atacada pela Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"They'll do anything."
+	"""
+	Ela é capaz de tudo...
+	"""
 	keyWait
 		any = false
 	end
@@ -193,19 +197,19 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	The Undernet?
-	You'd better be
-	extra careful there!
+	A Undernet?
+	É bom você tomar todo
+	o cuidado do mundo lá!
 	"""
 	keyWait
 		any = false

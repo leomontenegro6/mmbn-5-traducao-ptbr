@@ -3,7 +3,7 @@
 script 0 mmbn5 {
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	wait
 		frames = 62
 	end
@@ -13,8 +13,7 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's your
-	phone!
+	Lan, ligação!
 	"""
 	keyWait
 		any = false
@@ -26,11 +25,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex?!"
+	"Dex!"
 	keyWait
 		any = false
 	clearMsg
-	"Where are you?!"
+	"Cadê vocês?!"
 	keyWait
 		any = false
 	clearMsg
@@ -42,16 +41,15 @@ script 3 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	We're still in the
-	OldMine!
+	A gente ainda tá
+	na Velha Mina!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're heading in the
-	direction of a
-	breeze.
+	Tamos indo na direção
+	de uma brisa.
 	"""
 	keyWait
 		any = false
@@ -64,8 +62,7 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha. Be careful
-	in there!
+	Tá. Cuidado aí embaixo!
 	"""
 	keyWait
 		any = false
@@ -77,13 +74,12 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"You bet!"
+	"Nem precisava falar!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll contact you
-	later!
+	Depois a gente te liga!
 	"""
 	keyWait
 		any = false
@@ -97,7 +93,7 @@ script 6 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -109,9 +105,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,time to
-	jack out! Let's find
-	Dex!
+	MegaMan, bora
+	desconectar e ir atrás
+	do Dex e das meninas!
 	"""
 	keyWait
 		any = false
@@ -123,7 +119,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end

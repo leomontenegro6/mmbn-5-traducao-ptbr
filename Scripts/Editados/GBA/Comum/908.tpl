@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this panel looks
-	different. Someone's
-	been moving it.
+	Lan, este painel
+	aqui tá diferente.
+	Alguém mexeu nele.
 	"""
 	keyWait
 		any = false
@@ -20,8 +20,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's it,MegaMan!
-	Take a closer look!
+	É isso, MegaMan!
+	Vai, analisa cada
+	milímetro dele!
 	"""
 	keyWait
 		any = false
@@ -33,13 +34,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Ah! Something's
-	flashing!
+	... Ah!
+	Tem uma coisa piscando!
 	"""
 	keyWait
 		any = false
@@ -50,26 +51,26 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's⋯some kind of
-	MemData. I'll
-	analyze it!
+	É... algum tipo de
+	Dado de Memória.
+	Eu vou analisar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's see⋯"
+	"Deixa eu ver..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gow loves fish⋯ He
-	can't let big fish
-	out of his sight⋯
+	"O Gáu adora peixão.
+	Não consegue tirar
+	o olho de um!"
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's all it says⋯"
+	"É só isso que\ntem escrito..."
 	keyWait
 		any = false
 	clearMsg
@@ -81,28 +82,27 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Big fish⋯ It's got
-	to be a hint of some
-	kind⋯
+	Peixão...
+	Isso tem que ser
+	algum tipo de pista...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hm,big fish⋯
-	・
+	Hm, peixão...
+	.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	Maybe it's the
-	Gargoyle!
+	Ah! O Shachi!
 	"""
 	keyWait
 		any = false
@@ -110,53 +110,53 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That's it,Lan! The
-	big fish is the
-	Gargoyle.
+	Verdade!
+	O peixe gigante
+	mitológico, o Shachi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"And that means"
+	"Ou seja"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	GargCastle in End
-	City!
+	o Castelo Shachi,
+	na Cidade de Endo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Exactly!"
+	"Pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get that data
-	and jack out.
+	Guarda esses dados aí
+	e bora desconectar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to go to
-	End City!
+	A gente tem que ir
+	pra Cidade de Endo!
 	"""
 	keyWait
 		any = false
@@ -168,7 +168,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -182,8 +182,8 @@ script 6 mmbn5 {
 		timer = 0
 		value = 3
 	"""
-	MegaMan got:
-	"MemData"!!!
+	MegaMan adquiriu:
+	"Dados de Memória"!!!
 	"""
 	keyWait
 		any = false
@@ -196,7 +196,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay,jack out!"
+	"Beleza, desconectando!"
 	keyWait
 		any = false
 	end

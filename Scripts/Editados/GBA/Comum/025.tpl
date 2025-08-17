@@ -1,27 +1,27 @@
 @size 126
 
 script 0 mmbn5s {
-	"BatlChlg"
+	"DesfLuta"
 	end
 }
 script 1 mmbn5s {
-	"Equip"
+	"Equipar"
 	end
 }
 script 2 mmbn5s {
-	"NtwkDuel"
+	"DuelRede"
 	end
 }
 script 3 mmbn5s {
-	"Help"
+	"Ajuda"
 	end
 }
 script 4 mmbn5s {
-	"SnglBatl"
+	"LutaÚnic"
 	end
 }
 script 5 mmbn5s {
-	"TrplBatl"
+	"LutaTrip"
 	end
 }
 script 10 mmbn5 {
@@ -38,9 +38,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Challenge other
-	Navis in battle.
-	Aim for the top!
+	Desafie outros
+	Navis para lutar.
+	Seja o melhor!
 	"""
 	waitHold
 }
@@ -58,9 +58,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	This mode lets you
-	change ChipFolder
-	and Navi equip!
+	Neste modo, você
+	altera sua Pasta
+	e equipa o Navi!
 	"""
 	waitHold
 }
@@ -78,9 +78,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Network Duel mode.
-	Go head-to-head
-	with your friends!
+	Modo Duelo de Rede.
+	Enfrente os seus
+	amigos em batalha!
 	"""
 	waitHold
 }
@@ -98,9 +98,9 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Gold Mr.Prog will
-	tell you all about
-	Operation Battles.
+	O Prog Dourado lhe
+	contará tudo sobre
+	Lutas de Operação.
 	"""
 	waitHold
 }
@@ -121,8 +121,8 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Shall we start the
-	training program?
+	Vamos iniciar o pro-
+	grama de treinamento?
 	
 	"""
 	positionOptionHorizontal
@@ -135,7 +135,7 @@ script 14 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -144,7 +144,7 @@ script 14 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -174,9 +174,9 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Insert a NaviChip
-	to enter your
-	Navi in the battle!
+	Insira um ChipNavi
+	para inscrever seu
+	Navi na luta!
 	"""
 	waitHold
 }
@@ -194,9 +194,9 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Your friend isn't
-	ready yet.
-	Please hold on!
+	O seu amigo ainda
+	não está pronto.
+	Aguarde!
 	"""
 	waitHold
 }
@@ -217,9 +217,9 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Oops! This mode is
-	for single-players
-	only.
+	Opa! Este modo é
+	somente para um
+	jogador.
 	"""
 	keyWait
 		any = false
@@ -242,9 +242,9 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The Progress
-	Chip Gate isn't
-	properly connected.
+	O Progress Chip Gate
+	não foi está devida-
+	mente conectado.
 	"""
 	keyWait
 		any = false
@@ -267,9 +267,9 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	You seem to
-	have selected
-	different modes.
+	Parece que vocês
+	escolheram modos
+	diferentes.
 	"""
 	keyWait
 		any = false
@@ -292,8 +292,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The connection
-	has failed.
+	A conexão falhou.
 	"""
 	keyWait
 		any = false
@@ -313,9 +312,8 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Connecting now⋯
-	Hold on for a
-	little bit!
+	Conectando...
+	Só um momentinho!
 	"""
 	waitHold
 }
@@ -332,7 +330,7 @@ script 26 mmbn5 {
 		top = 128
 	mugshotShow
 		mugshot = Ribitta
-	"What should we do?\n"
+	"O que vai fazer?\n"
 	option
 		brackets = 0
 		left = 0
@@ -341,7 +339,7 @@ script 26 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Quit\n"
+	" Sair\n"
 	option
 		brackets = 0
 		left = 0
@@ -350,7 +348,7 @@ script 26 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Connect"
+	" Conectar"
 	select
 		default = 0
 		BSeparate = false
@@ -380,9 +378,9 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Oops! This mode is
-	for single-players
-	only.
+	Opa! Este modo é
+	somente para um
+	jogador.
 	"""
 	keyWait
 		any = false
@@ -405,24 +403,24 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Both sides need a
-	Progress Chip Gate
-	to play this mode.
+	Os dois precisam ter
+	um Progress Chip Gate
+	para jogar neste modo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please make sure
-	the cable and both
+	Certifiquem-se de
+	que o cabo de conexão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Progress Chip Gates
-	are properly
-	connected.
+	e ambos os Progress
+	Chip Gates estejam
+	conectados direito.
 	"""
 	keyWait
 		any = false
@@ -445,8 +443,9 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The training program
-	is a 1-player mode.
+	O programa de
+	treinamento é um modo
+	para só um jogador.
 	"""
 	keyWait
 		any = false
@@ -479,9 +478,9 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	You won!
-	You did it!
-	Congratulations!
+	Você venceu!
+	Arrasou!
+	Meus parabéns!
 	"""
 	keyWait
 		any = false
@@ -509,9 +508,9 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	You lost,but it
-	was really close!
-	Don't sweat it!
+	Você perdeu, mas
+	foi por pouco!
+	Não desanima!
 	"""
 	keyWait
 		any = false
@@ -539,9 +538,9 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	It's a tie! Wow!
-	I can't wait to
-	have a rematch!
+	Empatou! Uau!
+	Mal posso esperar
+	para ver a revanche!
 	"""
 	keyWait
 		any = false
@@ -569,9 +568,9 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Communication error!
-	We couldn't finish
-	the battle!
+	Erro de comunicação!
+	Não deu para concluir
+	a luta!
 	"""
 	keyWait
 		any = false
@@ -594,9 +593,9 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	You won all of
-	the battles!
-	Way to go!
+	Você venceu todas as
+	lutas!
+	Mandou bem!
 	"""
 	keyWait
 		any = false
@@ -619,9 +618,9 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Unfortunately,the
-	other player quit!
-	Maybe next time⋯
+	Infelizmente,
+	o outro jogador saiu!
+	Talvez na próxima...
 	"""
 	keyWait
 		any = false
@@ -643,7 +642,7 @@ script 36 mmbn5 {
 		top = 128
 	mugshotShow
 		mugshot = Ribitta
-	"It's a tie."
+	"Empatou."
 	keyWait
 		any = false
 	waitHold
@@ -665,9 +664,8 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Communication error!
-	The battle has been
-	cancelled!
+	Erro de comunicação!
+	A luta foi cancelada!
 	"""
 	keyWait
 		any = false
@@ -690,8 +688,8 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	That completes the
-	tutorial program!
+	Isso conclui o
+	programa de tutorial!
 	"""
 	keyWait
 		any = false
@@ -711,8 +709,8 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Wow! Now he's
-	switching folders!
+	Nossa! Agora ele tá
+	trocando de pasta!
 	"""
 	waitHold
 }
@@ -730,9 +728,9 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Wow! Changing
-	the equip for the
-	R Button!
+	Uau! Mudando o
+	equipamento para
+	o Botão "R"!
 	"""
 	waitHold
 }
@@ -750,9 +748,9 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Wow! Changing
-	the equip for the
-	L Button!
+	Uau! Mudando o
+	equipamento para
+	o Botão "L"!
 	"""
 	waitHold
 }
@@ -764,8 +762,8 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Oh no! Communication
-	error!
+	Essa não!
+	Erro de comunicação!
 	"""
 	keyWait
 		any = false
@@ -778,9 +776,9 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	I'm processing the
-	connection.
-	Give me a moment!
+	Estou processando a
+	conexão.
+	Só um momento!
 	"""
 	waitHold
 }
@@ -790,7 +788,7 @@ script 45 mmbn5 {
 		delay = 0
 	mugshotShow
 		mugshot = Ribitta
-	"What should we do?\n"
+	"O que vai fazer?\n"
 	option
 		brackets = 0
 		left = 0
@@ -799,7 +797,7 @@ script 45 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Quit\n"
+	" Sair\n"
 	option
 		brackets = 0
 		left = 0
@@ -808,7 +806,7 @@ script 45 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Connect"
+	" Conectar"
 	select
 		default = 0
 		BSeparate = false
@@ -835,9 +833,8 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Decide the winner
-	based on a Single
-	Battle!
+	Decidam o vencedor
+	em uma Luta Única!
 	"""
 	waitHold
 }
@@ -855,9 +852,9 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	First player to
-	win two battles
-	is the winner!
+	Vence o jogador
+	que vencer duas
+	lutas!
 	"""
 	waitHold
 }
@@ -878,9 +875,8 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The mighty MegaMan
-	has entered the
-	fray!
+	O poderoso MegaMan
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -906,9 +902,9 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The sword-master
-	ProtoMan has
-	entered the fray!
+	ProtoMan, o mestre
+	da espada, entro
+	no páreo!
 	"""
 	keyWait
 		any = false
@@ -934,9 +930,9 @@ script 62 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The wind-warrior
-	GyroMan has
-	entered the fray!
+	GyroMan, o senhor
+	dos ventos, entrou
+	no páreo!
 	"""
 	keyWait
 		any = false
@@ -962,9 +958,9 @@ script 63 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The super-sniper
-	SerchMan has
-	entered the fray!
+	O franco-atirador
+	prodígio, SearchMan,
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -990,9 +986,9 @@ script 64 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The firey
-	NapalmMan has
-	entered the fray!
+	O esquentado
+	NapalmMan entrou
+	no páreo!
 	"""
 	keyWait
 		any = false
@@ -1018,9 +1014,9 @@ script 65 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The magnificent
-	MagnetMan has
-	entered the fray!
+	O magnífico
+	MagnetMan
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -1046,9 +1042,9 @@ script 66 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The lovely lady
-	Meddy has
-	entered the fray!
+	A graciosa
+	Meddy entrou
+	no páreo!
 	"""
 	keyWait
 		any = false
@@ -1071,9 +1067,9 @@ script 67 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The saber-swinging
-	Colonel has
-	entered the fray!
+	Colonel e seu sabre
+	imponente entraram
+	no páreo!
 	"""
 	keyWait
 		any = false
@@ -1096,9 +1092,9 @@ script 68 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The sly asassin
-	ShadoMan has
-	entered the fray!
+	ShadowMan, o
+	assassino sutil,
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -1121,9 +1117,9 @@ script 69 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The math-master
-	NumberMan has
-	entered the fray!
+	NumberMan, o mestre
+	da matemática,
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -1146,9 +1142,9 @@ script 70 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Warrior of the
-	wilds TomahawkMan
-	entered the fray!
+	TomahawkMan, o
+	guerreiro selvagem,
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -1171,9 +1167,8 @@ script 71 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	The chivalrous
-	KnightMn has
-	entered the fray!
+	O galante KnightMn
+	entrou no páreo!
 	"""
 	keyWait
 		any = false
@@ -1196,9 +1191,9 @@ script 72 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Everyone's favorite
-	ToadMan has
-	entered the fray!
+	ToadMan, o favorito
+	da galera, entrou
+	no páreo!
 	"""
 	keyWait
 		any = false

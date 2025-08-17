@@ -44,8 +44,8 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's hurry over to
-	Dad's Lab!
+	Vamos rápido pro
+	laboratório do papai!
 	"""
 	keyWait
 		any = false
@@ -90,7 +90,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's go to SciLab!"
+	"Vamos pro SciLab!"
 	keyWait
 		any = false
 	end
@@ -100,9 +100,9 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What happened at
-	SciLab? Let's go
-	check it out!
+	O que aconteceu no
+	SciLab?
+	Vamos lá ver!
 	"""
 	keyWait
 		any = false
@@ -113,9 +113,9 @@ script 24 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder where
-	I can get a
-	SciLab ID card?
+	Onde será que dá pra
+	arranjar um cartão de
+	identificação do SciLab?
 	"""
 	keyWait
 		any = false
@@ -126,9 +126,8 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the room
-	where the main
-	system is!
+	Vamos pra sala do
+	sistema central!
 	"""
 	keyWait
 		any = false
@@ -139,9 +138,8 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find the
-	intruder! Jack
-	me in!
+	Vamos achar o intruso!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -150,8 +148,8 @@ script 26 mmbn5 {
 script 27 mmbn5 {
 	msgOpen
 	"""
-	MegaMan isn't
-	in the PET⋯
+	O MegaMan não está
+	no PET...
 	"""
 	keyWait
 		any = false
@@ -162,9 +160,9 @@ script 28 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get back
-	to MainComp when
-	we're ready!
+	Vamos voltar pro
+	CPU Central assim que
+	estivermos prontos!
 	"""
 	keyWait
 		any = false
@@ -175,9 +173,9 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	room behind
-	the OpRoom.
+	Vamos para a sala
+	atrás da Sala de
+	Operações.
 	"""
 	keyWait
 		any = false
@@ -196,7 +194,7 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go home,
+	Vamos pra casa,
 	Lan!
 	"""
 	keyWait
@@ -211,9 +209,9 @@ script 32 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go see
-	ProtoMan in ACDC
-	Area2!
+	Vamos lá falar com
+	o ProtoMan na Área
+	ACDC 2!
 	"""
 	keyWait
 		any = false
@@ -224,8 +222,9 @@ script 33 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to ACDC
-	Area3! Stay alert!
+	Vamos lá pra
+	Área ACDC 3!
+	Não baixa a guarda!
 	"""
 	keyWait
 		any = false
@@ -236,8 +235,9 @@ script 35 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's meet Colonel
-	in ACDC Area2!
+	Vamos lá falar com
+	o Colonel na Área
+	ACDC 2!
 	"""
 	keyWait
 		any = false
@@ -276,8 +276,8 @@ script 40 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go patrol
-	ACDC Area,Lan!
+	Bora patrulhar a
+	Área ACDC, Lan!
 	"""
 	keyWait
 		any = false
@@ -292,8 +292,8 @@ script 70 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	Oran Area!
+	Vamos lá pra
+	Área Oran!
 	"""
 	keyWait
 		any = false
@@ -304,9 +304,9 @@ script 71 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to Oran
-	Area3 whenever
-	you're ready!
+	Quando cê tiver
+	pronto, vamos lá
+	pra Área Oran 3!
 	"""
 	keyWait
 		any = false

@@ -5,22 +5,23 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This should be the
-	comms system⋯
+	Esse deve ser o sistema
+	de comunicações...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know if
-	it'll work but
+	Eu não sei se vai
+	dar muito resultado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll see what I can
-	do to fix it!
+	mas vou ver o que
+	eu posso fazer pra
+	consertar ele!
 	"""
 	keyWait
 		any = false
@@ -32,7 +33,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -41,13 +42,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯No,it's no good."
+	"... Não, não adianta."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't get it to
-	take any input!
+	Eu não consigo fazer ele
+	aceitar nenhum comando!
 	"""
 	keyWait
 		any = false
@@ -58,8 +59,8 @@ script 3 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey,what are you
-	doing?!
+	Ei, o que você pensa
+	que está fazendo?!
 	"""
 	keyWait
 		any = false
@@ -70,8 +71,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm trying to fix
-	the comms system⋯
+	Só tô tentando
+	consertar o sistema
+	de comunicações...
 	"""
 	keyWait
 		any = false
@@ -84,25 +86,24 @@ script 5 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	There's no point in
-	fumbling around
-	there.
+	Não tem pra que ficar
+	futricando nisso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to fix
-	the main server at
-	the GargoylComp at
+	Primeiro, é preciso
+	consertar o servidor
+	central no CPU Shachi,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GargCastle first.
-	This thing's just an
-	antenna.
+	lá no Castelo Shachi.
+	Essa coisa aí é só
+	uma antena.
 	"""
 	keyWait
 		any = false
@@ -114,13 +115,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Oh,right!"
+	"Ah, entendi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I'd better get
-	to GargCastle!
+	Então, é melhor eu ir
+	rápido pro castelo!
 	"""
 	keyWait
 		any = false
@@ -133,17 +134,17 @@ script 7 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You should stay away
-	from there right
-	now,though.
+	Na verdade, eu ficaria
+	longe de lá agora,
+	se fosse você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's been attacked
-	by Nebula Navis.
-	It's not safe.
+	Ele foi atacado por
+	Navis da Nebula.
+	Não é seguro lá.
 	"""
 	keyWait
 		any = false
@@ -157,8 +158,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Nebula Navis⋯
-	Not SerchMan?!
+	Navis da Nebula...
+	Será que é o
+	SearchMan?!
 	"""
 	keyWait
 		any = false
@@ -171,8 +173,9 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Nebula Navis⋯
-	Not NumberMan?!
+	Navis da Nebula...
+	Será que é o
+	NumberMan?!
 	"""
 	keyWait
 		any = false
@@ -185,8 +188,9 @@ script 10 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Well,go if you must.
-	But be careful.
+	Bom, se você precisar
+	mesmo ir, eu não vou te
+	impedir. Só tome cuidado.
 	"""
 	keyWait
 		any = false
@@ -197,9 +201,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,jack me out!
-	Let's go to
-	GargCastle!
+	Lan, me desconecta!
+	Bora pro Castelo Shachi!
 	"""
 	keyWait
 		any = false
@@ -211,7 +214,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure thing!"
+	"Tá!"
 	keyWait
 		any = false
 	end

@@ -7,31 +7,34 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Heh,another virus."
+	"He, outro vírus."
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,Lan!"
+	"Vamos lá, Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bring on as many
-	viruses as you want,
-	we'll still win!
+	Pode mandar quantos
+	vírus você quiser!
+	A gente sempre vence!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	flagSet
@@ -42,31 +45,34 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Heh,another virus."
+	"He, outro vírus."
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,Lan!"
+	"Vamos, Lan Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Bring on as many
-	viruses as you want,
-	we'll still win!
+	Pode mandar quantos
+	vírus você quiser!
+	A gente sempre vence!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	flagSet

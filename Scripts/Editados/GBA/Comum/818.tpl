@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"ProtoMan,enough!"
+	"ProtoMan, já chega!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you after,
-	anyway?!
+	O que é que você
+	pretende, afinal?!
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯Heh."
+	"... He."
 	keyWait
 		any = false
 	end
@@ -32,9 +32,8 @@ script 2 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Congratulations,
-	MegaMan. You've
-	passed.
+	Parabéns, MegaMan.
+	Você passou.
 	"""
 	keyWait
 		any = false
@@ -46,13 +45,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"*pant pant*"
+	"Aff... Aff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel,
-	what do you want?!
+	Colonel, o que é
+	que você quer?!
 	"""
 	keyWait
 		any = false
@@ -64,7 +63,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -74,8 +73,8 @@ script 5 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	MegaMan⋯
-	You have passed.
+	MegaMan...
+	Você passou.
 	"""
 	keyWait
 		any = false
@@ -85,18 +84,17 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Passed?"
+	"Passei?"
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?!"
+	"Mas o que é que\ntá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And where's the Navi
-	that infiltrated
-	SciLab?!
+	E cadê o Navi que
+	invadiu o SciLab?!
 	"""
 	keyWait
 		any = false
@@ -107,16 +105,16 @@ script 7 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Chaud will give you
-	the full story.
+	O senhor Chaud lhe
+	explicará tudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack out and proceed
-	to the innermost
-	room.
+	Desconecte-se e
+	siga para a sala
+	mais adentro.
 	"""
 	keyWait
 		any = false
@@ -136,9 +134,9 @@ script 9 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Let's talk more.
-	Jack out and go to
-	the innermost room.
+	Vamos explicar tudo.
+	Desconecte-se e siga
+	à sala mais adentro.
 	"""
 	keyWait
 		any = false
@@ -158,16 +156,16 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What in blazes is
-	going on here?
+	Mas... o que é que
+	tá acontecendo aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we should
-	find out. Lan,jack
-	me out!
+	... Acho que a gente
+	vai ter que descobrir.
+	Me desconecta, Lan!
 	"""
 	keyWait
 		any = false

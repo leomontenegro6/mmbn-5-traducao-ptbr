@@ -17,8 +17,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nothing unusual
-	in the drill.
+	Nada de anormal na
+	broca.
 	"""
 	keyWait
 		any = false

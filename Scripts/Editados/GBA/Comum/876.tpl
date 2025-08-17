@@ -3,7 +3,7 @@
 script 0 mmbn5 {
 	msgOpen
 	soundDisableTextSFX
-	"*bee-bee-beep!*"
+	"Bi-Bi-Biip!"
 	wait
 		frames = 42
 	end
@@ -12,20 +12,20 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
-	"It's from Chaud."
+	"É do Chaud."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Shoot,just as things
-	were getting
-	started.
+	Poxa, justo quando as
+	coisas começaram a
+	andar aqui.
 	"""
 	keyWait
 		any = false
@@ -33,82 +33,120 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,I know,Lan!
-	Just let me read it!
+	Shiu, Lan!
+	Eu vou ler, aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"At the end of the\n last liberation\n mission,"
-	keyWait
-		any = false
-	clearMsg
-	" a resonance between\n MegaMan and\n MagnetMan occurred,"
-	keyWait
-		any = false
-	clearMsg
-	" allowing MegaMan to\n gain a new ability."
-	keyWait
-		any = false
-	clearMsg
-	" According to\n Dr.Hikari's files,"
-	keyWait
-		any = false
-	clearMsg
-	" when MegaMan's soul\n resonates with that\n of another Navi's,"
-	keyWait
-		any = false
-	clearMsg
-	" the synchronicity\n of the souls that\n is achieved"
-	keyWait
-		any = false
-	clearMsg
-	" temporarily,gives\n MegaMan that Navi's\n abilities."
-	keyWait
-		any = false
-	clearMsg
-	" It is called\n DublSoul,"
-	keyWait
-		any = false
-	clearMsg
-	" and should be\n very useful in your\n battles."
-	keyWait
-		any = false
-	clearMsg
-	" I've attached a\n practice program."
-	keyWait
-		any = false
-	clearMsg
-	" Master this new\n technique\n immediately!\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
+	"""
+	"Ao fim da última
+	missão de liberação,
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll open the
-	attachment!
+	ocorreu uma ressonância
+	entre MegaMan e
+	MagnetMan,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	permitindo ao MegaMan
+	adquirir uma nova
+	habilidade.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	De acordo com os
+	arquivos do Dr. Hikari,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	quando a alma do
+	MegaMan ressoa com
+	a de outro Navi,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	as almas alcançam uma
+	sincronia temporária,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	dando ao MegaMan as
+	habilidades do Navi
+	em questão.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Essa é a
+	União de Alma,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e deve se mostrar
+	bem útil para você
+	em batalha.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mandei em anexo um
+	programa de treino.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Domine essa nova
+	técnica imediatamente!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Fim do e-mail."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu vou abrir
+	o anexo aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"DublSoul?"
+	"União de Alma?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in a rush but
-	this I can't put off
-	for later!
+	Bom, eu tô com pressa,
+	mas é melhor não deixar
+	isso pra depois!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -117,20 +155,20 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
-	"It's from Baryl."
+	"É do Baryl."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Shoot,just as things
-	were getting
-	started.
+	Poxa, justo quando as
+	coisas começaram a
+	andar aqui.
 	"""
 	keyWait
 		any = false
@@ -138,82 +176,121 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Yeah,I know,Lan!
-	Just let me read it!
+	Shiu, Lan!
+	Eu vou ler, aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"At the end of the\n last liberation\n mission,"
-	keyWait
-		any = false
-	clearMsg
-	" a resonance between\n MegaMan and\n KnightMan occurred,"
-	keyWait
-		any = false
-	clearMsg
-	" allowing MegaMan to\n gain a new ability."
-	keyWait
-		any = false
-	clearMsg
-	" According to\n Dr.Hikari's files,"
-	keyWait
-		any = false
-	clearMsg
-	" when MegaMan's soul\n resonates with that\n of another Navi's,"
-	keyWait
-		any = false
-	clearMsg
-	" the synchronicity\n of the souls that\n is achieved"
-	keyWait
-		any = false
-	clearMsg
-	" temporarily,gives\n MegaMan that Navi's\n abilities."
-	keyWait
-		any = false
-	clearMsg
-	" It is called\n DublSoul,"
-	keyWait
-		any = false
-	clearMsg
-	" and should be\n very useful in your\n battles."
-	keyWait
-		any = false
-	clearMsg
-	" I've attached a\n practice program."
-	keyWait
-		any = false
-	clearMsg
-	" Master this new\n technique\n immediately!\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
+	"""
+	"Ao término da última
+	missão de liberação,
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll open the
-	attachment!
+	ocorreu uma ressonância
+	entre MegaMan e
+	KnightMan,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	permitindo ao MegaMan
+	adquirir uma nova
+	habilidade.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	De acordo com os
+	arquivos do Dr. Hikari,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	quando a alma do
+	MegaMan ressoa com
+	a de outro Navi,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	a sincronia das almas
+	é temporariamente
+	alcançada,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	fornecendo ao MegaMan
+	as habilidades do Navi
+	em questão.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É a chamada
+	União de Alma,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e, com certeza, será
+	bem útil para você
+	em combate.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mandei em anexo um
+	programa de treino.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Domine essa nova
+	técnica imediatamente!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Fim do e-mail."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu vou abrir
+	o anexo aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"DublSoul?"
+	"União de Alma?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm in a rush but
-	this I can't put off
-	for later!
+	Bom, eu tô com pressa,
+	mas é melhor não deixar
+	isso pra depois!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's do it,MegaMan!"
+	"Vamos nessa, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -228,15 +305,15 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's try
-	it again!
+	MegaMan, bora tentar
+	de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"OK!"
+	"É!"
 	keyWait
 		any = false
 	end

@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	Strange clouds are
-	blocking the road.
-	You can't go on.
+	Nuvens estranhas
+	impedem a passagem.
+	Não é possível seguir.
 	"""
 	keyWait
 		any = false
@@ -14,17 +14,17 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	You have too many
-	clouds in your
-	VacuProg.
+	Você tem nuvens
+	demais no seu
+	Programa Aspirador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You won't be able to
-	suck up any more
-	clouds like this.
+	Não é possível
+	aspirar mais nuvens
+	nesse estado.
 	"""
 	keyWait
 		any = false
@@ -33,8 +33,8 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A virus was hiding
-	behind the cloud!
+	Havia um vírus escondido
+	atrás da nuvem!
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,8 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	There is something
-	behind the cloud⋯
+	Tem alguma coisa
+	atrás da nuvem...
 	"""
 	keyWait
 		any = false
@@ -67,8 +67,8 @@ script 4 mmbn5 {
 		code = L
 		amount = 1
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -97,8 +97,8 @@ script 5 mmbn5 {
 		code = Z
 		amount = 1
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -128,7 +128,7 @@ script 6 mmbn5 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"500 Zennys"!!!
 	"""
 	keyWait
@@ -150,7 +150,7 @@ script 7 mmbn5 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"1000 Zennys"!!!
 	"""
 	keyWait
@@ -172,9 +172,8 @@ script 8 mmbn5 {
 		jumpIfNone = continue
 		jumpIfSome = continue
 	"""
-	MegaMan got:
-	1
-	"BugFrag"!!!
+	MegaMan adquiriu:
+	1 "BugFrag"!!!
 	"""
 	keyWait
 		any = false

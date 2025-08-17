@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"MagnetBarrier!"
+	"Barreira Magnética!"
 	keyWait
 		any = false
 	end
@@ -14,8 +14,8 @@ script 1 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	This is it!
-	MagMissl!
+	É agora!
+	Míssil Magnético!
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Waaah!"
+	"Aaagh!"
 	keyWait
 		any = false
 	end
@@ -35,8 +35,8 @@ script 3 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Take this!
-	KingdomCrusher!
+	Tome isso!
+	Esmagador do Reino!
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Agh! Too strong!
-	I can't move up!
+	Agh! É forte demais!
+	Eu não consigo avançar!
 	"""
 	keyWait
 		any = false
@@ -69,8 +69,8 @@ script 7 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Let's go!
-	GyroForm!
+	Vamos lá!
+	GyroForma!
 	"""
 	keyWait
 		any = false
@@ -81,13 +81,12 @@ script 8 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Target⋯
-	locked on⋯
+	Alvo... na mira...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fire!"
+	"Fogo!"
 	keyWait
 		any = false
 	end
@@ -96,7 +95,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"YEAH!"
+	"AÊ!"
 	keyWait
 		any = false
 	end
@@ -105,15 +104,15 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"All right⋯"
+	"Pois bem..."
 	keyWait
 		any = false
 	clearMsg
-	"One,two,three⋯"
+	"Um, dois, três..."
 	keyWait
 		any = false
 	clearMsg
-	"WaterBug attack!"
+	"Ataque Inseto Aquático!"
 	keyWait
 		any = false
 	end
@@ -122,7 +121,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"*Gasp!*"
+	"Arh!"
 	keyWait
 		any = false
 	end
@@ -132,13 +131,14 @@ script 12 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	There's nothing
-	my sword can't cut.
+	Não há nada que a
+	minha espada não
+	consiga cortar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yaaa!"
+	"Iiiá!"
 	keyWait
 		any = false
 	end
@@ -147,7 +147,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Hooo!"
+	"Fuu..."
 	keyWait
 		any = false
 	end
@@ -157,16 +157,17 @@ script 14 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	So you think you can
-	stop me with this
-	itsy-bitsy door?
+	Então, tá achando que
+	essa portinha mixuruca
+	vai me segurar, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll just blow
-	it away. BAM!
+	Pois eu vou
+	é explodir ela.
+	CABUM!
 	"""
 	keyWait
 		any = false
@@ -177,8 +178,8 @@ script 15 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	It's a breeze,
-	man. A breeze.
+	Mel na chupeta, cara.
+	Mel na chupeta.
 	"""
 	keyWait
 		any = false
@@ -189,13 +190,14 @@ script 16 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	This'll be another
-	nick in my tomahawk!
+	Esse vai ser outro
+	arranhão na minha
+	machadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TomahawkSwing!"
+	"Corte da Machadinha!"
 	keyWait
 		any = false
 	end
@@ -204,7 +206,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Piece'a cake."
+	"Moleza."
 	keyWait
 		any = false
 	end
@@ -224,20 +226,20 @@ script 20 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Just leave this
-	to my search
-	engine!
+	Pode deixar isso com
+	a minha ferramenta
+	de busca!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯⋯⋯⋯"
+	".............."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯⋯⋯
-	Done!
+	.........
+	Pronto!
 	"""
 	keyWait
 		any = false
@@ -248,19 +250,20 @@ script 21 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	It'll take a sec
-	but no problem!
+	Vai demorar só um
+	pouquinho, mas tá
+	tranquilo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯⋯⋯⋯"
+	"..............."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯⋯⋯
-	It's unlocked!
+	.........
+	Destrancado!
 	"""
 	keyWait
 		any = false
@@ -275,13 +278,13 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Ready?"
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HealingPulse!
-	HAAAAA!
+	Pulso de Cura!
+	RÁÁÁÁÁ!
 	"""
 	keyWait
 		any = false
@@ -291,7 +294,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Piece'a cake!"
+	"Fácil, fácil!"
 	keyWait
 		any = false
 	end
@@ -300,11 +303,11 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Ahem!"
+	"Ca-hem!"
 	keyWait
 		any = false
 	clearMsg
-	"It' a show time!"
+	"Hora do show, coaxo!"
 	keyWait
 		any = false
 	end
@@ -313,7 +316,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"No sweat!"
+	"Molezinha!"
 	keyWait
 		any = false
 	end
@@ -332,11 +335,11 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"No biggy!"
+	"Uma tarefa simples!"
 	keyWait
 		any = false
 	clearMsg
-	"YAAA!"
+	"IIIÁ!"
 	keyWait
 		any = false
 	end
@@ -345,11 +348,11 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"No biggy!"
+	"Uma tarefa simples!"
 	keyWait
 		any = false
 	clearMsg
-	"YAAA!"
+	"IIIÁ!"
 	keyWait
 		any = false
 	end
@@ -361,14 +364,14 @@ script 31 mmbn5s {
 }
 script 32 mmbn5 {
 	msgOpen
-	"It opened!"
+	"Abriu!"
 	keyWait
 		any = false
 	end
 }
 script 33 mmbn5 {
 	msgOpen
-	"It closed!"
+	"Fechou!"
 	keyWait
 		any = false
 	end
@@ -376,9 +379,9 @@ script 33 mmbn5 {
 script 34 mmbn5 {
 	msgOpen
 	"""
-	Nothing happened.
-	The switch must
-	be for another Navi.
+	Nada aconteceu.
+	O interruptor deve
+	ser para outro Navi.
 	"""
 	keyWait
 		any = false

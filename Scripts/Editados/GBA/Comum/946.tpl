@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Okay then,I'll show
-	you your secret base
-	like I promised,huh⋯
+	Certo. Como prometido,
+	eu vou mostrar a sua
+	base secreta, é...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But first of all⋯"
+	"Mas, antes\nde mais nada..."
 	keyWait
 		any = false
 	clearMsg
@@ -20,23 +20,21 @@ script 0 mmbn5 {
 		timer = 0
 		value = 128
 	"""
-	Attention all
-	customers!
+	Atenção, clientes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but I'm afraid
-	the shop's closed!
+	Lamento, mas a
+	loja tá fechada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Make your way out
-	of here right now,
-	huh!
+	Saiam dela
+	agora mesmo, é!
 	"""
 	keyWait
 		any = false
@@ -46,7 +44,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Hey,no way!"
+	"Pô, sério?!"
 	keyWait
 		any = false
 	clearMsg
@@ -58,9 +56,9 @@ script 2 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I was just thinking
-	of starting a
-	NetBattle!
+	Justo quando eu tava
+	pensando em começar
+	uma NetLuta!
 	"""
 	keyWait
 		any = false
@@ -72,7 +70,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"That's not fair!"
+	"Que injusto!"
 	keyWait
 		any = false
 	clearMsg
@@ -84,8 +82,9 @@ script 4 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Whatever! Just get
-	out of here,huh?!
+	Ah, tanto faz!
+	Só deem logo
+	o fora daqui, é!!
 	"""
 	keyWait
 		any = false
@@ -96,8 +95,8 @@ script 5 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I'm bored!
-	Let's go!
+	Sem graça!
+	Vambora!
 	"""
 	keyWait
 		any = false
@@ -109,7 +108,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"Yeah,let's go!"
+	"É, bora vazar!"
 	keyWait
 		any = false
 	end
@@ -118,7 +117,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"I'm going home too!"
+	"Eu também vou pra casa!"
 	keyWait
 		any = false
 	end
@@ -127,7 +126,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Call again soon,huh!"
+	"Voltem sempre, é!"
 	keyWait
 		any = false
 	end
@@ -136,13 +135,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Sorry about that."
+	"Desculpa por isso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay then,follow
-	me,huh.
+	Tá bom, então.
+	Vem comigo, é.
 	"""
 	keyWait
 		any = false
@@ -152,7 +151,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Here it is,huh⋯"
+	"Lá vai, é..."
 	keyWait
 		any = false
 	end
@@ -170,11 +169,11 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"It's in here⋯"
+	"É por aqui..."
 	keyWait
 		any = false
 	clearMsg
-	"Follow me,huh."
+	"Siga-me, é."
 	keyWait
 		any = false
 	end
@@ -185,7 +184,7 @@ script 13 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯Gulp."
+	"... Glup."
 	keyWait
 		any = false
 	end

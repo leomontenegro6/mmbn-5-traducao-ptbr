@@ -19,8 +19,8 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -33,7 +33,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -42,7 +42,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -58,7 +58,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -68,8 +68,8 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -84,20 +84,20 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I won't quit the
-	business,no matter
-	how risky it gets.
+	Eu não vou sair deste
+	ramo, por mais arriscado
+	que tudo fique.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's my policy."
+	"Essa é a minha política."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -110,7 +110,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -119,7 +119,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -154,15 +154,16 @@ script 60 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hello there,sonny⋯
-	Out exploring again?
+	Oi, rapazinho...
+	Explorando de novo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may be young but
-	don't overdo it.
+	Sei que você é jovem,
+	mas não vá passar dos
+	limites, hein?
 	"""
 	keyWait
 		any = false
@@ -175,13 +176,13 @@ script 61 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	My operator told me
-	you'd come.
+	O meu operador falou
+	que você viria.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here,take this."
+	"Tome."
 	keyWait
 		any = false
 	clearMsg
@@ -192,7 +193,7 @@ script 61 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -207,23 +208,23 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	I'm not sure which
-	Security Cube that
+	Eu não sei de qual Cubo
+	de Segurança esse
+	Código-P é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	P-Code is for.
-	It might be
-	related to SciLab.
+	Talvez esteja
+	relacionado ao SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've always wondered
-	about that.
+	Isso sempre me
+	encucou...
 	"""
 	keyWait
 		any = false
@@ -234,15 +235,15 @@ script 62 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I wonder where that
-	P-Code is for?
+	De onde será que é
+	aquele Código-P?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you tell me
-	when you find out?
+	Quando você descobrir,
+	pode vir me contar?
 	"""
 	keyWait
 		any = false
@@ -253,31 +254,31 @@ script 63 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Well now⋯ so that
-	P-Code opened a
-	Security Cube in
+	Rapaz... Então, aquele
+	Código-P abria um
+	Cubo de Segurança
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the SciLab Area,
-	you say?
+	na Área SciLab, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought it might⋯
-	Now I can rest easy.
+	Bem que eu imaginei
+	isso... Agora eu posso
+	parar de estressar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a small token
-	of my appreciation.
-	Go ahead,take it.
+	Tome, uma demonstração
+	da minha gratidão.
+	Pode ficar.
 	"""
 	keyWait
 		any = false
@@ -291,7 +292,7 @@ script 63 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"2000 Zennys"!!!
 	
 	"""
@@ -303,13 +304,13 @@ script 63 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviBrown
 	"""
-	It feels so good to
-	finally know.
+	É tão bom finalmente
+	saber.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks,sonny!"
+	"Obrigado, rapazinho!"
 	keyWait
 		any = false
 	flagSet
@@ -321,9 +322,9 @@ script 64 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I've gained a few
-	more years now that
-	I can rest easy.
+	Saciar essa curiosidade
+	me deu uns anos a mais
+	de vida!
 	"""
 	keyWait
 		any = false
@@ -337,8 +338,8 @@ script 100 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's battle image
-	data from MagnetMan.
+	São dados de registro
+	de luta do MagnetMan.
 	"""
 	keyWait
 		any = false
@@ -346,8 +347,8 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,are we gonna
-	challenge MagnetMan?
+	Lan, vamos desafiar
+	o MagnetMan?
 	"""
 	keyWait
 		any = false
@@ -363,7 +364,7 @@ script 100 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -372,7 +373,7 @@ script 100 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -387,8 +388,8 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger,let's
-	challenge him again!
+	Beleza!
+	Hora da revanche!
 	"""
 	keyWait
 		any = false
@@ -398,22 +399,23 @@ script 101 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Go for it,Lan!"
+	"Manda ver, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -440,13 +442,12 @@ script 102 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it!"
+	"Vencemos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice work,
-	Lan!
+	Mandou bem, Lan!
 	"""
 	keyWait
 		any = false
@@ -472,13 +473,14 @@ script 103 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dang it⋯"
+	"Droga..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's try harder
-	next time,OK,Lan?!
+	Na próxima a gente se
+	empenha mais, tá bom,
+	Lan?!
 	"""
 	keyWait
 		any = false
@@ -499,8 +501,8 @@ script 105 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	It's battle image
-	data from KnightMan.
+	São dados de registro
+	de luta do KnightMan.
 	"""
 	keyWait
 		any = false
@@ -508,8 +510,8 @@ script 105 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,are we gonna
-	challenge KnightMan?
+	Lan, vamos desafiar
+	o KnightMan?
 	"""
 	keyWait
 		any = false
@@ -525,7 +527,7 @@ script 105 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -534,7 +536,7 @@ script 105 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -549,8 +551,8 @@ script 105 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger,let's
-	challenge him again!
+	Beleza!
+	Hora da revanche!
 	"""
 	keyWait
 		any = false
@@ -560,22 +562,23 @@ script 106 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Go for it,Lan!"
+	"Manda ver, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -600,15 +603,12 @@ script 107 mmbn5 {
 		jumpIfKnightMan = continue
 		jumpIfToadMan = continue
 	mugshotShow
-		mugshot = MegaMan
-	msgOpen
-	"We did it!"
+	"Vencemos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice work,
-	Lan!
+	Mandou bem, Lan!
 	"""
 	keyWait
 		any = false
@@ -634,13 +634,10 @@ script 108 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dang it⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Let's try harder
-	next time,OK,Lan?!
+	Na próxima a gente se
+	empenha mais, tá bom,
+	Lan?!
 	"""
 	keyWait
 		any = false
@@ -656,8 +653,8 @@ script 109 mmbn5s {
 script 110 mmbn5 {
 	msgOpen
 	"""
-	It's battle image
-	data from MagnetMan.
+	São dados de registro
+	de luta do MagnetMan.
 	"""
 	keyWait
 		any = false
@@ -665,8 +662,8 @@ script 110 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	Lan,are we gonna
-	challenge MagnetMan?
+	Hikari, vamos desafiar
+	o MagnetMan?
 	"""
 	keyWait
 		any = false
@@ -682,7 +679,7 @@ script 110 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -691,7 +688,7 @@ script 110 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -705,7 +702,7 @@ script 110 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Roger⋯"
+	"Entendido..."
 	keyWait
 		any = false
 	end
@@ -714,22 +711,23 @@ script 111 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Go for it,Lan!"
+	"À luta, Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -741,8 +739,8 @@ script 111 mmbn5 {
 script 115 mmbn5 {
 	msgOpen
 	"""
-	It's battle image
-	data from KnightMan.
+	São dados de registro
+	de luta do KnightMan.
 	"""
 	keyWait
 		any = false
@@ -750,8 +748,8 @@ script 115 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	Lan,are we gonna
-	challenge KnightMan?
+	Lan Hikari, vamos
+	desafiar o KnightMan?
 	"""
 	keyWait
 		any = false
@@ -767,7 +765,7 @@ script 115 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -776,7 +774,7 @@ script 115 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -790,7 +788,7 @@ script 115 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Roger⋯"
+	"Entendido..."
 	keyWait
 		any = false
 	end
@@ -798,22 +796,23 @@ script 115 mmbn5 {
 script 116 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
-	"Here he comes,Lan!"
+	"Aí vem ele, Lan Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -827,9 +826,9 @@ script 120 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Not bad. Let's see
-	if you can do it
-	again next time.
+	Nada mal. Vejamos se
+	você consegue repetir
+	a performance.
 	"""
 	keyWait
 		any = false
@@ -842,8 +841,9 @@ script 121 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	If you can do it
-	again next time.
+	Bom trabalho.
+	Lute bem assim na
+	próxima, também.
 	"""
 	keyWait
 		any = false
@@ -856,8 +856,9 @@ script 122 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Man⋯ we can't let
-	this happen again.
+	Tch...! Não podemos
+	deixar que isso se
+	repita.
 	"""
 	keyWait
 		any = false
@@ -870,8 +871,9 @@ script 123 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Argh⋯
-	We'll win next time!
+	Argh...
+	Da próxima vez, seremos
+	vitoriosos!
 	"""
 	keyWait
 		any = false

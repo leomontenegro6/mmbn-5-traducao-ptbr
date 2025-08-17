@@ -7,7 +7,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We liberated it!"
+	"Liberamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -19,16 +19,16 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	You're getting
-	the hang of it!
+	Você já começou
+	a pegar o jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me tell you
-	about DarkHoles
-	next.
+	Agora, vou lhe
+	explicar sobre
+	os Buracos Negros.
 	"""
 	keyWait
 		any = false
@@ -40,7 +40,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"DarkHoles?"
+	"Buracos Negros?"
 	keyWait
 		any = false
 	clearMsg
@@ -52,8 +52,7 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Take a look over
-	there.
+	Dê uma olhada bem ali.
 	"""
 	keyWait
 		any = false
@@ -75,21 +74,21 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"That's a DarkHole."
+	"Aquele é um\nBuraco Negro."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to delete
-	em before you can
-	fight the Darkloids.
+	Você precisa deletá-lo
+	para abrir a rota para
+	o Darkloide da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a guardian
-	of a DarkHole.
+	E esse é um guardião
+	de Buraco Negro.
 	"""
 	keyWait
 		any = false
@@ -102,9 +101,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess I'd better
-	liberate DarkHoles
-	right away⋯!
+	Acho que é melhor eu
+	correr pra liberar os
+	Buracos Negros, então...!
 	"""
 	keyWait
 		any = false
@@ -117,33 +116,32 @@ script 6 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Guardians will
-	attack closer
-	enemies first.
+	Os Guardiões atacam
+	os inimigos mais
+	próximos primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're pretty
-	nasty opponents.
-	Either try to take
+	São adversários bem
+	fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	them out before
-	the Darkloids'
-	attack phase or
+	Tente abatê-los antes
+	da fase de ataque
+	dos Darkloides,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	try to liberate
-	DarkHoles in
-	one shot.
+	ou tente liberar os
+	Buracos Negros logo
+	de cara.
 	"""
 	keyWait
 		any = false
@@ -156,8 +154,8 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Let me give
-	it my best shot!
+	Beleza!
+	Eu vou com tudo!
 	"""
 	keyWait
 		any = false
@@ -176,7 +174,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We liberated it!"
+	"Liberamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -188,16 +186,16 @@ script 11 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	You're getting
-	the hang of it!
+	Você já começou
+	a pegar o jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me tell you
-	about DarkHoles
-	next.
+	Agora, vou lhe
+	explicar sobre
+	os Buracos Negros.
 	"""
 	keyWait
 		any = false
@@ -209,7 +207,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"DarkHoles?"
+	"Buracos Negros?"
 	keyWait
 		any = false
 	clearMsg
@@ -221,8 +219,7 @@ script 13 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Take a look over
-	there.
+	Dê uma olhada bem ali.
 	"""
 	keyWait
 		any = false
@@ -244,21 +241,21 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"That's a DarkHole."
+	"Aquele é um\nBuraco Negro."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to delete
-	em before you can
-	fight the Darkloids.
+	Você precisa deletá-lo
+	para abrir a rota para
+	o Darkloide da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a guardian
-	of a DarkHole.
+	E esse é um guardião
+	de Buraco Negro.
 	"""
 	keyWait
 		any = false
@@ -271,9 +268,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess I'd better
-	liberate DarkHoles
-	right away⋯!
+	Acho que é melhor eu
+	correr pra liberar os
+	Buracos Negros, então...!
 	"""
 	keyWait
 		any = false
@@ -286,33 +283,32 @@ script 16 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Guardians will
-	attack closer
-	enemies first.
+	Os Guardiões atacam
+	os inimigos mais
+	próximos primeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're pretty
-	nasty opponents.
-	Either try to take
+	São adversários bem
+	fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	them out before
-	the Darkloids'
-	attack phase or
+	Tente abatê-los antes
+	da fase de ataque
+	dos Darkloides,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	try to liberate
-	DarkHoles in
-	one shot.
+	ou tente liberar os
+	Buracos Negros logo
+	de cara.
 	"""
 	keyWait
 		any = false
@@ -325,8 +321,8 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Let me give
-	it my best shot!
+	Beleza!
+	Eu vou com tudo!
 	"""
 	keyWait
 		any = false

@@ -5,28 +5,28 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS PIPELINE TAKES
-	IN THERMAL ENERGY
-	FROM MAGMA.
+	ESTA TUBULAÇÃO
+	EXTRAI ENERGIA
+	TÉRMICA DO MAGMA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT YOU GOTTA BE
-	VERY CAREFUL WHEN
-	DEALING WITH MAGMA.
+	MAS DEVE-SE TOMAR
+	MUITO CUIDADO AO
+	LIDAR COM MAGMA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ONE FALSE MOVE AND⋯"
+	"UM PASSO EM FALSO, E..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	KA-BOOM!!!
-	IT'S ALL OVER.
+	CABUUUMMM!!!
+	ACABOU.
 	"""
 	keyWait
 		any = false
@@ -36,25 +36,26 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"*PANT PANT*"
+	"UFF... UFF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I NEVER GET
-	ANY TIME OFF.
+	EU NUNCA SOU
+	DISPENSADO
+	DENTRO DO HORÁRIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY'RE GONNA WORK
-	ME TILL I CAVE IN.
+	VÃO ME FAZER TRABALHAR
+	ATÉ EU CAIR.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*PANT PANT*"
+	"UFF... UFF..."
 	keyWait
 		any = false
 	end

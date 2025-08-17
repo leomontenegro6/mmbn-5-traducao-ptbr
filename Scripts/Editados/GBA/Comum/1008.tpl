@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"RAWRRRRRRR⋯!!!"
+	"RAAAAHHHRRR...!!!"
 	keyWait
 		any = false
 	end
@@ -11,13 +11,15 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,somehow⋯"
+	"""
+	A gente deu um jeito...
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wonder if
-	he'll rise up again⋯
+	Mas será que ele vai
+	voltar de novo...?
 	"""
 	keyWait
 		any = false
@@ -29,11 +31,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"If he does,we can"
+	"""
+	Se ele voltar, a gente
+	dá um trato nele!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"handle him,right?"
+	"Né?"
 	keyWait
 		any = false
 	clearMsg
@@ -44,7 +49,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"But of course!!!"
+	"Com certeza!!!"
 	keyWait
 		any = false
 	end
@@ -54,9 +59,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	As long as it's you
-	and me Lan,we can
-	beat anybody!
+	Enquanto eu e você
+	estivermos juntos,
+	ninguém tem chance!
 	"""
 	keyWait
 		any = false
@@ -68,7 +73,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's right!"
+	"Pode apostar!"
 	keyWait
 		any = false
 	end

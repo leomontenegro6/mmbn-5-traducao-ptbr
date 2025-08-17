@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	I didn't expect you
-	to make it this far!
+	Não esperava que você
+	fosse chegar tão longe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Welcome to the party
-	of darkness!
+	Bem-vindo ao festim
+	da escuridão!
 	"""
 	keyWait
 		any = false
@@ -42,17 +42,17 @@ script 2 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	It's too early for
-	a banquet but
-	I have no choice.
+	Ainda está cedo para
+	o banquete, mas acho
+	que não tenho escolha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now give me a taste
-	of your power!
-	Ha ha ha!
+	Agora, deixe-me sentir
+	um gostinho do seu
+	poder! Ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -97,8 +97,8 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	ShadeMan! I'll
-	get you this time!
+	ShadeMan!
+	Desta vez, eu te pego!
 	"""
 	keyWait
 		any = false
@@ -110,7 +110,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes!"
+	"Aí vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -121,7 +121,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -131,8 +131,8 @@ script 14 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	ShadeMan! This is
-	the end of the line!
+	ShadeMan!
+	Fim da linha para você!
 	"""
 	keyWait
 		any = false
@@ -144,7 +144,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Here he comes!"
+	"Aí vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -155,7 +155,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,ProtoMan!"
+	"Vamos lá, ProtoMan!"
 	keyWait
 		any = false
 	end
@@ -165,8 +165,8 @@ script 30 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Hey,Shade-face!
-	You're MINE!
+	Aí, morcegão!
+	Cai dentro!!
 	"""
 	keyWait
 		any = false
@@ -178,7 +178,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Here he comes!"
+	"Aí vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -189,7 +189,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"C'mon,MagnetMan!"
+	"Vamos nessa, MagnetMan!"
 	keyWait
 		any = false
 	end
@@ -199,8 +199,8 @@ script 38 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	ShadeMan! This is
-	the end of the line!
+	ShadeMan!
+	Fim da linha para você!
 	"""
 	keyWait
 		any = false
@@ -212,7 +212,7 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Here he comes!"
+	"Aí vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -223,7 +223,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,Colonel!"
+	"Vamos lá, Colonel!"
 	keyWait
 		any = false
 	end
@@ -233,8 +233,8 @@ script 54 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Shade-thing!
-	I have you now!
+	Criatura vil!
+	Prepare-se para cair!
 	"""
 	keyWait
 		any = false
@@ -246,7 +246,7 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Here he comes!"
+	"Aí vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -257,7 +257,7 @@ script 56 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,KnightMan!"
+	"Vamos lá, KnightMan!"
 	keyWait
 		any = false
 	end

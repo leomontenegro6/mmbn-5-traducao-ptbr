@@ -4,20 +4,19 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ART IS WONDERFUL!"
+	"A ARTE É MARAVILHOSA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COME ON,SHOUT
-	IT OUT WITH ME!
+	VAMOS, GRITE COMIGO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ART IS SO
-	WONDERFUL!!!
+	"A ARTE É
+	MARAVILHOSA"!!!
 	"""
 	keyWait
 		any = false
@@ -28,16 +27,17 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ACTUALLY,ART IS
-	SO POMPOUS! DON'T
-	YOU JUST HATE IT!!!
+	NA VERDADE, A ARTE
+	É SÓ PRETENSIOSA!
+	DÁ UM ÓDIO, NÉ?!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I COULDN'T STAND TO
-	SEE ANOTHER PIECE!!!
+	EU NÃO AGUENTO VER
+	NEM MAIS UMA OBRA
+	SEQUER!!!
 	"""
 	keyWait
 		any = false
@@ -48,15 +48,15 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY MEMORY'S ALL
-	FUZZY⋯
+	A MINHA MEMÓRIA
+	TÁ TODA TURVA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T KNOW IF I'M
-	COMING OR GOING⋯
+	NÃO LEMBRO SE EU
+	TAVA INDO OU VINDO...
 	"""
 	keyWait
 		any = false
@@ -73,51 +73,53 @@ script 5 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey! What are you
-	doing here!
+	Ei! Está fazendo
+	o que aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Playing hide&seek
-	here is dangerous!
+	Brincar de
+	esconde-esconde
+	aqui é perigoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You better⋯
-	Uh⋯ Jack out⋯
-	quick⋯
+	É bom você...
+	Er... Desconectar...
+	logo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	⋯Did I just say
-	hide&seek?
+	... Eu falei
+	"esconde-esconde",
+	não falei?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Oh man⋯"
+	"Putz..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One,two,three⋯
-	Got ya!
+	Um, dois, três...
+	Te peguei!
 	"""
 	keyWait
 		any = false
@@ -125,25 +127,25 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	What a lame mistake.
-	I'll be more careful
-	next time.
+	Que erro imbecil.
+	Tenho que tomar mais
+	cuidado da próxima vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you won't
-	be able to find
-	me next time.
+	Nessa agora, você não
+	vai me achar de jeito
+	nenhum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a hint
-	"Drill." Now try
-	to find me!
+	Aqui vai uma dica:
+	"Broca".
+	Tenta me achar!
 	"""
 	keyWait
 		any = false
@@ -154,27 +156,27 @@ script 6 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	The hint is "drill."
-	D 
+	A dica é "broca".
+	B 
 	"""
 	wait
 		frames = 10
 	" r "
 	wait
 		frames = 10
-	" i "
+	" o "
 	wait
 		frames = 10
-	" l "
+	" c "
 	wait
 		frames = 10
-	" l!"
+	" a!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can you figure it
-	out? Bet you can't!
+	E aí, matou a charada?
+	Aposto que não!
 	"""
 	keyWait
 		any = false
@@ -193,15 +195,15 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	That's not a normal
-	look. Something's
-	definitely wrong.
+	Esse não é um olhar
+	normal. Tem alguma
+	coisa errada aqui.
 	"""
 	keyWait
 		any = false

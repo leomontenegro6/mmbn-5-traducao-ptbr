@@ -14,22 +14,20 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Huh,huh,huh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got to be
-	tough if you want to
-	do well in battle⋯
+	É preciso ser durão pra
+	mandar bem na luta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm building up my
-	strength by running
-	like this.
+	Eu tô correndo assim
+	pra ganhar resistência.
 	"""
 	keyWait
 		any = false
@@ -40,17 +38,17 @@ script 35 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	It think there's
-	someone upstairs
-	doing training too.
+	Acho que tem alguém
+	treinando mais lá pra
+	cima também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sometimes I hear
-	them. It sounds
-	pretty serious!
+	Eu escuto a pessoa, às
+	vezes. Parece que ela
+	leva bem a sério!
 	"""
 	keyWait
 		any = false
@@ -61,9 +59,9 @@ script 40 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	My training's paying
-	off. I'm getting a
-	lot stronger⋯
+	O meu treinamento
+	tá dando resultado.
+	Tô ficando fortão...
 	"""
 	keyWait
 		any = false
@@ -74,9 +72,9 @@ script 45 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Huh,huh,huh⋯
-	Guess⋯ I should be⋯
-	heading back soon⋯
+	He he he...
+	Acho que... eu vou...
+	voltar agora...
 	"""
 	keyWait
 		any = false

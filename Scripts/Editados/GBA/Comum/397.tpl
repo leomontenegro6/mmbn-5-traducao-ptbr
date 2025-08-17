@@ -18,60 +18,59 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ah,hello there!"
+	"Ah, oi, rapaz!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a member of the
-	ship's crew
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and I'm putting on a
-	bit of entertainment
-	to amuse the guests
+	Eu faço parte da
+	tripulação do navio,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	until the party
-	starts.
+	e estou organizando um
+	pequeno entretenimento
+	para os passageiros
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can take part in
-	a free NetBattle up
-	there on the stage,
+	até a festa começar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	or there's a mystery
-	stamp rally! The
-	stamps are hidden
+	Vocês podem travar
+	uma NetLuta livre
+	ali, na arena,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	around the ship. The
-	NetBattle looks a
-	bit busy right now⋯
+	ou encarar uma corrida
+	de carimbos escondidos
+	pelo navio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you have a
-	go at the mystery
-	stamp rally?
+	A arena da NetLuta
+	parece meio ocupada
+	agora...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Que tal encarar a
+	corrida dos carimbos,
+	então?
 	"""
 	keyWait
 		any = false
@@ -87,7 +86,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -96,7 +95,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -111,8 +110,9 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Okay. But come back
-	if you get bored!
+	Tudo bem.
+	Bom, se bater o tédio,
+	volte aqui!
 	"""
 	keyWait
 		any = false
@@ -125,70 +125,70 @@ script 1 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Great! Okay,so I'll
-	give you some clues,
+	Legal! É assim: eu
+	te dou algumas pistas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and you have to go
-	find the stamps and
-	bring them to me.
+	e você sai em busca
+	dos carimbos e traz
+	eles aqui, para mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are three
-	stamps in total.
+	São três carimbos no
+	total.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're all hidden
-	behind or under
-	things on board!
+	Estão todos escondidos
+	atrás ou abaixo de
+	coisas a bordo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here are the clues:"
+	"Eis as pistas:"
 	keyWait
 		any = false
 	clearMsg
-	"1. Spin it around\n"
+	"1. Gira e vira\n"
 	spacePx
 		count = 22
-	"for left and right!"
+	"para a esquerda e\npara a direita!"
 	keyWait
 		any = false
 	clearMsg
-	"2. Where we sail,a\n"
+	"2. Aonde navegamos,\n"
 	spacePx
 		count = 22
-	"maiden stares."
+	"uma donzela observa."
 	keyWait
 		any = false
 	clearMsg
-	"3. It repels all\n"
+	"3. Repele toda a\n"
 	spacePx
 		count = 22
-	"light and always\n"
+	"luz e sempre me\n"
 	spacePx
 		count = 22
-	"reflects me."
+	"reflete."
 	keyWait
 		any = false
 	clearMsg
-	"That's it!"
+	"E é isso!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can put the
-	stamps on this.
+	Você deve marcar
+	os carimbos aqui.
 	"""
 	keyWait
 		any = false
@@ -200,7 +200,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -214,7 +214,7 @@ script 1 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -242,14 +242,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	msgOpen
-	"Ah,it's you again!"
+	"Ah, você de novo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Changed your mind
-	about the stamp
-	rally?
+	Mudou de ideia quanto
+	à corrida dos carimbos?
 	"""
 	keyWait
 		any = false
@@ -265,7 +264,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -274,7 +273,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -289,8 +288,9 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	Okay. But come back
-	if you get bored!
+	Tudo bem.
+	Bom, se bater o tédio,
+	volte aqui!
 	"""
 	keyWait
 		any = false
@@ -301,40 +301,37 @@ script 4 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	You'd like the clues
-	again? Sure!
+	Quer ouvir as pistas
+	de novo? Claro!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"1. Spin it around\n"
+	"1. Gira e vira\n"
 	spacePx
 		count = 22
-	"for left and right!"
+	"para a esquerda e\npara a direita!"
 	keyWait
 		any = false
 	clearMsg
-	"2. Where we sail,a\n"
+	"2. Aonde navegamos,\n"
 	spacePx
 		count = 22
-	"maiden stares."
+	"uma donzela observa."
 	keyWait
 		any = false
 	clearMsg
-	"3. It repels all\n"
+	"3. Repele toda a\n"
 	spacePx
 		count = 22
-	"light and always\n"
+	"luz e sempre me\n"
 	spacePx
 		count = 22
-	"reflects me."
+	"reflete."
 	keyWait
 		any = false
 	clearMsg
-	"""
-	There you go! Good
-	luck!
-	"""
+	"E é isso! Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -357,44 +354,43 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow!"
+	"Caramba!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can see for
-	miles and miles.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	⋯Hang on! You can
-	see where the ship's
-	sailing⋯
+	Dá pra ver o horizonte
+	se estendendo até o
+	infinito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah-ha! There's a
-	stamp on top of the
-	maiden's head!
+	... Pera! Dá pra ver
+	pra onde o navio tá
+	navegando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good kids aren't
-	supposed to mess
-	around⋯
+	Arrá! Tem um carimbo
+	em cima da cabeça da
+	estátua da donzela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯What would happen
-	if I fell over⋯?!
+	Não é certo ficar
+	mexendo nessas coisas...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... E se eu cair...?!
 	"""
 	keyWait
 		any = false
@@ -406,9 +402,9 @@ script 8 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan gently stamped
-	the "Maiden Stamp"
-	on his card!!!
+	Lan cuidadosamente
+	marcou o "Carimbo da
+	Donzela" no cartão!
 	"""
 	playerFinish
 	playerResetObject
@@ -418,7 +414,7 @@ script 8 mmbn5 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Lan
-	"Cool! I got a stamp!"
+	"Boa!\nConsegui um carimbo!"
 	keyWait
 		any = false
 	end
@@ -431,32 +427,32 @@ script 10 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Something might have
-	happened in the
-	Engine Room!
+	Pode ter acontecido
+	alguma coisa na sala
+	das máquinas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now what was the
-	security code for
-	the door⋯?
+	Argh, qual era mesmo o
+	código de segurança da
+	porta...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How did I remember
-	it⋯?
+	O meu macete pra não
+	esquecer era...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Double 1 & nine too
-	tonight makes
-	eleven⋯ Was that it?
+	"Um e um e nova dodô
+	nova onze"...
+	Mas que número era?!
 	"""
 	keyWait
 		any = false
@@ -471,9 +467,8 @@ script 12 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	What's your problem!
-	Don't get in the
-	way!
+	Sai fora, guri!
+	Não atrapalha!
 	"""
 	keyWait
 		any = false
@@ -488,8 +483,8 @@ script 13 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Don't get in the way
-	of my battle!
+	Não interrompa a minha
+	luta!
 	"""
 	keyWait
 		any = false
@@ -500,9 +495,9 @@ script 14 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Come back later⋯
-	We'll put the battle
-	on hold.
+	A gente continua
+	depois... Bora dar uma
+	pausa na luta.
 	"""
 	keyWait
 		any = false
@@ -513,13 +508,13 @@ script 15 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I can wait for the
-	battle.
+	Beleza, eu posso
+	esperar pra luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Come back later⋯"
+	"Depois cê volta..."
 	keyWait
 		any = false
 	end
@@ -529,14 +524,14 @@ script 16 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I don't know who you
-	are but you've got
-	stuff going on,huh?
+	Eu não sei quem você é,
+	mas tá bem ocupado
+	agora, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well⋯ Good luck."
+	"Bom... Boa sorte."
 	keyWait
 		any = false
 	end
@@ -546,9 +541,9 @@ script 17 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I don't know what
-	you're on this ship
-	to do but⋯good luck.
+	Não sei o que cê tem
+	pra fazer neste navio,
+	mas... boa sorte.
 	"""
 	keyWait
 		any = false
@@ -562,20 +557,20 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"The blue water!"
+	"O mar azul!"
 	wait
 		frames = 20
-	"\nThe shining sun!"
+	"\nO sol incandescente!"
 	wait
 		frames = 20
-	"\nThe sea breeze!"
+	"\nA brisa do oceano!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah! This is just
-	like being in a
-	tropical resort!
+	É! Isto aqui é que nem
+	estar em um resort
+	tropical!
 	"""
 	keyWait
 		any = false
@@ -586,23 +581,24 @@ script 21 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	You shouldn't get so
-	worried about a bit
-	of rocking!
+	Você não devia se
+	preocupar tanto com
+	uma chacoalhadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're on a luxury
-	ocean liner,right?
+	A gente tá em um
+	cruzeiro de luxo, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just relax! You've
-	got to take it easy!
+	Então, relaxa!
+	O lance agora é
+	desestressar!
 	"""
 	keyWait
 		any = false
@@ -613,14 +609,14 @@ script 23 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm going in for the
-	NetBattle. But I'm
-	so nervous!
+	Eu vou encarar a
+	NetLuta. Mas tô tão
+	nervoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't relax!"
+	"Não consigo relaxar!"
 	keyWait
 		any = false
 	end
@@ -634,14 +630,14 @@ script 24 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I spent 10 million
-	Zennys customizing
-	my Navi!
+	Eu investi 10 milhões
+	de Zennys para
+	customizar o meu Navi!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't lose! He he!"
+	"É impossível eu perder!\nHe he he!"
 	keyWait
 		any = false
 	end
@@ -655,16 +651,16 @@ script 25 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	How about a drink?
-	I recommend the red,
-	yellow and green
+	Aceita uma bebida?
+	Eu recomendo o Suco
+	Semáforo Tropical.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tropical Traffic
-	Light Juice!
+	Ele é vermelho,
+	amarelo e verde!
 	"""
 	keyWait
 		any = false
@@ -675,22 +671,22 @@ script 26 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	W-What was that
-	shaking⋯? An
-	accident?
+	Q-que tremor foi
+	aquele...?
+	Algum acidente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What am I doing?!
-	The passengers will
-	worry if they see.
+	Não, pare! Os passagei-
+	ros vão se preocupar
+	se te virem assim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Smile,smile,smile!"
+	"Sorria! Sorria! Sorria!"
 	keyWait
 		any = false
 	end
@@ -704,16 +700,16 @@ script 28 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	The Queen Bohemia is
-	an amazing vessel.
+	O Rainha Boêmia é uma
+	embarcação incrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just the sort of
-	ship you'd expect
-	Ubercorp to charter.
+	Bem o tipo de navio
+	que se esperaria da
+	Ubercorp.
 	"""
 	keyWait
 		any = false
@@ -724,16 +720,16 @@ script 29 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Rocking? That was
-	nothing!
+	Balançando?
+	Aquilo não foi nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you're worried,
-	just go visit the
-	Bridge up ahead.
+	Se está preocupado,
+	pergunte na ponte,
+	seguindo por aqui.
 	"""
 	keyWait
 		any = false
@@ -752,9 +748,8 @@ script 30 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ohhh⋯ I wish I
-	could go to the
-	party too⋯
+	Humpf... Queria ir na
+	festa também...
 	"""
 	keyWait
 		any = false
@@ -765,9 +760,9 @@ script 31 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	What are you in such
-	a hurry about? Has
-	something happened?
+	Por que tanta pressa,
+	rapaz? Aconteceu
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -778,8 +773,7 @@ script 32 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	T-To the Bridge!
-	Quickly!
+	P-pra ponte! Rápido!
 	"""
 	keyWait
 		any = false

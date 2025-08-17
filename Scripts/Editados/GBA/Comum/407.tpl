@@ -4,28 +4,28 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"That's IT!"
+	"CHEGA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why do I have to
-	waste my time
-	helping you?! WHY?!
+	Por que eu tenho que
+	perder o meu tempo
+	ajudando VOCÊ?! HEIN?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"What the?!"
+	"Como é que é?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You looked bored
-	so I gave you a job!
-	You better thank me!
+	Cê tava desocupada, aí
+	eu te dei um trabalho!
+	Devia era me agradecer!
 	"""
 	keyWait
 		any = false
@@ -41,15 +41,15 @@ script 10 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	⋯What was I
-	doing?
+	... O que é que eu
+	estava fazendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ouch! I have a
-	splitting headache!
+	Ai! Nossa, que dor de
+	cabeça!
 	"""
 	keyWait
 		any = false
@@ -65,9 +65,8 @@ script 11 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I think I said
-	something really
-	nasty,didn't I?
+	Eu falei uma coisa
+	muito cruel, não falei?
 	"""
 	keyWait
 		any = false
@@ -78,23 +77,24 @@ script 20 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I was in the middle
-	of cleaning⋯
+	Eu estava no meio da
+	minha limpeza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Suddenly I felt
-	like something
-	banged my head.
+	quando, de repente,
+	pareceu que uma coisa
+	amassou a minha cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next thing I know,
-	I'm yelling at her!
+	E, quando me dei conta,
+	eu comecei a gritar com
+	ela!
 	"""
 	keyWait
 		any = false
@@ -105,25 +105,24 @@ script 21 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Man,it felt like
-	something was
-	inside of my head.
+	Nossa, era como se
+	tivesse alguma coisa
+	dentro da minha cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it was
-	spinning there,
-	forcing me
+	Uma coisa girando lá
+	dentro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to say rude
-	things against
-	my will!
+	me forçando a falar
+	grosserias contra a
+	minha vontade!
 	"""
 	keyWait
 		any = false

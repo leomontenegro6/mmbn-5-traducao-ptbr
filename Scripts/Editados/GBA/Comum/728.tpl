@@ -11,25 +11,24 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This Navi isn't one
-	of Nebula's Navis!
+	Esse Navi não é um
+	dos Navis da Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you OK?!"
+	"Você ta legal?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Who-who are you?"
+	"Q-quem é você?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you come
-	to rescue me⋯?
+	Veio me salvar...?
 	"""
 	keyWait
 		any = false
@@ -37,8 +36,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Did any other
-	Navis get caught?
+	Algum outro Navi
+	foi capturado?
 	"""
 	keyWait
 		any = false
@@ -46,159 +45,162 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	A big-yellow one,
-	a girl,and one who
-	is really polite!
+	Um amarelo grandão,
+	uma garota, e um que
+	era bem educado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"It's GutsMan!"
+	"São o GutsMan\ne os outros!"
 	keyWait
 		any = false
 	clearMsg
-	"Where are they?"
+	"Onde eles estão?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"No idea!"
+	"Eu não sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Suddenly a black
-	hole just opened
-	in the air!
+	De repente, um buraco
+	negro simplesmente se
+	abriu no ar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It sucked all of
-	them inside!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"Regal⋯"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = NormalNaviYellow
-	"""
-	Did you come here
-	to take him out?
+	e puxou todos
+	eles pra dentro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"You got it!"
+	"Regal..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Will you promise
-	me something⋯?
+	Você veio aqui pra
+	lutar com ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Like what?"
+	"Pode apostar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Look at me. I'm not
-	going to make it.
+	Então pode me
+	prometer uma coisa...?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"O quê?"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = NormalNaviYellow
+	"""
+	Olha só o meu estado...
+	Eu não vou sobreviver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Promise you'll win.
-	Defeat Regal for me.
+	Promete pra mim que
+	você vai vencer.
+	Derrota o Regal por mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's⋯ He's in⋯
-	the room above us.
+	Ele... Ele tá...
+	na sala acima.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Operator! Please"
+	"Operador!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	check out the
-	middle chip case!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The red chip in
-	the second row
-	opens a hidden path.
+	Por favor, confira o
+	porta-chips do meio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hid your friend's
-	PET⋯
+	O chip vermelho na
+	segunda fileira abre
+	um caminho secreto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's on the other
-	side of the case.
+	Eu escondi os PETs
+	dos seus amigos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And p-promise⋯
-	Take⋯Regal⋯down⋯
+	Estão do outro lado
+	do porta-chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯"
+	"""
+	E p-prometa...
+	que vai... vencer...
+	o Regal...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	We'd better go,
-	Lan. Let's do it!
+	É melhor a gente
+	seguir em frente, Lan.
+	Vamos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -209,14 +211,14 @@ script 1 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	He didn't make
-	it. He's gone⋯
+	Ele não aguentou.
+	O Navi se foi...
 	"""
 	keyWait
 		any = false

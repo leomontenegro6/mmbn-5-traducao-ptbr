@@ -19,7 +19,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"I'm counting on you⋯"
+	"Conto com você..."
 	keyWait
 		any = false
 	end
@@ -29,16 +29,15 @@ script 32 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	You were a great
-	help.
+	Você ajudou muito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mind that guy with
-	the sunglasses! He's
-	no ordinary man!
+	Cuidado com aquele lá
+	dos óculos escuros!
+	Ele não é normal!
 	"""
 	keyWait
 		any = false
@@ -63,7 +62,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"It's in your hands⋯"
+	"Está em suas mãos..."
 	keyWait
 		any = false
 	end
@@ -72,14 +71,14 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Thank you so much⋯"
+	"Muito obrigada."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mind that man with
-	the scarred face!
-	He's one to watch!
+	Mas cuidado com aquele
+	homem da cicatriz!
+	Ele exala perigo!
 	"""
 	keyWait
 		any = false
@@ -95,9 +94,9 @@ script 40 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	MagnetMan's looking
-	good. It's thanks to
-	you,Lan.
+	O MagnetMan está bem
+	agora. Tudo graças a
+	você, Lan.
 	"""
 	keyWait
 		any = false
@@ -113,9 +112,9 @@ script 41 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Thanks to you,
-	KnightMan is much
-	better now.
+	Graças a você, o
+	KnightMan está em plena
+	forma de novo!
 	"""
 	keyWait
 		any = false
@@ -126,9 +125,9 @@ script 50 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	MagnetMan's fit to
-	join the action any
-	time!
+	O MagnetMan está pronto
+	para encarar a ação a
+	qualquer momento!
 	"""
 	keyWait
 		any = false
@@ -139,9 +138,9 @@ script 51 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	KnightMan is ready
-	to join in the
-	action any time!
+	O KnightMan está
+	preparado para lutar
+	quando precisar!
 	"""
 	keyWait
 		any = false
@@ -157,16 +156,14 @@ script 60 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	MegaMan will come
-	back,Lan. I'm sure
-	of it!
+	O MegaMan vai voltar,
+	Lan. Eu sei que vai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't let it get you
-	down⋯
+	Tente não desanimar...
 	"""
 	keyWait
 		any = false
@@ -182,15 +179,15 @@ script 61 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	MegaMan will be back
-	for sure,Lan.
+	Estou certa de que o
+	MegaMan irá voltar, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mustn't let it
-	get you down⋯
+	Por favor, não perca
+	as esperanças...
 	"""
 	keyWait
 		any = false
@@ -201,9 +198,9 @@ script 65 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	You? Using ProtoMan?
-	Wow! Chaud's one
-	special guy⋯
+	Você? Usando ProtoMan?
+	Nossa! O Chaud é cheio
+	de surpresas...
 	"""
 	keyWait
 		any = false
@@ -214,9 +211,9 @@ script 66 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	You're acting
-	Colonel?! Baryl must
-	really trust you.
+	Você está manuseando
+	o Colonel?! Baryl deve
+	confiar mesmo em você.
 	"""
 	keyWait
 		any = false

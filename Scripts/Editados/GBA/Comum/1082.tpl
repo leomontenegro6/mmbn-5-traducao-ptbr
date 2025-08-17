@@ -8,8 +8,8 @@ script 0 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Something's wrong
-	with this DarkPanel.
+	Há alguma coisa errada
+	com esse Quadro Negro.
 	"""
 	keyWait
 		any = false
@@ -22,8 +22,8 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Good eye,
-	SerchMan!
+	Bem observado,
+	SearchMan!
 	"""
 	keyWait
 		any = false
@@ -37,17 +37,17 @@ script 2 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I've heard that
-	some DarkPanels
-	are booby trapped.
+	Ouvi dizer que certos
+	Quadros Negros escondem
+	armadilhas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just
-	liberate panels
-	haphazardly.
+	Não podemos sair
+	liberando quadros
+	cegamente.
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Something's coming!"
+	"Algo está vindo!"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +69,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hee-hee-hee⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -82,9 +82,9 @@ script 5 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Welcome to
-	End Area5,
-	Team ProtoMan!
+	Bem-vinda à
+	Área Endo 5,
+	Equipe ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -97,8 +97,7 @@ script 6 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Who the heck are
-	you?
+	E quem que é você?
 	"""
 	keyWait
 		any = false
@@ -111,17 +110,17 @@ script 7 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	I'm CosmoMan.
-	I control the
-	world of darkness.
+	Eu sou CosmoMan.
+	Aquele que controla
+	o Mundo das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see how
-	you managed to
-	make it this far!
+	Vejamos se foi
+	só sorte o que lhes
+	trouxe tão longe!
 	"""
 	keyWait
 		any = false
@@ -135,17 +134,16 @@ script 8 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Why did he bother
-	telling us his skill
-	beforehand?
+	Pra que ele foi contar
+	a habilidade dele pra
+	gente de antemão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He talks tough but
-	I think he's justa
-	bit brainless!
+	Ele faz pose de durão,
+	mas é meio burro!
 	"""
 	keyWait
 		any = false
@@ -159,15 +157,16 @@ script 9 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Take it as a sign
-	of his confidence.
+	Tome isso como
+	um sinal da
+	autoconfiança dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's a strong one,
-	no doubt about it.
+	Ele é forte, sim.
+	Não tenho dúvidas.
 	"""
 	keyWait
 		any = false
@@ -180,17 +179,17 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This place seems
-	to be full of
-	BarrierPanels.
+	Este lugar parece
+	ser cheio de
+	Quadros Barreira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep an eye out
-	for traps as we
-	look for the key.
+	Vamos ficar atentos
+	pras armadilhas enquanto
+	procuramos pela chave.
 	"""
 	keyWait
 		any = false
@@ -202,7 +201,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Definitely⋯"
+	"Concordo..."
 	keyWait
 		any = false
 	clearMsg
@@ -212,7 +211,7 @@ script 11 mmbn5 {
 	waitOWVar
 		variable = 0
 		value = 8
-	"SerchMan?"
+	"SearchMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -230,16 +229,16 @@ script 12 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I'm an expert
-	at finding items.
-	I can even liberate
+	Eu sou especialista
+	em encontrar itens.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	panels from a
-	distance.
+	Posso até liberar
+	quadros à longa
+	distância.
 	"""
 	keyWait
 		any = false
@@ -252,8 +251,8 @@ script 13 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Your search power
-	is something else!
+	O seu poder de busca
+	é bem admirável!
 	"""
 	keyWait
 		any = false
@@ -265,16 +264,16 @@ script 13 mmbn5 {
 		variable = 0
 		value = 12
 	"""
-	Okay,let's do it!
-	Get ready,Lan!
+	Bom, vamos lá!
+	Prepare-se, Hikari!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Complete the
-	liberation within
-	9 phases!
+	Tentem concluir a
+	liberação dentro de
+	nove fases!
 	"""
 	keyWait
 		any = false
@@ -286,7 +285,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end
@@ -296,8 +295,9 @@ script 20 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Something's wrong
-	with this DarkPanel.
+	Tem alguma coisa
+	errada nesse Quadro
+	Negro aí.
 	"""
 	keyWait
 		any = false
@@ -310,8 +310,8 @@ script 21 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Good eye,
-	NumberMan!
+	Bem observado,
+	NumberMan.
 	"""
 	keyWait
 		any = false
@@ -322,17 +322,17 @@ script 22 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I've heard that
-	some DarkPanels
-	are booby trapped.
+	Ouvi dizer que certos
+	Quadros Negros escondem
+	armadilhas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just
-	liberate panels
-	haphazardly.
+	Não podemos sair
+	liberando quadros
+	cegamente.
 	"""
 	keyWait
 		any = false
@@ -345,9 +345,9 @@ script 23 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	This guy sure is
-	one heck of a
-	nasty customer⋯!
+	Ai, esse cara aí
+	seria enxotado da
+	nossa loja...!
 	"""
 	keyWait
 		any = false
@@ -358,7 +358,7 @@ script 23 mmbn5 {
 script 24 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hee-hee-hee⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -368,8 +368,8 @@ script 25 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	I'll take that as
-	a complement.
+	Aceitarei isso
+	como um elogio.
 	"""
 	keyWait
 		any = false
@@ -382,8 +382,7 @@ script 26 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Who the heck are
-	you?
+	E quem que é você?
 	"""
 	keyWait
 		any = false
@@ -396,17 +395,17 @@ script 27 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	I'm CosmoMan.
-	I control the
-	world of darkness.
+	Eu sou CosmoMan.
+	Aquele que controla
+	o Mundo das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see how
-	you managed to
-	make it this far!
+	Vejamos se foi
+	só sorte o que lhes
+	trouxe tão longe!
 	"""
 	keyWait
 		any = false
@@ -417,9 +416,9 @@ script 28 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	At least he was
-	polite enough to say
-	his name.
+	Pelo menos ele teve a
+	cordialidade de dar-nos
+	seu nome.
 	"""
 	keyWait
 		any = false
@@ -430,15 +429,16 @@ script 29 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Take it as a sign
-	of his confidence.
+	Tome isso como
+	um sinal da
+	autoconfiança dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's a strong one,
-	no doubt about it.
+	Ele é forte, sim.
+	Não tenho dúvidas.
 	"""
 	keyWait
 		any = false
@@ -451,17 +451,17 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This place seems
-	to be full of
-	BarrierPanels.
+	Este lugar parece
+	ser cheio de
+	Quadros Barreira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep an eye out
-	for traps as we
-	look for the key.
+	Vamos ficar atentos
+	pras armadilhas enquanto
+	procuramos pela chave.
 	"""
 	keyWait
 		any = false
@@ -473,7 +473,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Definitely⋯"
+	"Concordo..."
 	keyWait
 		any = false
 	clearMsg
@@ -501,16 +501,15 @@ script 32 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I can search
-	and grab items
-	in a 6 sq range
+	Eu posso escanear e
+	pegar itens em uma
+	área de seis quadros,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	without needing
-	to battle anyone.
+	sem nem precisar lutar.
 	"""
 	keyWait
 		any = false
@@ -523,8 +522,8 @@ script 33 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Your search power
-	is something else!
+	O seu poder de busca
+	é bem admirável!
 	"""
 	keyWait
 		any = false
@@ -536,9 +535,9 @@ script 33 mmbn5 {
 		variable = 0
 		value = 12
 	"""
-	Complete the
-	liberation within
-	9 phases!
+	Tentem concluir a
+	liberação dentro de
+	nove fases!
 	"""
 	keyWait
 		any = false
@@ -550,7 +549,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end

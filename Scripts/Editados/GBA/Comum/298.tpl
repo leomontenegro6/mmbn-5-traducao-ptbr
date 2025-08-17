@@ -14,8 +14,9 @@ script 0 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Hi,I'm Nanako!
-	Welcome to Higsby's!
+	Oi, eu sou a Nanako!
+	Bem-vindo à Loja do
+	Higsby!
 	"""
 	keyWait
 		any = false
@@ -34,43 +35,43 @@ script 1 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Hi!
-	Welcome to Higsby's!
+	Oi!
+	Bem-vindo à Loja do
+	Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The boss let me
-	start a chip-
-	ordering service.
+	O patrão me deixou
+	começar um serviço de
+	encomenda de chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If there's a chip
-	you really want,
+	Se tiver um chip que
+	você queira muito,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just tell me its
-	name.
-	I'll order it from
+	é só me dar o nome,
+	que eu encomendo ele
+	direto do fornecedor
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's own
-	special supplier!
+	especial do Higsby!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How can I help you?"
+	"Bom, como posso ajudar?"
 	keyWait
 		any = false
 	clearMsg
@@ -85,7 +86,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" See normal stock\n"
+	" Acervo normal\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -96,7 +97,7 @@ script 1 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Use chip service\n"
+	" Encomendar\n"
 	positionOptionVertical
 		width = 8
 	option
@@ -107,7 +108,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Cancel"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -125,9 +126,9 @@ script 2 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Hi!
-	Welcome to Higsby's!
-	How can I help you?
+	Oi! Bem-vindo à Loja
+	do Higsby!
+	Como posso ajudar?
 	"""
 	keyWait
 		any = false
@@ -143,7 +144,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" See normal stock\n"
+	" Ver acervo normal\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -154,7 +155,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Use chip service\n"
+	" Encomendar\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -165,7 +166,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Cancel"
+	" Sair"
 	select
 		default = 0
 		BSeparate = false
@@ -183,8 +184,8 @@ script 3 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I'm sorry,
-	we're out of stock⋯
+	Desculpa, mas estamos
+	esgotados...
 	"""
 	keyWait
 		any = false
@@ -206,7 +207,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Please come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -215,18 +216,18 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Whadda YOU want?!"
+	"Quê que cê QUER?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothin'
-	here for you!
+	Num tem nada aqui pra
+	tu, não!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now buzz off!"
+	"Cai fora!"
 	keyWait
 		any = false
 	end

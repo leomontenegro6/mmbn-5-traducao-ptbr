@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,I think I
-	found a server!
+	Lan, acho que eu
+	achei um servidor!
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,7 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	you must destroy it!
+	MegaMan, destrói ele!
 	"""
 	keyWait
 		any = false
@@ -32,7 +31,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!!"
+	"Pra já!!!"
 	keyWait
 		any = false
 	end
@@ -41,13 +40,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"SerchMan!"
+	"SearchMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You here to destroy
-	this server,too?
+	Você também tá aqui
+	pra destruir o servidor?
 	"""
 	keyWait
 		any = false
@@ -60,13 +59,13 @@ script 4 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Nope⋯
-	My target is⋯
+	Não...
+	O meu alvo é...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯you,MegaMan!!!"
+	"... você, MegaMan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -79,14 +78,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SerchMan,
-	is the server
-	affecting you,too?
+	SearchMan, o servidor
+	tá te afetando também?
 	"""
 	keyWait
 		any = false
@@ -102,7 +100,7 @@ script 6 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"What gives?!"
+	"Qual foi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -114,15 +112,15 @@ script 7 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Lan⋯
-	I hate your power⋯
+	Lan...
+	Eu odeio a sua força...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SerchMan,delete
-	MegaMan.
+	SearchMan,
+	delete o MegaMan.
 	"""
 	keyWait
 		any = false
@@ -136,13 +134,13 @@ script 8 mmbn5 {
 	msgOpen
 	"""
 	Raika!
-	Do you even know
-	what you're saying?!
+	O que é que
+	cê tá falando?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Snap out of it!!!"
+	"Sai dessa!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -153,11 +151,11 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Target,MegaMan⋯"
+	"Alvo: MegaMan..."
 	keyWait
 		any = false
 	clearMsg
-	"Locked in⋯"
+	"Na mira..."
 	keyWait
 		any = false
 	end
@@ -167,8 +165,7 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here he comes,
-	Lan!!!
+	Lá vem ele, Lan!!!
 	"""
 	keyWait
 		any = false
@@ -181,13 +178,16 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've got no choice.
-	Get him,MegaMan!!!
+	A gente não tem escolha.
+	Luta, MegaMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -198,7 +198,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -209,7 +209,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"I'm gonna delete ya!"
+	"Prepare-se para ser\ndeletado!"
 	keyWait
 		any = false
 	end
@@ -223,8 +223,8 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	You here to destroy
-	this server,too?
+	Você também tá aqui
+	pra destruir o servidor?
 	"""
 	keyWait
 		any = false
@@ -237,13 +237,13 @@ script 15 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Nope⋯
-	My target is⋯
+	Não...
+	O meu alvo é...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯you,MegaMan!!!"
+	"... você, MegaMan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -256,14 +256,13 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NumberMan,
-	is the server
-	affecting you,too?
+	NumberMan, o servidor
+	tá te afetando também?
 	"""
 	keyWait
 		any = false
@@ -279,7 +278,7 @@ script 17 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"What gives?!"
+	"Qual foi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -291,16 +290,16 @@ script 18 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I can't stand how
-	you pretend to be
-	so righteous,huh!
+	Eu não suporto como
+	você finge ser todo
+	cheio de razão, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NumberMan,delete
-	MegaMan,huh!!!
+	NumberMan, deleta o
+	MegaMan, é!!!
 	"""
 	keyWait
 		any = false
@@ -314,12 +313,12 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	Higsby!
-	Have you gone mad?!
+	Cê endoidou?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Snap out of it!!!"
+	"Sai dessa!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -331,8 +330,8 @@ script 20 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Better say your
-	prayers,MegaMan⋯
+	Comece a rezar,
+	MegaMan...
 	"""
 	keyWait
 		any = false
@@ -343,8 +342,7 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Here he comes,
-	Lan!!!
+	Lá vem ele, Lan!!!
 	"""
 	keyWait
 		any = false
@@ -357,13 +355,16 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We've got no choice.
-	Get him,MegaMan!!!
+	A gente não tem escolha.
+	Luta, MegaMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -374,7 +375,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -386,9 +387,9 @@ script 24 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	MegaMan,stop
-	struggling and just
-	lemme delete you!
+	MegaMan, pare de
+	resistir e me deixa
+	te deletar logo!
 	"""
 	keyWait
 		any = false

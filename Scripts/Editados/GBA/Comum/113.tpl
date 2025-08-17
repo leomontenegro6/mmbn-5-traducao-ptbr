@@ -50,8 +50,9 @@ script 44 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Find
-	a way to Oran Area3!
+	MegaMan!
+	Encontra um caminho
+	pra Área Oran 3!
 	"""
 	keyWait
 		any = false
@@ -80,9 +81,9 @@ script 45 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're all set for
-	fishing! Let's
-	check on Dex!
+	Tudo pronto pra
+	pescaria!
+	Bora falar com o Dex!
 	"""
 	keyWait
 		any = false
@@ -93,9 +94,9 @@ script 46 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's find a
-	line,hook,rod
-	and bait,MegaMan!
+	Bora achar linha,
+	anzol, isca e uma
+	vara, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -106,8 +107,8 @@ script 47 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's find a
-	fishing spot!
+	Bora achar um bom
+	lugar pra pescar!
 	"""
 	keyWait
 		any = false
@@ -136,9 +137,9 @@ script 48 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're ready to
-	build a fire. Let's
-	find Dex!
+	Tudo pronto pra
+	fazer a fogueira.
+	Bora falar com o Dex!
 	"""
 	keyWait
 		any = false
@@ -149,9 +150,8 @@ script 49 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's find stuff
-	to make a fire!
-	What a big fish!
+	Bora achar as coisas
+	pra fazer a fogueira!
 	"""
 	keyWait
 		any = false
@@ -162,9 +162,9 @@ script 50 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's follow
-	Dex,or we'll
-	get left behind!
+	Bora seguir o Dex,
+	ou a gente vai ficar
+	pra trás!
 	"""
 	keyWait
 		any = false
@@ -221,9 +221,9 @@ script 55 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! We've
-	got to find Dex!
-	Forget the Net!
+	MegaMan! A gente tem
+	que achar o Dex!
+	Esquece a Rede!
 	"""
 	keyWait
 		any = false
@@ -234,9 +234,9 @@ script 56 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's find the
-	key to open the
-	electronic lock!
+	Bora achar a chave
+	pra abrir a tranca
+	eletrônica!
 	"""
 	keyWait
 		any = false
@@ -247,14 +247,14 @@ script 57 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	We'll go open the
-	electronic lock
+	Desconecta, MegaMan!
+	Vamos lá abrir a
+	tranca eletrônica na
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"in OldMine."
+	"Velha Mina."
 	keyWait
 		any = false
 	end
@@ -264,9 +264,8 @@ script 58 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	the OldMine and find
-	Dex!
+	Bora voltar pra Velha
+	Mina e achar o Dex!
 	"""
 	keyWait
 		any = false
@@ -289,8 +288,8 @@ script 62 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll go back
-	and stop the Drill!
+	Bora voltar pra parar
+	a Broca!
 	"""
 	keyWait
 		any = false
@@ -301,9 +300,8 @@ script 63 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Let's stop the
-	Drill!
+	Desconecta, MegaMan!
+	Bora lá parar a Broca!
 	"""
 	keyWait
 		any = false
@@ -322,8 +320,8 @@ script 66 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go save
-	them,MegaMan!
+	Bora lá salvar o
+	pessoal, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -338,8 +336,8 @@ script 70 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's
-	go to Oran Area3!
+	MegaMan! Bora lá
+	pra Área Oran 3!
 	"""
 	keyWait
 		any = false
@@ -350,9 +348,9 @@ script 71 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go over to
-	Oran Area3 when
-	you're ready!
+	Quando cê tiver
+	pronto, bora lá
+	pra Área Oran 3!
 	"""
 	keyWait
 		any = false

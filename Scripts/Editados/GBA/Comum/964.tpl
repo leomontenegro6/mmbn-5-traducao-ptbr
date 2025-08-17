@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"There's the server!"
+	"Tá aqui o servidor!"
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,I found it!!!"
+	"Lan, achei ele!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,11 +24,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hurry!"
+	"Rápido!"
 	keyWait
 		any = false
 	clearMsg
-	"Destroy it quick!"
+	"Destrói ele logo!"
 	keyWait
 		any = false
 	clearMsg
@@ -40,13 +40,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Hey! Not so fast!"
+	"Epa! Devagar aí!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time we're
-	gonna duke it out!!!
+	Desta vez, a gente VAI
+	acertar as contas!!!
 	"""
 	keyWait
 		any = false
@@ -79,8 +79,7 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	are you OK?!
+	Lan, você tá legal?!
 	"""
 	keyWait
 		any = false
@@ -92,11 +91,11 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huff,puff⋯"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	clearMsg
-	"That was close⋯"
+	"Essa foi quase..."
 	keyWait
 		any = false
 	clearMsg
@@ -107,21 +106,21 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Huff,puff⋯"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Hm?
-	Why do I have my
-	fists raised?
+	... Ué?
+	Por que é que eu tô
+	com os punhos erguidos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,what are you
-	doing here Lan?
+	Aí, tá fazendo
+	o quê aqui, Lan?
 	"""
 	keyWait
 		any = false
@@ -133,13 +132,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whaddaya mean me?!"
+	"Eu?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were the one
-	trying to slug me!!
+	Você que tentou me fazer
+	de saco de pancada!
 	"""
 	keyWait
 		any = false
@@ -152,16 +151,16 @@ script 10 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Hmmm⋯ I don't
-	remember a thing.
+	Hmmm...
+	Não consigo me
+	lembrar de nada, viu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah! What
-	about that server
-	Nebula planted?!
+	Ah, é! E o servidor lá
+	que a Nebula plantou?!
 	"""
 	keyWait
 		any = false
@@ -173,7 +172,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Already smashed it!"
+	"Já acabamos com ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -184,7 +183,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Huh?! When?!"
+	"Hã?! Quando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -195,11 +194,11 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Never mind!"
+	"Esquece isso!"
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,jack out!"
+	"MegaMan, desconectar!"
 	keyWait
 		any = false
 	clearMsg
@@ -210,7 +209,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -219,14 +218,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Wait! Lan!!!"
+	"Espera! Lan!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lost the Net-
-	Battle but I won't
-	lose in a fistfight!
+	Eu perdi a NetLuta,
+	mas ninguém me vence
+	num mano-a-mano!
 	"""
 	keyWait
 		any = false
@@ -259,8 +258,7 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	are you OK?!
+	Lan, você tá legal?!
 	"""
 	keyWait
 		any = false
@@ -272,11 +270,11 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huff,puff⋯"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	clearMsg
-	"That was close⋯"
+	"Essa foi quase..."
 	keyWait
 		any = false
 	clearMsg
@@ -287,14 +285,14 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Huff,puff⋯"
+	"Urf... Urf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Hm?
-	Well if isn't Lan⋯
-	What's eating you?
+	... Hã?
+	Ah, oi, Lan...
+	Por que esse pavor todo?
 	"""
 	keyWait
 		any = false
@@ -307,15 +305,15 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've a lot of
-	nerve asking that!
+	Cê não tem vergonha
+	de perguntar isso, não?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You were the one
-	trying to slug me!!
+	Você que tentou me fazer
+	de saco de pancada!
 	"""
 	keyWait
 		any = false
@@ -328,16 +326,16 @@ script 22 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Hmmm⋯ I don't
-	remember a thing.
+	Hmmm...
+	Eu não consigo me
+	lembrar de nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah! What
-	about that server
-	Nebula planted?!
+	Ah, é! E o servidor lá
+	que a Nebula plantou?!
 	"""
 	keyWait
 		any = false
@@ -349,7 +347,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Already smashed it!"
+	"Já acabamos com ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -360,7 +358,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Huh?! When?!"
+	"Hã?! Quando?!"
 	keyWait
 		any = false
 	clearMsg
@@ -371,11 +369,11 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Never mind!"
+	"Esquece isso!"
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,jack out!"
+	"MegaMan, desconectar!"
 	keyWait
 		any = false
 	clearMsg
@@ -386,7 +384,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	end

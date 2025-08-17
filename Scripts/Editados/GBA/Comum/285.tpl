@@ -10,16 +10,16 @@ script 0 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	What could be
-	happening to GutsMan
-	right now?
+	O que será que tá
+	acontecendo com o
+	GutsMan agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just hope that
-	he's safe.
+	Só tô torcendo pra
+	ele tá bem.
 	"""
 	keyWait
 		any = false
@@ -30,16 +30,16 @@ script 5 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	These days,I often
-	get to thinking⋯
+	Estes dias, eu me
+	pego pensando...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't there
-	SOMETHING I can do
-	to help GutsMan?
+	Não tem mesmo NADA
+	que eu possa fazer
+	pra ajudar o GutsMan?
 	"""
 	keyWait
 		any = false
@@ -50,23 +50,23 @@ script 30 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,I have something
-	to tell you⋯
+	Lan, tenho uma coisa
+	pra te falar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going on a
-	journey to train my
-	battle technique.
+	Eu vou sair numa
+	jornada pra afiar as
+	minhas técnicas de luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't tell anyone,
-	OK?
+	Não conta pra ninguém,
+	viu?
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Target confirmed!
-	Liberate panels!
+	Alvo confirmado!
+	Liberar quadros!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I did it.
-	Liberation complete!
+	Pronto.
+	Liberação concluída!
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"1 turn liberation!"
+	"Liberação de 1 turno!"
 	keyWait
 		any = false
 	end
@@ -38,8 +38,8 @@ script 3 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Oh,no!
-	Liberation failed!
+	Essa não!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -49,7 +49,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -58,7 +58,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -68,8 +68,8 @@ script 6 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -79,13 +79,13 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"1 turn liberation!"
+	"Liberação de 1 turno!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -96,8 +96,8 @@ script 8 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -108,8 +108,7 @@ script 25 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Search in
-	this area?
+	Buscar nesta área?
 	
 	"""
 	positionOptionHorizontal
@@ -122,7 +121,7 @@ script 25 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -131,7 +130,7 @@ script 25 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -147,9 +146,9 @@ script 25 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,SerchMan!
-	We're using Order
-	Points!
+	OK, SearchMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -158,8 +157,8 @@ script 25 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Roger!
-	PanelSearch!
+	Entendido!
+	Busca de Quadro!
 	"""
 	keyWait
 		any = false
@@ -170,8 +169,8 @@ script 26 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Target found!
-	Begin liberation!
+	Alvo encontrado!
+	Iniciando liberação!
 	"""
 	keyWait
 		any = false
@@ -182,8 +181,7 @@ script 27 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I didn't find
-	anything!
+	Não encontrei nada!
 	"""
 	keyWait
 		any = false
@@ -194,8 +192,8 @@ script 28 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Trap found!
-	I removed it!
+	Armadilha encontrada!
+	Eu a removi!
 	"""
 	keyWait
 		any = false
@@ -208,7 +206,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -219,7 +217,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -228,7 +226,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -246,8 +244,8 @@ script 61 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	End without
-	doing anything?
+	Encerrar sem
+	fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -260,7 +258,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -269,7 +267,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -287,8 +285,7 @@ script 70 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Encontrei um coração!
 	"""
 	keyWait
 		any = false
@@ -298,8 +295,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	SerchMan got:
-	"Heart"!!
+	SearchMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -311,13 +308,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"SerchMan recovers\n"
+	"SearchMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -327,8 +324,8 @@ script 72 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -338,8 +335,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	SerchMan got:
-	"Order Points"!!
+	SearchMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -353,7 +350,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -363,8 +360,7 @@ script 73 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Encontrei Zennys!
 	"""
 	keyWait
 		any = false
@@ -374,7 +370,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	SerchMan got:
+	SearchMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -396,8 +392,8 @@ script 74 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -406,13 +402,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"SerchMan got:\n"
+	"SearchMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -426,8 +422,8 @@ script 75 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -437,8 +433,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	SerchMan got a
-	BattleChip for:
+	SerchMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -459,8 +455,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	SerchMan's HP
-	recovered to max!
+	Os PV de SearchMan
+	foram restaurado
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -469,8 +466,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -491,13 +488,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"SerchMan received\n"
+	"SearchMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -523,8 +520,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	SerchMan
-	has been paralyzed!
+	SearchMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -534,14 +531,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	SerchMan
-	has recovered!
+	SearchMan
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -551,14 +548,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	SerchMan
-	has recovered!
+	SearchMan
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -574,8 +571,8 @@ script 87 mmbn5 {
 	clearMsg
 	mugshotHide
 	"""
-	SerchMan
-	became paralyzed!
+	SearchMan
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -586,17 +583,16 @@ script 90 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Nngh! I-I can't
-	m-move⋯
+	Nngh! N-não consigo
+	me mover...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	SerchMan
-	has been
-	frozen!
+	SearchMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -607,8 +603,9 @@ script 91 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -618,7 +615,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -629,7 +626,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -638,7 +635,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -653,8 +650,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -665,8 +662,8 @@ script 105 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	We did it!
-	The boss is down!
+	Conseguimos!
+	O líder foi abatido!
 	"""
 	keyWait
 		any = false

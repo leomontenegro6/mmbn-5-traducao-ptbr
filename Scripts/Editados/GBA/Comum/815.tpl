@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is where the
-	main system is!
+	É aqui que fica
+	o sistema central!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,why is it
-	deserted?
+	Mas... por que a
+	sala tá deserta?
 	"""
 	keyWait
 		any = false
@@ -26,23 +26,22 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're right,that is
-	strange⋯
+	Realmente, é estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we've gotta find
-	whoever infiltrated
-	the main system!
+	Enfim, a gente tem que
+	achar os infiltrados
+	no sistema central!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,send me into
-	the main system!
+	Lan, me manda pro
+	sistema!
 	"""
 	keyWait
 		any = false
@@ -54,7 +53,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,you got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

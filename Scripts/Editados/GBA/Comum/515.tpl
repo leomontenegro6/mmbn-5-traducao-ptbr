@@ -15,47 +15,48 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE ROCK FEED UNIT
-	IS BROKEN. YOU
-	CANNOT GO THIS WAY.
+	A ESTEIRA DE ROCHAS
+	ESTÁ QUEBRADA. NÃO HÁ
+	COMO PASSAR AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT? YOU WANT TO
-	GO THIS WAY ANYWAY?
+	O QUÊ? VOCÊ PRECISA
+	PASSAR POR AQUI DE
+	QUALQUER JEITO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN YOU'LL HAVE TO
-	DEACTIVATE THE ROCK
-	FEED UNIT.
+	ENTÃO TERÁ QUE
+	DESATIVAR A ESTEIRA
+	DE ROCHAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TO TURN THE ROCK
-	SUPPLY OFF,USE THE
-	CONTROL LEVER
+	PARA DESLIGAR A
+	ESTEIRA, USE A
+	ALAVANCA DE CONTROLE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEXT TO THE CONVEYOR
-	BELT.
+	AO LADO DA PARTE
+	SUPERIOR DELA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS THE KEY TO
-	THE OFF SWITCH. GO
-	AHEAD,IT'S YOURS!
+	É SÓ USAR ESTA CHAVE
+	AQUI PARA ATIVÁ-LA.
+	TOME, É SUA!
 	"""
 	keyWait
 		any = false
@@ -68,7 +69,7 @@ script 0 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -84,17 +85,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU CANNOT GET TO
-	THE OFF SWITCH FROM
-	HERE.
+	O CAMINHO ATÉ A
+	ALAVANCA É UM POUCO
+	LONGO. É PELA LATERAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE THE LONG ROUTE
-	AROUND THE RIGHT
-	SIDE!
+	BOA SORTE!
 	"""
 	keyWait
 		any = false
@@ -105,17 +104,15 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU CANNOT GET TO
-	THE OFF SWITCH FROM
-	HERE.
+	O CAMINHO ATÉ A
+	ALAVANCA É UM POUCO
+	LONGO. É PELA LATERAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE THE LONG ROUTE
-	AROUND THE RIGHT
-	SIDE!
+	BOA SORTE!
 	"""
 	keyWait
 		any = false
@@ -126,22 +123,22 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE STOPKEY I GAVE
-	YOU CAN ALSO BE USED
+	A CHAVE DE DESLIGAR
+	QUE EU LHE DEI TAMBÉM
+	PODE SER USADA NAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ON OTHER OFF
-	SWITCHES.
+	OUTRAS ALAVANCAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT COULD BE VERY
-	USEFUL!
+	ACHO QUE LHE SERÁ BEM
+	ÚTIL!
 	"""
 	keyWait
 		any = false

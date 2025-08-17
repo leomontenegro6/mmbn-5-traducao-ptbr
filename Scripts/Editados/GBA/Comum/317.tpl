@@ -10,9 +10,9 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotHide
 	"""
-	He's panicking!
-	He's running around
-	like an animal.
+	Ele está em pânico!
+	O homem está avançando
+	por aí, como um animal.
 	"""
 	keyWait
 		any = false
@@ -23,15 +23,14 @@ script 1 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Let me tell you
-	the truth!
+	Quer saber a verdade?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't like you!
-	I never did!
+	Eu NÃO GOSTO de você!
+	NUNCA gostei!
 	"""
 	keyWait
 		any = false
@@ -39,9 +38,9 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That's fine,'cause
-	I don't like you
-	EITHER!
+	Ah, que bom, então,
+	porque eu TAMBÉM não
+	te SUPORTO!
 	"""
 	keyWait
 		any = false
@@ -52,30 +51,30 @@ script 3 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	You scientists
-	always make
-	crazy demands!
+	Vocês, cientistas
+	sujos, sempre fazendo
+	exigências doidas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who you think
-	you are?!
+	Tão pensando que são
+	quem, hein?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"What was that?!"
+	"Como é que é?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't even
-	answer a simple
-	request! Shut up!
+	Tu não sabe nem
+	atender a uma demanda
+	básica! Cala a boca!
 	"""
 	keyWait
 		any = false
@@ -86,15 +85,15 @@ script 10 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	What was I
-	doing?
+	O que eu estava
+	fazendo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I remember being
-	very angry⋯
+	Só me lembro de estar
+	tão furiosa...
 	"""
 	keyWait
 		any = false
@@ -105,15 +104,15 @@ script 11 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	I wonder what
-	happened to me?
+	Céus, o que houve
+	comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I⋯ I just don't
-	remember.
+	Eu... Eu simplesmente
+	não consigo me lembrar.
 	"""
 	keyWait
 		any = false
@@ -124,17 +123,17 @@ script 20 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Now we know
-	Nebula can attack
-	us psychologically.
+	Agora sabemos que a
+	Nebula pode nos atacar
+	psicologicamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But how can we
-	protect ourselves
-	from it?
+	Mas como podemos fazer
+	para nos protegermos
+	disso?
 	"""
 	keyWait
 		any = false
@@ -145,14 +144,14 @@ script 21 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	So,Nebula is
-	capable of driving
-	people insane.
+	Então, a Nebula é capaz
+	de enlouquecer as
+	pessoas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I knew it."
+	"Como eu imaginava."
 	keyWait
 		any = false
 	end
@@ -167,9 +166,9 @@ script 30 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	OW! My head!
-	It feels like it's
-	falling apart!
+	AI! Minha cabeça!
+	Parece até que vai
+	partir ao meio!
 	"""
 	keyWait
 		any = false
@@ -185,8 +184,8 @@ script 31 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	HUH? What was
-	I doing?
+	Ué? O que eu tava
+	fazendo?
 	"""
 	keyWait
 		any = false
@@ -202,8 +201,7 @@ script 32 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	What am I
-	doing here?!
+	Por que eu estou aqui?!
 	"""
 	keyWait
 		any = false
@@ -219,14 +217,14 @@ script 33 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Ow,ow! I was just
-	talking about my
-	work and⋯
+	Ai, ai! Eu estava
+	falando do meu trabalho
+	ainda agora, e...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?"
+	"O que está havendo?"
 	keyWait
 		any = false
 	end
@@ -241,8 +239,8 @@ script 34 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What happened?
-	Tell me!
+	O que aconteceu?
+	Fale!
 	"""
 	keyWait
 		any = false
@@ -252,15 +250,15 @@ script 34 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I'm still confused,
-	I guess.
+	Acho que ainda estou
+	meio confuso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remind me what
-	Nebula is⋯?
+	Me lembra de novo o
+	que é essa "Nebula"...?
 	"""
 	keyWait
 		any = false
@@ -271,9 +269,9 @@ script 40 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Ah,my head!
-	I feel like I'll
-	pass out!
+	Ah, minha cabeça!
+	Eu sinto que tô pra
+	desmaiar!
 	"""
 	keyWait
 		any = false
@@ -284,16 +282,16 @@ script 41 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I lost consciousness
-	while I was watching
-	Regal's show.
+	Eu perdi a consciência
+	enquanto assistia à
+	transmissão do Regal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Was that another
-	Nebula attack?
+	Foi outro ataque da
+	Nebula?
 	"""
 	keyWait
 		any = false
@@ -304,16 +302,15 @@ script 42 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'm sorry,but I
-	don't remember
-	a thing!
+	Desculpe, mas não me
+	lembro de nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't recall
-	what I said,either.
+	E também não lembro o
+	que eu disse.
 	"""
 	keyWait
 		any = false
@@ -324,15 +321,16 @@ script 43 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I think I said
-	something terrible.
+	Eu acho que falei uma
+	coisa horrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope I haven't
-	ruined my career!
+	Só espero que isso
+	não me arruine
+	profissionalmente!
 	"""
 	keyWait
 		any = false
@@ -342,14 +340,14 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Wow⋯"
+	"Nossa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't remember
-	a thing after
-	passing out!
+	Eu não consigo me
+	lembrar de nada
+	depois de desmaiar!
 	"""
 	keyWait
 		any = false
@@ -360,21 +358,21 @@ script 50 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Please smash Nebula
-	into bits for me!
+	Por favor, dilacera
+	a Nebula por mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just wipe
-	them all
-	out for good!
+	Pulveriza eles!
+	Apaga eles da face da
+	Terra pra sempre!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -384,17 +382,16 @@ script 51 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We'll hold down
-	the fort while
-	you're away.
+	Vamos proteger o SciLab
+	até você voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So don't worry
-	about us. Focus
-	on your battle!
+	Então, não se preocupe
+	conosco. Concentre-se
+	na sua luta!
 	"""
 	keyWait
 		any = false
@@ -405,22 +402,22 @@ script 52 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's all up to you!
-	Only you can stop
-	Nebula's evil plot!
+	Está nas suas mãos!
+	Só você pode impedir o
+	plano maligno da Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish you the best
-	of luck! I only wish
-	I could go myself.
+	Desejo toda a sorte do
+	mundo a você! Quisera
+	eu poder ir no seu lugar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Você consegue!"
 	keyWait
 		any = false
 	end
@@ -433,7 +430,7 @@ script 53 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"It's for you."
+	"Tome."
 	keyWait
 		any = false
 	clearMsg
@@ -446,8 +443,8 @@ script 53 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -460,9 +457,8 @@ script 53 mmbn5 {
 	playerResetObject
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	2 MB!!
+	Memória padrão
+	aumentada em 2 MB!!
 	"""
 	keyWait
 		any = false
@@ -470,9 +466,9 @@ script 53 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Good luck! There
-	is nothing I can
-	say but⋯
+	Boa sorte!
+	É a única coisa que
+	eu posso dizer...
 	"""
 	keyWait
 		any = false
@@ -483,9 +479,9 @@ script 54 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Good luck! There
-	is nothing I can
-	say but⋯
+	Boa sorte!
+	É a única coisa que
+	eu posso dizer...
 	"""
 	keyWait
 		any = false

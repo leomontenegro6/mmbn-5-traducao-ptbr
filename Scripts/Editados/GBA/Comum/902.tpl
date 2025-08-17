@@ -19,8 +19,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	U-Uuurgh!
-	I-I c-can't go on⋯!
+	U-uurgh!
+	E-eu não consigo mais...!
 	"""
 	keyWait
 		any = false
@@ -31,8 +31,8 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	U-Uuurgh!
-	Th-This is it⋯!
+	U-uuurgh!
+	A-acabou...!
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,8 @@ script 2 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Th-That's⋯about
-	all⋯I can take⋯!
+	E-eu não... aguento...
+	mais...!
 	"""
 	keyWait
 		any = false

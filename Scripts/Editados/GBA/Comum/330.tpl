@@ -15,15 +15,16 @@ script 0 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Aaah,I love the sea!
-	It goes on forever!
+	Aaah, como eu amo o
+	mar! Parece até que se
+	estende ao infinito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Feel the breeze!
-	It's so refreshing!
+	Sinta só essa brisa!
+	Tão refrescante!
 	"""
 	keyWait
 		any = false
@@ -44,16 +45,16 @@ script 1 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	This island's got so
-	much nature scenery!
-	It's wonderful!
+	Esta ilha tem tanta
+	natureza intocada!
+	É divino!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It reminds me of
-	Creamland.
+	Me faz lembrar da
+	Brilholândia.
 	"""
 	keyWait
 		any = false
@@ -64,17 +65,16 @@ script 5 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	What?! There are
-	Nebula agents in
-	Oran Area?
+	O quê?! Tem agentes da
+	Nebula na Área Oran?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's bad timing⋯
-	MagnetMan's having
-	maintenance done⋯
+	Que péssima hora...
+	O MagnetMan está em
+	manutenção agora...
 	"""
 	keyWait
 		any = false
@@ -85,16 +85,16 @@ script 6 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	⋯Nebula agents in
-	Oran Area?
+	... Agentes da Nebula
+	na Área Oran?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's a problem⋯
-	KnightMan's having
-	maintenance done⋯
+	Essa não... O KnightMan
+	está em processo de
+	manutenção agora...
 	"""
 	keyWait
 		any = false
@@ -105,9 +105,9 @@ script 10 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Have you started the
-	mission? MagnetMan's
-	ready to go now.
+	Você já começou a
+	missão? O MagnetMan
+	está pronto para partir.
 	"""
 	keyWait
 		any = false
@@ -118,9 +118,9 @@ script 11 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	The maintenance is
-	complete. KnightMan
-	is ready to go now.
+	Manutenção concluída.
+	O KnightMan está pronto
+	para a ação.
 	"""
 	keyWait
 		any = false
@@ -145,8 +145,8 @@ script 40 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Ah,Lan! What are you
-	doing here?
+	Ah, Lan! Está fazendo
+	o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -154,17 +154,16 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Well,actually⋯ I was
-	wondering if you'd
-	got an invite
+	Bom, na verdade... eu
+	vim ver se você tem
+	um convite pra festa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the party being
-	held on the Queen
-	Bohemia,Tesla?
+	que vai ter no Rainha
+	Boêmia. Tem, Tesla?
 	"""
 	keyWait
 		any = false
@@ -172,9 +171,9 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	"""
-	An invite?
-	⋯Yes,I did get
-	something.
+	Um convite?
+	... Sim, eu recebi um
+	pelo correio.
 	"""
 	keyWait
 		any = false
@@ -182,35 +181,34 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	If you don't mind,I
-	was wondering if I
-	could have it⋯?
+	Tudo bem se eu ficar
+	com ele...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tesla
-	"⋯Sure. No problem."
+	"... Claro. Sem problemas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But why do you want
-	to go to the party?
+	Mas por que você quer
+	ir a essa festa?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Have you got a date?"
+	"Encontro com uma garota?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	No! This is work,
-	okay! Just work!
+	Não! É a trabalho,
+	o negócio! Só trabalho!
 	"""
 	keyWait
 		any = false
@@ -218,15 +216,17 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	"""
-	Oh,work⋯
-	Pretty busy,huh?
+	Ah, trabalho...
+	Sempre tão ocupado,
+	hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,have fun! The
-	food should be good!
+	Bem, divirta-se!
+	A comida provavelmente
+	estará uma delícia!
 	"""
 	keyWait
 		any = false
@@ -238,7 +238,7 @@ script 40 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -252,14 +252,14 @@ script 40 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But⋯are you sure you
-	don't mind? Didn't
-	you want to go?
+	Mas... certeza que tudo
+	bem pra você? Você não
+	queria ir?
 	"""
 	keyWait
 		any = false
@@ -267,30 +267,29 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	"""
-	No! Parties like
-	this come up all the
-	time!
+	Imagina! Esse tipo de
+	festa aparece o tempo
+	todo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just hope it makes
-	your work a bit more
-	interesting.
+	Só espero que deixe o
+	seu trabalho um pouqui-
+	nho mais interessante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks."
+	"Valeu."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I'll be on my
-	way then!
+	Tá, vou lá, então!
 	"""
 	keyWait
 		any = false
@@ -302,7 +301,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -326,9 +325,8 @@ script 42 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Oh,it's you Lan!
-	What can I do for
-	you?
+	Ah, Lan, é você!
+	Em que posso ajudar?
 	"""
 	keyWait
 		any = false
@@ -336,72 +334,74 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Well,actually⋯ I was
-	wondering if you'd
-	got an invite
+	Bom, na verdade... eu
+	vim ver se você tem
+	um convite pra festa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to the party being
-	held on the Queen
-	Bohemia,Pride?
+	que vai ter no Rainha
+	Boêmia. Tem, Pride?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Pride
-	"An invite?"
+	"Um convite?"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Yes. I think I did."
+	"""
+	... Sim, acho que fui
+	convidada, sim.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	If you don't mind,I
-	was wondering if I
-	could have it⋯?
+	Teria algum problema
+	você dar ele pra mim...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Pride
-	"⋯That's fine,Lan."
+	"... Claro, Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But why do you want
-	to go to the party?
+	Mas por que você
+	deseja ir à festa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"It's work."
+	"É a trabalho."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Pride
 	"""
-	Ah⋯work⋯ you're
-	certainly busy,Lan!
+	Ah... trabalho...
+	Você é bem ocupado
+	mesmo, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope nothing bad
-	happens.
+	Espero que nada de
+	ruim aconteça.
 	"""
 	keyWait
 		any = false
@@ -413,7 +413,7 @@ script 42 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -427,14 +427,14 @@ script 42 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But⋯are you sure you
-	don't mind? Didn't
-	you want to go?
+	Mas... tudo bem mesmo
+	pra você? Não queria
+	ir nessa festa?
 	"""
 	keyWait
 		any = false
@@ -442,29 +442,28 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	"""
-	I don't really like
-	parties.
+	Não. Na verdade, não
+	gosto muito de festas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you'll get
-	more out of it than
-	I⋯
+	Estou certa de que será
+	mais proveitosa para
+	você do que para mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Thanks."
+	"Obrigado."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I'll be on my
-	way then!
+	Bom, vou lá, então!
 	"""
 	keyWait
 		any = false
@@ -476,7 +475,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Don't work too hard!"
+	"Não se esforce demais!"
 	keyWait
 		any = false
 	end
@@ -486,9 +485,8 @@ script 45 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	The party's today,
-	isn't it? Well,enjoy
-	yourself!
+	A festa é hoje, não é?
+	Bom, divirta-se lá!
 	"""
 	keyWait
 		any = false
@@ -499,9 +497,8 @@ script 46 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	The party is being
-	held today,isn't it?
-	Don't work too hard!
+	A festa será hoje, não?
+	Por favor, tome cuidado!
 	"""
 	keyWait
 		any = false
@@ -512,15 +509,15 @@ script 50 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	The mission's going
-	to start at last?
+	A missão finalmente
+	vai começar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's End Area2⋯
-	Right,I see.
+	Área Endo 2...
+	Certo, entendi!
 	"""
 	keyWait
 		any = false
@@ -531,16 +528,15 @@ script 51 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	It's finally time
-	for the mission to
-	start?
+	É enfim chegada a hora
+	de a missão começar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time it's End
-	Area2⋯ okay!
+	Desta vez, será na
+	Área Endo 2... Certo!
 	"""
 	keyWait
 		any = false

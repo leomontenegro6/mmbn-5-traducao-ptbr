@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"A Nebula Navi?!"
+	"Um Navi da Nebula?!"
 	keyWait
 		any = false
 	clearMsg
@@ -20,9 +20,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	But Chaud shouldn't
-	be on board the
-	ship!
+	M-Mas não era
+	pra Eugene Chaud
+	estar no navio!
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,9 @@ script 2 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	You won't get the
-	booster system!
+	Você não vai pôr
+	as mãos no sistema
+	impulsionador!
 	"""
 	keyWait
 		any = false
@@ -47,8 +48,8 @@ script 3 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hah! You think you
-	can stop me?!
+	Rá! Acha mesmo que
+	consegue me impedir?!
 	"""
 	keyWait
 		any = false
@@ -59,8 +60,7 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan,get after
-	him!
+	ProtoMan, atrás dele!
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 5 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*Click!*"
+	"Clic!"
 	keyWait
 		any = false
 	end
@@ -83,7 +83,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"A Nebula Navi,huh?"
+	"Um Navi da Nebula, é?"
 	keyWait
 		any = false
 	clearMsg
@@ -95,8 +95,7 @@ script 7 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Huh?! Who the heck
-	are you?!
+	Ué?! Quem que é você?!
 	"""
 	keyWait
 		any = false
@@ -109,20 +108,21 @@ script 8 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	You won't get the
-	booster system!
+	Você não irá pôr
+	as mãos no sistema
+	impulsionador!
 	"""
 	keyWait
 		any = false
 	end
 }
-script 9 mmbn5 {
+script 3 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hah! You think you
-	can stop me?!
+	Rá! Acha mesmo que
+	consegue me impedir?!
 	"""
 	keyWait
 		any = false
@@ -133,8 +133,7 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Colonel,get after
-	him!
+	Colonel, atrás dele!
 	"""
 	keyWait
 		any = false
@@ -148,7 +147,7 @@ script 11 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*Click!*"
+	"Clic!"
 	keyWait
 		any = false
 	end

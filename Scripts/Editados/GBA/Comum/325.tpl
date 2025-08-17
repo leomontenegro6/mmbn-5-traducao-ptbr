@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Sorry,I don't have
-	time to talk to you.
+	Desculpe, mas não tenho
+	tempo para falar com
+	você.
 	"""
 	keyWait
 		any = false
@@ -17,15 +18,15 @@ script 1 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Sorry,could you
-	leave me alone?
+	Desculpe, mas poderia
+	me deixar a sós?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A rush job just came
-	in.
+	Recebi uma missão de
+	última hora.
 	"""
 	keyWait
 		any = false
@@ -43,13 +44,13 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Chaud? He just left."
+	"O Chaud? Acabou de sair."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He went off to do
-	some investigation.
+	Disse que foi conduzir
+	uma investigação.
 	"""
 	keyWait
 		any = false
@@ -59,13 +60,13 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Baryl? He just left."
+	"O Baryl? Acabou de sair."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He went off to do
-	some investigation.
+	Disse que foi conduzir
+	uma investigação.
 	"""
 	keyWait
 		any = false
@@ -79,16 +80,15 @@ script 15 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Chaud won't be
-	coming back for a
-	while.
+	O Chaud vai demorar
+	para voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's very busy,you
-	know.
+	Ele é bem ocupado,
+	sabe?
 	"""
 	keyWait
 		any = false
@@ -99,16 +99,15 @@ script 16 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Baryl won't be
-	coming back for a
-	while.
+	O Baryl vai demorar
+	para voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's very busy,you
-	know.
+	Ele é bem ocupado,
+	sabe?
 	"""
 	keyWait
 		any = false
@@ -119,9 +118,9 @@ script 20 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Good job on Oran
-	Area and
-	scouting SciLab Area
+	Bom trabalho na Área
+	Oran e ao investigar
+	a Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -132,9 +131,9 @@ script 21 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Good job on Oran
-	Area and
-	scouting SciLab Area
+	Bom trabalho na Área
+	Oran e ao investigar
+	a Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -145,17 +144,16 @@ script 24 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Contamination is
-	spreading from
-	SciLab Area
+	A contaminação está
+	se espalhando da Área
+	SciLab à Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to Oran Area.
-	Lan,head to the Net
-	now!
+	Siga para a Rede, Lan,
+	rápido!
 	"""
 	keyWait
 		any = false
@@ -166,17 +164,16 @@ script 25 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Contamination is
-	spreading from
-	SciLab Area
+	A contaminação está
+	se espalhando da Área
+	SciLab à Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to Oran Area.
-	Lan,head to the Net
-	now!
+	Siga para a Rede, Lan,
+	rápido!
 	"""
 	keyWait
 		any = false
@@ -190,15 +187,14 @@ script 26 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Chaud? He went off
-	somewhere.
+	O Chaud? Saiu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't know
-	where.
+	Mas pra onde,
+	eu não sei.
 	"""
 	keyWait
 		any = false
@@ -209,15 +205,14 @@ script 27 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Baryl? He went off
-	somewhere.
+	O Baryl? Saiu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't know
-	where.
+	Mas pra onde,
+	eu não sei.
 	"""
 	keyWait
 		any = false
@@ -228,8 +223,8 @@ script 30 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	What is it,Lan?
-	Begin the mission.
+	O que foi, Lan?
+	Inicie a missão.
 	"""
 	keyWait
 		any = false
@@ -240,8 +235,8 @@ script 31 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	What is it,Lan?
-	Begin the mission.
+	Algum problema, Lan?
+	Inicie a missão.
 	"""
 	keyWait
 		any = false
@@ -267,9 +262,8 @@ script 40 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The investigation of
-	End Area is up to
-	you.
+	A investigação da
+	Área Endo é com você.
 	"""
 	keyWait
 		any = false
@@ -295,9 +289,8 @@ script 41 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	The investigation of
-	End Area is up to
-	you.
+	A investigação da Área
+	Endo está em suas mãos.
 	"""
 	keyWait
 		any = false
@@ -311,7 +304,7 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Find an invite."
+	"Consiga um convite."
 	keyWait
 		any = false
 	end
@@ -324,7 +317,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Find an invite."
+	"Obtenha um convite."
 	keyWait
 		any = false
 	end
@@ -334,16 +327,15 @@ script 47 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Looks like you found
-	an invite.
+	Parece que você
+	conseguiu um convite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The party is
-	tomorrow. Get some
-	rest tonight.
+	A festa é amanhã.
+	Vá para casa descansar.
 	"""
 	keyWait
 		any = false
@@ -354,16 +346,16 @@ script 48 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Looks like you found
-	an invite.
+	Parece que você
+	obteve um convite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The party is
-	tomorrow. Get some
-	rest tonight.
+	A festa é amanhã.
+	Sugiro que vá para
+	casa descansar.
 	"""
 	keyWait
 		any = false
@@ -374,8 +366,8 @@ script 50 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Make sure you take
-	care of that party.
+	Deixo a investigação
+	da festa com você.
 	"""
 	keyWait
 		any = false
@@ -386,8 +378,8 @@ script 51 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Make sure you take
-	care of that party.
+	Deixo a investigação
+	da festa com você.
 	"""
 	keyWait
 		any = false
@@ -402,16 +394,16 @@ script 55 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	NapalmMan? We've
-	made a strong new
-	ally.
+	NapalmMan?
+	Parece que ganhamos
+	um aliado bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Head to End Area1
-	immediately.
+	Siga para a Área
+	Endo 1 imediatamente.
 	"""
 	keyWait
 		any = false
@@ -426,15 +418,16 @@ script 56 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	TomahawkMan? We made
-	a strong new ally.
+	TomahawkMan?
+	Parece que ganhamos
+	um aliado bem forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Head to End Area1
-	immediately.
+	Siga para a Área
+	Endo 1 imediatamente.
 	"""
 	keyWait
 		any = false
@@ -445,9 +438,9 @@ script 57 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Start the mission.
-	Send ProtoMan into
-	End Area2.
+	Comece a missão.
+	Envie o ProtoMan
+	para a Área Endo 2.
 	"""
 	keyWait
 		any = false
@@ -458,9 +451,9 @@ script 58 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Start the mission.
-	Send Colonel into
-	End Area2.
+	Iniciar missão.
+	Envie o Colonel
+	para a Área Endo 2.
 	"""
 	keyWait
 		any = false

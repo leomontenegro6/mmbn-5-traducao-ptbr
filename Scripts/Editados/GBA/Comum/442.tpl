@@ -13,11 +13,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"I'm a SubChipDealer."
+	"""
+	Sou um vendedor de
+	SubChips.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna see my stuff?\n"
+	"Quer ver meu acervo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -28,7 +31,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -37,7 +40,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -53,7 +56,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -63,15 +66,15 @@ script 2 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm a
-	SubChipDealer
+	Sou um vendedor de
+	SubChips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I'm all sold
-	out! Sorry!
+	Mas está tudo esgotado!
+	Sinto muito!
 	"""
 	keyWait
 		any = false
@@ -86,17 +89,20 @@ script 3 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You're not gonna
-	hurt me,are you?
+	Você não vai me
+	machucar, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm a SubChipDealer."
+	"""
+	Sou um vendedor de
+	SubChips.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna see my stuff?\n"
+	"Quer ver meu acervo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -107,7 +113,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -116,7 +122,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Was the DataDisk
-	referring to here?
+	O disco de dados
+	se referia a este
+	lugar, né?
 	"""
 	keyWait
 		any = false
@@ -19,8 +20,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Was that a
-	VisionBurst again?
+	Será que é outra
+	Visão Passada?
 	"""
 	keyWait
 		any = false
@@ -33,7 +34,7 @@ script 2 mmbn5 {
 	storeTimer
 		timer = 1
 		value = 1
-	"Whoa!"
+	"Aah!"
 	keyWait
 		any = false
 	end
@@ -42,7 +43,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?!"
+	"Que foi, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,13 +55,13 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The mark on my
-	chest is glowing⋯
+	O símbolo no meu
+	peito tá brilhando...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What the?!"
+	"Mas o que...?!"
 	keyWait
 		any = false
 	end
@@ -70,8 +71,8 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A doorway to the
-	VisionBurst⋯
+	Uma porta pra uma
+	Visão Passada...
 	"""
 	keyWait
 		any = false
@@ -84,8 +85,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A reaction to your
-	program,perhaps?
+	Será que isso foi uma
+	reação ao seu programa?
 	"""
 	keyWait
 		any = false
@@ -95,7 +96,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan⋯ Let's go."
+	"Lan... Vamos lá."
 	keyWait
 		any = false
 	clearMsg
@@ -106,7 +107,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end

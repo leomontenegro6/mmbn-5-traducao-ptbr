@@ -17,8 +17,8 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LISTEN TO MY
-	EXPLANATION AGAIN?
+	OUVIR A MINHA
+	EXPLICAÇÃO DE NOVO?
 	"""
 	keyWait
 		any = false
@@ -34,7 +34,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -43,7 +43,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -54,24 +54,25 @@ script 0 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S A SPEAR
-	TRAP UP AHEAD.
+	HÁ UMA ARMADILHA DE
+	LANÇAS À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE RED MASK.
+	TRAGA O NINJA DE
+	MÁSCARA VERMELHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -81,8 +82,8 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LISTEN TO MY
-	EXPLANATION AGAIN?
+	OUVIR A MINHA
+	EXPLICAÇÃO DE NOVO?
 	"""
 	keyWait
 		any = false
@@ -98,7 +99,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -107,7 +108,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -118,13 +119,14 @@ script 1 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RETURN THE NINJA AND
-	TRY AGAIN FROM THE
-	START?
+	DEVOLVER O NINJA E
+	TENTAR DE NOVO DO
+	INÍCIO?
 	"""
 	keyWait
 		any = false
@@ -140,7 +142,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -149,7 +151,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -160,13 +162,14 @@ script 1 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT A GREAT WARRIOR
-	SPIRIT! YOU NEVER
-	GIVE UP!
+	MAS QUE ESPÍRITO
+	GUERREIRO INCRÍVEL!
+	VOCÊ NUNCA DESISTE!
 	"""
 	keyWait
 		any = false
@@ -178,25 +181,28 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ALL RIGHT,THEN."
+	"POIS BEM, ENTÃO."
 	keyWait
 		any = false
 	clearMsg
-	"EEEYAH!"
+	"RÊI-IÁ!"
 	flagSet
 		flag = 2733
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY SPIRITED SHOUT
-	HAS RETURNED ALL
-	NINJAS TO THEIR
+	O MEU GRITO
+	ESPIRITUOSO FEZ
+	TODOS OS NINJAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"""
+	VOLTAREM ÀS SUAS
+	POSIÇÕES ORIGINAIS.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -208,20 +214,20 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S A SPEAR
-	TRAP UP AHEAD.
+	HÁ UMA ARMADILHA DE
+	LANÇAS À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE RED MASK.
+	TRAGA O NINJA DE
+	MÁSCARA VERMELHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -231,9 +237,8 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AMAZING SKILLS!
-	KEEP UP THE GREAT
-	WORK!
+	MAS QUANTA HABILIDADE!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false
@@ -244,123 +249,123 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME.
-	FIRST,LISTEN TO
-	WHAT I HAVE TO SAY.
+	BEM-VINDO. PRIMEIRO,
+	OUÇA O QUE TENHO A
+	DIZER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'RE "TRAPS" UP
-	AHEAD. IN OTHER
-	WORDS,SECURITY.
+	À FRENTE, VOCÊ ENCON-
+	TRARÁ "ARMADILHAS".
+	ISTO É, SEGURANÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WON'T FIND IT
-	EASY TO GET BY THEM.
+	COMO VOCÊ LOGO VERÁ,
+	NÃO É NADA FÁCIL
+	PASSAR POR ELAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE 3 TRAPS:
-	A SPEAR TRAP,
-	A CEILING TRAP,AND
+	HÁ 3 TIPOS DE
+	ARMADILHA: AS DE
+	LANÇAS, AS DE TETO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A WATER TRAP. EACH
-	TRAP IS RELEASED BY
-	A PROGRAM THAT IS
+	E AS DE ÁGUA. CADA
+	UMA É DOMINADA POR UM
+	PROGRAMA TREINADO NA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TRAINED IN NINJUTSU,
-	OR A "NINJA."
+	ARTE DO NINJUTSU.
+	ISTO É, UM "NINJA".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE A NINJA WITH A
-	RED MASK FOR THE
-	SPEAR TRAP,ONE
+	LEVE UM NINJA DE
+	MÁSCARA VERMELHA
+	PARA A DAS LANÇAS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH A WHITE MASK
-	FOR THE CEILING
-	TRAP,AND ONE
+	UM DE MÁSCARA BRANCA
+	PARA AS DE TETO,
+	E UM DE MÁSCARA AZUL
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH A BLUE MASK
-	FOR THE WATER TRAP.
-	THE NINJAS WILL GO
+	PARA AS DE ÁGUA.
+	OS NINJAS LHE SEGUIRÃO
+	POR CONTA PRÓPRIA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH YOU ON THEIR
-	OWN IF YOU GO IN
-	FRONT OF THEM.
+	SE VOCÊ PASSAR NA
+	FRENTE DELES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOWEVER,IF YOU GO
-	BY ANOTHER NINJA
-	WHILE TAKING ONE
+	MAS, SE VOCÊ PASSAR
+	POR OUTRO NINJA
+	ENQUANTO LEVA UM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH YOU,THEY WILL
-	TRADE PLACES BY
-	THEMSELVES,SO BE
+	CONSIGO, ELES TROCARÃO
+	DE LUGAR UM COM O
+	OUTRO, ENTÃO, CUIDADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAREFUL. IF YOU NEED
-	HELP FIGURING IT
-	OUT,COME BACK HERE.
+	SE PRECISAR DE AJUDA
+	PARA ENTENDER O QUE
+	FAZER, VOLTE AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GIVE A SPIRITED
-	SHOUT TO SEND THE
-	NINJAS BACK TO THEIR
+	DAREI UM GRITO QUE
+	MANDARÁ OS NINJAS
+	DE VOLTA ÀS SUAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"POSIÇÕES ORIGINAIS."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S MY ENTIRE
-	EXPLANATION. DID YOU
-	UNDERSTAND?
+	E ESSA É TODA A
+	EXPLICAÇÃO. VOCÊ
+	ENTENDEU?
 	"""
 	keyWait
 		any = false
@@ -381,7 +386,7 @@ script 6 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Yep!\n"
+	" Aham!\n"
 	option
 		brackets = 0
 		left = 1
@@ -390,7 +395,7 @@ script 6 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Nope!"
+	" Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -407,20 +412,20 @@ script 6 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	THERE'S A SPEAR
-	TRAP UP AHEAD.
+	HÁ UMA ARMADILHA DE
+	LANÇAS À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE RED MASK.
+	TRAGA O NINJA DE
+	MÁSCARA VERMELHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	flagSet
@@ -434,121 +439,122 @@ script 7 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	VERY WELL. I WILL
-	EXPLAIN ONCE MORE.
+	POIS BEM.
+	EXPLICAREI MAIS UMA
+	VEZ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'RE "TRAPS" UP
-	AHEAD. IN OTHER
-	WORDS,SECURITY.
+	À FRENTE, VOCÊ ENCON-
+	TRARÁ "ARMADILHAS".
+	ISTO É, SEGURANÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU WON'T FIND IT
-	EASY TO GET BY THEM.
+	E, COMO LOGO VERÁ,
+	NÃO É NADA FÁCIL
+	PASSAR POR ELAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE 3 TRAPS:
-	A SPEAR TRAP,
-	A CEILING TRAP,AND
+	HÁ 3 TIPOS DE
+	ARMADILHA: AS DE
+	LANÇAS, AS DE TETO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A WATER TRAP. EACH
-	TRAP IS RELEASED BY
-	A PROGRAM THAT IS
+	E AS DE ÁGUA. CADA
+	UMA É DOMINADA POR UM
+	PROGRAMA TREINADO NA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TRAINED IN NINJUTSU,
-	OR A "NINJA."
+	ARTE DO NINJUTSU.
+	ISTO É, UM "NINJA".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TAKE A NINJA WITH A
-	RED MASK FOR THE
-	SPEAR TRAP,ONE
+	LEVE UM NINJA DE
+	MÁSCARA VERMELHA
+	PARA A DAS LANÇAS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH A WHITE MASK
-	FOR THE CEILING
-	TRAP,AND ONE
+	UM DE MÁSCARA BRANCA
+	PARA AS DE TETO,
+	E UM DE MÁSCARA AZUL
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH A BLUE MASK
-	FOR THE WATER TRAP.
-	THE NINJAS WILL GO
+	PARA AS DE ÁGUA.
+	OS NINJAS LHE SEGUIRÃO
+	POR CONTA PRÓPRIA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH YOU ON THEIR
-	OWN IF YOU GO IN
-	FRONT OF THEM.
+	SE VOCÊ PASSAR NA
+	FRENTE DELES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOWEVER,IF YOU GO
-	BY ANOTHER NINJA
-	WHILE TAKING ONE
+	MAS, SE VOCÊ PASSAR
+	POR OUTRO NINJA
+	ENQUANTO LEVA UM
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH YOU,THEY WILL
-	TRADE PLACES BY
-	THEMSELVES,SO BE
+	CONSIGO, ELES TROCARÃO
+	DE LUGAR UM COM O
+	OUTRO, ENTÃO, CUIDADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CAREFUL. IF YOU NEED
-	HELP FIGURING IT
-	OUT,COME BACK HERE.
+	SE PRECISAR DE AJUDA
+	PARA ENTENDER O QUE
+	FAZER, VOLTE AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GIVE A SPIRITED
-	SHOUT TO SEND THE
-	NINJAS BACK TO THEIR
+	DAREI UM GRITO QUE
+	MANDARÁ OS NINJAS
+	DE VOLTA ÀS SUAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"POSIÇÕES ORIGINAIS."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO. DID YOU GET IT
-	THAT TIME?
+	E ENTÃO, VOCÊ ENTENDEU
+	DESTA VEZ?
 	"""
 	keyWait
 		any = false
@@ -570,20 +576,20 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S A CEILING
-	TRAP JUST AHEAD.
+	HÁ UMA ARMADILHA DE
+	TETO À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE WHITE MASK.
+	TRAGA O NINJA DE
+	MÁSCARA BRANCA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -593,9 +599,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RETURN THE NINJA AND
-	TRY AGAIN FROM THE
-	START?
+	DEVOLVER O NINJA E
+	TENTAR DE NOVO DO
+	INÍCIO?
 	"""
 	keyWait
 		any = false
@@ -611,7 +617,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -620,7 +626,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -635,9 +641,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT A GREAT WARRIOR
-	SPIRIT! YOU NEVER
-	GIVE UP!
+	MAS QUE ESPÍRITO
+	GUERREIRO INCRÍVEL!
+	VOCÊ NUNCA DESISTE!
 	"""
 	keyWait
 		any = false
@@ -649,25 +655,28 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ALL RIGHT,THEN."
+	"POIS BEM, ENTÃO."
 	keyWait
 		any = false
 	clearMsg
-	"EEEYAH!"
+	"RÊI-IÁ!"
 	flagSet
 		flag = 2733
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY SPIRITED SHOUT
-	HAS RETURNED ALL
-	NINJAS TO THEIR
+	O MEU GRITO
+	ESPIRITUOSO FEZ
+	TODOS OS NINJAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"""
+	VOLTAREM ÀS SUAS
+	POSIÇÕES ORIGINAIS.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -679,20 +688,20 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S A CEILING
-	TRAP JUST AHEAD.
+	HÁ UMA ARMADILHA DE
+	TETO À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE WHITE MASK.
+	TRAGA O NINJA DE
+	MÁSCARA BRANCA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -702,9 +711,8 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AMAZING SKILLS!
-	KEEP UP THE GREAT
-	WORK!
+	MAS QUANTA HABILIDADE!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false
@@ -727,8 +735,8 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LISTEN TO THE
-	EXPLANATION AGAIN?
+	OUVIR A EXPLICAÇÃO
+	DE NOVO?
 	"""
 	keyWait
 		any = false
@@ -744,7 +752,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -753,7 +761,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -764,24 +772,26 @@ script 20 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'LL FIND A WATER
-	TRAP UP AHEAD.
+	VOCÊ ENCONTRARÁ UMA
+	ARMADILHA DE ÁGUA
+	À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE BLUE MASK.
+	TRAGA O NINJA DE
+	MÁSCARA AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -791,8 +801,8 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LISTEN TO THE
-	EXPLANATION AGAIN?
+	OUVIR A EXPLICAÇÃO
+	DE NOVO?
 	"""
 	keyWait
 		any = false
@@ -808,7 +818,7 @@ script 21 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -817,7 +827,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -828,13 +838,14 @@ script 21 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RETURN THE NINJA AND
-	TRY AGAIN FROM THE
-	START?
+	DEVOLVER O NINJA E
+	TENTAR DE NOVO DO
+	INÍCIO?
 	"""
 	keyWait
 		any = false
@@ -850,7 +861,7 @@ script 21 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -859,7 +870,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -870,13 +881,14 @@ script 21 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT A GREAT WARRIOR
-	SPIRIT! YOU NEVER
-	GIVE UP!
+	MAS QUE ESPÍRITO
+	GUERREIRO INCRÍVEL!
+	VOCÊ NUNCA DESISTE!
 	"""
 	keyWait
 		any = false
@@ -888,25 +900,28 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ALL RIGHT,THEN."
+	"POIS BEM, ENTÃO."
 	keyWait
 		any = false
 	clearMsg
-	"EEEYAH!"
+	"RÊI-IÁ!"
 	flagSet
 		flag = 2733
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY SPIRITED SHOUT
-	HAS RETURNED ALL
-	NINJAS TO THEIR
+	O MEU GRITO
+	ESPIRITUOSO FEZ
+	TODOS OS NINJAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"""
+	VOLTAREM ÀS SUAS
+	POSIÇÕES ORIGINAIS.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -918,20 +933,21 @@ script 23 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'LL FIND A WATER
-	TRAP UP AHEAD.
+	VOCÊ ENCONTRARÁ UMA
+	ARMADILHA DE ÁGUA
+	À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE BLUE MASK.
+	TRAGA O NINJA DE
+	MÁSCARA AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -941,9 +957,8 @@ script 24 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AMAZING SKILLS!
-	KEEP UP THE GREAT
-	WORK!
+	MAS QUANTA HABILIDADE!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false
@@ -954,147 +969,149 @@ script 25 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME.
-	THIS TIME LISTEN TO
-	WHAT I HAVE TO SAY.
+	BEM-VINDO.
+	ESCUTE BEM O QUE EU
+	TENHO A DIZER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU KNOW THAT THE
-	COLORED NINJAS
-	CHANGE PLACES WHEN
+	VOCÊ JÁ SABE QUE OS
+	NINJAS DE CORES
+	DIFERENTES TROCAM DE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU GO IN FRONT. BUT
-	WHAT ABOUT NINJAS OF
-	THE SAME COLOR?
+	LUGAR QUANDO SE PASSA
+	POR ELES. MAS E OS
+	NINJAS DE MESMA COR?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IN THAT CASE YOU CAN
-	TAKE UP TO 3 WITH
-	YOU SIMULTANEOUSLY.
+	NO CASO DELES, VOCÊ
+	PODE LEVAR ATÉ 3
+	DELES AO MESMO TEMPO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU HAVE A RED
-	NINJA WITH YOU AND
-	GO BY ANOTHER ONE,
+	SE VOCÊ TIVER UM
+	NINJA VERMELHO CONSIGO
+	E PASSAR POR OUTRO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN YOU WILL END UP
-	WITH TWO RED NINJAS
-	FOLLOWING YOU.
+	VOCÊ FICARÁ COM DOIS
+	NINJAS VERMELHOS A
+	LHE SEGUIR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU GO BY ANOTHER
-	RED NINJA,THEN YOU
-	WILL HAVE 3.
+	E SE PASSAR POR OUTRO
+	NINJA VERMELHO,
+	FICARÁ COM TRÊS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU GO BY A NINJA
-	OF ANOTHER COLOR,
-	HOWEVER,THE NINJA IN
+	PORÉM, SE VOCÊ PASSAR
+	POR UM NINJA DE OUTRA
+	COR, O NINJA NA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FRONT WILL STAY
-	BEHIND WHILE THE NEW
-	ONE JOINS THE TAIL.
+	FRENTE FICARÁ PARA
+	TRÁS E O NOVO NINJA
+	ENTRARÁ NA FILEIRA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR INSTANCE IF YOU
-	HAVE 3 REDS AND GO
-	BY A WHITE,THEN:
+	EXEMPLO: SE VOCÊ TIVER
+	3 VERMELHOS E PASSAR
+	POR 1 BRANCO, FICARÁ:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"RED "
+	"VERMELHO\n"
 	wait
 		frames = 20
-	"RED "
+	"VERMELHO\n"
 	wait
 		frames = 20
-	"WHITE "
-	wait
-		frames = 20
-	keyWait
-		any = false
-	clearMsg
-	"THEN PASS A BLUE:"
-	keyWait
-		any = false
-	clearMsg
-	"RED "
-	wait
-		frames = 20
-	"WHITE "
-	wait
-		frames = 20
-	"BLUE "
+	"BRANCO"
 	wait
 		frames = 20
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT SEEMS COMPLICATED
-	BUT YOU'LL GET USED
-	TO IT AFTER A WHILE.
+	AÍ, SE PASSAR POR UM
+	AZUL, FICARÁ:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"VERMELHO\n"
+	wait
+		frames = 20
+	"BRANCO\n"
+	wait
+		frames = 20
+	"AZUL"
+	wait
+		frames = 20
+	keyWait
+		any = false
+	clearMsg
+	"""
+	PODE PARECER
+	COMPLICADO, MAS VOCÊ
+	SE ACOSTUMA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AH YES,I ALMOST
-	FORGOT.
+	AH, SIM, QUASE ESQUEÇO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NUMBER OF NINJAS
-	MUST MATCH THE
-	NUMBER OF TRAPS.
+	O NÚMERO DE NINJAS
+	DEVE SER IGUAL AO
+	NÚMERO DE ARMADILHAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S HOW THE
-	SECURITY WORKS.
+	É ASSIM QUE O SISTEMA
+	DE SEGURANÇA OPERA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S MY ENTIRE
-	EXPLANATION. DID YOU
-	UNDERSTAND?
+	E ESSA É TODA A
+	EXPLICAÇÃO. VOCÊ
+	ENTENDEU?
 	"""
 	keyWait
 		any = false
@@ -1115,7 +1132,7 @@ script 26 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Yup!\n"
+	" Aham!\n"
 	option
 		brackets = 0
 		left = 1
@@ -1124,7 +1141,7 @@ script 26 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Nope!"
+	" Não!"
 	select
 		default = 0
 		BSeparate = false
@@ -1135,27 +1152,28 @@ script 26 mmbn5 {
 			jump = 27,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	textSpeed
 		delay = 2
 	"""
-	HMPH!
-	YOU'LL FIND A WATER
-	TRAP UP AHEAD.
+	HMPH! VOCÊ ENCONTRARÁ
+	UMA ARMADILHA DE ÁGUA
+	À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE BLUE MASK.
+	TRAGA O NINJA DE
+	MÁSCARA AZUL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	flagSet
@@ -1169,129 +1187,132 @@ script 27 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	OK,HERE'S THAT
-	EXPLANATION AGAIN.
+	CERTO, DAREI A
+	EXPLICAÇÃO DE NOVO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN TAKE UP TO
-	3 NINJAS OF THE SAME
-	COLOR AROUND WITH
+	VOCÊ PODE LEVAR ATÉ 3
+	NINJAS DE MESMA COR
+	CONSIGO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU BY GOING IN
-	FRONT OF THEM.
+	AO PASSAR NA FRENTE
+	DELES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU HAVE A RED
-	NINJA WITH YOU AND
-	GO BY ANOTHER ONE,
+	SE VOCÊ TIVER UM
+	NINJA VERMELHO CONSIGO
+	E PASSAR POR OUTRO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN YOU WILL END UP
-	WITH TWO RED NINJAS
-	FOLLOWING YOU.
+	VOCÊ FICARÁ COM DOIS
+	NINJAS VERMELHOS A
+	LHE SEGUIR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU GO BY ANOTHER
-	RED NINJA,THEN YOU
-	WILL HAVE 3.
+	E SE PASSAR POR OUTRO
+	NINJA VERMELHO,
+	FICARÁ COM TRÊS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU GO BY A NINJA
-	OF ANOTHER COLOR,
-	HOWEVER,THE NINJA IN
+	PORÉM, SE VOCÊ PASSAR
+	POR UM NINJA DE OUTRA
+	COR, O NINJA NA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FRONT WILL STAY
-	BEHIND WHILE THE NEW
-	ONE JOINS THE TAIL.
+	FRENTE FICARÁ PARA
+	TRÁS E O NOVO NINJA
+	ENTRARÁ NA FILEIRA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR INSTANCE IF YOU
-	HAVE 3 REDS AND GO
-	BY A WHITE,THEN:
+	EXEMPLO: SE VOCÊ TIVER
+	3 VERMELHOS E PASSAR
+	POR 1 BRANCO, FICARÁ:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"RED "
+	"VERMELHO\n"
 	wait
 		frames = 20
-	"RED "
+	"VERMELHO\n"
 	wait
 		frames = 20
-	"WHITE "
-	wait
-		frames = 20
-	keyWait
-		any = false
-	clearMsg
-	"THEN PASS A BLUE:"
-	keyWait
-		any = false
-	clearMsg
-	"RED "
-	wait
-		frames = 20
-	"WHITE "
-	wait
-		frames = 20
-	"BLUE "
+	"BRANCO"
 	wait
 		frames = 20
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT SEEMS COMPLICATED
-	BUT YOU'LL GET USED
-	TO IT AFTER A WHILE.
+	AÍ, SE PASSAR POR UM
+	AZUL, FICARÁ:
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"VERMELHO\n"
+	wait
+		frames = 20
+	"BRANCO\n"
+	wait
+		frames = 20
+	"AZUL"
+	wait
+		frames = 20
+	keyWait
+		any = false
+	clearMsg
+	"""
+	PODE PARECER
+	COMPLICADO, MAS VOCÊ
+	SE ACOSTUMA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NUMBER OF NINJAS
-	MUST MATCH THE
-	NUMBER OF TRAPS.
+	O NÚMERO DE NINJAS
+	DEVE SER IGUAL AO
+	NÚMERO DE ARMADILHAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S HOW THE
-	SECURITY WORKS.
+	É ASSIM QUE O SISTEMA
+	DE SEGURANÇA OPERA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO. DID YOU GET IT
-	THAT TIME?
+	E ENTÃO, ENTENDEU
+	DESTA VEZ?
 	"""
 	keyWait
 		any = false
@@ -1313,20 +1334,20 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S A SPEAR
-	TRAP UP AHEAD.
+	HÁ UMA ARMADILHA DE
+	LANÇAS À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE RED MASK.
+	TRAGA O NINJA DE
+	MÁSCARA VERMELHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -1336,9 +1357,9 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	RETURN THE NINJA AND
-	TRY AGAIN FROM THE
-	START?
+	DEVOLVER O NINJA E
+	TENTAR DE NOVO DO
+	INÍCIO?
 	"""
 	keyWait
 		any = false
@@ -1354,7 +1375,7 @@ script 31 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -1363,7 +1384,7 @@ script 31 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -1378,9 +1399,9 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT A GREAT WARRIOR
-	SPIRIT! YOU NEVER
-	GIVE UP!
+	MAS QUE ESPÍRITO
+	GUERREIRO INCRÍVEL!
+	VOCÊ NUNCA DESISTE!
 	"""
 	keyWait
 		any = false
@@ -1392,25 +1413,28 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"ALL RIGHT,THEN."
+	"POIS BEM, ENTÃO."
 	keyWait
 		any = false
 	clearMsg
-	"EEEYAH!"
+	"RÊI-IÁ!"
 	flagSet
 		flag = 2733
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MY SPIRITED SHOUT
-	HAS RETURNED ALL
-	NINJAS TO THEIR
+	O MEU GRITO
+	ESPIRITUOSO FEZ
+	TODOS OS NINJAS
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ORIGINAL POSITIONS."
+	"""
+	VOLTAREM ÀS SUAS
+	POSIÇÕES ORIGINAIS.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -1422,20 +1446,20 @@ script 33 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S A SPEAR
-	TRAP UP AHEAD.
+	HÁ UMA ARMADILHA DE
+	LANÇAS À FRENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BRING THE NINJA WITH
-	THE RED MASK.
+	TRAGA O NINJA DE
+	MÁSCARA VERMELHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT ON!"
+	"À LUTA!"
 	keyWait
 		any = false
 	end
@@ -1445,9 +1469,8 @@ script 34 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT AMAZING SKILLS!
-	KEEP UP THE GREAT
-	WORK!
+	MAS QUANTA HABILIDADE!
+	CONTINUE ASSIM!
 	"""
 	keyWait
 		any = false
@@ -1457,14 +1480,14 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WAIT,NAVI!"
+	"ESPERE, NAVI!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SETTLE DOWN AND
-	RELAX. COME LISTEN
-	TO MY EXPLANATION.
+	TOME UM MOMENTO PARA
+	RELAXAR... E OUVIR A
+	MINHA EXPLICAÇÃO.
 	"""
 	keyWait
 		any = false
@@ -1474,14 +1497,14 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WAIT,NAVI!"
+	"ESPERE, NAVI!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SETTLE DOWN AND
-	RELAX. COME LISTEN
-	TO MY EXPLANATION.
+	TOME UM MOMENTO PARA
+	RELAXAR... E OUVIR A
+	MINHA EXPLICAÇÃO.
 	"""
 	keyWait
 		any = false

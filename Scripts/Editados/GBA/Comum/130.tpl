@@ -3,16 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	Things are strewn
-	about the table.
+	Há várias coisas
+	espalhadas pela mesa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's scratched up
-	and looks like it's
-	been used for years.
+	Ela está arranhada.
+	Parece já ter vários
+	anos de uso.
 	"""
 	keyWait
 		any = false
@@ -24,9 +24,9 @@ script 1 mmbn5 {
 		jumpIfTeamColonel = 12
 	msgOpen
 	"""
-	The garbage can is
-	tipped over,leaving
-	a mess all around.
+	A lata de lixo foi
+	derrubada, deixando
+	uma bagunça no chão.
 	"""
 	keyWait
 		any = false
@@ -34,14 +34,14 @@ script 1 mmbn5 {
 }
 script 2 mmbn5 {
 	msgOpen
-	"A GutsMan poster."
+	"Um pôster do GutsMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it makes
-	GutsMan look better
-	than he really does⋯
+	Eu sinto que o artista
+	deixou o GutsMan mais
+	legal do que ele é...
 	"""
 	keyWait
 		any = false
@@ -50,16 +50,16 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	The handheld system
-	everyone loves.
+	O console portátil
+	que é amado por todos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For kids,it's as
-	essential as owning
-	a PET.
+	É tão essencial para
+	as crianças quanto
+	possuir um PET.
 	"""
 	keyWait
 		any = false
@@ -68,16 +68,16 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A TV displaying
-	the latest video
-	game.
+	Uma TV, exibindo um
+	lançamento recente
+	dos video games.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The game graphics
-	are photorealistic.
+	Os gráficos são
+	fotorrealistas.
 	"""
 	keyWait
 		any = false
@@ -89,16 +89,16 @@ script 5 mmbn5 {
 		jumpIfTeamColonel = 13
 	msgOpen
 	"""
-	A limited version of
-	a game console.
+	É a edição limitada
+	de um console.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Many players are
-	crazy about its
-	striped design.
+	A maioria dos
+	jogadores adoram o
+	cubismo todo dele.
 	"""
 	keyWait
 		any = false
@@ -110,15 +110,16 @@ script 6 mmbn5 {
 		jumpIfTeamColonel = 14
 	msgOpen
 	"""
-	The dictionary-sized
-	book is a strategy
+	Este livro extra-
+	grosso é um guia de
+	estratégias para o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	guide for the
-	latest video game.
+	mais recente jogo
+	lançado.
 	"""
 	keyWait
 		any = false
@@ -126,18 +127,21 @@ script 6 mmbn5 {
 }
 script 7 mmbn5 {
 	msgOpen
-	"Dex's PC. It doesn't"
+	"O computador do Dex."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sound like it's
-	operating properly.
+	Não parece estar
+	funcionando 100%...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in."
+	"""
+	mas dá pra se
+	conectar nele.
+	"""
 	keyWait
 		any = false
 	end
@@ -145,17 +149,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Comic books read
-	until they began
-	falling apart.
+	Gibis, caindo aos
+	pedaços de tanto
+	serem lidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He apparently read
-	his favorite pages
-	countless times.
+	Parece que Dex gosta
+	de reler suas páginas
+	favoritas várias vezes.
 	"""
 	keyWait
 		any = false
@@ -164,21 +168,24 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	The closet door
-	lies askew.
+	A porta desse
+	armário está torta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This place certainly
-	has a charm all
-	it's own⋯
+	Este quarto
+	definitivamente tem um
+	charme bem próprio...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"In a strange way⋯"
+	"""
+	... um estranho,
+	estranho charme...
+	"""
 	keyWait
 		any = false
 	end
@@ -186,21 +193,21 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	Dex's well-used bat
-	and glove.
+	O taco e a luva do
+	Dex, ambos bem gastos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dex is known for his
-	over-powering swing
-	and pitching.
+	O Dex é conhecido por
+	exagerar na força das
+	tacadas e arremessos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Like his NetBattles⋯"
+	"Que nem nas NetLutas..."
 	keyWait
 		any = false
 	end
@@ -211,16 +218,15 @@ script 11 mmbn5 {
 		jumpIfTeamColonel = 15
 	msgOpen
 	"""
-	Dex's lucky
-	cat statue.
+	O gato da sorte do Dex.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can it be so
-	lucky with all that
-	dust on it?
+	Mas, empoeirado como
+	tá, não acho que renda
+	lá muita sorte...
 	"""
 	keyWait
 		any = false
@@ -229,8 +235,8 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	An empty waste can
-	has fallen over.
+	Uma lata de lixo vazia
+	que caiu no chão.
 	"""
 	keyWait
 		any = false
@@ -239,16 +245,16 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	The game console has
-	been left on.
+	O Dex deixou o
+	console ligado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dex often brags that
-	he's the best gamer
-	in ACDC Town.
+	Ele sempre fica se
+	gabando de ser o melhor
+	jogador de ACDC.
 	"""
 	keyWait
 		any = false
@@ -257,16 +263,17 @@ script 13 mmbn5 {
 script 14 mmbn5 {
 	msgOpen
 	"""
-	A half-built model's
-	on the desk. Parts
-	are strewn about.
+	Um modelo incompleto
+	sobre a mesa. Há peças
+	espalhadas por aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dex's plans to
-	paint it himself.
+	O Dex pretende
+	pintá-lo com as
+	próprias mãos.
 	"""
 	keyWait
 		any = false
@@ -275,16 +282,16 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	A carefully trimmed
-	plant is displayed.
+	Uma planta
+	cuidadosamente
+	aparada em exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems at odds
-	with the surrounding
-	mess.
+	Não combina nada com
+	a bagunça que a cerca.
 	"""
 	keyWait
 		any = false

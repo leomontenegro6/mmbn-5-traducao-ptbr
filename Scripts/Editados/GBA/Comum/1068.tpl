@@ -40,8 +40,8 @@ script 7 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Take this!
-	ProtoSword!
+	Tome isto!
+	ProtoEspada!
 	"""
 	keyWait
 		any = false
@@ -58,9 +58,9 @@ script 10 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Bring it on!
-	You'll be another
-	nick in my sword!
+	Pode vir! Você será
+	só mais um arranhão
+	na minha lâmina!
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 11 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Is that all you've
-	got? Try again,
-	little Navi!
+	É só disso que você é
+	capaz? Tente de novo,
+	Navizinho ridículo!
 	"""
 	keyWait
 		any = false
@@ -84,17 +84,16 @@ script 12 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	What is this
-	strong energy I
-	feel from you⋯?
+	Que energia poderosa
+	é essa que eu sinto
+	vindo de você...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is this your idea of
-	the "power of
-	justice"?
+	É essa a sua ideia
+	de "poder da justiça"?
 	"""
 	keyWait
 		any = false
@@ -109,9 +108,9 @@ script 14 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Running so soon?
-	I guess your luck
-	ran out,too!
+	Fugindo? Mas já?
+	Acho que a sua sorte
+	acabou, então!
 	"""
 	keyWait
 		any = false

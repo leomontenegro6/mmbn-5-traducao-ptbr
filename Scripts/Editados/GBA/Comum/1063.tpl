@@ -60,8 +60,8 @@ script 7 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Fall into darkness!
-	Cosmo Planet!
+	Caia na escuridão!
+	Cosmo-Planeta!
 	"""
 	keyWait
 		any = false
@@ -82,9 +82,9 @@ script 11 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Teensy-weensy Navis
-	like you don't stand
-	a chance against me!
+	Navis insignificantes
+	como vocês não têm
+	chance contra mim!
 	"""
 	keyWait
 		any = false
@@ -95,14 +95,14 @@ script 12 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	NO! I take my power
-	from the cosmos!
-	I am⋯invincible⋯!
+	NÃO! O meu poder
+	vem do cosmos!
+	Eu sou... invencível...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"NOOOOOOOOO!"
+	"NÃÃÃÃÃÃÃÃOO!"
 	keyWait
 		any = false
 	end
@@ -116,9 +116,9 @@ script 14 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Now you know how
-	tiny you are! I'm
-	out of your scale!
+	Agora vocês entendem
+	o quão minúsculos vocês
+	são para me enfrentar!
 	"""
 	keyWait
 		any = false
@@ -129,9 +129,9 @@ script 15 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	You're nothing
-	but dust-motes
-	compared to me!
+	Vocês não passam de
+	pontinhos no espaço
+	se comparados a mim!
 	"""
 	keyWait
 		any = false

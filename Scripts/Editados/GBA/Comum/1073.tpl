@@ -8,8 +8,9 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Nice job. You seem
-	to be getting it!
+	Bom trabalho.
+	Você parece estar
+	se acostumando!
 	"""
 	keyWait
 		any = false
@@ -21,7 +22,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I sure am!"
+	"Tô, sim!"
 	keyWait
 		any = false
 	clearMsg
@@ -29,17 +30,17 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	If a Navi's HP is
-	too low,choose
-	"Pass."
+	Se os PV de um Navi
+	estiverem baixos demais,
+	opte por "Passar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll skip a turn
-	but you'll also
-	regain some HP.
+	Isso irá pular um
+	turno, mas também
+	restaurará os PV.
 	"""
 	keyWait
 		any = false
@@ -48,13 +49,13 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That makes sense.
-	I'll do it.
+	Faz sentido.
+	Eu vou fazer isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh⋯?"
+	"Ué...?"
 	keyWait
 		any = false
 	clearMsg
@@ -75,13 +76,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,ProtoMan?"
+	"Aí, ProtoMan?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's that "?"
-	panel?
+	O que é esse
+	quadro com o "?"
 	"""
 	keyWait
 		any = false
@@ -94,17 +95,16 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I think that's a
-	BonusPanel.
-	I hear they give
+	Acho que é um
+	Quadro Bônus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you a variety of
-	bonuses,like
-	extra HP.
+	Ouvi dizer que eles
+	conferem uma variedade
+	de bônus, como PV extra.
 	"""
 	keyWait
 		any = false
@@ -116,13 +116,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I see."
+	"Entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess I'd better
-	liberate those too!
+	Bom, melhor eu liberar
+	eles também, né?!
 	"""
 	keyWait
 		any = false
@@ -134,20 +134,20 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"You got it."
+	"Com certeza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course,You don't
-	have to if you don't
+	Claro que você
+	também não precisa,
+	se não preferir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	want to.
-	It's all up to you.
+	Só cabe a você.
 	"""
 	keyWait
 		any = false
@@ -159,7 +159,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -178,8 +178,9 @@ script 10 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Nice job. You seem
-	to be getting it!
+	Bom trabalho.
+	Você parece estar
+	se acostumando!
 	"""
 	keyWait
 		any = false
@@ -191,7 +192,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I sure am!"
+	"Tô, sim!"
 	keyWait
 		any = false
 	clearMsg
@@ -199,17 +200,17 @@ script 11 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	If a Navi's HP is
-	too low,choose
-	"Pass."
+	Se os PV de um Navi
+	estiverem baixos demais,
+	opte por "Passar".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll skip a turn
-	but you'll also
-	regain some HP.
+	Isso irá pular um
+	turno, mas também
+	restaurará os PV.
 	"""
 	keyWait
 		any = false
@@ -218,13 +219,13 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That makes sense.
-	I'll do it.
+	Faz sentido.
+	Eu vou fazer isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh⋯?"
+	"Ué...?"
 	keyWait
 		any = false
 	clearMsg
@@ -245,13 +246,13 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,Colonel?"
+	"Er, Colonel?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's that "?"
-	panel?
+	O que é esse
+	quadro com o "?"
 	"""
 	keyWait
 		any = false
@@ -264,23 +265,22 @@ script 13 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I'm not sure
-	exactly but
+	Não tenho certeza,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I suspect it
-	triggers an event.
+	mas creio que ele
+	ative um evento
+	de algum tipo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or it might give
-	you some extra
-	HP or a chip.
+	Ou pode lhe conferir
+	PV ou chips extra.
 	"""
 	keyWait
 		any = false
@@ -292,13 +292,13 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I see."
+	"Entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess I'd better
-	liberate those too!
+	Bom, melhor eu liberar
+	eles também, né?!
 	"""
 	keyWait
 		any = false
@@ -310,20 +310,20 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"You got it."
+	"Com certeza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course,You don't
-	have to if you don't
+	Claro que você
+	também não precisa,
+	se não preferir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	want to.
-	It's all up to you.
+	Só cabe a você.
 	"""
 	keyWait
 		any = false
@@ -335,7 +335,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg

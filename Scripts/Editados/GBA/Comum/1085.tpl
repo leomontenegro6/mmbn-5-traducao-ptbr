@@ -24,17 +24,17 @@ script 1 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	You look familiar
-	to me. Why am I
-	so nervous⋯?
+	Você me parece tão
+	familiar. Por que eu
+	estou nervoso...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that you
-	are the enemies
-	I must defeat.
+	Eu sei que vocês são
+	os inimigos que eu
+	devo abater.
 	"""
 	keyWait
 		any = false
@@ -66,35 +66,37 @@ script 3 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Why?! What is this?
-	Why do I
-	hesitate?!
+	Por quê?! Não entendo!
+	Por que eu estou
+	hesitando?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master Regal is
-	the one I serve!
+	O meu governante
+	é o Mestre Regal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master granted me
-	my DarkPower.
+	Foi ele quem me
+	conferiu estes
+	Poderes das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I get the
-	chance to try it!
+	E esta é a minha
+	chance de usá-los
+	em prol dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"RIGHT⋯NOW!!"
+	"USAR... AGORA!!"
 	keyWait
 		any = false
 	end
@@ -104,17 +106,17 @@ script 5 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	You look familiar
-	to me. Why am I
-	so nervous⋯?
+	Você me parece tão
+	familiar. Por que eu
+	estou nervoso...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that you
-	are the enemies
-	I must defeat.
+	Eu sei que vocês são
+	os inimigos que eu
+	devo abater.
 	"""
 	keyWait
 		any = false
@@ -127,35 +129,37 @@ script 6 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	Why?! What is this?
-	Why do I
-	hesitate?!
+	Por quê?! Não entendo!
+	Por que eu estou
+	hesitando?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master Regal is
-	the one I serve!
+	O meu governante
+	é o Mestre Regal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master granted me
-	my DarkPower.
+	Foi ele quem me
+	conferiu estes
+	Poderes das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I get the
-	chance to try it!
+	E esta é a minha
+	chance de usá-los
+	em prol dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"RIGHT⋯NOW!!"
+	"USAR... AGORA!!"
 	keyWait
 		any = false
 	end
@@ -168,8 +172,8 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	ProtoMan! Do
-	you recognize me?
+	ProtoMan!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -185,9 +189,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're Chaud's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Chaud,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -200,8 +203,8 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Colonel! Do
-	you recognize me?
+	Colonel!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -214,9 +217,8 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're Baryl's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Baryl,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -229,8 +231,8 @@ script 18 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	ProtoMan! Do
-	you recognize me?
+	ProtoMan!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -243,9 +245,8 @@ script 19 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	You're Chaud's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Chaud,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -258,8 +259,8 @@ script 22 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	ProtoMan! Do
-	you recognize me?
+	ProtoMan!
+	Está me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -272,9 +273,9 @@ script 23 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	You're Chaud's Navi
-	and the leader of
-	our team!
+	Você é o Navi de
+	Eugene Chaud, e líder
+	da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -287,8 +288,8 @@ script 26 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	ProtoMan! Do
-	you recognize me?
+	ProtoMan!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -301,9 +302,8 @@ script 27 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	You're Chaud's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Chaud,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -316,8 +316,8 @@ script 34 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	ProtoMan! Do
-	you recognize me?
+	ProtoMan!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -330,9 +330,8 @@ script 35 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	You're Chaud's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Chaud,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -345,8 +344,8 @@ script 42 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Colonel! Do
-	you recognize me?
+	Colonel!
+	Está me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -359,9 +358,8 @@ script 43 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	You're Baryl's Navi
-	and the leader of
-	our team!
+	Você é o Navi de Baryl,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -374,8 +372,8 @@ script 46 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Colonel! Do
-	you recognize me?
+	Colonel!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -388,9 +386,8 @@ script 47 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	You're Baryl's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Baryl,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -403,8 +400,8 @@ script 50 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Colonel! Do
-	you recognize me?
+	Colonel!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -417,9 +414,8 @@ script 51 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	You're Baryl's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Baryl,
+	e líder da nossa equipe!
 	"""
 	keyWait
 		any = false
@@ -432,8 +428,8 @@ script 58 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Colonel! Do
-	you recognize me?
+	Colonel!
+	Tá me reconhecendo?
 	"""
 	keyWait
 		any = false
@@ -446,9 +442,9 @@ script 59 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	You're Baryl's Navi
-	and the leader of
-	our team!
+	Você é o Navi do Baryl,
+	e líder da nossa equipe,
+	coaxo!
 	"""
 	keyWait
 		any = false

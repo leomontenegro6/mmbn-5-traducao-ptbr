@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"OK,Let's go!"
+	"Certo, vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no
-	turning back now!
+	Não tem mais volta
+	agora!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Let's go,Lan!"
+	"Vamos, Lan!"
 	keyWait
 		any = false
 	end
@@ -30,8 +30,8 @@ script 2 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Heh,heh,heh.
-	I'm so ready!
+	He he he.
+	Eu tô mais do que pronto!
 	"""
 	keyWait
 		any = false
@@ -42,8 +42,8 @@ script 3 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Nothing to do
-	but push ahead!
+	A única escolha agora
+	é seguir em frente!
 	"""
 	keyWait
 		any = false
@@ -53,7 +53,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Stay on your toes."
+	"Fique bem atento."
 	keyWait
 		any = false
 	end
@@ -63,8 +63,9 @@ script 5 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	To be honest,huh⋯
-	I wanna go back!
+	Pra ser sincero...
+	eu quero é ir pra casa,
+	é!
 	"""
 	keyWait
 		any = false
@@ -75,8 +76,7 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wrong way,
-	Lan!
+	Não é por aí, Lan!
 	"""
 	keyWait
 		any = false
@@ -87,8 +87,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's locked tight.
-	Find another way.
+	Tá bem trancado.
+	Bora achar outro
+	caminho.
 	"""
 	keyWait
 		any = false
@@ -103,9 +104,8 @@ script 20 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I'd be fine going
-	without SerchMan,
-	but whatever!
+	Eu nem precisava do
+	SearchMan... mas enfim!
 	"""
 	keyWait
 		any = false
@@ -120,13 +120,12 @@ script 21 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	It's about time
-	for TomahawkMan!
+	É a vez do TomahawkMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's choppin' time!"
+	"Hora de fatiar!"
 	keyWait
 		any = false
 	end
@@ -140,9 +139,9 @@ script 22 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	No time to waste!
-	Just open the
-	door! Hurry!
+	Não há tempo a perder!
+	Abra logo a porta!
+	Depressa!
 	"""
 	keyWait
 		any = false
@@ -157,13 +156,13 @@ script 23 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	NumberMan and I
-	are ready,huh!
+	O NumberMan e eu
+	estamos prontos, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go Lan,huh!"
+	"Vamos lá, Lan, é!"
 	keyWait
 		any = false
 	end
@@ -173,8 +172,8 @@ script 25 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Don't worry about
-	me! Go,go,go!
+	Não esquenta comigo!
+	Só vai!
 	"""
 	keyWait
 		any = false
@@ -185,8 +184,8 @@ script 26 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Lan,it's all in
-	your hands now!
+	Lan, está tudo nas
+	suas mãos agora!
 	"""
 	keyWait
 		any = false
@@ -196,20 +195,20 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"What are you doing?"
+	"O que está fazendo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't waste time
-	worrying about us!
+	Não perca tempo se
+	preocupando conosco!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Think about the
-	mission! Think!
+	Pense somente na missão!
+	Na missão!
 	"""
 	keyWait
 		any = false
@@ -220,8 +219,8 @@ script 28 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Lan⋯ it's all up
-	to you now,huh⋯
+	Lan...
+	Agora, é com você, é...
 	"""
 	keyWait
 		any = false

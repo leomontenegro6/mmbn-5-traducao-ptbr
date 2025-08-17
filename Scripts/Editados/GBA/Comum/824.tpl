@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"There it is!"
+	"Tá aqui!"
 	keyWait
 		any = false
 	end
@@ -13,13 +13,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I found it,MegaMan!"
+	"Achei, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The data order is
-	"5 3 2 1 4."
+	A ordem dos dados é
+	"5 3 2 1 4".
 	"""
 	keyWait
 		any = false
@@ -32,30 +32,29 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roger.
-	Thanks,Lan!
+	Entendido.
+	Obrigado, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,come back and
-	operate,please!
+	Agora, volta aqui pra
+	me operar, por favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you forget the
-	order of the memo,
+	Se esquecer a ordem dos
+	números no lembrete,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	view it under "Key
-	Item" on the PET
-	screen!
+	é só conferir ele na
+	seção "Itens" do menu!
 	"""
 	keyWait
 		any = false
@@ -68,8 +67,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Roger!
-	Here I come,MegaMan!
+	Beleza!
+	Tô indo, MegaMan!
 	"""
 	keyWait
 		any = false

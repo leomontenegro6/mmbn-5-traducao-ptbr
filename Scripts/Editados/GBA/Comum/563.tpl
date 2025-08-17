@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	ORAN AREA3!
+	BEM-VINDO À ÁREA
+	ORAN 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S PRETTY QUIET
-	HERE BUT PLEASE
-	ENJOY YOURSELF!
+	É BEM SILENCIOSO AQUI,
+	MAS ESPERO QUE
+	APROVEITE!
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,16 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Every time I walk
-	around here,
+	Sempre que eu ando por
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel like I'm
-	on an adventure!
-	How about you?
+	eu sinto como se
+	estivesse numa
+	aventura! E você?
 	"""
 	keyWait
 		any = false
@@ -45,9 +45,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVE⋯ C⋯M⋯OWN!
-	EVER⋯Y⋯!
-	CAL⋯D⋯!
+	PES... F... M... MOS!
+	PESS... L...!
+	CAL... A...!
 	"""
 	keyWait
 		any = false
@@ -55,9 +55,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	⋯no⋯ime⋯
-	adve⋯!!
+	... Nã... nha...
+	aven...!!
 	"""
 	keyWait
 		any = false
@@ -77,9 +77,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -90,16 +90,15 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE THE
-	WHOLE NET'S BEEN
-	SABOTAGED.
+	PARECE QUE A REDE
+	INTEIRA FOI SABOTADA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT A SCARY
-	WORLD⋯!
+	MUNDO PERIGOSO,
+	ESTE NOSSO...!
 	"""
 	keyWait
 		any = false
@@ -110,16 +109,16 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	These days,I can't
-	explore the Net
-	freely anymore.
+	Estes dias, não tá dando
+	mais pra eu explorar a
+	Rede livremente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's too bad. That
-	was my hobby!
+	O que é uma droga.
+	Era o meu hobby!
 	"""
 	keyWait
 		any = false
@@ -130,17 +129,16 @@ script 30 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Nebula really
-	ran wild in
-	this area.
+	A Nebula realmente
+	avassalou esta área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so selfish,it
-	makes me want to
-	scream!
+	É tanto egoísmo...
+	que me dá vontade
+	de gritar!
 	"""
 	keyWait
 		any = false
@@ -155,16 +153,16 @@ script 31 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Oran Area
-	is nice but
+	A Área Oran é legal e
+	tal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to visit
-	the real Oran
-	Isle sometime!
+	mas eu quero mesmo é
+	visitar a Ilha Oran
+	um dia!
 	"""
 	keyWait
 		any = false
@@ -175,9 +173,9 @@ script 40 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	What's going on?
-	What's happening?
-	Someone,tell me!
+	O que tá acontecendo?
+	O que é isso?
+	Alguém, me fala!
 	"""
 	keyWait
 		any = false
@@ -188,16 +186,16 @@ script 41 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I hear that the
-	SciLab Area is a
-	real mess.
+	Parece que a Área
+	SciLab tá a maior
+	bagunça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm⋯ Maybe I'll
-	go take a look!
+	Hmm... Acho que eu vou
+	lá dar uma olhada!
 	"""
 	keyWait
 		any = false
@@ -208,15 +206,15 @@ script 50 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Is Nebula still
-	up to their tricks?
+	A Nebula ainda tá
+	aprontando, como sempre?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'd better
-	grow up!
+	Eles vão ficar nessa
+	criancisse pra sempre?!
 	"""
 	keyWait
 		any = false
@@ -227,16 +225,15 @@ script 51 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Oran Area is
-	kind of like a
-	natural habitat.
+	A Área Oran é meio que
+	como um habitat natural.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I love
-	walking around here!
+	É por isso que eu adoro
+	andar por aqui!
 	"""
 	keyWait
 		any = false

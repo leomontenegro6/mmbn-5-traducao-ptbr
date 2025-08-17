@@ -7,9 +7,9 @@ script 0 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It's locked. Entry
-	is restricted to
-	SciLab staff.
+	Trancado.
+	Entrada somente para
+	funcionários do SciLab.
 	"""
 	keyWait
 		any = false
@@ -29,14 +29,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's locked!"
+	"Tá trancado!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would open with
-	a signature of a
-	SciLab staff member.
+	Daria pra abrir com a
+	assinatura de alguém
+	do SciLab.
 	"""
 	keyWait
 		any = false
@@ -56,29 +56,29 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome to SciLab!"
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're constantly
-	working on new
-	network technology!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	On the 2nd floor you
-	will find a display
-	of PETs new and old!
+	Estamos sempre
+	desenvolvendo novas
+	tecnologias de rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and have
-	a good look around.
+	No segundo andar,
+	expomos PETs do
+	passado e do presente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sugiro que confira,
+	é muito instrutivo.
 	"""
 	keyWait
 		any = false
@@ -88,14 +88,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome to SciLab!"
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Hikari's lab is
-	up the stairs
-	or elevator.
+	Para ir ao laboratório
+	do Dr.Hikari, use as
+	escadas ou o elevador.
 	"""
 	keyWait
 		any = false
@@ -116,16 +116,17 @@ script 5 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Some research at
-	SciLab concerns
-	national security.
+	Certas pesquisas no
+	SciLab são questões
+	de segurança nacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why security
-	has to be so tight.
+	Por isso, a segurança
+	tem que ser o mais
+	rígida possível.
 	"""
 	keyWait
 		any = false
@@ -136,23 +137,24 @@ script 6 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I make sure nobody
-	suspicious gets
-	past here.
+	Eu me certifico de que
+	nenhuma pessoa suspeita
+	entre aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know you! You're
-	Dr.Hikari's boy.
+	Ah, eu te conheço!
+	É o filho do Dr. Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're free to go on
-	ahead.
+	Você está livre para
+	transitar por aqui à
+	vontade.
 	"""
 	keyWait
 		any = false
@@ -163,32 +165,32 @@ script 7 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I'm a salesman for a
-	company that sells
-	PET parts.
+	Sou vendedor de uma
+	empresa que vende peças
+	de PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm scheduled to
-	meet somebody but 
-	they're late.
+	Marquei de me encontrar
+	com uma pessoa aqui,
+	mas ela está atrasada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm on my fifth cup
-	of coffee,for crying
-	out loud!
+	Já é a minha quinta
+	xícara de café, pelo
+	amor de Deus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"Sheesh!"
+	"Credo!"
 	keyWait
 		any = false
 	end
@@ -198,25 +200,25 @@ script 8 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'm to meet with a
-	man from a company
-	that makes PET parts
+	Marquei de me encontrar
+	com um homem de uma
+	fabricante de peças de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but he was supposed
-	to be here a while
-	ago.
+	PET, mas já era para
+	ele ter chegado faz
+	tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At this rate,the two
-	cups of coffee I
-	made will cool off!
+	Nesse ritmo, as duas
+	xícaras de café que eu
+	separei vão esfriar!
 	"""
 	keyWait
 		any = false
@@ -224,8 +226,8 @@ script 8 mmbn5 {
 	mugshotAnimation
 		animation = 0
 	"""
-	Whatever could be
-	the matter?
+	O que será que houve
+	com ele?
 	"""
 	keyWait
 		any = false
@@ -236,17 +238,17 @@ script 9 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	This machine looks
-	like the other but
-	you can't jack in.
+	Esta máquina se parece
+	com a outra, mas não dá
+	para se conectar nela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Operation without a
-	Navi in this day and
-	age? What a pain!
+	Operar um aparelho sem
+	usar Navi, em pleno
+	20XX? Que saco!
 	"""
 	keyWait
 		any = false
@@ -257,8 +259,9 @@ script 10 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Wow,so this is
-	SciLab! Very cool.
+	Caramba, então este
+	que é o SciLab!
+	Radical.
 	"""
 	keyWait
 		any = false
@@ -269,9 +272,9 @@ script 11 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Today's machines are
-	operated by Navis.
-	And thank goodness!
+	As máquinas de hoje em
+	dia são operadas por
+	Navis. Ainda bem!
 	"""
 	keyWait
 		any = false
@@ -282,17 +285,17 @@ script 15 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	They told us to
-	evacuate as a
-	practice drill.
+	Fomos forçados a
+	evacuar o prédio.
+	Sabe, treinamento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was so sudden I
-	didn't know what was
-	happening!
+	Foi tão repentino, que
+	eu nem sabia o que
+	estava acontecendo!
 	"""
 	keyWait
 		any = false
@@ -303,17 +306,17 @@ script 16 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That evacuation
-	drill really caught
-	me off guard!
+	O treino de evacuação
+	me pegou completamente
+	desprevenido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I suppose it
-	helps to keep us on
-	our toes.
+	Mas acho que isso é
+	bom para nos manter
+	espertos.
 	"""
 	keyWait
 		any = false
@@ -323,7 +326,7 @@ script 17 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan used:
+	Lan usou:
 	"
 	"""
 	printItem
@@ -336,8 +339,7 @@ script 17 mmbn5 {
 	soundPlay
 		track = 332
 	"""
-	The door was
-	unlocked!
+	A porta foi destrancada!
 	"""
 	keyWait
 		any = false
@@ -352,23 +354,23 @@ script 20 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Today is my 2nd time
-	here,and
+	Já é a segunda vez
+	que eu venho aqui hoje,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm on my 10th cup
-	of coffee,for crying
-	out loud!
+	e já estou na minha
+	décima xícara de café!
+	Pelo amor de Deus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"Arrg⋯"
+	"Arrgh..."
 	keyWait
 		any = false
 	end
@@ -378,17 +380,17 @@ script 21 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	A guy rescheduled
-	our meeting and was
-	supposed to be here
+	Um cara remarcou de
+	se encontrar comigo
+	e era para estar aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but he's nowhere to
-	be seen. Wonder if I
-	am just missing him?
+	mas não o vejo em lugar
+	nenhum. Será que esta-
+	mos nos desencontrando?
 	"""
 	keyWait
 		any = false
@@ -396,8 +398,8 @@ script 21 mmbn5 {
 	mugshotAnimation
 		animation = 0
 	"""
-	Just where could he
-	be⋯?
+	Onde será que ele
+	está...?
 	"""
 	keyWait
 		any = false
@@ -408,9 +410,9 @@ script 22 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Leave it so SciLab
-	to stock such
-	refreshing drinks!
+	Só o SciLab mesmo
+	pra ter bebidas tão
+	refrescantes assim!
 	"""
 	keyWait
 		any = false
@@ -421,17 +423,17 @@ script 23 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I'm visiting from
-	Netopia SciLab on a
-	technology exchange.
+	Estou de visita do
+	SciLab da Ameropa como
+	intercâmbio tecnológico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not bad seeing a
-	different SciLab for
-	a change!
+	Até que é legal ver um
+	SciLab diferente, para
+	variar!
 	"""
 	keyWait
 		any = false
@@ -442,17 +444,17 @@ script 24 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Thank goodness the
-	Navi-compatible
-	machine was free.
+	Ainda bem que a máquina
+	compatível com Navis
+	estava livre.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't imagine
-	operating things
-	without a Navi!
+	Nem consigo imaginar
+	operar essas coisas
+	sem um Navi!
 	"""
 	keyWait
 		any = false
@@ -463,25 +465,25 @@ script 25 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Oh,it's you. Accept
-	my apologies for
-	what happened.
+	Ah, é você.
+	Mil desculpas pelo
+	que aconteceu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's my job to stop
-	intruders but they
-	knocked me out cold.
+	É meu trabalho deter
+	intrusos, mas fui
+	nocauteado por um.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe I
-	let that kind of
-	thing happen.
+	Eu não acredito que
+	deixei uma coisa dessas
+	acontecer.
 	"""
 	keyWait
 		any = false
@@ -492,8 +494,9 @@ script 30 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Wonder where
-	Dr.Hikari's lab is?
+	Onde será que fica
+	o laboratório do
+	Dr. Hikari?
 	"""
 	keyWait
 		any = false
@@ -504,9 +507,9 @@ script 31 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'm excited in this
-	place I can hardly
-	contain myself.
+	Tô tão animado de tá
+	aqui que mal consigo
+	me segurar.
 	"""
 	keyWait
 		any = false
@@ -517,17 +520,17 @@ script 32 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Cutting-edge
-	Electopia technology
-	is developed here.
+	Aqui, são desenvolvidas
+	tecnologias ni-honenses
+	de ponta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Cutting-edge"⋯What
-	a wonderful ring
-	that phrase has!
+	"De ponta"...
+	Amo a sonoridade
+	dessa expressão!
 	"""
 	keyWait
 		any = false
@@ -538,9 +541,9 @@ script 40 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Why,you must be the
-	person I was
-	scheduled to meet!
+	Ah, você deve ser a
+	pessoa que eu marquei
+	de encontrar!
 	"""
 	keyWait
 		any = false
@@ -551,9 +554,9 @@ script 41 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Can you believe we
-	were so close and
-	never realized it?
+	Dá para acreditar que
+	estávamos perto assim,
+	sem perceber?
 	"""
 	keyWait
 		any = false
@@ -564,31 +567,31 @@ script 42 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	The area this way
-	can only be accessed
+	Esta área só pode ser
+	acessada pelos membros
+	do mais alto escalão do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by the most elite
-	SciLab staff.
+	SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm from Netopia
-	SciLab,so it's off
-	limits for me.
+	Eu sou do SciLab da
+	Ameropa, então, não
+	possuo acesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without security
-	approval,there's
-	just no way in.
+	Sem aprovação da
+	segurança, não há
+	como entrar.
 	"""
 	keyWait
 		any = false
@@ -599,17 +602,17 @@ script 43 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The Net's really
-	getting rough these
-	days.
+	A Rede tem mesmo
+	ficado perigosa estes
+	dias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better brush
-	up on your
-	NetBattler skills.
+	É bom dar uma
+	desenferrujada nas suas
+	habilidades de NetLuta.
 	"""
 	keyWait
 		any = false

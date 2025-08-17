@@ -14,22 +14,22 @@ script 0 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Hey! This armor
-	is MINE! Keep your
-	grimy hands off!
+	Ei! Essa armadura é
+	MINHA! Tira essas mãos
+	imundas dela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The helmet and
-	Katana are mine
-	too! Got it?
+	O elmo e a katana
+	também são meus!
+	Ouviu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HA-HA-HA!"
+	"HA HA HA!"
 	keyWait
 		any = false
 	end
@@ -39,8 +39,8 @@ script 1 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You tried to push
-	me off,didn't you?!
+	Cê tentou me empurrar,
+	não foi?!
 	"""
 	keyWait
 		any = false
@@ -48,8 +48,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	Well,you tried to
-	throw me over!
+	Tentei! Porque VOCÊ
+	tentou me ARREMESSAR!
 	"""
 	keyWait
 		any = false
@@ -60,8 +60,8 @@ script 10 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I don't want to
-	talk right now⋯
+	Não tô a fim de
+	conversar agora...
 	"""
 	keyWait
 		any = false
@@ -77,9 +77,8 @@ script 11 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Huh? I thought
-	I was looking at
-	a Katana⋯?
+	Hã? Eu tava olhando
+	pra katana...?
 	"""
 	keyWait
 		any = false
@@ -95,9 +94,8 @@ script 12 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Huh? I thought
-	I was looking at
-	a helmet⋯?
+	Ué? Eu não tava olhando
+	pro elmo...?
 	"""
 	keyWait
 		any = false
@@ -108,16 +106,16 @@ script 20 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Nebula was behind
-	the incident,right?
+	Era a Nebula por trás
+	do incidente, não era?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe
-	I fell for their
-	little scheme!
+	Eu não acredito que
+	caí em uma dessas
+	tramoias deles!
 	"""
 	keyWait
 		any = false
@@ -128,9 +126,9 @@ script 21 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	All of a sudden I
-	realized I was
-	arguing. But why?
+	De repente, eu me
+	peguei discutindo.
+	Mas por quê?
 	"""
 	keyWait
 		any = false
@@ -141,8 +139,8 @@ script 22 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Why was I having
-	an argument?
+	Por que eu tava de
+	bate-boca?
 	"""
 	keyWait
 		any = false
@@ -153,16 +151,15 @@ script 30 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	GargCastle and
-	SciLab are working
-	to protect the Net.
+	O Castelo Shachi e o
+	SciLab estão cooperando
+	pra proteger a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything will be
-	fine.
+	Vai ficar tudo bem.
 	"""
 	keyWait
 		any = false
@@ -173,23 +170,17 @@ script 31 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Electopia isn't
-	the only target
+	Ni-Hon não é o único
+	alvo dos ataques
+	covardes da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of Nebula's
-	cowardly attacks.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The whole world
-	is in their sights!
-	We must beat them!
+	O mundo inteiro está na
+	mira deles! Temos que
+	vencê-los!
 	"""
 	keyWait
 		any = false

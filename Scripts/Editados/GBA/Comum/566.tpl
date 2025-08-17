@@ -4,21 +4,22 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME TO SCILAB3!"
+	"BEM-VINDO A SCILAB 3!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S FAMOUS FOR THE
-	LONGEST CORRIDOR IN
-	THE NET!
+	ÁREA FAMOSA POR SER O
+	CORREDOR MAIS LONGO
+	DA REDE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GO ON! RUN ALL THE
-	WAY DOWN IT!
+	VAMOS!
+	EXPERIMENTE CORRER
+	ATÉ O FINAL!
 	"""
 	keyWait
 		any = false
@@ -34,45 +35,45 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SPICK-AND-SPAN! I'VE
-	GOT TO TIDY BEFORE
-	PEOPLE ARRIVE!
+	BRILHA, BRILHA! TENHO
+	QUE LIMPAR TUDO ANTES
+	DOS NAVIS CHEGAREM!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OH⋯!"
+	"AH...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS A SECRET!
-	DON'T TELL ANYONE
-	I'M CLEANING.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	WHAT?
-	YOU WANT TO KNOW
-	WHY IT'S A SECRET?
+	ISTO É SEGREDO, VIU?!
+	NÃO CONTE A NINGUÉM
+	QUE EU ESTOU LIMPANDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU HAVE TO DO THESE
-	THINGS DISCRETELY!
-	THAT'S THE BEST WAY!
+	HÃ?
+	VOCÊ QUER SABER
+	POR QUE É SEGREDO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO IF YOU'LL EXCUSE
-	ME⋯ SPICK-AND-SPAN!
-	SPICK-AND-SPAN!
+	ESSAS COISAS TÊM QUE
+	SER FEITAS DISCRETA-
+	MENTE! TÊM QUE SER!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	ENTÃO, SE ME DER
+	LICENÇA...
+	BRILHA! BRILHA!
 	"""
 	keyWait
 		any = false
@@ -82,18 +83,18 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"SPICK-AND-SPAN!"
+	"BRILHA, BRILHA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YES⋯ SPOTLESS! EVEN
-	IF I SAY SO MYSELF!
+	ISSO... PERFEITO!
+	MODÉSTIA À PARTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"CLEAN,CLEAN,CLEAN!"
+	"LIMPO, LIMPO, LIMPO!"
 	keyWait
 		any = false
 	end

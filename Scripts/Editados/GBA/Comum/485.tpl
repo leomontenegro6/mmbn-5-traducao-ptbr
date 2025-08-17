@@ -18,71 +18,76 @@ script 0 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I OPEN THE DOOR TO
-	MURKLAND⋯NEBULA
-	AREA,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"THE LAND OF CHAOS."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	YOU HAVE THE POWER
-	TO DEFEAT DARKNESS
+	EU ABRO A PORTA PARA
+	O MUNDO DAS TREVAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND FIND 100
-	SFRAGS⋯
+	A ÁREA NEBULA,
+	A TERRA DO CAOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHALL I OPEN THE
-	DOOR TO MURKLAND?
+	VOCÊ DEVE MOSTRAR O
+	PODER DE VENCER AS
+	TREVAS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU SATISFY THOSE
-	CONDITIONS.
+	E ENCONTRAR 100
+	FRAG-S...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU SO WISH,
-	I COULD OPEN THE
-	DOOR TO MURKLAND.
+	QUER QUE EU ABRA A
+	PORTA PARA O MUNDO
+	DAS TREVAS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT ONCE THE DOOR IS
-	OPENED,VIRUSES
+	VOCÊ CUMPRE AS
+	CONDIÇÕES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DRIVEN MAD BY THE
-	DARKPOWER WOULD
-	INFECT THIS WORLD.
+	SE ASSIM DESEJAR,
+	POSSO ABRIR A PORTA
+	DO MUNDO DAS TREVAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHALL I OPEN THE
-	DOOR TO NEBULA AREA?
+	MAS, UMA VEZ ABERTA,
+	VÍRUS, ENLOUQUECIDOS
+	PELOS PODERES DAS
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	TREVAS, IRÃO INFECTAR
+	ESTE MUNDO.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	DESEJA QUE EU ABRA A
+	PORTA PARA A ÁREA
+	NEBULA?
 	"""
 	keyWait
 		any = false
@@ -98,7 +103,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -107,7 +112,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -121,7 +126,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -131,33 +136,38 @@ script 1 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I OPEN THE DOOR TO
-	MURKLAND⋯NEBULA AREA,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"THE LAND OF CHAOS."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	YOU HAVE THE POWER
-	TO DEFEAT DARKNESS
+	EU ABRO A PORTA PARA
+	O MUNDO DAS TREVAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND FIND 100
-	SFRAGS⋯
+	A ÁREA NEBULA,
+	A TERRA DO CAOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHALL I OPEN THE
-	DOOR TO MURKLAND?
+	VOCÊ DEVE MOSTRAR O
+	PODER DE VENCER AS
+	TREVAS
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E ENCONTRAR 100
+	FRAG-S...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	QUER QUE EU ABRA A
+	PORTA PARA O MUNDO
+	DAS TREVAS?
 	"""
 	keyWait
 		any = false
@@ -173,11 +183,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"I HOPE YOU'RE READY⋯"
+	"ESPERO QUE ESTEJA\nPRONTO..."
 	keyWait
 		any = false
 	clearMsg
-	"MUWAHAHAHAHA!!!"
+	"UA HA HA HA HA HA!!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -188,8 +198,8 @@ script 2 mmbn5 {
 	soundEnableTextSFX
 	clearMsg
 	"""
-	THE WAY IS OPEN.
-	GO FORTH!
+	A PORTA SE ABRIU.
+	PROSSIGA!
 	"""
 	keyWait
 		any = false
@@ -206,8 +216,9 @@ script 3 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	SHALL I CLOSE THE
-	DOOR TO NEBULA AREA?
+	DESEJA QUE EU FECHE
+	A PORTA PARA A ÁREA
+	NEBULA?
 	"""
 	keyWait
 		any = false
@@ -223,7 +234,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -232,7 +243,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -246,7 +257,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I see⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -256,17 +267,17 @@ script 4 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	VERY WELL⋯ I SHALL
-	CLOSE THE DOOR.
+	POIS BEM...
+	FECHAREI A PORTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MUUUN!!!"
+	"MUUUM!!!"
 	keyWait
 		any = false
 	clearMsg
-	"KAAAAAAH!!!"
+	"RUAAAAAAH!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -283,14 +294,14 @@ script 4 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	THE WORLD-INFECTING
-	VIRUSES HAVE RETURN-
-	ED TO MURKLAND.
+	OS VÍRUS QUE INFECTA-
+	RAM O MUNDO VOLTARAM
+	AO MUNDO DAS TREVAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A FINE OUTCOME⋯"
+	"UM ÓTIMO DESFECHO..."
 	keyWait
 		any = false
 	flagClear
@@ -306,24 +317,23 @@ script 5 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I am one of the 5
-	who guard the Under-
-	net door beyond.
+	Eu sou um dos 5 que
+	guardam a porta além
+	da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must endure our
-	trial before you can
-	open the door.
+	Você precisará passar
+	pela nossa provação
+	para abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you brave
-	our trial?
+	Tentará desafiá-la?
 	"""
 	keyWait
 		any = false
@@ -337,7 +347,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No problem!\n"
+	" Já é!\n"
 	option
 		brackets = 0
 		left = 1
@@ -346,7 +356,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Wait a sec!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -357,13 +367,13 @@ script 5 mmbn5 {
 			jump = 6,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Then let's
-	see if you can
-	endure our trial!
+	Então, vejamos se você
+	supera nossa provação!
 	"""
 	keyWait
 		any = false
@@ -378,9 +388,9 @@ script 6 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I understand.
-	Return when you wish
-	to brave our trial.
+	Entendo. Volte quando
+	quiser tentar passar
+	pela nossa provação.
 	"""
 	keyWait
 		any = false
@@ -393,23 +403,23 @@ script 7 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Well done.
-	I have clearly
-	seen your power.
+	Bom trabalho.
+	Sua força é evidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -422,15 +432,16 @@ script 8 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -441,15 +452,15 @@ script 9 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Is that the extent
-	of your power?
+	É esse o limite da sua
+	força?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Return again when
-	you are ready.
+	Retorne quando se
+	sentir preparado.
 	"""
 	keyWait
 		any = false
@@ -462,60 +473,61 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I m-may l-look
-	like this
+	E p-posso ter e-esta
+	aparência,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I'm actually
-	shy and awkward.
+	mas, na verdade, eu
+	sou super tímido e
+	ansioso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I g-get all nervous
-	when I meet someone
-	the first t-time.
+	Eu f-fico muito nervoso
+	quando falo com alguém
+	pela primeira v-vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm begging you⋯
-	Don't make me any
-	more nervous.
+	Eu imploro...
+	Não me deixa mais
+	nervoso, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about if I give
-	you some good info?
+	Que tal eu te dar uma
+	informação das boas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	"68799876"
-	It's a lotto number.
+	É um número de loteria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now please step back
-	at least 6 feet.
-	I can hardly breath⋯
+	Agora, por favor, dá
+	uns 6 passos pra trás.
+	Tá difícil respirar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I might pass out
-	if you don't.
+	Se você não se afastar,
+	eu VOU desmaiar.
 	"""
 	keyWait
 		any = false
@@ -525,11 +537,11 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"I HOPE YOU'RE READY⋯"
+	"ESPERO QUE ESTEJA\nPRONTO..."
 	keyWait
 		any = false
 	clearMsg
-	"MUWAHAHAHAHA!!!"
+	"UA HA HA HA HA HA!!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -540,8 +552,8 @@ script 15 mmbn5 {
 	soundEnableTextSFX
 	clearMsg
 	"""
-	THE WAY IS OPEN.
-	GO FORTH!
+	O CAMINHO SE ABRIU.
+	PROSSIGA!
 	"""
 	keyWait
 		any = false
@@ -554,16 +566,16 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	I sense a terrible
-	DarkPower beyond.
+	Lan, eu tô sentindo
+	um Poder das Trevas
+	absurdo à frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we really gonna
-	enter?
+	A gente vai mesmo
+	entrar?
 	"""
 	keyWait
 		any = false
@@ -579,7 +591,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -588,7 +600,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -603,8 +615,8 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK then,let's
-	do it,Lan!!!
+	Beleza, então.
+	Vamos nessa, Lan!!
 	"""
 	keyWait
 		any = false
@@ -618,13 +630,13 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go when you're
-	ready,Lan!!!
+	A gente vai assim que
+	cê tiver pronto, Lan!
 	"""
 	keyWait
 		any = false
@@ -639,13 +651,12 @@ script 220 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm a BugFrag
-	trader.
+	Eu troco FragBugs.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna trade?\n"
+	"Quer trocar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -656,7 +667,7 @@ script 220 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -665,7 +676,7 @@ script 220 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -681,7 +692,7 @@ script 220 mmbn5 {
 }
 script 221 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -691,8 +702,8 @@ script 222 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false

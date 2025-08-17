@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,we did it!"
+	"Conseguimos, Lan!"
 	keyWait
 		any = false
 	end
@@ -13,26 +13,26 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nice work,MegaMan!"
+	"Mandou bem, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,now let's run
-	that errand for Mom!
+	Tá, agora, vamos fazer
+	aquele favor pra mamãe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She said the Kitchen
-	Comp is in ACDC
-	Area2!
+	Ela disse que o
+	CPU Cozinha fica
+	na Área ACDC 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's head out!"
+	"Bora pra lá!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,7 +43,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end

@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"You've come."
+	"Olha só quem veio."
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,I'm sorry I
-	hit you.
+	Chaud, desculpa
+	ter te batido.
 	"""
 	keyWait
 		any = false
@@ -30,9 +30,9 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Heh. So then,you've
-	realized what you
-	need to do?
+	He. Finalmente caiu a
+	ficha quanto ao que
+	você deve fazer?
 	"""
 	keyWait
 		any = false
@@ -45,16 +45,16 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm determined to
-	save MegaMan!
+	Eu tô determinado
+	a salvar o MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please let me use
-	the Navi you said
-	was ready for me!
+	Por favor, me deixa
+	usar o Navi que você
+	preparou pra mim!
 	"""
 	keyWait
 		any = false
@@ -66,13 +66,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Certainly."
+	"Mas é claro."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,hand over your
-	PET.
+	Me dê aqui o seu PET,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -81,7 +81,7 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Lan gives
+	Lan entrega
 	"PET"!!!
 	"""
 	keyWait
@@ -97,13 +97,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Hold on a moment."
+	"Só um momento."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Begin Navi program
-	installation.
+	Iniciar instalação
+	de programa NetNavi.
 	"""
 	keyWait
 		any = false
@@ -117,22 +117,22 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	mugshotHide
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	" "
@@ -140,7 +140,7 @@ script 7 mmbn5 {
 	" "
 	soundPlay
 		track = 119
-	"*PLING!*"
+	"BLIM!"
 	keyWait
 		any = false
 	clearMsg
@@ -152,17 +152,17 @@ script 8 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Installation done.
-	Lan,that Navi is
-	very special to me.
+	Instalação concluída.
+	Lan, esse Navi é muito
+	especial pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you get MegaMan
-	back,be sure and
-	return him to me.
+	Depois que você
+	recuperar o MegaMan,
+	é bom me devolver ele.
 	"""
 	keyWait
 		any = false
@@ -185,7 +185,7 @@ script 10 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gets
+	Lan recebe
 	"PET"!!!
 	"""
 	keyWait
@@ -200,13 +200,13 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Wait?!
-	Could this be?
+	... Ué?!
+	Não pode ser!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Er,Chaud?!"
+	"Er, Chaud?!"
 	keyWait
 		any = false
 	end
@@ -217,7 +217,7 @@ script 12 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod*"
+	"Hm."
 	keyWait
 		any = false
 	end
@@ -227,22 +227,22 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W⋯Wow! This really
-	is a special Navi!
+	C-caramba! É um
+	Navi especial MESMO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hope we can get
-	along,・
+	Espero que a gente se
+	dê bem.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"ProtoMan!!!"
@@ -260,9 +260,9 @@ script 14 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We'll have to work
-	hard to make up for
-	MegaMan's absence.
+	Vamos dar tudo de nós
+	para compensar pela
+	ausência do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -273,8 +273,8 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,thanks for
-	believing in me!
+	Chaud, valeu por
+	acreditar em mim!
 	"""
 	keyWait
 		any = false
@@ -286,13 +286,13 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Heh."
+	"He."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let me explain
-	the next mission⋯
+	Agora, vou explicar
+	a próxima missão...
 	"""
 	keyWait
 		any = false
@@ -304,7 +304,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
@@ -318,40 +318,39 @@ script 18 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The next area we're
-	liberating is End
-	Area2.
+	A próxima área que
+	vamos liberar é a
+	Área Endo 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	End Area is on the
-	west side of
-	DenCity.
+	Essa área fica a
+	oeste de DenCity.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the Net for the
-	town of End City.
+	É a Rede da
+	Cidade de Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can get to End
-	Area from Oran
-	Area2.
+	É possível acessar a
+	Área Endo a partir da
+	Área Oran 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Begin by paying a
-	visit to check on
-	things.
+	Pra começar, dê uma
+	conferida lá pra ver
+	como andam as coisas.
 	"""
 	keyWait
 		any = false
@@ -363,7 +362,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -374,7 +373,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Best of luck."
+	"Boa sorte pra vocês."
 	keyWait
 		any = false
 	end
@@ -383,7 +382,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"You've come."
+	"Você veio."
 	keyWait
 		any = false
 	clearMsg
@@ -394,13 +393,14 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Baryl,I'll do it."
+	"Baryl, eu topo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to get
-	MegaMan back myself!
+	Eu vou resgatar o
+	MegaMan com as minhas
+	próprias mãos!
 	"""
 	keyWait
 		any = false
@@ -413,9 +413,8 @@ script 23 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Heh. So,you've
-	realized what you
-	need to do,then?
+	He. Então, você entendeu
+	o que deve fazer...
 	"""
 	keyWait
 		any = false
@@ -427,7 +426,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"Uhum!"
 	keyWait
 		any = false
 	clearMsg
@@ -439,16 +438,16 @@ script 25 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Well,you've made
-	the right choice.
+	Bem, você fez
+	a escolha certa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,lend me your
-	PET. I'll give you
-	the new Navi.
+	Por favor, me empreste
+	o seu PET. Vou instalar
+	o seu novo Navi.
 	"""
 	keyWait
 		any = false
@@ -457,7 +456,7 @@ script 25 mmbn5 {
 script 26 mmbn5 {
 	msgOpen
 	"""
-	Lan gives
+	Lan entrega
 	"PET"!!!
 	"""
 	keyWait
@@ -473,13 +472,13 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Hold on a moment."
+	"Só um momento."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Begin Navi program
-	installation.
+	Iniciar instalação
+	de programa NetNavi.
 	"""
 	keyWait
 		any = false
@@ -493,28 +492,28 @@ script 27 mmbn5 {
 script 28 mmbn5 {
 	mugshotHide
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	soundDisableTextSFX
 	soundPlay
 		track = 119
-	"*PLING!*"
+	"BLIM!"
 	keyWait
 		any = false
 	clearMsg
@@ -526,17 +525,17 @@ script 29 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Installation done.
-	Lan,that Navi is
-	very special to me.
+	Instalação concluída.
+	Lan, esse Navi é muito
+	especial pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you get MegaMan
-	back,be sure and
-	return him to me.
+	Depois que você
+	recuperar o MegaMan,
+	por favor, devolva-o.
 	"""
 	keyWait
 		any = false
@@ -550,7 +549,7 @@ script 30 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod*"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -561,7 +560,7 @@ script 31 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan gets
+	Lan recebe
 	"PET"!!!
 	"""
 	keyWait
@@ -576,13 +575,13 @@ script 32 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Wait?!
-	Could this be?
+	... Ué?!
+	Não pode ser!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Er,Baryl?!"
+	"Er, Baryl?!"
 	keyWait
 		any = false
 	end
@@ -593,7 +592,7 @@ script 33 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod*"
+	"... Hm."
 	keyWait
 		any = false
 	end
@@ -603,22 +602,22 @@ script 34 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	W⋯Wow! This really
-	is a special Navi!
+	C-caramba! É um
+	Navi especial MESMO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hope we can get
-	along,・
+	Espero que a gente se
+	dê bem.
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"Colonel!!!"
@@ -636,9 +635,9 @@ script 35 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We'll have to work
-	hard to make up for
-	MegaMan's absence.
+	Vamos dar tudo de nós
+	para compensar pela
+	ausência do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -649,8 +648,8 @@ script 36 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Baryl,thanks for
-	believing in me!
+	Baryl, valeu por
+	acreditar em mim!
 	"""
 	keyWait
 		any = false
@@ -662,13 +661,13 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Heh."
+	"He."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let me explain
-	the next mission⋯
+	Agora, vou explicar
+	a próxima missão...
 	"""
 	keyWait
 		any = false
@@ -694,40 +693,39 @@ script 39 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	The next area we're
-	liberating is End
-	Area2.
+	A próxima área que
+	iremos liberar é a
+	Área Endo 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	End Area is on the
-	west side of
-	DenCity.
+	Essa área fica a
+	oeste de DenCity.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the Net for the
-	town of End City.
+	É a Rede da
+	Cidade de Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can get to End
-	Area from Oran
-	Area2.
+	É possível acessar a
+	Área Endo a partir da
+	Área Oran 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Begin by paying a
-	visit to check on
-	things.
+	Para começar, dê uma
+	conferida lá para ver
+	como andam as coisas.
 	"""
 	keyWait
 		any = false
@@ -739,7 +737,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -750,7 +748,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Best of luck."
+	"Boa sorte para vocês."
 	keyWait
 		any = false
 	end

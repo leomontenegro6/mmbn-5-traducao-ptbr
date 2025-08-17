@@ -6,19 +6,19 @@ script 0 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"It's totally still."
+	"Está completamente\nimóvel."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears to be
-	the ruins of data
-	from long ago.
+	Parecem ser ruínas de
+	dados de muito tempo
+	no passado.
 	"""
 	keyWait
 		any = false
@@ -29,14 +29,14 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WONDER WHAT
-	NEBULA PLANS
-	TO DO NEXT?
+	O QUE SERÁ QUE A
+	NEBULA PLANEJA FAZER
+	AGORA?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M SO SCARED."
+	"QUE MEDO!"
 	keyWait
 		any = false
 	end
@@ -46,16 +46,15 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You'd better hurry
-	and evacuate to
-	a safe place.
+	É melhor você evacuar
+	logo pra um local seguro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean⋯ If
-	there is one.
+	Digo... se é que existe
+	um.
 	"""
 	keyWait
 		any = false
@@ -66,13 +65,12 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DON'T TALK TO
-	ME!
+	NÃO FALA COMIGO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"JUST GO AWAY!"
+	"SÓ SOME DAQUI!"
 	keyWait
 		any = false
 	end
@@ -81,14 +79,14 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Hahh,hahh⋯"
+	"Rarh... Rarh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to run wild!
-	I've got to let off
-	some steam!
+	Eu quero sair por aí
+	na doida!
+	Estravazar tudo!
 	"""
 	keyWait
 		any = false
@@ -99,8 +97,8 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT HAPPENED
-	JUST NOW?
+	O QUE ACABOU DE
+	ACONTECER?
 	"""
 	keyWait
 		any = false
@@ -111,16 +109,16 @@ script 31 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ooogh⋯What
-	just happened?
+	Oough...
+	O que aconteceu comigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't remember
-	anything. My head
-	still hurts⋯!
+	Não consigo me lembrar
+	de nada.
+	Ai, minha cabeça...!
 	"""
 	keyWait
 		any = false
@@ -131,14 +129,17 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE REAL WORLD
-	AND THE NET ARE
-	QUIETER THAN AT
+	O MUNDO REAL E A REDE
+	ESTÃO MAIS SILENCIOSOS
+	AGORA DO QUE EM
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ANY TIME IN HISTORY."
+	"""
+	QUALQUER OUTRO PERÍODO
+	DA HISTÓRIA.
+	"""
 	keyWait
 		any = false
 	end
@@ -148,9 +149,9 @@ script 41 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Yesterday's attack
-	deeply traumatized
-	people.
+	O ataque de ontem
+	traumatizou forte
+	as pessoas.
 	"""
 	keyWait
 		any = false

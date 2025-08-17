@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Somebody's there,
-	Lan! ⋯I-It's⋯
+	Tem alguém aqui, Lan!
+	... É-é o...
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"SerchMan!"
+	"SearchMan!"
 	keyWait
 		any = false
 	end
@@ -31,7 +31,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -40,13 +40,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"SerchMan!"
+	"SearchMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯⋯⋯
-	What's going on?!
+	.........
+	O que aconteceu?!
 	"""
 	keyWait
 		any = false
@@ -65,7 +65,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -79,8 +79,8 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	⋯⋯⋯
-	What's going on?!
+	.........
+	O que aconteceu?!
 	"""
 	keyWait
 		any = false
@@ -91,9 +91,9 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Check the system,
-	MegaMan! It's been
-	illegally accessed!
+	Confere aí o sistema,
+	MegaMan! Aposto que
+	ele foi invadido!
 	"""
 	keyWait
 		any = false
@@ -105,7 +105,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -115,9 +115,9 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's a comms system.
-	But it's completely
-	fine⋯
+	É um sistema de
+	comunicações.
+	Mas tá 100% normal...
 	"""
 	keyWait
 		any = false
@@ -130,31 +130,31 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe SerchMan was
-	fixing it?
+	Será que o SearchMan
+	tava consertando ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He could at least
-	have said hello.
+	Poxa.
+	Ele podia, pelo menos,
+	dar um "oi" pra gente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Instead of jacking
-	out like he was
-	running away⋯
+	em vez de desconectar,
+	como se tivesse fugindo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,well. No harm
-	done. Let's get back
-	to the castle!
+	Bom, acho que o que
+	importa é que tá tudo
+	bem. Pro castelo!
 	"""
 	keyWait
 		any = false
@@ -165,31 +165,31 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe NumberMan was
-	fixing it?
+	Será que o NumberMan
+	tava consertando ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He could at least
-	have said hello.
+	Poxa.
+	Ele podia, pelo menos,
+	dar um "oi" pra gente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Instead of jacking
-	out like he was
-	running away⋯
+	em vez de desconectar,
+	como se tivesse fugindo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,well. No harm
-	done. Let's get back
-	to the castle!
+	Bom, acho que o que
+	importa é que tá tudo
+	bem. Pro castelo!
 	"""
 	keyWait
 		any = false
@@ -199,7 +199,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right. Let's go!"
+	"É. Vamos!"
 	keyWait
 		any = false
 	end

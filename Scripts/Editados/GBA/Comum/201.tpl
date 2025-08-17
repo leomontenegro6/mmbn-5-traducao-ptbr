@@ -7,9 +7,9 @@ script 0 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A thick grove
-	of bamboo grows
-	here.
+	Há uma densa
+	plantação de bambu
+	aqui.
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	This sturdy
-	tree grows
-	vigorously.
+	Essa árvore robusta
+	cresce vigorosamente.
 	"""
 	keyWait
 		any = false
@@ -29,16 +28,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Relaxing music
-	plays from this
-	speaker.
+	Esse alto-falante
+	está reproduzindo
+	uma música relaxante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a nostalgic
-	tune from long ago.
+	É uma melodia nostálgica
+	de décadas atrás.
 	"""
 	keyWait
 		any = false
@@ -47,17 +46,17 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This tree is
-	covered in lush
-	green leaves.
+	Essa árvore está
+	coberta de folhas
+	verdes exuberantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The life force of
-	nature can be felt
-	through it.
+	Pode-se sentir com cla-
+	reza a força vital da
+	natureza através delas.
 	"""
 	keyWait
 		any = false
@@ -66,16 +65,15 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A speaker is
-	attached to a
-	new pole.
+	Um alto-falante
+	acoplado a um
+	poste novinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like it
-	was just installed.
+	Parece recém-instalado.
 	"""
 	keyWait
 		any = false
@@ -84,16 +82,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The speaker plays
-	music at a rather
-	low volume.
+	O alto-falante toca
+	música a um volume
+	bem baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's music that
-	soothes the soul.
+	É uma melodia que
+	acalenta a alma.
 	"""
 	keyWait
 		any = false
@@ -111,16 +109,17 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	The sound of bamboo
-	rustling in the wind
-	is a pleasing one.
+	O barulho do vento
+	balançando os bambus
+	é muito agradável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It somehow has a
-	soothing effect.
+	Tem um efeito
+	misteriosamente
+	calmante.
 	"""
 	keyWait
 		any = false

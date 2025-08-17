@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No good⋯
-	It's locked.
+	Droga...
+	Tá trancado.
 	"""
 	keyWait
 		any = false
@@ -20,22 +20,21 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	The door's
-	locked.
+	A porta tá trancada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the control
-	panel wants
-	us to jack in.
+	E o painel de controle
+	espera que a gente se
+	conecte nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	N-n-now's my
+	E-e-esta é a minha
 	chance!
 	"""
 	keyWait
@@ -46,14 +45,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Calm down,will ya?"
+	"""
+	Me poupe dessa afobação.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As you can see here,
-	this is a mission
-	for 3 to jack in.
+	Como dá para ver, esta
+	é uma missão para três
+	usuários se conectarem.
 	"""
 	keyWait
 		any = false
@@ -63,11 +64,11 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"I knew that!"
+	"E-eu sabia!"
 	keyWait
 		any = false
 	clearMsg
-	"Keep cool,keep cool⋯"
+	"Fica calmo... Calmo..."
 	keyWait
 		any = false
 	end
@@ -76,7 +77,10 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stay alert,you two!"
+	"""
+	Não baixem a guarda,
+	os dois!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +91,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Of course!!!"
+	"Claro!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -98,7 +102,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"I will⋯"
+	"Nem precisava falar."
 	keyWait
 		any = false
 	clearMsg
@@ -109,14 +113,14 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well,here goes."
+	"Bom, lá vai."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false
@@ -127,21 +131,20 @@ script 8 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	The door's
-	locked.
+	A porta tá trancada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the control
-	panel wants
-	us to jack in.
+	E o painel de controle
+	espera que a gente se
+	conecte nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"N-n-now's my chance!"
+	"E-e-essa é a\nminha chance!"
 	keyWait
 		any = false
 	end
@@ -151,25 +154,25 @@ script 9 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Dingo,
-	you should chill
-	out a bit,huh!
+	Dingo, acho melhor
+	você esfriar um pouco
+	a cabeça, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As you can see here,
-	this is a mission
-	for 3 to jack in.
+	Como dá pra ver,
+	essa é uma missão pra
+	três NetLutadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must work
-	closely with one
-	another,huh.
+	A gente tem que
+	trabalhar em equipe,
+	e bem! É.
 	"""
 	keyWait
 		any = false
@@ -179,19 +182,19 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"I know that."
+	"Eu sei disso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the warrior's
-	blood within me
-	wants to fight now!
+	Mas o sangue de
+	guerreiro dentro de
+	mim quer lutar agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm raring to go!"
+	"Eu tô fervendo pra ir!"
 	keyWait
 		any = false
 	end
@@ -200,7 +203,10 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stay alert,you two!"
+	"""
+	Não baixem a guarda,
+	os dois!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -212,8 +218,7 @@ script 12 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Right back at
-	ya,Lan!
+	Digo o mesmo, Lan!
 	"""
 	keyWait
 		any = false
@@ -226,8 +231,8 @@ script 13 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I-I'm already
-	on edge,huh!
+	A-a minha guarda
+	tá no teto, é!
 	"""
 	keyWait
 		any = false
@@ -239,14 +244,14 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well,here goes."
+	"Bom, lá vai."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

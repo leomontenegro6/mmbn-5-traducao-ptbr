@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SCILAB IS SECURE
-	AS LONG AS I'M
-	SYSTEM ADMIN.
+	O SCILAB FICARÁ BEM
+	COMIGO COMO ADMINIS-
+	TRADOR DO SISTEMA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A-HA-HA!"
+	"AH HA HA!"
 	keyWait
 		any = false
 	end
@@ -22,17 +22,17 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'LL PROTECT
-	THIS SYSTEM
-	WITH MY LIFE!
+	EU PROTEGEREI ESTE
+	SISTEMA COM A MINHA
+	VIDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M NOT AFRAID
-	OF NEBULA!
-	BRING 'EM ON!
+	A NEBULA NÃO ME
+	ASSUSTA!
+	ELES QUE VENHAM!
 	"""
 	keyWait
 		any = false
@@ -47,8 +47,8 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DESTROY! DESTROY
-	THE MAIN SYSTEM!
+	DESTRUIR! DESTRUIR
+	O SISTEMA CENTRAL!
 	"""
 	keyWait
 		any = false
@@ -59,16 +59,17 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SELF-TEST UNDERWAY
-	FOR RESIDUAL EFFECTS
-	OF THAT ANOMALY.
+	TESTE EM ANDAMENTO
+	PARA EFEITOS RESIDUAIS
+	DAQUELA ANOMALIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE DON'T BOTHER
-	ME FOR A WHILE.
+	PEÇO QUE EVITE ME
+	INCOMODAR POR UM
+	TEMPO.
 	"""
 	keyWait
 		any = false

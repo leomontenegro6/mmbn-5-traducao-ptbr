@@ -8,7 +8,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Stopping the drill!"
+	"Parando a broca!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,9 +16,8 @@ script 0 mmbn5 {
 	soundPlay
 		track = 212
 	"""
-	MegaMan pressed
-	the control
-	switch!!!
+	MegaMan apertou o
+	botão de controle!!
 	"""
 	keyWait
 		any = false
@@ -26,8 +25,7 @@ script 0 mmbn5 {
 	soundPlay
 		track = 236
 	"""
-	The drill
-	slowed down!!!
+	A broca desacelerou!!
 	"""
 	keyWait
 		any = false
@@ -38,9 +36,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The drill's control
-	system is running
-	normally right now.
+	O sistema de controle
+	da broca está operando
+	normalmente.
 	"""
 	keyWait
 		any = false

@@ -9,16 +9,15 @@ script 0 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm Dr.Hikari Sr.'s
-	Navi.
+	Eu sou o Navi do
+	Dr. Hikari mais velho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must be
-	Dr.Hikari
-	Jr.'s Navi.
+	Você deve ser o Navi
+	do Dr. Hikari mais novo.
 	"""
 	keyWait
 		any = false
@@ -26,29 +25,32 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Um,actually,I'm
-	the Navi of his
-	son,Lan.
+	Er, na verdade, eu sou
+	o Navi do filho do
+	Dr. Hikari, o Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Then you are the"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	one carrying out Dr.
-	Hikari Sr.'s wishes.
+	Então, é você quem
+	está herdando e
+	executando os desejos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was told to give
-	this to you.
+	do Dr. Hikari mais velho.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Fui instruído a dar isto
+	a você.
 	"""
 	keyWait
 		any = false
@@ -60,7 +62,7 @@ script 0 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -74,16 +76,16 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"It is yours now."
+	"É seu agora."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I wonder if this
-	is a key to the
-	VisionBurst?
+	Será que isto é
+	uma chave para a
+	Visão Passada?
 	"""
 	keyWait
 		any = false
@@ -91,35 +93,35 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I also have a
-	message from the Dr.
+	Também tenho aqui uma
+	mensagem do doutor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The 4th rock-crusher
-	machine. A box that
-	blocks the rocks
+	A quarta máquina de
+	quebrar rochas. Uma
+	caixa que detém as
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"marks the spot⋯"
+	"rochas marca o local..."
 	keyWait
 		any = false
 	clearMsg
-	"My work is done."
+	"Meu trabalho está feito."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Um⋯ Whoa!"
+	"Hum... Opa!"
 	keyWait
 		any = false
 	clearMsg
-	"That Navi⋯"
+	"Esse Navi..."
 	keyWait
 		any = false
 	flagSet
@@ -132,19 +134,19 @@ script 1 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"It's totally still."
+	"Está completamente\nimóvel."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears to be
-	the ruins of data
-	from long ago.
+	Parecem ser ruínas de
+	dados de muito tempo no
+	passado.
 	"""
 	keyWait
 		any = false
@@ -164,8 +166,8 @@ script 10 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -178,7 +180,7 @@ script 10 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -187,7 +189,7 @@ script 10 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -203,7 +205,7 @@ script 10 mmbn5 {
 }
 script 11 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -213,8 +215,8 @@ script 12 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -229,22 +231,23 @@ script 13 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I d-don't like the
-	looks of this⋯
+	A s-situação aqui
+	tá bem ruim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't just
-	close up shop.
+	Mas eu não posso
+	simplesmente fechar
+	a loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -257,7 +260,7 @@ script 13 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -266,7 +269,7 @@ script 13 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

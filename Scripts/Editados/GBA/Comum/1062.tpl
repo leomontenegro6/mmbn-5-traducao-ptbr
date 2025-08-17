@@ -60,8 +60,9 @@ script 7 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	I'll fog ya up!
-	Dark Cloud!
+	Eu vou enevoar o
+	futuro de vocês!
+	Nuvem Negra!
 	"""
 	keyWait
 		any = false
@@ -82,9 +83,9 @@ script 11 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	You're too weak
-	to defeat the
-	likes of me!
+	Você é fraco demais
+	para derrotar um
+	adversário como eu!
 	"""
 	keyWait
 		any = false
@@ -95,22 +96,22 @@ script 12 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Agh⋯!
-	Defeated⋯?
-	It cannot be⋯!
+	Agh...!
+	Vencido...?
+	Não pode ser...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't think
-	you'll be making
-	it back alive⋯!
+	Mas não pensem que
+	vocês irão voltar
+	com vida...!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ha,ha,HA!"
+	"Ha ha HAAAA!"
 	keyWait
 		any = false
 	end
@@ -124,8 +125,8 @@ script 14 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Leaving already?
-	How boring.
+	Já vai embora?
+	Sem graça...
 	"""
 	keyWait
 		any = false
@@ -136,9 +137,9 @@ script 15 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Hurry back,ha ha!
-	I'll welcome you
-	with thunderclouds!
+	Voltem logo aqui, ha ha!
+	Vou receber vocês com
+	nuvens de tempestade!
 	"""
 	keyWait
 		any = false

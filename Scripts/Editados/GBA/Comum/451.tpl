@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Looks like Nebula
-	is on the move.
+	Parece que a Nebula
+	tá aprontando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a really bad
-	feeling about this.
+	Eu tô com um péssimo
+	pressentimento...
 	"""
 	keyWait
 		any = false
@@ -23,13 +23,13 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"You lookin' at me?"
+	"Vai encarar, é?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're making me
-	ANGRY!
+	Cê tá me deixando
+	com tanta RAIVA!
 	"""
 	keyWait
 		any = false
@@ -40,14 +40,13 @@ script 20 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I don't remember
-	anything I did
-	a little while ago.
+	Eu não lembro de nada
+	que eu tava fazendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?"
+	"O que tá rolando?"
 	keyWait
 		any = false
 	end
@@ -57,17 +56,16 @@ script 30 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I thought the world
-	was over
-	yesterday!
+	Eu achei que o mundo
+	ia acabar ontem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What will happen
-	to us now?
-	Someone help us!
+	O que vai ser
+	da gente agora?
+	Alguém, socorro!
 	"""
 	keyWait
 		any = false

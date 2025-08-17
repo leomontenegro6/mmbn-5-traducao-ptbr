@@ -4,18 +4,18 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"So you've come⋯"
+	"Então, você veio..."
 	keyWait
 		any = false
 	clearMsg
-	"I am NapalmMan."
+	"Eu sou NapalmMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to beat
-	me if you want the
-	booster system back.
+	E você vai ter que me
+	vencer se quiser o
+	sistema impulsionador.
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Then prepare to be
-	defeated! I will get
-	the booster system!
+	Então prepare-se para
+	a derrota! Eu vou
+	reaver o sistema!
 	"""
 	keyWait
 		any = false
@@ -42,18 +42,18 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"So you've come⋯"
+	"Então, você veio..."
 	keyWait
 		any = false
 	clearMsg
-	"I am TomahawkMan."
+	"Eu sou TomahawkMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to beat
-	me if you want the
-	booster system back.
+	E você vai ter que me
+	vencer se quiser o
+	sistema impulsionador.
 	"""
 	keyWait
 		any = false
@@ -66,8 +66,8 @@ script 3 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Beat you?
-	No trouble!
+	Vencer você?
+	Desafio aceito!
 	"""
 	keyWait
 		any = false
@@ -80,8 +80,9 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go,ProtoMan!
-	Battle routine,set!
+	Vamos lá, ProtoMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -94,8 +95,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go,Colonel!
-	Battle routine,set!
+	Vamos lá, Colonel!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -107,7 +109,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -118,7 +120,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"I'll tear you apart!"
+	"Eu vou te explodir!"
 	keyWait
 		any = false
 	end
@@ -127,7 +129,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -139,8 +141,9 @@ script 9 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I'll use you to
-	sharpen my tomahawk!
+	Hora de te usar
+	pra afiar a minha
+	machadinha!
 	"""
 	keyWait
 		any = false

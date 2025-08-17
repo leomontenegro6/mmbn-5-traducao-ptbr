@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Sleep well? Today's
-	the final battle!
+	Dormiu bem?
+	Hoje é o dia da
+	batalha final!
 	"""
 	keyWait
 		any = false
@@ -18,20 +19,20 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,like a log."
+	"Aham! Feito uma pedra."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go meet
-	the others.
+	Bora lá se reunir
+	com os outros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll be in front
-	of Higsby's,right?
+	Eles vão tá na frente
+	da Loja do Higsby, né?
 	"""
 	keyWait
 		any = false
@@ -43,14 +44,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's not forget to
-	say bye to Mom
-	before we go!
+	Só não esquece de
+	se despedir da mamãe
+	antes da gente sair!
 	"""
 	keyWait
 		any = false
@@ -62,13 +63,14 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"And when it's over,"
+	"E, quando tudo acabar,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we'll say,"We're
-	home" with Dad!
+	a gente vai vir aqui
+	e falar "chegamos!"...
+	com o papai!
 	"""
 	keyWait
 		any = false
@@ -80,7 +82,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yep!"
+	"Vamos, sim!"
 	keyWait
 		any = false
 	end

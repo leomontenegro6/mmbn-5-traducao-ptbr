@@ -5,9 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,we've activated
-	another control
-	switch!
+	Tá, a gente apertou
+	outro botão de controle!
 	"""
 	keyWait
 		any = false
@@ -17,7 +16,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you OK,Dex?"
+	"Melhorou, Dex?"
 	keyWait
 		any = false
 	end
@@ -27,15 +26,15 @@ script 2 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	We're dancin' for
-	dear life!
+	A gente tá dançando
+	pra não morrer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we won't hold
-	out for long!
+	E a gente não vai
+	durar muito mais tempo!
 	"""
 	keyWait
 		any = false
@@ -46,13 +45,13 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just a little more,
-	guys!
+	Só mais um pouquinho,
+	gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,jack out!"
+	"MegaMan, desconecta!"
 	keyWait
 		any = false
 	clearMsg
@@ -63,13 +62,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack me in to the
-	next control box!
+	Me conecta na próxima
+	caixa de controle!
 	"""
 	keyWait
 		any = false
@@ -81,7 +80,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's move it!"
+	"Sebo nas canelas!"
 	keyWait
 		any = false
 	end

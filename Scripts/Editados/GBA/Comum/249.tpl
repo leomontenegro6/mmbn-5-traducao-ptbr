@@ -3,8 +3,8 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A huge door bars
-	the way.
+	Uma enorme porta
+	barra o caminho.
 	"""
 	keyWait
 		any = false
@@ -24,7 +24,7 @@ script 1 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -40,15 +40,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The Security Cube
-	for Dex's HP.
+	O Cubo de Segurança
+	da página do Dex.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can't be unlocked
-	without its P-Code!
+	Não pode ser
+	desbloqueado
+	sem o Código-P!
 	"""
 	keyWait
 		any = false
@@ -60,7 +61,7 @@ script 3 mmbn5 {
 		jumpIfTeamColonel = 4
 	msgOpen
 	"""
-	ProtoMan used:
+	ProtoMan usou:
 	"
 	"""
 	printItem
@@ -76,7 +77,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Colonel used:
+	Colonel usou:
 	"
 	"""
 	printItem
@@ -113,8 +114,8 @@ script 5 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -127,7 +128,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -136,7 +137,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -152,7 +153,7 @@ script 5 mmbn5 {
 }
 script 6 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -162,8 +163,8 @@ script 7 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -178,22 +179,23 @@ script 8 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I d-don't like the
-	looks of this⋯
+	A s-situação aqui
+	tá bem ruim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't just
-	close up shop.
+	Mas eu não posso
+	simplesmente fechar
+	a loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -206,7 +208,7 @@ script 8 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -215,7 +217,7 @@ script 8 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -231,7 +233,7 @@ script 8 mmbn5 {
 }
 script 9 mmbn5 {
 	msgOpen
-	"The NetDealer's gone."
+	"O NetVendedor foi\nembora."
 	keyWait
 		any = false
 	end

@@ -10,21 +10,20 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS AN IMPORTANT
-	ANNOUNCEMENT!!!
+	ANÚNCIO IMPORTANTE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REPAIRS TO THE ROAD
-	CONNECTING ACDC AREA
-	TO ORAN AREA ARE NOW
+	OS REPAROS À ESTRADA
+	LIGANDO A ÁREA ACDC
+	À ÁREA ORAN FORAM
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"FINISHED!!!"
+	"CONCLUÍDOS!!!"
 	keyWait
 		any = false
 	end
@@ -34,22 +33,22 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'd better hurry up
-	and jack out so I
-	can do my homework⋯
+	É melhor eu desconectar
+	logo pra ir fazer o
+	dever de casa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'd still like
-	to check out Oran
-	Area,first.
+	Mas eu quero tanto
+	conferir a Área Oran
+	antes disso...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Decisions,decisions⋯"
+	"Ah, que indecisão..."
 	keyWait
 		any = false
 	end
@@ -59,14 +58,14 @@ script 2 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm trying to beat
-	the long distance
-	running record!
+	Eu tô tentando bater o
+	meu recorde de corrida
+	a longa distância!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Outta the way!"
+	"Sai da frente!"
 	keyWait
 		any = false
 	end
@@ -84,24 +83,25 @@ script 3 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm trying to beat
-	the long distance
-	running record!
+	Eu tô tentando bater o
+	meu recorde de corrida
+	a longa distância!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a little tired
-	but I just got my
-	second wind!
+	Cansei um pouquinho,
+	mas tô sentindo um
+	novo surto de energia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going for a new
-	Cyberworld Record!
+	Eu vou tentar bater
+	um novo recorde no
+	mundo cibernético!
 	"""
 	keyWait
 		any = false
@@ -112,17 +112,16 @@ script 4 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm tired of just
-	hanging out in ACDC
-	Area.
+	Tô cansada de ficar na
+	Área ACDC o tempo todo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's a good
-	idea to visit other
-	areas on occasion.
+	Pode ser uma boa
+	visitar outras áreas,
+	de vez em quando.
 	"""
 	keyWait
 		any = false
@@ -133,21 +132,20 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS AN IMPORTANT
-	ANNOUNCEMENT!!!
+	ANÚNCIO IMPORTANTE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REPAIRS TO THE ROAD
-	CONNECTING SCILAB
-	AREA TO ORAN AREA
+	OS REPAROS À ESTRADA
+	LIGANDO A ÁREA SCILAB
+	À ÁREA ORAN FORAM
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ARE NOW FINISHED!!!"
+	"CONCLUÍDOS!!!"
 	keyWait
 		any = false
 	end
@@ -156,21 +154,21 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WARNING! WARNING!"
+	"ALERTA! ALERTA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EMERGENCY IN THE
-	ORAN AND SCILAB
-	AREAS!
+	EMERGÊNCIA NAS ÁREAS
+	ORAN E SCILAB!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE STAY AWAY
-	FROM THESE AREAS!!!
+	POR FAVOR, MANTENHAM
+	DISTÂNCIA DESSAS
+	ÁREAS!!
 	"""
 	keyWait
 		any = false
@@ -181,17 +179,17 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	There's some kind of
-	disturbance going on
-	in Oran Area.
+	Parece que tá rolando
+	algum tipo de problema
+	lá na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess I'll jack out
-	and do my homework
-	instead of going⋯
+	Acho que vou fazer a
+	lição de casa em vez
+	de ir lá, mesmo...
 	"""
 	keyWait
 		any = false
@@ -202,25 +200,25 @@ script 12 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm trying to beat
-	the long distance
-	running record!
+	Eu tô tentando bater o
+	meu recorde de corrida
+	a longa distância!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?!
-	Something's wrong in
-	Oran Area?!
+	Quê?!
+	Tá rolando alguma coisa
+	na Área Oran?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Grrr⋯ sounds scary
-	but I'll chance it
-	for that record!
+	Grrr... Parece perigoso,
+	mas eu vou arriscar
+	ficar, pelo recorde!
 	"""
 	keyWait
 		any = false
@@ -231,9 +229,9 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS ACDC AREA1
-	STATION,FIRST IN
-	THE CYBERWORLD.
+	ESTA É A ESTAÇÃO DA
+	ÁREA ACDC 1. PRIMEIRA
+	NO MUNDO CIBERNÉTICO.
 	"""
 	keyWait
 		any = false
@@ -249,17 +247,16 @@ script 21 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	So,they freed
-	SciLab Area from
-	Nebula.
+	Então, libertaram a
+	Área SciLab da Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,SciLab Area is
-	a tad too serious to
-	hang out in.
+	Mas a área SciLab
+	continua sendo um "point"
+	sério demais pra mim.
 	"""
 	keyWait
 		any = false
@@ -275,32 +272,32 @@ script 22 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	The area after ACDC
-	Area is Oran Area.
+	A área que fica logo
+	após a Área ACDC é a
+	Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Above Oran Area1
-	you'll find
-	SciLab Area.
+	Acima da Área Oran 1,
+	você encontra a Área
+	SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Going down will take
-	you to End Area,I
-	think.
+	Descendo, você chega
+	na Área Endo, creio eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better learn
-	these areas well or
-	you'll get lost!
+	É bom aprender bem onde
+	cada área fica, pra não
+	se perder!
 	"""
 	keyWait
 		any = false
@@ -311,16 +308,16 @@ script 23 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	It's nice and
-	peaceful here,away
-	from main street.
+	É tão gostoso e pacífico
+	aqui, longe da rua
+	principal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a quiet
-	neighborhood.
+	Uma vizinhança bem
+	tranquila, sabe?
 	"""
 	keyWait
 		any = false
@@ -331,22 +328,21 @@ script 30 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I checked out SciLab
-	Area yesterday.
+	Eu dei uma olhada na
+	Área SciLab ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was all
-	bureaucratic.
+	Achei tão burocrática...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not very
-	interesting,really.
+	e não muito interessante,
+	falo mesmo.
 	"""
 	keyWait
 		any = false
@@ -357,35 +353,38 @@ script 31 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	The area after ACDC
-	Area is Oran Area.
+	A área que fica logo
+	após a Área ACDC é a
+	Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Above Oran Area1
-	you'll find SciLab
-	Area.
+	Acima da Área Oran 1,
+	você encontra a Área
+	SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Down takes you to
-	End Area⋯
+	E descendo, você chega
+	na Área Endo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hmm⋯ I've been"
+	"""
+	Hmm... Tô desde ontem
+	tentando decorar isso.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trying to memorize
-	it since yesterday,
-	but no luck yet!
+	Ainda não rolou,
+	mas a luta continua!
 	"""
 	keyWait
 		any = false
@@ -396,17 +395,17 @@ script 32 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A ship called the
-	Queen Bohemia is
-	anchored in port.
+	Tem um navio chamado
+	Rainha Boêmia ancorado
+	no porto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who is this Bohemia
-	person and what is
-	she the queen of?
+	Quem é essa tal de
+	Boêmia, e ela é rainha
+	de quê?
 	"""
 	keyWait
 		any = false

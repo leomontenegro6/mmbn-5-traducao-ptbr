@@ -9,8 +9,8 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -23,7 +23,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -32,7 +32,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -48,7 +48,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"Come again soon,OK?"
+	"Volta sempre, hein?"
 	keyWait
 		any = false
 	end
@@ -58,8 +58,8 @@ script 2 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Foi mal, mas tá tudo
+	esgotado.
 	"""
 	keyWait
 		any = false
@@ -70,16 +70,16 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	I sense a terrible
-	DarkPower beyond.
+	Lan, eu tô sentindo
+	um Poder das Trevas
+	terrível à frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we really gonna
-	enter?
+	A gente vai mesmo
+	entrar?
 	"""
 	keyWait
 		any = false
@@ -95,7 +95,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -104,7 +104,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -119,8 +119,8 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Beleza, Lan.
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -134,13 +134,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false

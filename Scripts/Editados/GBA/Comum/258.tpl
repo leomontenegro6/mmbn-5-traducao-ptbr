@@ -9,7 +9,7 @@ script 0 mmbn5 {
 		jumpIfLess = 1
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -25,8 +25,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A door bars the way.
-	It won't open.
+	Uma porta barra o
+	caminho.
+	Não dá para abrir.
 	"""
 	keyWait
 		any = false

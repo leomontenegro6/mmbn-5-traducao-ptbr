@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,disable
-	the electro-barrier!
+	MegaMan, desliga
+	a eletro-barreira!
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -28,8 +28,8 @@ script 2 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I'm ready to go
-	anytime⋯
+	Estou pronto para
+	agir quando mandar...
 	"""
 	keyWait
 		any = false
@@ -39,14 +39,14 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Shake,quiver⋯"
+	"Brrrrr.... Ngh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Kind of a scary
-	looking place⋯
-	But I'll do my best!
+	Este lugar é
+	meio sinistro...
+	M-mas tô pronto também!
 	"""
 	keyWait
 		any = false
@@ -57,9 +57,9 @@ script 4 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Heh heh heh!!!
-	I'll blow 'em
-	away!!!
+	He he he!!!
+	Eu vou explodir eles
+	até a estratosfera!!!
 	"""
 	keyWait
 		any = false
@@ -70,8 +70,8 @@ script 5 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I'm gonna crush
-	anything in my way!
+	O que aparecer,
+	eu vou fatiar!
 	"""
 	keyWait
 		any = false
@@ -81,7 +81,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go,MegaMan!"
+	"Vamos, MegaMan!"
 	keyWait
 		any = false
 	clearMsg

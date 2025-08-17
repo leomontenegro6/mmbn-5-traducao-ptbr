@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯⋯
-	⋯It sure is quiet.
+	......
+	... Tá tão quieto aqui.
 	"""
 	keyWait
 		any = false
@@ -17,7 +17,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotHide
 	msgOpen
-	"We're finished!"
+	"Terminamos!"
 	keyWait
 		any = false
 	end
@@ -27,14 +27,14 @@ script 2 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The main system
-	controls are
-	completely out!
+	Os controles do sistema
+	central pararam de
+	funcionar completamente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What do we do now?!"
+	"O que faremos?!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -46,21 +46,21 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The main system is
-	up those stairs!
+	O sistema central fica
+	subindo as escadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From what that guy
-	was saying,it sounds
-	like big trouble.
+	Pelo que o cara falou,
+	parece que a coisa tá
+	feia.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -71,7 +71,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end

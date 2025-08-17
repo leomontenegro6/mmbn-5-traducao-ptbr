@@ -3,17 +3,17 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	It seems foreigners
-	are surprised by
-	this sight⋯
+	Parece que estrangeiros
+	são pegos de surpresa
+	ao verem isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A close look reveals
-	a port for jacking
-	in.
+	Olhando bem, pode-se
+	ver uma entrada de
+	conexão.
 	"""
 	keyWait
 		any = false
@@ -22,9 +22,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The diffuse light of
-	the candle adds to
-	the room's mood.
+	A luz difusa das velas
+	alimenta o clima da
+	sala.
 	"""
 	keyWait
 		any = false
@@ -33,9 +33,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The lion picture on
-	the fusuma door is
-	somehow humorous.
+	A ilustração de leão
+	na porta fusuma é, de
+	certa forma, engraçada.
 	"""
 	keyWait
 		any = false
@@ -44,16 +44,17 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A river is painted
-	with bold strokes
-	on the fusuma door.
+	Um rio, pintado com
+	cores intensas na
+	porta fusuma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a unique look
-	found nowhere else.
+	Possui um visual único,
+	impossível de encontrar
+	em qualquer outro lugar.
 	"""
 	keyWait
 		any = false
@@ -62,29 +63,32 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	This fusuma door
-	has paintings of
-	fanciful beings.
+	Esta porta fusuma
+	contém ilustrações
+	de seres fantasiosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's of national
-	treasure quality.
+	Tem a qualidade de
+	um tesouro nacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A close look reveals
-	a hidden security
-	camera.
+	Olhando com atenção,
+	pode-se ver uma câmera
+	de segurança oculta.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in!"
+	"""
+	Dá para se conectar
+	nela!
+	"""
 	keyWait
 		any = false
 	end
@@ -92,16 +96,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	According to this,
-	the Gargoyles on the
+	De acordo com isso,
+	os Shachis do Castelo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Castle Keep are also
-	a vital system that
-	monitors the entire area.
+	também são um sistema
+	vital que monitora a
+	área inteira.
 	"""
 	keyWait
 		any = false

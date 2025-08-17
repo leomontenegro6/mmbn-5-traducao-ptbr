@@ -85,12 +85,12 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"Hey there!"
+	"Ei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have a
+	Cê não teria um
 	"
 	"""
 	printChip
@@ -101,20 +101,19 @@ script 5 mmbn5 {
 		buffer = 0
 		code = *
 	"""
-	,"
-	do ya?
+	" aí,
+	teria?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"If ya do,"
+	"Se tiver,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	wanna trade
-	it for my
-	"
+	quer trocar pelo
+	meu "
 	"""
 	printChip
 		buffer = 0
@@ -138,7 +137,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -147,7 +146,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -161,11 +160,14 @@ script 5 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = PurpleNavi
-	"What⋯?!"
+	"O quê...?!"
 	keyWait
 		any = false
 	clearMsg
-	"My \""
+	"""
+	Olha, fica sabendo que
+	o meu "
+	"""
 	printChip
 		buffer = 0
 		chip = 118
@@ -175,7 +177,7 @@ script 5 mmbn5 {
 		code = F
 	"""
 	"
-	is really rare!
+	é raro pra dedeu!
 	"""
 	keyWait
 		any = false
@@ -193,15 +195,15 @@ script 6 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You'll trade with
-	me,really really?!
+	Vai trocar comigo?
+	Mesmo, mesmo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's do it then!
-	Here ya go!
+	Então, só bora!
+	Toma!
 	"""
 	keyWait
 		any = false
@@ -218,7 +220,7 @@ script 6 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan traded his
+	MegaMan trocou um
 	"
 	"""
 	printChip
@@ -233,7 +235,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printChip
@@ -252,13 +254,17 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Awesome! I've always
-	wanted one of these!
+	Show de bola!
+	Eu sempre quis
+	este chip!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's mine,all mine⋯"
+	"""
+	E, agora, ele é meu...
+	TODO meu...!
+	"""
 	keyWait
 		any = false
 	flagSet
@@ -270,8 +276,8 @@ script 7 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	⋯⋯
-	I don't see a
+	......
+	Não tô vendo o
 	"
 	"""
 	printChip
@@ -281,13 +287,13 @@ script 7 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it in your
-	folder?
+	Será que tá
+	na sua pasta?
 	"""
 	keyWait
 		any = false
@@ -298,8 +304,8 @@ script 8 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Heya! Did you come
-	back to trade your
+	Fala!
+	Voltou pra trocar o seu
 	"
 	"""
 	printChip
@@ -314,7 +320,7 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for my
+	pelo meu
 	"
 	"""
 	printChip
@@ -339,7 +345,7 @@ script 8 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -348,7 +354,7 @@ script 8 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -363,8 +369,9 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	*tsk* I got my
-	hopes all up.
+	Afe...
+	Criei expectativa
+	pra nada.
 	"""
 	keyWait
 		any = false
@@ -375,9 +382,9 @@ script 9 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Man,it feels good
-	to add to my Data
-	Library!!!
+	Ah, é tão bom
+	colocar este chip
+	na minha Coleção!!
 	"""
 	keyWait
 		any = false
@@ -388,14 +395,13 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BAH! WHO CHILLS
-	WINE ANYWAY.
-	I'M GONNA
+	AFFE! RESFRIAR VINHO
+	É COISA DE OTÁRIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HEAT 'EM ALL UP!"
+	"EU VOU É FERVER ELES!"
 	keyWait
 		any = false
 	end
@@ -405,16 +411,16 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	GIVE PARTY GUESTS
-	THE CHEAP STUFF
-	I SAY.
+	A GENTE TEM É QUE DAR
+	VINHO BARATO PRO POVO
+	DA FESTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY CAN'T TELL THE
-	DIFFERENCE,ANYWAY.
+	ELES NEM VÃO SABER
+	A DIFERENÇA!
 	"""
 	keyWait
 		any = false
@@ -425,16 +431,15 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE DON'T NEED 4
-	PROGRAMS IN THE
-	WINECASE.
+	A GENTE NÃO PRECISA DE
+	4 PROGRAMAS NA ADEGA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE OTHER 3 SHOULD
-	BE FIRED!
+	OS OUTROS 3 DEVIAM É
+	SER DEMITIDOS LOGO!
 	"""
 	keyWait
 		any = false
@@ -445,16 +450,16 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯HUH?
-	WHAT?!
+	... UÉ?
+	QUÊ?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T REMEMBER
-	ANYTHING THAT JUST
-	HAPPENED!
+	EU NÃO CONSIGO ME
+	LEMBRAR DE NADA
+	DO QUE ACONTECEU!
 	"""
 	keyWait
 		any = false
@@ -464,13 +469,13 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I FEEL ALL WEIRD!"
+	"EU TÔ TODO ESTRANHO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S LIKE I
-	DRANK TOO MUCH!
+	PARECE ATÉ QUE
+	EU BEBI DEMAIS!
 	"""
 	keyWait
 		any = false
@@ -481,16 +486,16 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I BAD-MOUTHED MY
-	COWORKERS.
+	EU FALEI MAL
+	DOS MEUS COLEGAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T THINK I'LL
-	BE ABLE TO FACE
-	THEM EVER AGAIN.
+	ACHO QUE NUNCA MAIS
+	VOU CONSEGUIR OLHAR
+	PARA ELES...
 	"""
 	keyWait
 		any = false
@@ -501,22 +506,22 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HIGHLY RECOMMEND
-	THIS '50 BOTTLE OF
-	NETOPIAN WINE.
+	RECOMENDO FORTEMENTE
+	ESTE VINHO AMEROPANO
+	DE '50.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S SMOOTH WITH
-	A SLIGHTLY ACIDIC
-	FRAGRANCE.
+	ELE É SUAVE, COM UMA
+	LEVE FRAGRÂNCIA
+	ACIDULADA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YOU MUST TRY IT!"
+	"EXPERIMENTE!"
 	keyWait
 		any = false
 	end
@@ -525,19 +530,19 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"⋯HICCUP!"
+	"... HIC!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HUH? AM I DRUNK?
-	NAH! I DON'T HAVE
-	SUCH A FUNCTION!
+	HÃ? SE EU TÔ BÊBADO?
+	QUE NADA! EU NEM
+	TENHO ESSA FUNÇÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯HICCUP!"
+	"... HIC!"
 	keyWait
 		any = false
 	end
@@ -547,14 +552,14 @@ script 18 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M BUSY RESEARCHING
-	HOW THAT PROGRAM
-	COULD GET DRUNK!
+	ESTOU OCUPADO PESQUI-
+	SANDO COMO AQUELE
+	PROG FICOU BÊBADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IT'S FASCINATING."
+	"É FASCINANTE."
 	keyWait
 		any = false
 	end
@@ -564,8 +569,8 @@ script 19 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A PROGRAM CAN'T
-	WORK DRUNK!
+	UM PROG NÃO PODE
+	TRABALHAR BÊBADO!
 	"""
 	keyWait
 		any = false
@@ -576,27 +581,26 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT WAS IT THAT
-	DRUNKEN CUSTOMER
-	SAID⋯
+	O QUE FOI MESMO
+	QUE AQUELE CLIENTE
+	BÊBADO DISSE...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH,
-	I REMEMBER.
+	AH, LEMBREI.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HE SAID \"05068930.\""
+	"ELE DISSE \"05068930.\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SOUNDS LIKE SOME
-	KIND OF CODE.
+	PARECE SER ALGUM
+	TIPO DE CÓDIGO.
 	"""
 	keyWait
 		any = false

@@ -8,8 +8,8 @@ script 0 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	What happened to
-	our other teammate?
+	O que aconteceu com
+	o nosso outro colega?
 	"""
 	keyWait
 		any = false
@@ -22,8 +22,7 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	He'll be here
-	any minute⋯
+	Ele logo aparecerá...
 	"""
 	keyWait
 		any = false
@@ -37,9 +36,9 @@ script 2 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Sorry I'm late!
-	There was a
-	little turbulence!
+	Desculpa o atraso!
+	O voo teve uma
+	turbulência!
 	"""
 	keyWait
 		any = false
@@ -52,9 +51,9 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Everyone! This is
-	NapalmMan! He's in
-	charge of offense.
+	Homens! Esse é o
+	NapalmMan! Ele ficará
+	encarregado do ataque.
 	"""
 	keyWait
 		any = false
@@ -67,8 +66,8 @@ script 4 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Carerful,I'm playin'
-	with fire,baby!
+	Cuidado, que eu
+	brinco com fogo!
 	"""
 	keyWait
 		any = false
@@ -81,15 +80,15 @@ script 5 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Whoa,dangerous!
-	Nice to meet ya!
+	Eita, que perigo!
+	Prazer, cara!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,fill us in
-	about the enemy.
+	Enfim, fala aí pra
+	gente sobre o inimigo.
 	"""
 	keyWait
 		any = false
@@ -102,8 +101,8 @@ script 6 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	He's strong. No
-	question about that.
+	Ele é forte.
+	Disso, não há dúvidas.
 	"""
 	keyWait
 		any = false
@@ -116,8 +115,9 @@ script 7 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	If you're saying
-	that,he must be⋯
+	Se VOCÊ tá dizendo
+	isso, ele deve ser
+	mesmo...
 	"""
 	keyWait
 		any = false
@@ -131,9 +131,9 @@ script 8 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	Ready to enter
-	a world of pain,
-	are we? Hee-hee!
+	Prontos pra encarar
+	um sofrimento eterno?
+	He he he he!
 	"""
 	keyWait
 		any = false
@@ -145,13 +145,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Huh? What the⋯"
+	"Hã? Ué..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looks so
-	different now!
+	Ele tá meio diferente,
+	mas aquele não é o...
 	"""
 	keyWait
 		any = false
@@ -168,17 +168,17 @@ script 10 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We must delete him
-	or we can't liberate
-	the area!
+	Temos que deletá-lo,
+	ou não poderemos
+	liberar a área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep yourself calm!
-	We must keep the
-	operation running!
+	Mantenham a calma!
+	Precisamos seguir
+	com a operação!
 	"""
 	keyWait
 		any = false
@@ -190,7 +190,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"I g-got it⋯"
+	"E-entendi..."
 	keyWait
 		any = false
 	end
@@ -203,8 +203,8 @@ script 12 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	One more thing.
-	Look over there.
+	E mais uma coisa.
+	Olhem ali.
 	"""
 	keyWait
 		any = false
@@ -218,9 +218,9 @@ script 13 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Too many Dark
-	Panels. Too few
-	ItemPanels.
+	São Quadros Negros
+	demais. E Quadros
+	de Item de menos.
 	"""
 	keyWait
 		any = false
@@ -233,8 +233,9 @@ script 14 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	We'll run out of
-	Order Points!
+	Não vai dar pra
+	restaurar os nossos
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -247,16 +248,16 @@ script 15 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We've got to
-	liberate as wide
+	Temos que liberar o
+	maior volume de área
+	possível de uma vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of an area at once
-	to preserve our
-	Order Points.
+	para preservar os
+	nossos Pontos de Comando.
 	"""
 	keyWait
 		any = false
@@ -269,24 +270,24 @@ script 16 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	A wide-range attack?
-	How about Napalm?
+	Um ataque amplo?
+	Que tal o Napalm?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Napalm will also
-	destroy any items⋯
-	But the barrier
+	O Napalm também
+	destrói itens... mas
+	a chave da barreira
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	key should be
-	sturdy. I think
-	it'll be okay.
+	deve ser bem
+	resistente. Acho
+	que não tem problema.
 	"""
 	keyWait
 		any = false
@@ -298,7 +299,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Hear that,Lan?"
+	"Ouviu isso, Hikari?"
 	keyWait
 		any = false
 	clearMsg
@@ -309,7 +310,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y-Yeah⋯"
+	"O-ouvi..."
 	keyWait
 		any = false
 	clearMsg
@@ -320,22 +321,20 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Don't worry."
+	"Não se preocupe."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll try to recover
-	MegaMan without
-	deleting him.
+	Tentaremos recuperar o
+	MegaMan sem deletá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you've got to
-	prepare for the
-	worst.
+	Mas... por favor, esteja
+	pronto para o pior.
 	"""
 	keyWait
 		any = false
@@ -348,8 +347,8 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK⋯ Let's
-	do it,ProtoMan!
+	Certo...
+	Vamos nessa, ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -362,14 +361,14 @@ script 21 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	OK! Complete the
-	liberation within
-	10 phases.
+	OK! Tentem concluir
+	a liberação dentro
+	de 10 fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -379,8 +378,8 @@ script 30 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	What happened to
-	our other teammate?
+	O que aconteceu com
+	o nosso outro colega?
 	"""
 	keyWait
 		any = false
@@ -393,8 +392,7 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	He'll be here
-	any minute⋯
+	Ele logo aparecerá...
 	"""
 	keyWait
 		any = false
@@ -405,9 +403,9 @@ script 32 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Sorry to keep you
-	waiting. I had a
-	previous commitment.
+	Perdoem a demora.
+	Eu tinha um compromisso
+	prévio.
 	"""
 	keyWait
 		any = false
@@ -420,9 +418,9 @@ script 33 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Everyone! This is
-	TomahawkMan! He's in
-	charge of offense.
+	Homens! Este aqui é
+	TomahawkMan! Ele ficará
+	encarregado do ataque.
 	"""
 	keyWait
 		any = false
@@ -435,9 +433,9 @@ script 34 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	It's party time!
-	Watch out for my
-	TomahawkSwing,baby!
+	Bora botar pra querar!
+	Fiquem espertos pro meu
+	Corte da Machadinha!!
 	"""
 	keyWait
 		any = false
@@ -450,17 +448,17 @@ script 35 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Hm⋯He's full of
-	energy,and
-	talented.
+	Ele... é bem cheio de
+	energia. Espero que
+	tenha talento, também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel,what do
-	you think about the
-	enemy this time?
+	Colonel, qual é a sua
+	visão acerca do inimigo,
+	desta vez?
 	"""
 	keyWait
 		any = false
@@ -473,8 +471,8 @@ script 36 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	He's strong. No
-	question about that.
+	Ele é forte.
+	Disso, não há dúvidas.
 	"""
 	keyWait
 		any = false
@@ -487,8 +485,9 @@ script 37 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I see. I wonder
-	who's behind this.
+	Entendo. Estou curioso
+	para saber quem está
+	por trás disso...
 	"""
 	keyWait
 		any = false
@@ -499,9 +498,9 @@ script 38 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	Ready to enter
-	a world of pain,
-	are we? Hee-hee!
+	Prontos pra encarar
+	um sofrimento eterno?
+	He he he he!
 	"""
 	keyWait
 		any = false
@@ -514,13 +513,13 @@ script 39 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	*Gasp!* That must
-	be MegaMan!
+	Hm?!
+	MegaMan...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now I get it!"
+	"Hm. Agora, entendi...!"
 	keyWait
 		any = false
 	clearMsg
@@ -532,17 +531,17 @@ script 40 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We must delete him
-	or we can't liberate
-	the area!
+	Temos que deletá-lo,
+	ou não poderemos
+	liberar a área!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Keep yourself calm!
-	We must keep the
-	situation like this.
+	Mantenham a calma!
+	Precisamos controlar
+	a situação.
 	"""
 	keyWait
 		any = false
@@ -554,7 +553,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Yessir!"
+	"Hum!"
 	keyWait
 		any = false
 	end
@@ -564,8 +563,8 @@ script 42 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	One more thing.
-	Look over there.
+	E mais uma coisa.
+	Olhem ali.
 	"""
 	keyWait
 		any = false
@@ -576,9 +575,9 @@ script 43 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Too many Dark
-	Panels. Too few
-	ItemPanels.
+	São Quadros Negros
+	demais. E Quadros
+	de Item de menos.
 	"""
 	keyWait
 		any = false
@@ -591,8 +590,9 @@ script 44 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I'm worried about
-	our Order Points⋯
+	Será um desafio
+	racionar nossos
+	Pontos de Comando...
 	"""
 	keyWait
 		any = false
@@ -605,16 +605,16 @@ script 45 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We've got to
-	liberate as wide
+	Temos que liberar o
+	maior volume de área
+	possível de uma vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of an area at once
-	to preserve our
-	Order Points.
+	para preservar os
+	nossos Pontos de Comando.
 	"""
 	keyWait
 		any = false
@@ -627,32 +627,32 @@ script 46 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I can definitely
-	handle that!
-	I can swing my
+	Podem deixar essa
+	parte comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tomahawk for
-	a 6 sq wide attack!
+	O meu ataque de
+	machadinha cobre uma
+	área de seis quadros!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However it will also
-	destroy any items⋯
-	But the barrier
+	Ele também destrói
+	itens... mas a chave
+	da barreira deve ser
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	key should be
-	sturdy. I think
-	it'll be okay.
+	bem resistente.
+	Acho que não
+	vai ter problema.
 	"""
 	keyWait
 		any = false
@@ -664,7 +664,7 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Hear that,Lan?"
+	"Ouviu isso, Hikari?"
 	keyWait
 		any = false
 	clearMsg
@@ -675,7 +675,7 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Y-Yeah⋯"
+	"O-ouvi..."
 	keyWait
 		any = false
 	clearMsg
@@ -686,22 +686,20 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Don't worry."
+	"Não se preocupe."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll try to recover
-	MegaMan without
-	deleting him.
+	Tentaremos recuperar o
+	MegaMan sem deletá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you've got to
-	prepare for the
-	worst.
+	Mas... por favor, esteja
+	pronto para o pior.
 	"""
 	keyWait
 		any = false
@@ -714,8 +712,8 @@ script 50 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK⋯ Let's
-	do it,Colonel!
+	Certo...
+	Vamos nessa, Colonel!
 	"""
 	keyWait
 		any = false
@@ -728,14 +726,14 @@ script 51 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	OK! Complete the
-	liberation within
-	10 phases.
+	OK! Tentem concluir
+	a liberação dentro
+	de 10 fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

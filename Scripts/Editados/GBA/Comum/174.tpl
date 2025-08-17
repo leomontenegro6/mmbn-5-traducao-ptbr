@@ -23,24 +23,23 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The CyberHatch is
-	locked and won't
-	budge.
+	A CyberEscotilha está
+	trancada. É impossível
+	abri-la à força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time there
-	are three empty
-	keyholes.
+	Desta vez, há três
+	fechaduras vazias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Two more keys
-	are required.
+	Você precisa de
+	mais duas chaves.
 	"""
 	keyWait
 		any = false
@@ -49,24 +48,23 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The CyberHatch is
-	locked and won't
-	budge.
+	A CyberEscotilha está
+	trancada. É impossível
+	abri-la à força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time there
-	are three empty
-	keyholes.
+	Desta vez, há três
+	fechaduras vazias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One more key
-	is required.
+	Você precisa de
+	mais uma chave.
 	"""
 	keyWait
 		any = false
@@ -84,8 +82,9 @@ script 3 mmbn5 {
 		amount = 1
 	msgOpen
 	"""
-	It unlocked! The
-	CyberHatch opened!
+	Destrancada!
+	A CyberEscotilha
+	se abriu!
 	"""
 	keyWait
 		any = false
@@ -96,17 +95,16 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	The CyberHatch is
-	locked and won't
-	budge.
+	A CyberEscotilha está
+	trancada. É impossível
+	abri-la à força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time there
-	are three empty
-	keyholes.
+	Desta vez, há três
+	fechaduras vazias.
 	"""
 	keyWait
 		any = false

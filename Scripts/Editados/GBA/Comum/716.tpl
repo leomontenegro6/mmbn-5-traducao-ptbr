@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE TERMINAL
-	PROGRAM.
+	EU SOU O PROGRAMA
+	DO TERMINAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOUR GUIDE TO SCILAB
-	IS RIGHT HERE!
+	O SEU GUIA PARA O
+	SCILAB ESTÁ BEM AQUI!
 	"""
 	keyWait
 		any = false
@@ -24,22 +24,22 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU CAN'T JACK INTO
-	THAT OLD-MODEL
-	TERMINAL OVER THERE.
+	NÃO DÁ PARA SE
+	CONECTAR ÀQUELE
+	TERMINAL ANTIQUADO ALI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I'M A NEW MODEL
-	SO YOU'LL HAVE NO
-	PROBLEM JACKING IN.
+	MAS EU SOU UM NOVO
+	MODELO, ENTÃO, DÁ PARA
+	SE CONECTAR TRANQUILO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M SO COOL!"
+	"EU SOU TÃO LEGAL!"
 	keyWait
 		any = false
 	end
@@ -49,21 +49,20 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,YEAH,I FORGOT
-	TO MENTION⋯
+	AH, É, QUASE QUE EU
+	ESQUEÇO DE FALAR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M THE BEST
-	DANG GUIDE AT
-	SCILAB!!!
+	EU SOU O MELHOR GUIA
+	DESTA BUDEGA AQUI!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M OFF THE HOOK!!!"
+	"NINGUÉM ME SEGURA!!!"
 	keyWait
 		any = false
 	end
@@ -72,18 +71,19 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"NOT TRUE!!!"
+	"BALELA!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I KNOW THIS BUILDING
-	BETTER THAN ANYONE!!!
+	EU CONHEÇO O SCILAB
+	MELHOR DO QUE TODO
+	MUNDO!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"NO COMPARISON!"
+	"NEM SE COMPARA!"
 	keyWait
 		any = false
 	end
@@ -93,9 +93,9 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY MAIN UNIT STILL
-	ISN'T RESPONDING
-	VERY WELL.
+	A MINHA UNIDADE
+	CENTRAL AINDA NÃO
+	VOLTOU 100% AO NORMAL.
 	"""
 	keyWait
 		any = false
@@ -106,8 +106,8 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OHHHH⋯
-	I FEEL DIZZY.
+	OOOUGH...
+	EU TÔ TONTO.
 	"""
 	keyWait
 		any = false

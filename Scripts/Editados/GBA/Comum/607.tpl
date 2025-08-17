@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can't get through!
-	All the routes have
-	been cut off!
+	Não dá pra passar!
+	Todas as rotas foram
+	cortadas!
 	"""
 	keyWait
 		any = false

@@ -15,9 +15,9 @@ script 0 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Those chips are
-	all MINE! Don't
-	touch them! G'wan!
+	Esses chips tão todos
+	MEUS! Não encosta
+	neles! XISPA!
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 1 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Ow,ow,ow⋯
-	Why's my head
-	hurt this much?
+	Ai, ai, ai...
+	Por que a minha cabeça
+	tá doendo tanto?
 	"""
 	keyWait
 		any = false
@@ -41,9 +41,9 @@ script 2 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	My head still
-	hurts. What
-	an awful day!
+	A minha cabeça tá
+	doendo até agora.
+	Ai, que dia péssimo!
 	"""
 	keyWait
 		any = false

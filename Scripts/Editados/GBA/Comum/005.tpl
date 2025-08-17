@@ -1,107 +1,107 @@
 @size 244
 
 script 0 mmbn5s {
-	"___ACDC Town"
+	"________ACDC"
 	end
 }
 script 1 mmbn5s {
-	"_Lan's House"
+	"_Casa do Lan"
 	end
 }
 script 2 mmbn5s {
-	"__Lan's Room"
+	"__Quarto Lan"
 	end
 }
 script 3 mmbn5s {
-	"_Mayl's Room"
+	"_Quarto Mayl"
 	end
 }
 script 4 mmbn5s {
-	"__Dex's Room"
+	"__Quarto Dex"
 	end
 }
 script 5 mmbn5s {
-	"__Yai's Room"
+	"__Quarto Yai"
 	end
 }
 script 6 mmbn5s {
-	"____Higsby's"
+	"_Loja Higsby"
 	end
 }
 script 7 mmbn5s {
-	"Higsby'sBase"
+	"_Base Higsby"
 	end
 }
 script 8 mmbn5s {
-	"___Dad's Lab"
+	"____Lab. Pai"
 	end
 }
 script 9 mmbn5s {
-	"_SciLabFront"
+	"FrenteSciLab"
 	end
 }
 script 10 mmbn5s {
-	"_SciLabLobby"
+	"Recep.SciLab"
 	end
 }
 script 11 mmbn5s {
-	"______OpRoom"
+	"Sala Comando"
 	end
 }
 script 12 mmbn5s {
-	"_MissionCtrl"
+	"Ctrl. Missão"
 	end
 }
 script 13 mmbn5s {
-	"___Oran Isle"
+	"___Ilha Oran"
 	end
 }
 script 14 mmbn5s {
-	"_____OldMine"
+	"__Velha Mina"
 	end
 }
 script 15 mmbn5s {
-	"_____BigCave"
+	"_Gd. Caverna"
 	end
 }
 script 16 mmbn5s {
-	"____OldMine1"
+	"Velha Mina 1"
 	end
 }
 script 17 mmbn5s {
-	"____OldMine2"
+	"Velha Mina 2"
 	end
 }
 script 18 mmbn5s {
-	"____OldMine3"
+	"Velha Mina 3"
 	end
 }
 script 19 mmbn5s {
-	"____OldMine4"
+	"Velha Mina 4"
 	end
 }
 script 20 mmbn5s {
-	"____OldMine5"
+	"Velha Mina 5"
 	end
 }
 script 21 mmbn5s {
-	"____OldMine6"
+	"Velha Mina 6"
 	end
 }
 script 22 mmbn5s {
-	"____OldMine7"
+	"Velha Mina 7"
 	end
 }
 script 23 mmbn5s {
-	"____OldMine8"
+	"Velha Mina 8"
 	end
 }
 script 24 mmbn5s {
-	"____OldMine9"
+	"Velha Mina 9"
 	end
 }
 script 25 mmbn5s {
-	"________Dock"
+	"________Cais"
 	end
 }
 script 26 mmbn5s {
@@ -109,143 +109,143 @@ script 26 mmbn5s {
 	end
 }
 script 27 mmbn5s {
-	"________Deck"
+	"______Convés"
 	end
 }
 script 28 mmbn5s {
-	"_Engine Room"
+	"Sl. Máquinas"
 	end
 }
 script 29 mmbn5s {
-	"_Fiesta Room"
+	"_Sala Fiesta"
 	end
 }
 script 30 mmbn5s {
-	"______Bridge"
+	"_______Ponte"
 	end
 }
 script 31 mmbn5s {
-	"____End City"
+	"_Cidade Endo"
 	end
 }
 script 32 mmbn5s {
-	"____Mum Room"
+	"____Sala Mãe"
 	end
 }
 script 33 mmbn5s {
-	"___Lily Room"
+	"_Quarto Lily"
 	end
 }
 script 34 mmbn5s {
-	"_Castle Keep"
+	"Tor. Menagem"
 	end
 }
 script 35 mmbn5s {
-	"__Castle Ext"
+	"Ext. Castelo"
 	end
 }
 script 36 mmbn5s {
-	"_Nebula Ctrl"
+	"Ctrl. Nebula"
 	end
 }
 script 37 mmbn5s {
-	"___MainComp1"
+	"CPU Central1"
 	end
 }
 script 38 mmbn5s {
-	"___MainComp2"
+	"CPU Central2"
 	end
 }
 script 39 mmbn5s {
-	"__DrillComp1"
+	"_CPU Broca 1"
 	end
 }
 script 40 mmbn5s {
-	"__DrillComp2"
+	"_CPU Broca 2"
 	end
 }
 script 41 mmbn5s {
-	"__DrillComp3"
+	"_CPU Broca 3"
 	end
 }
 script 42 mmbn5s {
-	"__DrillComp4"
+	"_CPU Broca 4"
 	end
 }
 script 43 mmbn5s {
-	"___ShipComp1"
+	"_CPU Navio 1"
 	end
 }
 script 44 mmbn5s {
-	"___ShipComp1"
+	"_CPU Navio 1"
 	end
 }
 script 45 mmbn5s {
-	"___ShipComp2"
+	"_CPU Navio 2"
 	end
 }
 script 46 mmbn5s {
-	"___ShipComp3"
+	"_CPU Navio 3"
 	end
 }
 script 47 mmbn5s {
-	"__ACDC Area3"
+	"_Área ACDC 3"
 	end
 }
 script 48 mmbn5s {
-	"__Oran Area3"
+	"_Área Oran 3"
 	end
 }
 script 49 mmbn5s {
-	"_____SciLab3"
+	"____SciLab 3"
 	end
 }
 script 50 mmbn5s {
-	"___End Area2"
+	"_Área Endo 2"
 	end
 }
 script 51 mmbn5s {
-	"___End Area5"
+	"_Área Endo 5"
 	end
 }
 script 52 mmbn5s {
-	"___Undernet4"
+	"__Undernet 4"
 	end
 }
 script 53 mmbn5s {
-	"_NebulaArea1"
+	"Área Nebula1"
 	end
 }
 script 54 mmbn5s {
-	"_NebulaArea3"
+	"Área Nebula3"
 	end
 }
 script 55 mmbn5s {
-	"_NebulaArea5"
+	"Área Nebula5"
 	end
 }
 script 56 mmbn5s {
-	"____Lan's HP"
+	"__Página Lan"
 	end
 }
 script 57 mmbn5s {
-	"___Mayl's HP"
+	"_Página Mayl"
 	end
 }
 script 58 mmbn5s {
-	"____Dex's HP"
+	"__Página Dex"
 	end
 }
 script 59 mmbn5s {
-	"____Yai's HP"
+	"__Página Yai"
 	end
 }
 script 60 mmbn5s {
-	"___SciLab HP"
+	"_Pág. SciLab"
 	end
 }
 script 61 mmbn5s {
-	"GargCastleHP"
+	"PgCstlShachi"
 	end
 }
 script 62 mmbn5s {
@@ -259,306 +259,306 @@ script 64 mmbn5s {
 	end
 }
 script 65 mmbn5s {
-	"DoghouseComp"
+	"_CPU Casinha"
 	end
 }
 script 66 mmbn5s {
-	"OldTrmnlComp"
+	"CPUVlhTrmnal"
 	end
 }
 script 67 mmbn5s {
-	"_KitchenComp"
+	"_CPU Cozinha"
 	end
 }
 script 68 mmbn5s {
-	"ElctLockComp"
+	"CPUTravaElét"
 	end
 }
 script 69 mmbn5s {
-	"___RadarComp"
+	"___CPU Radar"
 	end
 }
 script 70 mmbn5s {
-	"__AirConComp"
+	"CPUArCondici"
 	end
 }
 script 71 mmbn5s {
-	"___ScrewComp"
+	"CPU Parafuso"
 	end
 }
 script 72 mmbn5s {
-	"__EngineComp"
+	"___CPU Motor"
 	end
 }
 script 73 mmbn5s {
-	"____ViewComp"
+	"CPUVisualizç"
 	end
 }
 script 74 mmbn5s {
-	"_ChipMkrComp"
+	"CPUCriaChips"
 	end
 }
 script 75 mmbn5s {
-	"AirFilterCmp"
+	"CPU FiltroAr"
 	end
 }
 script 76 mmbn5s {
-	"___ArmorComp"
+	"CPU Armadura"
 	end
 }
 script 77 mmbn5s {
-	"__HelmetComp"
+	"____CPU Elmo"
 	end
 }
 script 78 mmbn5s {
-	"__KatanaComp"
+	"__CPU Katana"
 	end
 }
 script 79 mmbn5s {
-	"SquirrelCmp1"
+	"CPU Esquilo1"
 	end
 }
 script 80 mmbn5s {
-	"SquirrelCmp2"
+	"CPU Esquilo2"
 	end
 }
 script 81 mmbn5s {
-	"SquirrelCmp3"
+	"CPU Esquilo3"
 	end
 }
 script 82 mmbn5s {
-	"SquirrelCmp4"
+	"CPU Esquilo4"
 	end
 }
 script 83 mmbn5s {
-	"SquirrelCmp5"
+	"CPU Esquilo5"
 	end
 }
 script 84 mmbn5s {
-	"SquirrelCmp6"
+	"CPU Esquilo6"
 	end
 }
 script 85 mmbn5s {
-	"SquirrelCmp7"
+	"CPU Esquilo7"
 	end
 }
 script 86 mmbn5s {
-	"SquirrelCmp8"
+	"CPU Esquilo8"
 	end
 }
 script 87 mmbn5s {
-	"SquirrelCmp9"
+	"CPU Esquilo9"
 	end
 }
 script 88 mmbn5s {
-	"SquirelCmp10"
+	"CPUEsquilo10"
 	end
 }
 script 89 mmbn5s {
-	"SquirelCmp11"
+	"CPUEsquilo11"
 	end
 }
 script 90 mmbn5s {
-	"SquirelCmp12"
+	"CPUEsquilo12"
 	end
 }
 script 91 mmbn5s {
-	"SquirelCmp13"
+	"CPUEsquilo13"
 	end
 }
 script 92 mmbn5s {
-	"SquirelCmp14"
+	"CPUEsquilo14"
 	end
 }
 script 93 mmbn5s {
-	"SquirelCmp15"
+	"CPUEsquilo15"
 	end
 }
 script 94 mmbn5s {
-	"SquirelCmp16"
+	"CPUEsquilo16"
 	end
 }
 script 95 mmbn5s {
-	"__ACDC Area1"
+	"_Área ACDC 1"
 	end
 }
 script 96 mmbn5s {
-	"__ACDC Area2"
+	"_Área ACDC 2"
 	end
 }
 script 97 mmbn5s {
-	"__Oran Area1"
+	"_Área Oran 1"
 	end
 }
 script 98 mmbn5s {
-	"__Oran Area2"
+	"_Área Oran 2"
 	end
 }
 script 99 mmbn5s {
-	"_____SciLab1"
+	"____SciLab 1"
 	end
 }
 script 100 mmbn5s {
-	"_____SciLab2"
+	"____SciLab 2"
 	end
 }
 script 101 mmbn5s {
-	"_____SciLab4"
+	"____SciLab 4"
 	end
 }
 script 102 mmbn5s {
-	"___End Area1"
+	"_Área Endo 1"
 	end
 }
 script 103 mmbn5s {
-	"___End Area3"
+	"_Área Endo 3"
 	end
 }
 script 104 mmbn5s {
-	"___End Area4"
+	"_Área Endo 4"
 	end
 }
 script 105 mmbn5s {
-	"___Undernet1"
+	"__Undernet 1"
 	end
 }
 script 106 mmbn5s {
-	"___Undernet2"
+	"__Undernet 2"
 	end
 }
 script 107 mmbn5s {
-	"___Undernet3"
+	"__Undernet 3"
 	end
 }
 script 108 mmbn5s {
-	"_NebulaArea2"
+	"Area Nebula2"
 	end
 }
 script 109 mmbn5s {
-	"_NebulaArea4"
+	"Area Nebula4"
 	end
 }
 script 110 mmbn5s {
-	"_NebulaArea6"
+	"Area Nebula6"
 	end
 }
 script 111 mmbn5s {
-	"__ServerComp"
+	"CPU Servidor"
 	end
 }
 script 112 mmbn5s {
-	"_FurnaceComp"
+	"CPU Fornalha"
 	end
 }
 script 113 mmbn5s {
-	"ElevatorComp"
+	"CPU Elevador"
 	end
 }
 script 114 mmbn5s {
-	"___CraneComp"
+	"___CPU Garra"
 	end
 }
 script 115 mmbn5s {
-	"GargoylComp1"
+	"CPU Shachi 1"
 	end
 }
 script 116 mmbn5s {
-	"GargoylComp2"
+	"CPU Shachi 2"
 	end
 }
 script 117 mmbn5s {
-	"GargoylComp2"
+	"CPU Shachi 2"
 	end
 }
 script 118 mmbn5s {
-	"GargoylComp3"
+	"CPU Shachi 3"
 	end
 }
 script 119 mmbn5s {
-	"____TreeComp"
+	"__CPU Árvore"
 	end
 }
 script 120 mmbn5s {
-	"_____OldComp"
+	"___Velho CPU"
 	end
 }
 script 121 mmbn5s {
-	"___Dad'sComp"
+	"__CPU do Pai"
 	end
 }
 script 122 mmbn5s {
-	"SculptureCmp"
+	"CPUEscultura"
 	end
 }
 script 123 mmbn5s {
-	"TerminalComp"
+	"CPU Terminal"
 	end
 }
 script 124 mmbn5s {
-	"NetBattleCmp"
+	"_CPU NetLuta"
 	end
 }
 script 125 mmbn5s {
-	"WineCaseComp"
+	"___CPU Adega"
 	end
 }
 script 126 mmbn5s {
-	"DumplingComp"
+	"CPU Bolinhos"
 	end
 }
 script 127 mmbn5s {
 	end
 }
 script 128 mmbn5s {
-	"_Factory Ext"
+	"Ext. Fábrica"
 	end
 }
 script 129 mmbn5s {
-	"_FactoryHall"
+	"Hall Fábrica"
 	end
 }
 script 130 mmbn5s {
-	"DrkChpFactry"
+	"Fbr. ChipTrv"
 	end
 }
 script 131 mmbn5s {
-	"_Server Room"
+	"SalaServidor"
 	end
 }
 script 132 mmbn5s {
-	"FactoryComp1"
+	"CPU Fábrica1"
 	end
 }
 script 133 mmbn5s {
-	"FactoryComp2"
+	"CPU Fábrica2"
 	end
 }
 script 134 mmbn5s {
-	"FactoryComp3"
+	"CPU Fábrica3"
 	end
 }
 script 135 mmbn5s {
-	"FactoryComp4"
+	"CPU Fábrica4"
 	end
 }
 script 136 mmbn5s {
-	"SoulServComp"
+	"CPU ServAlma"
 	end
 }
 script 137 mmbn5s {
-	"_ExpServComp"
+	"_CPU ServExp"
 	end
 }
 script 138 mmbn5s {
-	"_WindGodComp"
+	"CPUDeusVento"
 	end
 }
 script 139 mmbn5s {
-	"____PipeComp"
+	"____CPU Cano"
 	end
 }
 script 140 mmbn5s {
-	"_MessageComp"
+	"CPU Mensagem"
 	end
 }
 script 240 mmbn5s {
@@ -594,7 +594,7 @@ script 242 mmbn5s {
 	end
 }
 script 243 mmbn5s {
-	"NAME "
+	"NOME "
 	printShortString
 	end
 }

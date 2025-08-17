@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!!!"
+	"Pai!!!"
 	keyWait
 		any = false
 	end
@@ -13,11 +13,11 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!!!"
+	"Pai!!!"
 	keyWait
 		any = false
 	clearMsg
-	"It's me,Lan!!!"
+	"Sou eu, o Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -32,14 +32,17 @@ script 2 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"You must stop⋯Regal⋯"
+	"""
+	V-você tem que deter...
+	o Regal...
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's going to use
-	SoulNet to taint the
-	world with evil.
+	Ele vai usar a RedeAlma
+	pra manchar o mundo
+	inteiro com maldade...
 	"""
 	keyWait
 		any = false
@@ -51,9 +54,9 @@ script 3 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯Yes. I'm installing
-	NebulaGray on
-	SoulServer.
+	... Exato. No momento,
+	estou instalando Nebula
+	Gray no ServidorAlma.
 	"""
 	keyWait
 		any = false
@@ -75,16 +78,16 @@ script 5 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Hikari,you raised
-	quite a fine boy.
+	É, Hikari, você criou
+	um filho exemplar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But soon you won't
-	even recognize your
-	dearest child⋯
+	Mas, muito em breve,
+	nem reconhecerá mais
+	a sua amada prole...
 	"""
 	keyWait
 		any = false
@@ -94,13 +97,14 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Lan,Get him⋯"
+	"Lan, vença ele..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must stop Regal
-	and his evil plan⋯
+	Você tem que impedir
+	o Regal e o plano
+	maligno dele...
 	"""
 	keyWait
 		any = false
@@ -111,8 +115,8 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	B-but Dad,
-	you're hurt!
+	M-mas, pai,
+	você tá ferido!
 	"""
 	keyWait
 		any = false
@@ -125,8 +129,7 @@ script 8 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	We'll take care
-	of your Dad.
+	Nós cuidamos do seu pai.
 	"""
 	keyWait
 		any = false
@@ -136,7 +139,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Guys!!!"
+	"Pessoal!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,8 +151,8 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Leave him with us.
-	You deal with Regal!
+	Deixe ele com a gente.
+	Você cuida do Regal!
 	"""
 	keyWait
 		any = false
@@ -159,8 +162,8 @@ script 11 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	We'll take care of
-	Dr.Hikari.
+	Nós cuidamos do
+	Dr. Hikari.
 	"""
 	keyWait
 		any = false
@@ -170,7 +173,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Guys!!!"
+	"Pessoal!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -182,8 +185,8 @@ script 13 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Leave him with us.
-	You go get Regal!
+	Deixe-o conosco.
+	Vá pegar o Regal!
 	"""
 	keyWait
 		any = false
@@ -193,7 +196,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -207,9 +210,9 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	MegaMan and I are
-	here to stop your
-	evil plan!!!
+	O MegaMan e eu tamos
+	aqui pra parar esse
+	seu plano do mal!!
 	"""
 	keyWait
 		any = false
@@ -219,18 +222,18 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your struggle has
-	been in vain⋯
+	Todos os seus esforços
+	foram em vão...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SoulNet,activate!"
+	"RedeAlma, ativar!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -242,8 +245,8 @@ script 17 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Welcome to the
-	world of SoulNet!
+	Bem-vindo ao mundo
+	da RedeAlma!
 	"""
 	keyWait
 		any = false
@@ -254,8 +257,8 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯This is
-	SoulNet?
+	... E-esta que é a
+	RedeAlma?
 	"""
 	keyWait
 		any = false
@@ -276,17 +279,17 @@ script 20 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	No⋯
-	Oh no⋯
-	The horror⋯
+	Não...
+	Ah, não...
+	Tanto pavor...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's this feeling?
-	I can feel something
-	gushing into me⋯
+	Que sentimento é este?
+	Eu sinto uma coisa me
+	invadindo...
 	"""
 	keyWait
 		any = false
@@ -299,15 +302,16 @@ script 21 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Oh man!
-	What's going on?!
+	C-caramba!
+	O que é isto?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anger⋯ I feel anger
-	boiling up within⋯
+	Raiva... Eu tô sentindo
+	raiva fervendo dentro
+	de mim...!!
 	"""
 	keyWait
 		any = false
@@ -320,8 +324,8 @@ script 22 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	What's this sadness?
-	I feel like crying⋯
+	Que tristeza é esta?
+	Que vontade de chorar...
 	"""
 	keyWait
 		any = false
@@ -342,14 +346,14 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"I can't take this⋯"
+	"Eu não suporto isto..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯What's happening?
-	What's this feeling
-	pouring into me?
+	... O que está havendo?
+	Que sentimento é esse
+	que me invade?
 	"""
 	keyWait
 		any = false
@@ -362,13 +366,14 @@ script 25 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Rawrrr!!! I've never
-	felt so angry,huh!
+	Rrraaarr!!! Eu nunca
+	senti tanta raiva na
+	vida, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But why,huh?!"
+	"Mas por quê, é?!"
 	keyWait
 		any = false
 	clearMsg
@@ -380,9 +385,9 @@ script 26 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	*Sniffle sniffle⋯*
-	What's this sadness?
-	⋯I wanna cry⋯
+	Snif... Chuif...
+	Que tristeza é esta?
+	... Eu quero chorar...
 	"""
 	keyWait
 		any = false
@@ -403,7 +408,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What've you done!!!"
+	"O que foi que\nvocê fez?!"
 	keyWait
 		any = false
 	end
@@ -413,15 +418,16 @@ script 29 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Hmmm? SoulNet hasn't
-	affected you?
+	Hmmm? A RedeAlma
+	não lhe afetou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're not wearing
-	MagnoMetal,are you?
+	... Você não estaria
+	usando MagnoMetal,
+	estaria?
 	"""
 	keyWait
 		any = false
@@ -434,9 +440,9 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dunno what that is
-	but I do have
-	Gramps's Amulet!
+	Eu não sei o que é isso,
+	não... Mas eu tô com o
+	amuleto do vovô!
 	"""
 	keyWait
 		any = false
@@ -448,40 +454,40 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"I should've known⋯"
+	"Eu devia ter imaginado..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He made an amulet
-	out of MagnoMetal,
-	the only material
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	able to block
-	SoulServer's signal.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Hmph,no matter."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	My plan is almost
-	complete. All that's
-	left is to install
+	Ele fez um amuleto
+	de MagnoMetal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NebulaGray on
-	SoulServer.
+	o único material capaz
+	de bloquear o sinal do
+	ServidorAlma.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Hmph, mas não importa."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O meu plano está quase
+	concluído.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só o que falta é
+	instalar Nebula Gray
+	no ServidorAlma.
 	"""
 	keyWait
 		any = false
@@ -492,52 +498,53 @@ script 32 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Lan,do you know
-	what this is?
+	Lan, você sabe
+	o que é isto?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This contains
-	NebulaGray,the dark
-	program I developed.
+	Isto aqui contém Nebula
+	Gray, o programa sombrio
+	que eu desenvolvi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People around the
-	globe are now linked
+	Pessoas mundo afora,
+	agora, estão ligadas
+	a este ServidorAlma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to this SoulServer
-	over SoulNet.
+	através da RedeAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What do think will
-	happen if I install
+	O que você acha que
+	irá acontecer se eu
+	instalar Nebula Gray?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NebulaGray? It has
-	the power to amplify
+	Ele detém o poder de
+	amplificar emoções
+	negativas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	negative energy in
-	souls already full
-	of emotions.
+	em almas já cheias
+	de emoções.
 	"""
 	keyWait
 		any = false
@@ -549,7 +556,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"But if you do that⋯!"
+	"Mas, se você\nfizer isso...!"
 	keyWait
 		any = false
 	clearMsg
@@ -561,17 +568,17 @@ script 34 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	I will have tainted
-	the world with evil!
+	... Eu vou manchar o
+	mundo inteiro com o mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Aha ha ha ha!!!"
+	"Aaah ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
-	"NebulaGray,install!"
+	"Nebula Gray, instalar!"
 	keyWait
 		any = false
 	end
@@ -581,9 +588,9 @@ script 35 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's jack in!
-	We must stop Regal
-	and his evil plan!
+	Lan, me conecta!
+	A gente tem que parar
+	o plano do Regal!
 	"""
 	keyWait
 		any = false
@@ -596,8 +603,8 @@ script 36 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Yes,come to me,
-	Lan and MegaMan!!!
+	Isso! Venham a mim,
+	Lan e MegaMan!!!
 	"""
 	keyWait
 		any = false
@@ -610,23 +617,23 @@ script 37 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Regal,you won't get
-	away with this!!!
+	Regal, você não vai
+	se safar dessa!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,you must
-	delete NebulaGray!
+	MegaMan, você tem que
+	deletar o Nebula Gray!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

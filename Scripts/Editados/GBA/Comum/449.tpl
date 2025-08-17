@@ -19,24 +19,24 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ORAN AREA1 HAS BEEN
-	RELEASED FROM
-	NEBULA'S GRIP!
+	A ÁREA ORAN 1 FOI
+	LIBERTADA DAS GARRAS
+	DA NEBULA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THERE ARE STILL
-	NEBULA HOLDOUTS
-	WANDERING AROUND.
+	MAS AINDA HÁ ALGUNS
+	AGENTES DA NEBULA
+	RESTANTES POR AÍ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW SCARY!
-	HOW TERRIFYING!
+	QUE MEDO!
+	QUE ATERRORIZANTE!
 	"""
 	keyWait
 		any = false
@@ -46,35 +46,34 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Ahhh⋯"
+	"Aaahhh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This kind of place
-	is so relaxing⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I love just hanging
-	out here⋯
+	Lugares assim são tão
+	relaxantes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's really
-	nothing better.
+	Eu adoro ficar de
+	bobeira aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whaddayah say?
-	Wanna just hang out
-	with me?
+	Coisa melhor, não há.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Que tal?
+	Quer ficar de bobeira
+	comigo?
 	"""
 	keyWait
 		any = false
@@ -85,43 +84,43 @@ script 2 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Should I turn right
-	at this street? Or
-	was it left?
+	Era para eu dobrar à
+	direita nesta rua?
+	Ou era à esquerda?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This one decision
-	will affect my whole
-	day. How scary⋯
+	Essa decisão vai afetar
+	o resto do meu dia
+	inteiro. Ai...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Which "
+	"Qual "
 	wait
 		frames = 10
-	"way "
+	"dire"
 	wait
 		frames = 10
-	"to "
+	"ção "
 	wait
 		frames = 10
-	"go?"
+	"seguir?"
 	wait
 		frames = 10
-	"\nLeft "
+	"\nEs"
 	wait
 		frames = 10
-	"or "
+	"querda "
 	wait
 		frames = 10
-	"maybe "
+	"ou "
 	wait
 		frames = 10
-	"right "
+	"direita"
 	wait
 		frames = 10
 	"?"
@@ -134,9 +133,9 @@ script 3 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	She's been just
-	standing there.
-	What's she doing?
+	Aquela ali tá parada
+	lá tem mó tempão.
+	O que ela tá fazendo?
 	"""
 	keyWait
 		any = false
@@ -147,14 +146,14 @@ script 4 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Dang!
-	Now I'm totally
-	lost⋯
+	Droga!
+	Agora eu me perdi
+	por completo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm such a fool!"
+	"Como sou idiota!"
 	keyWait
 		any = false
 	end
@@ -164,17 +163,17 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ORAN AREA1 HAS BEEN
-	RELEASED FROM
-	NEBULA'S GRIP!
+	A ÁREA ORAN 1 FOI
+	LIBERTADA DAS GARRAS
+	DA NEBULA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS GREAT.
-	NOTHING BEATS PEACE!
-	OR FREEDOM!!!
+	QUE MARAVILHA!
+	NADA SUPERA A PAZ!!
+	OU A LIBERDADE!!
 	"""
 	keyWait
 		any = false
@@ -185,16 +184,16 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	*whirrr*
-	*whirrrrrr*
+	VRRRRR...
+	VRRRRR...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Blue⋯Navi⋯
-	Blue⋯Navi⋯
-	Must deleeeete!!!
+	Navi... Azul...
+	Navi... Azul...
+	Vou... deletaaaar!!
 	"""
 	keyWait
 		any = false
@@ -213,7 +212,7 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go after
+	Lan, bora atrás do
 	GyroMan!
 	"""
 	keyWait
@@ -225,7 +224,7 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go after
+	Lan, bora atrás do
 	ShadowMan!
 	"""
 	keyWait
@@ -241,17 +240,17 @@ script 15 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	There's a Navi with
-	a nasty look to him
-	up ahead. Who is he?
+	Tem um Navi de
+	aparência maligna ali
+	na frente. Quem é ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess it's best if
-	we just keep a safe
-	distance from him.
+	Acho que é uma boa
+	a gente se manter
+	longe dele.
 	"""
 	keyWait
 		any = false
@@ -262,17 +261,17 @@ script 16 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	There's a Navi with
-	a nasty look to him
-	up ahead?
+	Tem um Navi de
+	aparência maligna ali
+	na frente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?!
-	You beat him?
-	Amazing!
+	Hã?!
+	Você venceu ele?
+	Que demais!
 	"""
 	keyWait
 		any = false
@@ -283,17 +282,17 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	There's this chip I
-	want but I'm short
-	on funds.
+	Tem um chip que eu
+	quero muito, mas tô
+	meio liso agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I asked for a small
-	discount and just
-	got a funny look.
+	Eu pedi um desconto na
+	loja e eles só fizeram
+	uma careta pra mim.
 	"""
 	keyWait
 		any = false
@@ -304,16 +303,16 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S NO OCEAN IN
-	ORAN AREA1.
+	NÃO EXISTE PRAIA NA
+	ÁREA ORAN 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU WANT TO TAKE
-	A DIP IN THE SEA,
-	TRY THE REAL WORLD!
+	SE VOCÊ QUISER DAR
+	UM MERGULHO NO MAR,
+	SÓ NO MUNDO REAL!
 	"""
 	keyWait
 		any = false
@@ -329,43 +328,43 @@ script 22 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Should I turn right
-	at this street? Or
-	was it left?
+	Era para eu dobrar à
+	direita nesta rua?
+	Ou era à esquerda?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This one decision
-	will affect my whole
-	life. How scary⋯
+	Essa decisão vai afetar
+	o resto do meu dia
+	inteiro. Ai...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Which "
+	"Qual "
 	wait
 		frames = 10
-	"way "
+	"dire"
 	wait
 		frames = 10
-	" to "
+	"ção "
 	wait
 		frames = 10
-	"go?"
+	"seguir?"
 	wait
 		frames = 10
-	"\nLeft "
+	"\nEs"
 	wait
 		frames = 10
-	"or "
+	"querda "
 	wait
 		frames = 10
-	"maybe "
+	"ou "
 	wait
 		frames = 10
-	"right "
+	"direita"
 	wait
 		frames = 10
 	"?"
@@ -378,25 +377,25 @@ script 23 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I'm a wandering
-	traveler of the
-	Cyberworld.
+	Eu sou um viajante
+	errante do mundo
+	cibernético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am a vagabond,
-	enjoying a journey
-	with no destination.
+	Um andarilho,
+	desfrutando de uma
+	jornada sem direção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Following the winds
-	and the whispering
-	trees⋯but to where?
+	Seguindo o vento e os
+	sussurros das árvores...
+	mas para onde?
 	"""
 	keyWait
 		any = false
@@ -407,17 +406,17 @@ script 30 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	This street goes to
-	the same place,left
-	or right.
+	Esta rua dá no mesmo
+	lugar, vire você à
+	esquerda ou à direita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe I
-	just stood there
-	agonizing so long.
+	Eu não acredito que
+	fiquei me matando pra
+	decidir por tanto tempo.
 	"""
 	keyWait
 		any = false
@@ -428,17 +427,16 @@ script 31 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm gonna bust
-	viruses for the
-	money.
+	Eu vou deletar uns vírus
+	pra juntar dinheiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll save up 10,000
-	Zennys and get that
-	chip I wanted!
+	Vou economizar 10.000
+	Zennys e comprar aquele
+	chip que eu quero!
 	"""
 	keyWait
 		any = false
@@ -449,9 +447,9 @@ script 32 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	My errands are done,
-	so maybe I'll take a
-	little side trip!
+	Terminei minhas compras,
+	então, acho que vou dar
+	uma explorada por aí!
 	"""
 	keyWait
 		any = false
@@ -466,61 +464,61 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEY,YOU,ARE YOU
-	LOST?
+	OI! VOCÊ SE PERDEU?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MYSTERIOUS "CYBER
-	CLOUD" WANDER
-	AROUND THIS AREA.
+	A ÁREA ESTÁ REPLETA
+	DE MISTERIOSAS
+	"CYBER NUVENS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN'T JUST WALK
-	AROUND NORMALLY.
+	NÃO DÁ PARA CIRCULAR
+	POR ELA COMO DE
+	COSTUME.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU JUST HAVE TO
-	GET THROUGH,THOUGH,
-	THERE IS A WAY⋯
+	MAS, SE PRECISAR MESMO
+	PASSAR, EXISTE UM
+	JEITO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT'S THAT YOU SAY?
-	YOU HAVE TO GET
-	THROUGH? I SEE⋯
+	HÃ? "VOCÊ PRECISA
+	MESMO PASSAR"?
+	ENTENDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ONE HUNDRED THOUSAND
-	ZENNYS SHOULD DO IT⋯
+	É SÓ MOLHAR A MINHA
+	MÃO COM CEM MIL
+	ZENNYS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAH! HAHA!!! JUST
-	KIDDING!
+	HA! HA HA!!!
+	BRINCADEIRA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE,TAKE THIS.
-	NO CHARGE,OF
-	COURSE!
+	TOME.
+	DE GRAÇA, CLARO!
 	"""
 	keyWait
 		any = false
@@ -533,7 +531,7 @@ script 40 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -551,139 +549,140 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WITH THE "VACUPROG",
-	JUST PRESS THE
-	A BUTTON.
+	COM O "PROGRAMA
+	ASPIRADOR",
+	É SÓ APERTAR "A".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'LL SUCK UP ANY
-	CYBER CLOUD.
+	ELE IRÁ ASPIRAR TODA
+	E QUALQUER CYBER
+	NUVEM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UNFORTUNATELY,ITS
-	CAPACITY IS RATHER
-	LIMITED.
+	INFELIZMENTE, O
+	ARMAZENAMENTO DELE
+	É BEM LIMITADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	REMAINING CAPACITY
-	IS SHOWN IN A GAUGE
-	ON THE RIGHT SIDE.
+	O ESPAÇO RESTANTE É
+	MOSTRADO EM UMA BARRA
+	À DIREITA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEN THIS IS FULL,
-	YOU CAN'T SUCK UP
-	ANY MORE CLOUDS.
+	QUANDO ELA SE ENCHE,
+	VOCÊ NÃO PODE ASPIRAR
+	MAIS NUVENS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF THIS HAPPENS,
-	BRING IT BACK TO ME.
+	SE ISSO ACONTECER,
+	É SÓ VOLTAR AQUI E
+	FALAR COMIGO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'LL EMPTY OUT YOUR
-	VACUPROG FOR YOU.
+	EU ESVAZIO O PROGRAMA
+	ASPIRADOR PARA VOCÊ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN ALSO CLEAN
-	IT OUT BY TALKING TO
-	MY ASSOCIATES IN
+	TAMBÉM DÁ PARA LIBERAR
+	ESPAÇO FALANDO COM OS
+	MEUS SÓCIOS NA ÁREA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE AREA,OR BY
-	MOVING TO ANOTHER
-	AREA.
+	OU INDO PARA OUTRA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH WAIT,I FORGOT TO
-	TELL YOU SOMETHING
-	IMPORTANT!
+	AH, ESPERE, ESQUECI
+	DE LHE FALAR UMA
+	COISA IMPORTANTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE DIFFERENT
-	KINDS OF CYBER
-	CLOUDS.
+	HÁ MÚLTIPLOS TIPOS
+	DIFERENTES DE CYBER
+	NUVENS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FOR INSTANCE,THERE
-	ARE FEW WHITE
-	CLOUDS,
+	POR EXEMPLO,
+	ALGUMAS DELAS SÃO
+	BRANCAS,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND WHEN YOU CATCH
-	THEM,THEY TAKE UP
-	1 GAUGE UNIT.
+	E, QUANDO VOCÊ AS
+	ASPIRA, ELAS OCUPAM
+	UMA UNIDADE NA BARRA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE GRAY CLOUDS
-	TAKE 3 UNITS AND THE
-	THUNDER ONES TAKE 5.
+	AS CINZA OCUPAM 3
+	UNIDADES, E AS COM
+	TROVÕES OCUPAM 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE GOLD CLOUDS
-	TAKE UP 1 UNIT,
+	AS NUVENS DOURADAS
+	OCUPAM 1 UNIDADE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND SOMETIMES YOU
-	MAY FIND AN ITEM IN
-	THEIR SHADOW.
+	E, ÀS VEZES, DÁ PARA
+	ACHAR ITENS NAS
+	SOMBRAS DELAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MAY FIND A VIRUS
-	THERE,TOO⋯
+	MAS TAMBÉM É POSSÍVEL
+	ACHAR VÍRUS LÁ...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO,DO YOU GET HOW
-	THIS WORKS?
+	BOM, ENTENDEU COMO
+	FUNCIOINA?
 	"""
 	keyWait
 		any = false
@@ -701,41 +700,41 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YAHOOOO!!!"
+	"FÚÚÚÚÚÚÚP!!!"
 	callVacuumProgReduce
 		amount = 100
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE WE GO!
-	YOUR VACUPROG IS
-	NOW EMPTY.
+	PRONTO! SEU PROGRAMA
+	ASPIRADOR FOI
+	ESVAZIADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"JUST A REMINDER⋯"
+	"E LEMBRANDO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHITE CLOUDS ARE 1,
-	GRAY ONES ARE 3,AND
-	THUNDER ONES ARE 5.
+	NUVENS BRANCAS
+	OCUPAM 1, CINZA, 3,
+	E AS COM TROVÕES, 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GOLD CLOUDS TAKE UP
-	1 UNIT AND HIDE
-	CLOUDS OR VIRUSES.
+	AS DOURADAS OCUPAM
+	1 UNIDADE E ESCONDEM
+	ITENS OU VÍRUS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DON'T FORGET!"
+	"NÃO VÁ ESQUECER!"
 	keyWait
 		any = false
 	end
@@ -745,17 +744,17 @@ script 42 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S THIS?
-	YOUR VACUPROG'S
-	ALREADY EMPTY.
+	UÉ? SEU PROGRAMA
+	ASPIRADOR JÁ ESTÁ
+	VAZIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COME BACK WHENEVER
-	YOU WANT TO EMPTY
-	OUT YOUR VACUPROG.
+	VOLTE AQUI QUANDO
+	PRECISAR ESVAZIAR SEU
+	PROGRAMA ASPIRADOR.
 	"""
 	keyWait
 		any = false
@@ -770,21 +769,21 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YAHOOOO!!!"
+	"FÚÚÚÚÚP!!!"
 	callVacuumProgReduce
 		amount = 100
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE WE GO!
-	YOUR VACUPROG IS
-	NOW EMPTY.
+	PRONTO! SEU PROGRAMA
+	ASPIRADOR FOI
+	ESVAZIADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GOOD LUCK TO YOU!"
+	"BOA SORTE!"
 	keyWait
 		any = false
 	end
@@ -794,16 +793,16 @@ script 44 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S THIS?
-	YOUR VACUPROG'S
-	ALREADY EMPTY.
+	UÉ? SEU PROGRAMA
+	ASPIRADOR JÁ ESTÁ
+	VAZIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARE YOU MAKING
-	FUN OF ME?
+	ISTO É UMA PEGADINHA,
+	POR ACASO?
 	"""
 	keyWait
 		any = false
@@ -835,7 +834,7 @@ script 46 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Huh?"
+	" Hã?"
 	select
 		default = 0
 		BSeparate = false
@@ -853,107 +852,107 @@ script 47 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OK,LET'S GO OVER
-	IT AGAIN.
+	OK, VAMOS REPASSAR
+	DE NOVO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH THE "VACUPROG",
-	JUST PRESS
+	COM O "PROGRAMA
+	ASPIRADOR", É SÓ
+	APERTAR "A".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE A BUTTON.
-	IT'LL SUCK UP ANY
-	CYBER CLOUD.
+	ELE IRÁ ASPIRAR TODA
+	E QUALQUER CYBER
+	NUVEM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHEN THE GAUGE ON
-	THE RIGHT FILLS UP,
-	IT CAN'T SUCK MORE.
+	QUANDO A BARRA À DI-
+	REITA FICAR CHEIA, NÃO
+	PODERÁ ASPIRAR MAIS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF THIS HAPPENS,
-	BRING IT BACK TO ME.
+	SE ISSO ACONTECER,
+	TRAGA-O DE VOLTA AQUI
+	E FALE COMIGO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN ALSO CLEAN
-	IT OUT BY TALKING TO
-	MY ASSOCIATES IN
+	TAMBÉM DÁ PARA
+	ESVAZIÁ-LO COM MEUS
+	SÓCIOS NA ÁREA,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE AREA,OR BY
-	MOVING TO ANOTHER
-	AREA.
+	OU INDO PARA OUTRA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE DIFFERENT
-	KINDS OF CYBER
-	CLOUDS.
+	EXISTEM DIFERENTES
+	TIPOS DE CYBER NUVENS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A WHITE CLOUD TAKES
-	UP ABOUT 1
-	GAUGE UNIT.
+	UMA NUVEM BRANCA
+	OCUPA 1 UNIDADE
+	DE BARRA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE GRAY CLOUDS
-	TAKE 3 UNITS AND THE
-	THUNDER ONES TAKE 5.
+	AS CINZA OCUPAM 3
+	UNIDADES, E AS COM
+	TROVÕES OCUPAM 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE GOLD CLOUDS
-	TAKE UP 1 UNIT,
+	AS NUVENS DOURADAS
+	OCUPAM 1 UNIDADE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND SOMETIMES YOU
-	MAY FIND AN ITEM IN
-	THEIR SHADOW.
+	E, ÀS VEZES, DÁ PARA
+	ACHAR ITENS NAS
+	SOMBRAS DELAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MAY FIND A VIRUS
-	THERE,TOO⋯
+	MAS TAMBÉM É POSSÍVEL
+	ACHAR VÍRUS LÁ...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO,DO YOU GET HOW
-	THIS WORKS?
+	ENTENDEU COMO
+	FUNCIONA?
 	"""
 	keyWait
 		any = false
@@ -967,14 +966,14 @@ script 48 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHEN THE GAUGE FILLS
-	UP,BRING IT TO ME
-	AND I'LL EMPTY IT.
+	QUANDO A BARRA FICAR
+	CHEIA, TRAGA-A PARA
+	MIM E EU A ESVAZIAREI.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GOOD LUCK TO YOU!"
+	"BOA SORTE!"
 	keyWait
 		any = false
 	end

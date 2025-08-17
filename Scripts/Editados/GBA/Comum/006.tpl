@@ -24,7 +24,7 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"What next,Lan?\n"
+	"O que quer fazer?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -35,7 +35,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Edit Folder\n"
+	" Editar Pasta\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -46,7 +46,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -83,7 +83,7 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 0
-	"What next,Lan?\n"
+	"O que quer fazer?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -94,7 +94,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -110,7 +110,7 @@ script 2 mmbn5 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"WHAT NEXT?\n"
+	"AÇÃO?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -121,7 +121,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Edit Folder\n"
+	" Editar Pasta\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -132,7 +132,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -149,7 +149,7 @@ script 3 mmbn5 {
 	msgOpen
 	textSpeed
 		delay = 0
-	"WHAT NEXT?\n"
+	"AÇÃO?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -160,7 +160,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -178,7 +178,7 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	textSpeed
 		delay = 0
-	"What Next,Lan?\n"
+	"O que quer fazer?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -189,7 +189,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Edit Folder\n"
+	" Editar Pasta\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -200,7 +200,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -219,7 +219,7 @@ script 5 mmbn5 {
 		mugshot = ProtoMan
 	textSpeed
 		delay = 0
-	"What Next,Lan?\n"
+	"O que quer fazer?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -230,7 +230,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -248,7 +248,7 @@ script 6 mmbn5 {
 		mugshot = Colonel
 	textSpeed
 		delay = 0
-	"What next,Lan?\n"
+	"O que quer fazer?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -259,7 +259,7 @@ script 6 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Edit Folder\n"
+	" Editar Pasta\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -270,7 +270,7 @@ script 6 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -289,7 +289,7 @@ script 7 mmbn5 {
 		mugshot = Colonel
 	textSpeed
 		delay = 0
-	"What next,Lan?\n"
+	"O que quer fazer?\n"
 	positionOptionVertical
 		width = 11
 	option
@@ -300,7 +300,7 @@ script 7 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Equip Folder"
+	" Equipar Pasta"
 	select
 		default = 0
 		BSeparate = false
@@ -337,9 +337,9 @@ script 8 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	This folder needs
-	to be edited again
-	before equipping it.
+	A pasta precisa
+	ser editada de novo
+	para ser equipada.
 	"""
 	keyWait
 		any = false
@@ -350,9 +350,9 @@ script 9 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	THIS FOLDER NEEDS
-	TO BE EDITED AGAIN
-	BEFORE EQUIPPING IT.
+	A PASTA PRECISA
+	SER EDITADA DE NOVO
+	PARA SER EQUIPADA.
 	"""
 	keyWait
 		any = false
@@ -364,7 +364,7 @@ script 10 mmbn5 {
 		mugshot = ProtoMan
 	textSpeed
 		delay = 0
-	"Can't be equipped."
+	"Não pode ser equipada."
 	keyWait
 		any = false
 	waitHold
@@ -375,7 +375,7 @@ script 11 mmbn5 {
 		mugshot = Colonel
 	textSpeed
 		delay = 0
-	"Can't be equipped."
+	"Não pode ser equipada."
 	keyWait
 		any = false
 	waitHold

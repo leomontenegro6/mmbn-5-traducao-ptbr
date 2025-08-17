@@ -7,7 +7,7 @@ script 0 mmbn5 {
 	"Ah! "
 	wait
 		frames = 30
-	"\nSorry,sorry!"
+	"\nDesculpa, desculpa!!"
 	keyWait
 		any = false
 	end
@@ -16,7 +16,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Erm,did you⋯"
+	"Er, você..."
 	keyWait
 		any = false
 	end
@@ -26,8 +26,8 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What? What is it?!
-	I'm in a hurry.
+	Quê? Que é?!
+	Tô com pressa.
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Did you see a girl
-	Navi on your way?
+	Você viu uma Navi
+	menina por aí?
 	"""
 	keyWait
 		any = false
@@ -54,30 +54,30 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"A girl Navi・"
+	"Uma Navi menina."
 	wait
 		frames = 20
-	"・"
+	"."
 	wait
 		frames = 20
-	"・"
+	"."
 	wait
 		frames = 40
-	"\nAh! That Navi!"
+	"\nAh! Aquela Navi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't talk to her
-	but I did see her
-	running inside.
+	Eu não falei com ela,
+	mas vi ela entrando
+	correndo ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She looked like she
-	was in a real hurry.
+	Parecia estar com
+	muita pressa mesmo.
 	"""
 	keyWait
 		any = false
@@ -90,9 +90,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So Meddy did go to
-	the Undernet⋯
-	Hurry,MegaMan!
+	Então, a Meddy entrou
+	mesmo na Undernet...
+	Rápido, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -103,8 +103,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Did you see a frog
-	Navi on your way?
+	Você viu um Navi
+	sapo por aí?
 	"""
 	keyWait
 		any = false
@@ -116,30 +116,30 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"A frog Navi・"
+	"Um Navi sapo."
 	wait
 		frames = 20
-	"・"
+	"."
 	wait
 		frames = 20
-	"・"
+	"."
 	wait
 		frames = 40
-	"\nAh! That Navi!"
+	"\nAh! Aquele Navi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't talk to him
-	but I did see him
-	running inside.
+	Eu não falei com ele,
+	mas vi ele entrando
+	correndo ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looked like he
-	was in a real hurry.
+	Parecia estar com
+	muita pressa mesmo.
 	"""
 	keyWait
 		any = false
@@ -152,9 +152,9 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So ToadMan did go to
-	the Undernet⋯
-	Hurry,MegaMan!
+	Então, o ToadMan foi
+	mesmo pra Undernet...
+	Rápido, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -164,7 +164,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -173,7 +173,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Wait a second!"
+	"Espera!"
 	keyWait
 		any = false
 	wait
@@ -185,9 +185,8 @@ script 10 mmbn5 {
 		frames = 30
 	clearMsg
 	"""
-	You're not planning
-	on going up there
-	are you?!
+	Você não tá pensando
+	mesmo em entrar aí, tá?!
 	"""
 	keyWait
 		any = false
@@ -198,8 +197,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hm? That was the
-	plan.
+	Hm?
+	Bom, sim, era o plano.
 	"""
 	keyWait
 		any = false
@@ -211,16 +210,16 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	You can't be
-	serious!
+	Não pode estar
+	falando sério!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe you
-	don't know⋯ They
-	come out up there!
+	Não acredito que você
+	não sabe...
+	Eles aparecem por lá!
 	"""
 	keyWait
 		any = false
@@ -232,7 +231,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Come out? Who?!"
+	"Aparecem? Quem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -243,28 +242,27 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Well,isn't it
-	obvious?!
+	Oras, não é óbvio?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ghosts! "
+	"Fantasmas!\n"
 	wait
 		frames = 20
-	"\nG・"
+	"\nF・a・"
 	wait
 		frames = 15
-	"h・"
+	"n・t・"
 	wait
 		frames = 15
-	"o・"
+	"a・s・"
 	wait
 		frames = 15
-	"s・"
+	"m・"
 	wait
 		frames = 15
-	"t・"
+	"a・"
 	wait
 		frames = 15
 	"s!"
@@ -278,7 +276,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ghosts?!"
+	"Fantasmas?!"
 	keyWait
 		any = false
 	clearMsg
@@ -290,24 +288,23 @@ script 16 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Yes!
-	Ghosts of dead
-	people!
+	É!
+	Fantasmas! Dos mortos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're all over the
-	place and they come
-	after you too!
+	Eles estão por toda
+	a parte, e virão atrás
+	de você também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they catch you,
-	they possess you⋯
+	Se eles te pegam,
+	eles te possuem...
 	"""
 	keyWait
 		any = false
@@ -321,7 +318,7 @@ script 17 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"⋯Huh."
+	"... Sei."
 	keyWait
 		any = false
 	clearMsg
@@ -335,61 +332,59 @@ script 18 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	And if you have a
-	virus-battle when
-	you're possessed,
+	E, se você lutar
+	contra vírus enquanto
+	tá possuído...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's really weird. I
-	can't explain it but
-	it's all wrong.
+	É-é esquisito. Eu não
+	sei explicar direito,
+	mas tudo fica errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like you can't
-	move your body
-	properly⋯
+	É como se você não
+	conseguisse mexer
+	o corpo direito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you use a lot
-	more energy than
-	normal⋯
+	E você gasta muito
+	mais energia que o
+	normal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You get irritated
-	for no real reason
-	too⋯
+	Você se irrita
+	sem motivo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	B-Basically,it's
-	like some kind of
-	curse!
+	B-basicamente, é tipo
+	uma maldição, sabe?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You're listening
-	but do you
-	understand?!
+	... Eu sei que cê tá
+	ouvindo, mas cê tá
+	ENTENDENDO?!
 	"""
 	keyWait
 		any = false
@@ -409,7 +404,7 @@ script 19 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -418,7 +413,7 @@ script 19 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -435,85 +430,80 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Tsk⋯
-	I am in a hurry,you
-	know⋯
+	Afe...
+	Eu tô com pressa, sabia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I suppose I'd
-	better tell you
-	again.
+	Mas, tá bom, acho que
+	vale a pena eu te
+	explicar de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If the ghosts catch
-	you,they possess
-	you.
+	Se os fantasmas te
+	pegam, eles te possuem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if you have a
-	virus-battle when
-	you're possessed,
+	E, se você lutar
+	contra vírus enquanto
+	tá possuído...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's really weird. I
-	can't explain it but
-	it's all wrong.
+	É-é esquisito. Eu não
+	sei explicar direito,
+	mas tudo fica errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like you can't
-	move your body
-	properly⋯
+	É como se você não
+	conseguisse mexer
+	o corpo direito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you use a lot
-	more energy than
-	normal⋯
+	E você gasta muito
+	mais energia que o
+	normal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You get irritated
-	for no real reason
-	too⋯
+	Você se irrita
+	sem motivo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	B-Basically,it's
-	like some kind of
-	curse!
+	B-basicamente, é tipo
+	uma maldição, sabe?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Well?
-	Now do you
-	understand?
+	... E aí?
+	Entendeu agora?
 	"""
 	keyWait
 		any = false
@@ -526,9 +516,9 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	⋯You do but you're
-	still not going to
-	turn back,right?
+	... E, mesmo entendendo,
+	cê ainda vai entrar lá,
+	não vai?
 	"""
 	keyWait
 		any = false
@@ -542,7 +532,7 @@ script 22 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"Huh!"
+	"Vou!"
 	keyWait
 		any = false
 	clearMsg
@@ -556,14 +546,14 @@ script 23 mmbn5 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Fine. You can't say
-	I didn't warn you if
-	you come a cropper.
+	Tá. Se cê sair todo
+	ferrado, não diga
+	que eu não avisei.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well,goodbye then!"
+	"Bom, falou!"
 	keyWait
 		any = false
 	end
@@ -576,9 +566,9 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If the place is that
-	scary,then we can't
-	leave Meddy there.
+	Se o lugar é sinistro
+	assim, então não podemos
+	deixar a Meddy lá.
 	"""
 	keyWait
 		any = false
@@ -591,9 +581,9 @@ script 25 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If the place is that
-	scary,then we can't
-	leave ToadMan there.
+	Se o lugar é sinistro
+	assim, então não podemos
+	deixar o ToadMan lá.
 	"""
 	keyWait
 		any = false
@@ -606,8 +596,8 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You're right. Let's
-	hurry,Lan!
+	Pois é.
+	Vamos logo, Lan!
 	"""
 	keyWait
 		any = false
@@ -619,7 +609,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh-huh!"
+	"Aham!"
 	keyWait
 		any = false
 	end

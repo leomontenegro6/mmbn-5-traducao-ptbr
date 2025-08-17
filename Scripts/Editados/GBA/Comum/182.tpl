@@ -3,8 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A door bars the way.
-	It won't open.
+	Uma porta barra o
+	caminho.
+	Não dá para abrir.
 	"""
 	keyWait
 		any = false
@@ -13,15 +14,15 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A dreadful DarkPower
-	blazes⋯
+	Um Poder das Trevas
+	sinistro queima...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It prevents any
-	further advance.
+	impedindo você de
+	avançar.
 	"""
 	keyWait
 		any = false
@@ -30,8 +31,8 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A huge door bars
-	the way.
+	Uma enorme porta
+	barra o caminho.
 	"""
 	keyWait
 		any = false

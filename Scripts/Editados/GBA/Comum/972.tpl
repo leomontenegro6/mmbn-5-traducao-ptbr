@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well,MegaMan?"
+	"E aí, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Someone else's here⋯"
+	"Tem mais alguém aqui..."
 	storeTimer
 		timer = 3
 		value = 1
@@ -32,8 +32,8 @@ script 2 mmbn5 {
 		mugshot = YoungTadashi
 	msgOpen
 	"""
-	The basic theory of
-	SoulNet is complete.
+	A teoria básica da
+	RedeAlma está concluída.
 	"""
 	keyWait
 		any = false
@@ -46,8 +46,8 @@ script 3 mmbn5 {
 		mugshot = YoungWily
 	msgOpen
 	"""
-	As is the design for
-	SoulServer⋯
+	Isso, e o projeto
+	do ServidorAlma...
 	"""
 	keyWait
 		any = false
@@ -60,23 +60,23 @@ script 4 mmbn5 {
 		mugshot = YoungTadashi
 	msgOpen
 	"""
-	If we complete our
-	joint research on
+	Se concluirmos a nossa
+	pesquisa conjunta
+	sobre a RedeAlma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet,we'll be
-	able to build a
+	poderemos construir um
+	mundo livre de discórdia,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	strife-free world
-	where people trust
-	each other.
+	no qual as pessoas
+	confiam umas nas outras.
 	"""
 	keyWait
 		any = false
@@ -89,9 +89,9 @@ script 5 mmbn5 {
 		mugshot = YoungWily
 	msgOpen
 	"""
-	Still,there's a
-	major problem that
-	must be solved⋯
+	Disso isso, ainda há
+	um grande problema que
+	temos de resolver...
 	"""
 	keyWait
 		any = false
@@ -103,22 +103,20 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = YoungTadashi
 	msgOpen
-	"Right."
+	"Pois é."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've done what we
-	can.
-	Now it's up to the
+	Fizemos todo o possível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	next generation to
-	finish this
-	research.
+	Agora, cabe à
+	próxima geração
+	concluir a pesquisa.
 	"""
 	keyWait
 		any = false
@@ -130,14 +128,14 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = YoungWily
 	msgOpen
-	"Yes?"
+	"Não é?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our offspring will
-	certainly complete
-	what we've started.
+	Os nossos filhos, com
+	certeza, vão terminar
+	o que nós começamos.
 	"""
 	keyWait
 		any = false
@@ -149,14 +147,14 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = YoungTadashi
 	msgOpen
-	"They won't fail us⋯"
+	"Sei que não irão\nnos decepcionar..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The "Hikari Report"
-	records all my son,
-	Yuichiro,needs.
+	O "Relatório Hikari"
+	registra tudo de que meu
+	filho, Yuichiro, precisa.
 	"""
 	keyWait
 		any = false
@@ -169,21 +167,24 @@ script 9 mmbn5 {
 		mugshot = YoungWily
 	msgOpen
 	"""
-	And I will pass my
-	design on to Regal⋯
+	E eu passarei o meu
+	projeto para o Regal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯So,we've reached
-	the final day of our
-	research⋯
+	... Bem, finalmente,
+	chegamos ao último dia
+	da nossa pesquisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I feel a bit sad⋯"
+	"""
+	Na verdade, isso me
+	deixa meio triste...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -195,8 +196,9 @@ script 10 mmbn5 {
 		mugshot = YoungTadashi
 	msgOpen
 	"""
-	Ha ha ha⋯ That's not
-	the Wily I know.
+	Ha ha ha...
+	Não estou te
+	reconhecendo, Wily!
 	"""
 	keyWait
 		any = false
@@ -209,38 +211,39 @@ script 11 mmbn5 {
 		mugshot = YoungWily
 	msgOpen
 	"""
-	Heh heh⋯ Well,
-	frankly,I was
+	He he...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	shocked when you
-	began talking about
+	Bom, para ser sincero,
+	eu fiquei um tanto
+	chocado quando você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	converting people's
-	souls into data
+	começou a falar em
+	converter as almas
+	das pessoas em dados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and linking them via
-	SoulServer to create
-	SoulNet.
+	e conectá-las através
+	do ServidorAlma para
+	criar a RedeAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But sure enough,
-	you did it Hikari.
-	You did it⋯
+	Mas você foi lá e fez.
+	Você conseguiu, Hikari.
+	Você conseguiu...
 	"""
 	keyWait
 		any = false
@@ -253,9 +256,9 @@ script 12 mmbn5 {
 		mugshot = YoungTadashi
 	msgOpen
 	"""
-	I couldn't have done
-	it without your
-	robotics technology.
+	Não teria conseguido
+	sem a sua tecnologia
+	robótica.
 	"""
 	keyWait
 		any = false
@@ -268,15 +271,16 @@ script 13 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Dr.Hikari,you
-	have a visitor.
+	Dr. Hikari,
+	o senhor tem visita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please come to the
-	3rd F. meeting room.
+	Por favor, venha à
+	sala de reuniões do
+	terceiro andar.
 	"""
 	keyWait
 		any = false
@@ -286,7 +290,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = YoungTadashi
 	msgOpen
-	"They're calling me."
+	"Estão me chamando."
 	keyWait
 		any = false
 	end
@@ -295,11 +299,11 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = YoungTadashi
 	msgOpen
-	"Well,I should go."
+	"Bom, é melhor eu ir."
 	keyWait
 		any = false
 	clearMsg
-	"See you later,Wily."
+	"Até mais, Wily."
 	keyWait
 		any = false
 	clearMsg
@@ -310,7 +314,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = YoungWily
 	msgOpen
-	"Bye."
+	"Até."
 	keyWait
 		any = false
 	end
@@ -320,15 +324,16 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That was Gramps
-	when he was young⋯
+	Aquele era o vovô
+	quando ele era jovem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And he was speaking
-	with a young Wily⋯
+	E ele tava falando com
+	o Wily quando ELE era
+	jovem...
 	"""
 	keyWait
 		any = false
@@ -340,26 +345,28 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"So the scientist"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Chaud said Gramps
-	conducted the joint
-	research with was
+	Então, o cientista com
+	quem o Chaud disse que
+	o vovô conduzia
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wily?!"
+	"""
+	a pesquisa conjunta...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"era o Wily?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And to think
-	Regal is really
-	Wily's son⋯
+	Quem ia imaginar que
+	o Regal era filho do
+	Wily...
 	"""
 	keyWait
 		any = false
@@ -371,15 +378,16 @@ script 19 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Dr.Wily,you
-	have a visitor.
+	Dr. Wily, o senhor
+	tem visita.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please come to the
-	1st F. meeting room.
+	Por favor, siga para
+	a sala de reuniões do
+	primeiro andar.
 	"""
 	keyWait
 		any = false
@@ -389,7 +397,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = YoungWily
 	msgOpen
-	"They're calling me."
+	"Estão me chamando."
 	keyWait
 		any = false
 	end
@@ -398,11 +406,11 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = YoungWily
 	msgOpen
-	"Well,I should go."
+	"Bom, é melhor eu ir."
 	keyWait
 		any = false
 	clearMsg
-	"Goodbye,Hikari."
+	"Nos vemos por aí, Hikari."
 	keyWait
 		any = false
 	clearMsg
@@ -413,7 +421,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = YoungTadashi
 	msgOpen
-	"Bye."
+	"Até."
 	keyWait
 		any = false
 	end
@@ -423,15 +431,16 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That was Wily
-	when he was young⋯
+	Aquele era o Wily
+	quando ele era jovem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And he was speaking
-	with a young Gramps⋯
+	E ele tava falando
+	com o vovô quando
+	ELE era jovem...
 	"""
 	keyWait
 		any = false
@@ -443,26 +452,28 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"So the scientist"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Baryl said Gramps
-	conducted the joint
-	research with was
+	Então, o cientista com
+	quem o Baryl disse que
+	o vovô conduzia
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wily?!"
+	"""
+	a pesquisa conjunta...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"era o Wily?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And to think
-	Regal is really
-	Wily's son⋯
+	Quem ia imaginar que
+	o Regal era filho do
+	Wily...
 	"""
 	keyWait
 		any = false
@@ -475,17 +486,16 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Gramps mentioned
-	the "Hikari Report,"
-	right? And Regal
+	O vovô mencionou o
+	"Relatório Hikari", né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	must have the Soul-
-	Net design handed
-	down from Wily.
+	E o Regal deve ter
+	herdado o projeto da
+	RedeAlma do Wily.
 	"""
 	keyWait
 		any = false
@@ -498,48 +508,50 @@ script 26 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So if Regal is after
-	the "Hikari Report,"
+	Se o Regal tá atrás
+	do "Relatório Hikari",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	does that mean he
-	intends to complete
+	quer dizer então que
+	ele pretende concluir
+	a RedeAlma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet,Gramps and
-	Wily's research?!
+	a pesquisa do
+	vovô e do Wily?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But weren't they
-	developing SoulNet
+	Mas eles não tavam
+	projetando a RedeAlma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to interlink people
-	and build a world
+	pra ligar as pessoas
+	e construir um mundo
+	em que elas pudessem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where they could
-	trust each other?
+	confiar umas nas
+	outras?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What is Regal up to?"
+	"O que é que\no Regal quer...?"
 	keyWait
 		any = false
 	clearMsg
@@ -552,15 +564,15 @@ script 27 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go talk
-	to Wily.
+	Lan, a gente devia
+	ir falar com o Wily.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe he can tell
-	us something.
+	Talvez ele possa nos
+	dizer alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -573,13 +585,14 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wily?! I'm not sure
-	that's a good idea⋯
+	Com o Wily?! Não sei
+	se essa é uma boa
+	ideia, não...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful."
+	"Toma cuidado."
 	keyWait
 		any = false
 	clearMsg
@@ -591,14 +604,14 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't worry.
-	That's the old Wily
-	over there.
+	Tá tudo bem.
+	Esse aí é o Wily
+	do passado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm gonna try."
+	"Eu vou tentar."
 	keyWait
 		any = false
 	end
@@ -607,7 +620,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Um,excuse me⋯"
+	"Er, com licença..."
 	keyWait
 		any = false
 	clearMsg
@@ -618,32 +631,34 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = YoungWily
 	msgOpen
-	"I hope a time will"
+	"Eu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	come when SoulNet
-	will be possible.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But it's really a
-	double-edged sword⋯
+	Eu espero que chegue
+	o dia em que a RedeAlma
+	seja possível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must think about
-	the worst scenario⋯
+	Mas, na realidade,
+	ela é uma faca de
+	dois gumes...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I should be going."
+	"""
+	Precisamos pensar
+	no pior dos casos...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"É melhor eu ir."
 	keyWait
 		any = false
 	end
@@ -652,20 +667,21 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ah,he's gone⋯"
+	"Ah, lá foi ele..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet's a
-	double-edged sword⋯?
+	A RedeAlma é uma
+	faca de dois gumes...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The worst scenario⋯?
-	What did he mean⋯?
+	Pior dos casos...?
+	O que será que ele
+	quis dizer com isso...?
 	"""
 	keyWait
 		any = false
@@ -678,35 +694,38 @@ script 33 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	At any rate,it seems
-	Regal is up to
+	Bom, parece pra mim
+	que o Regal tá
+	planejando fazer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whatever it was
-	Wily feared⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Regal⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	He's ruining
-	Gramps's dream.
-	MegaMan,jack out.
+	justamente essa coisa
+	que o Wily temia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go prepare
-	for the final battle
-	tomorrow.
+	Regal...
+	Ele tá arruinando
+	o sonho do vovô...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	MegaMan, desconecta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bora lá se preparar
+	pra batalha final
+	amanhã.
 	"""
 	keyWait
 		any = false
@@ -716,7 +735,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -726,15 +745,15 @@ script 35 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go talk
-	to Gramps.
+	Lan, vamos falar
+	com o vovô.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe he can tell
-	us something.
+	Talvez ele possa nos
+	dizer alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -746,7 +765,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,give it try."
+	"Boa. Tenta aí, por favor."
 	keyWait
 		any = false
 	clearMsg
@@ -757,7 +776,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -766,7 +785,7 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Um,excuse me⋯"
+	"Er, com licença..."
 	keyWait
 		any = false
 	clearMsg
@@ -777,23 +796,26 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = YoungTadashi
 	msgOpen
-	"SoulNet⋯"
+	"RedeAlma..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Surely our sons
-	can build such a
-	wonderful world.
+	Com certeza, nossos
+	filhos irão construir
+	esse mundo maravilhoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"They are our hope⋯"
+	"""
+	Eles são a nossa
+	esperança...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"I should be going."
+	"É melhor eu ir andando."
 	keyWait
 		any = false
 	end
@@ -802,7 +824,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ah,he's gone⋯"
+	"Ah, ele foi embora..."
 	keyWait
 		any = false
 	clearMsg
@@ -813,22 +835,24 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Regal⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	He's ruining
-	Gramps's dream.
-	MegaMan,jack out.
+	Regal...
+	Ele tá arruinando
+	o sonho do vovô...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go prepare
-	for the final battle
-	tomorrow.
+	MegaMan, desconecta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bora lá se preparar
+	pra batalha final
+	amanhã.
 	"""
 	keyWait
 		any = false
@@ -838,7 +862,7 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Tá bom!"
 	keyWait
 		any = false
 	end

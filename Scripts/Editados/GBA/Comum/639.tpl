@@ -5,29 +5,30 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BEEP BEEP!!!
-	CHUG CHUG CHUG!!!
-	BEEP CHUG BEEP⋯
+	BIP BIP!!!
+	TCHOC TCHOC TCHOC!!!
+	BIP TCHOC BIP...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯WHERE⋯DID EVERYONE
-	GO?⋯ARE⋯WE DONE
-	DIGGING⋯HOLES?
+	... ONDE... ESTÃO TODOS?
+	JÁ... TERMINAMOS...
+	DE CAVAR... BURACOS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T⋯LEAVE. I⋯CAN'T
-	STAND⋯BE⋯ING A⋯LONE.
+	NÃO... ME DEIXEM.
+	EU... NÃO... SUPORTO...
+	FICAR... SOZINHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"CHUG CHUG!!! BEEP!!!"
+	"TCHOC TCHOC!!! BIP!!!"
 	keyWait
 		any = false
 	end

@@ -8,13 +8,13 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	This area is tightly
-	guarded.
+	Esta área é
+	fortemente protegida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Check it out!"
+	"Observe!"
 	keyWait
 		any = false
 	end
@@ -26,7 +26,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's that?"
+	"O que é aquilo?"
 	keyWait
 		any = false
 	clearMsg
@@ -37,7 +37,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"A BarrierPanel."
+	"Um Quadro Barreira."
 	keyWait
 		any = false
 	clearMsg
@@ -49,8 +49,9 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Barrier⋯? We can't
-	walk over it?
+	Barreira...?
+	Não dá pra gente
+	só passar por cima?
 	"""
 	keyWait
 		any = false
@@ -63,25 +64,24 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	That's right. We
-	can't liberate it
-	either. And if we
+	Não. Também não
+	dá pra liberá-lo.
+	E, se dermos a volta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	go around it,there
-	will be too many
-	DarkPanels to hit.
+	haverá Quadros Negros
+	demais para conter.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to find
-	a key to unlock
-	the barrier⋯
+	Temos que achar uma
+	chave que desbloqueie
+	a barreira...
 	"""
 	keyWait
 		any = false
@@ -95,8 +95,7 @@ script 5 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	That would be my
-	job!
+	E esse é o MEU trabalho!
 	"""
 	keyWait
 		any = false
@@ -108,7 +107,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -120,22 +119,24 @@ script 7 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	The key must be
-	hidden somewhere
+	A chave deve estar
+	escondida bem nas
+	profundezas da área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	deep inside the
-	area. I can jump
+	O que é tranquilo pra
+	mim, porque eu posso
+	voar sobre os
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the DarkPanels
-	and sneak in there!
+	Quadros Negros e pegar
+	a chave de fininho!
 	"""
 	keyWait
 		any = false
@@ -148,14 +149,14 @@ script 8 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Good call. The
-	key should be
-	hidden in a remote
+	Boa ideia. A chave deve
+	estar escondida em um
+	quadro remoto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"panel. Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	clearMsg
@@ -167,16 +168,17 @@ script 9 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	It'll be a piece of
-	cake! No sweat!
+	Vai ser moleza!
+	Mamão com açúcar!
+	Use o Bombardeio de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use bomb liberation,
-	to liberate
-	DarkPanels directly!
+	Liberação pra liberar
+	Quadros Negros
+	diretamente!
 	"""
 	keyWait
 		any = false
@@ -189,14 +191,14 @@ script 10 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Complete the
-	liberation within 9
-	phases!
+	Tentem concluir a
+	liberação dentro de
+	nove fases!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -206,13 +208,13 @@ script 20 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	This area is tightly
-	guarded.
+	Esta área é
+	fortemente protegida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Check it out!"
+	"Observe!"
 	keyWait
 		any = false
 	end
@@ -221,7 +223,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's that?"
+	"O que é aquilo?"
 	keyWait
 		any = false
 	clearMsg
@@ -232,7 +234,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"A BarrierPanel."
+	"Um Quadro Barreira."
 	keyWait
 		any = false
 	clearMsg
@@ -244,8 +246,9 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Barrier⋯? We can't
-	walk over it?
+	Barreira...?
+	Não dá pra gente
+	só passar por cima?
 	"""
 	keyWait
 		any = false
@@ -258,25 +261,24 @@ script 24 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	That's right. We
-	can't liberate it
-	either. And if we
+	Não. Também não
+	dá para liberá-lo.
+	E, se dermos a volta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	go around it,there
-	will be too many
-	DarkPanels to hit.
+	haverá Quadros Negros
+	demais para conter.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to find
-	a key to unlock
-	the barrier⋯
+	Temos que achar uma
+	chave que desbloqueie
+	a barreira...
 	"""
 	keyWait
 		any = false
@@ -287,8 +289,8 @@ script 25 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I guess it's my
-	turn,then!
+	É aqui que eu
+	entro, imagino.
 	"""
 	keyWait
 		any = false
@@ -300,7 +302,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	clearMsg
@@ -312,23 +314,24 @@ script 27 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I don't think it'll
-	be easy to find
-	the key.
+	Aposto que não será
+	fácil encontrar a chave.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be hidden
-	deep inside.
+	Ela, provavelmente,
+	estará escondida
+	mais a fundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We may have to cross
-	over the DarkPanels.
+	Pode ser que precisemos
+	atravessar os Quadros
+	Negros.
 	"""
 	keyWait
 		any = false
@@ -341,14 +344,14 @@ script 28 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Good call. The
-	key should be
-	hidden in a remote
+	Bem observado. A chave
+	deve estar escondida
+	em um quadro remoto.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"panel. Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	clearMsg
@@ -360,9 +363,9 @@ script 29 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Leave it to me!
-	I'll sneak over
-	em like a ninja!
+	Uma tarefa simples. É
+	só eu chegar até eles de
+	fininho, como um ninja!
 	"""
 	keyWait
 		any = false
@@ -375,14 +378,14 @@ script 30 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Complete the
-	liberation within 9
-	phases!
+	Tentem concluir a
+	liberação dentro de
+	nove fases!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

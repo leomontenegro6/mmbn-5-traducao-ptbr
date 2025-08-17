@@ -21,9 +21,9 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PLEASE BE PATIENT.
-	THE NETWORK WILL BE
-	RESTORED SOON.
+	POR FAVOR, PACIÊNCIA.
+	A REDE LOGO SERÁ
+	RESTAURADA.
 	"""
 	keyWait
 		any = false
@@ -34,24 +34,25 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO ACDC
-	AREA3. WE DON'T GET
-	MANY VISITORS
+	BEM-VINDO À ÁREA
+	ACDC 3. NÃO RECEBEMOS
+	MUITAS VISITAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY'RE WORRIED
-	ABOUT THE EFFECTS OF
-	DARKPANELS?
+	SERÁ QUE SE PREOCUPAM
+	COM OS EFEITOS DOS
+	PAINEIS DAS TREVAS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DO WISH MORE
-	PEOPLE WOULD COME⋯
+	EU BEM QUE GOSTARIA
+	QUE MAIS PESSOAS
+	VIESSEM...
 	"""
 	keyWait
 		any = false
@@ -62,15 +63,14 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE NETWORK HAS BEEN
-	RESTORED!
+	A REDE FOI RESTAURADA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN FINALLY TAKE A
-	BREAK!
+	FINALMENTE, POSSO
+	FAZER UMA PAUSA!
 	"""
 	keyWait
 		any = false
@@ -81,9 +81,8 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,the network over
-	here hasn't been
-	restored yet.
+	Lan, a rede aqui ainda
+	não foi restaurada.
 	"""
 	keyWait
 		any = false

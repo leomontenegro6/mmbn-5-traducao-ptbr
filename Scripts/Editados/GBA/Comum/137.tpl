@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	The screen's numbers
-	and graphics are
-	constantly changing.
+	Os números e gráficos
+	na tela mudam
+	constantemente.
 	"""
 	keyWait
 		any = false
@@ -14,16 +14,15 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	This is SciLab's
-	main system.
+	Esse é o sistema
+	central do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is said to be
-	the most powerful
-	system in the world.
+	Diz-se ser o sistema
+	mais potente do mundo.
 	"""
 	keyWait
 		any = false
@@ -32,17 +31,17 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	SciLab's main system
-	delivers unrivaled
-	performance.
+	O sistema central do
+	SciLab opera a um
+	nível incomparável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The green LED
-	indicating jack in
-	approval is lit.
+	O LED verde
+	indicando que conexão
+	é possível está ligado.
 	"""
 	keyWait
 		any = false
@@ -51,16 +50,17 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	All data analyzed by
-	SciLab over the past
-	few decades is
+	Todos os dados
+	analisados pelo SciLab
+	nas últimas décadas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	stored here in
-	this main system.
+	ficam armazenados
+	aqui, neste sistema
+	principal.
 	"""
 	keyWait
 		any = false
@@ -69,17 +69,17 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	This card reader's
-	slot has a different
-	shape from the rest.
+	Este leitor de cartão
+	tem um formato
+	diferente dos demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A special ID card
-	is required to pass
-	through.
+	É necessário um cartão
+	de identificação
+	especial para passar.
 	"""
 	keyWait
 		any = false

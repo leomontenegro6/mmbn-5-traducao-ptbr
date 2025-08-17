@@ -39,17 +39,17 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENGINES SURE ARE A
-	LOT MORE WORK THAN
-	OTHER EQUIPMENT.
+	OS MOTORES DÃO MUITO
+	MAIS TRABALHO QUE OS
+	DEMAIS EQUIPAMENTOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY DO WE DO ALL THE
-	WORK?! I HATE THE
-	OTHER PROGRAMS!!!
+	ELES NOS DÃO TODO O
+	TRABALHO PESADO! EU
+	ODEIO OS OUTROS PROGS!
 	"""
 	keyWait
 		any = false
@@ -60,17 +60,17 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ENGINES GET REALLY
-	HOT ONCE THEY START
-	RUNNING!
+	OS MOTORES ESQUENTAM
+	PARA CARAMBA QUANDO
+	SÃO LIGADOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T STAND THIS
-	HEAT ANYMORE.
-	I SHOULD QUIT!
+	EU NÃO AGUENTO MAIS
+	ESSE CALOR. EU DEVIA
+	ERA PEDIR DEMISSÃO!
 	"""
 	keyWait
 		any = false
@@ -81,15 +81,15 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WAS BURNING UP
-	WITH ANGER.
+	EU TAVA ARDENDO
+	DE RAIVA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I FELT LIKE AN
-	OVERHEATED ENGINE.
+	PARECIA ATÉ UM
+	MOTOR SUPERAQUECIDO.
 	"""
 	keyWait
 		any = false
@@ -100,14 +100,14 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WAS SO ANNOYED,
-	I ALMOST ABANDONED
-	SHIP.
+	EU TAVA TÃO FURIOSO
+	QUE QUASE LARGUEI O
+	NAVIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M SO ASHAMED⋯"
+	"AH, QUE VEXAME..."
 	keyWait
 		any = false
 	end
@@ -117,20 +117,19 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE ENGINE'S
-	TRANSMISSION.
+	ESTA É A TRANSMISSÃO
+	DO MOTOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S THE HEART
-	OF THIS SHIP.
+	O CORAÇÃO DO NAVIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IT'S PUMPIN'!!!"
+	"E ELE TÁ BATENDO!!!"
 	keyWait
 		any = false
 	end
@@ -140,22 +139,22 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL HECK WOULD BREAK
-	LOSE IF I DIDN'T DO
-	MY JOB.
+	SERIA O MAIOR
+	PANDEMÔNIO SE EU NÃO
+	FIZESSE O MEU TRABALHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NO LIGHT,HOT AND
-	SWEATY CONDITIONS,
-	AND SPOILED FOOD⋯
+	NÃO TERIA LUZ, O
+	NAVIO FICARIA QUENTE,
+	A COMIDA ESTRAGARIA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BUT I CAN HANDLE IT!"
+	"MAS EU DOU CONTA!"
 	keyWait
 		any = false
 	end

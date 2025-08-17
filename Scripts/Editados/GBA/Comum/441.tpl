@@ -5,17 +5,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WARNING! WARNING!
-	WE RECEIVED AN
-	ADVANCE NOTICE
+	ALERTA! ALERTA!
+	RECEBEMOS UM AVISO DA
+	NEBULA DE UM FUTURO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OF A NEBULA ATTACK!
-	WHAT SHOULD WE
-	DO?!
+	ATAQUE!
+	OH, O QUE FAREMOS?!
 	"""
 	keyWait
 		any = false
@@ -26,13 +25,13 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I DON'T WANT TO TALK
-	TO ANYONE LIKE YOU!
+	NÃO QUERO FALAR COM
+	NINGUÉM DA SUA LAIA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M SO ANGRY!"
+	"ESTOU TÃO FURIOSO!"
 	keyWait
 		any = false
 	end
@@ -42,15 +41,15 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T
-	REMEMBER⋯
+	NÃO CONSIGO ME LEMBRAR
+	DE NADA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HOPE I DIDN'T SAY
-	ANYTHING TERRIBLE.
+	ESPERO NÃO TER FEITO
+	NADA DE MAU.
 	"""
 	keyWait
 		any = false
@@ -61,8 +60,8 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M STILL FRIGHTENED
-	EVEN NOW⋯
+	MESMO AGORA, SINTO
+	TANTO MEDO...
 	"""
 	keyWait
 		any = false

@@ -12,16 +12,17 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I came to fish but
-	I forgot the most
-	important thing⋯
+	Eu vim pra cá pra
+	pescar, mas esqueci a
+	coisa mais importante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My rod! What was I
-	thinking?!
+	A minha vara!
+	Onde é que eu tava com
+	a cabeça?!
 	"""
 	keyWait
 		any = false
@@ -32,17 +33,16 @@ script 11 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I wanted to shout
-	out to sea at the
-	top of my voice.
+	Que vontade de gritar
+	pro oceano a todo
+	volume...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's just not
-	the same at a port
-	like this.
+	Mas não tem a mesma
+	graça em um porto.
 	"""
 	keyWait
 		any = false
@@ -53,31 +53,30 @@ script 12 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Huh? What am I doing
-	here?
+	Hã? "O que eu estou
+	fazendo aqui?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm checking the
-	chips imported by my
-	company.
+	Estou vistoriando os
+	chips importados pela
+	minha empresa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to check
-	every one in this
-	container by myself!
+	Preciso conferir cada
+	um deles neste
+	contêiner, sozinho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a bit much,
-	don't you think?
+	Absurdo, né?
 	"""
 	keyWait
 		any = false
@@ -88,9 +87,8 @@ script 20 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Wow! It's so much
-	more impressive up
-	close!
+	Caramba! É muito mais
+	imponente de perto!
 	"""
 	keyWait
 		any = false
@@ -106,33 +104,33 @@ script 21 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	145⋯
-	146⋯
-	147⋯
+	145...
+	146...
+	147...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Oh,no!"
+	"... Ei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You made me lose
-	count!
+	Você me fez perder a
+	contagem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to check
-	all these chips
-	today.
+	Eu preciso vistoriar
+	todos estes chips até
+	o fim do dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't disturb me!"
+	"Não me perturbe!"
 	keyWait
 		any = false
 	end
@@ -142,17 +140,17 @@ script 22 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	The Queen Bohemia
-	will be departing
-	shortly.
+	O Rainha Boêmia irá
+	zarpar dentro de poucos
+	instantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would anyone with an
-	invite please
-	board immediately.
+	Todos que possuem um
+	convite, por favor,
+	embarquem de imediato.
 	"""
 	keyWait
 		any = false
@@ -168,16 +166,16 @@ script 23 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You can board the
-	Queen Bohemia if you
-	have an invite.
+	Só dá pra entrar no
+	Rainha Boêmia se você
+	tiver um convite.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't know that!
-	What a bummer!
+	Eu não sabia disso!
+	Caô!
 	"""
 	keyWait
 		any = false
@@ -187,14 +185,13 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"The sea's so cool!"
+	"O mar é tão perfeito!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just smelling the
-	salt in the air
-	makes me feel great!
+	Só sentir o cheiro do
+	sal no ar me reinvigora!
 	"""
 	keyWait
 		any = false
@@ -205,9 +202,9 @@ script 25 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	You just came off
-	the ship,right?
-	Were you on board?!
+	Cê acabou de descer
+	do navio, não foi?
+	Cê embarcou nele?!
 	"""
 	keyWait
 		any = false
@@ -218,16 +215,17 @@ script 26 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I've nearly finished
-	checking all these
-	imported chips.
+	Estou quase terminando
+	de vistoriar todos estes
+	chips importados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just a few more!
-	Then I can relax!
+	Falta pouco!
+	Aí, eu vou poder,
+	finalmente, descansar!
 	"""
 	keyWait
 		any = false
@@ -243,30 +241,30 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Excuse me⋯"
+	"Com licença..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	May I see your
-	invite,please?
+	Posso ver o seu
+	convite, por favor?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	That's fine.
-	You're welcome to go
-	on board.
+	Certo.
+	Você está livre para
+	embarcar.
 	"""
 	keyWait
 		any = false
@@ -276,14 +274,13 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Please remember⋯"
+	"Por favor, lembre-se:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't leave the
-	ship once you've
-	boarded.
+	não será possível deixar
+	o navio após embarcar.
 	"""
 	keyWait
 		any = false
@@ -299,8 +296,9 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Guess I can't board
-	without permission⋯
+	Acho que não dá
+	pra embarcar sem
+	permissão...
 	"""
 	keyWait
 		any = false
@@ -315,14 +313,14 @@ script 31 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Once you've boarded
-	you can't return to
-	port for a while.
+	Uma vez embarcado,
+	você ficará um tempo
+	sem poder voltar aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is that all right?"
+	"Está de acordo?"
 	keyWait
 		any = false
 	clearMsg
@@ -337,7 +335,7 @@ script 31 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -346,7 +344,7 @@ script 31 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -361,8 +359,8 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Then please! Step on
-	board!
+	Então, por favor,
+	suba a bordo!
 	"""
 	keyWait
 		any = false
@@ -377,9 +375,9 @@ script 32 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The ship will be
-	leaving soon. Please
-	hurry.
+	O navio partirá em
+	breve. Por favor,
+	não demore.
 	"""
 	keyWait
 		any = false
@@ -390,8 +388,8 @@ script 33 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	O-One moment⋯! Could
-	I please see your
+	S-só um instante...!
+	Eu posso ver o seu
 	"
 	"""
 	printItem
@@ -410,8 +408,8 @@ script 35 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We're heading for
-	End Area1,MegaMan!
+	A gente tem que ir pra
+	Área Endo 1, MegaMan!
 	"""
 	keyWait
 		any = false

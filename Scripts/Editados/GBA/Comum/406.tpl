@@ -11,45 +11,45 @@ script 0 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"*chomp chomp*"
+	"Nhac Nhac"
 	keyWait
 		any = false
 	clearMsg
-	"*chomp chomp*"
+	"Nhac Nhac"
 	keyWait
 		any = false
 	clearMsg
-	"*chomp chomp*"
+	"Nhac Nhac"
 	keyWait
 		any = false
 	clearMsg
-	"Aaack!!!"
+	"Aaahh!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"You surprised me!!!"
+	"Que susto!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not sneaking
-	some food!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	These are samples
-	for the next party.
+	Eu não tô comendo nada
+	escondida, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just doing some⋯
-	taste tests⋯
+	São degustações para
+	a próxima festa.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu só tô...
+	conferindo o gosto...
 	"""
 	keyWait
 		any = false
@@ -60,14 +60,14 @@ script 5 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	I can't let that
-	girl cleaning the
-	hall beat me!
+	Eu não vou deixar
+	aquela lá limpando o
+	corredor me vencer!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*wipe wipe wipe*"
+	"Limpa! Limpa! Limpa!"
 	keyWait
 		any = false
 	end
@@ -78,48 +78,47 @@ script 10 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"*chomp chomp*"
+	"Nhac Nhac"
 	keyWait
 		any = false
 	clearMsg
-	"*chomp chomp*"
+	"Nhac Nhac"
 	keyWait
 		any = false
 	clearMsg
-	"*chomp chomp*"
+	"Nhac Nhac"
 	keyWait
 		any = false
 	clearMsg
-	"Aaack!!!"
+	"Aaahh!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"You surprised me!!!"
+	"Que susto!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not slacking at
-	the cleaning and
-	sneaking some food!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm doing a taste
-	test on the new
-	party food!
+	Eu não tô fazendo uma
+	boquinha escondida pra
+	fugir da limpeza, viu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is serious
-	work!
-	No,seriously!!!
+	Só tô... degustando a
+	comida da próxima festa!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Isto aqui é trabalho
+	sério!
+	É SÉRIO!!!
 	"""
 	keyWait
 		any = false
@@ -130,40 +129,40 @@ script 15 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	How do you like this
-	feast!
+	E aí? Que "banquetão",
+	né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Unfortunately⋯"
+	"Mas, infelizmente..."
 	keyWait
 		any = false
 	clearMsg
-	"You can't eat this."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	All of this is fake.
-	We use this stuff to
-	practice serving.
-	"""
+	"Não dá para comer."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like those wax
-	samples outside of
-	restaurants.
+	É tudo falso.
+	É só pra usar pra
+	treinar servir as mesas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still,when I'm
-	hungry,it looks so
-	tasty⋯
+	Que nem aquela comida
+	de cera nas vitrines
+	dos restaurantes, sabe?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas... Mesmo sabendo,
+	quando bate a fome,
+	parecem TÃO bons...
 	"""
 	keyWait
 		any = false

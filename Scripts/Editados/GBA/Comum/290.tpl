@@ -15,26 +15,25 @@ script 0 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Not having Glide
-	around doesn't
-	bother me a bit!
+	Não ter o Glide aqui
+	não me incomoda nadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	Er⋯
-	Yeah,I only wish
-	that were true⋯
+	Er...
+	É, quem dera isso
+	fosse verdade...
 	"""
 	keyWait
 		any = false
@@ -45,14 +44,14 @@ script 5 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So many things are
-	difficult without
-	Glide to help.
+	Tanta coisa fica mais
+	difícil sem o Glide pra
+	me ajudar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*sigh*"
+	"Ai..."
 	keyWait
 		any = false
 	end
@@ -62,9 +61,9 @@ script 10 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	It's rather lonely
-	without Glide here
-	talking up a storm⋯
+	Fica bem solitário aqui
+	sem o Glide tagarelando
+	do meu lado...
 	"""
 	keyWait
 		any = false
@@ -80,9 +79,9 @@ script 15 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Mayl came to visit
-	and it really lifted
-	my spirits.
+	A Mayl veio visitar,
+	e isso me animou
+	bastante.
 	"""
 	keyWait
 		any = false
@@ -98,17 +97,16 @@ script 16 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,Nebula's really
-	causing trouble on
-	the Net.
+	Lan, a Nebula tá
+	aprontando alguma
+	coisa na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you jump on the
-	net,be extra 
-	areful,OK?
+	Se você for lá, toma
+	cuidado dobrado, tá?
 	"""
 	keyWait
 		any = false
@@ -119,16 +117,16 @@ script 20 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I just ate an ultra-
-	triple-scoop sundae
-	with Mayl.
+	Eu acabei de tomar um
+	sundae ultra-triplo com
+	a Mayl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I think I
-	overdid it⋯Ugh.
+	Mas acho que exagerei
+	na dose... Ugh.
 	"""
 	keyWait
 		any = false
@@ -139,15 +137,16 @@ script 21 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Yai devoured two
-	gigantic sundaes.
+	A Yai devorou dois
+	sundaes gigantes ainda
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope she doesn't
-	get sick.
+	Espero que ela não
+	fique doente.
 	"""
 	keyWait
 		any = false
@@ -173,24 +172,22 @@ script 30 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Queen Bohemia,a
-	cruise ship,is
-	moored
+	O Rainha Boêmia,
+	um cruzeiro,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at the harbor behind
-	SciLab.
+	está atracado no porto
+	atrás do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been aboard
-	once before. It's a
-	beautiful ship!
+	Eu já entrei nele antes.
+	É um navio lindo!
 	"""
 	keyWait
 		any = false
@@ -201,8 +198,8 @@ script 35 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Now,what to do
-	today?
+	Bom, vejamos o que eu
+	faço hoje...
 	"""
 	keyWait
 		any = false
@@ -217,32 +214,31 @@ script 40 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	An invite to the
-	party on the Queen
-	Bohemia?
+	Um convite para a
+	festa no Rainha Boêmia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Silly you! Why would
-	I have one?
+	Bobinho!
+	Por que eu teria um?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only the most elite
-	CEOs of the world's
-	corporations,
+	Somente os CEOs das
+	maiores empresas do
+	mundo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and a few princesses
-	are invited to that
-	one!
+	e alguns membros da
+	realeza, são convidados
+	pra essas coisas!
 	"""
 	keyWait
 		any = false
@@ -253,16 +249,15 @@ script 41 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	A party on the Deck
-	of the Queen
-	Bohemia.
+	Uma festa no convés
+	do Rainha Boêmia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's any girl's
-	dream!
+	É o sonho de toda
+	garota!
 	"""
 	keyWait
 		any = false
@@ -273,16 +268,15 @@ script 45 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Today I'm studying
-	at Mayl's house.
+	Hoje, eu vou na casa
+	da Mayl pra estudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That reminds me,
-	have you been
-	studying,Lan?
+	Aliás, VOCÊ tá com os
+	estudos em dia, Lan?
 	"""
 	keyWait
 		any = false

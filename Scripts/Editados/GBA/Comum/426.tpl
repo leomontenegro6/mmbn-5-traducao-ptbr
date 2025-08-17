@@ -9,30 +9,30 @@ script 0 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	GargCastle knows
-	you're one of
-	the team of Navis!
+	O Castelo Shachi sabe
+	sobre a sua equipe de
+	NetLutadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel bad making
-	kids fight on our
-	behalf.
+	Não me agrada nada
+	fazer crianças lutarem
+	por nós...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'm too weak
-	right now to
-	join the battle.
+	mas estou fraco demais
+	agora pra entrar na
+	luta agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please take this."
+	"Por favor, aceite isto."
 	keyWait
 		any = false
 	clearMsg
@@ -45,8 +45,8 @@ script 0 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -61,8 +61,9 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Good luck! We're
-	counting on you.
+	Boa sorte!
+	Contamos todos com
+	vocês.
 	"""
 	keyWait
 		any = false
@@ -73,8 +74,9 @@ script 1 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Good luck! We're
-	counting on you.
+	Boa sorte!
+	Contamos todos com
+	vocês.
 	"""
 	keyWait
 		any = false
@@ -90,9 +92,8 @@ script 10 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	I fought hard
-	but I wasn't
-	strong enough.
+	Eu lutei com tudo, mas
+	não fui forte o bastante.
 	"""
 	keyWait
 		any = false
@@ -103,9 +104,8 @@ script 20 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	This attack is
-	even worse
-	than before⋯
+	Este ataque é ainda
+	pior que o último...
 	"""
 	keyWait
 		any = false

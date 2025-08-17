@@ -22,7 +22,7 @@ script 1 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -37,19 +37,19 @@ script 1 mmbn5 {
 }
 script 2 mmbn5 {
 	msgOpen
-	"\"This door is under\n SciLab control."
+	"\"Esta porta está sob\ncontrole do SciLab."
 	keyWait
 		any = false
 	clearMsg
-	" Access from Oran\n Area to End Area\n ahead is restricted"
+	"O acesso da Área Oran\nà Área Endo à frente\nestá restrito"
 	keyWait
 		any = false
 	clearMsg
-	" due to measures\n taken against\n Nebula."
+	"devido a medidas\ntomadas contra a\nNebula."
 	keyWait
 		any = false
 	clearMsg
-	" Only authorized\n personnel are\n allowed here.\""
+	"Somente pessoal\nautorizado pode\npassar.\""
 	keyWait
 		any = false
 	end
@@ -57,8 +57,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A door bars the way.
-	It won't open.
+	Uma porta barra o
+	caminho.
+	Não dá para abrir.
 	"""
 	keyWait
 		any = false
@@ -74,7 +75,7 @@ script 4 mmbn5 {
 		jumpIfTeamColonel = 7
 	msgOpen
 	"""
-	ProtoMan used:
+	ProtoMan usou:
 	"
 	"""
 	printItem
@@ -97,56 +98,54 @@ script 5 mmbn5 {
 		jumpIfTeamColonel = 6
 	mugshotHide
 	msgOpen
-	"\"This door is under\n SciLab control."
+	"\"Esta porta está sob\ncontrole do SciLab."
 	keyWait
 		any = false
 	clearMsg
-	" Access from Oran\n Area to End Area\n ahead is restricted"
+	"O acesso da Área Oran\nà Área Endo à frente\nestá restrito"
 	keyWait
 		any = false
 	clearMsg
-	" due to measures\n taken against\n Nebula."
+	"devido a medidas\ntomadas contra a\nNebula."
 	keyWait
 		any = false
 	clearMsg
-	" Only authorized\n personnel are\n allowed here.\""
+	"Somente pessoal\nautorizado pode\npassar.\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do you think we can
-	open it, ProtoMan?
+	Acha que dá pra gente
+	abrir ela, ProtoMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Not likely⋯"
+	"Improvável..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll need the right
-	key before we can
-	do that.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The door is under
-	SciLab control⋯
+	Precisamos adquirir a
+	chave certa para isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe we should
-	head over to
-	SciLab Area?
+	A porta está sob o
+	controle do SciLab...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Talvez devêssemos ir
+	à Área SciLab?
 	"""
 	keyWait
 		any = false
@@ -157,56 +156,54 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	mugshotHide
 	msgOpen
-	"\"This door is under\n SciLab control."
+	"\"Esta porta está sob\ncontrole do SciLab."
 	keyWait
 		any = false
 	clearMsg
-	" Access from Oran\n Area to End Area\n ahead is restricted"
+	"O acesso da Área Oran\nà Área Endo à frente\nestá restrito"
 	keyWait
 		any = false
 	clearMsg
-	" due to measures\n taken against\n Nebula."
+	"devido a medidas\ntomadas contra a\nNebula."
 	keyWait
 		any = false
 	clearMsg
-	" Only authorized\n personnel are\n allowed here.\""
+	"Somente pessoal\nautorizado pode\npassar.\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Do you think we can
-	open it, Colonel?
+	Acha que dá pra gente
+	abrir ela, Colonel?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Not likely⋯"
+	"Improvável..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll need the right
-	key before we can
-	do that.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The door is under
-	SciLab control⋯
+	Precisaremos da chave
+	certa para fazer isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe we should
-	head over to
-	SciLab Area?
+	A porta está sob o
+	controle do SciLab...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Talvez devêssemos ir
+	à Área SciLab?
 	"""
 	keyWait
 		any = false
@@ -217,7 +214,7 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	Colonel used:
+	Colonel usou:
 	"
 	"""
 	printItem
@@ -250,7 +247,7 @@ script 10 mmbn5 {
 		jumpIfTeamColonel = 11
 	msgOpen
 	"""
-	ProtoMan used:
+	ProtoMan usou:
 	"
 	"""
 	printItem
@@ -266,7 +263,7 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	Colonel used:
+	Colonel usou:
 	"
 	"""
 	printItem

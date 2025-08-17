@@ -17,8 +17,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hm⋯ This door
-	is locked.
+	Hm...
+	A porta tá trancada.
 	"""
 	keyWait
 		any = false
@@ -26,16 +26,16 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I think it's an
-	electronic lock⋯
+	Acho que é uma tranca
+	eletrônica...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see if we can
-	find the key data
-	for it around here.
+	Vamos ver se a gente
+	acha os dados da chave
+	dela por aqui.
 	"""
 	keyWait
 		any = false
@@ -48,8 +48,8 @@ script 1 mmbn5 {
 		jumpIfFalse = 4
 	msgOpen
 	"""
-	A pile of crates.
-	They are empty.
+	Uma pilha de caixas.
+	Todas vazias.
 	"""
 	keyWait
 		any = false
@@ -58,8 +58,8 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The door's
-	electronic lockis active.
+	A tranca eletrônica
+	da porta está ativa.
 	"""
 	keyWait
 		any = false
@@ -69,7 +69,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's unlocking!"
+	"Destrancou!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,9 +87,9 @@ script 4 mmbn5 {
 	flagSet
 		flag = 537
 	"""
-	⋯Hm?!
-	There's something
-	in the crate.
+	... Hm?!
+	Tem alguma coisa dentro
+	de uma das caixas.
 	"""
 	keyWait
 		any = false
@@ -101,8 +101,8 @@ script 4 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -118,8 +118,8 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A pile of crates.
-	They are empty.
+	Uma pilha de caixas.
+	Todas vazias.
 	"""
 	keyWait
 		any = false

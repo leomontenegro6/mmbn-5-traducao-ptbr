@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"30 minutes later⋯"
+	"Meia hora depois..."
 	keyWait
 		any = false
 	end
@@ -11,7 +11,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's almost time."
+	"Tá quase na hora."
 	keyWait
 		any = false
 	clearMsg
@@ -23,8 +23,7 @@ script 2 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan! Sorry to keep
-	you waiting!
+	Lan! Desculpa a demora.
 	"""
 	keyWait
 		any = false
@@ -34,7 +33,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hey,where's Dex?"
+	"Ué, cadê o Dex?"
 	keyWait
 		any = false
 	clearMsg
@@ -45,7 +44,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Not here yet."
+	"Ainda não chegou."
 	keyWait
 		any = false
 	clearMsg
@@ -57,16 +56,15 @@ script 5 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Well,he's got a lot
-	of nerve!
+	Ai, a ousadia dele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't have time
-	to wait around for
-	slackers!
+	Eu não tenho tempo
+	pra ficar esperando
+	gente preguiçosa!
 	"""
 	keyWait
 		any = false
@@ -77,9 +75,8 @@ script 6 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Don't worry,Yai,
-	he'll be here any
-	second.
+	Calma, Yai.
+	Ele aparece já, já.
 	"""
 	keyWait
 		any = false
@@ -90,9 +87,9 @@ script 7 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wonder why your
-	Dad would ask all of
-	us to come?
+	Mas por que será que
+	o seu pai chamou
+	todos nós pra lá?
 	"""
 	keyWait
 		any = false
@@ -105,24 +102,23 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You know,I actually
-	have no idea.
+	Pior que eu
+	nem faço ideia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But when Dad wants
-	to show something
-	to "everybody"⋯
+	Mas quando o papai
+	resolve mostrar uma
+	coisa pra "todo mundo"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can bet that
-	it's something far
-	out!
+	pode apostar que
+	a coisa é trilegal!!
 	"""
 	keyWait
 		any = false
@@ -134,7 +130,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Whoa!"
+	"Opa!"
 	keyWait
 		any = false
 	end
@@ -144,23 +140,23 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	*wheeze wheeze*
-	Sorry,dudes!
+	Uff... Uff...
+	Foi mal, gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was having so much
-	fun doing GutsMan's
-	maintenance⋯
+	Eu tava me divertindo
+	tando fazendo a
+	manutenção do GutsMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I forgot to leave on
-	time!
+	que perdi a noção
+	do tempo!
 	"""
 	keyWait
 		any = false
@@ -171,9 +167,8 @@ script 11 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	You need to download
-	a personal planner,
-	Dex!
+	Ai, baixa um programa
+	de agenda, Dex!
 	"""
 	keyWait
 		any = false
@@ -184,9 +179,9 @@ script 12 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Now,now,we're all
-	here,so let's go see
-	the big surprise!
+	Calma, calma. Bom, já
+	que tá todo mundo aqui,
+	vamos ver a surpresa!
 	"""
 	keyWait
 		any = false
@@ -199,8 +194,8 @@ script 13 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yeah,Mayl's right!
-	Follow me,everybody!
+	É, a Mayl tá certa!
+	Vem comigo, gente!
 	"""
 	keyWait
 		any = false

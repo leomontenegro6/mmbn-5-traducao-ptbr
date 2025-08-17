@@ -31,22 +31,26 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	People have
-	legs for a reason.
+	As pessoas têm
+	pernas por um motivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Problems are
-	solved in steps.
+	Problemas são
+	resolvidos...
+	um passo de cada vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah⋯ I guess so!"
+	"""
+	É... Acho que
+	são mesmo, né?
+	"""
 	keyWait
 		any = false
 	end
@@ -56,15 +60,15 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Guys who talk too
-	much aren't cool.
+	Homens que falam
+	demais não são legais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Real men lead
-	by example.
+	Homens de verdade
+	dão exemplo.
 	"""
 	keyWait
 		any = false
@@ -72,22 +76,21 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	But YOU sure
-	talk a lot,
-	MegaMan.
+	Mas VOCÊ fala pra
+	caramba, MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"What was that?"
+	"O que você disse?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Uh⋯ Forget it!"
+	"Er... Deixa pra lá!"
 	keyWait
 		any = false
 	end
@@ -97,27 +100,26 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cyberworld may
-	be nothing but
-	an illusion⋯
+	O mundo cibernético
+	pode não passar de
+	uma ilusão...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But I'M real."
+	"mas EU sou real."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I battle,therefore
-	I am.
+	Luto, logo existo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cyberworld,hear
-	me roar!
+	Mundo cibernético,
+	ouça a minha voz!
 	"""
 	keyWait
 		any = false
@@ -125,8 +127,8 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Wow,MegaMan⋯
-	That's deep.
+	Nossa, MegaMan...
+	Profundo.
 	"""
 	keyWait
 		any = false
@@ -136,27 +138,27 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I love sunsets."
+	"Eu adoro o pôr do sol."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how
-	blue I feel⋯
+	Por mais frio que
+	meu coração esteja...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They make everything
-	nice and red again.
+	ele sempre o aquece
+	com suas cores quentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well said,my man."
+	"Falou e disse, mano."
 	keyWait
 		any = false
 	end
@@ -179,20 +181,22 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	My MegaBuster
-	second to none.
+	O meu MegaTiro
+	é incomparável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wish I had a
-	bow like Cupid's for
+	Mas queria eu ter uma
+	flecha do cupido...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"that girl's heart."
+	"""
+	pro coração da morena.
+	"""
 	keyWait
 		any = false
 	end
@@ -202,15 +206,15 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The truly strong
-	person⋯
+	Uma pessoa forte
+	de verdade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Has come to terms
-	with their weakness.
+	é aquela que aceita
+	sua fraqueza.
 	"""
 	keyWait
 		any = false
@@ -219,35 +223,38 @@ script 11 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 155
-	"*Ring,ring!*"
+	"Trriiiim!"
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Lan
-	"It's the phone!"
+	"É uma ligação!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
-	"Lan,it's me!"
+	"Lan, sou eu!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Dex! What's up?"
+	"""
+	Dex! Fala aí, que
+	é que tá pegando?
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
 	"""
-	Um⋯I felt⋯
-	I'm feeling kind
-	of macho,I guess.
+	Hum... Eu, tipo...
+	ando me sentindo meio
+	machão, sei lá.
 	"""
 	keyWait
 		any = false
@@ -255,28 +262,28 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I knew it!
-	He's picking
-	up on my vibe!
+	Sabia! Ele está
+	captando as minhas
+	vibrações!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Follow me,Dex!"
+	"Venha comigo, Dex!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Dex
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Where the heck are
-	you going!?
+	Pera, aonde é
+	que cês vão?!
 	"""
 	keyWait
 		any = false
@@ -287,16 +294,17 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We'll be friends
-	forever,Lan.
+	Seremos amigos para
+	sempre, Lan. Falo
+	isso do fundo da alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's no joke.
-	Aw,sorry for
-	getting all mushy⋯
+	He, desculpa por
+	mandar esse papo
+	meloso...
 	"""
 	keyWait
 		any = false
@@ -307,16 +315,14 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Men fight for
-	the sake of
-	their pride.
+	O homem luta em prol
+	de seu orgulho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how
-	small it may be.
+	por menor que seja.
 	"""
 	keyWait
 		any = false
@@ -324,21 +330,21 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Uh⋯ MegaMan?
-	Are you okay?
+	Er... MegaMan?
+	Cê tá bem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Be serious!"
+	"SERIEDADE!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Urk!!!"
+	"Argh!!!"
 	keyWait
 		any = false
 	end
@@ -361,31 +367,30 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The world's changing
-	at lightning speed.
+	O mundo muda à
+	velocidade da luz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the faster you
-	move,the narrower
-	your vision becomes.
+	Mas quanto mais rápido,
+	mais estreita fica a
+	sua visão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why you've
-	got to stop and
-	look around you.
+	Por isso, é sempre bom
+	parar e olhar ao redor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Otherwise,it's easy
-	to lose yourself.
+	Do contrário,
+	é fácil se perder.
 	"""
 	keyWait
 		any = false
@@ -396,69 +401,70 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You send the
-	BattleChips,
+	Você manda os
+	chips,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I fire 'em.
-	・・・・・・
+	eu os disparo.
+	......
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BAM!"
+	"PÁ! "
 	soundDisableTextSFX
 	soundPlay
 		track = 174
-	"Bad guy falls."
+	"Bandido cai."
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
-	"Piece'a cake."
+	"Moleza."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cooool! Do it again!
-	Do it again!
+	Que legaaal!
+	Faz de novo!
+	Faz de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Uh,sure⋯"
+	"Er, claro..."
 	keyWait
 		any = false
 	clearMsg
-	"BAM!"
+	"PÁ! "
 	soundDisableTextSFX
 	soundPlay
 		track = 174
-	"Bad guy falls."
+	"Bandido cai."
 	keyWait
 		any = false
 	clearMsg
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Lan
-	"Aiiiieeee!!!"
+	"Aaaaaiin!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"That's my Lan!"
+	"Ah, Lan..."
 	keyWait
 		any = false
 	clearMsg
-	"Lan!?"
+	"Lan?"
 	keyWait
 		any = false
 	clearMsg
@@ -472,29 +478,29 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wonder just how
-	many enemies
+	Queria saber quantos
+	sujeitos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we'll have to defeat
-	to make it
+	a gente ainda vai
+	ter que vencer
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	through this mess
-	we're in?
+	pra sair desta
+	enrascada aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Good question."
+	"Boa pergunta."
 	keyWait
 		any = false
 	end
@@ -504,51 +510,52 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The wilds of
-	Cyberworld were
+	A imensidão do
+	mundo cibernético
+	foi o meu berço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my cradle. The
-	sound of gunfire,
-	my lullaby.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = Lan
-	"So what's the PET?"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	The PET? Uh⋯
-	My baby buggy?
+	E o som da pólvora,
+	minha canção de ninar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Baby buggy⋯?"
+	"E o PET, foi o quê?"
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	O PET? Er...
+	O meu leito?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = Lan
+	"Leito...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How's that different
-	from a cradle?
+	Mas isso não é a
+	mesma coisa que
+	"berço"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Uh⋯ Um⋯"
+	"Er... Hm..."
 	keyWait
 		any = false
 	end
@@ -571,50 +578,53 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No matter how
-	hurt I am,
+	Por mais ferido
+	que eu esteja, eu
+	nunca me entrego.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I stand my ground.
-	That's what my soul
+	É isso que a minha
+	alma me manda fazer
+	quando estou abatido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tells me to do,
-	whenever I'm down.
-	I won't back down.
+	Eu não recuo, jamais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GutsMan
-	"Oh,man,I agree!"
+	"""
+	Ah, cara!
+	Concordo, Guts!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Gasp!"
+	"Arh!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"What's wrong?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Did I just hear
-	GutsMan's voice⋯?
+	Eu... ouvi a voz do
+	GutsMan agora...?
 	"""
 	keyWait
 		any = false
@@ -625,30 +635,31 @@ script 31 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	My life may be
-	a tiny spark
+	Minha vida pode
+	ser só uma pequena
+	faísca
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	compared to the
-	life of the Earth.
+	se comparada à
+	vida na Terra...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I promise
-	I'll be a spark that
-	glows very brightly!
+	mas eu juro que serei
+	uma faísca que brilhará
+	forte, como o fogo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"A glowing spark?"
+	"Um brilho?"
 	keyWait
 		any = false
 	clearMsg
@@ -656,7 +667,7 @@ script 31 mmbn5 {
 		mugshot = Yai
 	mugshotAnimation
 		animation = 0
-	"Like this?"
+	"Tipo assim?"
 	keyWait
 		any = false
 	clearMsg
@@ -664,7 +675,7 @@ script 31 mmbn5 {
 		mugshot = Lan
 	mugshotAnimation
 		animation = 2
-	"Or maybe⋯"
+	"Ou talvez..."
 	keyWait
 		any = false
 	clearMsg
@@ -672,7 +683,7 @@ script 31 mmbn5 {
 		mugshot = BlueShirtBoy
 	mugshotAnimation
 		animation = 0
-	"Like this?"
+	"Assim?"
 	keyWait
 		any = false
 	clearMsg
@@ -680,7 +691,7 @@ script 31 mmbn5 {
 		mugshot = MegaMan
 	mugshotAnimation
 		animation = 2
-	"Aw,cut it out!"
+	"Ô, para com isso!"
 	keyWait
 		any = false
 	end
@@ -689,24 +700,24 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'm,like,so cool!"
+	"Ah, eu sou demais!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's fun to act like
-	this sometimes!
+	É divertido agir desse
+	jeito às vezes!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right? Hello?"
+	"Né? ... Oi?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Not really."
+	"Nem é."
 	keyWait
 		any = false
 	clearMsg
@@ -714,7 +725,7 @@ script 32 mmbn5 {
 		mugshot = MegaMan
 	mugshotAnimation
 		animation = 1
-	"*Sob*"
+	"... Chuif!"
 	keyWait
 		any = false
 	end
@@ -724,9 +735,9 @@ script 33 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The stronger the
-	wind,the higher
-	my soul flies!
+	Quanto mais forte
+	o vento, mais alto
+	minha alma voa!
 	"""
 	keyWait
 		any = false
@@ -734,15 +745,17 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Uh⋯ You mean,
-	like a kite?
+	Er... Tipo uma... pipa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Uh⋯No. Not at all."
+	"""
+	Ehr... N-não.
+	Não assim.
+	"""
 	keyWait
 		any = false
 	end

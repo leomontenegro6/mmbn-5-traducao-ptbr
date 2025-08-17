@@ -40,15 +40,15 @@ script 1 mmbn5 {
 		jumpIfTeamColonel = 33
 	msgOpen
 	"""
-	Trophies are
-	displayed on top.
+	Troféus ficam
+	expostos no topo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're from Lan's
-	NetBattles.
+	São das NetLutas do
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -57,15 +57,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Lan's PC customized
-	by his Dad.
+	O computador do Lan,
+	customizado pelo pai
+	dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a terminal
-	for jacking in.
+	Possui um terminal
+	para se conectar.
 	"""
 	keyWait
 		any = false
@@ -74,22 +75,22 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A carefully
-	displayed photo.
+	Uma foto
+	cuidadosamente exposta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's of two
-	small boys.
+	Ela mostra dois
+	garotinhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's one of Lan's
-	prized possessions.
+	É um dos pertences
+	mais queridos do Lan.
 	"""
 	keyWait
 		any = false
@@ -98,9 +99,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A closet jumbled
-	full of clothes
-	and toys.
+	Um armário bagunçado,
+	cheio de roupas e
+	brinquedos.
 	"""
 	keyWait
 		any = false
@@ -109,13 +110,10 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	There's a commanding
-	view of ACDC Town
+	A janela tem uma
+	vista fantástica
+	do Bairro ACDC.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"from here."
 	keyWait
 		any = false
 	end
@@ -123,16 +121,15 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A versatile
-	footstool.
+	Um escabelo
+	versátil.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There has not
-	been much use
-	for it lately.
+	Não tem sito muito
+	usado, ultimamente.
 	"""
 	keyWait
 		any = false
@@ -141,15 +138,15 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	Half-read books
-	litter the floor.
+	Livros lidos pela
+	metade cobrem o chão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The same pages have
-	been open for days.
+	Já estão abertos nas
+	mesmas páginas há dias.
 	"""
 	keyWait
 		any = false
@@ -158,15 +155,15 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Three comfortable
-	floor cushions that
+	Três confortáveis
+	almofadas planas
+	que parecem uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	look like a soccer
-	ball⋯
+	bola de futebol...
 	"""
 	keyWait
 		any = false
@@ -178,16 +175,16 @@ script 9 mmbn5 {
 		jumpIfTeamColonel = 34
 	msgOpen
 	"""
-	A poster of
-	"Master Otenko."
+	Um pôster do
+	"Mestre Otenko."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want to shout,
-	"Taiyohhhhh⋯⋯!" when
-	you see it.
+	Dá vontade de gritar
+	"Taiyohhhhh......!"
+	ao olhar para ele.
 	"""
 	keyWait
 		any = false
@@ -199,7 +196,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -210,7 +207,7 @@ script 10 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -219,7 +216,7 @@ script 10 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -239,8 +236,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Do you want to save
-	what happened today?
+	Salvar os eventos
+	do dia?
 	
 	"""
 	positionOptionHorizontal
@@ -253,7 +250,7 @@ script 11 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -262,7 +259,7 @@ script 11 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -284,8 +281,8 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Can I overwrite the
-	previous data?
+	Vamos sobrescever os
+	dados anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -298,7 +295,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -307,7 +304,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -330,7 +327,7 @@ script 13 mmbn5 {
 		jumpUnused = 0
 	"""
 	OK!
-	⋯All saved!
+	... Jogo salvo!
 	"""
 	keyWait
 		any = false
@@ -344,7 +341,7 @@ script 14 mmbn5 {
 	msgOpen
 	flagClear
 		flag = 4288
-	"Good night,Lan!"
+	"Boa noite, Lan!"
 	keyWait
 		any = false
 	end
@@ -353,11 +350,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"The save failed⋯"
+	"""
+	O salvamento não
+	funcionou...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll try again.\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -377,7 +377,7 @@ script 15 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Forget it"
+	" Esquece"
 	select
 		default = 0
 		BSeparate = false
@@ -416,8 +416,8 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you don't have
-	to sleep yet,right?
+	Lan, ainda tá cedo pra
+	você ir dormir, né?
 	"""
 	keyWait
 		any = false
@@ -425,7 +425,10 @@ script 19 mmbn5 {
 }
 script 20 mmbn5 {
 	msgOpen
-	"Too early to sleep⋯"
+	"""
+	Ainda é cedo para
+	dormir...
+	"""
 	keyWait
 		any = false
 	end
@@ -454,7 +457,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -465,7 +468,7 @@ script 23 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -474,7 +477,7 @@ script 23 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -510,7 +513,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -521,7 +524,7 @@ script 27 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -530,7 +533,7 @@ script 27 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -561,7 +564,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -572,7 +575,7 @@ script 29 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -581,7 +584,7 @@ script 29 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -612,7 +615,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -623,7 +626,7 @@ script 31 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -632,7 +635,7 @@ script 31 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -656,17 +659,17 @@ script 32 mmbn5 {
 script 33 mmbn5 {
 	msgOpen
 	"""
-	Action figures and
-	stuffed animals are
-	displayed on top.
+	Bonecos e bichos
+	de pelúcia ficam
+	expostos no topo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They don't seem to
-	be arranged in any
-	special manner.
+	Não parecem estar
+	organizados sob nenhum
+	critério específico.
 	"""
 	keyWait
 		any = false
@@ -675,16 +678,16 @@ script 33 mmbn5 {
 script 34 mmbn5 {
 	msgOpen
 	"""
-	A poster of
-	"Solar Boy Django."
+	Um pôster de
+	"Django, o Garoto Solar."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want to play
-	under the sun when
-	you see it.
+	Só de olhar para ele,
+	dá vontade de sair e
+	brincar no sol.
 	"""
 	keyWait
 		any = false
@@ -700,7 +703,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -711,7 +714,7 @@ script 35 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -720,7 +723,7 @@ script 35 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -746,8 +749,8 @@ script 37 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Do you want to save
-	what happened today?
+	Salvar os eventos
+	do dia?
 	
 	"""
 	positionOptionHorizontal
@@ -760,7 +763,7 @@ script 37 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -769,7 +772,7 @@ script 37 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -791,8 +794,8 @@ script 38 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Can I overwrite the
-	previous data?
+	Vamos sobrescever os
+	dados anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -805,7 +808,7 @@ script 38 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -814,7 +817,7 @@ script 38 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -835,7 +838,7 @@ script 39 mmbn5 {
 		jumpIfSuccessful = continue
 		jumpIfFailed = 41
 		jumpUnused = 0
-	"Save complete⋯"
+	"Salvamento concluído."
 	keyWait
 		any = false
 	clearMsg
@@ -848,7 +851,7 @@ script 40 mmbn5 {
 	msgOpen
 	flagClear
 		flag = 4288
-	"Pleasant dreams⋯"
+	"Bons sonhos..."
 	keyWait
 		any = false
 	end
@@ -857,11 +860,14 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"The save failed⋯"
+	"""
+	O salvamento não
+	funcionou...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll try again.\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -872,7 +878,7 @@ script 41 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -881,7 +887,7 @@ script 41 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -899,8 +905,9 @@ script 43 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Lan,you don't have
-	to go to bed yet.
+	Hikari, ainda não há
+	necessidade de você
+	ir dormir.
 	"""
 	keyWait
 		any = false
@@ -916,7 +923,7 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Bedtime already?\n"
+	"Já vai dormir?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -927,7 +934,7 @@ script 44 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -936,7 +943,7 @@ script 44 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -962,8 +969,8 @@ script 46 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Do you want to save
-	what happened today?
+	Salvar os eventos
+	do dia?
 	
 	"""
 	positionOptionHorizontal
@@ -976,7 +983,7 @@ script 46 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -985,7 +992,7 @@ script 46 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1007,8 +1014,8 @@ script 47 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Can I overwrite the
-	previous data?
+	Vamos sobrescever os
+	dados anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -1021,7 +1028,7 @@ script 47 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -1030,7 +1037,7 @@ script 47 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1051,7 +1058,7 @@ script 48 mmbn5 {
 		jumpIfSuccessful = continue
 		jumpIfFailed = 50
 		jumpUnused = 0
-	"Save complete⋯"
+	"Salvamento concluído."
 	keyWait
 		any = false
 	clearMsg
@@ -1065,8 +1072,9 @@ script 49 mmbn5 {
 	flagClear
 		flag = 4288
 	"""
-	Big day tomorrow.
-	Sleep well⋯
+	Amanhã será um dia
+	cheio.
+	Durma bem...
 	"""
 	keyWait
 		any = false
@@ -1076,11 +1084,14 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"The save failed⋯"
+	"""
+	O salvamento não
+	funcionou...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll try again.\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -1091,7 +1102,7 @@ script 50 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -1100,7 +1111,7 @@ script 50 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1118,8 +1129,8 @@ script 52 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	It's too early
-	to sleep,Lan.
+	Ainda está cedo para
+	ir dormir, Lan.
 	"""
 	keyWait
 		any = false

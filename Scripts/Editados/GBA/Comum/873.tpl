@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Had enough yet?"
+	"E aí? Cansou?"
 	keyWait
 		any = false
 	end
@@ -14,14 +14,18 @@ script 1 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Yes,impressive in
-	fact. More than we
-	expected,
+	Aham.
+	E, na verdade, isso
+	é bem impressionante.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"right Charlie?"
+	"""
+	É bem mais do que a
+	gente esperava, né,
+	Charlie?
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -33,8 +37,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you two
-	talking about?
+	Do que é que esses
+	dois tão falando?
 	"""
 	keyWait
 		any = false
@@ -47,19 +51,18 @@ script 3 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Now,do calm down,
-	Lan.
+	Calma, Lan. Calma!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You have won."
+	"Cês venceram."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GyroMan,I think they
-	make the grade.
+	Olha, GyroMan, acho
+	que eles passaram, viu?
 	"""
 	keyWait
 		any = false
@@ -72,8 +75,8 @@ script 4 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	OK. That's what I
-	thought you'd say.
+	É. Imaginei que você
+	fosse dizer isso.
 	"""
 	keyWait
 		any = false
@@ -84,8 +87,8 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Make the grade? What
-	grade?
+	Passamos?
+	Passamos no quê?
 	"""
 	keyWait
 		any = false
@@ -98,8 +101,8 @@ script 6 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	We'll become your
-	allies.
+	A gente vai pro
+	lado de vocês.
 	"""
 	keyWait
 		any = false
@@ -111,7 +114,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"É o quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -123,9 +126,9 @@ script 8 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	He means we're
-	willing to join your
-	team!
+	Tá, eu mastigo pra
+	você: a gente tá a fim
+	de entrar pra equipe!
 	"""
 	keyWait
 		any = false
@@ -139,7 +142,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No way?!"
+	"Mentira!"
 	keyWait
 		any = false
 	clearMsg
@@ -150,22 +153,22 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"Yes way!"
+	"Verdade!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I came all the way
-	from Netopia
+	Eu vim de bem longe,
+	lá da Ameropa,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to fight Nebula"
+	"pra lutar contra\na Nebula..."
 	keyWait
 		any = false
 	clearMsg
-	"at Chaud's request."
+	"a pedido do Chaud."
 	keyWait
 		any = false
 	end
@@ -175,17 +178,16 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We didn't want to
-	withhold information
-	from you
+	Não queríamos esconder
+	informações de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but Charlie insisted
-	that he be allowed
-	to test you.
+	Foi o Charlie quem
+	insistiu em darmos a ele
+	uma chance de testá-los.
 	"""
 	keyWait
 		any = false
@@ -209,9 +211,9 @@ script 13 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Well,GyroMan,
-	Charlie--did they
-	meet expectations?
+	E então, GyroMan,
+	Charlie? Eles atenderam
+	às expectativas?
 	"""
 	keyWait
 		any = false
@@ -224,8 +226,9 @@ script 14 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Over and above!
-	Right,Charlie?
+	Nossa, atenderam e
+	muito!
+	Né não, Charlie?
 	"""
 	keyWait
 		any = false
@@ -238,16 +241,15 @@ script 15 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Yes. A fine operator
-	and an excellent
-	Navi.
+	Aham. Um ótimo operador
+	e um Navi excelente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hope you welcome us
-	onto the team!
+	Espero que cês aceitem
+	a gente na equipe!
 	"""
 	keyWait
 		any = false
@@ -260,22 +262,23 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've got to be
-	kidding me,guys!
+	Vocês só podem tá
+	brincando!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're just getting
-	tested all around⋯
+	Cês só tavam fazendo a
+	gente de idiota com esse
+	teste, e... E...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah,well!
-	Welcome to the team!
+	... Ah, tudo bem!
+	Bem-vindos ao time!
 	"""
 	keyWait
 		any = false
@@ -288,9 +291,8 @@ script 17 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Shall we go ahead
-	and do our first
-	job?
+	E aí, vamos lá pro
+	nosso primeiro trabalho?
 	"""
 	keyWait
 		any = false
@@ -302,7 +304,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"First job?"
+	"Primeiro trabalho?"
 	keyWait
 		any = false
 	clearMsg
@@ -314,17 +316,17 @@ script 19 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I'll open the route
-	to the next area to
-	be liberated.
+	Eu vou abrir a rota
+	pra próxima área,
+	pra liberar ela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's that path that
-	you couldn't get
-	through.
+	Sabe, aquela rota que
+	vocês não conseguiram
+	atravessar.
 	"""
 	keyWait
 		any = false
@@ -336,7 +338,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You were watching?!"
+	"Você tava vendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -348,21 +350,22 @@ script 21 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Yeah,it really sent
-	you flying!
+	Aham. Nossa, aquelas
+	nuvens te mandaram
+	pra looonge!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That kind of thing
-	is right up my
-	alley.
+	Mas cuidar dessas
+	coisas é a minha
+	especialidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's head out!"
+	"Então, só bora!"
 	keyWait
 		any = false
 	end
@@ -371,7 +374,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's go,too!"
+	"Lan, vamos lá, também!"
 	keyWait
 		any = false
 	clearMsg
@@ -382,7 +385,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	end
@@ -391,7 +394,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Had enough yet?"
+	"E aí, já tá bom pra\nvocê?"
 	keyWait
 		any = false
 	end
@@ -401,13 +404,14 @@ script 25 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Yes,it was quite
-	enough,I think!
+	Está, sim.
+	Acho que já vi
+	o bastante.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Master?"
+	"Não concorda, Dark?"
 	keyWait
 		any = false
 	clearMsg
@@ -419,8 +423,8 @@ script 26 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you talking
-	about?!
+	Do que é que cê tá
+	falando?!
 	"""
 	keyWait
 		any = false
@@ -433,8 +437,8 @@ script 27 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	I think they make
-	the grade.
+	Sim. Eu diria
+	que eles passaram.
 	"""
 	keyWait
 		any = false
@@ -446,7 +450,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Yes,Master."
+	"Concordo."
 	keyWait
 		any = false
 	end
@@ -456,8 +460,8 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The grade? What
-	grade?
+	Passamos?
+	Passamos no quê?
 	"""
 	keyWait
 		any = false
@@ -470,8 +474,8 @@ script 30 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	We shall lend our
-	services to you.
+	Forneceremos nossos
+	serviços a vocês.
 	"""
 	keyWait
 		any = false
@@ -485,7 +489,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"É o quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -497,8 +501,9 @@ script 32 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	We're willing to
-	lend you our power.
+	Estamos dispostos a
+	entrar para a sua
+	equipe.
 	"""
 	keyWait
 		any = false
@@ -511,8 +516,7 @@ script 33 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You can't be
-	serious?!
+	É... é sério isso?!
 	"""
 	keyWait
 		any = false
@@ -524,22 +528,23 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"We're dead serious."
+	"Seríssimo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I came all the way
-	from my village
+	Fizemos uma longa
+	viagem partindo da
+	minha vila natal
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to fight Nebula,"
+	"para enfrentar a\nNebula..."
 	keyWait
 		any = false
 	clearMsg
-	"at Baryl's request."
+	"a pedido do Baryl."
 	keyWait
 		any = false
 	end
@@ -549,17 +554,16 @@ script 35 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We didn't want to
-	withhold information
-	from you
+	Não queríamos esconder
+	informações de vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but Dusk insisted
-	that he be allowed
-	to test you.
+	Foi o Dark quem pediu
+	que lhe déssemos uma
+	chance de testar vocês.
 	"""
 	keyWait
 		any = false
@@ -583,9 +587,9 @@ script 37 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Well,ShadowMan,
-	Dusk--did they
-	meet expectations?
+	E então, ShadowMan,
+	Dark? Eles atenderam
+	às suas expectativas?
 	"""
 	keyWait
 		any = false
@@ -597,7 +601,7 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Well,no complaints."
+	"Atenderam.\nNão tenho queixas."
 	keyWait
 		any = false
 	clearMsg
@@ -609,9 +613,9 @@ script 39 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Although they still
-	need training,there
-	is potential.
+	Ainda precisam de mais
+	treinamento, mas, com
+	certeza, têm potencial.
 	"""
 	keyWait
 		any = false
@@ -624,8 +628,8 @@ script 40 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Man,can this all be
-	for real?!
+	Inacreditável,
+	esta história toda...
 	"""
 	keyWait
 		any = false
@@ -638,9 +642,9 @@ script 41 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Shall we go ahead
-	and do our first
-	job?
+	Bom, que tal irmos
+	cumprir nosso primeiro
+	trabalho?
 	"""
 	keyWait
 		any = false
@@ -652,7 +656,7 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"First job?"
+	"Primeiro trabalho?"
 	keyWait
 		any = false
 	clearMsg
@@ -664,17 +668,17 @@ script 43 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I'll open the route
-	to the next area to
-	be liberated.
+	Eu irei abrir a rota
+	para a próxima área
+	a ser liberada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's that path that
-	you couldn't get
-	through.
+	Aquele caminho pelo
+	qual você não conseguiu
+	passar.
 	"""
 	keyWait
 		any = false
@@ -686,7 +690,7 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You were watching?!"
+	"Você tava vendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -698,16 +702,17 @@ script 45 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Keh heh! It really
-	sent you flying!
+	He! Sim, estava.
+	Vi como as nuvens te
+	mandaram para longe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I assure you the
-	same won't happen to
-	me.
+	Posso garantir que
+	o mesmo não irá
+	acontecer comigo.
 	"""
 	keyWait
 		any = false
@@ -717,7 +722,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,let's go,too!"
+	"Lan, vamos lá, também!"
 	keyWait
 		any = false
 	clearMsg
@@ -728,7 +733,7 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah!"
+	"Aham!"
 	keyWait
 		any = false
 	end

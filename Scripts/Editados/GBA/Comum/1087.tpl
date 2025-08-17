@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	I didn't think
-	you'd make it this
-	far into NebulaArea!
+	Nunca imaginei que você
+	chegaria tão longe assim
+	na Área Nebula!
 	"""
 	keyWait
 		any = false
@@ -36,23 +36,23 @@ script 2 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	If you want to know,
-	you'll have to
-	defeat me!
+	Se quiser saber mais,
+	terá que me derrotar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This world is filled
-	with the DarkPower.
+	Este mundo é repleto
+	de Poder das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You really think you
-	can take me down?
+	Acha mesmo que
+	conseguirá me
+	sobrepujar?!
 	"""
 	keyWait
 		any = false
@@ -82,8 +82,8 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	ShadeMan!
-	What's going on
-	out there?
+	O que é que tá
+	acontecendo aqui?
 	"""
 	keyWait
 		any = false
@@ -96,8 +96,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,get ready!
-	Battle routine,set!
+	MegaMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -109,7 +110,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -119,9 +120,9 @@ script 14 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -134,8 +135,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan,get ready!
-	Battle routine,set!
+	ProtoMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -147,7 +149,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -157,9 +159,9 @@ script 22 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -172,8 +174,9 @@ script 23 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	SerchMan,get ready!
-	Battle routine,set!
+	SearchMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -185,7 +188,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -195,9 +198,9 @@ script 26 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -210,8 +213,9 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	NapalmMan,get ready!
-	Battle routine,set!
+	NapalmMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -223,7 +227,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -233,9 +237,9 @@ script 30 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -248,8 +252,9 @@ script 31 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MagnetMn,get ready!
-	Battle routine,set!
+	MagnetMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -261,7 +266,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -271,9 +276,9 @@ script 38 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -286,8 +291,9 @@ script 39 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Colonel,get ready!
-	Battle routine,set!
+	Colonel, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -299,7 +305,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -309,9 +315,9 @@ script 46 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -324,8 +330,9 @@ script 47 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	NumberMan,get ready!
-	Battle routine,set!
+	NumberMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -337,7 +344,7 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -347,9 +354,9 @@ script 50 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -362,8 +369,9 @@ script 51 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	TomahawkMan,ready?
-	Battle routine,set!
+	TomahawkMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -375,7 +383,7 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -385,9 +393,9 @@ script 54 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	ShadeMan,
-	What the heck
-	is beyond him?
+	ShadeMan...
+	Mas o que será
+	aquilo atrás dele?
 	"""
 	keyWait
 		any = false
@@ -400,8 +408,9 @@ script 55 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	KnightMn,get ready!
-	Battle routine,set!
+	KnightMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -413,7 +422,7 @@ script 56 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end

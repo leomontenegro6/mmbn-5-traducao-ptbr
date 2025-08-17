@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"There you are⋯"
+	"Aí está você..."
 	keyWait
 		any = false
 	clearMsg
@@ -15,21 +15,21 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey!"
+	"Oi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna clobber
-	Regal and save my
+	Eu tô pronto pra dar
+	uma surra no Regal e
+	salvar o meu pai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad.
-	Where's Nebula's
-	home base,anyway?
+	Aliás, onde é que fica
+	a base da Nebula, mesmo?
 	"""
 	keyWait
 		any = false
@@ -42,8 +42,8 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It's at the highest
-	point in Electopia.
+	Está situada no ponto
+	mais alto de Ni-Hon.
 	"""
 	keyWait
 		any = false
@@ -56,13 +56,13 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The highest point
-	in Electopia⋯
+	O ponto mais alto
+	de Ni-Hon...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not Mt.Belenus?!"
+	"Não brinca!\nO Monte Fuji?!"
 	keyWait
 		any = false
 	clearMsg
@@ -74,16 +74,17 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Bingo⋯ At 12,389
-	ft.,it's the highest
-	point in Electopia.
+	Exatamente... Com 3.777
+	metros de altura, é o
+	ponto mais alto do país.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's base is
-	within its crater.
+	A base da Nebula está
+	localizada na cratera
+	dele.
 	"""
 	keyWait
 		any = false
@@ -96,15 +97,15 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How we gonna get all
-	the way up there?
+	Mas como a gente vai
+	fazer pra subir LÁ?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're not gonna
-	climb,are we?!
+	A gente não vai
+	escalar, vai?!
 	"""
 	keyWait
 		any = false
@@ -117,15 +118,14 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No,of course we're
-	not going to climb.
+	Não, claro que não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've arranged for
-	a chopper.
+	Eu já providenciei um
+	helicóptero para nós.
 	"""
 	keyWait
 		any = false
@@ -136,13 +136,13 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see you've thought
-	of everything.
+	Tô vendo que cê
+	pensou em tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Let's get going."
+	"Bom, vamos lá."
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +153,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯OK."
+	"... Vamos."
 	keyWait
 		any = false
 	end
@@ -162,7 +162,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's get in."
+	"Bora entrar."
 	keyWait
 		any = false
 	clearMsg
@@ -174,9 +174,9 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You got company,Lan⋯
-	I'll go ahead.
-	Make it quick.
+	Você tem companhia,
+	Lan... Eu vou na frente.
+	Não demore.
 	"""
 	keyWait
 		any = false
@@ -186,7 +186,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"There you are⋯"
+	"Aí está você..."
 	keyWait
 		any = false
 	clearMsg
@@ -197,21 +197,21 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey!"
+	"Oi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna clobber
-	Regal and save my
+	Eu tô pronto pra dar
+	uma surra no Regal e
+	salvar o meu pai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad.
-	Where's Nebula's
-	home base,anyway?
+	Aliás, onde é que fica
+	a base da Nebula, mesmo?
 	"""
 	keyWait
 		any = false
@@ -224,8 +224,8 @@ script 13 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	It's at the highest
-	point in Electopia.
+	Está situada no ponto
+	mais alto de Ni-Hon.
 	"""
 	keyWait
 		any = false
@@ -238,13 +238,13 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The highest point
-	in Electopia⋯
+	O ponto mais alto
+	de Ni-Hon...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not Mt.Belenus?!"
+	"Não brinca!\nO Monte Fuji?!"
 	keyWait
 		any = false
 	clearMsg
@@ -256,16 +256,17 @@ script 15 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Bingo⋯ At 12,389
-	ft.,it's the highest
-	point in Electopia.
+	Exatamente... Com 3.777
+	metros de altura, é o
+	ponto mais alto do país.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's base is
-	within its crater.
+	A base da Nebula está
+	localizada na cratera
+	dele.
 	"""
 	keyWait
 		any = false
@@ -278,15 +279,15 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	How we gonna get all
-	the way up there?
+	Mas como a gente vai
+	fazer pra subir LÁ?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're not gonna
-	climb,are we?!
+	A gente não vai
+	escalar, vai?!
 	"""
 	keyWait
 		any = false
@@ -299,15 +300,14 @@ script 17 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No,of course we're
-	not going to climb.
+	Não, claro que não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've arranged for
-	a chopper.
+	Eu já providenciei um
+	helicóptero para nós.
 	"""
 	keyWait
 		any = false
@@ -318,13 +318,13 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I see you've thought
-	of everything.
+	Tô vendo que cê
+	pensou em tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Let's get going."
+	"Bom, vamos lá."
 	keyWait
 		any = false
 	clearMsg
@@ -335,7 +335,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"⋯OK."
+	"... Vamos."
 	keyWait
 		any = false
 	end
@@ -344,7 +344,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's get in."
+	"Bora entrar."
 	keyWait
 		any = false
 	clearMsg
@@ -356,9 +356,9 @@ script 21 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	You got company,Lan⋯
-	I'll wait in the
-	chopper. Hurry up.
+	Você tem companhia,
+	Lan... Eu vou espero no
+	helicóptero. Não demore.
 	"""
 	keyWait
 		any = false
@@ -368,7 +368,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey guys⋯"
+	"Oi, gente..."
 	keyWait
 		any = false
 	clearMsg
@@ -380,8 +380,9 @@ script 23 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Why didn't you tell
-	us you're leaving!?
+	Por que cê não falou
+	pra gente que cê tava
+	indo pra lá?!
 	"""
 	keyWait
 		any = false
@@ -394,16 +395,17 @@ script 24 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I know we couldn't
-	really be of much
-	use to you guys but⋯
+	Eu sei que a gente
+	não pode fazer muita
+	coisa pra ajudar, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯we can handle the
-	worrying department!
+	... mas, pelo menos,
+	se preocupar, a gente
+	pode!
 	"""
 	keyWait
 		any = false
@@ -416,9 +418,9 @@ script 25 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	⋯Lan,
-	You better come back
-	in one piece⋯
+	... Lan.
+	É bom você voltar
+	em segurança, viu...?
 	"""
 	keyWait
 		any = false
@@ -430,28 +432,27 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Guys⋯"
+	"Pessoal..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll bring GutsMan,
-	Roll and Glide back
-	with me,you'll see.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I won't be
-	gone long!
+	Eu vou trazer o GutsMan,
+	a Roll e o Glide de
+	volta, juro pra vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I better
-	get going now.
+	Vai ser rapidinho!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bom, é melhor
+	eu ir agora.
 	"""
 	keyWait
 		any = false
@@ -469,8 +470,8 @@ script 27 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Promise you'll
-	be careful⋯
+	Promete que vai
+	tomar cuidado...
 	"""
 	keyWait
 		any = false
@@ -481,8 +482,8 @@ script 28 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Let's NetBattle when
-	you get back!
+	Bora NetLutar de novo
+	quando cê voltar!
 	"""
 	keyWait
 		any = false
@@ -494,7 +495,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Make us proud⋯"
+	"Faz bonito..."
 	keyWait
 		any = false
 	end
@@ -503,11 +504,11 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯OK,guys⋯"
+	"... Pessoal..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯I'm off!!!"
+	"... Tô indo!!!"
 	keyWait
 		any = false
 	end
@@ -516,7 +517,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"You ready?"
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -527,11 +528,11 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sorry to keep you"
+	"Desculpa por te\nfazer esperar."
 	keyWait
 		any = false
 	clearMsg
-	"waiting. Let's go!"
+	"Vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -544,7 +545,7 @@ script 33 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Right!"
+	"Certo!"
 	keyWait
 		any = false
 	end
@@ -553,7 +554,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"You ready?"
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -564,11 +565,11 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sorry for the"
+	"Desculpa a demora."
 	keyWait
 		any = false
 	clearMsg
-	"delay. Let's go!"
+	"Vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -581,7 +582,7 @@ script 36 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Roger!"
+	"Positivo!"
 	keyWait
 		any = false
 	end
@@ -590,7 +591,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"⋯⋯Lan."
+	"...... Lan."
 	keyWait
 		any = false
 	end

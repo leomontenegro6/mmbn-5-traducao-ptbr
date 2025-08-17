@@ -1,67 +1,67 @@
 @size 48
 
 script 0 mmbn5s {
-	" Dk Webmr Our BBS      "
+	" WebmrTrv Nosso fórum  "
 	end
 }
 script 1 mmbn5s {
-	" NO NAME  Nebula       "
+	" SEM NOME Nebula       "
 	end
 }
 script 2 mmbn5s {
-	" NO NAME  RE:Nebula    "
+	" SEM NOME RE:Nebula    "
 	end
 }
 script 3 mmbn5s {
-	" NO NAME  RE:RE:Nebul  "
+	" SEM NOME RE:RE:Nebul  "
 	end
 }
 script 4 mmbn5s {
-	" NO NAME  What's⋯?!    "
+	" SEM NOME O que...?!   "
 	end
 }
 script 5 mmbn5s {
-	" NO NAME  RE:What's⋯?  "
+	" SEM NOME RE:O que...  "
 	end
 }
 script 6 mmbn5s {
-	" NO NAME  Skarab       "
+	" SEM NOME Skarab       "
 	end
 }
 script 7 mmbn5s {
-	" NO NAME  Hlp!SP chps  "
+	" SEM NOME Chips SP     "
 	end
 }
 script 8 mmbn5s {
-	" NO NAME  DS chips     "
+	" SEM NOME Chips DS     "
 	end
 }
 script 9 mmbn5s {
-	" NO NAME  Confession   "
+	" SEM NOME Confissão    "
 	end
 }
 script 10 mmbn5s {
-	" NO NAME  RE:Confess   "
+	" SEM NOME RE:Confissã  "
 	end
 }
 script 11 mmbn5s {
-	" NO NAME  Crazy world  "
+	" SEM NOME Tudo doido   "
 	end
 }
 script 12 mmbn5s {
-	" ExNebula Softies      "
+	" ExNebula Molengas     "
 	end
 }
 script 13 mmbn5s {
-	" NO NAME  Dark world   "
+	" SEM NOME Mnd trevas   "
 	end
 }
 script 14 mmbn5s {
-	" Nonchan  Got NviCst!  "
+	" Nonchan  Comprei Cst  "
 	end
 }
 script 15 mmbn5s {
-	" Mabo     RE:Got NviC  "
+	" Mabo     RE:Cmpr Cst  "
 	end
 }
 script 16 mmbn5s {
@@ -73,47 +73,47 @@ script 17 mmbn5s {
 	end
 }
 script 18 mmbn5s {
-	" Goh      Dark Navi    "
+	" Goh      Navi Trevas  "
 	end
 }
 script 19 mmbn5s {
-	" Zono     RE:Dark Nav  "
+	" Zono     RE:Navi Trv  "
 	end
 }
 script 20 mmbn5s {
-	" Goh      And then⋯    "
+	" Goh      Aí...        "
 	end
 }
 script 21 mmbn5s {
-	" Saki     Tournaments  "
+	" Saki     Torneios     "
 	end
 }
 script 22 mmbn5s {
-	" WM Dex   RE:Tournmts  "
+	" WM Dex   RE:Torneios  "
 	end
 }
 script 23 mmbn5s {
-	" Mayl     RE:Tournmts  "
+	" Mayl     RE:Torneios  "
 	end
 }
 script 24 mmbn5s {
-	" Beltz    VarySword    "
+	" Beltz    VarSword     "
 	end
 }
 script 25 mmbn5s {
-	" Niko     Clouds       "
+	" Niko     Nuvens       "
 	end
 }
 script 26 mmbn5s {
-	" Rouge    RE:Clouds    "
+	" Rouge    RE:Nuvens    "
 	end
 }
 script 27 mmbn5s {
-	" Wolf     Ntwk Battle  "
+	" Lobo     Duelo Rede   "
 	end
 }
 script 28 mmbn5s {
-	" Koetsu   RE:Ntwk Bat  "
+	" Koetsu   RE:Duelo Rd  "
 	end
 }
 script 29 mmbn5s {

@@ -12,15 +12,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The Katanas
-	displayed here
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	are all quite
-	famous.
+	As katanas em
+	exposição aqui são todas
+	extremamente famosas.
 	"""
 	keyWait
 		any = false
@@ -29,16 +23,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The Katana was a
-	samurai's soul.
+	A katana era a alma
+	do samurai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was probably like
-	what a NetNavi is
-	to a NetBattler.
+	De certa forma, era
+	o que um NetNavi é
+	para um NetLutador.
 	"""
 	keyWait
 		any = false
@@ -46,22 +40,22 @@ script 2 mmbn5 {
 }
 script 3 mmbn5 {
 	msgOpen
-	"A Katana on display."
+	"Uma katana em\nexposição."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only the blade is
-	original. The hilt
-	has been replaced.
+	Somente a lâmina é
+	original. A empunhadura
+	foi substituída.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A jack in port
-	was added at the
-	time of repair.
+	Uma entrada de conexão
+	foi adicionada quando
+	ela foi reparada.
 	"""
 	keyWait
 		any = false
@@ -70,14 +64,17 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A Katana on display.
-	People the world
-	over love these
+	Uma katana em
+	exposição.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Katanas."
+	"""
+	Katanas são adoradas
+	por pessoas de todo o
+	mundo.
+	"""
 	keyWait
 		any = false
 	end
@@ -85,8 +82,9 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A sturdy iron grate
-	bars the way.
+	Grossas barras de
+	ferro bloqueiam o
+	caminho.
 	"""
 	keyWait
 		any = false
@@ -95,9 +93,9 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A description of
-	a war-torn era
-	100's of years ago.
+	Descrição de uma era
+	de guerras constantes
+	séculos atrás.
 	"""
 	keyWait
 		any = false
@@ -120,16 +118,17 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh⋯
-	What happened to
-	that samurai with
+	Ué...
+	O que aconteceu com
+	aquele samurai,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the armor and
-	Katana?
+	o que tava de
+	armadura, com uma
+	katana?
 	"""
 	keyWait
 		any = false
@@ -137,16 +136,16 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Maybe it has to
-	do with the door
-	in there⋯
+	Talvez tenha alguma
+	relação com aquela
+	porta ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That must be it⋯"
+	"Deve ter..."
 	keyWait
 		any = false
 	flagSet
@@ -156,16 +155,16 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A hologram of an
-	armored samurai is
-	projected here.
+	O holograma de um
+	samurai de armadura
+	é projetado aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He looks frightening
-	with Katana in hand.
+	Com a katana em mãos,
+	ele é intimidador.
 	"""
 	keyWait
 		any = false
@@ -191,15 +190,16 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	A samurai hologram
-	is projected here.
+	O holograma de um
+	samurai é projetado
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's unsatisfying
-	for some reason.
+	Por algum motivo,
+	é insatisfatório.
 	"""
 	keyWait
 		any = false

@@ -3,15 +3,15 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A dreadful DarkPower
-	blazes⋯
+	Um Poder das Trevas
+	sinistro queima...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It prevents any
-	further advance.
+	impedindo você de
+	avançar.
 	"""
 	keyWait
 		any = false

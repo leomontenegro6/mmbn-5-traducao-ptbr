@@ -16,16 +16,16 @@ script 1 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I knew you'd come,
+	Sabia que você viria,
 	MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get everyone
-	together and fight
-	the Nebula Navis!
+	Vamos reunir todo mundo
+	e dar uma surra nos
+	Navis da Nebula!
 	"""
 	keyWait
 		any = false
@@ -35,7 +35,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
@@ -47,8 +47,7 @@ script 3 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	What are you waiting
-	for?!
+	Tá esperando o quê?!
 	"""
 	keyWait
 		any = false
@@ -61,16 +60,15 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯We just came in
-	here to bring you
-	back.
+	... A gente só veio
+	aqui pra te trazer
+	de volta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to go home,
-	Meddy!
+	Vamos, Meddy!
 	"""
 	keyWait
 		any = false
@@ -80,22 +78,22 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"That's crazy!"
+	"Isso é um absurdo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't understand
-	why you've been
-	chosen as leader!
+	Argh, eu não entendo
+	por que você foi
+	escolhido como líder!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Meddy,get rid of
-	this loser so we can
-	go avenge ProtoMan!
+	Meddy, acaba logo com
+	esse otário pra gente
+	ir vingar o ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -107,14 +105,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Good idea!"
+	"Boa ideia!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Spineless kids like
-	him deserve what
-	they get!
+	Meninos covardes como
+	ele merecem uma dura!
 	"""
 	keyWait
 		any = false
@@ -125,8 +122,7 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you going
-	to do?!
+	O que a gente faz?!
 	"""
 	keyWait
 		any = false
@@ -139,8 +135,8 @@ script 8 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I'm going to open
-	your eyes!
+	Eu vou fazer você
+	abrir os olhos!
 	"""
 	keyWait
 		any = false
@@ -152,7 +148,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-Wait⋯"
+	"E-espera..."
 	keyWait
 		any = false
 	clearMsg
@@ -164,8 +160,7 @@ script 10 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Don't waste your
-	breath!
+	Não gaste saliva!
 	"""
 	keyWait
 		any = false
@@ -186,14 +181,14 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"I knew you'd come."
+	"Sabia que você viria."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get everyone
-	together and fight
-	the Nebula Navis!
+	Vamos reunir todo mundo
+	e dar uma surra nos
+	Navis da Nebula, coaxo!
 	"""
 	keyWait
 		any = false
@@ -203,7 +198,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
@@ -214,7 +209,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"What's the problem?"
+	"O que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -226,16 +221,15 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯We just came in
-	here to bring you
-	back.
+	... A gente só veio
+	aqui pra te trazer
+	de volta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to go home,
-	ToadMan!
+	Vamos, ToadMan!
 	"""
 	keyWait
 		any = false
@@ -245,14 +239,14 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"That's pathetic!"
+	"Ai, que patético!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ToadMan,let's do
-	them a favor and
-	open their eyes!
+	ToadMan, vamos fazer
+	um favor pra eles e
+	abrir seus olhos!
 	"""
 	keyWait
 		any = false
@@ -264,7 +258,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Okay!"
+	"OK, coaxo!"
 	keyWait
 		any = false
 	end
@@ -274,8 +268,7 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are you going
-	to do?!
+	O que a gente faz?!
 	"""
 	keyWait
 		any = false
@@ -288,8 +281,8 @@ script 19 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I'm going to open
-	your eyes!
+	Eu vou fazer você
+	abrir os olhos!
 	"""
 	keyWait
 		any = false
@@ -301,7 +294,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"W-Wait⋯"
+	"E-espera..."
 	keyWait
 		any = false
 	clearMsg
@@ -312,7 +305,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"No!"
+	"Não!"
 	keyWait
 		any = false
 	end

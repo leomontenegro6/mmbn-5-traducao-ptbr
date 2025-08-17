@@ -10,15 +10,15 @@ script 0 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	GRRRR! I'm so
-	angry!
+	GRRRR! Eu tô com
+	tanta raiva!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! You! Get
-	out of my face!
+	Ô! Tu, aí!
+	Sai da minha frente!
 	"""
 	keyWait
 		any = false
@@ -26,15 +26,15 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	What are you
-	waiting for?! Move!
+	Tá esperando o quê?!
+	ANDA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The sight of you
-	sickens me!
+	Olhar pra tua cara faz
+	eu querer vomitar!
 	"""
 	keyWait
 		any = false
@@ -44,14 +44,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
-	"That's my PET!"
+	"Esse PET é meu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give it back!
-	Give it back!
-	Give it back!
+	Devolve!
+	Devolve!
+	Devolve!
 	"""
 	keyWait
 		any = false
@@ -59,16 +59,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Shuddup!
-	It's MINE!
+	Cala a boca!
+	É MEU agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No it ain't!
-	No it ain't!
-	No it ain't!
+	Não vou!
+	Não vou!
+	Não vou!
 	"""
 	keyWait
 		any = false
@@ -80,15 +80,15 @@ script 4 mmbn5 {
 	msgOpen
 	"""
 	Grrrr!
-	Just go away!
+	Sai da minha frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just want to
-	hit everybody
-	I see!
+	Eu tô com uma vontade
+	de socar todo mundo
+	que aparece!!
 	"""
 	keyWait
 		any = false
@@ -104,8 +104,8 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find Nebula's
-	server,Lan!
+	Vamos achar o servidor
+	da Nebula, Lan!
 	"""
 	keyWait
 		any = false
@@ -119,8 +119,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go see
-	Chaud,Lan!
+	Bora lá falar com
+	o Chaud, Lan!
 	"""
 	keyWait
 		any = false
@@ -131,8 +131,8 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go see
-	Baryl,Lan!
+	Bora lá falar com
+	o Baryl, Lan!
 	"""
 	keyWait
 		any = false
@@ -143,16 +143,16 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I was so angry just
-	a little while ago.
+	Eu tava com tanta
+	raiva ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I feel
-	perfectly fine. What
-	happened?
+	Mas, agora, tô me
+	sentindo super bem.
+	O que aconteceu?
 	"""
 	keyWait
 		any = false
@@ -163,9 +163,9 @@ script 11 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I remember I said
-	terrible things.
-	But why⋯?
+	Eu falei uns negócios
+	tenebrosos...
+	Mas por quê?
 	"""
 	keyWait
 		any = false
@@ -176,15 +176,14 @@ script 12 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Huh?! Why
-	is this here?
+	Hã?! O que isto tá
+	fazendo aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And just whose
-	PET is this?!
+	E de quem é este PET?!
 	"""
 	keyWait
 		any = false
@@ -195,15 +194,14 @@ script 13 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	What?! Why
-	is this here?
+	Hã?! O que isto tá
+	fazendo aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And just where
-	is my PET?
+	E cadê o meu PET?
 	"""
 	keyWait
 		any = false
@@ -214,16 +212,16 @@ script 14 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I don't want to talk
-	to anybody. Sorry,
-	but my head hurts.
+	Não quero papo agora.
+	Desculpa, mas a minha
+	cabeça tá me matando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd better go
-	and lie down⋯
+	Acho que eu vou me
+	deitar...
 	"""
 	keyWait
 		any = false
@@ -238,7 +236,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"What happened?"
+	"O que houve?"
 	keyWait
 		any = false
 	end
@@ -253,8 +251,8 @@ script 21 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	What in the world
-	was I doing?!
+	Mas o que foi que me
+	deu na cabeça?!
 	"""
 	keyWait
 		any = false
@@ -265,9 +263,8 @@ script 30 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Looks like I was
-	affected by
-	Nebula's attack⋯
+	Parece que fui afetado
+	pelo ataque da Nebula...
 	"""
 	keyWait
 		any = false
@@ -278,16 +275,16 @@ script 31 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Nebula! That's
-	who drove
-	me insane!
+	A Nebula! Foram eles
+	que me fizeram
+	enlouquecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really lost my
-	mind back there!
+	Quase que eu perco um
+	parafuso ainda agora!
 	"""
 	keyWait
 		any = false
@@ -298,9 +295,9 @@ script 40 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I want to apologize
-	for my behavior
-	earlier. I'm sorry.
+	Desculpa pelo jeito
+	como eu agi antes.
+	Sérião.
 	"""
 	keyWait
 		any = false
@@ -308,8 +305,9 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	"""
-	That's OK. I want
-	to apologize,too.
+	Tá tudo bem.
+	Eu também queria
+	pedir desculpas.
 	"""
 	keyWait
 		any = false
@@ -320,15 +318,15 @@ script 42 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I wonder what's
-	going on⋯?
+	O que será que está
+	acontecendo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is Nebula up to
-	something again?
+	A Nebula está
+	aprontando de novo?
 	"""
 	keyWait
 		any = false
@@ -339,9 +337,9 @@ script 43 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I'd better stay
-	at home
-	for a while⋯
+	É melhor eu ir pra
+	casa descansar um
+	pouquinho...
 	"""
 	keyWait
 		any = false
@@ -352,23 +350,22 @@ script 45 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Looks like everybody
-	is staying home.
+	Parece que está todo
+	mundo em casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess a lot of
-	people are afraid
-	to leave.
+	Acho que tem muita
+	gente com medo de sair.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's all because of
-	the last incident⋯
+	Tudo por causa daquele
+	último incidente...
 	"""
 	keyWait
 		any = false
@@ -385,13 +382,13 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Enough's enough!"
+	"Chega!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No more negative
-	thoughts!
+	Cansei de pensar
+	negativo!
 	"""
 	keyWait
 		any = false
@@ -402,9 +399,8 @@ script 62 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	This is the final
-	showdown against
-	Nebula!
+	Hora da batalha final
+	contra a Nebula!
 	"""
 	keyWait
 		any = false
@@ -415,9 +411,9 @@ script 63 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	I'm so glad this
-	is the last battle!
-	What a feeling!
+	Que alegria que esta
+	é a batalha final!
+	Ô, sensação boa!
 	"""
 	keyWait
 		any = false
@@ -427,13 +423,13 @@ script 64 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"Heh heh!"
+	"He he!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You look so ready
-	to fight⋯!
+	Você parece pronto
+	para lutar...!
 	"""
 	keyWait
 		any = false
@@ -444,20 +440,20 @@ script 65 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I am SO nervous
-	all of a sudden.
+	Bateu um nervoso TÃO
+	grande de repente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's too late
-	to turn back!
+	Mas tarde demais pra
+	recuar agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"LET'S DO IT!"
+	"VAMO NESSA!"
 	keyWait
 		any = false
 	end
@@ -467,22 +463,22 @@ script 66 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Last night,I prayed
-	that we would win.
+	Ontem à noite, eu rezei
+	pela nossa vitória.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going to.
-	I can feel it.
+	A gente vai vencer.
+	Eu sinto isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're going
-	to WIN this one!
+	A gente VAI vencer
+	essa luta!
 	"""
 	keyWait
 		any = false
@@ -493,15 +489,15 @@ script 67 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	You don't look
-	nervous!
+	Você não parece
+	nervoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't get too
-	relaxed,either!
+	Mas não relaxe demais,
+	também!
 	"""
 	keyWait
 		any = false
@@ -512,8 +508,8 @@ script 68 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	I couldn't sleep
-	at all last night.
+	Não consegui pregar o
+	olho ontem à noite.
 	"""
 	keyWait
 		any = false
@@ -524,15 +520,15 @@ script 69 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	Meddy feels like a
-	million Zenny today!
+	A Meddy está em sua
+	melhor forma hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do my
-	best for her!
+	Darei tudo de mim para
+	apoiá-la!
 	"""
 	keyWait
 		any = false
@@ -543,9 +539,8 @@ script 70 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	I'm an announcer!
-	I can handle all
-	this pressure!
+	Eu sou uma repórter!
+	Eu aguento a pressão!
 	"""
 	keyWait
 		any = false
@@ -556,8 +551,8 @@ script 71 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,I'm waiting
-	for your return.
+	Lan, eu vou ficar
+	esperando você voltar.
 	"""
 	keyWait
 		any = false
@@ -568,8 +563,8 @@ script 72 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	We're counting on
-	you!
+	Tamos contando com
+	você!
 	"""
 	keyWait
 		any = false
@@ -580,8 +575,8 @@ script 73 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't get too
-	reckless!
+	Não vá fazer nenhuma
+	loucura!
 	"""
 	keyWait
 		any = false
@@ -592,9 +587,8 @@ script 74 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Do you go back to
-	the top of
-	Mt.Belenus?
+	Quer voltar para o
+	topo do Monte Fuji?
 	"""
 	keyWait
 		any = false
@@ -610,7 +604,7 @@ script 74 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -619,7 +613,7 @@ script 74 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -633,14 +627,13 @@ script 74 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabMan
-	"Understood."
+	"Entendido."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give me a yell
-	when you're
-	ready.
+	Avise-me quando
+	estiver pronto.
 	"""
 	keyWait
 		any = false
@@ -651,8 +644,8 @@ script 75 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Roger!
-	Let's go!
+	Entendido!
+	Vamos lá!
 	"""
 	keyWait
 		any = false

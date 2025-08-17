@@ -1,35 +1,35 @@
 @size 44
 
 script 0 mmbn5s {
-	"Liberation"
+	"Liberação"
 	end
 }
 script 1 mmbn5s {
-	"TwinLiberation"
+	"LiberaçãoDupla"
 	end
 }
 script 2 mmbn5s {
-	"TwinLiberation"
+	"LiberaçãoGêmea"
 	end
 }
 script 3 mmbn5s {
-	"LifeMelody"
+	"MelodiaVida"
 	end
 }
 script 4 mmbn5s {
-	"BombLiberation"
+	"BombaLiberação"
 	end
 }
 script 5 mmbn5s {
-	"SneakAttack"
+	"AtaqueFurtivo"
 	end
 }
 script 6 mmbn5s {
-	"PanelSearch"
+	"BuscaQuadro"
 	end
 }
 script 7 mmbn5s {
-	"NumberCheck"
+	"ChecagemNúmero"
 	end
 }
 script 8 mmbn5s {
@@ -37,36 +37,36 @@ script 8 mmbn5s {
 	end
 }
 script 9 mmbn5s {
-	"TomahawkSwing"
+	"CorteMchadinha"
 	end
 }
 script 10 mmbn5s {
-	"MagnetBarrier"
+	"BarrMagnética"
 	end
 }
 script 11 mmbn5s {
-	"LongSwrd"
+	"EspadaLonga"
 	end
 }
 script 12 mmbn5s {
-	"WideSwrd"
+	"EspadaLarga"
 	end
 }
 script 13 mmbn5s {
-	"ScrenDiv"
+	"InvestidaVisor"
 	end
 }
 script 14 mmbn5s {
-	"Save"
+	"Salvar"
 	end
 }
 script 15 mmbn5s {
-	"Pass"
+	"Passar"
 	end
 }
 script 18 mmbn5 {
 	msgOpen
-	"DarkPanels restored!"
+	"QdoNgros restaurados"
 	keyWait
 		any = false
 	end
@@ -74,9 +74,9 @@ script 18 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	Team becomes
-	invincible for
-	1 phase!!
+	Equipe fica
+	invencível por
+	uma fase!!
 	"""
 	keyWait
 		any = false
@@ -94,8 +94,8 @@ script 23 mmbn5s {
 script 24 mmbn5 {
 	msgOpen
 	"""
-	Damages the closest
-	enemy the most!
+	Machuca mais o
+	inimigo mais perto!
 	"""
 	keyWait
 		any = false
@@ -103,7 +103,7 @@ script 24 mmbn5 {
 }
 script 29 mmbn5 {
 	msgOpen
-	"Nothing happened⋯"
+	"Não houve nada..."
 	keyWait
 		any = false
 	end
@@ -111,9 +111,9 @@ script 29 mmbn5 {
 script 30 mmbn5 {
 	msgOpen
 	"""
-	No more DarkHoles!
-	Nothing will save
-	the Darkloids now!
+	Acabaram os Buracos
+	Negros! Os Darkloides
+	estão desprotegidos!
 	"""
 	keyWait
 		any = false
@@ -134,15 +134,15 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
@@ -150,16 +150,16 @@ script 32 mmbn5 {
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Good job,everyone!
+	 fases
+	Bom trabalho, gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Officials are
-	giving us a
-	special reward!
+	Os Oficiais nos
+	deram uma recompensa
+	especial!
 	"""
 	keyWait
 		any = false
@@ -170,8 +170,7 @@ script 32 mmbn5 {
 		amount = 1
 	mugshotHide
 	"""
-	You got a battle
-	chip for:
+	Adquiriu chip:
 	"
 	"""
 	printChip
@@ -201,29 +200,29 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" phases"
+	" fases"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a special
-	reward from
-	the Officials!
+	Eis aqui uma
+	recompensa especial
+	dos Oficiais!
 	"""
 	keyWait
 		any = false
@@ -234,8 +233,7 @@ script 33 mmbn5 {
 		amount = 1
 	mugshotHide
 	"""
-	You got a battle
-	chip for:
+	Adquiriu chip:
 	"
 	"""
 	printChip
@@ -265,29 +263,29 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" phases"
+	" fases"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad you
-	couldn't make it.
-	Have some Zennys.
+	Que pena que não
+	conseguiu. Aceite
+	estes Zennys.
 	"""
 	keyWait
 		any = false
@@ -299,7 +297,7 @@ script 34 mmbn5 {
 		jumpIfSome = continue
 	mugshotHide
 	"""
-	You got:
+	Recebeu:
 	"
 	"""
 	printBuffer
@@ -316,15 +314,15 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
@@ -332,16 +330,16 @@ script 35 mmbn5 {
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Good job,everyone!
+	 fases
+	Bom trabalho, gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	An Official will
-	giving us a
-	special reward!
+	Um Oficial nos deu
+	uma recompensa
+	especial!
 	"""
 	keyWait
 		any = false
@@ -352,8 +350,7 @@ script 35 mmbn5 {
 		amount = 1
 	mugshotHide
 	"""
-	You got a battle
-	chip for:
+	Adquiriu chip:
 	"
 	"""
 	printChip
@@ -372,29 +369,29 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" phases"
+	" fases"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Good job. Here's
-	a special reward
-	from the Officials.
+	Bom trabalho.
+	Eis uma recompensa
+	especial dos Oficiais.
 	"""
 	keyWait
 		any = false
@@ -405,8 +402,7 @@ script 36 mmbn5 {
 		amount = 1
 	mugshotHide
 	"""
-	You got a battle
-	chip for:
+	Adquiriu chip:
 	"
 	"""
 	printChip
@@ -425,28 +421,28 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" phases"
+	" fases"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad you
-	couldn't make it.
+	Que pena que não
+	conseguiram.
 	"""
 	keyWait
 		any = false
@@ -458,7 +454,7 @@ script 37 mmbn5 {
 		jumpIfSome = continue
 	mugshotHide
 	"""
-	You got:
+	Recebeu:
 	"
 	"""
 	printBuffer
@@ -475,15 +471,15 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
@@ -491,15 +487,15 @@ script 38 mmbn5 {
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	We did it,Lan!
+	 fases
+	Conseguimos, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We got a reward
-	from the Officials!
+	Os Oficiais nos
+	deram uma recompensa!
 	"""
 	keyWait
 		any = false
@@ -510,8 +506,7 @@ script 38 mmbn5 {
 		amount = 1
 	mugshotHide
 	"""
-	You got a battle
-	chip for:
+	Adquiriu chip:
 	"
 	"""
 	printChip
@@ -530,29 +525,29 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" phases"
+	" fases"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We did it!
-	We got a reward
-	from the Officials!
+	Conseguimos! E os
+	Oficiais nos deram
+	uma recompensa!
 	"""
 	keyWait
 		any = false
@@ -563,8 +558,7 @@ script 39 mmbn5 {
 		amount = 1
 	mugshotHide
 	"""
-	You got a battle
-	chip for:
+	Adquiriu chip:
 	"
 	"""
 	printChip
@@ -583,29 +577,29 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Target: "
+	"Meta: "
 	printBuffer
 		buffer = 2
 		minLength = 0
 		padZeros = false
 		padLeft = false
 	"""
-	 phases
-	Actual: 
+	 fases
+	Atual: 
 	"""
 	printBuffer
 		buffer = 1
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	" phases"
+	" fases"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad we
-	couldn't make it.
-	We got Zennys.
+	Que pena que não
+	conseguimos. Mas
+	nos deram Zennys.
 	"""
 	keyWait
 		any = false
@@ -617,7 +611,7 @@ script 40 mmbn5 {
 		jumpIfSome = continue
 	mugshotHide
 	"""
-	You got:
+	Recebeu:
 	"
 	"""
 	printBuffer
@@ -646,8 +640,8 @@ script 41 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We're all down?
-	Retreat! Retreat!
+	Fomos todos abatidos?
+	Retirada! Retirada!
 	"""
 	keyWait
 		any = false
@@ -658,8 +652,8 @@ script 42 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We're all down?
-	Retreat! Retreat!
+	Fomos todos abatidos?
+	Retirada! Retirada!
 	"""
 	keyWait
 		any = false
@@ -670,8 +664,8 @@ script 43 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Everyone's down.
-	We must retreat!
+	Todo mundo perdeu.
+	Temos que recuart!
 	"""
 	keyWait
 		any = false

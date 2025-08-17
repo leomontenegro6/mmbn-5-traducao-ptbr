@@ -10,9 +10,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No time to jack out,
-	MegaMan! Release the
-	electronic lock!
+	Não é hora de
+	desconectar, MegaMan!
+	Abre a tranca eletrônica!
 	"""
 	keyWait
 		any = false

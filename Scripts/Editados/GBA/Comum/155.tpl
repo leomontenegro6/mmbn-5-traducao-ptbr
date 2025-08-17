@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A clean,round
-	table used for
-	parties.
+	Uma mesa redonda bem
+	limpa, usada para
+	festas.
 	"""
 	keyWait
 		any = false
@@ -14,9 +14,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A clean,round
-	table used for
-	parties.
+	Uma mesa redonda bem
+	limpa, usada para
+	festas.
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A clean,round
-	table used for
-	parties.
+	Uma mesa redonda bem
+	limpa, usada para
+	festas.
 	"""
 	keyWait
 		any = false
@@ -50,16 +50,17 @@ script 4 mmbn5 {
 		jumpIfOutOfRange = 12
 	msgOpen
 	"""
-	The food's
-	actually fake.
+	Essa comida,
+	na verdade,
+	é de mentira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Between parties,
-	they display samples
-	of banquet dishes.
+	Entre uma festa e outra,
+	eles expôem amostras de
+	pratos do banquete.
 	"""
 	keyWait
 		any = false
@@ -68,16 +69,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Display stand with a
-	built-in hologram
-	system.
+	Plataforma de demons-
+	tração com um sistema
+	de holograma embutido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's also a port
-	for jacking in.
+	Também possui uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
@@ -95,8 +96,8 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	The candles give off
-	a soft light.
+	As velas irradiam
+	uma luz suave.
 	"""
 	keyWait
 		any = false
@@ -105,15 +106,15 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Expensive wine is
-	being chilled here.
+	Há vinho caro sendo
+	resfriado aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,I can jack into
-	the wine case!
+	Ah, é possível se
+	conectar na adega!
 	"""
 	keyWait
 		any = false
@@ -122,8 +123,8 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	Beautiful flowers
-	are displayed here.
+	Lindas flores
+	expostas aqui.
 	"""
 	keyWait
 		any = false
@@ -132,8 +133,9 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	Plates for eating
-	buffet style.
+	Pratos para uma
+	comilança digna de
+	um banquete.
 	"""
 	keyWait
 		any = false
@@ -151,14 +153,14 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	A lavish spread
-	of dishes from
-	around the world.
+	Uma extravagante
+	seleção de pratos
+	de todo o mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan gets hungry⋯"
+	"Lan fica com fome..."
 	keyWait
 		any = false
 	end
@@ -166,9 +168,9 @@ script 12 mmbn5 {
 script 14 mmbn5 {
 	msgOpen
 	"""
-	A fine statue that
-	features a mirror,
-	rests on a pillar.
+	Uma linda estátua
+	contendo um espelho,
+	ao lado de um pilar.
 	"""
 	keyWait
 		any = false
@@ -177,9 +179,8 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	Lan is reflected in
-	the mirror on the
-	pillar.
+	Lan é refletido no
+	espelho no pilar.
 	"""
 	keyWait
 		any = false
@@ -198,9 +199,9 @@ script 20 mmbn5 {
 		flag = 2382
 	msgOpen
 	"""
-	A highly-polished
-	mirror is fitted to
-	the pillar.
+	Um espelho polido com
+	afinco está anexado ao
+	pilar.
 	"""
 	keyWait
 		any = false
@@ -219,9 +220,9 @@ script 21 mmbn5 {
 		flag = 2383
 	msgOpen
 	"""
-	A highly-polished
-	mirror is fitted to
-	the pillar.
+	Um espelho polido com
+	afinco está anexado ao
+	pilar.
 	"""
 	keyWait
 		any = false
@@ -240,9 +241,9 @@ script 22 mmbn5 {
 		flag = 2384
 	msgOpen
 	"""
-	A highly-polished
-	mirror is fitted to
-	the pillar.
+	Um espelho polido com
+	afinco está anexado ao
+	pilar.
 	"""
 	keyWait
 		any = false

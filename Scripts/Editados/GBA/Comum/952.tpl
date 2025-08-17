@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Ha ha⋯
-	That's more like
-	it⋯
+	Har... Har...
+	Agora, sim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Still think you're
-	not up to it?!
+	Ainda acha que
+	não é adequado?!
 	"""
 	keyWait
 		any = false
@@ -29,7 +28,7 @@ script 1 mmbn5 {
 	storeTimer
 		timer = 0
 		value = 145
-	"Meddy⋯"
+	"Meddy..."
 	keyWait
 		any = false
 	end
@@ -38,16 +37,16 @@ script 2 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Look at how far this
-	delicate girl has
-	gone for you.
+	Olha só até que
+	ponto essa moça
+	delicada foi por você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to accept
-	now,leader!
+	Agora, cê vai ter
+	que aceitar, líder!
 	"""
 	keyWait
 		any = false
@@ -60,24 +59,23 @@ script 3 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	This kid certainly
-	put us in our place.
+	Essa menina deu uma
+	bela lição na gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She told us to come
-	here because she
-	could change your
+	Ela falou pra gente
+	vir aqui porque ela
+	podia te convencer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mind.
-	The others should be
-	along soon,right?
+	Os outros devem
+	chegar já, já, né?
 	"""
 	keyWait
 		any = false
@@ -88,17 +86,17 @@ script 4 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Most Navis would be
-	too scared to even
-	come to the Undernet
+	A maioria dos Navis
+	teria medo demais de
+	entrar na Undernet,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but this kid had the
-	courage to do that
-	and take you on too!
+	mas essa menina teve a
+	coragem de fazer isso
+	E lutar com você!
 	"""
 	keyWait
 		any = false
@@ -111,9 +109,9 @@ script 5 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	An unusual tactic
-	but it seems like it
-	might have worked.
+	Uma tática incomum,
+	mas parece ter
+	funcionado.
 	"""
 	keyWait
 		any = false
@@ -126,8 +124,9 @@ script 6 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	You can't beat a
-	bit of action!
+	Às vezes, só dá pra
+	falar com os punhos,
+	mesmo!
 	"""
 	keyWait
 		any = false
@@ -141,24 +140,25 @@ script 8 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	This kid and her
-	operator have been
+	Essa menina e a
+	operadora dela
+	estavam desesperadas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	desperate to do all
-	they can to make up
-	for what happened.
+	pra fazer todo o
+	possível pra expiarem
+	pelo que aconteceu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't turn your
-	back on them now! Or
-	Chaud either!
+	Cê não pode dar as
+	costas pra elas agora!
+	E nem pro Chaud!
 	"""
 	keyWait
 		any = false
@@ -168,36 +168,36 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Meddy,Jasmine."
+	"... Meddy, Jasmine...."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've really opened
-	my eyes!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I was too weak and
-	all I could think of
-	was running away.
+	Vocês abriram mesmo
+	os meus olhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I see that
-	the only way forward
-	is to keep fighting!
+	Eu fui fraco, e só
+	conseguia pensar em
+	fugir de tudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this
-	mission started!
+	Mas, agora, eu vejo que
+	o único caminho adiante
+	é continuar lutando!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bora começar
+	essa missão!
 	"""
 	keyWait
 		any = false
@@ -209,7 +209,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -223,9 +223,9 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Meddy,now that's
-	decided,you'd better
-	deal with that door!
+	Bom, Meddy, com isso
+	resolvido, hora de
+	você cuidar da porta!
 	"""
 	keyWait
 		any = false
@@ -237,7 +237,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"No problem!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -247,20 +247,20 @@ script 13 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Hold it,girl! Leave
-	this to me.
+	Ô, relaxa, garota!
+	Pode deixar isso comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can break through
-	here in no time.
+	Eu quebro isso
+	aí rapidinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Move over!"
+	"Sai da frente!"
 	keyWait
 		any = false
 	end
@@ -270,7 +270,7 @@ script 14 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Here goes!
+	Lá vai!
 	Raarrrgh!
 	"""
 	keyWait
@@ -282,14 +282,13 @@ script 15 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Kurh!
-	It didn't budge an
-	inch!
+	Krh!
+	Nem um arranhão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?!"
+	"O que tá rolando?!"
 	keyWait
 		any = false
 	end
@@ -299,38 +298,39 @@ script 16 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	You can't open that
-	door with force.
+	Não dá pra abrir essa
+	porta com força bruta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can I put this?
-	That door's made out
-	of anger and hatred.
+	Como eu explico...?
+	Essa porta é feita
+	de ódio e raiva.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you try to open
-	it with violence,it
-	won't work at all.
+	Se tentar abri-la com
+	violência, não vai
+	dar em nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Honestly,boys are
-	silly sometimes!
+	Ai, meninos são
+	uns bobos, mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is another
-	way. Watch this.
+	Tem outro jeito de
+	fazer as coisas.
+	Observem.
 	"""
 	keyWait
 		any = false
@@ -340,13 +340,13 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Here goes⋯"
+	"Lá vai..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HealingPulse!
-	Yaaaah!
+	Pulsação de Cura!
+	Iáááá!
 	"""
 	keyWait
 		any = false
@@ -356,7 +356,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"See!"
+	"Viu?!"
 	keyWait
 		any = false
 	clearMsg
@@ -367,7 +367,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"A-Amazing⋯"
+	"I-incrível..."
 	keyWait
 		any = false
 	end
@@ -377,23 +377,22 @@ script 20 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Okay,leader,we're
-	ready to go!
+	OK, líder, estamos
+	prontas pra partir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can start the
-	mission any time.
+	Pode começar a missão
+	quando quiser.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Obviously I'll be
-	coming with you,
-	right?!
+	E óbvio que eu vou
+	com vocês, viu?!
 	"""
 	keyWait
 		any = false
@@ -406,8 +405,8 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Meddy⋯
-	Yes,of course!
+	Meddy...
+	Sim, claro!
 	"""
 	keyWait
 		any = false
@@ -418,9 +417,9 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,when you're
-	ready,let's start
-	the mission!
+	Lan, quando você
+	estiver pronto,
+	bora começar a missão!
 	"""
 	keyWait
 		any = false
@@ -432,7 +431,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -442,15 +441,16 @@ script 24 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	M-MegaMan,you're
-	on form again,ribit!
+	M-MegaMan, você está
+	em plena forma de novo,
+	coaxo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you can do it,
-	ribit!
+	Agora, você dá conta,
+	coaxo!
 	"""
 	keyWait
 		any = false
@@ -465,7 +465,7 @@ script 25 mmbn5 {
 	storeTimer
 		timer = 0
 		value = 145
-	"ToadMan⋯"
+	"ToadMan..."
 	keyWait
 		any = false
 	end
@@ -474,15 +474,15 @@ script 26 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Look how far he's
-	gone for you.
+	Olha só até que ponto
+	ele foi por você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to accept
-	now,leader!
+	Agora, você vai ter
+	que aceitar, líder!
 	"""
 	keyWait
 		any = false
@@ -495,24 +495,23 @@ script 27 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Ribitta sure put us
-	in our place.
+	Ribitta deu uma bela
+	lição na gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She told us to come
-	here because she
-	could change your
+	Ela falou pra gente
+	vir aqui porque ela
+	podia te convencer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mind.
-	The others should be
-	along soon,right?
+	Os outros também já
+	devem estar chegando.
 	"""
 	keyWait
 		any = false
@@ -523,17 +522,17 @@ script 28 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Most Navis would be
-	too scared to even
-	come to the Undernet
+	A maioria dos Navis
+	temeria demais entrar
+	na Undernet,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but this kid had the
-	courage to do that
-	and take you on too!
+	mas esse jovem teve
+	a coragem de fazê-lo,
+	além de duelar com você!
 	"""
 	keyWait
 		any = false
@@ -546,9 +545,9 @@ script 29 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Huh,crazy really⋯
-	But it seems to have
-	worked.
+	Hm, pura insanidade...
+	Mas parece ter dado
+	resultados.
 	"""
 	keyWait
 		any = false
@@ -561,9 +560,9 @@ script 30 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	The only way to get
-	a fighter fired up
-	is to fight him!
+	O único jeito de
+	se comunicar com um
+	guerreiro é lutando!
 	"""
 	keyWait
 		any = false
@@ -574,21 +573,24 @@ script 31 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	ToadMan and Ribitta
-	have been desperate
-	to make up
+	O ToadMan e a Ribitta
+	andaram desesperados
+	atrás de uma forma
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"for what happened."
+	"""
+	de expiar pelo
+	que aconteceu.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't turn your
-	back on them now! Or
-	Baryl either!
+	Você não pode dar as
+	costas pra eles agora!
+	E nem pro Baryl!
 	"""
 	keyWait
 		any = false
@@ -598,36 +600,36 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯ToadMan,Ribitta."
+	"... ToadMan, Ribitta."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My eyes are wide
-	open now⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I was too weak and
-	all I could think of
-	was running away.
+	Agora, os meus olhos
+	tão bem abertos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now I see that
-	the only way forward
-	is to keep fighting!
+	Eu fui fraco, e só
+	conseguia pensar em
+	fugir de tudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this
-	mission started!
+	Mas, agora, eu vejo que
+	o único caminho adiante
+	é continuar lutando!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Bora começar
+	essa missão!
 	"""
 	keyWait
 		any = false
@@ -639,7 +641,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -653,9 +655,9 @@ script 34 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ToadMan,now that's
-	decided,you'd better
-	deal with that door!
+	ToadMan, com isso
+	resolvido, que tal
+	você abrir essa porta?
 	"""
 	keyWait
 		any = false
@@ -667,7 +669,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Okay,ribit!"
+	"Claro, coaxo!"
 	keyWait
 		any = false
 	end
@@ -677,20 +679,20 @@ script 36 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hold it,ToadMan!
-	Leave this to me.
+	Espera aí, ToadMan!
+	Deixa essa comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can break through
-	here in no time.
+	Eu parto essa coisa
+	ao meio rapidinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Move over!"
+	"Dá espaço!"
 	keyWait
 		any = false
 	end
@@ -699,11 +701,11 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Three,two,one!"
+	"Três... dois... um!"
 	keyWait
 		any = false
 	clearMsg
-	"Waaargh!"
+	"Ngaaargh!"
 	keyWait
 		any = false
 	end
@@ -713,14 +715,13 @@ script 38 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Kurh!
-	It didn't budge an
-	inch!
+	Krh!
+	Nem um arranhão!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's going on?!"
+	"Por quê?!"
 	keyWait
 		any = false
 	end
@@ -730,47 +731,45 @@ script 39 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	You can't open that
-	door with force⋯
+	Não é possível abrir
+	essa porta com mera
+	força bruta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That door's made out
-	of anger and hatred,
-	you see.
+	Ela é composta de
+	raiva e ódio, entende?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you try to open
-	it with violence,it
-	won't work at all.
+	Se tentar abri-la com
+	violência, de nada irá
+	adiantar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's just one
-	thing you need to
-	open it.
+	Só é preciso uma
+	coisa para abri-la.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The power to
-	neutralize,the power
-	to heal⋯
+	O poder de neutralizar.
+	O poder da cura...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ToadMan
-	"Excuse me,ribit."
+	"Com licença, coaxo."
 	keyWait
 		any = false
 	end
@@ -779,13 +778,13 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"⋯Ehem!"
+	"... Ca-hem!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Behold the Toad-
-	Recital,ribit!
+	Contemplem o
+	Recital Anfíbio, coaxo!
 	"""
 	keyWait
 		any = false
@@ -796,8 +795,8 @@ script 41 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	My songs have the
-	power to heal,ribit!
+	As minhas músicas têm
+	o poder de curar, coaxo!
 	"""
 	keyWait
 		any = false
@@ -809,7 +808,7 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"I-incredible⋯"
+	"I-incrível..."
 	keyWait
 		any = false
 	end
@@ -819,24 +818,23 @@ script 43 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Okay,leader,we're
-	ready to go,ribit!
+	OK, líder!
+	Agora, estamos prontos
+	pra luta, coaxo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can start the
-	mission any time,
-	ribit.
+	Pode começar a missão
+	quando quiser, coaxo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Obviously I'll be
-	coming with you,
-	ribit?!
+	E óbvio que eu vou
+	com vocês, coaxo!
 	"""
 	keyWait
 		any = false
@@ -849,8 +847,8 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	ToadMan⋯
-	Yes,of course!
+	ToadMan...
+	Sim, claro!
 	"""
 	keyWait
 		any = false
@@ -861,9 +859,9 @@ script 45 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,when you're
-	ready,let's start
-	the mission!
+	Lan, quando você
+	estiver pronto,
+	bora começar a missão!
 	"""
 	keyWait
 		any = false
@@ -875,7 +873,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -885,15 +883,14 @@ script 47 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Right,everyone,it's
-	time to start our
+	Certo, gente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	liberation of
-	Undernet4!
+	hora de começarmos a
+	liberação da Undernet 4!
 	"""
 	keyWait
 		any = false
@@ -902,21 +899,21 @@ script 47 mmbn5 {
 		timer = 0
 		value = 146
 	"""
-	First things first,
+	Uma coisa de cada vez.
 	MagnetMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like you to stay
-	back here and look
-	out for the enemy.
+	eu quero que você
+	fique aqui pra caso
+	algum inimigo apareça.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Is that okay?"
+	"... Tudo bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -932,9 +929,8 @@ script 48 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Is that you asking
-	a favor? Or is it an
-	order?
+	Isso aí é um favor?
+	Ou é uma ordem?
 	"""
 	keyWait
 		any = false
@@ -946,7 +942,7 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯It's an order."
+	"... É uma ordem."
 	keyWait
 		any = false
 	clearMsg
@@ -958,15 +954,16 @@ script 50 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Then you don't need
-	to ask if it's okay!
+	Então não precisa
+	perguntar se tá
+	"tudo bem"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give proper orders,
-	⋯Leader!
+	Dê ordens direito...
+	líder!
 	"""
 	keyWait
 		any = false
@@ -976,14 +973,14 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"MagnetMan⋯"
+	"MagnetMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You stay here and
-	look out for enemy
-	reinforcements!
+	... Fique aqui para
+	caso o inimigo mande
+	reforços!
 	"""
 	keyWait
 		any = false
@@ -995,7 +992,7 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Sure,leave it to me!"
+	"Beleza, pode deixar!"
 	keyWait
 		any = false
 	end
@@ -1005,15 +1002,15 @@ script 53 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Right,everyone,it's
-	time to start our
+	Certo, gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	liberation of
-	Undernet4!
+	Hora de começar
+	a liberação da
+	Undernet 4!
 	"""
 	keyWait
 		any = false
@@ -1022,21 +1019,21 @@ script 53 mmbn5 {
 		timer = 0
 		value = 146
 	"""
-	First things first,
+	Uma coisa de cada vez.
 	KnightMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like you to stay
-	back here and look
-	out for the enemy.
+	eu quero que você
+	fique aqui pra caso
+	algum inimigo apareça.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Is that okay?"
+	"... Tudo bem?"
 	keyWait
 		any = false
 	clearMsg
@@ -1047,14 +1044,14 @@ script 54 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"MegaMan⋯"
+	"MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is that you asking
-	a favor? Or is it an
-	order?
+	Essas palavras foram
+	um pedido de favor?
+	Ou uma ordem?
 	"""
 	keyWait
 		any = false
@@ -1066,7 +1063,7 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯It's an order."
+	"... Uma ordem."
 	keyWait
 		any = false
 	clearMsg
@@ -1078,16 +1075,17 @@ script 56 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Then you shouldn't
-	ask if it's okay.
+	Então, não há por que
+	perguntar se está
+	"tudo bem".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should stand
-	tall and issue your
-	commands!
+	Imponha-se com orgulho
+	e comande com
+	autoridade!
 	"""
 	keyWait
 		any = false
@@ -1097,14 +1095,14 @@ script 57 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"KnightMan⋯"
+	"KnightMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯You stay here and
-	look out for enemy
-	reinforcements!
+	... Fique aqui para
+	caso o inimigo mande
+	reforços!
 	"""
 	keyWait
 		any = false
@@ -1117,16 +1115,15 @@ script 58 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Now there's an
-	order⋯
+	Isso, sim, foi uma
+	ordem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll put my life on
-	the line to defend
-	this area!
+	Darei a vida para
+	defender esta área!
 	"""
 	keyWait
 		any = false

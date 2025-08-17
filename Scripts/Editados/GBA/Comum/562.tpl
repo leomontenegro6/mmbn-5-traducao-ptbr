@@ -18,27 +18,26 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THIS IS ORAN AREA3!"
+	"ESTA É A ÁREA ORAN 3!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ORAN AREA3 HERE HAS
-	FINALLY BEEN
-	LIBERATED!
+	ESTA ÁREA FINALMENTE
+	FOI LIBERTADA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THERE ARE RUMORS
-	OF REMAINING NEBULA
-	FACTIONS AT LARGE!
+	MAS HÁ BOATOS DE QUE
+	AINDA RESTA GENTE DA
+	NEBULA POR AÍ!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TAKE GOOD CARE!"
+	"TOME MUITO CUIDADO!"
 	keyWait
 		any = false
 	end
@@ -48,9 +47,9 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Wahoo! I'm the first
-	one here since it
-	was liberated! Yay!
+	Iuhú! Eu sou o primeiro
+	a vir aqui desde que foi
+	libertada! Legal!
 	"""
 	keyWait
 		any = false
@@ -61,40 +60,39 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE AREAS ALL AROUND
-	ARE IN TROUBLE! WHAT
-	ARE WE GOING TO DO?!
+	AS ÁREAS DE TODOS OS
+	LUGARES ESTÃO EM APU-
+	ROS! O QUE FAREMOS?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND WHY IS IT ONLY
-	ORAN AREA3 THAT'S
-	BEEN LET OFF?
+	E POR QUE SÓ A ÁREA
+	ORAN 3 FOI POUPADA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PERHAPS THEY THOUGHT
-	IT'S A WASTELAND AND
-	OVERLOOKED IT.
+	TALVEZ TENHAM IGNORADO
+	ELA POR ACHAREM QUE É
+	SÓ UM DESERTO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT MIGHT JUST HAVE
-	SAVED US.
+	ISSO PODE TER SIDO A
+	NOSSA SALVAÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST THINKING ABOUT
-	WHAT'S GOING ON
-	AROUND IS SCARY.
+	DÁ MUITO MEDO EM
+	PENSAR NO QUE ESTÁ
+	HAVENDO POR AÍ.
 	"""
 	keyWait
 		any = false
@@ -104,14 +102,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THIS IS ORAN AREA3!"
+	"ESTA É A ÁREA ORAN 3!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ORAN AREA3 HERE HAS
-	FINALLY BEEN
-	LIBERATED!
+	ESTA ÁREA FINALMENTE
+	FOI LIBERTADA!
 	"""
 	keyWait
 		any = false
@@ -122,9 +119,9 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Net's down here.
-	It's impossible
-	to go any further!
+	A Rede está desligada
+	aqui. É impossível
+	seguir adiante!
 	"""
 	keyWait
 		any = false
@@ -134,18 +131,18 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"You⋯!"
+	"Você...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No one stands in the
-	way of Nebula!
+	Eu não vou deixar você
+	atrapalhar a Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Waaarrrgh!!!"
+	"Iáááárgh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -160,14 +157,14 @@ script 11 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You're out of your
-	depth! Prepare to be
-	deleted!
+	Cê não sabe com quem
+	tá mexendo! Prepara
+	pra ser deletado!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Kaaarrrgh!!!"
+	"Guraaaarrrgh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -182,14 +179,14 @@ script 12 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I've seen your face
-	before⋯ just the
-	kind of face I hate⋯
+	Eu já vi a tua cara
+	antes... E eu ODEIO
+	essa cara...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're going down!"
+	"Cê já era!"
 	keyWait
 		any = false
 	clearMsg
@@ -204,17 +201,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'VE BEEN THINKING⋯
-	ORAN AREA3'S A BIT
-	CREEPY,ISN'T IT?
+	SABE... A ÁREA ORAN 3
+	É MEIO SINISTRA, NÉ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PEOPLE DON'T COME
-	HERE. 1 & 2 ARE THE
-	PLACES TO GO.
+	NINGUÉM VEM AQUI.
+	AS ÁREAS 1 E 2 É QUE
+	MERECEM VISITAS.
 	"""
 	keyWait
 		any = false
@@ -225,17 +221,17 @@ script 21 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	You have to pass
-	through this area to
-	get to SciLab Area.
+	Pra chegar na Área
+	SciLab, a gente tem
+	que passar por aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't like it.
-	There's no one
-	around. It's eerie.
+	Eu não gosto.
+	Não tem ninguém por
+	perto. Dá um medo.
 	"""
 	keyWait
 		any = false
@@ -246,8 +242,8 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	W-What's wrong with
-	that⋯?!
+	O-o que EU tenho a
+	ver com isso...?!
 	"""
 	keyWait
 		any = false
@@ -258,9 +254,9 @@ script 31 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	It's your fault this
-	place is deserted!
-	Come on! Let's go!
+	É culpa SUA este
+	lugar estar deserto!
+	Vem! Vamos embora!
 	"""
 	keyWait
 		any = false

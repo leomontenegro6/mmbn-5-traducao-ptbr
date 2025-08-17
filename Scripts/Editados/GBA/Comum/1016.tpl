@@ -4,36 +4,37 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"I never imagined you"
+	"Hmpf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	could beat me after
-	my power increased⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But as long as I am
-	in this area,I'll
-	absorb DarkPower
+	Jamais imaginei que você
+	conseguiria me derrotar
+	após eu me fortalecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and regenerate over
-	and over again⋯
+	Mas, enquanto eu estiver
+	nesta área, posso absor-
+	ver Poder das Trevas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And each time I
-	shall gain more and
-	more power⋯
+	e me regenerar
+	infinitas vezes...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E, a cada vez,
+	eu adquiro mais
+	e mais poder...
 	"""
 	keyWait
 		any = false
@@ -45,7 +46,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -54,16 +55,16 @@ script 2 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯Do not forget.
-	I shall return over
-	and over again⋯
+	... Nunca se esqueça.
+	Eu voltarei,
+	infinitas vezes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall delete
-	you yet⋯
+	Um dia, eu vou
+	te deletar...
 	"""
 	keyWait
 		any = false
@@ -74,8 +75,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That Bass was one
-	scary opponent.
+	Esse Bass era um
+	oponente sinistro.
 	"""
 	keyWait
 		any = false
@@ -87,20 +88,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,aren't your
-	current custom
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	settings based on
-	Bass's power?
+	Aí, a sua customização
+	atual não é baseada na
+	força do Bass?
 	"""
 	keyWait
 		any = false
@@ -112,7 +107,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Yeah."
+	"... É, sim."
 	keyWait
 		any = false
 	clearMsg
@@ -124,14 +119,14 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm worried that
-	your soul will be
-	taken by darkness,
+	Eu fico preocupado que
+	a sua alma acabe sendo
+	tomada pelas trevas,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"just like Bass."
+	"que nem ele..."
 	keyWait
 		any = false
 	clearMsg
@@ -143,16 +138,17 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't worry. I'm
-	not gonna give in
-	to the DarkPower.
+	Relaxa. Eu nunca vou
+	me render ao Poder
+	das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After all,I have you
-	here with me,Lan!
+	Afinal de contas,
+	eu tenho você aqui
+	comigo... Lan!
 	"""
 	keyWait
 		any = false
@@ -164,24 +160,26 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan⋯"
+	"MegaMan..."
 	keyWait
 		any = false
 	clearMsg
-	"You're right! We can"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	get stronger without
-	the DarkPower.
-	"""
+	"Cê tem razão!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can do it,as long
-	as we're together!
+	A gente consegue ficar
+	mais forte SEM Poder
+	das Trevas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A gente pode tudo,
+	enquanto a gente
+	estiver junto!
 	"""
 	keyWait
 		any = false
@@ -193,7 +191,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Of course we can!"
+	"Falou e disse!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,8 +203,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Then let's go strike
-	down darkness!
+	Então, bora dar
+	uma lição nessa
+	escuridão toda!
 	"""
 	keyWait
 		any = false
@@ -218,7 +217,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Vamos, sim!"
 	keyWait
 		any = false
 	end

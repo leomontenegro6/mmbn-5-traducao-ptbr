@@ -3,16 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A really old
-	style copying
-	machine.
+	Uma copiadora de
+	modelo extremamente
+	antigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's very noisy
-	when operated.
+	Faz muito barulho ao
+	ser operada.
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,16 @@ script 1 mmbn5 {
 		jumpIfFalse = 11
 	msgOpen
 	"""
-	Discarded copies
-	are collected here.
+	Cópias descartadas,
+	empilhadas aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They probably want
-	to use the blank
-	side for something⋯
+	Provavelmente pretendem
+	usar o lado em branco
+	para alguma coisa...
 	"""
 	keyWait
 		any = false
@@ -43,16 +43,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A stack of empty
-	cardboard boxes.
+	Uma pilha de caixas de
+	papelão vazias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems they are
-	too much trouble
-	to get rid of⋯
+	Parece que daria
+	dor de cabeça demais
+	se livrar delas...
 	"""
 	keyWait
 		any = false
@@ -61,17 +61,17 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This was the size
-	of the servers
-	of the time.
+	Os servidores daqueles
+	tempos tinham esse
+	tamanhão todo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wiring is carelessly
-	stretched across the
-	floor.
+	Fios estão
+	descuidadamente
+	estendidos pelo chão.
 	"""
 	keyWait
 		any = false
@@ -80,25 +80,23 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A number of notes
-	are stuck around
-	the monitor.
+	Vários lembretes
+	colados pelo monitor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Things to do are
-	hastily written in
-	detail.
+	Há afazeres futuros
+	apressadamente
+	detalhados neles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Defect in System D"
-	"Meeting at 2"
-	 And to on⋯
+	"Defeito no Sistema D",
+	"Reunião às duas" etc.
 	"""
 	keyWait
 		any = false
@@ -107,16 +105,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The desk is a
-	jumbled mess of
-	many things.
+	Na mesa, uma pilha
+	bagunçada de diversas
+	coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No doubt this person
-	is very busy⋯
+	O dono dela com certeza
+	é muito ocupado...
 	"""
 	keyWait
 		any = false
@@ -125,9 +123,9 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A folder⋯
-	It probably contains
-	important documents.
+	Uma pasta...
+	Deve conter documentos
+	importantes.
 	"""
 	keyWait
 		any = false
@@ -136,9 +134,9 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	The sound of a hard
-	drive busily writing
-	data can be heard.
+	Pode-se ouvir o som de
+	um disco rígido gravando
+	dados com afinco.
 	"""
 	keyWait
 		any = false
@@ -147,17 +145,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	It seems this PC is
-	in the midst of some
-	kind of operation.
+	Parece que esse compu-
+	tador está no meio de
+	algum tipo de operação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A progress
-	gauge is moving
-	hurriedly.
+	Uma barra de
+	andamento avança
+	apressadamente.
 	"""
 	keyWait
 		any = false
@@ -166,16 +164,16 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	I don't think
-	I've ever even
-	seen the old
+	Lan acredita nunca
+	ter sequer visto os
+	sistemas antigos nos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	systems these
-	PCs are running⋯
+	quais esses
+	computadores operam...
 	"""
 	keyWait
 		any = false
@@ -184,17 +182,17 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	The desk here
-	appears to be used
-	during breaks.
+	Esta mesa parece
+	ser usada durante
+	intervalos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On it rests tea and
-	teacups. There's a
-	faint scent of tea.
+	Sobre ela, xícaras de
+	chá. Sente-se um resquí-
+	cio do cheiro da bebida.
 	"""
 	keyWait
 		any = false
@@ -210,28 +208,28 @@ script 11 mmbn5 {
 		flag = 545
 	msgOpen
 	"""
-	Discarded copies
-	are collected here.
+	Cópias descartadas,
+	empilhadas aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
-	"Look!!!"
+	"Veja só!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	else amid the paper.
+	Parece haver algo
+	em meio aos papéis.
 	"""
 	keyWait
 		any = false
@@ -242,8 +240,8 @@ script 11 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	MegaMan got a
-	PowerUp Program:
+	MegaMan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -256,9 +254,8 @@ script 11 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	1 MB!!
+	Memória padrão
+	aumentada em 1 MB!!
 	"""
 	keyWait
 		any = false
@@ -267,16 +264,16 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	Discarded copies
-	are collected here.
+	Cópias descartadas,
+	empilhadas aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They probably want
-	to use the blank
-	side for something⋯
+	Provavelmente pretendem
+	usar o lado em branco
+	para alguma coisa...
 	"""
 	keyWait
 		any = false

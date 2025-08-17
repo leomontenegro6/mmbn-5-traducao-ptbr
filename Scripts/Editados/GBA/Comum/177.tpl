@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	Sharp spears bar the
-	way. Something
-	must be done.
+	Lanças afiadas barram
+	o caminho. Algo precisa
+	ser feito.
 	"""
 	keyWait
 		any = false
@@ -14,9 +14,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A ceiling trap bars
-	the way.
-	You can't get past.
+	Uma armadilha de teto
+	barra o caminho.
+	Não dá para passar.
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A water trap bars
-	the way. Something
-	must be done.
+	Uma armadilha de água
+	barra o caminho.
+	Algo precisa ser feito.
 	"""
 	keyWait
 		any = false

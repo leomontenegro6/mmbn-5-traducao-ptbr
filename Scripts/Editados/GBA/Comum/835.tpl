@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The area this way is
-	the next area slated
-	for liberation.
+	Esta área é a próxima
+	que está marcada para
+	liberação.
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,8 @@ script 1 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The area this way is
-	where the next
-	mission takes place.
+	É nesta área em que se
+	dará a próxima missão.
 	"""
 	keyWait
 		any = false
@@ -42,9 +41,9 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	But Nebula's not
-	likely to roll out a
-	red carpet for us⋯
+	Claro, duvido muito que
+	a Nebula vá nos receber
+	de bom grado...
 	"""
 	keyWait
 		any = false
@@ -66,14 +65,10 @@ script 5 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Nebula's
-	strengthened
-	their defenses since
+	A Nebula fortaleceu
+	suas defesas desde
+	a nossa última missão.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"our last mission."
 	keyWait
 		any = false
 	end
@@ -83,14 +78,13 @@ script 6 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	But there's no way
-	through except on
-	this path.
+	mas não há outro acesso
+	senão este caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,let's roll."
+	"Vamos lá, MegaMan."
 	keyWait
 		any = false
 	clearMsg
@@ -102,21 +96,19 @@ script 7 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	There's no other way
-	in except along this
-	path.
+	Não há outro acesso
+	senão este caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have but one
-	choice⋯
+	Só temos uma opção...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Full speed ahead!"
+	"Seguir adiante\na toda a velocidade!"
 	keyWait
 		any = false
 	clearMsg
@@ -129,7 +121,7 @@ script 8 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*nod!*"
+	"Uhum!"
 	keyWait
 		any = false
 	end
@@ -138,7 +130,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Let's roll!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -147,7 +139,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Now!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -157,9 +149,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What firepower!
-	We can't get through
-	that.
+	Argh, quanto poder de
+	fogo! Não dá pra eu
+	passar por isso.
 	"""
 	keyWait
 		any = false
@@ -170,30 +162,29 @@ script 12 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	To get through here,
-	we'll have to block
-	that barrage of fire
+	Pra passar por aqui,
+	precisaremos barrar
+	essa onda de tiros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but how can we do
-	that with our
-	present shields?
+	Mas como faremos isso
+	só com o meu escudo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to pull
-	out and rethink our
-	strategy this time.
+	Teremos que recuar e
+	reestruturar nossa
+	estratégia, desta vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jacking out."
+	"Desconectando."
 	keyWait
 		any = false
 	end
@@ -202,37 +193,36 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't get through
-	without blocking
-	that barrage of fire
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	but even I can't
-	stand up to that
-	firepower.
+	Não poderemos passar
+	por aqui até barrarmos
+	essa onda de tiros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our best plan of
-	action is to retreat
-	for now.
+	Mas nem mesmo
+	eu sou páreo para
+	esse poder de fogo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,we've got to
-	jack out.
+	Nossa melhor opção no
+	momento é bater em
+	retirada, por ora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Dispensado, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -243,24 +233,24 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We can't begin this
-	mission⋯
+	Não dá pra gente
+	iniciar a missão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	without a way to
-	handle that barrage
-	of fire.
+	até achar um jeito
+	de aguentar aquela
+	onda de tiros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack out,Lan.
-	We've got to fish
-	with Dex,anyway.
+	Bora sair, Lan. De um
+	jeito ou de outro, a
+	gente tem que ir pescar.
 	"""
 	keyWait
 		any = false
@@ -273,24 +263,24 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,no sense in
-	wasting our energy
-	here.
+	É, não adianta nada
+	ficar desperdiçando
+	energia aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack out and
-	get back to fishing!
+	Bora desconectar e
+	voltar à pescaria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hopefully we'll
-	think of a strategy
-	in the meantime.
+	Talvez a gente pense
+	numa estratégia
+	enquanto isso.
 	"""
 	keyWait
 		any = false

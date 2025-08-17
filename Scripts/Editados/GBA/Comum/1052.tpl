@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Let's do it!
-	Liberate panels!
+	Vamos lá!
+	Liberar quadros!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Yes! Liberate panels
-	succeeded!
+	Isso! Liberação de
+	quadros bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -28,7 +28,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"1 turn liberation!"
+	"Liberação de 1 turno!"
 	keyWait
 		any = false
 	end
@@ -38,8 +38,8 @@ script 3 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Oh,no!
-	Liberation failed!
+	Essa não!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -49,7 +49,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -58,7 +58,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -68,8 +68,8 @@ script 6 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Yes! TwinLiberation
-	succeeded!
+	Isso! Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -80,15 +80,15 @@ script 7 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Yes! TwinLiberation
-	1 turn liberation!
+	Boa! Liberação
+	de 1 turno só!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -99,8 +99,8 @@ script 8 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -110,7 +110,7 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Use MagnetBarrier?\n"
+	"Usar Barr. Magnética?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -121,7 +121,7 @@ script 45 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -130,7 +130,7 @@ script 45 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -148,9 +148,9 @@ script 46 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,MagnetMan!
-	We're using Order
-	Points!
+	OK, MagnetMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 46 mmbn5 {
 	msgOpen
 	"""
 	GRRRRRR!
-	MagnetBarrier!!
+	Barreira Magnética!!
 	"""
 	keyWait
 		any = false
@@ -170,7 +170,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -181,7 +181,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -190,7 +190,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -208,8 +208,8 @@ script 61 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	End without
-	doing anything?
+	Encerrar sem
+	fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -222,7 +222,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -231,7 +231,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -249,8 +249,7 @@ script 70 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -260,8 +259,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MagnetMan got:
-	"Heart"!!
+	MagnetMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -273,13 +272,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"MagnetMan recovers\n"
+	"MagnetMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -289,8 +288,8 @@ script 72 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -300,8 +299,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MagnetMan got:
-	"Order Points"!!
+	MagnetMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -315,7 +314,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -325,8 +324,7 @@ script 73 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -336,7 +334,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MagnetMan got:
+	MagnetMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -358,8 +356,8 @@ script 74 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -368,13 +366,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"MagnetMan got:\n"
+	"MagnetMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -388,8 +386,8 @@ script 75 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -399,8 +397,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	MagnetMan got a
-	BattleChip for:
+	MagnetMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -421,8 +419,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	MagnetMan's HP
-	recovered to max!
+	Os PV de MagnetMan
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -431,8 +430,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -453,13 +452,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"MagnetMan received\n"
+	"MagnetMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -485,8 +484,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	MagnetMan
-	has been paralyzed!
+	MagnetMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -496,14 +495,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	MagnetMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -513,14 +512,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	MagnetMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -537,7 +536,7 @@ script 87 mmbn5 {
 	mugshotHide
 	"""
 	MagnetMan
-	became paralyzed!
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -548,17 +547,16 @@ script 90 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Nngh! I-I can't
-	m-move⋯
+	Nngh! N-não consigo
+	me mover...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MagnetMan
-	has been
-	frozen!
+	MagnetMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -569,8 +567,8 @@ script 91 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Retreat!
-	Retreat!
+	Recuar!
+	Recuar!
 	"""
 	keyWait
 		any = false
@@ -580,7 +578,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -591,7 +589,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -600,7 +598,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -615,8 +613,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -627,8 +625,8 @@ script 105 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	YES! We did it!
-	The boss is down!
+	Isso! Vencemos!
+	O chefão já era!
 	"""
 	keyWait
 		any = false

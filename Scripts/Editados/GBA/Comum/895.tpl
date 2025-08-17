@@ -4,25 +4,28 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hm⋯ There's a draft⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Ah,it's a
-	ventilation shaft⋯
+	Hm...
+	Tem um ventinho aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe the thief got
-	out that way!
+	Ah, é um duto
+	de ventilação...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's take a look!"
+	"""
+	Talvez o ladrão tenha
+	fugido por ele!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Vamos ver!"
 	keyWait
 		any = false
 	end

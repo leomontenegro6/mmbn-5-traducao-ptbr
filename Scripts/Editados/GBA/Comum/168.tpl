@@ -3,8 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A security door that
-	looks hard to open.
+	Uma porta de segurança
+	que parece difícil de
+	abrir.
 	"""
 	keyWait
 		any = false
@@ -13,8 +14,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A security door that
-	looks hard to open.
+	Uma porta de segurança
+	que parece difícil de
+	abrir.
 	"""
 	keyWait
 		any = false
@@ -23,8 +25,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A security door that
-	looks hard to open.
+	Uma porta de segurança
+	que parece difícil de
+	abrir.
 	"""
 	keyWait
 		any = false
@@ -33,8 +36,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A security door that
-	looks hard to open.
+	Uma porta de segurança
+	que parece difícil de
+	abrir.
 	"""
 	keyWait
 		any = false

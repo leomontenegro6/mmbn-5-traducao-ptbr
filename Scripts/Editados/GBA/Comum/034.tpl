@@ -1,11 +1,11 @@
 @size 20
 
 script 0 mmbn5s {
-	" DOUBLE DELETE!  "
+	" DELEÇÃO DUPLA!  "
 	end
 }
 script 1 mmbn5s {
-	" TRIPLE DELETE!  "
+	" DELEÇÃO TRIPLA!  "
 	end
 }
 script 2 mmbn5s {
@@ -13,7 +13,7 @@ script 2 mmbn5s {
 	end
 }
 script 3 mmbn5s {
-	"TIME UP!"
+	"TEMPO ACABOU!"
 	end
 }
 script 4 mmbn5s {
@@ -57,11 +57,11 @@ script 13 mmbn5s {
 	end
 }
 script 14 mmbn5s {
-	"  COUNTER HIT!   "
+	"  CONTRAGOLPE!   "
 	end
 }
 script 15 mmbn5s {
-	"LEFT "
+	"RESTA "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -71,18 +71,18 @@ script 15 mmbn5s {
 	end
 }
 script 16 mmbn5s {
-	"LEFT  0 "
+	"RESTA  0 "
 	end
 }
 script 17 mmbn5s {
-	"    PENALTY!!    "
+	"   PENALIDADE!!   "
 	end
 }
 script 18 mmbn5s {
-	"SHUFFLE! "
+	"EMBARALHA! "
 	end
 }
 script 19 mmbn5s {
-	"QUADRUPLE DELETE!"
+	"DELEÇÃO QUÁDRUPLA!"
 	end
 }

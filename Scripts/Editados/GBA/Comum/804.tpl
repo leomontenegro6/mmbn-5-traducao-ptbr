@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Uh-oh!"
+	"... Ah, não!"
 	keyWait
 		any = false
 	end
@@ -14,9 +14,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,viruses are
-	invading your web
-	page!
+	Lan, tem vírus invadindo
+	a sua página!
 	"""
 	keyWait
 		any = false
@@ -29,9 +28,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,MegaMan! Let's
-	warm up with some
-	virus busting!
+	Beleza, MegaMan! Bora
+	fazer um aquecimento
+	deletando esses vírus!
 	"""
 	keyWait
 		any = false
@@ -44,16 +43,16 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Right! You operate,
-	I bust!
+	Tá!
+	Você opera, eu luto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er,you're not too
-	sleepy to bust
-	viruses,are you?
+	Er, você não tá
+	sonolento demais
+	pra operar, tá?
 	"""
 	keyWait
 		any = false
@@ -66,8 +65,8 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you kidding?
-	Let's roll!
+	Tá me tirando?
+	Só bora!
 	"""
 	keyWait
 		any = false
@@ -80,8 +79,8 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Really? OK,then,
-	let's do it!
+	Então, tá bom.
+	Vamos nessa, Lan!
 	"""
 	keyWait
 		any = false
@@ -93,7 +92,10 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -104,7 +106,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end

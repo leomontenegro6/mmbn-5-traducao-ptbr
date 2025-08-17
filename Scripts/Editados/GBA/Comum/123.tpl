@@ -17,9 +17,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Undernet is a
-	place for outlaws?
-	Sounds dangerous.
+	A Undernet é a terra
+	dos foras-da-lei, né?
+	Perigoso...
 	"""
 	keyWait
 		any = false

@@ -9,39 +9,40 @@ script 0 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I'm Shimoter. I'm
-	in charge of the
-	SciLab web page.
+	Olá, me chamo Shimoter.
+	Estou encarregado da
+	página do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SciLab Area was
-	liberated recently.
+	A Área SciLab foi
+	recentemente liberada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This has allowed
-	SciLab Area to
-	reopen its web page.
+	Graças a isso,
+	também foi possível
+	abrir a página de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This BBS is now
-	operating again.
+	Da mesma forma,
+	este fórum voltou
+	à atividade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We hope everybody
-	will be back to post
-	their opinions!
+	Esperemos que todos
+	voltem para postar
+	suas opiniões!
 	"""
 	keyWait
 		any = false
@@ -56,32 +57,31 @@ script 1 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Congrats on
-	SciLab Area's
-	liberation!
+	Parabéns pela liberação
+	da Área SciLab!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now ACDC Area,Oran
-	Area,and SciLab Area
-	have all been freed!
+	Agora, as Áreas ACDC,
+	Oran e SciLab foram
+	todas libertadas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But who do we have
-	to thank for freeing
-	the Net from Nebula?
+	Mas quem será o herói
+	que anda libertando a
+	Rede da Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if it's the
-	work of Officials?
+	Será que é uma nova
+	campanha dos Oficiais?
 	"""
 	keyWait
 		any = false
@@ -96,32 +96,32 @@ script 2 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	No way,Nekomama,
-	it's gotta be
-	Mr.Famous!
+	Claro que não, Nekomama!
+	Com certeza foi
+	o Sr. Famoso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's a legend! He
-	won 69 consecutive
-	NetBattles!
+	Ele é uma lenda!
+	Já venceu 69 NetLutas
+	consecutivas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No NetBattler could
-	ever beat him!
+	Nenhum NetLutador
+	consegue vencer ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula'd be a cinch
-	for Mr.Famous!
-	Well,probably⋯
+	Destruir a Nebula seria
+	moleza pro Sr. Famoso!
+	Bem, provavelmente...
 	"""
 	keyWait
 		any = false
@@ -136,41 +136,41 @@ script 3 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I think that it's
-	the ace NetBattler
-	Chaud.
+	Eu acho que foi
+	Eugene Chaud, o
+	NetLutador prodígio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chaud and his Navi
-	ProtoMan are one of
-	best teams around.
+	O Chaud e o Navi dele,
+	o ProtoMan, são uma das
+	melhores duplas do mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once I had the
-	honor of being
-	rescued by him.
+	Eu já tive a
+	honra de ser salvo
+	por ele, uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll never forget
-	the incredible
-	techniques he used.
+	Nunca vou esquecer
+	as técnicas incríveis
+	que ele usou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't think Chaud
-	could ever lose
-	a NetBattle.
+	Eu acho impossível
+	o Chaud perder uma
+	NetLuta na vida.
 	"""
 	keyWait
 		any = false
@@ -185,24 +185,25 @@ script 4 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I don't care who it
-	is,I just want them
-	to free End Area!
+	Pra mim, tanto faz
+	quem seja. Só quero que
+	liberte logo a Área Endo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't contact
-	Netopia⋯
+	Estamos sem poder
+	contatar a Ameropa
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our company's in big
-	trouble! We should
-	sue that Nebula!
+	A nossa empresa está em
+	sérios apuros! Devíamos
+	processar a Nebula!
 	"""
 	keyWait
 		any = false
@@ -217,44 +218,48 @@ script 5 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	When I was
-	programming my
-	NaviCustomizer⋯
+	Quando eu tava
+	programando o meu
+	Customizador de Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I accidentally put
-	parts of the same
-	color in a row.
+	acabei fazendo peças da
+	mesma cor se tocarem,
+	por acidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It caused a bug and
-	when I didn't take
-	care of it⋯
+	Isso causou um bug,
+	e eu não sabia como
+	resolver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi got angry
-	with me,and said⋯
+	O meu Navi ficou
+	super zangado comigo,
+	e disse:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"You need to check\n the Emotion Window!\n I have a bug!\""
+	"""
+	"Você tem que ver a
+	a Janela de Emoção!
+	Eu tô com um bug!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess bugs can be
-	serious stuff for
-	Navis.
+	Acho que bugs são
+	coisa séria pros Navis.
 	"""
 	keyWait
 		any = false
@@ -269,62 +274,63 @@ script 6 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Mizuppa,your Navi
-	must have quite a
-	developed heart.
+	Mizuppa, o seu Navi
+	deve ter desenvolvido
+	um coração dos bons.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is your Navi's
-	Sync high?
-	I guess it must be.
+	A Sincronia do
+	seu Navi é alta?
+	Bom, aposto que é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi's heart is
-	still undeveloped.
+	O coração do meu
+	Navi ainda tá bem
+	subdesenvolvido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He hasn't even gone
-	Full Sync yet.
+	Ele nem alcançou a
+	Sincronia Total ainda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With a developed
-	heart,the Emotion
-	Window turns red
+	Se ele tem um coração
+	desenvolvido, a Janela
+	de Emoção fica vermelha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in battle.
-	It means your Navi
-	is in a rage.
+	durante as lutas.
+	Isso indica que o seu
+	Navi está enraivecido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can double your
-	attack power.
+	E isso pode dobrar a
+	força de ataque dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And your Navi won't
-	lurch back from
-	attacks.
+	Ah, além disso, o seu
+	Navi não será atordoado
+	por ataques.
 	"""
 	keyWait
 		any = false
@@ -339,52 +345,50 @@ script 7 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Navi's hearts are
-	just like human
-	hearts.
+	Os corações dos
+	Navis são que nem
+	os dos humanos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi feels happy,
-	sad,and angry--
-	the whole gamut.
+	O Navi sente alegria,
+	tristeza, raiva...
+	a gama completa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Navis were invented
-	by Dr.Hikari.
-	He's amazing!
+	Os Navis foram inventados
+	pelo Dr. Yuichiro Hikari!
+	Ele é incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And his father,
-	Dr.Tadashi Hikari⋯
+	E o pai dele,
+	o Dr. Tadashi Hikari,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Invented PETs."
+	"inventou os PETs."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come to think of it,
-	our entire
-	lifestyle⋯
+	Pensando bem, o nosso
+	modo de vida inteiro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is dependent upon
-	the inventions of
-	the Hikari family!
+	se baseia nas invenções
+	da família Hikari!
 	"""
 	keyWait
 		any = false
@@ -399,64 +403,63 @@ script 8 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	He's right!
-	Dr.Hikari is
-	totally awesome!
+	Pois é!
+	O Dr. Hikari é incrível!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm studying like
-	crazy to get into
-	SciLab myself!
+	Eu tô estudando feito
+	louco pra entrar pro
+	SciLab também!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that the
-	Dr.'s son is
-	quite a battler!
+	Ah, e ouvi dizer que
+	o filho do doutor é um
+	NetLutador dos bons!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's famous for
-	defeating the WWW,
-	a vicious band of⋯
+	Ele é famoso por ter
+	vencido a WWW, um
+	grupo super cruel
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	net crooks led by
-	the menacing Wily!
+	de bandidos da rede
+	liderados pelo sinistro
+	Dr. Wily!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can get into
-	SciLab,I want to
-	learn from Hikari!
+	Se eu conseguir entrar
+	pro SciLab, quero ser
+	aprendiz dos Hikari!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then I'll become
-	just as famous as
-	they are!
+	Aí, eu vou ficar tão
+	famoso quanto eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If my studying goes
-	well,that is! Err⋯
-	Where're my books?
+	Bom, isso SE os meus
+	estudos renderem...
+	Hm, cadê os meus livros?
 	"""
 	keyWait
 		any = false
@@ -471,40 +474,40 @@ script 9 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Mr.Quiz?!
-	Who called Mr.Quiz?!
+	Sr. Questionário?!
+	Quem chamou o
+	Sr. Questionário?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you hear these
-	words,be on your
-	guard!
+	Se ouvirem essas
+	palavras, fiquem
+	espertos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Any moments Mr.Quiz
-	could pounce on you
-	with a quiz!
+	A qualquer momento,
+	um Questionário pode te
+	abordar com perguntas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I was quizzed,
-	I missed the last
-	question!
+	Quando foi comigo,
+	eu errei a última!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shoot! I bet you get
-	something if you
-	answer correctly!
+	Argh! Aposto que você
+	ganha uma coisa bem
+	legal se acertar!
 	"""
 	keyWait
 		any = false
@@ -519,33 +522,31 @@ script 10 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I met Mr.Quiz,too!
-	He came out and
-	quizzed me!
+	Eu também esbarrei em
+	um Questionário! Ele
+	me fez umas perguntas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,I
-	answered all the
-	questions right⋯
+	Aliás, eu acertei
+	todas elas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And what did I get?
-	Err⋯
-	*shiver shiver*
+	Quanto ao que eu ganhei?
+	Err...
+	B-bbrrr...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't bear to say
-	it⋯It gives me the
-	shivers!
+	Eu nem aguento falar...
+	Me dá arrepios!
 	"""
 	keyWait
 		any = false
@@ -560,47 +561,48 @@ script 11 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	A guy who quizzes
-	people at random?
+	Um cara que faz
+	questionários aleatórios
+	com as pessoas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wow,there really
-	are some strange
-	people in the world.
+	Gente... Tem mesmo
+	uma galera tão
+	esquisita no mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Speaking of strange,
-	did anybody see the
-	8 digits written⋯
+	Falando em esquisito,
+	alguém aí viu os oito
+	dígitos rabiscados
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on the back of the
-	blackboard at school
-	the other day?
+	no verso do quadro
+	negro da escola em
+	ACDC, um dia desses?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next day,they
-	were gone⋯
+	No dia seguinte,
+	já tinham apagado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure curious
-	what they were
-	there for⋯
+	Ah, queria tanto
+	saber que números
+	eram aqueles...
 	"""
 	keyWait
 		any = false
@@ -615,54 +617,55 @@ script 12 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Goetsu here! I can
-	explain all
-	this strangeness!
+	Goetsu falando!
+	Eu posso explicar
+	a esquisitice!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The 8 digits were a
-	lotto number.
+	Os oito dígitos eram
+	um número de loteria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you input a lotto
-	number⋯
+	Se você inserir
+	esses oito dígitos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	into a special
-	trader called a
-	Number Trader⋯
+	em uma máquina especial
+	conhecida como o
+	"Troca-Números"...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can obtain chips
-	and other items!
+	você recebe,
+	em troca, chips!
+	Dentre outros itens!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,get out there
-	and search for those
-	lotto numbers!
+	Então, o lance é sair
+	por aí procurando por
+	esses números!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Except⋯I forgot
-	where the Number
-	Trader is⋯
+	Dito isso...
+	eu esqueci onde fica
+	o Troca-Números...
 	"""
 	keyWait
 		any = false
@@ -676,36 +679,36 @@ script 13 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"My dear Flora⋯"
+	"A minha Navi,\nminha querida Flora..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Has suddenly started
-	talking like a guy!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	She's dead serious
-	now⋯
+	começou a falar como um
+	homem pseudo-profundo,
+	de repente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what the
-	matter is?
-	Could it be a bug?
+	Agora, ela tá toda
+	séria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it's actually
-	quite splendid!
-	Very suave!
+	O que será que rolou?
+	Será que foi um bug?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas... na verdade,
+	é bem galanteador!
+	Tão suave!
 	"""
 	keyWait
 		any = false
@@ -720,48 +723,47 @@ script 14 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Somebody must have
-	installed "Chivalry"
-	into your NaviCust.
+	Alguém deve ter
+	instalado "Macho"
+	no seu CustNavi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"Chivalry" is a
-	special program 
-	developed
+	O "Macho" é um programa
+	especial desenvolvido
+	pelo Sr. Famoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by Mr.Famous.
-	When it's installed?
-	You guessed it!
+	E quando você o
+	instala? É, pois é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Navi will start
-	acting like a
-	regular Don Quixote!
+	O seu Navi começa
+	a falar como herói de
+	filme de ação antigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's pretty amazing
-	that it can change a
-	Navi's personality.
+	É incrível como o
+	programa muda a
+	personalidade do Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Definitely worth
-	a try!
+	Vale a pena
+	experimentar ele!
 	"""
 	keyWait
 		any = false
@@ -776,45 +778,44 @@ script 15 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Personally I prefer
-	another of
-	Mr.Famous' programs⋯
+	Pessoalmente, eu prefiro
+	aquele outro programa
+	do Sr. Famoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"called \"Humor.\""
+	"Sabe, o \"Piadas\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll turn your Navi
-	into a stand-up
-	comic!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A real motor-
-	mouth,but it's a
-	blast!
+	Ele transforma o seu
+	Navi em uma estrela em
+	asceção da comédia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I live alone,so it
-	really keeps me
-	company!
+	Um tagarela de primeira!
+	Mas é muito engraçado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I just wish
-	he'd shush up
-	at bedtime⋯
+	Eu moro sozinho,
+	então, isso ajuda muito
+	a me fazer companhia!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Só queria que ele
+	calasse a boca na
+	hora de dormir...
 	"""
 	keyWait
 		any = false
@@ -829,55 +830,53 @@ script 16 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Mt.Belenus! Geisha!
-	Samurai! Shogun!
-	Ninjas! Tempura!
+	Monte Fuji! Gueixas!
+	Samurais! Xogum!
+	Ninjas! Tempurá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Fantastic fish-like
-	gargoyles on the
-	rooftops,
+	Aqueles peixes gigante
+	de pedra no telhado
+	do castelo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	swimming through the
-	blue skies!
+	nadando pelo do céu azul!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My first time in
-	Electopia,and I'm
-	awestruck!
+	É a minha primeira vez
+	em Ni-Hon, e eu estou
+	maravilhado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I even bought a
-	samurai sword to
-	take home!
+	Até comprei uma
+	espada samurai pra
+	levar pra casa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take that!
-	And that!
+	Iiiá!
+	Fush!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this is
-	Electopian culture,
-	I'm all over it!
+	Se isso é a cultura
+	ni-honense, eu "xonei"!
 	"""
 	keyWait
 		any = false
@@ -892,45 +891,44 @@ script 17 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hello,I'm the
-	Administrator,
-	Shimoter.
+	Olá. Aqui é Shimoter,
+	o Administrador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bieri,thank you for
-	your kind comments
+	Bieri, muito obrigado
+	por seus comentários
+	lisonjeantes sobre a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on Electopian
-	culture.
+	cultura ni-honense.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm glad to see
-	you've had an
-	opportunity⋯
+	Fico feliz de você
+	ter tido a oportunidade
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to be exposed to
-	Electopia.
+	de ser exposto à
+	gloriosa Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	May your interest
-	continue to grow!
+	Esperamos que o seu
+	interesse em nosso país
+	continue a crescer!
 	"""
 	keyWait
 		any = false
@@ -944,37 +942,36 @@ script 18 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"Get a load of this!"
+	"Saca só isso, gente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that a team
-	of Navis has been
-	freeing the Net!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Not just a rumor,
-	this time I heard it
-	from a good source!
+	Parece que tem uma
+	equipe de Navis que
+	anda libertando a Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,really
-	reliable! I heard
-	about it from⋯
+	E isso não é só boato!
+	Desta vez, eu ouvi de
+	uma fonte confiável!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoa! Sorry,can't
-	tell you any more!
+	Tipo, SUPER confiável!
+	Foi o...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Opa! Desculpa,
+	eu não posso contar!
 	"""
 	keyWait
 		any = false
@@ -989,37 +986,37 @@ script 19 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Iwamu! If I may ask,
-	do you mean the
-	Undernet?
+	Iwamu!
+	Por acaso, a fonte era...
+	da Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Net that's
-	out of reach even
-	for Officials?
+	A Rede que nem os
+	Oficiais se atrevem
+	a acessar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I know that
-	the Undernet has a
-	lot to offer⋯
+	Bom, eu sei que a
+	Undernet tem muita
+	coisa a oferecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But it's dangerous!"
+	"mas é perigosíssima!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Think about it! They
-	use DarkChips all
-	the time there!
+	Pensa só! Eles usam
+	Chips das Trevas lá
+	o tempo todo!
 	"""
 	keyWait
 		any = false
@@ -1034,31 +1031,31 @@ script 20 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	About the Undernet:
-	The other day I saw
-	a CyberLark⋯
+	Quanto à Undernet:
+	outro dia, eu vi
+	uma cyber-cotovia
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Flying toward the
-	Undernet.
+	voando em direção
+	àquela área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was really quite
-	magnificent. Maybe
-	it has a nest there?
+	Era tão magnífica...
+	Será que ela tinha
+	um ninho por lá?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'll go search
-	for it sometime⋯
+	Talvez eu vá procurar
+	por ele qualquer dia...
 	"""
 	keyWait
 		any = false
@@ -1073,40 +1070,39 @@ script 21 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	We shouldn't be
-	talking about the
-	Undernet too much.
+	A gente não devia
+	falar muito da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard about a
-	different bulletin
-	board⋯
+	Eu ouvi falar de
+	um outro fórum aí
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	where there was
-	a big discussion
-	about the Undernet.
+	que acabou fazendo uma
+	discussão bem longa
+	sobre aquela área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And all the Navis
-	there were deleted!
+	E, depois... todos
+	os Navis do fórum
+	foram deletados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,Undernet agents
-	could be observing
-	us right now!
+	Sei lá! Agentes da
+	Undernet podem estar
+	nos vendo agora mesmo!
 	"""
 	keyWait
 		any = false
@@ -1121,26 +1117,26 @@ script 22 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Hrggahh! I fight!
-	I'll smash SciLab
-	into pieces!
+	Hrggargh! Eu vou brigar!
+	Vou esmagar o SciLab
+	até não sobrar nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hrggraaahh!!!"
+	"Hrggraaarrhh!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You wanna try me?
-	I'll delete every
-	last one of ya!!!
+	Vai encarar?!
+	Eu deleto TODOS VOCÊS!
+	Não sobra NENHUM!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hrggh! Hrggraah!!!"
+	"Hrggh! Hrggraarrh!!!"
 	keyWait
 		any = false
 	waitHold
@@ -1154,44 +1150,42 @@ script 23 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Are you kidding? A
-	Navi bug?
+	Ah, fala sério!
+	"Bug de Navi"?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll tell you what
-	to do--
-	just ignore it!
+	Quer saber o que fazer?
+	Ignora essa besteira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who cares about
-	Navis?!
+	Danem-se os Navis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no time to
-	fix bugs!
+	Quem tem tempo pra
+	consertar bugs?
+	NINGUÉM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave the Navis
-	to themselves!
+	Os Navis que se virem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't need a PET!
-	I'm free,I'm free!
+	Eu não preciso de PET!
+	Tô livre, ouviu? LIVRE!
 	"""
 	keyWait
 		any = false
@@ -1208,7 +1202,7 @@ script 24 mmbn5 {
 	"""
 	#$%%#"(($''LL+#AAJJE
 	PPI(#(#))====JE+##)
-	###""""hhhh1h2hk;
+	###"hhhh1h2hk;
 	"""
 	keyWait
 		any = false
@@ -1220,19 +1214,19 @@ script 24 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"AAIIIIEEE!!!"
+	"AAAAAHHHHH!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is just the
-	kind of message this
-	BBS deserves!!!
+	ESSE é o tipo de
+	postagem que este
+	fórum merece!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AAIIIIEEE!!!"
+	"AAAAAHHHH!!!"
 	keyWait
 		any = false
 	waitHold
@@ -1245,42 +1239,42 @@ script 25 mmbn5 {
 	positionArrow
 		left = 202
 		top = 108
-	"Hrggrahh!!!"
+	"Hrggrarrhh!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Shimoter,the
-	Administrator! Quit
-	your cruddy posting!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I've given you free
-	reign long enough!
+	Aqui é Shimoter, o
+	Administrador! Parem
+	com essa trollagem toda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you have any idea
-	how much trouble
-	you're causing me?
+	Eu já dei liberdade
+	demais pra vocês aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to erase
-	every last crummy
-	message!
+	Têm noção do trabalho
+	todo que cês tão me
+	dando?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hrggrahh!!!"
+	"""
+	Eu vou apagar TODAS
+	as postagens idiotas
+	de vocês daqui!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Hrggrarrhh!!!"
 	keyWait
 		any = false
 	waitHold
@@ -1294,25 +1288,22 @@ script 26 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	This BBS is really
-	getting out of
-	control.
+	Este fórum saiu
+	mesmo do controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even the Admin
-	Shimoter is going
-	whacky.
+	Até o Admin surtou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess the effects
-	of that incident are
-	still with us.
+	Acho que os efeitos
+	daquele incidente ainda
+	tão sendo sentidos...
 	"""
 	keyWait
 		any = false
@@ -1327,38 +1318,40 @@ script 27 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I agree. That really
-	was quite a scare.
+	Concordo.
+	Aquilo lá foi um
+	susto daqueles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before I knew it,I
-	was picking a fight
-	with my best friend.
+	Antes que eu me desse
+	conta, tava brigando com
+	minha melhor amiga.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what was
-	going on with me?
+	O que será que
+	deu em mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I felt like I'd lost
-	control of myself.
+	Eu senti como se tivesse
+	perdido o controle sobre
+	mim mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm frightened that
-	it might happen
-	again sometime.
+	E tô morrendo de medo
+	de isso poder acontecer
+	de novo depois...
 	"""
 	keyWait
 		any = false
@@ -1373,57 +1366,54 @@ script 28 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	I'm Shimoter,the
-	Administrator!
-	About those four
+	Aqui é Shimoter,
+	o Administrador!
+	Quanto àquelas quatro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	problem postings⋯
-	I wish to offer my
-	sincerest apologies
+	postagens problemáticas...
+	Quero oferecer minhas
+	mais sinceras desculpas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for posting such
-	irresponsible
-	messages.
+	por postar mensagens
+	tão irresponsáveis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Officials and
-	scientists are now
-	hard at work⋯
+	Oficiais e cientistas
+	estão se empenhando
+	pesadamente agora
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	trying to determine
-	the cause of
-	this incident.
+	para determinar a
+	causa do incidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I understand your
-	concerns about this
-	occurring again⋯
+	Entendo suas
+	preocupações quanto
+	a isso se repetir,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I have to ask
-	for your patience on
-	this matter.
+	mas peço que tenham
+	paciência por ora.
 	"""
 	keyWait
 		any = false

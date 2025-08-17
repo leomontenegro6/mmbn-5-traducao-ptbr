@@ -35,16 +35,16 @@ script 0 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	All my special
-	training on Oran
+	Todo o meu treinamento
+	especial na Ilha Oran
+	deu resultado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isle has paid off.
-	I feel so much
-	stronger!
+	Eu tô me sentindo
+	muito mais forte!
 	"""
 	keyWait
 		any = false
@@ -55,17 +55,17 @@ script 5 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You have to know
-	your chips to build
-	a battle strategy.
+	Cê tem que conhecer os
+	seus chips pra construir
+	boas estratégias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm studying which
-	chips work best
-	together!
+	Eu tô estudando quais
+	chips operam melhor
+	juntos!
 	"""
 	keyWait
 		any = false
@@ -76,22 +76,22 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hmph,OK,I get it
-	now⋯
+	Hm, saquei.
+	Agora eu entendi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yai is a really top-
-	notch teacher!
+	A Yai é uma professora
+	incrível mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Yai
-	"Don't you think?"
+	"Não sou?"
 	keyWait
 		any = false
 	end
@@ -106,9 +106,9 @@ script 11 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	So you just combine
-	this chip with this
-	other one!
+	Então, é só combinar
+	este chip com este
+	outro aqui!
 	"""
 	keyWait
 		any = false
@@ -119,17 +119,17 @@ script 15 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Program Advance mode
-	isn't the only way
-	to do big damage.
+	Programas Avançados
+	não são o único jeito
+	de causar dano alto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chip combinations
-	or combo-attacks,
-	are also effective.
+	Combinações de chips,
+	"combos", também botam
+	pra quebrar.
 	"""
 	keyWait
 		any = false
@@ -140,16 +140,16 @@ script 16 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Dex is really
-	starting to
-	understand things!
+	O Dex tá começando a
+	entender as coisas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be his
-	excellent teacher.
+	Os milagres que ótimos
+	professores fazem,
+	não é mesmo?
 	"""
 	keyWait
 		any = false
@@ -160,17 +160,17 @@ script 20 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yai told me a whole
-	bunch of stuff about
-	chips yesterday.
+	A Yai me ensinou um
+	monte de coisas sobre
+	chips ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I'll have to
-	practice it in
-	actual battles⋯
+	Agora, eu só tenho que
+	aplicar em lutas de
+	verdade...
 	"""
 	keyWait
 		any = false
@@ -181,9 +181,8 @@ script 25 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	It's been a while
-	but the Net
-	seems liberated.
+	A Rede parece
+	liberada agora, né?
 	"""
 	keyWait
 		any = false
@@ -194,8 +193,9 @@ script 30 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'd fight Nebula if
-	GutsMan was here⋯
+	Eu lutaria com a
+	Nebula se o GutsMan
+	tivesse aqui...
 	"""
 	keyWait
 		any = false
@@ -216,14 +216,14 @@ script 50 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'd go fight Nebula
-	with you if GutsMan
-	was here.
+	Eu lutaria com a Nebula
+	contigo, se o GutsMan
+	tivesse aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How frustrating!"
+	"Que frustrante!"
 	keyWait
 		any = false
 	end
@@ -233,17 +233,16 @@ script 55 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Which area are you
-	going to liberate
-	next?
+	Que área cê vai
+	liberar agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're kidding! The
-	Undernet?! Be
-	careful,man⋯
+	Não brinca!
+	A Undernet?!
+	Cuidado, cara...
 	"""
 	keyWait
 		any = false
@@ -254,16 +253,15 @@ script 60 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You're actually
-	going to the
-	Undernet⋯
+	Cê vai mesmo pra
+	Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better not let
-	your guard down⋯
+	Fica muito esperto lá,
+	viu...
 	"""
 	keyWait
 		any = false

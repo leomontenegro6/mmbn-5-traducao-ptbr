@@ -60,9 +60,9 @@ script 7 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	Shiver in my
-	deep winter!
-	Snowball!
+	Tremam com meu
+	inverno profundo!
+	Bola de Neve!
 	"""
 	keyWait
 		any = false
@@ -83,9 +83,9 @@ script 11 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	Whoosh⋯that
-	was close! But
-	I'm not that easy!
+	Fuuuuu... essa foi
+	por pouco! Mas eu não
+	sou tão fraco assim!
 	"""
 	keyWait
 		any = false
@@ -96,14 +96,14 @@ script 12 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	Whoosh!
-	I can't believe
-	it. I can't lose.
+	Fuuuuu!
+	Não acredito nisso...
+	Não posso perder...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"NOOOO!"
+	"NÃÃÃÃOOO!"
 	keyWait
 		any = false
 	end
@@ -117,9 +117,9 @@ script 14 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	Running off?
-	Try again later,
-	whoosh! Ha ha!
+	Vão fugir?
+	Tentem de novo quando
+	quiserem! Fuuuuu!
 	"""
 	keyWait
 		any = false
@@ -130,9 +130,9 @@ script 15 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	I'll turn this area
-	into a Nebula
-	ski resort! Got it?
+	Vou transformar esta
+	área em um resort de
+	ski da Nebula! Ha ha!
 	"""
 	keyWait
 		any = false

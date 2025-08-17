@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Another barrier⋯"
+	"Outra barreira..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack in and
-	disable it!
+	Bora conectar
+	e desativar ela!
 	"""
 	keyWait
 		any = false
@@ -21,8 +21,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's another port
-	for jacking in here.
+	Tem outra entrada
+	de conexão aqui.
 	"""
 	keyWait
 		any = false
@@ -35,7 +35,10 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Now it's my turn⋯"
+	"""
+	Beleza. Agora, sim,
+	é a minha vez...
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -45,7 +48,7 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hold it right there!"
+	"Parados aí!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -56,7 +59,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"A Nebula soldier!"
+	"Um soldado da Nebula!"
 	keyWait
 		any = false
 	clearMsg
@@ -68,16 +71,17 @@ script 5 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	The other port for
-	disabling it is
-	right here.
+	A outra entrada pra
+	desativar a barreira
+	fica bem aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad!
-	You're finished!!!
+	Que peninha!
+	Podem começar
+	a rezar!!!
 	"""
 	keyWait
 		any = false
@@ -89,7 +93,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"We're in trouble⋯"
+	"Eita, problema..."
 	keyWait
 		any = false
 	clearMsg
@@ -100,7 +104,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gulp!!!"
+	"Glup!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -111,13 +115,14 @@ script 8 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	So all I have to do
-	is jack in there⋯
+	Então, só o que eu
+	preciso fazer é me
+	conectar aí, é...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks for the info!"
+	"Valeu pela dica!"
 	keyWait
 		any = false
 	end
@@ -126,7 +131,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Who's there?!"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -137,7 +142,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"Spinning kick!!!"
+	"Chute giratório!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -150,7 +155,7 @@ script 11 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 195
-	"Take that!!!"
+	"Toma isso!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -161,7 +166,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Uwaaah!!!"
+	"Gaaaarhh!!!"
 	keyWait
 		any = false
 	end
@@ -182,22 +187,25 @@ script 14 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Maybe that was a
-	bit too flashy!
+	Talvez eu tenha feito
+	o negócio de um jeito
+	chamativo demais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad there's no
-	chicks here⋯
+	Pena que não tinha
+	nenhuma gatinha aqui
+	pra ver...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But never mind that.
-	I got this one!
+	Bom, deixa pra lá.
+	Podem deixar que eu
+	cuido desta!
 	"""
 	keyWait
 		any = false
@@ -209,7 +217,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Now it's my turn⋯"
+	"Finalmente,\né a minha vez..."
 	keyWait
 		any = false
 	clearMsg
@@ -219,7 +227,7 @@ script 15 mmbn5 {
 script 16 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hold it right there!"
+	"Parados aí!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -230,7 +238,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"A Nebula soldier!"
+	"Um soldado da Nebula!"
 	keyWait
 		any = false
 	clearMsg
@@ -242,16 +250,17 @@ script 18 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	The other port for
-	disabling it is
-	right here.
+	A outra entrada pra
+	desativar a barreira
+	fica bem aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad!
-	You're finished!!!
+	Que peninha!
+	Podem começar
+	a rezar!!!
 	"""
 	keyWait
 		any = false
@@ -263,7 +272,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Oh man!!!"
+	"Droga!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -274,7 +283,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Gulp!!!"
+	"Glup!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -285,13 +294,14 @@ script 21 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	So all I have to do
-	is jack in there⋯
+	Então, tudo o que
+	preciso fazer é me
+	conectar aí...?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks for the info!"
+	"Obrigado pela dica."
 	keyWait
 		any = false
 	end
@@ -300,7 +310,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Who's there?!"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -311,7 +321,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"Kyah!!!"
+	"Iá!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -324,7 +334,7 @@ script 24 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 195
-	"Take that!!!"
+	"Tome isso!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -344,7 +354,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dusk!!!"
+	"Dark!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -355,7 +365,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"This one's mine!"
+	"Eu cuido deste ponto!"
 	keyWait
 		any = false
 	clearMsg
@@ -370,7 +380,7 @@ script 28 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -380,9 +390,9 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

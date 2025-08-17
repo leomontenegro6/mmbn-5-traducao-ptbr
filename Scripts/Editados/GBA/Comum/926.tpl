@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Argh,this is way out
-	of my league!
+	Argh, isso é impossível
+	pra mim!
 	"""
 	keyWait
 		any = false
@@ -17,32 +17,32 @@ script 1 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hey!
-	What do you think
-	you're doing here?!
+	Ô!
+	O que você pensa que
+	tá fazendo aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The GargoylComp
-	server is going
-	crazy!
+	O servidor do
+	computador do castelo
+	tá enlouquecido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The whole castle's
-	going to explode at
-	this rate!
+	Nesse ritmo, o lugar
+	inteiro vai explodir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take my advice and
-	get out of here!
+	Ouve o que eu tô
+	dizendo e dá o fora
+	daqui!
 	"""
 	keyWait
 		any = false
@@ -53,17 +53,17 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It seems like things
-	are really getting
-	out of hand⋯
+	Parece que as coisas
+	tão saindo mesmo do
+	controle...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,stop the
-	GargoylComp before
-	it's too late!
+	MegaMan, pare o CPU
+	Shachi antes que seja
+	tarde demais!
 	"""
 	keyWait
 		any = false
@@ -75,7 +75,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Got it!"
+	"Claro!"
 	keyWait
 		any = false
 	end

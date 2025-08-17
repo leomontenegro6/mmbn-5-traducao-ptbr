@@ -1,35 +1,35 @@
 @size 48
 
 script 0 mmbn5s {
-	" Glide    Welcome!"
+	" Glide    Bem-vindos!"
 	end
 }
 script 1 mmbn5s {
-	" Mayl     Congrats!"
+	" Mayl     Parabéns!"
 	end
 }
 script 2 mmbn5s {
-	" GutsMan  Super!"
+	" GutsMan  Irado!"
 	end
 }
 script 3 mmbn5s {
-	" Yai      Thanks!"
+	" Yai      Obrigada!"
 	end
 }
 script 4 mmbn5s {
-	" Tokumori New PET!"
+	" Tokumori Novo PET!"
 	end
 }
 script 5 mmbn5s {
-	" Roll     RE:New PET!"
+	" Roll     RE:Novo PET"
 	end
 }
 script 6 mmbn5s {
-	" Tokumori Oh,wow!"
+	" Tokumori Uau!"
 	end
 }
 script 7 mmbn5s {
-	" Mumu     ACDC Area!"
+	" Mumu     Área ACDC!"
 	end
 }
 script 8 mmbn5s {
@@ -37,83 +37,83 @@ script 8 mmbn5s {
 	end
 }
 script 9 mmbn5s {
-	" Beltz    ACDC free"
+	" Beltz    ACDC livre"
 	end
 }
 script 10 mmbn5s {
-	" Yai      RE:ACDCfree"
+	" Yai      RE:ACDClivr"
 	end
 }
 script 11 mmbn5s {
-	" Gates    Hello Yai"
+	" Gates    Oi, Yai"
 	end
 }
 script 12 mmbn5s {
-	" Dex      Oran Isle"
+	" Dex      Ilha Oran"
 	end
 }
 script 13 mmbn5s {
-	" Yai      RE:Oran Isl"
+	" Yai      RE:Ilh Oran"
 	end
 }
 script 14 mmbn5s {
-	" Dex      Chip dsgnr!"
+	" Dex      Designer!"
 	end
 }
 script 15 mmbn5s {
-	" Yai      RE:Chip dsg"
+	" Yai      RE:Designer"
 	end
 }
 script 16 mmbn5s {
-	" Noah     Chip Trader"
+	" Noah     Troca-Chips"
 	end
 }
 script 17 mmbn5s {
-	" Joe      RE:Chip Tra"
+	" Joe      RE:Troca-Ch"
 	end
 }
 script 18 mmbn5s {
-	" Ruta     Qn Bohemia"
+	" Ruta     Rain.Boêmia"
 	end
 }
 script 19 mmbn5s {
-	" Bork     Robbery!"
+	" Bork     Roubo!"
 	end
 }
 script 20 mmbn5s {
-	" Gigolo   RE:Robbery!"
+	" Gigolô   RE:Roubo!"
 	end
 }
 script 21 mmbn5s {
-	" Chikachi ACDC panic"
+	" Chikachi Pânico ACDC"
 	end
 }
 script 22 mmbn5s {
-	" Yai      RE:ACDC pan"
+	" Yai      RE:Pânico A"
 	end
 }
 script 23 mmbn5s {
-	" Dex      I'm freaked"
+	" Dex      Apavorado"
 	end
 }
 script 24 mmbn5s {
-	" Yosikawa XtraFld"
+	" Yosikawa PstaXtra"
 	end
 }
 script 25 mmbn5s {
-	" Koetsu   RE:XtraFld"
+	" Koetsu   RE:PstaXtra"
 	end
 }
 script 26 mmbn5s {
-	" Takayan  Tips"
+	" Takayan  Dicas"
 	end
 }
 script 27 mmbn5s {
-	" Toppo    Tips 2"
+	" Toppo    Dicas 2"
 	end
 }
 script 28 mmbn5s {
-	" Kentaro  Tips 3"
+	" Kentaro  Dicas 3"
 	end
 }
 script 29 mmbn5s {

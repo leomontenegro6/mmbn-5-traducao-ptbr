@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"This is⋯"
+	"Isso é..."
 	keyWait
 		any = false
 	end
@@ -14,8 +14,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is Oran Isle
-	how it used to be⋯
+	É a Ilha Oran, como
+	ela era no passado...
 	"""
 	keyWait
 		any = false
@@ -28,9 +28,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A VisionBurst of
-	Oran Isle⋯? Start
-	exploring,MegaMan!
+	Uma Visão Passada da
+	Ilha Oran...? Bom, vai
+	explorando, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -42,7 +42,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

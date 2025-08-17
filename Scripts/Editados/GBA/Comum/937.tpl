@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mom,can I ask you
-	something?
+	Mãe, posso te
+	perguntar uma coisa?
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"What is it?"
+	"Claro, filho. O quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -30,8 +30,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	When I was born,we
-	had a dog,right?
+	Quando eu nasci,
+	a gente tinha um
+	cachorro, não tinha?
 	"""
 	keyWait
 		any = false
@@ -43,13 +44,14 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"When you were born?"
+	"Quando você nasceu?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,we didn't have a
-	dog back then.
+	... Não, a gente não
+	tinha nenhum bicho de
+	estimação.
 	"""
 	keyWait
 		any = false
@@ -61,7 +63,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -72,14 +74,14 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Hold on a minute."
+	"Espere aí."
 	keyWait
 		any = false
 	end
 }
 script 6 mmbn5 {
 	msgOpen
-	"10 minutes later⋯"
+	"10 minutos depois..."
 	keyWait
 		any = false
 	end
@@ -89,9 +91,9 @@ script 7 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Here it is. This
-	picture was taken
-	decades ago now.
+	Aqui está.
+	Esta é uma foto
+	de décadas atrás.
 	"""
 	keyWait
 		any = false
@@ -103,8 +105,9 @@ script 8 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Mom showed Lan
-	"GowPic."
+	A mãe do Lan
+	mostrou a ele
+	"Foto do Gáu".
 	"""
 	keyWait
 		any = false
@@ -116,19 +119,19 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's him!"
+	"É ele!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You said before that
-	we didn't have a dog
-	when I was born.
+	Você tinha dito que
+	a gente não tinha ele
+	quando eu nasci...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you sure?"
+	"Certeza mesmo?"
 	keyWait
 		any = false
 	clearMsg
@@ -139,7 +142,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Yes,I'm positive."
+	"Absoluta."
 	keyWait
 		any = false
 	clearMsg
@@ -150,13 +153,13 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um,can I keep this
-	picture,Mom?
+	Er, posso ficar com
+	essa foto, mãe?
 	"""
 	keyWait
 		any = false
@@ -168,7 +171,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Yes,if you want."
+	"Claro, se você quiser..."
 	keyWait
 		any = false
 	clearMsg
@@ -184,8 +187,8 @@ script 13 mmbn5 {
 		timer = 0
 		value = 4
 	"""
-	Lan got:
-	"GowPic"!!!
+	Lan adquiriu:
+	"Foto do Gáu"!!!
 	"""
 	keyWait
 		any = false
@@ -199,16 +202,17 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Do you know anything
-	about this dog,Mom?
+	Você sabe alguma
+	coisa sobre este
+	cachorro, mãe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know,like where
-	it used hang out and
-	stuff.
+	Sabe, tipo, onde ele
+	costumava brincar,
+	alguma coisa assim.
 	"""
 	keyWait
 		any = false
@@ -220,45 +224,46 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Hmmm⋯"
+	"Hmmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That dog was around
-	before I got married
-	so I'm not sure.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Oh,I know⋯
-	The picture.
+	O Gáu era de antes
+	de eu me casar com o
+	seu pai, então, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was taken where
-	your grandpa often
-	used to take Gow.
+	Aliás, espera...
+	Eu sei de uma coisa.
+	Sei que essa foto aí
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know where
-	they used to go but
-	apparently
+	foi tirada no lugar em
+	que seu avô sempre
+	levava o Gáu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they used to come
-	back from there both
-	covered in dust.
+	Eu não sei que lugar
+	era esse, mas, pelo
+	que me disseram,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	era um lugar cheio de
+	terra, porque eles
+	sempre voltavam imundos.
 	"""
 	keyWait
 		any = false
@@ -270,19 +275,19 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Covered in dust⋯"
+	"Cheio de terra..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That could be a good
-	clue⋯
-	I need to think!
+	Essa pode ser
+	uma boa pista...
+	Vou pensar bem nela!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks Mom!"
+	"Brigado, mãe!"
 	keyWait
 		any = false
 	clearMsg
@@ -293,7 +298,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"You're welcome."
+	"Imagina, filho."
 	keyWait
 		any = false
 	end

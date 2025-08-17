@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What the⋯?!"
+	"Mas o que...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -17,8 +17,9 @@ script 1 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	⋯It's a plant for
-	producing DarkChips!
+	... É uma usina de
+	produção de Chips
+	das Trevas!
 	"""
 	keyWait
 		any = false
@@ -31,8 +32,8 @@ script 2 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	So this is where
-	they make them⋯
+	Então, é aqui que
+	produzem eles...
 	"""
 	keyWait
 		any = false
@@ -45,16 +46,15 @@ script 3 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Lan,let's hurry
-	ahead!
+	Lan, vamos logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna pulverize
-	this plant after I
-	finish off Regal.
+	Eu vou demolir esta
+	usina depois que
+	acabar com o Regal.
 	"""
 	keyWait
 		any = false
@@ -65,8 +65,9 @@ script 4 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	⋯It's a plant for
-	producing DarkChips!
+	... É uma usina de
+	produção de Chips
+	das Trevas! É!
 	"""
 	keyWait
 		any = false
@@ -79,8 +80,8 @@ script 5 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	So this is where
-	they make them⋯
+	Então, é aqui que
+	eles os produzem...
 	"""
 	keyWait
 		any = false
@@ -93,16 +94,15 @@ script 6 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Lan,let's hurry
-	ahead!
+	Lan, vamos logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna pulverize
-	this plant after I
-	finish off Regal.
+	Eu vou demolir esta
+	usina depois que
+	acabar com o Regal.
 	"""
 	keyWait
 		any = false
@@ -112,7 +112,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,guys,let's go!!!"
+	"Beleza, gente! Vamos!!!"
 	keyWait
 		any = false
 	end

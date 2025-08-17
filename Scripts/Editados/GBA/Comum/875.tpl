@@ -5,46 +5,46 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The team did an
-	excellent job.
+	A equipe fez um
+	ótimo trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The recapturing of
-	SciLab Area
+	A recaptura
+	da Área SciLab
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	marks much progress
-	toward our goal.
+	é um enorme marco
+	de progresso rumo
+	ao nosso objetivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the addition of
-	our newest member,
+	E a adição de nosso
+	mais novo membro,
 	GyroMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has greatly
-	strengthened the
-	team.
+	fortaleceu a equipe
+	imensuravelmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm confident that
-	you can handle
-	future missions.
+	Estou confiante de que
+	vocês cumprirão com
+	as futuras missões.
 	"""
 	keyWait
 		any = false
@@ -55,8 +55,8 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	What?!
-	MegaMan,step aside!
+	... Ah!
+	MegaMan, pra trás!
 	"""
 	keyWait
 		any = false
@@ -68,7 +68,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 		any = false
 	end
@@ -77,7 +77,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yikes!"
+	"Aagh!"
 	keyWait
 		any = false
 	end
@@ -87,8 +87,8 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	No! It's engulfed
-	him!
+	Droga!
+	Ele foi engolido!
 	"""
 	keyWait
 		any = false
@@ -101,8 +101,8 @@ script 5 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	It's no use. He's
-	immobilized.
+	Não adianta.
+	Ele tá imobilizado.
 	"""
 	keyWait
 		any = false
@@ -114,7 +114,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"A dark cloud!"
+	"Uma nuvem roxa!"
 	keyWait
 		any = false
 	clearMsg
@@ -135,8 +135,9 @@ script 8 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Blast! How could
-	this happen!
+	Droga!
+	Como eu pude deixar
+	isso acontecer...?!
 	"""
 	keyWait
 		any = false
@@ -161,46 +162,46 @@ script 10 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The team did an
-	excellent job.
+	A equipe fez um
+	ótimo trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The recapturing of
-	SciLab Area
+	A recaptura
+	da Área SciLab
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	marks much progress
-	toward our goal.
+	é um enorme marco
+	de progresso rumo
+	ao nosso objetivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the addition of
-	our newest member,
+	E a adição de nosso
+	mais novo membro,
 	ShadowMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has greatly
-	strengthened the
-	team.
+	fortaleceu a equipe
+	imensuravelmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm confident that
-	you can handle
-	future missions.
+	Estou confiante de que
+	vocês cumprirão com
+	as futuras missões.
 	"""
 	keyWait
 		any = false
@@ -211,8 +212,8 @@ script 11 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	What?!
-	MegaMan,step aside!
+	... Ah!
+	MegaMan, para trás!
 	"""
 	keyWait
 		any = false
@@ -224,7 +225,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 		any = false
 	end
@@ -233,7 +234,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yikes!"
+	"Aagh!"
 	keyWait
 		any = false
 	end
@@ -243,8 +244,7 @@ script 14 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	No! It's engulfed
-	him!
+	Droga! Ele foi engolido!
 	"""
 	keyWait
 		any = false
@@ -257,8 +257,8 @@ script 15 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Hrm,he's
-	immobilized!
+	Hrm!
+	Ele está imobilizado!
 	"""
 	keyWait
 		any = false
@@ -270,7 +270,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"A dark cloud!"
+	"Uma nuvem roxa!"
 	keyWait
 		any = false
 	clearMsg
@@ -291,8 +291,9 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Blast! How could
-	this happen!
+	Droga!
+	Como eu pude deixar
+	isso acontecer...?!
 	"""
 	keyWait
 		any = false
@@ -342,9 +343,9 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	GyroMan,my soul
-	resonates with your
-	spirit of flight!
+	GyroMan, a minha alma
+	ressoou forte com o
+	seu espírito de luta!
 	"""
 	keyWait
 		any = false
@@ -356,8 +357,8 @@ script 25 mmbn5 {
 		timer = 2
 		value = 3
 	"""
-	MegaMan's soul
-	resonated with
+	A alma de MegaMan
+	ressou com a de
 	GyroMan!
 	"""
 	keyWait
@@ -369,9 +370,9 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! With a team
-	like this,the Net'll
-	be freed in no time!
+	Beleza! Com uma equipe
+	assim, a Rede vai ser
+	liberada rapidinho!
 	"""
 	keyWait
 		any = false
@@ -379,8 +380,8 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,it's not as easy
-	as you think!
+	Lan, você sabe que não
+	vai ser fácil assim!
 	"""
 	keyWait
 		any = false
@@ -388,8 +389,8 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm just getting
-	excited,MegaMan!
+	Me deixa ficar
+	animado, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -397,16 +398,16 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan! May our
-	next mission be even
-	more successful!
+	He he! Beleza. Que a
+	próxima missão seja um
+	sucesso ainda maior!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yeah!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -420,9 +421,9 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	My soul resonates
-	with your shadowy
-	spirit of illusion!
+	a minha alma ressoou
+	com o seu espírito
+	ilusionário e sombrio!
 	"""
 	keyWait
 		any = false
@@ -434,8 +435,8 @@ script 26 mmbn5 {
 		timer = 2
 		value = 3
 	"""
-	MegaMan's soul
-	resonated with
+	A alma de MegaMan
+	ressou com a de
 	ShadowMan!
 	"""
 	keyWait
@@ -447,9 +448,9 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Alright! With a team
-	like this,the Net'll
-	be freed in no time!
+	Beleza! Com uma equipe
+	assim, a Rede vai ser
+	liberada rapidinho!
 	"""
 	keyWait
 		any = false
@@ -457,8 +458,8 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,it's not as easy
-	as you think!
+	Lan, você sabe que não
+	vai ser fácil assim!
 	"""
 	keyWait
 		any = false
@@ -466,8 +467,8 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'm just getting
-	excited,MegaMan!
+	Me deixa ficar
+	animado, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -475,16 +476,16 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan! May our
-	next mission be even
-	more successful!
+	He he! Beleza. Que a
+	próxima missão seja um
+	sucesso ainda maior!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	end

@@ -7,23 +7,23 @@ script 0 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A tactical planning
-	computer.
+	Um computador de
+	planejamento tático.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can simulate
-	countless situations
-	for the best result.
+	Pode simular inúmeras
+	situações para chegar
+	aos melhores resultados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's locked against
-	jacking in now.
+	Está bloqueado para
+	conexões, por ora.
 	"""
 	keyWait
 		any = false
@@ -32,9 +32,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The monitor displays
-	the current tactical
-	situation.
+	O monitor exibe o
+	cenário tático atual.
 	"""
 	keyWait
 		any = false
@@ -43,16 +42,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The desk of
-	SciLab's head.
+	A mesa do
+	administrador do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The one seated here
-	has great influence
-	over SciLab.
+	A pessoa que se senta
+	aqui detém grande in-
+	fluência sobre o SciLab.
 	"""
 	keyWait
 		any = false
@@ -61,15 +60,16 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This gigantic screen
-	is awe-inspiring.
+	Essa tela gigante
+	é espantosa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's often used to
-	give orders.
+	Ela é, majoritariamente,
+	usada para emitir
+	ordens.
 	"""
 	keyWait
 		any = false
@@ -78,23 +78,23 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A tactical planning
-	computer.
+	Um computador de
+	planejamento tático.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can simulate
-	countless situations
-	for the best result.
+	Pode simular inúmeras
+	situações para chegar
+	aos melhores resultados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like I can
-	jack in!
+	Parece que dá para
+	se conectar nele!
 	"""
 	keyWait
 		any = false

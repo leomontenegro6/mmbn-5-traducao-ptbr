@@ -5,24 +5,24 @@ script 0 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This monument is
-	simple,and yet the
-	chip signifies
+	Esse monumento é
+	simples, porém,
+	o chip simboliza
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	happiness,grief and
-	the potential that
-	the future holds.
+	felicidade, luto
+	e o potencial que
+	o futuro reserva.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A fine piece of
-	work.
+	Uma verdadeira obra
+	de arte.
 	"""
 	keyWait
 		any = false
@@ -33,25 +33,25 @@ script 1 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All the greatest
-	scientists are here
-	at SciLab!
+	Todos os grandes
+	cientistas do mundo
+	estão aqui, no SciLab!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? Does that make
-	me a great
-	scientist?
+	Hã? "Então, isso faz
+	de mim um grande
+	cientista"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Naw. I just like to
-	wear lab coats and
-	hang out here.
+	Que nada. Eu só gosto
+	de botar um jaleco e
+	zanzar por aqui.
 	"""
 	keyWait
 		any = false
@@ -62,17 +62,17 @@ script 2 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	They have it good
-	at SciLab,with that
-	beautiful park.
+	Que inveja do pessoal
+	do SciLab, com o parque
+	lindo deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'll quit my
-	job and apply to
-	SciLab!
+	Acho que eu vou legar
+	meu emprego e tentar
+	uma vaga no SciLab!
 	"""
 	keyWait
 		any = false
@@ -83,17 +83,17 @@ script 3 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I heard a cruise
-	ship's coming to the
-	harbor over yonder.
+	Ouvi dizer que vem aí
+	um cruzeiro naquele
+	porto mais pra lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder how much
-	longer it'll be? I
-	can't wait!
+	Quanto tempo ainda vai
+	levar pra ele chegar?
+	Tô ansioso pra ver!
 	"""
 	keyWait
 		any = false
@@ -109,9 +109,9 @@ script 10 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Things seem awfully
-	active at SciLab.
-	Wonder what's up?
+	As coisas parecem bem
+	movimentadas no SciLab.
+	Por que será?
 	"""
 	keyWait
 		any = false
@@ -122,16 +122,16 @@ script 11 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Guess things have
-	calmed down.
+	Acho que as coisas
+	deram uma acalmada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It turns out it was
-	no big problem after
-	all. Phew!
+	Parece que, no fim das
+	contas, o problema não
+	era nada de mais. Ufa!
 	"""
 	keyWait
 		any = false
@@ -147,9 +147,8 @@ script 12 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Something happened
-	at SciLab⋯I wonder
-	what?
+	Aconteceu alguma coisa
+	no SciLab... O que será?
 	"""
 	keyWait
 		any = false
@@ -160,9 +159,9 @@ script 13 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Guess it's OK now.
-	You just came from
-	SciLab. What was it?
+	Acho que tá tudo bem
+	agora. Você veio do
+	SciLab. Como estava lá?
 	"""
 	keyWait
 		any = false
@@ -173,9 +172,9 @@ script 20 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	How's your Dad? He
-	hasn't been at home
-	much recently,right?
+	Como o seu pai tá?
+	Faz tempo que ele não
+	volta pra casa, né?
 	"""
 	keyWait
 		any = false
@@ -186,8 +185,8 @@ script 21 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	We're here! SciLab!
-	Let's go!
+	Chegamos! SciLab!
+	Vambora!
 	"""
 	keyWait
 		any = false
@@ -198,8 +197,8 @@ script 22 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	SciLab⋯it has been a
-	while!
+	O SciLab...
+	Nossa, faz tempo, já!
 	"""
 	keyWait
 		any = false
@@ -210,9 +209,9 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going? We've got to
-	go to Dad's Lab!
+	Lan, aonde você vai?
+	A gente tem que ir pro
+	laboratório do papai!
 	"""
 	keyWait
 		any = false
@@ -223,9 +222,9 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't leave Mega-
-	Man⋯I'm heading
-	back to SciLab!
+	Eu não posso deixar
+	o MegaMan aqui...
+	Vou voltar pro SciLab!
 	"""
 	keyWait
 		any = false
@@ -236,16 +235,15 @@ script 30 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I believe this
-	monument represents
+	Creio que esse monumen-
+	to represente o grandi-
+	oso poder dos chips.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the grand power of
-	the Chip. What do
-	you think?
+	O que VOCÊ acha?
 	"""
 	keyWait
 		any = false
@@ -256,17 +254,16 @@ script 31 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I heard the park
-	here was very
-	relaxing. And it is!
+	Eu tinha ouvido falar
+	que este parque era
+	relaxante. E é mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The perfect place
-	for my grandson to
-	play!
+	É o lugar perfeito para
+	o meu neto brincar!
 	"""
 	keyWait
 		any = false
@@ -277,15 +274,16 @@ script 32 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We have to be ready
-	for anything!
+	Temos que estar
+	preparados para tudo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One-two,one-two,one
-	two!
+	Um, dois!
+	Um, dois!
+	Um, dois!
 	"""
 	keyWait
 		any = false
@@ -296,29 +294,28 @@ script 40 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	The only place to go
-	on a hot day like
-	this is swimming!
+	A melhor coisa pra
+	fazer num dia quente
+	assim... é nadar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? You're heading
-	to the ocean right
-	now?
+	Quê? Você está indo
+	para a praia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Super! Take me
-	along,too!
+	Que tudo!
+	Me leva também!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No? Well,phooey!"
+	"Não vai? Poxa!"
 	keyWait
 		any = false
 	end
@@ -328,17 +325,17 @@ script 41 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Sheesh,it's hot!
-	Good time to take
-	a cab.
+	Meu Deus, que caalooor!
+	É, hoje eu vou é
+	pegar um táxi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't hail a
-	cab here for the
-	life of me.
+	... Mas tá impossível
+	conseguir um táxi aqui
+	hoje!
 	"""
 	keyWait
 		any = false
@@ -349,16 +346,16 @@ script 42 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Hyah!
+	Iá!
 	AreaGrab!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aiiyah!
-	I'll finish you with
-	a sword slash!
+	Rei-IÁ!
+	Eu vou acabar contigo
+	com uma espadada!
 	"""
 	keyWait
 		any = false
@@ -368,26 +365,26 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = OrangeShirtBoy
 	msgOpen
-	"No! I'm gonna lose!"
+	"Essa não!\nEu vou perder!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sheesh,he looks
-	like any other kid
+	Credo. Ele parece um
+	menino comum,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but once he starts
-	NetBattling,he
-	transforms!
+	mas quando começa
+	a NetLuta, ele se
+	transforma, sei lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Aieek! No!!!"
+	"Aaahhh! Nããããooo!!!"
 	keyWait
 		any = false
 	end
@@ -397,25 +394,25 @@ script 44 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Shucks! How many
-	days will it be
-	before it comes?
+	Poxa! Quantos dias
+	faltam ainda pra ele
+	chegar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you asking?
-	What am I waiting
-	for?
+	O quê?
+	"Pelo que eu tô
+	esperando"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,the cruise
-	ship,of course! It's
-	coming to the harbor
+	Pelo cruzeiro, né?!
+	Ele tá vindo pro porto,
+	não sabia?
 	"""
 	keyWait
 		any = false

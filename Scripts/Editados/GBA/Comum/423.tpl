@@ -5,22 +5,22 @@ script 0 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	MAN! Everything
-	makes me so mad!
+	ARGH! Tudo me deixa
+	tão FULA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate that gold
-	folding screen!
+	Eu ODEIO esse biombo
+	dourado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I hate my ugly
-	hair style!
+	E odeio o meu
+	PENTEADO HORROROSO!
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 1 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Gyaaahh! I hate
-	everything! I want
-	to destroy it all!
+	Graaahhh!
+	Eu odeio tudo!
+	Quero quebrar tudo!!
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Ow,ow,ow,my head!"
+	"Ai, ai, minha cabeça!"
 	keyWait
 		any = false
 	end
@@ -63,8 +63,8 @@ script 11 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Hahh,whew⋯ I
-	can't run any more!
+	Rarh, uff...
+	Não aguento mais correr!
 	"""
 	keyWait
 		any = false
@@ -75,9 +75,9 @@ script 20 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	My head hurts too
-	much to talk.
-	I'm sorry.
+	A cabeça tá doendo
+	demais pra conversar.
+	Desculpa.
 	"""
 	keyWait
 		any = false
@@ -88,16 +88,16 @@ script 21 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Hahh,hahh! I
-	have no idea why
-	I was running.
+	Rarh, rarhh!
+	Eu nem faço ideia de por
+	que eu tava correndo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just let me catch
-	my breath⋯
+	Só... me deixa recuperar
+	o fôlego...
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here it is,Lan!"
+	"Tá aqui, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Use your MegaBuster!"
+	"MegaAtirador nele!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,11 +26,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!!"
+	"Certo!!!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Hm? This server⋯"
+	"... Hm? Este servidor..."
 	keyWait
 		any = false
 	clearMsg
@@ -41,7 +41,7 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hold it right there!"
+	"Opa! Calminha aí!"
 	keyWait
 		any = false
 	end
@@ -62,8 +62,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I know⋯ We have to
-	battle you first⋯
+	Deixa eu adivinhar:
+	a gente vai ter que
+	passar por você...?
 	"""
 	keyWait
 		any = false
@@ -75,28 +76,29 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Rawrrr!"
+	"Grrrr!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't you know it's
-	rude to say someone
-	else's lines?!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But we can leave
-	that for later⋯
+	Não sabia que é falta
+	de educação falar em
+	cima dos outros, não?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're gonna go at
-	it right now!!!
+	Bom, depois a gente
+	fala disso...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Porque, agora,
+	a gente vai é ver
+	quem sai por cima!!
 	"""
 	keyWait
 		any = false
@@ -106,13 +108,13 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yikes!"
+	"Iih!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,
-	we've got no choice!
+	MegaMan, a gente não
+	tem escolha!
 	"""
 	keyWait
 		any = false
@@ -124,7 +126,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"B-but⋯"
+	"M-mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -135,7 +137,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Weak,MegaMan,weak!"
+	"Fraco, MegaMan! Fraco!"
 	keyWait
 		any = false
 	clearMsg
@@ -154,7 +156,7 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Stop!"
+	"Não tão rápido!"
 	keyWait
 		any = false
 	end
@@ -175,9 +177,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've fallen under
-	Nebula's control,
-	too,ShadowMan?
+	Você também tá sob
+	o controle da Nebula
+	agora, ShadowMan?
 	"""
 	keyWait
 		any = false
@@ -190,9 +192,8 @@ script 14 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	MegaMan,
-	it's just you and
-	me⋯
+	MegaMan... Agora,
+	somos só você e eu...
 	"""
 	keyWait
 		any = false
@@ -203,15 +204,17 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't think we can
-	reason with him.
+	Não acho que vá dar
+	pra gente convencer
+	ele na conversa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,looks like
-	we gotta fight!
+	Parece que a gente
+	vai ter que lutar,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -223,7 +226,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"B-but⋯"
+	"M-mas..."
 	keyWait
 		any = false
 	clearMsg
@@ -234,7 +237,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"You're no match!!!"
+	"Você não é páreo\npara mim!!!"
 	keyWait
 		any = false
 	clearMsg

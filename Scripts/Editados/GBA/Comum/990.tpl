@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If only we could
-	disable this
-	electro-barrier.
+	Se, ao menos, a gente
+	pudesse desligar essa
+	eletro-barreira...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet it leads
-	to the way out⋯
+	Aposto que ela
+	dá na saída...
 	"""
 	keyWait
 		any = false
@@ -25,24 +25,25 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like 3 people
-	have to jack in⋯
+	Parece que precisa
+	de três pessoas pra
+	se conectarem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our teammates risked
-	their lives to get
-	us this far⋯
+	Os nossos companheiros
+	arriscaram as vidas pra
+	gente chegar até aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All we can do is
-	keep moving forward,
-	whatever the cost.
+	Só o que podemos fazer
+	é continuar avançando,
+	custe o que custar!
 	"""
 	keyWait
 		any = false
@@ -53,8 +54,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's go
-	as far as we can!
+	MegaMan, bora o
+	mais longe que der!
 	"""
 	keyWait
 		any = false
@@ -66,13 +67,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯OK."
+	"... Tá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess this is the
-	only way left⋯
+	Acho que esse é o único
+	caminho que restou...
 	"""
 	keyWait
 		any = false
@@ -84,7 +85,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Wait!!!"
+	"Ei!!!"
 	keyWait
 		any = false
 	end
@@ -93,7 +94,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That voice!!!"
+	"Essa voz!!!"
 	keyWait
 		any = false
 	end
@@ -102,7 +103,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"Jack in here,right?!"
+	"É pra eu me\nconectar aqui, né?!"
 	keyWait
 		any = false
 	clearMsg
@@ -124,8 +125,8 @@ script 8 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Well then,I'm going
-	in through here⋯
+	Bom, nesse caso,
+	eu assumo este aqui...
 	"""
 	keyWait
 		any = false
@@ -135,7 +136,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -149,8 +150,8 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	You're both safe!
-	What a relief!
+	Vocês dois tão bem!
+	Que alívio...!
 	"""
 	keyWait
 		any = false
@@ -162,11 +163,11 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Leave it to us."
+	"Deixe isto com a gente."
 	keyWait
 		any = false
 	clearMsg
-	"Jasmine,you ready?"
+	"Pronta, Jasmine?"
 	keyWait
 		any = false
 	clearMsg
@@ -177,7 +178,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"Whenever you are!"
+	"Prontíssima!"
 	keyWait
 		any = false
 	end
@@ -185,7 +186,7 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Hold on!"
+	"Calminha aí!"
 	keyWait
 		any = false
 	end
@@ -194,7 +195,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That voice!!!"
+	"Essa voz...!!!"
 	keyWait
 		any = false
 	end
@@ -203,7 +204,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"Jack in here,right?!"
+	"É pra eu me\nconectar aqui, né?!"
 	keyWait
 		any = false
 	clearMsg
@@ -225,8 +226,8 @@ script 17 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	I'm going in
-	through here⋯
+	Então, eu me
+	conectarei aqui...
 	"""
 	keyWait
 		any = false
@@ -236,7 +237,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -250,8 +251,8 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	You're both safe!
-	What a relief!
+	Vocês dois tão bem!
+	Que alívio...!
 	"""
 	keyWait
 		any = false
@@ -263,11 +264,11 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Leave it to us."
+	"Deixe isto conosco."
 	keyWait
 		any = false
 	clearMsg
-	"Ribitta,you ready?"
+	"Pronta, Ribitta?"
 	keyWait
 		any = false
 	clearMsg
@@ -278,7 +279,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"Yes,sir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -287,14 +288,14 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK⋯ Let's go!"
+	"Beleza... Vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

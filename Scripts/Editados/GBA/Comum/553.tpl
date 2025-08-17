@@ -21,7 +21,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Chaud,go for it!"
+	"Chaud, manda ver!"
 	keyWait
 		any = false
 	end
@@ -30,7 +30,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Baryl,take it away!"
+	"Baryl, é com você!"
 	keyWait
 		any = false
 	end
@@ -48,7 +48,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Ribitta,you're in!!!"
+	"Ribitta, vá!!!"
 	keyWait
 		any = false
 	end
@@ -57,7 +57,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"Lan,take over!"
+	"Lan, é a sua vez!"
 	keyWait
 		any = false
 	end
@@ -66,7 +66,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"Lan,it's all yours!"
+	"Lan, é com você!"
 	keyWait
 		any = false
 	end

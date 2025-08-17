@@ -5,15 +5,16 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tesla,we found all 4
-	programs!
+	Tesla, a gente achou
+	todos os quatro
+	programas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry and reinstall
-	them into MagnetMan!
+	Rápido, reinstala
+	eles no MagnetMan!
 	"""
 	keyWait
 		any = false
@@ -25,7 +26,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Yes,of course!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -34,7 +35,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"MagnetMan,reboot!"
+	"MagnetMan, reiniciar!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,18 +44,18 @@ script 2 mmbn5 {
 		value = 1
 	wait
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	MagnetMan,
 	MagnetMan!
+	MagnetMan!!
 	"""
 	keyWait
 		any = false
@@ -64,45 +65,45 @@ script 2 mmbn5 {
 }
 script 3 mmbn5 {
 	mugshotHide
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Tesla⋯"
+	"Tesla..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am terribly sorry.
-	I have failed to
-	perform my duty!
+	Eu sinto muito.
+	Falhei em cumprir
+	com o meu dever!
 	"""
 	keyWait
 		any = false
@@ -115,23 +116,24 @@ script 4 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	You don't have to
-	apologize,MagnetMan.
+	Você não tem que se
+	desculpar, MagnetMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you should thank
-	Lan and MegaMan!
+	Mas você TEM que
+	agradecer ao Lan
+	e ao MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're the ones who
-	found your stolen
-	programs.
+	Foram eles quem
+	acharam os seus
+	programas roubados.
 	"""
 	keyWait
 		any = false
@@ -143,18 +145,18 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Ngg⋯Ergg⋯"
+	"Nggh... Ergg..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never imagined
-	this day would come⋯
+	Eu nunca imaginei que
+	este dia ia chegar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Er⋯Thank you."
+	"Er... Obrigado."
 	keyWait
 		any = false
 	clearMsg
@@ -166,14 +168,14 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't mention it!
-	We could do for a
-	teammate!
+	Não tem de quê! É o
+	mínimo que a gente faria
+	por um colega de equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan?"
+	"Né, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -184,22 +186,22 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But shoot,that Navi
-	must be something
-	else,
+	Mas... nossa.
+	Aquele Navi deve
+	ser incrível,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to be able to slip
-	past MagnetMan's
-	tough defenses!
+	pra conseguir passar
+	pela defesa potente
+	od MagnetMan!
 	"""
 	keyWait
 		any = false
@@ -212,17 +214,17 @@ script 8 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	It was all over
-	before I knew what
-	was happening.
+	A coisa toda já tinha
+	acabado antes que eu
+	me desse conta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His incredible speed
-	and agility⋯he's no
-	ordinary Navi.
+	A velocidade e agilidade
+	incríveis dele... Ele não
+	era um Navi qualquer.
 	"""
 	keyWait
 		any = false
@@ -234,9 +236,8 @@ script 9 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Well,what a pleasure
-	to hear such kind
-	words!
+	Olha!
+	Assim, eu fico vermelho!
 	"""
 	keyWait
 		any = false
@@ -249,30 +250,32 @@ script 10 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Hello! How is
-	everyone?
+	Fala, gente!
+	Como cês tão?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your team has power
-	and technique
+	A boa notícia é que
+	a equipe de vocês
+	tem força e técnica.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but is a bit lacking
-	in speed.
+	A má notícia é que a
+	velocidade dela deixa
+	um tantinho a desejar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only one on your
-	team who passes on
-	speed is the leader.
+	O único no time que se
+	salva na rapidez é
+	o líder de vocês.
 	"""
 	keyWait
 		any = false
@@ -285,8 +288,8 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You went to Chaud,
-	too?!
+	Você também foi
+	até o Chaud?!
 	"""
 	keyWait
 		any = false
@@ -299,16 +302,15 @@ script 12 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	And a very capable
-	leader he is.
+	E que líder capaz ele é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We almost got in to
-	a bit of trouble but
-	we managed to run!
+	Quase deu ruim pra
+	gente, mas deu pra
+	gente fugir, no final!
 	"""
 	keyWait
 		any = false
@@ -321,15 +323,15 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just what are you
-	trying to pull,
+	O que é que você
+	pretende,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	spying on us every
-	chance you get!
+	espionando a gente
+	sempre que dá na telha?!
 	"""
 	keyWait
 		any = false
@@ -342,14 +344,14 @@ script 14 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Keh. We're just
-	bored,Lan,just
-	bored!
+	He. A gente só tá
+	entediado, Lan!
+	Morrendo de tédio!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Tah tah!"
+	"Tchauzinho!"
 	keyWait
 		any = false
 	end
@@ -358,7 +360,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stop!"
+	"Pera aí!"
 	wait
 		frames = 30
 	end
@@ -368,9 +370,8 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He sure knows how
-	to beat a quick
-	retreat!
+	Ele sabe mesmo bater
+	em retirada rápido!
 	"""
 	keyWait
 		any = false
@@ -387,8 +388,9 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	we'd better report
-	this to Chaud?
+	será que não é melhor
+	a gente relatar isso
+	pro Chaud?
 	"""
 	keyWait
 		any = false
@@ -399,9 +401,9 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right. Chaud
-	might know something
-	about them.
+	Concordo. Ele pode
+	saber alguma coisa
+	sobre eles.
 	"""
 	keyWait
 		any = false
@@ -412,8 +414,8 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	See you,Tesla. We're
-	going to get going.
+	Até mais, Tesla.
+	A gente vai nessa.
 	"""
 	keyWait
 		any = false
@@ -426,16 +428,16 @@ script 20 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	OK.
-	Be careful.
+	Tá bom.
+	Tomem cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a feeling we
-	haven't seen the
-	last of him.
+	Estou com a sensação
+	de que não foi a última
+	vez que vimos eles.
 	"""
 	keyWait
 		any = false
@@ -447,7 +449,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right."
+	"É."
 	keyWait
 		any = false
 	end
@@ -457,15 +459,16 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pride,we found
-	all 4 programs!
+	Pride, a gente
+	achou todos os
+	quatro programas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry and reinstall
-	them into KnightMan!
+	Rápido, reinstala
+	eles no KnightMan!
 	"""
 	keyWait
 		any = false
@@ -477,7 +480,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Indeed!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -486,7 +489,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"KnightMan,reboot!"
+	"KnightMan, reiniciar!"
 	keyWait
 		any = false
 	clearMsg
@@ -495,18 +498,18 @@ script 24 mmbn5 {
 		value = 1
 	wait
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	KnightMan,
 	KnightMan!
+	KnightMan!!
 	"""
 	keyWait
 		any = false
@@ -516,45 +519,45 @@ script 24 mmbn5 {
 }
 script 25 mmbn5 {
 	mugshotHide
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"⋯Lady Pride,"
+	"Sua Alteza Pride,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am terribly sorry.
-	I have failed to
-	perform my duty!
+	eu sinto muitíssimo.
+	Falhei em cumprir
+	com o meu dever!
 	"""
 	keyWait
 		any = false
@@ -567,23 +570,24 @@ script 26 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	You don't have to
-	apologize.
+	Você não tem nada
+	por que se desculpar,
+	KnightMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you should thank
-	Lan and MegaMan!
+	Apenas agradeça
+	a Lan e MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're the ones who
-	found your stolen
-	programs.
+	Foram eles quem
+	recuperaram os seus
+	programas roubados.
 	"""
 	keyWait
 		any = false
@@ -596,16 +600,17 @@ script 27 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Lan,MegaMan,you
-	have done a great
-	service to me.
+	Lan, MegaMan, vocês
+	prestaram um grande
+	serviço a mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I will be sure to
-	repay your kindness.
+	Faço aqui um juramento
+	de compensar a
+	bondade de vocês.
 	"""
 	keyWait
 		any = false
@@ -618,14 +623,14 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't mention it!
-	We could do for a
-	teammate!
+	Imagina! Foi o mínimo
+	que a gente podia fazer
+	por um colega de equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan?"
+	"Né, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -636,22 +641,22 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But shoot,that Navi
-	must be something
-	else,
+	Mas... caramba.
+	O ShadowMan ficou
+	bem forte mesmo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to be able to slip
-	past KnightMan's
-	tough defenses!
+	pra conseguir passar
+	pela defesa rígida
+	do KnightMan!
 	"""
 	keyWait
 		any = false
@@ -664,17 +669,16 @@ script 30 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	It was all over
-	before I knew what
-	was happening.
+	Tudo já havia acabado
+	antes que eu percebesse.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His incredible speed
-	and agility⋯he's no
-	ordinary Navi.
+	As incríveis velocidade
+	e força dele... Ele não
+	é mesmo um Navi comum.
 	"""
 	keyWait
 		any = false
@@ -686,8 +690,8 @@ script 31 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Well,thank you for
-	such generosity.
+	Ora, obrigado pelas
+	gentis palavras.
 	"""
 	keyWait
 		any = false
@@ -700,29 +704,29 @@ script 32 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Your team has power
-	and technique but
-	is short of speed.
+	A sua equipe possui
+	força e técnica, mas
+	carece de velocidade.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're no match for
-	Nebula at this
-	point.
+	No nível em que estão,
+	vocês não são páreos
+	para a Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If there's any hope
-	at all,
+	Se a sua equipe tem
+	qualquer esperança,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"it's in your leader."
+	"ela está no\nlíder de vocês."
 	keyWait
 		any = false
 	clearMsg
@@ -734,8 +738,8 @@ script 33 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You went to Baryl,
-	too?!
+	Você também foi
+	até o Baryl?!
 	"""
 	keyWait
 		any = false
@@ -748,16 +752,16 @@ script 34 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	A very capable
-	leader,indeed.
+	Um líder deveras
+	capaz, de fato.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But even the best
-	leader is powerless
-	without a good team.
+	Mas até o melhor líder
+	se frustra sem uma
+	boa equipe.
 	"""
 	keyWait
 		any = false
@@ -770,15 +774,15 @@ script 35 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just what are you
-	trying to pull,
+	O que é que você
+	pretende,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	spying on us every
-	chance you get!
+	espionando a gente
+	sempre que dá na telha?!
 	"""
 	keyWait
 		any = false
@@ -791,15 +795,14 @@ script 36 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	You shall know soon
-	enough.
+	Vocês logo descobrirão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have what it
-	takes,that is.
+	Caso se provem fortes
+	o bastante, claro.
 	"""
 	keyWait
 		any = false
@@ -809,7 +812,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W⋯Wait!"
+	"E... espera!"
 	wait
 		frames = 30
 	end
@@ -819,9 +822,8 @@ script 38 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He sure knows how
-	to beat a quick
-	retreat!
+	Ele sabe mesmo
+	fugir rápido!
 	"""
 	keyWait
 		any = false
@@ -838,8 +840,9 @@ script 39 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	we'd better report
-	this to Baryl?
+	será que não é melhor
+	a gente relatar isso
+	pro Baryl?
 	"""
 	keyWait
 		any = false
@@ -850,9 +853,9 @@ script 40 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right. Baryl
-	might know something
-	about them.
+	Concordo. Ele pode
+	saber alguma coisa
+	sobre eles.
 	"""
 	keyWait
 		any = false
@@ -863,8 +866,8 @@ script 41 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	See you,Pride. We're
-	going to get going.
+	Até mais, Pride.
+	A gente vai nessa.
 	"""
 	keyWait
 		any = false
@@ -877,16 +880,16 @@ script 42 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	OK.
-	Be careful.
+	Certo.
+	Tomem muito cuidado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have a feeling we
-	haven't seen the
-	last of him.
+	Tenho o pressentimento
+	de que não foi nosso
+	último encontro com ele.
 	"""
 	keyWait
 		any = false
@@ -898,7 +901,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right."
+	"É."
 	keyWait
 		any = false
 	end

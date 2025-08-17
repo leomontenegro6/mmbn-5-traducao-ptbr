@@ -5,17 +5,16 @@ script 0 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Nebula is still
-	holding on in
-	End Area.
+	A Nebula ainda está
+	ocupando a Área Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sticking like glue!
-	I hate dating
-	guys like that!
+	Não sabem a hora de ir
+	embora! Odeio sair com
+	esse tipinho!
 	"""
 	keyWait
 		any = false
@@ -26,9 +25,8 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	It's just as
-	powerful as the
-	real thing⋯
+	É tão poderoso quanto
+	o de verdade...
 	"""
 	keyWait
 		any = false
@@ -39,17 +37,16 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I don't recommend
-	going any further
-	in than this.
+	Eu não recomendaria ir
+	mais adiante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd turn back
-	if you feel
-	nervous!
+	Aliás, eu recomendaria
+	ir embora, se estiver
+	nervoso!
 	"""
 	keyWait
 		any = false
@@ -60,8 +57,8 @@ script 10 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	P⋯turn⋯b⋯
-	R⋯ow⋯
+	P... vo... te....
+	A... ora...
 	"""
 	keyWait
 		any = false
@@ -69,9 +66,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -82,8 +79,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A⋯! My⋯
-	⋯ar⋯!
+	A...! Minha...
+	... ar...!
 	"""
 	keyWait
 		any = false
@@ -91,9 +88,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -104,17 +101,16 @@ script 20 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	If the number
-	of jam attacks
-	is any indication,
+	Se o número de ataques
+	de interferência for
+	alguma indicação,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula must
-	be a pretty
-	tough crew!
+	a Nebula deve ser um
+	bando bem forte!
 	"""
 	keyWait
 		any = false
@@ -125,23 +121,23 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Whew! I was in
-	bad shape,there.
+	Ufa! Eu tava mal,
+	ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I suddenly lost
-	my hearing ability!
+	Perdi a audição,
+	de repente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought I 'd
-	lose it forever!
-	What a relief!
+	Achei que não ia
+	recuperar nunca!
+	Que alívio!
 	"""
 	keyWait
 		any = false
@@ -152,16 +148,16 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My dream is to
-	join that famous
-	team of Navis!
+	O meu sonho é entrar
+	pra aquela equipe
+	famosa de Navis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm⋯ I wonder
-	how to apply?
+	Hmm... Será que eles
+	aceitam currículo?
 	"""
 	keyWait
 		any = false
@@ -172,22 +168,22 @@ script 31 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I stayed off of
-	the Net for a while
-	because of Nebula.
+	Eu passei um tempo
+	fora da Rede por
+	causa da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Today I found that
-	I'm not as fast as
-	I was in battles.
+	E hoje eu descobri que
+	não estou mais tão
+	rápido nas lutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*Sigh*"
+	"Ai, ai..."
 	keyWait
 		any = false
 	end
@@ -197,9 +193,9 @@ script 40 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Another incident?
-	I am REALLY
-	getting fed up.
+	OUTRO incidente?
+	Eu tô ficando TÃO
+	cheio disso...
 	"""
 	keyWait
 		any = false
@@ -210,16 +206,16 @@ script 41 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	The area near
-	SciLab seems to be
-	having trouble.
+	Parece que a área
+	perto da SciLab tá
+	encarando uns problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better stay
-	out of there.
+	É melhor a gente ficar
+	longe.
 	"""
 	keyWait
 		any = false
@@ -230,31 +226,29 @@ script 50 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My forte is
-	defeating
-	strong opponents.
+	Eu sou especialista em
+	derrotar oponentes
+	fortes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Happen to know
-	any?
+	E aí, conhece algum?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? They're on
-	the Undernet?
+	Hã? Tem na Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yikes! Um! Er⋯
-	I have something
-	else to do! Sorry!
+	Cruz credo! Opa! Er...
+	Eu tenho um outro
+	compromisso! Foi mal!
 	"""
 	keyWait
 		any = false
@@ -265,16 +259,17 @@ script 51 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Lots have had Navis
-	disappear in
-	the Undernet.
+	Diversos Navis
+	desapareceram na
+	Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No joke. Pretty
-	scary,y'know?
+	Não podemos levar isso
+	na brincadeira. É bem
+	sinistro, sabe?
 	"""
 	keyWait
 		any = false
@@ -288,7 +283,7 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Is this it?"
+	"É aqui?"
 	keyWait
 		any = false
 	clearMsg
@@ -299,7 +294,7 @@ script 90 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -314,8 +309,8 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I'd better get back
-	to Higsby's now!
+	É melhor a gente voltar
+	pro Higsby agora!
 	"""
 	keyWait
 		any = false

@@ -5,16 +5,14 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS SCILAB
-	AREA,HOME OF
-	THE BIG BRAINS!
+	ESTA É A ÁREA SCILAB,
+	LAR DE GRANDES MENTES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TIME TO GET
-	RESEARCHING!
+	HORA DA PESQUISA!
 	"""
 	keyWait
 		any = false
@@ -25,15 +23,15 @@ script 1 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I only just came
-	to SciLab Area,but
+	Eu acabei de chegar
+	na Área SciLab,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel like I'm
-	more intelligent⋯!
+	mas já estou me sentindo
+	mais inteligente...!
 	"""
 	keyWait
 		any = false
@@ -41,15 +39,15 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Aw,it's all in
-	your head.
+	Ah, isso aí é coisa
+	da sua cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -59,8 +57,8 @@ script 2 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Hey,say something
-	to him,will you?
+	Ei, fala alguma coisa
+	pra ele, por favor?
 	"""
 	keyWait
 		any = false
@@ -71,20 +69,21 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	H-Hey!
-	Be quiet! Shh!
+	E-ei!
+	Quieto! Shh!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was on the edge
-	of a breakthrough!
+	Eu estava prestes a
+	chegar a uma grande
+	descoberta!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now I've lost it!"
+	"... E, agora, eu perdi\nela!"
 	keyWait
 		any = false
 	end
@@ -94,8 +93,8 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT⋯ BULA⋯
-	⋯IT?!
+	É... BULA...
+	É?!
 	"""
 	keyWait
 		any = false
@@ -103,9 +102,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -116,9 +115,9 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I wa⋯
-	⋯idea⋯
-	Neb⋯ ruin⋯!!
+	Eu ta...
+	... berta...
+	Neb... rruin...!!
 	"""
 	keyWait
 		any = false
@@ -126,9 +125,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -139,15 +138,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO MANY NASTY
-	INCIDENTS LATELY!
+	TEM HAVIDO TANTOS
+	INCIDENTES HORRÍVEIS
+	ULTIMAMENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I NEVER GET A
-	CHANCE TO RELAX!
+	NUNCA ME APARECE UMA
+	CHANCE PARA RELAXAR!
 	"""
 	keyWait
 		any = false
@@ -158,14 +158,14 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I was on the verge
-	of a big discovery
-	but it fell through.
+	Eu estava prestes a
+	fazer uma grande
+	descoberta, mas a perdi.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's Nebula's fault!"
+	"Tudo culpa da Nebula!"
 	keyWait
 		any = false
 	end
@@ -175,15 +175,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SCILAB AREA!
+	BEM-VINDO À
+	ÁREA SCILAB!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STAY FOCUSED ON
-	YOUR STUDIES!
+	FOQUE FORTE
+	NOS ESTUDOS!
 	"""
 	keyWait
 		any = false
@@ -193,15 +193,14 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	He seems to have
-	something on his
-	mind.
+	Ele parece estar com
+	a cabeça ocupada.
 	"""
 	keyWait
 		any = false
@@ -212,9 +211,9 @@ script 32 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I think we'd better
-	hide our Katana
-	chips in folders.
+	Acho melhor a gente
+	guardar os nossos chips
+	Katana nas pastas.
 	"""
 	keyWait
 		any = false
@@ -222,23 +221,23 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	All of us have
-	a "Katana" within
-	our souls⋯
+	Todos nós temos uma
+	"katana" em nossas
+	almas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That "Katana" is
-	called "faith."
+	Essa "katana" é o
+	que se chama de "fé".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Faith in ourselves.
-	Faith in our heroes.
+	Fé em nós mesmos.
+	Fé em nossos heróis.
 	"""
 	keyWait
 		any = false
@@ -246,8 +245,8 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	Uh⋯what are you
-	talking about?
+	Er... do que é que
+	você tá falando?
 	"""
 	keyWait
 		any = false
@@ -258,23 +257,22 @@ script 33 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I really need
-	some inspiration.
+	Eu preciso muito
+	de uma inspiração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! I got it! I'll
-	make a machine to
-	give me new ideas!
+	Ah! Já sei! Eu vou
+	criar uma máquina pra
+	me dar novas ideias!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Huh? What's so
-	funny?
+	Ué? Qual é a graça?
 	"""
 	keyWait
 		any = false
@@ -285,16 +283,16 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WARNING! SCILAB
-	HP IS UNDER
-	ATTACK!
+	ALERTA!
+	A PÁGINA DO SCILAB
+	ESTÁ SOB ATAQUE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JACK OUT
-	IMMEDIATELY!
+	DESCONECTE-SE
+	IMEDIATAMENTE!
 	"""
 	keyWait
 		any = false
@@ -305,8 +303,8 @@ script 41 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What's the
-	fuss?
+	Que baderna
+	toda é essa?
 	"""
 	keyWait
 		any = false
@@ -317,8 +315,8 @@ script 42 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	What's all the
-	fuss?
+	Que confusão
+	toda é essa?
 	"""
 	keyWait
 		any = false
@@ -329,23 +327,23 @@ script 43 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Looks like something
-	bad is going down.
+	Parece que tá rolando
+	uma coisa bem ruim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know,
-	SciLab HP is
-	in that direction⋯
+	Hum, naquela direção
+	fica a página do
+	SciLab...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did an experiment
-	blow up,maybe?
+	Será que algum
+	experimento explodiu?
 	"""
 	keyWait
 		any = false
@@ -356,15 +354,16 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TOO MANY NASTY
-	INCIDENTS LATELY.
+	TEM HAVIDO TANTOS
+	INCIDENTES HORRÍVEIS
+	ULTIMAMENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S REALLY BUMMING
-	ME OUT!
+	TÁ ACABANDO COM
+	O MEU ASTRAL!
 	"""
 	keyWait
 		any = false
@@ -374,15 +373,14 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	He seems to have
-	something on his
-	mind.
+	Ele parece estar com
+	a cabeça ocupada.
 	"""
 	keyWait
 		any = false
@@ -393,8 +391,8 @@ script 52 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	A Katana is really
-	useful. I'm serious!
+	Katanas são realmente
+	úteis. É sério!
 	"""
 	keyWait
 		any = false
@@ -402,24 +400,24 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I don't need a
-	chip like that!
+	Eu não preciso de um
+	chip desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've always been
-	a samurai. It's
-	a state of mind!
+	Eu sempre fui um
+	samurai. É um estado
+	de espírito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The samurai spirit!
-	That's all I've got.
-	That's all I need.
+	O espírito samurai!
+	É tudo o que eu quero.
+	É tudo de que preciso.
 	"""
 	keyWait
 		any = false
@@ -427,8 +425,8 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	What are you
-	talking about?!
+	Mas do que É que
+	você tá falando?!
 	"""
 	keyWait
 		any = false
@@ -439,16 +437,16 @@ script 53 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Nebula really
-	hit SciLab hard.
+	A Nebula prejudicou
+	o SciLab forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope the attack
-	doesn't disrupt
-	their research⋯!
+	Tomara que o ataque
+	não atrapalhe as
+	pesquisas deles...!
 	"""
 	keyWait
 		any = false
@@ -459,16 +457,15 @@ script 60 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NEBULA'S ATTACK
-	IS NO BIG DEAL!
+	O ATAQUE DA NEBULA
+	NÃO FOI GRANDE COISA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SCILAB AREA IS
-	OPERATING JUST
-	AS USUAL!
+	A ÁREA SCILAB SEGUE
+	OPERANDO COMO SEMPRE!
 	"""
 	keyWait
 		any = false
@@ -478,15 +475,14 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	He seems to have
-	something on his
-	mind.
+	Ele parece estar com
+	a cabeça ocupada.
 	"""
 	keyWait
 		any = false
@@ -497,8 +493,8 @@ script 62 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	A Katana is really
-	useful. I'm serious!
+	Katanas são realmente
+	úteis. É sério!
 	"""
 	keyWait
 		any = false
@@ -507,24 +503,24 @@ script 62 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I don't need a
-	chip like that!
+	Eu não preciso de um
+	chip desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've always been
-	a samurai. It's
-	a state of mind!
+	Eu sempre fui um
+	samurai. É um estado
+	de espírito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The samurai spirit!
-	That's all I've got.
-	That's all I need.
+	O espírito samurai!
+	É tudo o que eu quero.
+	É tudo de que preciso.
 	"""
 	keyWait
 		any = false
@@ -533,8 +529,8 @@ script 62 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	"""
-	What are you
-	talking about?!
+	Mas do que É que
+	você tá falando?!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Let's do it!
-	Liberate panels!
+	Vamos lá!
+	Liberar quadros!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Great job!
-	Liberation complete!
+	Bom trabalho!
+	Liberação concluída!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 2 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Nice work!
-	1 turn liberation!
+	Bom trabalho!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 3 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I'm sorry⋯
-	Liberation failed!
+	Desculpa...
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -62,8 +62,8 @@ script 5 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	TwinLiberate
-	the DarkPanels?
+	Liberação Gêmea
+	nos Quadros Negros?
 	
 	"""
 	positionOptionHorizontal
@@ -76,7 +76,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -85,7 +85,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -103,9 +103,9 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,Meddy!
-	We're using Order
-	Points!
+	OK, Meddy!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -114,8 +114,8 @@ script 6 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	OK! Let's go!
-	TwinLiberation!
+	OK! Vamos lá!
+	Liberação Gêmea!
 	"""
 	keyWait
 		any = false
@@ -126,8 +126,8 @@ script 7 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	We did it! Twin
-	Liberation!
+	Conseguimos!
+	Liberação Gêmea!
 	"""
 	keyWait
 		any = false
@@ -138,15 +138,15 @@ script 8 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Way to go!
-	1 turn liberation!
+	Mandou bem!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberate
-	successful!
+	A Liberação Gêmea
+	foi um sucesso!
 	"""
 	keyWait
 		any = false
@@ -157,8 +157,8 @@ script 9 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -168,7 +168,7 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Save game now?\n"
+	"Salvar agora?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -179,7 +179,7 @@ script 55 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -188,7 +188,7 @@ script 55 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -205,8 +205,8 @@ script 55 mmbn5 {
 		jumpIfTrue = continue
 		jumpIfFalse = 58
 	"""
-	OK to overwrite
-	previous save data?
+	Sobrescrever dados de
+	salvamento anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -219,7 +219,7 @@ script 55 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -228,7 +228,7 @@ script 55 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -246,13 +246,12 @@ script 56 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpenQuick
-	"Save error."
+	"Erro no salvamento."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try saving
-	again?
+	Tentar de novo?
 	
 	"""
 	positionOptionHorizontal
@@ -265,7 +264,7 @@ script 56 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -274,7 +273,7 @@ script 56 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -291,8 +290,8 @@ script 56 mmbn5 {
 		jumpIfTrue = continue
 		jumpIfFalse = 58
 	"""
-	OK to overwrite
-	previous save data?
+	Sobrescrever dados de
+	salvamento anteriores?
 	
 	"""
 	positionOptionHorizontal
@@ -305,7 +304,7 @@ script 56 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -314,7 +313,7 @@ script 56 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -334,7 +333,7 @@ script 57 mmbn5 {
 	msgOpenQuick
 	"""
 	OK!
-	Save completed.
+	O jogo foi salvo.
 	"""
 	keyWait
 		any = false
@@ -342,7 +341,7 @@ script 57 mmbn5 {
 }
 script 58 mmbn5 {
 	mugshotHide
-	"Saving⋯"
+	"Salvando..."
 	wait
 		frames = 20
 	waitHold
@@ -354,7 +353,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -365,7 +364,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -374,7 +373,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -392,8 +391,8 @@ script 61 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	End without
-	doing anything?
+	Encerrar sem
+	fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -406,7 +405,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -415,7 +414,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -433,8 +432,7 @@ script 70 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -444,8 +442,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	Meddy got:
-	"Heart"!!
+	Meddy adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -457,13 +455,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"Meddy recovers\n"
+	"Meddy restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -473,8 +471,8 @@ script 72 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -484,8 +482,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	Meddy got:
-	"Order Points"!!
+	Meddy adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -499,7 +497,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -509,8 +507,7 @@ script 73 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -520,7 +517,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	Meddy got:
+	Meddy adquiriu:
 	"
 	"""
 	printBuffer
@@ -542,8 +539,8 @@ script 74 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -552,13 +549,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"Meddy got:\n"
+	"Meddy adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -572,8 +569,8 @@ script 75 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -583,8 +580,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	Meddy got a
-	BattleChip for:
+	Meddy adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -605,8 +602,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	Meddy's HP
-	recovered to max!
+	Os PV da Meddy
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -615,8 +613,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -637,13 +635,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"Meddy received\n"
+	"Meddy levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -669,8 +667,7 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	Meddy
-	has been paralyzed!
+	Meddy foi paralisada!
 	"""
 	keyWait
 		any = false
@@ -680,14 +677,13 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Meddy
-	has recovered!
+	Meddy se recuperou!
 	"""
 	keyWait
 		any = false
@@ -697,14 +693,13 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Meddy
-	has recovered!
+	Meddy se recuperou!
 	"""
 	keyWait
 		any = false
@@ -720,8 +715,7 @@ script 87 mmbn5 {
 	clearMsg
 	mugshotHide
 	"""
-	Meddy
-	became paralyzed!
+	Meddy foi paralisada!
 	"""
 	keyWait
 		any = false
@@ -732,18 +726,16 @@ script 90 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I got hit! Sorry!
-	I can't move
-	at all⋯!
+	Eu fui atingida!
+	Desculpa!
+	Não consigo me mexer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Meddy
-	has been
-	frozen!
+	Meddy foi congelada!
 	"""
 	keyWait
 		any = false
@@ -754,8 +746,8 @@ script 91 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	We need to
-	retreat now!
+	Precisamos bater
+	em retirada!
 	"""
 	keyWait
 		any = false
@@ -765,7 +757,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -776,7 +768,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -785,7 +777,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -800,8 +792,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -812,8 +804,7 @@ script 105 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Great going!
-	The boss is down!
+	Boa! O chefão já era!
 	"""
 	keyWait
 		any = false

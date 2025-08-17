@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Excuse me,Navi.
-	Do you belong to
-	Mom's friend?
+	Com licença, Srta. Navi.
+	Você pertence à amiga
+	da nossa mãe?
 	"""
 	keyWait
 		any = false
@@ -20,16 +20,15 @@ script 1 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Oh,you must be
-	MegaMan,Lan's Navi.
+	Ah, você deve ser o
+	MegaMan, o Navi do Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've heard lots of
-	good things about
-	you from Lan's Mom!
+	Ouvi muitas coisas boas
+	de você da mãe do Lan!
 	"""
 	keyWait
 		any = false
@@ -42,16 +41,17 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mom asked me to give
-	this to you.
+	A mamãe pediu pra
+	gente entregar isto
+	aqui pra você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	MegaMan gives:
-	"StewRec."!!!
+	MegaMan entregou:
+	"Receita de Ensopado"!
 	"""
 	keyWait
 		any = false
@@ -64,39 +64,38 @@ script 3 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Heavens,you brought
-	this all this way?
+	Nossa, você trouxe
+	ela longe assim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd heard Lan's Mom
-	cooks a wonderful
-	stew!
+	Fiquei sabendo que a
+	mãe do Lan faz um
+	ensopado delicioso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,my operator asked
-	her for the
-	StewRec.!
+	Daí, a minha operadora
+	pediu pela receita dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thank you so much!
-	I can't wait to try
-	out the StewRec.!
+	Muito obrigada! Ela
+	mal pode esperar para
+	experimentar a receita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Say hello to Lan's
-	Mom,will you?
+	Diga à mãe do Lan que
+	eu mandei um beijo, tá?
 	"""
 	keyWait
 		any = false
@@ -107,15 +106,15 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,Lan,we finished
-	Mom's errand⋯
+	OK, Lan, fizemos o
+	favor pra mamãe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now let's get back
-	to your homework.
+	Agora, de volta à
+	sua lição de casa.
 	"""
 	keyWait
 		any = false
@@ -128,16 +127,16 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Are you kidding,
-	MegaMan? That was
-	Mom's errand!
+	Tá zoando, né, MegaMan?
+	O que a gente fez foi
+	o negócio da mamãe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now it's MY time to
-	play on the Net!
+	Agora é a MINHA vez
+	de brincar na Rede!
 	"""
 	keyWait
 		any = false
@@ -149,7 +148,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"But,Lan!"
+	"Mas... Lan!"
 	keyWait
 		any = false
 	end
@@ -158,7 +157,7 @@ script 7 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*bee-bee-beep!*"
+	"Bi-Bi-Biiip!"
 	wait
 		frames = 42
 	end
@@ -167,38 +166,47 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hm? It's from Dad.
-	I'll read it.
+	Hm? É do papai.
+	Eu vou ler ele aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"\"Lan,\n please round up\n everybody"
-	keyWait
-		any = false
-	clearMsg
-	" and bring them to\n my lab at SciLab."
-	keyWait
-		any = false
-	clearMsg
-	" I have something\n to show you.\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
+	"""
+	"Lan, por favor,
+	reúna todo mundo
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder what Dad
-	wants to show us?
+	e venham ao meu
+	laboratório no SciLab.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tenho uma coisa para
+	mostrar para vocês."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Hummm!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O que será que ele quer
+	mostrar pra gente?
 	"""
 	keyWait
 		any = false
@@ -211,22 +219,22 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess "everybody"
-	would be Mayl,Dex,
-	and Yai.
+	Acho que "todo mundo"
+	seria a Mayl, o Dex
+	e a Yai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! Let's jack out
-	and go round up
-	the crew!
+	Beleza!
+	Bora desconectar e
+	falar com o pessoal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Jack out,MegaMan!"
+	"Desconectar, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -237,7 +245,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

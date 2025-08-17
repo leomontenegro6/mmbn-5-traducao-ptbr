@@ -91,26 +91,25 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HOW ABOUT LINKING
-	THIS WEB PAGE WITH
-	LAN'S?
+	QUE TAL LINKAR ESTA
+	PÁGINA COM A DO LAN?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN YOU COULD COME
-	AND GO DIRECTLY
-	BETWEEN HIS
+	DAÍ, VOCÊ PODERÁ
+	TRANSITAR LIVREMENTE
+	ENTRE ESTA PÁGINA
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PAGE AND MAYL'S!"
+	"E A DA MAYL!"
 	keyWait
 		any = false
 	clearMsg
-	"SHALL I LINK THEM?"
+	"POSSO CRIAR O LINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -125,7 +124,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -134,7 +133,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -149,8 +148,8 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	COME SEE ME IF YOU
-	CHANGE YOUR MIND.
+	FALE COMIGO DE NOVO
+	CASO MUDE DE IDEIA.
 	"""
 	keyWait
 		any = false
@@ -161,16 +160,15 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I KNEW YOU WANTED TO
-	CREATE A LINK!
+	EU SABIA QUE VOCÊ
+	QUERIA CRIAR UM LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE,TAKE THIS.
-	USE THIS BANNER
-	TO COME HERE.
+	TOME. USE ESSE BANNER
+	PARA VIR PARA CÁ.
 	"""
 	keyWait
 		any = false
@@ -182,7 +180,7 @@ script 5 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -197,13 +195,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK,NOW I'LL PLACE
-	A LINK!
+	OK!
+	VOU INSTALAR O LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HIII-YAHHH!!!"
+	"IIII-IÁ!!!"
 	keyWait
 		any = false
 	soundDisableTextSFX
@@ -224,14 +222,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME!"
+	"BEM-VINDO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS MAYL'S WEB
-	PAGE. MAYL LIKES TO
-	SHOP AND PLAY PIANO.
+	ESTA É A PÁGINA DA
+	MAYL. ELA GOSTA DE
+	COMPRAS E DE PIANO.
 	"""
 	keyWait
 		any = false
@@ -242,17 +240,17 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MAYL RECENTLY
-	STARTED WRITING
-	MUSIC ON HER PC.
+	A MAYL COMEÇOU A
+	COMPOR MÚSICAS NO
+	PC ESTES DIAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULDN'T IT BE GREAT
-	IF SHE POSTED IT
-	HERE SOMEDAY?!
+	NÃO SERIA INCRÍVEL SE
+	ELA AS POSTASSE AQUI,
+	ALGUM DIA?!
 	"""
 	keyWait
 		any = false
@@ -268,24 +266,24 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH DEAR,YOU
-	FOUND IT.
+	PUXA VIDA,
+	VOCÊ ACHOU...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS IS THE SECRET
-	PART OF MAYL'S
-	WEB PAGE.
+	ESTA É A PARTE
+	SECRETA DA PÁGINA
+	DA MAYL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯THERE'S MANY THINGS
-	A YOUNG LADY CAN'T
-	SAY OUT LOUD.
+	... CHEIA DE COISAS QUE
+	UMA JOVEM NÃO PODE
+	DIZER EM VOZ ALTA.
 	"""
 	keyWait
 		any = false
@@ -301,16 +299,16 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I GUARD MAYL'S
-	SECRET DIARY.
+	EU PROTEJO O DIÁRIO
+	SECRETO DA MAYL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WON'T SHOW
-	IT TO ANYONE ELSE,
-	NO MATTER WHAT!
+	NÃO O MOSTRAREI A
+	NINGUÉM, HAJA O QUE
+	HOUVER!
 	"""
 	keyWait
 		any = false
@@ -321,9 +319,9 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS⋯MA⋯⋯B
-	PA⋯⋯M⋯L⋯TO
-	⋯P AND PLA⋯⋯NO.
+	ESTA É... P... MAY...
+	EL... GOS... D...
+	... RAS E... NO.
 	"""
 	keyWait
 		any = false
@@ -332,9 +330,9 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -345,9 +343,9 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MA⋯RECEN⋯
-	⋯TED⋯TING
-	MU⋯O⋯H⋯⋯PC.
+	A M... COMEÇ...
+	... PÔR... CAS...
+	PC...
 	"""
 	keyWait
 		any = false
@@ -356,9 +354,9 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -369,8 +367,8 @@ script 16 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH⋯EAR⋯YOU⋯
-	FOU⋯⋯IT
+	PUX... DA...
+	VO... A... OU!
 	"""
 	keyWait
 		any = false
@@ -379,9 +377,9 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -392,9 +390,8 @@ script 17 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I⋯⋯NAGE
-	MA⋯SE⋯T
-	DI⋯
+	EU... ... EJO
+	O D... DA M...
 	"""
 	keyWait
 		any = false
@@ -403,9 +400,9 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -416,22 +413,22 @@ script 18 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UUUH⋯
-	I WANNA TEAR THIS
-	WEB PAGE APART!
+	UNNNGH...
+	EU QUERO TANTO
+	DILACERAR ESTA PÁGINA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I WOULDN'T BE
-	ABLE TO LOOK MAYL
-	IN THE EYE ANYMORE
+	MAS, SE EU FIZESSE
+	ISSO, NÃO IA MAIS
+	CONSEGUIR OLHAR PRA
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IF I DID THAT⋯"
+	"MAYL COM ORGULHO..."
 	keyWait
 		any = false
 	end
@@ -441,15 +438,15 @@ script 19 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I SUDDENLY FEEL
-	SO ANNOYED.
+	EU TÔ TÃO IRRITADO,
+	DE REPENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I BETTER BEHAVE
-	MYSELF HERE.
+	MAS É MELHOR EU ME
+	COMPORTAR AQUI.
 	"""
 	keyWait
 		any = false
@@ -460,14 +457,14 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WANNA EXPOSE THIS
-	SECRET PLACE TO THE
-	WHOLE WORLD!
+	EU QUERO EXPOR ESTE
+	LOCAL SECRETO PRO
+	MUNDO TODO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HEH HEH HEH⋯"
+	"HE HE HE..."
 	keyWait
 		any = false
 	end
@@ -477,29 +474,24 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SUPPOSED TO
-	GUARD MAYL'S SECRET
+	A MINHA MISSÃO É
+	PROTEGER O DIÁRIO
+	SECRETO DA MAYL,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DIARY BUT IF I
-	REVEAL IT WITHOUT
+	MAS SE EU O DIVULGAR
+	SEM PERMISSÃO, ELA VAI
+	MORRER DE VERGONHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PERMISSION,SHE'LL
-	BE SO EMBARRASSED.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I LIKE THAT IDEA.
-	HEH HEH HEH⋯
+	É TÃO TENTADOR.
+	HE HE HE...
 	"""
 	keyWait
 		any = false
@@ -510,15 +502,17 @@ script 22 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WAS BAD-MOUTHING
-	MAYL WHEN I CAME TO.
+	EU TAVA FALANDO MAL
+	DA MAYL E, AÍ, EU
+	ACORDEI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T BEAR TO
-	FACE HER ANYMORE.
+	NÃO CONSIGO JUNTAR A
+	VERGONHA NA CARA PRA
+	FALAR COM ELA AGORA...
 	"""
 	keyWait
 		any = false
@@ -529,20 +523,20 @@ script 23 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯I COULDN'T SUPPRESS
-	MY ANGER.
+	... EU NÃO CONSEGUI
+	SEGURAR A MINHA RAIVA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS WEB PAGE
-	PROGRAM'S A FAILURE.
+	ESTE PROG DE PÁGINA
+	AQUI É UM FRACASSO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HO HO HO⋯"
+	"HO HO... HO..."
 	keyWait
 		any = false
 	end
@@ -552,16 +546,16 @@ script 24 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I MIGHT'VE EXPOSED
-	THIS PLACE TO
-	EVERYONE.
+	EU PODERIA TER
+	EXPOSTO ESTE LUGAR
+	PRA TODO O MUNDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY WOULD I DO
-	SUCH A THING?
+	MAS POR QUE EU FARIA
+	UMA COISA DESSAS?!
 	"""
 	keyWait
 		any = false
@@ -572,16 +566,16 @@ script 25 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I TRIED TO USE THE
-	DIARY IN A BAD WAY.
+	EU TENTEI USAR O
+	DIÁRIO PARA O MAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I BET MAYL WILL BE
-	REALLY DISAPPOINTED
-	WHEN SHE FINDS OUT.
+	APOSTO QUE A MAYL VAI
+	FICAR SUPER DECEPCIO-
+	NADA QUANDO DESCOBRIR.
 	"""
 	keyWait
 		any = false

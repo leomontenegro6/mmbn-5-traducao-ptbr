@@ -5,17 +5,17 @@ script 0 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Nebula sent
-	advance warning
-	of an attack?
+	A Nebula mandou um
+	aviso antecipado de
+	um ataque?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just relax. Kick
-	back and read a
-	BBS or something!
+	Ah, relaxa.
+	Senta aí e lê um
+	fórum, sei lá!
 	"""
 	keyWait
 		any = false
@@ -26,13 +26,13 @@ script 10 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The Net is going
-	nuts right now?
+	A Rede tá endoidando
+	agora?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's great!"
+	"Show!"
 	keyWait
 		any = false
 	end
@@ -42,15 +42,14 @@ script 20 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Things calmed
-	down on the Net.
+	As coisas se acalmaram
+	na Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man! That's
-	so boring.
+	Afe! Que sem graça.
 	"""
 	keyWait
 		any = false
@@ -61,16 +60,16 @@ script 30 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	A world controlled
-	by evil darkness⋯
+	Um mundo controlado
+	pela escuridão do mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! Sounds a lot
-	like THIS place!
-	Ha,ha,ha!
+	Olha, isso parece
+	muito com... aqui!
+	Ha ha ha!
 	"""
 	keyWait
 		any = false
@@ -85,31 +84,31 @@ script 40 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Nebula dropped
-	this chip,so
-	I grabbed it.
+	A Nebula deixou cair
+	este chip aqui, aí eu
+	peguei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't think
-	I can use it.
+	Mas acho que eu não
+	tenho como usar, não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll sell it to you
-	for 3000 Zennys.
-	Whaddya think?
+	Vendo ele por 3000
+	Zennys pra tu.
+	Que tal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's one of a
-	kind,dude!
+	O negócio é único
+	no mundo, brother!
 	"""
 	keyWait
 		any = false
@@ -125,7 +124,7 @@ script 40 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -134,7 +133,7 @@ script 40 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -149,9 +148,9 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Hey,your loss,
-	man! It was a chip
-	of a cute girl!
+	Azar o teu, mano!
+	Era o chip de uma
+	mina mó gata!
 	"""
 	keyWait
 		any = false
@@ -167,9 +166,8 @@ script 41 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Cool⋯
-	Here,take it.
-	It's yours.
+	Boa...
+	Toma aí. É teu.
 	"""
 	keyWait
 		any = false
@@ -182,8 +180,8 @@ script 41 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -201,7 +199,7 @@ script 41 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Good deal,man!"
+	"Bom negócio, cara!"
 	keyWait
 		any = false
 	flagSet
@@ -212,13 +210,13 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"That ain't enough."
+	"Tá faltando."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See me again when
-	you have 3000.
+	Fala comigo de novo
+	quando tu tiver 3000.
 	"""
 	keyWait
 		any = false
@@ -228,7 +226,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Heh,heh,heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end

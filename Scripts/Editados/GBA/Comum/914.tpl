@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I've had a brief
-	look around
+	Eu só dei uma olhada
+	na área bem por cima,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but all I've figured
-	out is that our
-	family kept a dog.
+	e só o que eu descobri
+	foi que a nossa família
+	tinha um cachorro.
 	"""
 	keyWait
 		any = false
@@ -27,14 +27,14 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	At least we've seen
-	ACDC Town as it was
-	when we were born.
+	Pelo menos a gente
+	viu como o bairro era
+	quando a gente nasceu.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's pretty cool."
+	"Isso é bem da hora."
 	keyWait
 		any = false
 	clearMsg
@@ -45,13 +45,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"True."
+	"Verdade."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,should we head
-	back into the Net?
+	Mas, e aí?
+	Vamos voltar pra Rede?
 	"""
 	keyWait
 		any = false
@@ -64,8 +64,7 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. Let's go back
-	to the house.
+	É. Bora pra casa.
 	"""
 	keyWait
 		any = false
@@ -77,7 +76,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay."
+	"OK."
 	keyWait
 		any = false
 	end
@@ -86,7 +85,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hah?!"
+	"Hã?!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -98,8 +97,7 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Someone just came
-	in from the Net!
+	Entrou alguém da Rede!
 	"""
 	keyWait
 		any = false
@@ -111,7 +109,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	end
@@ -121,33 +119,33 @@ script 8 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	How could a place
-	like this have been
-	hidden in the Net?!
+	Como foi que um lugar
+	destes ficou escondido
+	na Rede?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Search everywhere!
-	Leave no stone
-	unturned!
+	Procurem por todo o
+	canto! Não deixem
+	passar NADA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whatever it takes!
-	If you have to break
-	things,do it!
+	Façam o que tiverem
+	que fazer! Quebrem
+	tudo, se precisar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The thing Dr.Regal
-	is looking for could
-	be hidden anywhere!
+	A coisa que o Dr. Regal
+	quer pode estar escon-
+	dida em qualquer lugar!
 	"""
 	keyWait
 		any = false
@@ -159,7 +157,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Right away!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -171,17 +169,17 @@ script 10 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'll stand by here
-	for when the boss
-	comes.
+	Eu vou ficar de
+	guarda aqui pra
+	quando o chefe vier.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Report immediately
-	if you find
-	anything! Dismissed!
+	Avisem imediatamente
+	se acharem alguma
+	coisa! Dispensados!
 	"""
 	keyWait
 		any = false
@@ -192,16 +190,14 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What are we going to
-	do,Lan?!
+	O que a gente faz, Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those Nebula guys
-	will tear this place
-	apart!
+	Esse povo da Nebula
+	vai arruinar tudo aqui!
 	"""
 	keyWait
 		any = false
@@ -214,23 +210,23 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Even if it's before
-	my time,this is
-	still my home town!
+	Mesmo sendo do passado,
+	ainda é o bairro em
+	que a gente nasceu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not going to let
-	Nebula rip it apart!
+	Eu não vou deixar a
+	Nebula quebrar ele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got to protect
-	it,MegaMan!
+	A gente tem que proteger
+	ACDC, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -242,7 +238,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We will!"
+	"Vamos, sim!"
 	keyWait
 		any = false
 	end

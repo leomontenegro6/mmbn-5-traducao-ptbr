@@ -10,17 +10,16 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	That samurai
-	hologram has a
-	great design.
+	Aquele holograma de
+	samurai tem um visual
+	tão legal, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just between you and
-	me,I was the one who
-	designed it!
+	... Só cá entre nós, fui
+	eu quem projetou ele!
 	"""
 	keyWait
 		any = false
@@ -31,16 +30,15 @@ script 5 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Maybe I should have
-	used a full moon on
-	the forehead instead
+	Será que eu devia ter
+	usado uma lua cheia em
+	vez de uma crescente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of a crescent moon.
-	What do you think?
+	O que você acha?
 	"""
 	keyWait
 		any = false
@@ -51,9 +49,9 @@ script 10 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Reading this makes
-	me regret being born
-	in the modern age!
+	Ler isso me faz
+	lamentar ter nascido
+	na modernidade!
 	"""
 	keyWait
 		any = false
@@ -61,16 +59,17 @@ script 10 mmbn5 {
 	"Samurais! "
 	wait
 		frames = 20
-	"\nWar! "
+	"\nGuerra! "
 	wait
 		frames = 20
-	"\nUpheaval!"
+	"\nRevoltas!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Back then,men could
-	be real men⋯
+	Naqueles tempos,
+	homens podiam ser
+	homens de verdade...
 	"""
 	keyWait
 		any = false
@@ -81,17 +80,16 @@ script 11 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	In there is the Mum
-	Room (2nd floor),
-	then Castle Keep.
+	Aqui fica a Sala Crisân-
+	temo, segundo andar,
+	após a torre de menagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,you knew that
-	already? Well.
-	Excuse me,then.
+	Ah, você já sabia disso?
+	Desculpe, então.
 	"""
 	keyWait
 		any = false
@@ -102,15 +100,16 @@ script 20 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Wow⋯
-	Look at that Katana⋯
+	Nossa...
+	Olha só essa katana...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd love to swing
-	that around once⋯
+	Bem que eu queria
+	balançar uma, pelo
+	menos uma vez...
 	"""
 	keyWait
 		any = false
@@ -121,24 +120,24 @@ script 21 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	This was attacked,
-	and then SciLab was
-	hit as well.
+	Este lugar foi atacado,
+	e, depois, o SciLab
+	também foi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a violent world
-	this is.
+	Que mundo violento,
+	este nosso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't understand
-	people who do things
-	like that.
+	Eu não entendo por que
+	tem gente que faz
+	essas coisas.
 	"""
 	keyWait
 		any = false

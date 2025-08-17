@@ -5,20 +5,20 @@ script 0 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	This looks like the
-	only way forward⋯
+	Parece que esse é o
+	único acesso adiante...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But we'll have to"
+	"Mas, primeiro,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	disable this
-	electro-barrier
-	first.
+	a gente vai ter
+	que desativar essa
+	eletro-barreira.
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,8 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Tesla,how
-	are we gonna
-	disable it?
+	E como se faz pra
+	desativar ela, Tesla?
 	"""
 	keyWait
 		any = false
@@ -46,16 +45,15 @@ script 2 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	We should jack into
-	this control panel
+	Temos que nos conectar
+	a este painel de controle
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and shut down
-	the control
-	system.
+	e desativar o sistema
+	de controle.
 	"""
 	keyWait
 		any = false
@@ -66,9 +64,9 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tesla,I'm ready
-	to jack in. Just
-	say the word.
+	Tesla, eu tô pronto
+	pra me conectar.
+	É só falar!
 	"""
 	keyWait
 		any = false
@@ -79,9 +77,9 @@ script 4 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	It appears we need
-	two Navis to get
-	anywhere this time.
+	Parece que a gente
+	precisa de 2 Navis pra
+	fazer progresso aqui.
 	"""
 	keyWait
 		any = false
@@ -93,7 +91,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"I'm on it⋯"
+	"Deixa comigo..."
 	keyWait
 		any = false
 	end
@@ -102,13 +100,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Sorry but⋯"
+	"Desculpa, mas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me handle
-	this one.
+	por favor, me deixa
+	cuidar disso.
 	"""
 	keyWait
 		any = false
@@ -120,7 +118,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	clearMsg
@@ -132,22 +130,22 @@ script 8 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	This is the enemy's
-	home base. We've no
-	idea what awaits.
+	Esta é a base do inimigo.
+	A gente não tem como
+	saber o que nos espera.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MagnetMan should go.
-	He has excellent
-	defensive ability.
+	É melhor o MagnetMan ir.
+	As habilidades de defesa
+	dele são excelentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,Raika?"
+	"Né, Raika?"
 	keyWait
 		any = false
 	clearMsg
@@ -158,7 +156,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"⋯Fine by me."
+	"... Por mim, tudo bem."
 	keyWait
 		any = false
 	clearMsg
@@ -169,7 +167,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"How 'bout the other⋯"
+	"Mas e o outro? Eu..."
 	keyWait
 		any = false
 	end
@@ -179,8 +177,7 @@ script 11 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Let's move,
-	Lan!!!
+	Vamos lá, Lan!!!
 	"""
 	keyWait
 		any = false
@@ -201,7 +198,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"When's my chance⋯"
+	"Quando é que vem\na minha chance...?"
 	keyWait
 		any = false
 	clearMsg
@@ -213,9 +210,9 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false
@@ -226,20 +223,19 @@ script 15 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	This looks like the
-	only way forward⋯
+	Esse parece ser o
+	único acesso adiante...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But we'll have to"
+	"Mas, primeiro,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	disable this
-	electro-barrier
-	first.
+	teremos de desativar
+	essa eletro-barreira.
 	"""
 	keyWait
 		any = false
@@ -252,9 +248,9 @@ script 16 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Lady Pride,how
-	are we gonna
-	disable it?
+	Lady Pride,
+	como fazemos pra
+	desativar ela?
 	"""
 	keyWait
 		any = false
@@ -267,16 +263,16 @@ script 17 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	We should jack into
-	this control panel
+	Precisamos nos conectar
+	a este painel de
+	controle
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and shut down
-	the control
-	system.
+	e desativar o sistema
+	de controle.
 	"""
 	keyWait
 		any = false
@@ -287,9 +283,9 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Lady Pride,I'm ready
-	to jack in. Just
-	say the word.
+	Pride, eu tô pronto
+	pra me conectar.
+	É só falar!
 	"""
 	keyWait
 		any = false
@@ -300,9 +296,9 @@ script 19 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	It appears we need
-	two Navis to get
-	anywhere this time.
+	Parece que precisaremos
+	de dois Navis para
+	fazer progresso aqui.
 	"""
 	keyWait
 		any = false
@@ -314,7 +310,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"I'm on it⋯"
+	"Deixa comigo..."
 	keyWait
 		any = false
 	end
@@ -323,13 +319,13 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Not this time."
+	"Não. Desta vez, não."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'll take
-	care of this one.
+	Acho que eu mesma
+	cuidarei disso.
 	"""
 	keyWait
 		any = false
@@ -341,7 +337,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -353,21 +349,21 @@ script 23 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Who knows what's
-	in there.
+	Não sabemos o que
+	nos aguarda lá dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	KnightMan should go.
-	He has excellent
-	defensive ability.
+	É melhor o MagnetMan ir.
+	As habilidades de defesa
+	dele são excelentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Agreed?"
+	"Não concorda?"
 	keyWait
 		any = false
 	clearMsg
@@ -378,7 +374,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Grumble grumble⋯"
+	"Hmprf..."
 	keyWait
 		any = false
 	clearMsg
@@ -390,16 +386,15 @@ script 25 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Leave it that
-	stubborn Princess,
-	huh⋯
+	Essa princesa teimosa
+	é incrível, é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She shut Dingo
-	right up,huh.
+	Deixou o Dingo
+	caladinho, é.
 	"""
 	keyWait
 		any = false
@@ -407,8 +402,9 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	"""
-	Um⋯ Uh⋯ I'll just
-	jack in here and⋯
+	Uhm... Er... Então,
+	eu vou me conectar
+	neste aqui e...
 	"""
 	keyWait
 		any = false
@@ -418,7 +414,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Lan,let's go!"
+	"Lan, vamos!"
 	keyWait
 		any = false
 	end
@@ -438,7 +434,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"When's my chance⋯"
+	"Quando é que vem\na minha chance...?"
 	keyWait
 		any = false
 	clearMsg
@@ -450,9 +446,9 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

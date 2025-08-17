@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = DarkMegaMan
 	msgOpen
-	"Ngwoar⋯!"
+	"Nguoar...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The likes of you⋯
-	can't defeat me!
+	Gente da sua laia...
+	não pode me vencer!
 	"""
 	keyWait
 		any = false
@@ -23,16 +23,14 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,snap out of
-	it!
+	MegaMan, sai dessa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't let the
-	DarkPower control
-	you!
+	Não deixa o Poder das
+	Trevas te controlar!
 	"""
 	keyWait
 		any = false
@@ -48,22 +46,22 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = DarkMegaMan
 	msgOpen
-	"Gwaaar!"
+	"Arrrghrr!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	W-What is this?!
-	I can feel it
-	welling up inside⋯
+	O-o que é isso?!
+	Eu sinto uma coisa
+	surgindo dentro de mim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	M-MegaMan?! No⋯!
-	You should be firmly
-	sealed in the dark!
+	M-MegaMan?! Não...!
+	Mas você estava selado
+	na escuridão!
 	"""
 	keyWait
 		any = false
@@ -86,16 +84,16 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L-Lan⋯"
+	"L-Lan..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = DarkMegaMan
 	"""
-	Silence! I will make
-	the darkness swallow
-	you again!
+	Silêncio!
+	Vou fazer as trevas
+	te engolirem de novo!
 	"""
 	keyWait
 		any = false
@@ -110,9 +108,9 @@ script 5 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The DarkPower has
-	increased⋯ He's
-	at his limit!
+	O Poder das Trevas
+	se intensificou...
+	Ele está no limite!
 	"""
 	keyWait
 		any = false
@@ -125,9 +123,9 @@ script 6 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The DarkPower has
-	increased⋯ He's
-	at his limit!
+	O Poder das Trevas
+	se intensificou...
+	Ele está no limite!
 	"""
 	keyWait
 		any = false
@@ -140,16 +138,16 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan's soul will
-	never be beaten by
-	the DarkPower!
+	A alma do MegaMan nunca
+	vai ser vencida pelo
+	Poder das Trevas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come on,MegaMan!
-	Snap out of it!
+	Vai, MegaMan!
+	Acorda!!
 	"""
 	keyWait
 		any = false
@@ -161,11 +159,11 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = DarkMegaMan
 	msgOpen
-	"Gwaaar⋯"
+	"Guaaar..."
 	keyWait
 		any = false
 	clearMsg
-	"Whoarrr!"
+	"Uoarrr!"
 	keyWait
 		any = false
 	end
@@ -174,17 +172,17 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = DarkMegaMan
 	msgOpen
-	"Hah hah⋯"
+	"Ha ha..."
 	keyWait
 		any = false
 	clearMsg
-	"Ha ha ha haah⋯"
+	"Ha ha ha haa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The dark has him
-	now! Completely!
+	A escuridão tomou ele,
+	desta vez! Por completo!
 	"""
 	keyWait
 		any = false
@@ -192,16 +190,16 @@ script 9 mmbn5 {
 		track = 28
 	clearMsg
 	"""
-	⋯You fools! You'd
-	have won if you'd
-	finished me before!
+	... Tolos! Teriam
+	vencido se tivessem
+	me deletado antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You won't get
-	another chance!
+	Não vão ter
+	outra chance!
 	"""
 	keyWait
 		any = false
@@ -214,20 +212,21 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"S-Such power⋯!"
+	"T-tanto poder...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's in a different
-	league to before!
+	Ele está em um patamar
+	completamente diferente
+	de antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to get out!
-	But⋯!
+	Temos que abatê-lo!
+	Mas...!
 	"""
 	keyWait
 		any = false
@@ -239,20 +238,21 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"S-Such power⋯!"
+	"T-tanto poder...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's in a different
-	league to before!
+	Ele está em um patamar
+	completamente diferente
+	de antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to get out!
-	But⋯!
+	Temos que abatê-lo!
+	Mas...!
 	"""
 	keyWait
 		any = false
@@ -265,17 +265,17 @@ script 12 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	A reward for
-	pursuing me this
-	far⋯
+	Como recompensa por
+	terem me levado a
+	este ponto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll try to make
-	this as painless as
-	possible!
+	vou tentar fazer isso
+	da forma mais indolor
+	possível!
 	"""
 	keyWait
 		any = false
@@ -288,35 +288,36 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Stop! MegaMan! Can't
-	you hear me?!
+	Pare! MegaMan!
+	Não tá me ouvindo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you lost in the
-	DarkPower forever?
+	Você se perdeu no
+	Poder das Trevas
+	pra sempre mesmo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back! Come
-	back,MegaMan!
+	Volta!
+	Volta, MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Come back and⋯give
-	me an earful like
-	you used to!
+	Volta e... me dá uma
+	bronca, como você
+	sempre dava!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯MegaMaaaan!"
+	"... MegaMaaaan!"
 	keyWait
 		any = false
 	end
@@ -326,18 +327,18 @@ script 14 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	Hwa ha ha!
-	Lan! MegaMan can't
-	hear you now!
+	Hua ha ha!
+	Ah, Lan! O MegaMan
+	não pode mais te ouvir!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This⋯is the end!"
+	"Agora... acabou!"
 	keyWait
 		any = false
 	clearMsg
-	"DrkCanon!"
+	"Canhão das Trevas!"
 	keyWait
 		any = false
 	end
@@ -356,8 +357,9 @@ script 16 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	MegaMan?! You're a
-	persistent pest⋯!
+	MegaMan?!
+	Seu vermezinho
+	persistente...!
 	"""
 	keyWait
 		any = false
@@ -365,22 +367,24 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	L-Lan⋯
-	I-I won't⋯give in⋯
+	L-Lan...
+	E-eu não vou...
+	me render...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As long⋯as I can
-	hear⋯your voice⋯
+	Enquanto eu...
+	conseguir ouvir a...
+	sua voz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't give in⋯to
-	the DarkPower⋯!
+	eu não vou me render...
+	ao Poder das Trevas...!
 	"""
 	keyWait
 		any = false
@@ -394,7 +398,8 @@ script 17 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!!!
-	You can overcome it!
+	Você consegue
+	vencer isso!
 	"""
 	keyWait
 		any = false
@@ -411,33 +416,15 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯L-Lan's come to
-	help me⋯
+	... O L-Lan veio
+	me salvar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And everyone's here
-	rooting for me⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = DarkMegaMan
-	"""
-	⋯Tsk! Stay down
-	where you belong!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"""
-	⋯I-I will not⋯give
-	in!
+	E tá todo mundo aqui,
+	torcendo por mim...
 	"""
 	keyWait
 		any = false
@@ -445,15 +432,33 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = DarkMegaMan
 	"""
-	Th-This body belongs
-	to me!
+	... Tsc! Fica afogado aí,
+	onde você pertence!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Uwaaargh!"
+	"""
+	... E-eu não vou...
+	desistir!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = DarkMegaMan
+	"""
+	E-este corpo pertence
+	a mim! A MIM!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"Uuaaargh!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -475,7 +480,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯MegaMan?"
+	"... MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -486,26 +491,26 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯I'm back,Lan!"
+	"... Lan, eu voltei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was hearing your
-	voice⋯
+	Eu tava ouvindo
+	a sua voz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That⋯let me⋯come
-	back⋯
+	E ela... me guiou...
+	de volta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Haaaah⋯"
+	"Aaaarh..."
 	keyWait
 		any = false
 	end
@@ -514,21 +519,21 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯He's fallen asleep."
+	"... Ele adormeceu."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well he seems to be
-	back to his old
-	self⋯
+	Bom, parece que ele
+	voltou ao "eu" dele
+	de sempre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He sure is high
-	maintenance!
+	O que sempre
+	dá trabalho.
 	"""
 	keyWait
 		any = false
@@ -539,14 +544,14 @@ script 23 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Now MegaMan's back,
-	Lan,he can take
-	over.
+	Hikari. Agora que o
+	MegaMan voltou, ele
+	pode assumir de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Transfer him in."
+	"Transfira-o para cá."
 	keyWait
 		any = false
 	clearMsg
@@ -558,8 +563,8 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You've been a real
-	help,ProtoMan!
+	Você ajudou demais,
+	ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -571,13 +576,13 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Just doing my job!"
+	"Só fiz o meu trabalho!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,
-	transfer!
+	MegaMan.EXE,
+	transferir!
 	"""
 	keyWait
 		any = false
@@ -587,13 +592,14 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯He's fallen asleep."
+	"... Ele adormeceu."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it looks like he
-	beat the DarkPower⋯
+	Mas parece que
+	conseguiu sobrepujar
+	o Poder das Trevas...
 	"""
 	keyWait
 		any = false
@@ -604,14 +610,14 @@ script 27 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Now MegaMan's back,
-	Lan,he can take
-	over.
+	Lan Hikari. Agora que
+	MegaMan voltou, ele
+	pode assumir de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Transfer him in."
+	"Transfira-o para cá."
 	keyWait
 		any = false
 	clearMsg
@@ -623,8 +629,8 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You really helped us
-	out,Colonel!
+	Você ajudou muito
+	a gente, Colonel!
 	"""
 	keyWait
 		any = false
@@ -637,15 +643,16 @@ script 29 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	No need for thanks.
-	Work's work⋯
+	Não há por que
+	agradecer.
+	Ossos do ofício...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,
-	transfer!
+	MegaMan.EXE,
+	transferir!
 	"""
 	keyWait
 		any = false
@@ -656,44 +663,45 @@ script 30 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I owe you all an
-	apology.
+	Eu devo a todos vocês
+	um pedido de desculpas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As soon as MegaMan
-	lost his self will,
+	Assim que o MegaMan
+	perdeu controle sobre
+	seu próprio corpo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should have shut
-	him down⋯
+	eu deveria tê-lo
+	incapacitado de vez...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If MegaMan hadn't
-	managed to fight his
-	way back before,
+	Se ele não tivesse
+	conseguido recuperar
+	o controle há pouco,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'd all have been
-	in real danger⋯
+	vocês todos teriam
+	corrido sério perigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As leader,I should
-	have been tougher⋯
+	Como líder, eu devia
+	ter sido mais forte...
 	"""
 	keyWait
 		any = false
@@ -705,14 +713,17 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Well,no harm done."
+	"""
+	Bom, deu tudo
+	certo no final.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We liberated this
-	area and got MegaMan
-	back too.
+	A gente liberou a área
+	e, ainda por cima,
+	recuperou o MegaMan.
 	"""
 	keyWait
 		any = false
@@ -725,16 +736,16 @@ script 32 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	All's well that ends
-	well.
+	Bem está o
+	que bem acaba.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan's real tough
-	for beating the
-	DarkPower like that⋯
+	O MegaMan é fortão
+	mesmo pra vencer aquele
+	Poder das Trevas...
 	"""
 	keyWait
 		any = false
@@ -743,9 +754,9 @@ script 32 mmbn5 {
 	soundPlay
 		track = 141
 	"""
-	MegaMan's soul has
-	communed with
-	NapalmMan's!
+	A alma de MegaMan
+	ressoou com a alma
+	de NapalmMan!
 	"""
 	keyWait
 		any = false
@@ -758,8 +769,8 @@ script 33 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Gee,you're a soft
-	touch too!
+	He, olha só que
+	maria-mole que você é!
 	"""
 	keyWait
 		any = false
@@ -771,7 +782,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"You guys⋯!"
+	"Pessoal...!"
 	keyWait
 		any = false
 	clearMsg
@@ -783,17 +794,17 @@ script 35 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Okay,time to jack
-	out,I guess. I'm
-	bushed!
+	Beleza, hora de
+	desconectar, né?
+	Eu tô só o caco!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You get some rest at
-	Chaud's place too,
-	ProtoMan!
+	É bom cê descansar
+	bem com o Chaud
+	também, ProtoMan!
 	"""
 	keyWait
 		any = false
@@ -805,14 +816,14 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯Rest?!"
+	"... Descansar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeah,I guess it
-	could do with some
-	shut-eye⋯
+	... É... Acho que um
+	pouco de repouso me
+	faria bem...
 	"""
 	keyWait
 		any = false
@@ -823,44 +834,45 @@ script 37 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I owe you all an
-	apology.
+	Eu devo a todos vocês
+	um pedido de desculpas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As soon as MegaMan
-	lost his self will,
+	Assim que o MegaMan
+	perdeu controle sobre
+	seu próprio corpo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should have shut
-	him down⋯
+	eu deveria tê-lo
+	incapacitado de vez...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If MegaMan hadn't
-	managed to fight his
-	way back before,
+	Se ele não tivesse
+	conseguido recuperar
+	o controle há pouco,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'd all have been
-	in real danger⋯
+	vocês todos teriam
+	corrido sério perigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As leader,I should
-	have been tougher⋯
+	Como líder, eu devia
+	ter sido mais forte...
 	"""
 	keyWait
 		any = false
@@ -873,30 +885,31 @@ script 38 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I respect what you
-	did,Colonel!
+	Eu tenho imenso
+	respeito pelo que
+	você fez, Colonel!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyone could have
-	shut down MegaMan
-	before.
+	Qualquer um poderia ter
+	expungido o MegaMan
+	naquela ocasião.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you didn't let
-	the danger sway you.
+	Mas você não se deixou
+	levar pelo perigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You believed MegaMan
-	would win through.
+	Acreditou que o MegaMan
+	sairia vitorioso no final.
 	"""
 	keyWait
 		any = false
@@ -908,22 +921,25 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"\"Victory comes to\n those who believe\n in their allies!\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	That's what they
-	say. And it sure is
-	true!
+	"A vitória vem àqueles
+	que têm fé nos aliados!"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,your faith
-	in your friends
-	really impresses me!
+	É um ditado que eu
+	conheço. E ele é
+	muito verdade!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	MegaMan, a fé dos seus
+	amigos em você me
+	impressiona pra caramba!
 	"""
 	keyWait
 		any = false
@@ -932,9 +948,9 @@ script 39 mmbn5 {
 	soundPlay
 		track = 141
 	"""
-	MegaMan's soul has
-	communed with
-	TomahawkMan's!
+	A alma do MegaMan
+	ressoou com a alma
+	de TomahawkMan!
 	"""
 	keyWait
 		any = false
@@ -947,9 +963,9 @@ script 40 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	He he he⋯ Looks like
-	the boss has lost
-	his bite,Colonel!
+	He... Parece que nosso
+	general está sem moral,
+	não é, Colonel?
 	"""
 	keyWait
 		any = false
@@ -961,7 +977,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Watch it!"
+	"Olha o respeito!"
 	keyWait
 		any = false
 	clearMsg
@@ -973,16 +989,17 @@ script 42 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Okay,I'm jacking
-	out. I'm bushed!
+	Pois bem, vou me
+	desconectar agora.
+	Estou muito desgastado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You get some rest at
-	Baryl's place too,
-	Colonel!
+	Sugiro que descanse
+	bem ao voltar ao Baryl
+	também, nobre Colonel!
 	"""
 	keyWait
 		any = false
@@ -994,13 +1011,13 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯Hmph!"
+	"... Hm."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could just take a
-	short break⋯
+	Talvez eu faça um
+	breve descanso...
 	"""
 	keyWait
 		any = false
@@ -1011,8 +1028,8 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯Lan⋯
-	MUMBLE,MUMBLE⋯
+	... Lan..
+	Mnng... Mnn...
 	"""
 	keyWait
 		any = false
@@ -1024,7 +1041,7 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Hi,MegaMan."
+	"... Bem-vindo de volta,\nMegaMan."
 	keyWait
 		any = false
 	end

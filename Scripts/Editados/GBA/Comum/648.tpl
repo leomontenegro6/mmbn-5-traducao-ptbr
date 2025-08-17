@@ -8,9 +8,9 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Another virus?
-	What a one-trick
-	pony⋯
+	Outro vírus?
+	Que falta de
+	criatividade...
 	"""
 	keyWait
 		any = false
@@ -18,19 +18,22 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	That Nebula Navi
-	sure is a bad loser!
+	Esse Navi da Nebula
+	não sabe perder mesmo!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	flagSet
@@ -42,8 +45,8 @@ script 1 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	No more talking.
-	Good luck,Lan!
+	Chega de conversa.
+	Vamos à luta, Lan!
 	"""
 	keyWait
 		any = false
@@ -51,16 +54,16 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me,
-	Colonel! Battle
-	routine,set!
+	Pode deixar, Colonel!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	flagSet

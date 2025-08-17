@@ -22,16 +22,16 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SICK OF
-	HAVING TO DEAL
-	WITH TOURISTS!
+	EU TÔ DE SACO CHEIO
+	DE TER QUE LIDAR COM
+	TURISTAS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T TAKE IT!
-	I'M GONNA QUIT!!!
+	NÃO AGUENTO MAIS!
+	EU QUERO DEMISSÃO!!!
 	"""
 	keyWait
 		any = false
@@ -42,13 +42,13 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T BELIEVE I
-	GAVE INTO ANGER.
+	EU NÃO ACREDITO QUE
+	PERDI PARA A RAIVA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'M A BAD PROGRAM."
+	"SOU UM PROG MAU..."
 	keyWait
 		any = false
 	end
@@ -57,22 +57,22 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"YAH!!!"
+	"IÁ!!!"
 	wait
 		frames = 50
 	clearMsg
 	"""
-	DOES THAT ADD
-	SOME REALISM?
+	ISSO ACRESCENTA UM
+	REALISMO PARA A COISA?
 	"""
 	keyWait
 		any = false

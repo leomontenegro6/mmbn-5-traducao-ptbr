@@ -20,17 +20,16 @@ script 0 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You're looking more
-	cheerful than usual,
-	Lan.
+	Você está mais animado
+	que o normal, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you fought with
-	MegaMan and made
-	up?
+	Então, fez as pazes
+	depois de brigar com
+	o MegaMan?
 	"""
 	keyWait
 		any = false
@@ -49,17 +48,16 @@ script 5 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I started studying
-	up on NetBattles
-	recently.
+	Eu comecei a estudar
+	NetLuta estes dias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to protect
-	the house while
-	your Dad is away.
+	Preciso proteger a casa
+	enquanto o seu pai não
+	volta.
 	"""
 	keyWait
 		any = false
@@ -69,22 +67,23 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Gow?"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Your Grandpa did
-	mention some dog by
-	that name⋯
+	Gáu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was quite a
-	long time ago,
-	though.
+	O seu avô chegou a
+	falar de um cachorro
+	com esse nome...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas foi há tanto tempo,
+	já.
 	"""
 	keyWait
 		any = false
@@ -95,9 +94,8 @@ script 7 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I guess I'd better
-	get my shopping done
-	soon⋯
+	Acho que é melhor eu
+	fazer as compras logo...
 	"""
 	keyWait
 		any = false
@@ -108,17 +106,16 @@ script 10 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I was watching this
-	TV drama called "The
-	Rondo of Summer."
+	Eu estava assistindo
+	a uma novela chamada
+	"O Rondó do Verão".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The star looked
-	exactly like your
-	father!
+	O ator principal era
+	igualzinho ao seu pai!
 	"""
 	keyWait
 		any = false
@@ -129,9 +126,9 @@ script 15 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I think I'll go
-	research some chips
-	at Higsby's today⋯
+	Acho que vou estudar
+	uns chips na Loja do
+	Higsby hoje...
 	"""
 	keyWait
 		any = false
@@ -142,8 +139,8 @@ script 20 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I've learned so much
-	about chips lately!
+	Eu tenho aprendido
+	tanto sobre chips!
 	"""
 	keyWait
 		any = false
@@ -162,15 +159,14 @@ script 60 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,are you doing
-	your homework?
+	Lan, você anda fazendo
+	a lição de casa?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't spend all your
-	time playing!
+	Não fique só brincando!
 	"""
 	keyWait
 		any = false
@@ -188,9 +184,9 @@ script 62 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I guess adventuring
-	runs in the family
-	for Hikari men⋯
+	Acho que aventura está
+	no sangue dos homens
+	da família Hikari...
 	"""
 	keyWait
 		any = false
@@ -201,16 +197,16 @@ script 65 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	So,you can connect
-	different chips with
-	the same code.
+	Então, pode-se utilizar
+	chips diferentes de
+	mesmo código...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayl,you sure are
-	a great teacher!
+	Mayl, você ensina tão
+	bem!
 	"""
 	keyWait
 		any = false
@@ -221,8 +217,8 @@ script 66 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Next,I'll explain
-	about chip elements!
+	Agora, eu vou explicar
+	os elementos dos chips!
 	"""
 	keyWait
 		any = false
@@ -230,8 +226,8 @@ script 66 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Can you memorize all
-	of this?
+	Acha que consegue
+	decorar todos?
 	"""
 	keyWait
 		any = false
@@ -242,29 +238,27 @@ script 70 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Mayl will be living
-	at our house for a
-	while
+	A Mayl vai passar uns
+	dias aqui em casa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so that she can
-	tutor me!
+	pra ser minha tutora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Mrs. Hikari!"
+	"\"Professora Sakurai\"!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"Hehe,just kidding!"
+	"He he, ai, Mayl!"
 	keyWait
 		any = false
 	end
@@ -274,8 +268,8 @@ script 71 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Your Mom's cookies
-	are awesome!
+	Os biscoitos da sua
+	mãe são divinos!
 	"""
 	keyWait
 		any = false
@@ -290,17 +284,17 @@ script 75 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I think I'll ask
-	Mayl to tutor me
-	again.
+	Acho que vou pedir pra
+	Mayl me dar aulas de
+	novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That reminds me. I
-	have to go out for
-	a while tomorrow.
+	Isso me lembra: eu vou
+	ter que passar um tempo
+	fora amanhã.
 	"""
 	keyWait
 		any = false
@@ -311,9 +305,9 @@ script 76 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What's wrong?
-	Do you have some
-	kind of problem?
+	O que foi?
+	Está tendo algum
+	problema, filho?
 	"""
 	keyWait
 		any = false

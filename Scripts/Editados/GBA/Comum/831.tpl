@@ -4,14 +4,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hello there!"
+	"Oi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you the Mr.Prog
-	that's here to
-	restore the network?
+	Você é o Prog que
+	tá encarregado de
+	restaurar a Rede?
 	"""
 	keyWait
 		any = false
@@ -23,7 +23,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"CORRECT!"
+	"CORRETO!"
 	keyWait
 		any = false
 	clearMsg
@@ -35,8 +35,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Is the job coming
-	along smoothly?
+	O trabalho está
+	seguindo sem problemas?
 	"""
 	keyWait
 		any = false
@@ -49,17 +49,16 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AS SMOOTH AS A
-	FRESHLY DEFRAGGED
-	HARD DRIVE!
+	COM MENOS PROBLEMAS,
+	IMPOSSÍVEL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GOING WELL,BUT NOT
-	QUITE FULLY RESTORED
-	AT THIS TIME!
+	ESTÁ INDO BEM, MAS
+	A REDE AINDA NÃO
+	ESTÁ 100% RESTAURADA!
 	"""
 	keyWait
 		any = false
@@ -68,8 +67,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I see. Glad to hear
-	it's going well!
+	Entendo. Mas que bom
+	que tá correndo bem!
 	"""
 	keyWait
 		any = false
@@ -80,8 +79,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,let's contact
-	Chaud.
+	Tá, vamos contatar
+	o Chaud.
 	"""
 	keyWait
 		any = false
@@ -94,8 +93,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right. I'll call
-	him.
+	Beleza.
+	Eu vou ligar pra ele.
 	"""
 	keyWait
 		any = false
@@ -109,13 +108,13 @@ script 6 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"*Riiing⋯"
+	"Trriiiiimmm..."
 	wait
 		frames = 120
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Riiing⋯*"
+	"Trrriiiimmm..."
 	wait
 		frames = 120
 	keyWait
@@ -128,7 +127,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Chaud here."
+	"Chaud falando."
 	keyWait
 		any = false
 	clearMsg
@@ -139,28 +138,28 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hello,Chaud?"
+	"Alô, Chaud?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's me. I checked
-	the Net!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I didn't see any
-	Nebula agents,
+	Sou eu. Eu dei uma
+	conferida na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the ACDC Area3
-	network restoration
-	is going smoothly!
+	Não vi nenhum
+	agente da Nebula,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e a restauração
+	da Área ACDC 3
+	tá correndo bem!
 	"""
 	keyWait
 		any = false
@@ -173,13 +172,14 @@ script 9 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I see. Very well.
-	You may return.
+	Entendo.
+	Tudo bem, então,
+	já pode voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good work."
+	"Bom trabalho."
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +191,7 @@ script 10 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -203,23 +203,23 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's all he has to
-	say?
+	É só isso que ele
+	tem pra falar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sheesh,he sure is a
-	man of few words!
+	Credo, ele realmente
+	é curto e grosso!
+	Ênfase no grosso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,that finishes
-	my report. Time to
-	get ready to swim!
+	Enfim, relatório feito.
+	Partiu praia!
 	"""
 	keyWait
 		any = false
@@ -232,9 +232,9 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,we wouldn't
-	want to make them
-	wait! Let's do it!
+	É, melhor não deixar
+	o pessoal esperando!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -245,8 +245,8 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	OK,let's contact
-	Baryl.
+	Tá, vamos contatar
+	o Baryl.
 	"""
 	keyWait
 		any = false
@@ -259,8 +259,7 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right. I'll call
-	Baryl.
+	É. Vou ligar pra ele.
 	"""
 	keyWait
 		any = false
@@ -274,13 +273,13 @@ script 15 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"*Riiing⋯"
+	"Trriiiiimmm..."
 	wait
 		frames = 120
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Riiing⋯*"
+	"Trriiiiimmm..."
 	wait
 		frames = 120
 	keyWait
@@ -293,7 +292,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"It's me."
+	"Alô."
 	keyWait
 		any = false
 	clearMsg
@@ -309,23 +308,23 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	It's me. I checked
-	the Net!
+	Sou eu. Eu dei uma
+	conferida na Rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I didn't see any
-	Nebula agents,
+	Não vi nenhum
+	agente da Nebula,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and the ACDC Area3
-	network restoration
-	is going smoothly!
+	e a restauração
+	da Área ACDC 3
+	tá correndo bem!
 	"""
 	keyWait
 		any = false
@@ -338,13 +337,14 @@ script 18 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I see. Very well.
-	You may return.
+	Entendo.
+	Tudo bem, então,
+	já pode voltar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good work."
+	"Bom trabalho."
 	keyWait
 		any = false
 	clearMsg
@@ -356,7 +356,7 @@ script 19 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -368,9 +368,8 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,that finishes
-	my report. Time to
-	get ready to swim!
+	Bom, relatório feito.
+	Partiu praia!
 	"""
 	keyWait
 		any = false
@@ -383,9 +382,9 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,we wouldn't
-	want to make them
-	wait! Let's do it!
+	É, melhor não deixar
+	o pessoal esperando!
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -398,9 +397,9 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mom!
-	Where's my swimming
-	suit?
+	Mããããe!
+	Cadê o meu calção
+	de banho?
 	"""
 	keyWait
 		any = false
@@ -408,8 +407,8 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	In the second
-	drawer,honey!
+	Na segunda gaveta,
+	filho!
 	"""
 	keyWait
 		any = false
@@ -417,30 +416,29 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,where're
-	my goggles?
+	MegaMan, cadê os meus
+	óculos de natação?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"In the closet!"
+	"Tão no armário!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Shoot! I'm running
-	late!
+	Argh, droga!
+	Eu vou me atrasar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get a move on,
-	MegaMan!
+	Bora correr, MegaMan!
 	"""
 	keyWait
 		any = false

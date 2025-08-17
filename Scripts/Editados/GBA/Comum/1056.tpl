@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Let's do it!
-	Panel Liberation!
+	Vamos nessa!
+	Liberação de quadro!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Heh heh!
-	Liberation complete!
+	He he!
+	Liberação concluída!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 2 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Nice one!
-	1 turn liberation!
+	Boa!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 3 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Sorry guys.
-	Liberation failed.
+	Foi mal, gente.
+	A liberação fracassou.
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -61,7 +61,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -71,9 +71,9 @@ script 6 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Great job!
-	TwinLiberation
-	succeeded!
+	Bom trabalho!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -84,15 +84,15 @@ script 7 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Nice one!
-	1 turn liberation!
+	Boa!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -103,8 +103,8 @@ script 8 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -115,8 +115,8 @@ script 30 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Remove traps and
-	get items in there?
+	Remover armadilhas e
+	extrair itens daqui?
 	
 	"""
 	positionOptionHorizontal
@@ -129,7 +129,7 @@ script 30 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -138,7 +138,7 @@ script 30 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -156,9 +156,9 @@ script 31 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,NumberMan!
-	We're using Order
-	Points!
+	OK, NumberMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -167,8 +167,8 @@ script 31 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Yessir! Here we go!
-	NumberCheck!
+	Sim, senhor! Vamos lá!
+	Checagem de Números!
 	"""
 	keyWait
 		any = false
@@ -179,8 +179,8 @@ script 32 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	A TrapPanel!
-	I'll remove it!
+	Um Quadro Armadilha!
+	Eu o removerei!
 	"""
 	keyWait
 		any = false
@@ -191,8 +191,8 @@ script 33 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	An ItemPanel!
-	I'll collect it!
+	Um Quadro de Item!
+	Eu o coletarei!
 	"""
 	keyWait
 		any = false
@@ -203,8 +203,7 @@ script 34 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I didn't find
-	anything!
+	Não encontrei nada!
 	"""
 	keyWait
 		any = false
@@ -214,7 +213,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -225,7 +224,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -234,7 +233,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -252,8 +251,8 @@ script 61 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	End without
-	doing anything?
+	Encerrar sem
+	fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -266,7 +265,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -275,7 +274,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -293,8 +292,7 @@ script 70 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -304,8 +302,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NumberMan got:
-	"Heart"!!
+	NumberMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -317,13 +315,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"NumberMan recovers\n"
+	"NumberMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -333,8 +331,8 @@ script 72 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -344,8 +342,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NumberMan got:
-	"Order Points"!!
+	NumberMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -359,7 +357,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -369,8 +367,7 @@ script 73 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -380,7 +377,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NumberMan got:
+	NumberMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -402,8 +399,8 @@ script 74 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -412,13 +409,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"NumberMan got:\n"
+	"NumberMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -432,8 +429,8 @@ script 75 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -443,8 +440,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NumberMan got a
-	BattleChip for:
+	NumberMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -465,8 +462,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	NumberMan's HP
-	recovered to max!
+	Os PV de NumberMan
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -475,8 +473,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -497,13 +495,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"NumberMan received\n"
+	"NumberMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -529,8 +527,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	NumberMan
-	has been paralyzed!
+	NumberMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -540,14 +538,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"I can move again!"
+	"Já posso me mover!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	NumberMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -557,14 +555,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"I can move again!"
+	"Já posso me mover!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	NumberMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -581,7 +579,7 @@ script 87 mmbn5 {
 	mugshotHide
 	"""
 	NumberMan
-	became paralyzed!
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -592,17 +590,16 @@ script 90 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Nngh! I-I can't
-	m-move⋯
+	Nngh! N-não consigo
+	me mover...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	NumberMan
-	has been
-	frozen!
+	NumberMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -613,8 +610,9 @@ script 91 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -624,7 +622,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -635,7 +633,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -644,7 +642,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -659,8 +657,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -671,8 +669,8 @@ script 105 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	We did it!
-	We beat the boss!
+	Conseguimos!
+	Vencemos o chefão!
 	"""
 	keyWait
 		any = false

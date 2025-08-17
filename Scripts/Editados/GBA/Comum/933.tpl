@@ -5,55 +5,56 @@ script 0 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	So the Net has all
-	been liberated⋯
+	Então, a Rede foi
+	completamente liberada...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Huh,never mind⋯"
+	"Hmpf. Que seja..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our possession of
-	the Net was just a
-	way to buy time⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And now I have some
-	clues about the
-	report⋯
+	Nossa conquista da Rede
+	foi apenas uma forma
+	de ganharmos tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Hikari Report
-	that I've been
-	searching for.
+	E, agora, eu adquiri
+	pistas acerca do
+	relatório...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can just get
-	hold of that,
+	O Relatório Hikari,
+	aquele pelo qual venho,
+	há tanto, procurando.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"my ideal world⋯"
+	"""
+	Se, ao menos,
+	eu pudesse ter em mãos
+	aquelas informações,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"o meu mundo ideal..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯a world of true
-	evil,will be
-	complete.
+	... um mundo de
+	verdadeira maldade,
+	seria concretizado.
 	"""
 	keyWait
 		any = false
@@ -64,8 +65,8 @@ script 1 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Ku hu hu⋯
-	Wah ha ha haah!
+	Hu hu hu...
+	Gaa ha ha ha haaaa!
 	"""
 	keyWait
 		any = false

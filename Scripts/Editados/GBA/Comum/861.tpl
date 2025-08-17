@@ -5,20 +5,20 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This way leads to
-	SciLab Area.
+	Esse caminho dá
+	na Área SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like he said,the
-	network is blocked.
+	E, como ele falou,
+	a Rede tá bloqueada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,let's restore it!"
+	"Tá, vamos\nrestaurar ela!"
 	keyWait
 		any = false
 	clearMsg
@@ -28,7 +28,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Fat chance!"
+	"Mas nem pensar!"
 	keyWait
 		any = false
 	end
@@ -37,7 +37,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who's that?!"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -58,14 +58,14 @@ script 4 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Keh heh! And you
-	know what Nebula
-	does best?
+	Hwe he! E cê sabe no
+	que que a Nebula é
+	especialista?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Deletes pesky Navis!"
+	"Em deletar\nNavi intrometido!"
 	keyWait
 		any = false
 	clearMsg
@@ -76,7 +76,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,here comes!"
+	"Lan, lá vem!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,11 +87,14 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Leave it to me!"
+	"Deixa comigo!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -102,7 +105,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -114,9 +117,9 @@ script 8 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You're regret that
-	you ever stepped
-	foot into this area!
+	Cê vai se arrepender
+	de ter pisado nesta
+	área aqui, mané!
 	"""
 	keyWait
 		any = false

@@ -8,9 +8,9 @@ script 0 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Order which chip?
-	(L/R Button: Page)
-	(B Button: Cancel)
+	Qual vai encomendar?
+	(L/R: Página)
+	(B: Cancelar)
 	"""
 	waitHold
 }
@@ -22,9 +22,9 @@ script 1 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Which one?
-	(L/R Button: Page)
-	(B Button: Cancel)
+	Qual?
+	(L/R: Página)
+	(B: Cancelar)
 	"""
 	waitHold
 }
@@ -58,7 +58,7 @@ script 2 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Are you leaving now?\n"
+	"Já vai embora?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -69,7 +69,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -78,7 +78,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -98,7 +98,7 @@ script 3 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Come again!"
+	"Volte sempre!"
 	waitHold
 }
 script 5 mmbn5 {
@@ -118,7 +118,7 @@ script 5 mmbn5 {
 		code = A
 	"""
 	"?
-	Are you sure?
+	Certeza?
 	
 	"""
 	positionOptionHorizontal
@@ -131,7 +131,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -140,7 +140,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	soundDisableChoiceSFX
 	select
 		default = 0
@@ -162,35 +162,35 @@ script 6 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Just leave it up
-	to our reliable
-	in-house network!
+	É só deixar com
+	a gente e a nossa
+	rede personalizada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hello? It's me. Can
-	you transfer that
-	chip I sent you?
+	Alô? Isso, é ela.
+	Pode transferir este
+	chip aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK. Thanks!"
+	"Ótimo. Obrigada!"
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"It's here!"
+	"Aqui está!"
 	keyWait
 		any = false
 	waitHold
@@ -226,7 +226,7 @@ script 7 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -272,8 +272,8 @@ script 8 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Oops! I don't have
-	enough Zennys.
+	Opa! Não tenho
+	Zennys o bastante.
 	"""
 	keyWait
 		any = false
@@ -310,8 +310,8 @@ script 9 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não dá pra
+	levar mais.
 	"""
 	keyWait
 		any = false
@@ -325,9 +325,9 @@ script 10 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	We're all
-	sold out!
-	Thank you!
+	Estamos
+	esgotados!
+	Obrigado!
 	"""
 	keyWait
 		any = false
@@ -371,7 +371,7 @@ script 18 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"WANT TO LEAVE?\n"
+	"QUER SAIR?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -382,7 +382,7 @@ script 18 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -391,7 +391,7 @@ script 18 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -410,7 +410,7 @@ script 20 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU BOUGHT
+	COMPROU
 	"
 	"""
 	printChip
@@ -430,7 +430,7 @@ script 21 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"INSUFFICIENT ZENNYS."
+	"ZENNYS INSUFICIENTES."
 	keyWait
 		any = false
 	waitHold
@@ -441,8 +441,9 @@ script 22 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU CAN'T CARRY
-	ANY MORE.
+	NÃO É
+	POSSÍVEL
+	LEVAR MAIS.
 	"""
 	keyWait
 		any = false
@@ -464,8 +465,8 @@ script 24 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I'll check
-	for you!
+	Eu vou ver
+	se ainda tem!
 	"""
 	keyWait
 		any = false
@@ -487,8 +488,8 @@ script 25 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I'll check it
-	for you!
+	Eu vou ver
+	se ainda tem!
 	"""
 	keyWait
 		any = false
@@ -510,9 +511,9 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I've never heard
-	of it,but I'll
-	check for you.
+	Nunca ouvi falar
+	desse, mas vou ver
+	se nós temos.
 	"""
 	keyWait
 		any = false
@@ -531,12 +532,12 @@ script 27 mmbn5 {
 		code = A
 	"""
 	"
-	is in stock!
+	tá disponível!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's "
+	"Custa "
 	printBuffer
 		buffer = 3
 		minLength = 0
@@ -544,7 +545,7 @@ script 27 mmbn5 {
 		padLeft = false
 	"""
 	z.
-	Are you sure?
+	Certeza?
 	
 	"""
 	positionOptionHorizontal
@@ -557,7 +558,7 @@ script 27 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -566,7 +567,7 @@ script 27 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -589,9 +590,8 @@ script 28 mmbn5 {
 	soundPlay
 		track = 105
 	"""
-	We don't have
-	that chip
-	in stock.
+	Não temos esse
+	chip no acervo.
 	"""
 	keyWait
 		any = false
@@ -607,15 +607,15 @@ script 29 mmbn5 {
 	soundPlay
 		track = 105
 	"""
-	We definitely
-	don't have it.
+	Estou certa de que
+	não temos esse.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you sure
-	that chip exists?
+	Tem certeza de que
+	esse chip existe?
 	"""
 	keyWait
 		any = false
@@ -628,7 +628,7 @@ script 32 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Want to leave?\n"
+	"Deixar a loja?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -639,7 +639,7 @@ script 32 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -648,7 +648,7 @@ script 32 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -669,7 +669,7 @@ script 37 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -691,7 +691,7 @@ script 38 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Faltam-lhe Zennys..."
 	keyWait
 		any = false
 	waitHold
@@ -704,8 +704,8 @@ script 39 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não dá para
+	levar mais.
 	"""
 	keyWait
 		any = false
@@ -718,7 +718,7 @@ script 52 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Want to leave?\n"
+	"Deixar a loja?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -729,7 +729,7 @@ script 52 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -738,7 +738,7 @@ script 52 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -759,7 +759,7 @@ script 57 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I bought
+	Comprei
 	"
 	"""
 	printChip
@@ -781,7 +781,7 @@ script 58 mmbn5 {
 	msgOpenQuick
 	textSpeed
 		delay = 0
-	"Not enough Zennys⋯"
+	"Faltam-lhe Zennys..."
 	keyWait
 		any = false
 	waitHold
@@ -794,8 +794,8 @@ script 59 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	I can't carry
-	any more.
+	Não dá para
+	levar mais.
 	"""
 	keyWait
 		any = false

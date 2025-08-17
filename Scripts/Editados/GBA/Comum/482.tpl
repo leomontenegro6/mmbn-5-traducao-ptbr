@@ -8,11 +8,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = PurpleNavi
 	msgOpen
-	"I'm a SubChipDealer."
+	"""
+	Sou um vendedor de
+	SubChips.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna see my stuff?\n"
+	"Quer ver meu acervo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -23,7 +26,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -32,7 +35,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -48,7 +51,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -58,15 +61,15 @@ script 2 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm a
-	SubChipDealer
+	Sou um vendedor de
+	SubChips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I'm all sold
-	out! Sorry!
+	Mas está tudo esgotado!
+	Sinto muito!
 	"""
 	keyWait
 		any = false
@@ -81,24 +84,23 @@ script 5 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I am one of the 5
-	who guard the Under-
-	net door beyond.
+	Eu sou um dos 5 que
+	guardam a porta para
+	a Undernet mais além.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must endure our
-	trial before you can
-	open the door.
+	Você precisará passar
+	pela nossa provação
+	para abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you brave
-	our trial?
+	Tentará desafiá-la?
 	"""
 	keyWait
 		any = false
@@ -112,7 +114,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No problem!\n"
+	" Já é!\n"
 	option
 		brackets = 0
 		left = 1
@@ -121,7 +123,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Wait a sec!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -132,13 +134,13 @@ script 5 mmbn5 {
 			jump = 6,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Then let's
-	see if you can
-	endure our trial!
+	Então, vejamos se você
+	supera nossa provação!
 	"""
 	keyWait
 		any = false
@@ -153,9 +155,9 @@ script 6 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I understand.
-	Return when you wish
-	to brave our trial.
+	Entendo. Volte quando
+	quiser tentar passar
+	pela nossa provação.
 	"""
 	keyWait
 		any = false
@@ -168,23 +170,23 @@ script 7 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Well done.
-	I have clearly
-	seen your power.
+	Bom trabalho.
+	Sua força é evidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -197,15 +199,16 @@ script 8 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -216,15 +219,15 @@ script 9 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Is that the extent
-	of your power?
+	É esse o limite da sua
+	força?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Return again when
-	you are ready.
+	Retorne quando se
+	sentir preparado.
 	"""
 	keyWait
 		any = false
@@ -243,38 +246,39 @@ script 100 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	I haven't had a
-	visitor in ages⋯
+	Já faz tanto tempo que
+	eu não recebo visitas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm LarkMan."
+	"Eu sou o LarkMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I answer
-	to no one.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'm the freest Navi
-	in Cyberworld!
+	E eu não obedeço a
+	ninguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a reason
-	why we meet.
+	Sou o Navi mais livre
+	do mundo cibernético!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna battle?"
+	"""
+	Este nosso encontro...
+	há uma razão por trás
+	dele.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Aceita uma luta?"
 	keyWait
 		any = false
 	clearMsg
@@ -289,7 +293,7 @@ script 100 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -298,7 +302,7 @@ script 100 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -313,15 +317,16 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = LarkMan
 	"""
-	I see⋯ well,
-	it's your choice.
+	Entendo...
+	Bem, a escolha é sua.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's battle someday
-	if we have a chance.
+	Espero que tenhamos
+	a oportunidade de
+	lutar, qualquer dia.
 	"""
 	keyWait
 		any = false
@@ -332,13 +337,13 @@ script 101 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	Wow,you came
-	all this way⋯
+	Puxa, você veio longe
+	assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna battle me?"
+	"Quer lutar comigo?"
 	keyWait
 		any = false
 	clearMsg
@@ -353,7 +358,7 @@ script 101 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -362,7 +367,7 @@ script 101 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -376,7 +381,7 @@ script 101 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = LarkMan
-	"I see⋯"
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -400,37 +405,38 @@ script 103 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	Can you fathom my
-	aerial attack,
-	unlike no other?
+	Será que você supera
+	o meu incomparável
+	ataque aéreo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = LarkMan
-	"Yaaaaahhh!!!"
+	"Iiááááá!!!"
 	keyWait
 		any = false
 	flagSet
@@ -448,43 +454,44 @@ script 104 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	I answer to
-	no one.
+	Eu não obedeço a
+	ninguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And no one
-	can harm me!!!
+	E ninguém é capaz de
+	me ferir!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = LarkMan
-	"Yaaaaahhh!!!"
+	"Iiiáááááá!!!"
 	keyWait
 		any = false
 	flagSet
@@ -506,36 +513,37 @@ script 105 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	No one can
-	catch me!!!
+	Ninguém consegue me
+	pegar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = LarkMan
-	"Yaaaaahhh!!!"
+	"Iiiáááááá!!!"
 	keyWait
 		any = false
 	flagSet
@@ -549,8 +557,9 @@ script 106 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	I can't believe
-	someone caught me!
+	Eu não acredito que
+	alguém conseguiu me
+	pegar!
 	"""
 	keyWait
 		any = false
@@ -563,8 +572,8 @@ script 107 mmbn5 {
 		mugshot = LarkMan
 	msgOpen
 	"""
-	No one can rob me
-	of my freedom!
+	Ninguém pode roubar de
+	mim minha liberdade!
 	"""
 	keyWait
 		any = false

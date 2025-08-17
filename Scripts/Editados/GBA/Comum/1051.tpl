@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Let's do it!
-	Liberate panels!
+	Vamos lá!
+	Liberar quadros!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Yes! Liberation
-	succeeded!
+	Isso! Liberação
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -29,8 +29,8 @@ script 2 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Alright!
-	1 turn liberation!
+	Boa!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 3 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Oh,no!
-	Liberation failed!
+	Essa não!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -61,7 +61,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -71,8 +71,8 @@ script 6 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Yes! TwinLiberation
-	succeeded!
+	Isso! Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -83,15 +83,15 @@ script 7 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Way to go!
-	1 turn liberation!
+	Mandou bem!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -102,8 +102,8 @@ script 8 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -114,8 +114,8 @@ script 35 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Use Napalm
-	there?
+	Usar Napalm
+	aqui?
 	
 	"""
 	positionOptionHorizontal
@@ -128,7 +128,7 @@ script 35 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -137,7 +137,7 @@ script 35 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -155,9 +155,9 @@ script 36 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,NapalmMan!
-	We're using Order
-	Points!
+	OK, NapalmMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -166,7 +166,7 @@ script 36 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Gotcha! Take this!
+	Beleza! Toma essa!
 	Napalm!
 	"""
 	keyWait
@@ -177,7 +177,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -188,7 +188,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -197,7 +197,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -215,8 +215,8 @@ script 61 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	End without
-	doing anything?
+	Encerrar sem
+	fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -229,7 +229,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -238,7 +238,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -256,8 +256,7 @@ script 70 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -267,8 +266,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NapalmMan got:
-	"Heart"!!
+	NapalmMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -280,13 +279,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"NapalmMan recovers\n"
+	"NapalmMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -296,8 +295,8 @@ script 72 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -307,8 +306,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NapalmMan got:
-	"Order Points"!!
+	NapalmMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -322,7 +321,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -332,8 +331,7 @@ script 73 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -343,7 +341,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NapalmMan got:
+	NapalmMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -365,8 +363,8 @@ script 74 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -375,13 +373,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"NapalmMan got:\n"
+	"NapalmMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -395,8 +393,8 @@ script 75 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -406,8 +404,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	NapalmMan got a
-	BattleChip for:
+	NapalmMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -428,8 +426,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	NapalmMan's HP
-	recovered to max!
+	Os PV de NapalmMan
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -438,8 +437,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -460,13 +459,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"NapalmMan received\n"
+	"NapalmMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -492,8 +491,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	NapalmMan
-	has been paralyzed!
+	NapalmMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -503,14 +502,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"That was close!"
+	"Foi por pouco!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	NapalmMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -520,14 +519,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"That was close!"
+	"Foi por pouco!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	NapalmMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -544,7 +543,7 @@ script 87 mmbn5 {
 	mugshotHide
 	"""
 	NapalmMan
-	became paralyzed!
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -555,17 +554,16 @@ script 90 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Nngh! I-I can't
-	m-move⋯
+	Nngh! N-não consigo
+	me mover...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	NapalmMan
-	has been
-	frozen!
+	NapalmMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -576,8 +574,9 @@ script 91 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -587,7 +586,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -598,7 +597,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -607,7 +606,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -622,8 +621,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -634,8 +633,8 @@ script 105 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	YES! YES!
-	We beat the boss!
+	ISSO! ISSO!
+	Já era, chefão!
 	"""
 	keyWait
 		any = false

@@ -31,8 +31,8 @@ script 0 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Looks like
-	you've got mail!
+	Parece que chegou
+	e-mail!
 	"""
 	waitHold
 }
@@ -67,8 +67,8 @@ script 1 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Which mail do you
-	want to read,Lan?
+	Qual e-mail
+	vai ler, Lan?
 	"""
 	waitHold
 }
@@ -103,8 +103,8 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	You haven't gotten
-	any mail yet,Lan.
+	Nenhum e-mail
+	novo, Lan.
 	"""
 	waitHold
 }
@@ -119,8 +119,7 @@ script 3 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	YOU GOT
-	MAIL!
+	CHEGOU E-MAIL!
 	"""
 	waitHold
 }
@@ -134,7 +133,7 @@ script 4 mmbn5 {
 		top = 128
 	textSpeed
 		delay = 0
-	"SELECT MAIL TO READ."
+	"ESCOLHA QUAL LER."
 	waitHold
 }
 script 5 mmbn5 {
@@ -147,7 +146,7 @@ script 5 mmbn5 {
 		top = 128
 	textSpeed
 		delay = 0
-	"NO NEW MAIL YET."
+	"NENHUM NOVO\nE-MAIL."
 	waitHold
 }
 script 6 mmbn5 {
@@ -163,8 +162,8 @@ script 6 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Looks like you
-	have new mail.
+	Parece que há
+	e-mails não lidos.
 	"""
 	waitHold
 }
@@ -180,7 +179,7 @@ script 7 mmbn5 {
 		mugshot = ProtoMan
 	textSpeed
 		delay = 0
-	"Select mail to read."
+	"Escolha qual\ne-mail ler."
 	waitHold
 }
 script 8 mmbn5 {
@@ -196,8 +195,8 @@ script 8 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	You haven't received
-	any new mail yet.
+	Nenhum novo e-mail
+	por ora.
 	"""
 	waitHold
 }
@@ -214,8 +213,8 @@ script 9 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Looks like you
-	have new mail.
+	Parece que há
+	e-mails não lidos.
 	"""
 	waitHold
 }
@@ -231,7 +230,7 @@ script 10 mmbn5 {
 		mugshot = Colonel
 	textSpeed
 		delay = 0
-	"Select mail to read."
+	"Escolha qual\ne-mail ler."
 	waitHold
 }
 script 11 mmbn5 {
@@ -247,8 +246,8 @@ script 11 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	You haven't received
-	any new mail yet.
+	Nenhum novo e-mail
+	por ora.
 	"""
 	waitHold
 }

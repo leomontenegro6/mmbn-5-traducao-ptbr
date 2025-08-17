@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,there may
-	be more Darkloids
-	lurking up ahead!
+	MegaMan, podem
+	ter mais Darkloides
+	esperando na frente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"Toma cuidado!"
 	keyWait
 		any = false
 	clearMsg
@@ -23,7 +23,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end
@@ -33,9 +33,9 @@ script 2 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Whoa,this is
-	one creepy part
-	of Cyberworld⋯
+	Credo. Eita pedacinho
+	sinistro do mundo
+	cibernético...
 	"""
 	keyWait
 		any = false
@@ -57,8 +57,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Glad you're here!!!
-	Let's go for it!
+	Que bom que você tá
+	aqui! Vamos nessa!
 	"""
 	keyWait
 		any = false
@@ -71,16 +71,16 @@ script 5 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I don't wanna stay
-	in this creepy place
-	very long.
+	Eu é que não quero
+	ficar neste lugar
+	medonho por muito tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's get this over
-	with quick!!!
+	Bora acabar
+	logo com isso!!!
 	"""
 	keyWait
 		any = false
@@ -91,13 +91,13 @@ script 6 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	The air's stale in
-	here⋯ It's probably
+	O ar aqui é
+	tão rançoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the DarkPower⋯"
+	"Deve ser o\nPoder das Trevas..."
 	keyWait
 		any = false
 	clearMsg
@@ -118,8 +118,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Glad to see you!!!
-	Let's do it!
+	Que bom que
+	você tá aqui!!!
+	Vamos nessa!
 	"""
 	keyWait
 		any = false
@@ -131,11 +132,11 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"⋯Hmph."
+	"... Hmpf."
 	keyWait
 		any = false
 	clearMsg
-	"Let's go⋯"
+	"Vamos..."
 	keyWait
 		any = false
 	end
@@ -144,7 +145,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!!!"
+	"Certo!!!"
 	keyWait
 		any = false
 	end

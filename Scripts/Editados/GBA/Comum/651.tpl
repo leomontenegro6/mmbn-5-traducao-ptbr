@@ -22,13 +22,14 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ALL THIS FREE TIME'S
-	GETTING ANNOYING!!!
+	TODO ESSE TEMPO
+	LIVRE TÁ ME DANDO
+	NOS NERVOS!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GIMME SOME WORK!"
+	"EU QUERO TRABALHO!"
 	keyWait
 		any = false
 	end
@@ -38,16 +39,17 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	MY HEAD'S STILL
-	SPINNING FROM THAT
-	LAST DISTURBANCE.
+	A MINHA CABEÇA AINDA
+	ESTÁ GIRANDO COM A
+	ÚLTIMA PERTURBAÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FEELS LIKE I SAILED
-	THROUGH A STORM!
+	SINTO COMO SE TIVESSE
+	DESBRAVADO UMA
+	TEMPESTADE NO MAR!
 	"""
 	keyWait
 		any = false
@@ -63,23 +65,22 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE SCREW KEEPS
-	SPINNING WHILE THE
-	SHIP'S MOVING,
+	O PARAFUSO NÃO PARA
+	DE GIRAR ENQUANTO O
+	NAVIO SE MOVE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO I AM
-	TERRIBLY BUSY!
+	E EU TÔ TÃO OCUPADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LET'S GO!
-	FULL SPEED AHEAD!
+	VAMOS LÁ!
+	VELOCIDADE MÁXIMA!
 	"""
 	keyWait
 		any = false
@@ -90,24 +91,24 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE PROGRAM FOR
-	THE SCREW.
+	EU SOU O PROGRAMA DO
+	PARAFUSO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'VE GOT NOTHING TO
-	DO WHILE THE SHIP
-	IS ANCHORED.
+	NÃO TENHO NADA PARA
+	FAZER ENQUANTO O
+	NAVIO ESTÁ ANCORADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST CALL ME
-	MR.FREETIME IF
-	YOU PLEASE.
+	SOU PRATICAMENTE
+	"PROG TEMPO-LIVRE
+	DA SILVA".
 	"""
 	keyWait
 		any = false

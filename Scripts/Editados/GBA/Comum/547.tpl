@@ -21,7 +21,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Go for it,Tesla!"
+	"Vai lá, Tesla!"
 	keyWait
 		any = false
 	end
@@ -30,7 +30,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Your turn,Pride!"
+	"É a sua vez, Pride!"
 	keyWait
 		any = false
 	end
@@ -39,7 +39,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"If you please,Lan!"
+	"Por favor, Lan!"
 	keyWait
 		any = false
 	end
@@ -48,7 +48,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Lan,you're in!"
+	"Lan, é com você!"
 	keyWait
 		any = false
 	end

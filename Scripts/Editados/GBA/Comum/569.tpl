@@ -9,13 +9,12 @@ script 0 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm a BugFrag
-	trader.
+	Eu troco FragBugs.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wanna trade?\n"
+	"Quer trocar?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -26,7 +25,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -35,7 +34,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -51,7 +50,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -61,8 +60,8 @@ script 2 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -73,23 +72,24 @@ script 5 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I STORE AND RECREATE
-	BATTLES FOUGHT IN
-	THIS AREA.
+	EU ARMAZENO E RECRIO
+	LUTAS TRAVADAS NESTA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	RELIVE A BATTLE
+	VOCÊ GOSTARIA DE
+	REPETIR UMA BATALHA
+	QUE SE DEU ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN NEBULA AND A
-	CERTAIN NAVI TEAM?
+	A NEBULA E UMA CERTA
+	EQUIPE DE NAVIS?
 	"""
 	keyWait
 		any = false
@@ -105,7 +105,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -114,7 +114,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -128,7 +128,7 @@ script 5 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -137,18 +137,17 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"VERY WELL⋯"
+	"POIS BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHALL
-	RECREATE IT⋯
+	EU A RECRIAREI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯GO!!!"
+	"... AGORA!!!"
 	keyWait
 		any = false
 	flagSet
@@ -159,7 +158,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"AN EPIC BATTLE!"
+	"QUE BATALHA ÉPICA!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,7 +169,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"TOO BAD⋯"
+	"QUE PENA..."
 	keyWait
 		any = false
 	clearMsg
@@ -182,8 +181,9 @@ script 9 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	SOMETIMES RETREAT IS
-	THE BEST STRATEGY⋯
+	HÁ VEZES EM QUE
+	RECUAR É A MELHOR
+	ESTRATÉGIA...
 	"""
 	keyWait
 		any = false
@@ -193,15 +193,15 @@ script 9 mmbn5 {
 }
 script 10 mmbn5 {
 	"""
-	IF YOU EVER WANT TO
-	EXPERIENCE THAT
+	SE QUISER REPETIR
+	AQUELA BATALHA DE
+	NOVO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BATTLE AGAIN,JUST
-	LET ME KNOW.
+	É SO ME AVISAR.
 	"""
 	keyWait
 		any = false

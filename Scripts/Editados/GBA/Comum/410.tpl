@@ -15,24 +15,24 @@ script 0 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I don't leave this
-	ship,even when it's
-	in port.
+	Eu não saio do navio,
+	nem quando ele está
+	atracado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This ship is my
-	home and the crew
-	are my family.
+	Esta embarcação é o
+	meu lar, e a tripulação
+	é a minha família.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the life of a
-	real sailor.
+	Essa, sim, é a vida de
+	um marinheiro.
 	"""
 	keyWait
 		any = false
@@ -43,16 +43,15 @@ script 5 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	It doesn't matter to
-	us what happens on
-	the Net.
+	Não importa para nós o
+	que acontece na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It doesn't bug us
-	here on our boat.
+	Não nos incomoda aqui,
+	no nosso navio.
 	"""
 	keyWait
 		any = false
@@ -68,25 +67,25 @@ script 6 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The captain may be
-	gruff but he worries
-	about the ship.
+	O capitão pode ser
+	ranzinza, mas ele se
+	preocupa com o navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When we heard about
-	the problems,we
-	were OK because we
+	Ouvimos falar dos
+	problemas, mas ficamos
+	bem porque não
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	weren't connected to
-	the Net. He's been
-	testing all systems.
+	estávamos conectados à
+	Rede. Ele está testando
+	todos os sistemas agora.
 	"""
 	keyWait
 		any = false
@@ -97,9 +96,9 @@ script 10 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Everything's OK now.
-	I have to admit I'm
-	kind of relieved.
+	Está tudo bem agora.
+	Preciso admitir que
+	fico meio aliviado.
 	"""
 	keyWait
 		any = false
@@ -110,16 +109,15 @@ script 11 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The Queen Bohemia
-	was not affected by
-	the problems.
+	O Rainha Boêmia não foi
+	afetado pelos problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The systems are all
-	operating normally.
+	Os sistemas estão todos
+	operando normalmente.
 	"""
 	keyWait
 		any = false
@@ -135,25 +133,25 @@ script 20 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Everyone's happy
-	about getting
-	tomorrow off.
+	Todos estão animados com
+	a folga que irão tirar
+	amanhã.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah well,there's
-	nothing wrong with a
-	little shore leave.
+	... Bem, não há nada de
+	errado em descansar em
+	terra firme.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They can't wait to
-	get out and stretch
-	their legs.
+	Eles estão loucos para
+	sair e esticar as
+	pernas.
 	"""
 	keyWait
 		any = false
@@ -164,48 +162,47 @@ script 25 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	What's wrong? Are
-	you surprised to see
-	the ship deserted.
+	O que foi? Está surpreso
+	em ver o navio deserto?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The ship's closed
-	today,so it's just
-	me here.
+	O navio está fechado
+	hoje, então, estou só
+	eu aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Me? I'm the captain,
-	so I stay onboard
-	no matter what.
+	Eu? Eu sou o capitão.
+	Fico à bordo haja o que
+	houver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh yeah,I should
-	tell you one thing.
+	Ah, sim, preciso te
+	falar uma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The security system
-	is still on,so no
-	mischief allowed.
+	O sistema de segurança
+	segue ligado, então, sem
+	traquinagens no navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Not that I suspect
-	you of any mischief,
-	you understand.
+	Não que eu ache que
+	você vá aprontar.
+	Mas sabe como é.
 	"""
 	keyWait
 		any = false

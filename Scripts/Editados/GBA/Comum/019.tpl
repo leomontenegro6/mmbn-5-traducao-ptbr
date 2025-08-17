@@ -1,7 +1,7 @@
 @size 7
 
 script 0 mmbn5s {
-	"StdChip"
+	"ChipPadr"
 	end
 }
 script 1 mmbn5s {
@@ -13,7 +13,7 @@ script 2 mmbn5s {
 	end
 }
 script 3 mmbn5s {
-	"P.A.Memo"
+	"Lista PA"
 	end
 }
 script 4 mmbn5s {
@@ -21,10 +21,10 @@ script 4 mmbn5s {
 	end
 }
 script 5 mmbn5s {
-	"Secret"
+	"Secreto"
 	end
 }
 script 6 mmbn5s {
-	"DarkChip"
+	"ChipTrev"
 	end
 }

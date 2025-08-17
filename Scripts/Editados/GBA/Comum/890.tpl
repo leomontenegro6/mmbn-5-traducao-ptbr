@@ -5,7 +5,7 @@ script 0 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 331
-	"Thud!"
+	"Tchonc!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -16,7 +16,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's that?!"
+	"O que é isso?!"
 	keyWait
 		any = false
 	end
@@ -34,7 +34,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Uh-oh!"
+	"Eita!"
 	keyWait
 		any = false
 	end
@@ -43,7 +43,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait!"
+	"Parado aí!"
 	keyWait
 		any = false
 	end
@@ -52,7 +52,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Hold on,Lan!"
+	"Espere, Hikari!"
 	keyWait
 		any = false
 	end
@@ -62,8 +62,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What,ProtoMan?!
-	He's getting away!
+	Que foi, ProtoMan?!
+	Ele vai fugir!
 	"""
 	keyWait
 		any = false
@@ -76,39 +76,39 @@ script 7 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We mustn't rush.
-	The criminal's still
-	on board.
+	Não devemos nos
+	apressar. O criminoso
+	continua a bordo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And we know what
-	he's after.
+	E nós sabemos do
+	que ele está atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It could be
-	dangerous to act on
-	impulse.
+	Pode ser perigoso
+	agirmos por impulso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll turn up at the
-	party for sure.
+	Com certeza,
+	ele vai aparecer
+	durante a festa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll take our time
-	and make sure we
-	catch him there.
+	Vamos esperar até
+	então e fazer de tudo
+	para pegá-lo lá.
 	"""
 	keyWait
 		any = false
@@ -121,8 +121,7 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess you're
-	right⋯
+	Acho que cê tá certo...
 	"""
 	keyWait
 		any = false
@@ -134,7 +133,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Wait,Lan!"
+	"Lan Hikari, espere!"
 	keyWait
 		any = false
 	end
@@ -144,8 +143,8 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What,Colonel?!
-	He's getting away!
+	Que foi, Colonel?!
+	Ele vai fugir!
 	"""
 	keyWait
 		any = false
@@ -158,39 +157,39 @@ script 11 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We mustn't rush.
-	The criminal's still
-	on board.
+	Não devemos nos
+	apressar. O criminoso
+	continua a bordo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And we know what
-	he's after.
+	E nós sabemos do
+	que ele está atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It could be
-	dangerous to act on
-	impulse.
+	Pode ser perigoso
+	agirmos por impulso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll turn up at the
-	party for sure.
+	Com certeza,
+	ele vai aparecer
+	durante a festa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll take our time
-	and make sure we
-	catch him there.
+	Vamos esperar até
+	então e fazer de tudo
+	para pegá-lo lá.
 	"""
 	keyWait
 		any = false
@@ -203,8 +202,7 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I guess you're
-	right⋯
+	Acho que cê tá certo...
 	"""
 	keyWait
 		any = false
@@ -218,22 +216,22 @@ script 13 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 335
-	"Ding dong,ding dong"
+	"Dim Dom Dim Dom"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a passenger
-	announcement. The
-	party preparations
+	Comunicado aos
+	passageiros.
+	Os preparativos para a
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are complete. Please
-	make your way to the
-	Fiesta Room.
+	festa estão concluídos.
+	Sigam para o Salão de
+	Fiesta.
 	"""
 	keyWait
 		any = false
@@ -241,7 +239,7 @@ script 13 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 335
-	"Ding dong,ding dong"
+	"Dim Dom Dim Dom"
 	keyWait
 		any = false
 	end
@@ -251,15 +249,16 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	At last the party's
-	going to start!
+	Finalmente,
+	a festa vai começar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now we'll get that
-	Nebula guy!
+	Agora a gente pega
+	aquele sujeitinho da
+	Nebula!
 	"""
 	keyWait
 		any = false

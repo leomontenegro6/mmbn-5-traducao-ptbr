@@ -5,31 +5,30 @@ script 0 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Lan,have you heard
-	of Oran Isle?
+	Lan, cê já ouviu falar
+	da Ilha Oran?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's an uninhabited
-	island but I'd like
-	to visit it someday.
+	É uma ilha inabitada,
+	que eu queria muito
+	visitar algum dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it would be
-	a real adventure!
+	Acho que daria uma
+	aventura muito da hora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?! You've been
-	there once?! Wow,
-	you're so lucky!
+	Hã?! Cê já foi lá?!
+	Ah, sortudo!
 	"""
 	keyWait
 		any = false
@@ -45,17 +44,16 @@ script 1 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	My NetNavi got angry
-	and is giving me the
-	silent treatment!
+	O meu NetNavi ficou
+	bravo e agora se recusa
+	a falar comigo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,man! What in the
-	world should I do
-	now?!
+	Cara! O que eu faço
+	agora?!
 	"""
 	keyWait
 		any = false
@@ -81,9 +79,9 @@ script 3 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Excuse me for asking
-	but do you like ice
-	cream?
+	Desculpa perguntar,
+	mas você gosta de
+	sorvete?
 	"""
 	keyWait
 		any = false
@@ -99,7 +97,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Of course I do! "
+	" Claro, né?! "
 	option
 		brackets = 0
 		left = 0
@@ -108,7 +106,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"Naw."
+	"Nem."
 	select
 		default = 0
 		BSeparate = false
@@ -119,36 +117,40 @@ script 3 mmbn5 {
 			jump = 4,
 			jump = continue
 		]
+	keyWait
+		any = false
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Right? Ice cream is
-	such a nice treat.
+	Pois é, né?
+	Sorvete é um negócio
+	tão bom.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if there
-	are people who don't
-	like ice cream?
+	Será que existe gente
+	por aí que não gosta
+	de sorvete?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't think of
-	anybody who doesn't
-	absolutely love it.
+	Eu não consigo pensar
+	em ninguém que não
+	adore.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I get thinking about
-	these things and I
-	can't sleep at night
+	Eu fico pensando nisso
+	a noite inteira.
+	Me tira o sono!
 	"""
 	keyWait
 		any = false
@@ -159,17 +161,17 @@ script 4 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	You're kidding?!
-	You really don't
-	like it?! Wow!
+	Sério?!
+	Você não gosta?!
+	Caramba...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never met a
-	person who doesn't
-	like ice cream!
+	Eu nunca conheci
+	uma pessoa que não
+	gostasse de sorvete!
 	"""
 	keyWait
 		any = false
@@ -180,15 +182,15 @@ script 5 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	What took you so
-	long?
+	Por que essa demora
+	toda?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi nearly fell
-	asleep waiting.
+	O meu Navi quase
+	dormiu de tanto esperar.
 	"""
 	keyWait
 		any = false
@@ -199,9 +201,9 @@ script 6 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Heh,what took so
-	long? Are you that
-	scared of my Navi?
+	He, por que tamanha
+	demora? Está com medo
+	do meu Navi?
 	"""
 	keyWait
 		any = false
@@ -212,17 +214,16 @@ script 8 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That guy with the
-	sunglasses in the
-	park was kinda cool.
+	Aquele cara de óculos
+	escuros no parque até
+	que era bem bonitão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think laid-back
-	guys like that are
-	pretty neat.
+	Eu curto caras mais
+	relaxados, como ele.
 	"""
 	keyWait
 		any = false
@@ -233,17 +234,17 @@ script 9 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That silent-type who
-	was in the park was
-	pretty cool.
+	Aquele cara caladão
+	no parque até que era
+	bem bonitão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When he talks,you
-	can bet he has
-	something to say.
+	Aposto que é do tipo
+	que só fala quando tem
+	alguma coisa a dizer.
 	"""
 	keyWait
 		any = false
@@ -254,25 +255,24 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Have you heard about
-	the trouble brewing
-	in Oran Area?
+	Ficou sabendo da treta
+	rolando lá na Área Oran?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The entire area's
-	overcast by some
-	strange cloud.
+	A área inteira tá
+	coberta por uma
+	nuvem esquisitona.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's keeping me from
-	going to visit
-	SciLab Area.
+	Por causa dela, eu não
+	consigo ir pra Área
+	SciLab.
 	"""
 	keyWait
 		any = false
@@ -283,24 +283,24 @@ script 11 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I'm finally back on
-	good terms with my
-	NetNavi.
+	Finalmente eu e o meu
+	NetNavi fizemos as
+	pazes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without my NetNavi,
-	I couldn't even
-	check my E-Mail!
+	Sem ele, eu não
+	conseguia nem ler
+	meus e-mails!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's best to treat
-	your Navi well!
+	É bom cê tratar bem o
+	seu Navi, viu?!
 	"""
 	keyWait
 		any = false
@@ -311,17 +311,17 @@ script 12 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I haven't been able
-	to sleep with the
-	weather so hot.
+	Tá tão quente estes
+	dias que eu não tenho
+	conseguido dormir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm quite distressed
-	about how it may
-	affect my beauty!
+	Estou tão preocupada...
+	com como isso pode
+	afetar a minha beleza!
 	"""
 	keyWait
 		any = false
@@ -332,27 +332,27 @@ script 13 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I don't mind time
-	off school but we
-	still have homework.
+	Eu não acho absurdo
+	a gente ter dever de
+	casa durante as férias,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I really do want
-	to go and play⋯
+	mas eu queria tanto
+	sair pra brincar...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I know!"
+	"Já sei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Homework can wait
-	until tomorrow!
+	Vou deixar o dever de
+	casa pra amanhã!
 	"""
 	keyWait
 		any = false
@@ -368,17 +368,17 @@ script 14 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	The path from Oran
-	Area3 to SciLab1
-	was restored.
+	O caminho da Área
+	Oran 3 pra SciLab 1
+	abriu de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe I'll go hang
-	out in SciLab Area
-	today.
+	Acho que eu vou dar
+	uma volta na Área
+	SciLab depois.
 	"""
 	keyWait
 		any = false
@@ -387,8 +387,9 @@ script 14 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	Shop lights are off.
-	It must be closed.
+	As luzes da loja estão
+	desligadas.
+	Deve estar fechada.
 	"""
 	keyWait
 		any = false
@@ -399,9 +400,9 @@ script 30 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Hey,why so glum?
-	Did you have a fight
-	with MegaMan?
+	Ei, por que essa cara
+	amarrada? Brigou com
+	o MegaMan?
 	"""
 	keyWait
 		any = false
@@ -412,16 +413,17 @@ script 31 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	Lunch is over,and
-	snack-time,too⋯
+	Já foi o almoço,
+	já foi o lanche da
+	tarde...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shoot⋯
-	How much longer
-	until supper?
+	Saco...
+	Ainda vai falta muito
+	pro jantar?
 	"""
 	keyWait
 		any = false
@@ -432,24 +434,24 @@ script 32 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	You wanna know the
-	secret to success?
+	Quer saber o segredo
+	do sucesso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Always walk proud,
-	no matter how dim
-	prospects appear!
+	Sempre ande com orgulho,
+	por mais desesperador
+	que tudo pareça!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That way you won't
-	miss a single
-	opportunity!
+	Assim, você não perde
+	nenhuma oportunidade,
+	nunca!
 	"""
 	keyWait
 		any = false
@@ -460,25 +462,25 @@ script 33 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Look right and left,
-	then right,and make
-	sure you're seen
+	Olha pra direita, pra
+	esquerda e pra direita
+	pra ver se tá tudo bem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before crossing the
-	road. My Dad taught
-	me this!
+	antes de atravessar a
+	rua. Foi o meu papai
+	que ensinou isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to follow
-	the rules,even with
-	no cars!
+	É pra seguir essas
+	regras mesmo quando
+	não tem carro na rua!
 	"""
 	keyWait
 		any = false
@@ -494,17 +496,17 @@ script 34 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Some days,no matter
-	how hard you try,
-	everything fails.
+	Tem dias em que, por
+	mais que você tente,
+	tudo dá errado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When that happens,
-	I go out and party!
-	It does the trick!
+	Quando isso acontece,
+	eu saio pra balada!
+	Resolve rapidinho!
 	"""
 	keyWait
 		any = false
@@ -515,17 +517,16 @@ script 40 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Hm? Something is
-	wrong with my PET
-	clock again.
+	Hm? O relógio do meu
+	PET deu defeito de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I should've never
-	bought those 10-for-
-	100 Zenny PETs.
+	Sabia que eu não devia
+	ter comprado ele na
+	lojinha de 199 Zennys.
 	"""
 	keyWait
 		any = false
@@ -541,16 +542,16 @@ script 41 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You're going to a
-	party on a cruise
-	ship? Wow⋯
+	Você vai pra uma festa
+	num cruzeiro?
+	Caramba...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could go,
-	too. Even just once.
+	Queria poder ir, também.
+	Só uma vezinha.
 	"""
 	keyWait
 		any = false
@@ -561,17 +562,17 @@ script 42 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You went to a party
-	on a cruise ship?
-	What I'd give
+	Você foi numa festa
+	num cruzeiro?
+	Nossa, eu daria tudo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to put on a fancy
-	dress and go to a
-	party like that.
+	pra botar um vestido
+	todo chique e ir pra
+	uma festa assim.
 	"""
 	keyWait
 		any = false
@@ -582,13 +583,13 @@ script 43 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Today everything is
-	fitting into place.
+	Hoje, está tudo dando
+	certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I feel unstoppable!"
+	"Eu me sinto imbatível!"
 	keyWait
 		any = false
 	end
@@ -603,15 +604,16 @@ script 44 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	A party on a cruise
-	ship? Wow⋯
+	Uma festa num
+	cruzeiro? Que louco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They must serve the
-	some terrific food.
+	Aposto que a comida
+	que eles servem lá
+	é incrível.
 	"""
 	keyWait
 		any = false
@@ -622,24 +624,24 @@ script 45 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	You went to a party
-	on a cruise ship?
+	Você foi numa festa
+	num cruzeiro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What did you eat?
-	Did you bring me a
-	doggie bag?
+	O que cê comeu lá?
+	Trouxe uma quentinha
+	pra mim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? You didn't
-	have time to chow
-	down?
+	Hã? Você nem teve
+	tempo de fazer uma
+	boquinha?
 	"""
 	keyWait
 		any = false

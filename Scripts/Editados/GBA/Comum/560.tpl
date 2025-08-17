@@ -5,23 +5,24 @@ script 0 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I STORE AND RECREATE
-	BATTLES FOUGHT IN
-	THIS AREA.
+	EU ARMAZENO E RECRIO
+	LUTAS TRAVADAS NESTA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	RELIVE A BATTLE
+	VOCÊ GOSTARIA DE
+	REPETIR UMA BATALHA
+	QUE SE DEU ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN NEBULA AND A
-	CERTAIN NAVI TEAM?
+	A NEBULA E UMA CERTA
+	EQUIPE DE NAVIS?
 	"""
 	keyWait
 		any = false
@@ -37,7 +38,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -46,7 +47,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -60,7 +61,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -69,18 +70,17 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"VERY WELL⋯"
+	"POIS BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHALL
-	RECREATE IT⋯
+	EU A RECRIAREI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯GO!!!"
+	"... AGORA!!!"
 	keyWait
 		any = false
 	flagSet
@@ -91,7 +91,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"AN EPIC BATTLE!"
+	"QUE BATALHA ÉPICA!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,7 +102,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"TOO BAD⋯"
+	"QUE PENA..."
 	keyWait
 		any = false
 	clearMsg
@@ -114,8 +114,9 @@ script 4 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	SOMETIMES RETREAT IS
-	THE BEST STRATEGY⋯
+	HÁ VEZES EM QUE
+	RECUAR É A MELHOR
+	ESTRATÉGIA...
 	"""
 	keyWait
 		any = false
@@ -134,60 +135,60 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'm Mr.program!
-	I protect the peace
-	on the Net.
+	Eu sou o Sr. Prog!
+	Eu protejo a paz na
+	Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I patrol like this
-	everyday⋯
+	Patrulho esta área
+	assim todos os dias...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Got ya!"
+	"Te peguei!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	Oh man⋯ I thought
-	this disguise would
-	fool you for sure.
+	Poxa... Eu podia jurar
+	que este disfarce ia
+	te enganar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're pretty good!
-	But it won't be
-	so easy next time.
+	Cê é bom mesmo!
+	Mas, da próxima,
+	não vai ser tão fácil.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next,I'll be in 1
-	of the 3 chips! Bet
-	you can't find me!
+	A seguir, eu estarei em
+	1 de 3 chips! Aposto
+	que você não me acha!
 	"""
 	keyWait
 		any = false
@@ -198,24 +199,24 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	Next,I'll be
-	hiding in 1 of
-	the 3 chips.
+	A seguir, vou me
+	esconder em 1 de
+	3 chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you think you
-	know,then scram!
+	Se acha que sabe onde
+	é isso, então vai logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sneaking a peak at
-	where I'm heading is
-	against the rules.
+	É contra as regras
+	ficar me vigiando pra
+	ver aonde eu vou.
 	"""
 	keyWait
 		any = false
@@ -239,15 +240,15 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	That's not a normal
-	look. Something's
-	definitely wrong.
+	Esse não é um olhar
+	normal. Tem alguma
+	coisa errada com ele.
 	"""
 	keyWait
 		any = false
@@ -255,15 +256,15 @@ script 7 mmbn5 {
 }
 script 8 mmbn5 {
 	"""
-	IF YOU EVER WANT TO
-	EXPERIENCE THAT
+	SE QUISER REPETIR
+	AQUELA BATALHA DE
+	NOVO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BATTLE AGAIN,JUST
-	LET ME KNOW.
+	É SO ME AVISAR.
 	"""
 	keyWait
 		any = false
@@ -274,9 +275,9 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I A⋯⋯M⋯⋯⋯⋯
-	I⋯PRO⋯⋯⋯ PEA⋯
-	O⋯⋯ ⋯⋯N⋯
+	EU S... P...
+	EU PRO... A P...
+	N... ... DE...
 	"""
 	keyWait
 		any = false
@@ -284,9 +285,9 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false

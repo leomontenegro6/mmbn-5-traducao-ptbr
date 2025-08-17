@@ -1,23 +1,23 @@
 @size 48
 
 script 0 mmbn5s {
-	" Shimoter SciLab BBS   "
+	" Shimoter FórumSciLab  "
 	end
 }
 script 1 mmbn5s {
-	" Nekomama Congrats!    "
+	" Nekomama Parabéns!    "
 	end
 }
 script 2 mmbn5s {
-	" Moroyon  Mr.Famous!   "
+	" Moroyon  Sr. Famoso!  "
 	end
 }
 script 3 mmbn5s {
-	" Donkun   Gta b Chaud  "
+	" Donkun   É o Chaud    "
 	end
 }
 script 4 mmbn5s {
-	" Komakki  Trans up?    "
+	" Komakki  Ah, vai!     "
 	end
 }
 script 5 mmbn5s {
@@ -29,91 +29,91 @@ script 6 mmbn5s {
 	end
 }
 script 7 mmbn5s {
-	" Gussan   Dr.Hikari    "
+	" Gussan   Dr. Hikari   "
 	end
 }
 script 8 mmbn5s {
-	" Yacchan  Hikari rlz!  "
+	" Yacchan  Hikari é 10  "
 	end
 }
 script 9 mmbn5s {
-	" Nakamura Mr.Quiz      "
+	" Nakamura Qstionário   "
 	end
 }
 script 10 mmbn5s {
-	" Susan    RE:Mr.Quiz   "
+	" Susan    RE:Qstionár  "
 	end
 }
 script 11 mmbn5s {
-	" Kappepo  Odd numbers  "
+	" Kappepo  Esquisito    "
 	end
 }
 script 12 mmbn5s {
-	" Goetsu   Lotto no's!  "
+	" Goetsu   Loteria!     "
 	end
 }
 script 13 mmbn5s {
-	" MdmAkiko Ms.Flora     "
+	" MdmAkiko Minha Flora  "
 	end
 }
 script 14 mmbn5s {
-	" Tatsuji  \"Chivalry\"   "
+	" Tatsuji  \"Macho\"      "
 	end
 }
 script 15 mmbn5s {
-	" Shizuka  \"Humor\"      "
+	" Shizuka  \"Piadas\"     "
 	end
 }
 script 16 mmbn5s {
-	" Bieri    Elctop rlz!  "
+	" Bieri    Ni-Hon é d+  "
 	end
 }
 script 17 mmbn5s {
-	" Shimoter RE:Elctprlz  "
+	" Shimoter RE:NiHon d+  "
 	end
 }
 script 18 mmbn5s {
-	" Iwamu    Chk this!    "
+	" Iwamu    Saca só!     "
 	end
 }
 script 19 mmbn5s {
-	" Kuroron  You mean⋯?  "
+	" Kuroron  Quer dizer   "
 	end
 }
 script 20 mmbn5s {
-	" Takano   CyberLark!   "
+	" Takano   CybrCotovia  "
 	end
 }
 script 21 mmbn5s {
-	" Tanabe   \"Under\" tlk  "
+	" Tanabe   Papo Under   "
 	end
 }
 script 22 mmbn5s {
-	" Murray   Hrggahh!     "
+	" Murray   Hrggarh!     "
 	end
 }
 script 23 mmbn5s {
-	" Jori     I'm on edge  "
+	" Jori     Tô arisco    "
 	end
 }
 script 24 mmbn5s {
-	" Bauha    AAIIEEEE!!!  "
+	" Bauha    AAAAAHHH!!!  "
 	end
 }
 script 25 mmbn5s {
-	" Shimoter Post rules   "
+	" Shimoter Regras       "
 	end
 }
 script 26 mmbn5s {
-	" Piero    W⋯wow⋯       "
+	" Piero    U... Uau...  "
 	end
 }
 script 27 mmbn5s {
-	" Goda     I'm worried  "
+	" Goda     Preocupei    "
 	end
 }
 script 28 mmbn5s {
-	" Shimoter Apology      "
+	" Shimoter Desculpas    "
 	end
 }
 script 29 mmbn5s {

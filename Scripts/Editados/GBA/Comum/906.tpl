@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I hope we can get
-	into Dad's computer⋯
+	Tomara que a gente
+	consiga entrar no
+	computador do papai...
 	"""
 	keyWait
 		any = false
@@ -19,14 +20,14 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yes. Well you've got
-	your Dad's ID. It'll
-	be fine.
+	É. Bom, você tem o
+	cartão de identificação
+	dele. Vai dar certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hey,Lan⋯"
+	"Aí, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -37,7 +38,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hm,what is it?"
+	"Hm? Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -50,8 +51,7 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Isn't that Raika
-	over there?
+	Aquele ali não é o Raika?
 	"""
 	keyWait
 		any = false
@@ -63,7 +63,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -73,8 +73,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's he doing
-	here?
+	Ele tá fazendo
+	o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -85,19 +85,19 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Hey,er⋯
-	He's gone!
+	... Aí, er...
+	Ah, foi embora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh well,never mind!"
+	"Bom, deixa pra lá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go to the lab
-	then!
+	Bora pro laboratório
+	do papai, então!
 	"""
 	keyWait
 		any = false
@@ -108,8 +108,8 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Isn't that Higsby
-	over there?
+	Aquele ali não
+	é o Higsby?
 	"""
 	keyWait
 		any = false
@@ -121,7 +121,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?!"
+	"Hã?!"
 	keyWait
 		any = false
 	end
@@ -131,8 +131,8 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's he doing
-	here?
+	Ele tá fazendo
+	o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -143,19 +143,19 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Hey,er⋯
-	He's gone!
+	... Aí, er...
+	Ah, foi embora!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh well,never mind!"
+	"Bom, deixa pra lá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go to the lab
-	then!
+	Bora pro laboratório
+	do papai, então!
 	"""
 	keyWait
 		any = false

@@ -9,16 +9,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HAVEN'T SEEN YOU
-	AROUND BEFORE!
+	EU NUNCA VI VOCÊ POR
+	AQUI ANTES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'LL NEED THIS
-	PROGRAM FOR THIS
-	AREA!
+	VAI PRECISAR DESTE
+	PROGRAMA NESTA ÁREA!
 	"""
 	keyWait
 		any = false
@@ -31,7 +30,7 @@ script 0 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -49,61 +48,61 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS PROGRAM WAS
-	MADE FOR THE NAVIS
-	WHO WORK HERE.
+	É UM PROGRAMA FEITO
+	PARA OS NAVIS QUE
+	TRABALHAM AQUI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WITH IT,YOU CAN
-	SMASH ROCKS LIKE THE
-	ONE OVER THERE.
+	COM ELE, VOCÊ PODE
+	QUEBRAR ROCHAS, COMO
+	AQUELA ALI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S EASY TO SMASH
-	ROCKS!
+	QUEBRAR ROCHAS É
+	FÁCIL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRESS +CONTROL PAD
-	TOWARD THE ROCK AND
-	PRESS A BUTTON.
+	É SÓ FICAR NA FRENTE
+	DA PEDRA E APERTAR
+	"A".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ROCK COLOR INDICATES
-	HARDNESS.
+	A COR DA ROCHA
+	INDICA SUA RIGIDEZ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HIT THE A BUTTON
-	REPEATEDLY TO SMASH
-	HARD ROCKS.
+	APERTE "A"
+	REPETIDAMENTE PARA
+	QUEBRAR ROCHAS DURAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TRY IT OUT ON THAT
-	ROCK OVER THERE.
+	EXPERIMENTE NAQUELA
+	ALI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GO AHEAD! GIVE IT A
-	GOOD BASH!
+	VAMOS! DÊ UMA BOA
+	QUEBRADA NELA!
 	"""
 	keyWait
 		any = false
@@ -114,39 +113,39 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SMASHING ROCKS IS A
-	CINCH!
+	QUEBRAR ROCHAS É
+	MOLEZA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRESS +CONTROL PAD
-	TOWARD THE ROCK AND
-	PRESS A BUTTON.
+	É SÓ FICAR NA FRENTE
+	DA PEDRA E APERTAR
+	"A".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ROCK COLOR INDICATES
-	HARDNESS.
+	A COR DA ROCHA
+	INDICA SUA RIGIDEZ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HIT THE A BUTTON
-	REPEATEDLY TO SMASH
-	HARD ROCKS.
+	APERTE "A"
+	REPETIDAMENTE PARA
+	QUEBRAR ROCHAS DURAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW,GO SMASH THOSE
-	ROCKS LIKE THERE'S
-	NO TOMORROW!
+	PRONTO, AGORA QUEBRE
+	PEDRAS COMO SE NÃO
+	HOUVESSE AMANHÃ!
 	"""
 	keyWait
 		any = false

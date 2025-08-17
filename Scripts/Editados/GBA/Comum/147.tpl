@@ -2,13 +2,14 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"A pile of crates."
+	"Uma pilha de caixas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A close look reveals
-	they are rotting.
+	Olhando com atenção,
+	dá para ver que estão
+	apodrecendo.
 	"""
 	keyWait
 		any = false
@@ -17,15 +18,15 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A big,unstable
-	pile of rubble.
+	Uma enorme e instável
+	pilha de entulho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It wouldn't be wise
-	to disturb it.
+	Seria uma péssima
+	ideia mexer nela.
 	"""
 	keyWait
 		any = false

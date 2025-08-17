@@ -4,14 +4,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"RAAAWWWWRRR!!!"
+	"RAAAAAAARRRR!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRETTY SCARY,HUH? I
-	CAN SCARE ANY CROOK
-	AWAY WITH MY VOICE!
+	DEU MEDO, NÉ? EU
+	ASSUSTO QUALQUER
+	LADRÃO COM ESSA VOZ!
 	"""
 	keyWait
 		any = false

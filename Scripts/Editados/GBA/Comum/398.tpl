@@ -5,23 +5,22 @@ script 0 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Nobody can complain
-	if the crew enjoys
+	Ninguém pode reclamar
+	da tripulação curtir a
+	atmosfera festiva do
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the boat's festive
-	atmosphere when
-	nobody's onboard.
+	navio quando não tem
+	ninguém a bordo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah yeah,this is the
-	life!
+	Ah, isto é que é vida!
 	"""
 	keyWait
 		any = false
@@ -42,17 +41,16 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I'm working here to
-	make up for the
-	problem I caused.
+	Eu tô trabalhando aqui
+	pra pagar pela confusão
+	que eu causei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cleaning signs and
-	things is pretty
-	tough!
+	Limpar placas e essas
+	coisas dá um trabalhão!
 	"""
 	keyWait
 		any = false
@@ -73,17 +71,16 @@ script 2 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I'm working here to
-	make up for what I
-	did the other day.
+	Estou trabalhando aqui
+	para pagar pelo que eu
+	fiz naquele dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Repainting,cleaning
-	toilets⋯
-	It's pretty tough.
+	Pintar, limpar privadas...
+	Dureza, o negócio.
 	"""
 	keyWait
 		any = false
@@ -99,25 +96,25 @@ script 5 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	This NetBattle
-	machine is operating
-	normally.
+	Esta máquina de
+	NetLutas está operando
+	normalmente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Luckily,we removed
-	it from the Net for
-	maintenance.
+	Felizmente, nós a
+	desligamos da Rede para
+	realizar manutenção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this boat has
-	suffered almost no
-	damage.
+	Portanto, este navio não
+	sofreu quase nenhum
+	estrago.
 	"""
 	keyWait
 		any = false
@@ -128,16 +125,15 @@ script 6 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Are we going to
-	finally start the
-	mission today?
+	Finalmente vamos começar
+	a missão hoje?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NapalmMan is just
-	itching to go.
+	O NapalmMan tá se
+	coçando pra brigar!
 	"""
 	keyWait
 		any = false
@@ -148,21 +144,24 @@ script 7 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Will they let us
-	start that mission
-	today?
+	Eles vão nos deixar
+	começar a missão hoje?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TomahawkMan is going
-	bonkers in my PET.
+	O TomahawkMan está
+	super impaciente no
+	meu PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Says \"lemme battle!\""
+	"""
+	Fica gritando:
+	"Me deixa lutar!"
+	"""
 	keyWait
 		any = false
 	end
@@ -172,15 +171,16 @@ script 10 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	It looks like things
-	have settled down.
+	Parece que as coisas
+	se acalmaram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we can say
-	"case closed" now.
+	Por ora, podemos dizer:
+	"caso encerrado,
+	capítulo terminado".
 	"""
 	keyWait
 		any = false
@@ -191,15 +191,14 @@ script 11 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Hey Lan,isn't the
-	mission starting?
+	Ei, Lan.
+	A missão já não começou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you doing
-	here?
+	Tá fazendo o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -209,13 +208,13 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"The mission's on!"
+	"A missão começou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Send MegaMan into
-	the Net!
+	Mande o MegaMan para
+	a Rede!
 	"""
 	keyWait
 		any = false
@@ -226,36 +225,33 @@ script 15 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This NetBattle
-	machine is always
-	hit by sea breeze,
+	Esta máquina de
+	NetLuta está sempre
+	sujeita à brisa do mar,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so to prevent rust,
-	constant maintenance
-	is required.
+	então, para prevenir
+	ferrugem, ela recebe
+	manutenção constante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This damage by
-	salty air is called
+	Esse estrago causado
+	pelo sal no ar é
+	conhecido como "erosão".
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"salt erosion.\""
-	keyWait
-		any = false
-	clearMsg
 	"""
-	People who live by
-	the sea need to be
-	extra careful.
+	Gente que mora perto
+	do mar tem que tomar
+	cuidado dobrado.
 	"""
 	keyWait
 		any = false
@@ -276,14 +272,14 @@ script 16 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Whew,I'm done
-	washing the signs.
-	Now for the dishes.
+	Ufa, terminei de lavar
+	as placas. Agora, hora
+	da louça.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My head is spinning⋯"
+	"Tô começando a ficar\ntonto..."
 	keyWait
 		any = false
 	end
@@ -303,9 +299,9 @@ script 17 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	OK,I'm done with
-	liferaft maintenance
-	so what's next?
+	Terminei a manutenção
+	dos botes salva-vidas.
+	A seguir, é o...
 	"""
 	keyWait
 		any = false
@@ -320,8 +316,8 @@ script 20 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	After washing the
-	dishes⋯break time!
+	E depois de lavar a
+	louça... uma pausa!
 	"""
 	keyWait
 		any = false
@@ -336,13 +332,14 @@ script 21 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	OK,I'm done
-	cleaning the vents⋯
+	Pronto, terminei de
+	limpar os dutos de
+	ventilação...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Break time!"
+	"Hora do intervalo!"
 	keyWait
 		any = false
 	end
@@ -352,31 +349,29 @@ script 22 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I can't believe
-	ProtoMan was
-	defeated⋯
+	Eu não acredito que o
+	ProtoMan foi vencido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be the new
-	leader,right?
+	Você vai ser o novo
+	líder, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?! You haven't
-	decided yet?
+	Quê?! Cê ainda não
+	se decidiu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who else do you
-	think's gonna do
-	it?!
+	Oras, quem mais cê
+	acha que poderia ser?!
 	"""
 	keyWait
 		any = false
@@ -387,16 +382,17 @@ script 23 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Baryl trusted you
-	enough to recommend
-	you as the leader.
+	O Baryl confiou o
+	bastante em você pra
+	te indicar como líder.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should respect
-	his opinion⋯
+	Se eu fosse você,
+	respeitava a opinião
+	dele...
 	"""
 	keyWait
 		any = false
@@ -411,17 +407,16 @@ script 25 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	So Lan,have you
-	decided to be the
-	new leader?
+	E aí, Lan? Resolveu
+	ser o novo líder?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all counting
-	on you⋯
-	Please do it.
+	Tá todo mundo contando
+	com você...
+	Por favor, vai lá.
 	"""
 	keyWait
 		any = false
@@ -436,16 +431,17 @@ script 26 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	So Lan,are you
-	going to be the new
-	leader?
+	E então, Lan?
+	Você vai ser o novo
+	líder?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think you're the
-	only one who can.
+	Eu, pelo menos, acho
+	que você é o único
+	capaz.
 	"""
 	keyWait
 		any = false
@@ -456,15 +452,15 @@ script 27 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Lan,what're you
-	doing?!
+	Lan, o que cê tá
+	fazendo aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and start
-	the mission!
+	Vai logo, hora de
+	começar a missão!
 	"""
 	keyWait
 		any = false
@@ -475,15 +471,15 @@ script 28 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Lan,what are you
-	doing here?!
+	Lan, está fazendo o
+	quê aqui?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry up and start
-	the mission!
+	Vamos, comece logo a
+	missão!
 	"""
 	keyWait
 		any = false

@@ -2,18 +2,18 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Aieeek!"
+	"Aaaaahhh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That CEO just makes
-	me downright mad!
+	Aquele CEO me
+	deixa FURIOSA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a lousy fool!"
+	"Aquele... energúmeno!"
 	keyWait
 		any = false
 	end
@@ -21,16 +21,14 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Stop that this
-	instant!
+	Pare já com isso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,my⋯
-	He won't listen to a
-	word I say!
+	Ai...
+	Ela não me obedece!
 	"""
 	keyWait
 		any = false
@@ -40,7 +38,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who goes there?!"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -49,11 +47,11 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey you!!!"
+	"Ei, você!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Stop that drill!"
+	"Desliga essa broca!"
 	keyWait
 		any = false
 	clearMsg
@@ -64,7 +62,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -76,8 +74,7 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Stop that drill
-	right now!
+	Desliga essa broca! Já!
 	"""
 	keyWait
 		any = false
@@ -89,7 +86,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -101,8 +98,8 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Stop that drill,
-	PLEASE!
+	Desliga essa broca!
+	POR FAVOR!
 	"""
 	keyWait
 		any = false
@@ -113,29 +110,29 @@ script 8 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Now,that's better!
-	I'm 29 years old!
+	Muito que bem!
+	Eu tenho 29 anos, sabia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe twice your age
-	so do pay a little
-	respect! Besides⋯
+	Eu devo ter o dobro da
+	sua idade, então, mais
+	respeito! Além disso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What are you doing
-	here? I have stress
-	to work off!
+	o que você tá fazendo
+	aqui? Eu tô estravazando
+	estresse, tá bom?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Just leave me alone!"
+	"Me deixa em paz!"
 	keyWait
 		any = false
 	clearMsg
@@ -147,15 +144,15 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait,listen to me!
-	Er,please!
+	Pera, me escuta!
+	Er, por favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My friends are below
-	that drill!
+	Os meus amigos tão
+	embaixo dessa broca!
 	"""
 	keyWait
 		any = false
@@ -167,14 +164,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Why should I care!"
+	"E eu com isso?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your friends had no
-	business wandering
-	in here,anyway!
+	Os seus amigos não
+	deviam ter entrado aqui,
+	pra começo de conversa!
 	"""
 	keyWait
 		any = false
@@ -187,9 +184,8 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right but
-	they're in danger!
-	PLEASE!
+	Tá, é, mas eles tão
+	em perigo! POR FAVOR!
 	"""
 	keyWait
 		any = false
@@ -202,20 +198,19 @@ script 12 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	If you're that set
-	on stopping this
-	electro-drill,
+	Se quer tanto assim
+	parar essa eletro-broca,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"then do it yourself!"
+	"pare-a você mesmo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See those control
-	boxes?
+	Tá vendo as caixas
+	de controle?
 	"""
 	keyWait
 		any = false
@@ -225,13 +220,13 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Stop that drill!!!"
+	"Desliga essa broca!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My friends are below
-	it!
+	Os meus amigos
+	tão embaixo dela!
 	"""
 	keyWait
 		any = false
@@ -245,11 +240,11 @@ script 14 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Aren't you Lan?"
+	"É você, não é, Lan?"
 	keyWait
 		any = false
 	clearMsg
-	"It's me,Pride!"
+	"Sou eu, a Pride!"
 	keyWait
 		any = false
 	clearMsg
@@ -261,17 +256,16 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Pride⋯
-	You mean,Princess
-	Pride?
+	Pride...
+	Tipo, a Princesa Pride?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The princess of
-	Creamland?! What
-	are you doing here?
+	A princesa da Brilholân-
+	dia? Do caso da Gospel?
+	Tá fazendo o quê aqui?
 	"""
 	keyWait
 		any = false
@@ -284,25 +278,25 @@ script 16 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	We need
-	MagnoMetal for the
-	research we're
+	Meu país precisa de
+	MagnoMetal para a
+	pesquisa que estamos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doing⋯
-	On a new PET in
-	Creamland.
+	conduzindo...
+	para um novo PET
+	da Brilholândia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that this
-	island had a vast
-	supply of it.
+	Fui informada de que
+	esta ilha era rica no
+	mineral.
 	"""
 	keyWait
 		any = false
@@ -315,9 +309,9 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's fine,princess
-	but I need you to
-	stop the drill!
+	Legal, Princesa, mas
+	eu preciso que você
+	desligue a broca!
 	"""
 	keyWait
 		any = false
@@ -329,36 +323,35 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"I can't!"
+	"Não dá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I sent my Navi,
-	KnightMan,inside the
-	drill⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	to activate it to
-	OldMine MagnoMetal.
+	Eu enviei o meu Navi,
+	o KnightMan, para
+	dentro da broca,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the powerful
-	magnetism of the
-	MagnoMetal⋯
+	com o fim de ativá-la
+	para minerar MagnoMetal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has driven KnightMan
-	berserk!
+	Mas o magnetismo intenso
+	do MagnoMetal...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	fez o KnightMan
+	perder a sanidade!
 	"""
 	keyWait
 		any = false
@@ -370,13 +363,14 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then how can we stop
-	the drill?!
+	Mas, então, como
+	a gente faz pra
+	desligar a broca?
 	"""
 	keyWait
 		any = false
@@ -389,8 +383,8 @@ script 20 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	See those control
-	boxes?
+	Está vendo essas
+	caixas de controle?
 	"""
 	keyWait
 		any = false
@@ -401,25 +395,25 @@ script 21 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	If you jack in and
-	press the control
-	switches inside⋯
+	Se você se conectar
+	nelas e apertar os
+	botões de controle lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll activate the
-	manual shutdown.
-	There are 4 boxes.
+	isso vai ativar o
+	desligamento manual.
+	São quatro caixas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To stop the drill,
-	you have to press
-	all 4 switches!
+	Pra parar a broca, você
+	vai ter que apertar os
+	quatro botões!
 	"""
 	keyWait
 		any = false
@@ -432,28 +426,28 @@ script 22 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	If you jack in and
-	press the control
-	switches inside⋯
+	Se você se conectar e
+	apertar os botões de
+	controle dentro delas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you'll activate the
-	manual shutdown.
+	isso ativará o
+	desligamento manual.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"There are 4 boxes."
+	"São quatro caixas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To stop the drill,
-	you have to press
-	all 4 switches!
+	Para desligar a broca,
+	você terá de apertar
+	todos os quatro botões!
 	"""
 	keyWait
 		any = false
@@ -466,9 +460,9 @@ script 23 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shoot! This could be
-	trouble.
-	Let's go,MegaMan!
+	Droga!
+	Isso não vai ser fácil.
+	Bora, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -481,8 +475,8 @@ script 24 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Roger.
-	Jack me in!
+	Beleza.
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -493,22 +487,23 @@ script 25 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Think of it as
-	punishment⋯
+	Considere isso
+	uma punição...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For interrupting my
-	de-stress session⋯
+	por interromper a
+	minha sessão de
+	desestresse...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and for not saying
-	"please"!
+	e por não dizer
+	"por favor"!
 	"""
 	keyWait
 		any = false
@@ -519,7 +514,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Lan,it's up to you!"
+	"Lan, está em suas mãos!"
 	keyWait
 		any = false
 	end
@@ -529,7 +524,7 @@ script 27 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	wait
 		frames = 62
 	end
@@ -539,8 +534,7 @@ script 28 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's your
-	phone!
+	Lan! Ligação!
 	"""
 	keyWait
 		any = false
@@ -550,11 +544,11 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"L⋯Lan!"
+	"L... Lan!"
 	keyWait
 		any = false
 	clearMsg
-	"Help us!!!"
+	"Socorro!!!"
 	keyWait
 		any = false
 	end
@@ -563,7 +557,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Aieegh!"
+	"Arreegh!"
 	keyWait
 		any = false
 	clearMsg
@@ -574,7 +568,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Eeek!"
+	"Aain!"
 	keyWait
 		any = false
 	clearMsg
@@ -585,7 +579,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"HEEELP!!!"
+	"AJUUUDAAAA!!!"
 	keyWait
 		any = false
 	end
@@ -595,25 +589,24 @@ script 33 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just a little
-	longer! I'll have
-	you out in no time!
+	Pera só um pouquinho,
+	gente! Eu já vou tirar
+	vocês daí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,look for
-	the control
-	switches!
+	MegaMan, encontra os
+	botões de controle!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

@@ -9,8 +9,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The drill's
-	control system⋯
+	O sistema de controle
+	da broca...
 	"""
 	keyWait
 		any = false
@@ -19,9 +19,8 @@ script 0 mmbn5 {
 	soundPlay
 		track = 212
 	"""
-	MegaMan pressed
-	the control
-	switch!!!
+	MegaMan apertou o
+	botão de controle!!
 	"""
 	keyWait
 		any = false
@@ -29,8 +28,7 @@ script 0 mmbn5 {
 	soundPlay
 		track = 236
 	"""
-	The drill
-	slowed down!!!
+	A broca desacelerou!!
 	"""
 	keyWait
 		any = false
@@ -41,9 +39,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The drill's control
-	system is running
-	normally right now.
+	O sistema de controle
+	da broca está operando
+	normalmente.
 	"""
 	keyWait
 		any = false
@@ -52,16 +50,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A large rock bars
-	the way. It's too
-	big to move.
+	Uma enorme pedra barra
+	o caminho. É grande
+	demais para mover.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hitting and kicking
-	won't work either.
+	Bater e chutar também
+	não surte efeito.
 	"""
 	keyWait
 		any = false

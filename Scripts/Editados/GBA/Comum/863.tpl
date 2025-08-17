@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This leads to the
-	next area slated for
-	liberation.
+	Aqui vai dar na próxima
+	área marcada pra
+	liberação.
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's that cloud-
-	like thing? Can we
-	make it through?
+	Que nuvem esquisita
+	é essa aí? Dá pra
+	atravessar ela?
 	"""
 	keyWait
 		any = false
@@ -35,8 +35,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'll try.
-	Here goes!
+	Eu vou tentar.
+	Lá vai!
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 3 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Are you OK?!
+	Você tá legal?!
 	"""
 	keyWait
 		any = false
@@ -58,14 +58,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,I'm fine⋯"
+	"É, tô bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But this cloud's
-	DarkPower is
-	blocking the way!
+	Mas o poder sombrio
+	dessa nuvem tá
+	barrando o caminho!
 	"""
 	keyWait
 		any = false
@@ -75,7 +75,7 @@ script 5 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	wait
 		frames = 62
 	end
@@ -84,7 +84,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's phone!"
+	"Ligação!"
 	keyWait
 		any = false
 	end
@@ -94,15 +94,15 @@ script 7 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I see you've arrived
-	at your destination.
+	Estou vendo que você
+	chegou no seu destino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Describe the
-	surroundings to me.
+	Descreva pra mim
+	os arredores.
 	"""
 	keyWait
 		any = false
@@ -115,9 +115,9 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The route to SciLab3
-	is blocked by
-	a dark cloud.
+	A rota pro SciLab 3
+	tá barrada por uma
+	nuvem roxa.
 	"""
 	keyWait
 		any = false
@@ -129,28 +129,29 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"A dark cloud⋯"
+	"Uma nuvem roxa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I see.
-	That could be some
-	trouble.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The DarkPower is
-	spilling over⋯
+	Entendo.
+	Isso pode ser uma
+	péssima notícia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Very well. Lan,
-	head back for now.
+	O Poder das Trevas
+	está transbordando...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Pois bem.
+	Pode voltar por ora,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -163,15 +164,15 @@ script 10 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I see you've arrived
-	at your destination.
+	Estou vendo que você
+	chegou ao seu destino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Describe the
-	surroundings to me.
+	Descreva para mim
+	os arredores.
 	"""
 	keyWait
 		any = false
@@ -184,9 +185,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The route to SciLab3
-	is blocked by
-	a dark cloud.
+	A rota pro SciLab 3
+	tá barrada por uma
+	nuvem roxa.
 	"""
 	keyWait
 		any = false
@@ -198,21 +199,22 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"A dark cloud⋯"
+	"Uma nuvem roxa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The DarkPower is
-	spilling over. That
-	could be trouble.
+	O Poder das Trevas
+	está transbordando.
+	Isso não é nada bom.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Very well. Lan,
-	head back for now.
+	Pois bem.
+	Pode voltar por ora,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -224,7 +226,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger."
+	"Tá."
 	keyWait
 		any = false
 	clearMsg
@@ -232,13 +234,13 @@ script 13 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"MegaMan,jack out!"
+	"MegaMan, desconectar!"
 	keyWait
 		any = false
 	end
@@ -257,22 +259,22 @@ script 15 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	That was enough to
-	keep them out?
+	Isso bastou pra
+	afastar eles?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just pitiful.
-	⋯⋯
+	Triste.
+	......
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Charlie,what do you
-	think?
+	O que você acha,
+	Charlie?
 	"""
 	keyWait
 		any = false
@@ -285,15 +287,15 @@ script 16 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Well,no need to
-	rush to a decision.
+	Bom, não tem por que
+	apressar a decisão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's continue
-	observing them.
+	Bora continuar
+	de olho neles.
 	"""
 	keyWait
 		any = false
@@ -304,17 +306,17 @@ script 17 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	That was enough to
-	turn them back?
-	How pitiful.
+	Só isso bastou
+	para afugentá-los?
+	Patético.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master,should we
-	take care of it?
-	⋯⋯
+	Devemos pôr um fim
+	nisso, Dark?
+	......
 	"""
 	keyWait
 		any = false
@@ -327,24 +329,24 @@ script 18 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	ShadowMan,there's no
-	rush.
+	Não temos pressa,
+	ShadowMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We will continue to
-	observe things a
-	while longer.
+	Continuaremos a
+	observar as coisas
+	por mais um tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There is no reason
-	to get involved in
-	risky battles.
+	Não há por que nos
+	envolvermos em
+	batalhas arriscadas.
 	"""
 	keyWait
 		any = false
@@ -363,8 +365,8 @@ script 20 mmbn5s {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	Off limits!
-	(tentative)
+	Inacessível!
+	(provisório)
 	"""
 	keyWait
 		any = false

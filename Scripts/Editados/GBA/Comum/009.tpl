@@ -2,7 +2,7 @@
 
 script 1 mmbn5 {
 	msgOpen
-	"Turn all mods OFF?\n"
+	"Desligar mods?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -22,7 +22,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -37,7 +37,7 @@ script 1 mmbn5 {
 }
 script 2 mmbn5 {
 	msgOpen
-	"Turn all mods ON?\n"
+	"Ligar mods?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -48,7 +48,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -57,7 +57,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -72,7 +72,7 @@ script 2 mmbn5 {
 }
 script 3 mmbn5 {
 	msgOpen
-	"Delete this mod?\n"
+	"Apagar esta mod?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -83,7 +83,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -92,7 +92,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -108,8 +108,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Delete all mods?
-	Are you sure?
+	Apagar todas as mods?
+	Tem certeza?
 	
 	"""
 	positionOptionHorizontal
@@ -122,7 +122,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -131,7 +131,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

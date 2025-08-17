@@ -5,40 +5,40 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE CYBERHATCH IS
-	NOW IN OPERATION
-	DUE TO FLOODING.
+	A CYBER-ESCOTILHA
+	ESTÁ ATIVADA DEVIDD
+	À INUNDAÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE IS NO ACCESS
-	BEYOND HERE. PLEASE
-	TURN BACK.
+	NÃO HÁ ACESSO ALÉM
+	DAQUI. POR FAVOR,
+	DÊ MEIA-VOLTA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT⋯ YOU DON'T LOOK
-	LIKE YOU'RE GOING TO
-	DO THAT.
+	MAS... NÃO ME PARECE
+	QUE VOCÊ IRÁ FAZER
+	ISSO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WOULD TELL YOU HOW
-	TO GET AROUND. BUT I
-	DON'T KNOW⋯
+	EU LHE CONTARIA COMO
+	PASSAR POR AQUI, MAS
+	EU NÃO SEI...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU WANT TO ASK
-	ANYWAY?
+	QUER PERGUNTAR MESMO
+	ASSIM?
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Tell me!\n"
+	" Fale!\n"
 	option
 		brackets = 0
 		left = 1
@@ -63,7 +63,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" No need!"
+	" Não precisa!"
 	select
 		default = 0
 		BSeparate = false
@@ -74,15 +74,16 @@ script 0 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	textSpeed
 		delay = 2
 	"""
-	REALLY⋯? PERSONALLY,
-	I THINK IT WOULD BE
-	BETTER TO ASK BUT⋯
+	CERTEZA...?
+	EU DIRIA QUE É MELHOR
+	PERGUNTAR, MAS...
 	"""
 	keyWait
 		any = false
@@ -94,68 +95,67 @@ script 1 mmbn5 {
 	msgOpen
 	textSpeed
 		delay = 2
-	"VERY WELL⋯"
+	"TUDO BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE KEY TO UNLOCK
-	THE CYBERHATCH IS
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	AT THE BOTTOM OF
-	THE SLOPE THAT'S
-	NEAR IT.
+	A CHAVE QUE ABRE
+	A CYBER-ESCOTILHA
+	FICA NA BASE DA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THE LOWER PART
-	OF THE SLOPE IS
-	UNDER WATER.
+	RAMPA PRÓXIMA A ELA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UNDER WATER,THE
-	OXYGEN GAUGE ON THE
-	RIGHT OF THE SCREEN
+	MAS A PARTE INFERIOR 
+	DA RAMPA ESTÁ
+	SUBMERSA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WILL GO DOWN. IF IT
-	GETS TO ZERO,YOUR HP
-	WILL START TO DROP.
+	DEBAIXO D'ÁGUA, A
+	BARRA DE OXIGÊNIO À
+	DIREITA DA TELA IRÁ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOUR OXYGEN RUNS
-	OUT WHEN YOU HAVE
-	ONLY 1 HP LEFT,
+	CAIR. SE CHEGAR A ZERO,
+	OS SEUS PV COMEÇARÃO
+	A CAIR TAMBÉM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE AREA'S SAFETY
-	SYSTEM WILL CUT IN
-	AND GET YOU OUT.
+	SE O SEU OXIGÊNIO
+	ACABAR QUANDO VOCÊ
+	SÓ TIVER 1 PV,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU UNDERSTAND SO
-	FAR?
+	O SISTEMA DE SEGURANÇA
+	DA ÁREA IRÁ ABORTAR
+	TUDO E TE TIRAR DE LÁ.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	ENTENDEU TUDO ATÉ
+	AGORA?
 	"""
 	keyWait
 		any = false
@@ -171,7 +171,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" I get it\n"
+	" Aham\n"
 	option
 		brackets = 0
 		left = 1
@@ -180,7 +180,7 @@ script 1 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Tell me again\n"
+	" Explique de novo\n"
 	option
 		brackets = 0
 		left = 2
@@ -189,7 +189,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" You can stop now"
+	" Já pode parar"
 	select
 		default = 0
 		BSeparate = false
@@ -201,23 +201,24 @@ script 1 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
 	textSpeed
 		delay = 2
 	"""
-	OH⋯ BUT I'VE STILL
-	GOT LOTS I'D LIKE TO
-	TELL YOU.
+	AH... MAS AINDA TEM
+	TANTA COISA QUE EU
+	QUERIA CONTAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JUST ASK ME AGAIN IF
-	YOU CHANGE YOUR
-	MIND.
+	SE MUDAR DE IDEIA,
+	PODE VIR ME PERGUNTAR
+	DE NOVO.
 	"""
 	keyWait
 		any = false
@@ -230,70 +231,69 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	OKAY,I'LL GO OVER
-	IT AGAIN⋯
+	CERTO, VOU REPASSAR
+	TUDO DE NOVO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE KEY TO UNLOCK
-	THE CYBERHATCH IS
+	A CHAVE QUE ABRE
+	A CYBER-ESCOTILHA
+	FICA NA BASE DA
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AT THE BOTTOM OF
-	THE SLOPE THAT'S
-	NEAR IT.
+	RAMPA PRÓXIMA A ELA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT THE LOWER PART
-	OF THE SLOPE IS
-	UNDER WATER.
+	MAS A PARTE INFERIOR 
+	DA RAMPA ESTÁ
+	SUBMERSA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UNDER WATER,THE
-	OXYGEN GAUGE ON THE
-	RIGHT OF THE SCREEN
+	DEBAIXO D'ÁGUA, A
+	BARRA DE OXIGÊNIO À
+	DIREITA DA TELA IRÁ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WILL GO DOWN. IF IT
-	GETS TO ZERO,YOUR HP
-	WILL START TO DROP.
+	CAIR. SE CHEGAR A ZERO,
+	OS SEUS PV COMEÇARÃO
+	A CAIR TAMBÉM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOUR OXYGEN RUNS
-	OUT WHEN YOU HAVE
-	ONLY 1 HP LEFT,
+	SE O SEU OXIGÊNIO
+	ACABAR QUANDO VOCÊ
+	SÓ TIVER 1 PV,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE AREA'S SAFETY
-	SYSTEM WILL CUT IN
-	AND GET YOU OUT.
+	O SISTEMA DE SEGURANÇA
+	DA ÁREA IRÁ ABORTAR
+	TUDO E TE TIRAR DE LÁ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW WAS THAT? DID
-	YOU UNDERSTAND?
+	E AGORA?
+	ENTENDEU?
 	"""
 	keyWait
 		any = false
@@ -309,7 +309,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" I got it\n"
+	" Entendi\n"
 	option
 		brackets = 0
 		left = 1
@@ -318,7 +318,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Tell me again"
+	" Explique de novo"
 	select
 		default = 0
 		BSeparate = false
@@ -337,78 +337,78 @@ script 3 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	GOOD. THEN I'LL
-	CARRY ON⋯
+	CERTO.
+	ENTÃO, SEGUINDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'LL FIND BUBBLES,
-	EDDIES AND CURRENTS
-	UNDER WATER.
+	NA ÁGUA, VOCÊ ACHARÁ
+	BOLHAS, REDEMOINHOS E
+	CORRENTEZAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COLLECTING BUBBLES
-	WILL RESTORE YOUR
-	OXYGEN BUT IF YOU
+	TOCAR NAS BOLHAS
+	RESTAURARÁ O SEU
+	OXIGÊNIO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GET TRAPPED IN AN
-	EDDY,YOUR OXYGEN
-	WILL DROP SUDDENLY.
+	MAS, SE VOCÊ FOR PEGO
+	EM UM REDEMOINHO,
+	PERDERÁ OXIGÊNIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HIT A CURRENT,AND IT
-	WILL SWEEP YOU ALONG
+	SE ENCOSTAR EM UMA
+	CORRENTEZA, ELA LHE
+	EMPURRARÁ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT YOU CAN USE THE
-	+CONTROL PAD AGAINST
-	THE FLOW TO STOP.
+	MAS VOCÊ PODE USAR O
+	DIRECIONAL CONTRA A
+	CORRENTE E RESISTIR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT USES A LOT OF
-	OXYGEN THOUGH,SO
-	BE CAREFUL.
+	PORÉM, ISSO GASTA
+	BASTANTE OXIGÊNIO.
+	TOME MUITO CUIDADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEAR THE KEY,THERE
-	IS AN EMERGENCY
-	DEVICE THAT CAN
+	PERTO DA CHAVE, HÁ
+	UM DISPOSITIVO DE
+	EMERGÊNCIA QUE PODERÁ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RETURN YOU TO A SAFE
-	PLACE IN AN INSTANT.
-	USE IT WISELY.
+	LEVÁ-LO DE VOLTA A UM
+	LOCAL SEGURO. USE-O
+	COM SABEDORIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU UNDERSTAND SO
-	FAR?
+	ENTENDEU ATÉ AGORA?
 	"""
 	keyWait
 		any = false
@@ -424,7 +424,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" I get it\n"
+	" Entendi\n"
 	option
 		brackets = 0
 		left = 1
@@ -433,7 +433,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Tell me again"
+	" Explique de novo"
 	select
 		default = 0
 		BSeparate = false
@@ -452,78 +452,79 @@ script 4 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	OKAY,I'LL GO OVER
-	IT AGAIN⋯
+	TUDO BEM, VAMOS
+	REPASSAR TUDO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'LL FIND BUBBLES,
-	EDDIES AND CURRENTS
-	UNDER WATER.
+	NA ÁGUA, VOCÊ ACHARÁ
+	BOLHAS, REDEMOINHOS E
+	CORRENTEZAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COLLECTING BUBBLES
-	WILL RESTORE YOUR
-	OXYGEN BUT IF YOU
+	TOCAR NAS BOLHAS
+	RESTAURARÁ O SEU
+	OXIGÊNIO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GET TRAPPED IN AN
-	EDDY,YOUR OXYGEN
-	WILL DROP SUDDENLY.
+	MAS, SE VOCÊ FOR PEGO
+	EM UM REDEMOINHO,
+	PERDERÁ OXIGÊNIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HIT A CURRENT,AND IT
-	WILL SWEEP YOU ALONG
+	SE ENCOSTAR EM UMA
+	CORRENTEZA, ELA LHE
+	EMPURRARÁ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT YOU CAN USE THE
-	+CONTROL PAD AGAINST
-	THE FLOW TO STOP.
+	MAS VOCÊ PODE USAR O
+	DIRECIONAL CONTRA A
+	CORRENTE E RESISTIR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT USES A LOT OF
-	OXYGEN THOUGH,SO
-	BE CAREFUL.
+	PORÉM, ISSO GASTA
+	BASTANTE OXIGÊNIO.
+	TOME MUITO CUIDADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEAR THE KEY,THERE
-	IS AN EMERGENCY
-	DEVICE THAT CAN
+	PERTO DA CHAVE, HÁ
+	UM DISPOSITIVO DE
+	EMERGÊNCIA QUE PODERÁ
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RETURN YOU TO A SAFE
-	PLACE IN AN INSTANT.
-	USE IT WISELY.
+	LEVÁ-LO DE VOLTA A UM
+	LOCAL SEGURO. USE-O
+	COM SABEDORIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW'S THAT? DID YOU
-	UNDERSTAND?
+	E ENTÃO?
+	ENTENDEU AGORA?
 	"""
 	keyWait
 		any = false
@@ -539,7 +540,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" I get it\n"
+	" Entendi\n"
 	option
 		brackets = 0
 		left = 1
@@ -548,7 +549,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Tell me again"
+	" Explique de novo"
 	select
 		default = 0
 		BSeparate = false
@@ -567,32 +568,31 @@ script 5 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	GOOD! THAT'S ALL
-	I'VE GOT TO TELL
-	YOU.
+	ÓTIMO! ISSO É TUDO
+	O QUE EU TINHA PARA
+	FALAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU WANT ME TO GO
-	OVER IT AGAIN,JUST
-	ASK ANY TIME.
+	SE QUISER REPASSAR
+	TUDO DE NOVO, É SÓ
+	VIR FALAR COMIGO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN TELL YOU AS
-	MANY TIMES AS YOU
-	WANT.
+	EU EXPLICO QUANTAS
+	VEZES VOCÊ QUISER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO,ANYWAY⋯
-	GOOD LUCK!
+	ENFIM...
+	BOA SORTE!
 	"""
 	keyWait
 		any = false

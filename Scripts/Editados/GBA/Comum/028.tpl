@@ -20,9 +20,9 @@ script 1 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cannon to
-	attack
-	1 enemy
+	Tiro de
+	canhão
+	reto
 	"""
 	keyWait
 		any = true
@@ -38,9 +38,9 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cannon to
-	attack
-	1 enemy
+	Tiro de
+	canhão
+	reto
 	"""
 	keyWait
 		any = true
@@ -56,9 +56,9 @@ script 3 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cannon to
-	attack
-	1 enemy
+	Tiro de
+	canhão
+	reto
 	"""
 	keyWait
 		any = true
@@ -74,9 +74,9 @@ script 4 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Knock
-	enmy back
-	1 square
+	Tiro
+	empurra
+	alvo
 	"""
 	keyWait
 		any = true
@@ -92,9 +92,9 @@ script 5 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Ricochet
-	attack to
-	right
+	Ricoche-
+	teia
+	golpe
 	"""
 	keyWait
 		any = true
@@ -110,9 +110,9 @@ script 6 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Boomerang
-	encircles
-	field
+	Bumeran-
+	gue pela
+	campo
 	"""
 	keyWait
 		any = true
@@ -129,8 +129,8 @@ script 7 mmbn5 {
 		delay = 0
 	"""
 	MuteAnt
-	blinds
-	enemy
+	cega
+	alvos
 	"""
 	keyWait
 		any = true
@@ -146,9 +146,9 @@ script 8 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	8hit strm
-	2 squares
-	ahead
+	Tempest.
+	8 acertos
+	a 2 qdos
 	"""
 	keyWait
 		any = true
@@ -164,9 +164,9 @@ script 9 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fires 3sq
-	shotgun
-	blast!
+	Tiro
+	explos.
+	3 qdos!
 	"""
 	keyWait
 		any = true
@@ -182,9 +182,9 @@ script 10 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fires 3sq
-	shotgun
-	blast!
+	Tiro
+	explos.
+	3 qdos!
 	"""
 	keyWait
 		any = true
@@ -200,9 +200,9 @@ script 11 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fires 3sq
-	shotgun
-	blast!
+	Tiro
+	explos.
+	3 qdos!
 	"""
 	keyWait
 		any = true
@@ -219,8 +219,8 @@ script 12 mmbn5 {
 		delay = 0
 	"""
 	DoomerEX
-	locks on
-	3 rows
+	mira em
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -237,8 +237,8 @@ script 13 mmbn5 {
 		delay = 0
 	"""
 	DoomerEX
-	locks on
-	3 rows
+	mira em
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -255,8 +255,8 @@ script 14 mmbn5 {
 		delay = 0
 	"""
 	DoomerEX
-	locks on
-	3 rows
+	mira em
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -272,9 +272,9 @@ script 15 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3-shot to
-	pierce 1
-	panel!
+	3 tiros,
+	furam 1
+	qdro!
 	"""
 	keyWait
 		any = true
@@ -290,9 +290,9 @@ script 16 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	5-shot to
-	pierce 1
-	panel!
+	5 tiros,
+	furam 1
+	qdro!
 	"""
 	keyWait
 		any = true
@@ -308,9 +308,9 @@ script 17 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	7-shot to
-	pierce 1
-	panel!
+	7 tiros,
+	furam 1
+	qdro!
 	"""
 	keyWait
 		any = true
@@ -326,9 +326,9 @@ script 18 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Creates a
-	large
-	explosion
+	Cria
+	enorme
+	explosão
 	"""
 	keyWait
 		any = true
@@ -344,9 +344,9 @@ script 19 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Pralyzing
-	electric
-	attack!
+	Golpe
+	elétrico
+	paralisa
 	"""
 	keyWait
 		any = true
@@ -362,9 +362,9 @@ script 20 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Makes 9sq
-	ice
-	3sq ahead
+	9qdos vi-
+	ram gelo
+	a 3qdos.
 	"""
 	keyWait
 		any = true
@@ -380,9 +380,9 @@ script 21 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sonic atk
-	spreads
-	when hits
+	Tiro se
+	espalha
+	no acerto
 	"""
 	keyWait
 		any = true
@@ -398,9 +398,9 @@ script 22 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sonic atk
-	spreads
-	when hits
+	Tiro se
+	espalha
+	no acerto
 	"""
 	keyWait
 		any = true
@@ -416,9 +416,9 @@ script 23 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sonic atk
-	spreads
-	when hits
+	Tiro se
+	espalha
+	no acerto
 	"""
 	keyWait
 		any = true
@@ -435,8 +435,8 @@ script 24 mmbn5 {
 		delay = 0
 	"""
 	Shakey
-	shivers
-	3sq ahead
+	treme
+	a 3qdos
 	"""
 	keyWait
 		any = true
@@ -453,8 +453,8 @@ script 25 mmbn5 {
 		delay = 0
 	"""
 	Shakey
-	shivers
-	3sq ahead
+	treme
+	a 3qdos
 	"""
 	keyWait
 		any = true
@@ -471,8 +471,8 @@ script 26 mmbn5 {
 		delay = 0
 	"""
 	Shakey
-	shivers
-	3sq ahead
+	treme
+	a 3qdos
 	"""
 	keyWait
 		any = true
@@ -488,9 +488,9 @@ script 27 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	A static
-	blast 2sq
-	ahead
+	Explosão
+	estática
+	a 2qdos
 	"""
 	keyWait
 		any = true
@@ -506,9 +506,9 @@ script 28 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Makes HP
-	same as
-	enemy
+	PV ficam
+	iguais a
+	alvo
 	"""
 	keyWait
 		any = true
@@ -527,9 +527,9 @@ script 29 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throws a
-	minibomb
-	3sq ahead
+	Joga
+	minibomba
+	a 3 qdos
 	"""
 	keyWait
 		any = true
@@ -542,9 +542,9 @@ script 30 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throws a
-	bomb 3sq
-	ahead
+	Joga
+	bomba
+	a 3 qdos
 	"""
 	keyWait
 		any = true
@@ -560,9 +560,9 @@ script 31 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throws a
-	bomb 3sq
-	ahead
+	Joga
+	bomba
+	a 3 qdos
 	"""
 	keyWait
 		any = true
@@ -579,8 +579,8 @@ script 32 mmbn5 {
 		delay = 0
 	"""
 	Sunshine
-	appear w/
-	Button
+	aparece
+	c/ botão
 	"""
 	keyWait
 		any = true
@@ -597,8 +597,8 @@ script 33 mmbn5 {
 		delay = 0
 	"""
 	Sunshine
-	appear w/
-	Button
+	aparece
+	c/ botão
 	"""
 	keyWait
 		any = true
@@ -615,8 +615,8 @@ script 34 mmbn5 {
 		delay = 0
 	"""
 	Sunshine
-	appear w/
-	Button
+	aparece
+	c/ botão
 	"""
 	keyWait
 		any = true
@@ -633,8 +633,8 @@ script 35 mmbn5 {
 		delay = 0
 	"""
 	Quake
-	cracks
-	3sq ahead
+	racha a
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -651,8 +651,8 @@ script 36 mmbn5 {
 		delay = 0
 	"""
 	Quake
-	cracks
-	3sq ahead
+	racha a
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -669,8 +669,8 @@ script 37 mmbn5 {
 		delay = 0
 	"""
 	Quake
-	cracks
-	3sq ahead
+	racha a
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -686,9 +686,9 @@ script 38 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bomb
-	cracks
-	3sq ahead
+	Bomba
+	racha
+	a 3qdros
 	"""
 	keyWait
 		any = true
@@ -704,9 +704,9 @@ script 39 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bomb
-	paralyzes
-	3sq ahead
+	Bomba
+	paralisa
+	a 3qdros
 	"""
 	keyWait
 		any = true
@@ -722,9 +722,9 @@ script 40 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Reduces
-	power
-	3sq ahead
+	Enfraque-
+	ce 3qdos
+	à frente
 	"""
 	keyWait
 		any = true
@@ -740,9 +740,9 @@ script 41 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throws a
-	bug-bomb
-	3sq ahead
+	Bomba
+	inseto a
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -758,9 +758,9 @@ script 42 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Makes 9sq
-	meadow
-	3sq ahead
+	Campo vi-
+	ra grama
+	a 3qdos
 	"""
 	keyWait
 		any = true
@@ -776,9 +776,9 @@ script 43 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Makes 9sq
-	lava zone
-	3sq ahead
+	Campo vi-
+	ra lava
+	a 3qdos
 	"""
 	keyWait
 		any = true
@@ -794,9 +794,9 @@ script 44 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Breaks
-	3rd panel
-	ahead
+	Quebra
+	o 3º qdro
+	à frente
 	"""
 	keyWait
 		any = true
@@ -812,9 +812,9 @@ script 45 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Geyser 3
-	squares
-	forward
+	Gêiser
+	a 3
+	quadros
 	"""
 	keyWait
 		any = true
@@ -830,9 +830,9 @@ script 46 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Firebomb
-	hits 3rd
-	sq ahead!
+	BombaFogo
+	3 quadros
+	à frente!
 	"""
 	keyWait
 		any = true
@@ -848,9 +848,9 @@ script 47 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Makes 9sq
-	wtr zone
-	3sq ahead
+	Campo vi-
+	ra água
+	a 3qdos
 	"""
 	keyWait
 		any = true
@@ -866,9 +866,9 @@ script 48 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cuts enmy
-	in front!
-	Range: 1
+	Corta
+	alvo!
+	Dist: 1
 	"""
 	keyWait
 		any = true
@@ -884,9 +884,9 @@ script 49 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cuts enmy
-	in front!
-	Range: 3
+	Corta
+	alvo!
+	Dist: 3
 	"""
 	keyWait
 		any = true
@@ -902,9 +902,9 @@ script 50 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cuts enmy
-	in front!
-	Range: 2
+	Corta
+	alvo!
+	Dist: 2
 	"""
 	keyWait
 		any = true
@@ -920,9 +920,9 @@ script 51 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cuts enmy
-	in front!
-	Range: 3
+	Corta
+	alvo!
+	Dist: 3
 	"""
 	keyWait
 		any = true
@@ -938,9 +938,9 @@ script 52 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cuts enmy
-	in front!
-	Range: 2
+	Corta
+	alvo!
+	Dist: 2
 	"""
 	keyWait
 		any = true
@@ -956,9 +956,9 @@ script 53 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Blow enmy
-	in front!
-	Range: 3
+	Empurra
+	alvo!
+	Dist: 3
 	"""
 	keyWait
 		any = true
@@ -974,9 +974,9 @@ script 54 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cust
-	Gauge=
-	Atk Str
+	Barra
+	Cust=
+	Ataque
 	"""
 	keyWait
 		any = true
@@ -992,9 +992,9 @@ script 55 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	A magical
-	shifting
-	sword
+	Espada
+	mágica e
+	mutável
 	"""
 	keyWait
 		any = true
@@ -1010,9 +1010,8 @@ script 56 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cut while
-	A Button
-	is held
+	Segure A
+	e corte!
 	"""
 	keyWait
 		any = true
@@ -1028,9 +1027,8 @@ script 57 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slices
-	enemies
-	around
+	Fatia
+	alvos
 	"""
 	keyWait
 		any = true
@@ -1046,9 +1044,8 @@ script 58 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slices
-	enemies
-	around
+	Fatia
+	alvos
 	"""
 	keyWait
 		any = true
@@ -1064,9 +1061,8 @@ script 59 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slices
-	enemies
-	around
+	Fatia
+	alvos
 	"""
 	keyWait
 		any = true
@@ -1082,9 +1078,9 @@ script 60 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cut twice
-	once wide
-	once long
+	2 cortes,
+	1 largo e
+	1 longo
 	"""
 	keyWait
 		any = true
@@ -1100,9 +1096,9 @@ script 61 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cut twice
-	once wide
-	once long
+	2 cortes,
+	1 largo e
+	1 longo
 	"""
 	keyWait
 		any = true
@@ -1118,9 +1114,9 @@ script 62 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cut twice
-	once wide
-	once long
+	2 cortes,
+	1 largo e
+	1 longo
 	"""
 	keyWait
 		any = true
@@ -1136,9 +1132,9 @@ script 63 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3sq blast
-	if hits
-	end row
+	Bomba 3qd
+	se cair
+	lá atrás
 	"""
 	keyWait
 		any = true
@@ -1154,9 +1150,9 @@ script 64 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3sq blast
-	if hits
-	end row
+	Bomba 3qd
+	se cair
+	lá atrás
 	"""
 	keyWait
 		any = true
@@ -1172,9 +1168,9 @@ script 65 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3sq blast
-	if hits
-	end row
+	Bomba 3qd
+	se cair
+	lá atrás
 	"""
 	keyWait
 		any = true
@@ -1190,9 +1186,9 @@ script 66 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Hit apple
-	for
-	+300HP
+	Atinja
+	maçã:
+	+300PV
 	"""
 	keyWait
 		any = true
@@ -1208,9 +1204,9 @@ script 67 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Hit apple
-	for temp
-	no damage
+	Atinja
+	maçã: inv
+	tmporária
 	"""
 	keyWait
 		any = true
@@ -1226,9 +1222,9 @@ script 68 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Hit apple
-	for Full
-	Synchro
+	Atinja
+	maçã:
+	SincTotal
 	"""
 	keyWait
 		any = true
@@ -1244,9 +1240,9 @@ script 69 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Confuses
-	enemy if
-	it hits
+	Confunde
+	alvo se
+	atingir
 	"""
 	keyWait
 		any = true
@@ -1262,9 +1258,9 @@ script 70 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Confuses
-	enemy if
-	it hits
+	Confunde
+	alvo se
+	atingir
 	"""
 	keyWait
 		any = true
@@ -1280,9 +1276,9 @@ script 71 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Confuses
-	enemy if
-	it hits
+	Confunde
+	alvo se
+	atingir
 	"""
 	keyWait
 		any = true
@@ -1298,9 +1294,9 @@ script 72 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Knocks
-	enmy 2sq
-	away
+	Empurra
+	alvo
+	2qdros
 	"""
 	keyWait
 		any = true
@@ -1316,9 +1312,9 @@ script 73 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Knocks
-	enmy 2sq
-	away
+	Empurra
+	alvo
+	2qdros
 	"""
 	keyWait
 		any = true
@@ -1334,9 +1330,9 @@ script 74 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Knocks
-	enmy 2sq
-	away
+	Empurra
+	alvo
+	2qdros
 	"""
 	keyWait
 		any = true
@@ -1352,9 +1348,9 @@ script 75 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Explodes
-	3 seconds
-	later
+	Explode
+	3 segs.
+	depois
 	"""
 	keyWait
 		any = true
@@ -1370,9 +1366,9 @@ script 76 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Explodes
-	3 seconds
-	later
+	Explode
+	3 segs.
+	depois
 	"""
 	keyWait
 		any = true
@@ -1388,9 +1384,9 @@ script 77 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Explodes
-	3 seconds
-	later
+	Explode
+	3 segs.
+	depois
 	"""
 	keyWait
 		any = true
@@ -1407,8 +1403,8 @@ script 78 mmbn5 {
 		delay = 0
 	"""
 	Sensor2
-	ElecShock
-	3sq ahead
+	eltrocuta
+	a 3qdros
 	"""
 	keyWait
 		any = true
@@ -1425,8 +1421,8 @@ script 79 mmbn5 {
 		delay = 0
 	"""
 	Sensor2
-	ElecShock
-	3sq ahead
+	eltrocuta
+	a 3qdros
 	"""
 	keyWait
 		any = true
@@ -1443,8 +1439,8 @@ script 80 mmbn5 {
 		delay = 0
 	"""
 	Sensor2
-	ElecShock
-	3sq ahead
+	eltrocuta
+	a 3qdros
 	"""
 	keyWait
 		any = true
@@ -1460,9 +1456,9 @@ script 81 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Lance
-	through
-	back line
+	Lanças
+	na coluna
+	de trás
 	"""
 	keyWait
 		any = true
@@ -1478,9 +1474,9 @@ script 82 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Yoyo atk
-	reaches
-	3sq ahead
+	Ioiô
+	ataca até
+	3 qdros
 	"""
 	keyWait
 		any = true
@@ -1497,8 +1493,8 @@ script 83 mmbn5 {
 		delay = 0
 	"""
 	WindBox
-	blows at
-	enmy area
+	sopra
+	inimigos
 	"""
 	keyWait
 		any = true
@@ -1515,8 +1511,8 @@ script 84 mmbn5 {
 		delay = 0
 	"""
 	Vacuum
-	fan pulls
-	enemy in
+	suga
+	inimigos
 	"""
 	keyWait
 		any = true
@@ -1533,8 +1529,8 @@ script 85 mmbn5 {
 		delay = 0
 	"""
 	BoyBomb
-	1sq ahead
-	Push it!
+	a 1 qdro.
+	Empurre!
 	"""
 	keyWait
 		any = true
@@ -1551,8 +1547,8 @@ script 86 mmbn5 {
 		delay = 0
 	"""
 	BoyBomb
-	1sq ahead
-	Push it!
+	a 1 qdro.
+	Empurre!
 	"""
 	keyWait
 		any = true
@@ -1569,8 +1565,8 @@ script 87 mmbn5 {
 		delay = 0
 	"""
 	BoyBomb
-	1sq ahead
-	Push it!
+	a 1 qdro.
+	Empurre!
 	"""
 	keyWait
 		any = true
@@ -1586,9 +1582,9 @@ script 88 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Repels a
-	enemy's
-	attack
+	Repele
+	ataque
+	inimigo
 	"""
 	keyWait
 		any = true
@@ -1604,9 +1600,9 @@ script 89 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Repels a
-	enemy's
-	attack
+	Repele
+	ataque
+	inimigo
 	"""
 	keyWait
 		any = true
@@ -1622,9 +1618,9 @@ script 90 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Repels a
-	enemy's
-	attack
+	Repele
+	ataque
+	inimigo
 	"""
 	keyWait
 		any = true
@@ -1640,9 +1636,9 @@ script 91 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Destroys
-	1 panel
-	in front
+	Quebra 1
+	quadro à
+	frente
 	"""
 	keyWait
 		any = true
@@ -1658,9 +1654,9 @@ script 92 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Destroys
-	2 panels
-	in front
+	Quebra 2
+	quadros à
+	frente
 	"""
 	keyWait
 		any = true
@@ -1676,9 +1672,9 @@ script 93 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Destroys
-	3 panels
-	in front
+	Quebra 3
+	quadros à
+	frente
 	"""
 	keyWait
 		any = true
@@ -1695,8 +1691,8 @@ script 94 mmbn5 {
 		delay = 0
 	"""
 	Cursor
-	destroys
-	panels!
+	destrói
+	quadros!
 	"""
 	keyWait
 		any = true
@@ -1712,9 +1708,9 @@ script 95 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Gel atk
-	steals a
-	panel!
+	Rouba
+	coluna e
+	ataca!
 	"""
 	keyWait
 		any = true
@@ -1730,9 +1726,9 @@ script 96 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Call snak
-	from hole
-	in area
+	Cobra sai
+	de buraco
+	na área
 	"""
 	keyWait
 		any = true
@@ -1748,9 +1744,9 @@ script 97 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Stop site
-	w/ Button
-	and attck
+	Pare mira
+	c/ A e
+	ataque
 	"""
 	keyWait
 		any = true
@@ -1766,9 +1762,9 @@ script 98 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Place a
-	mine in
-	enmy area
+	Planta
+	mina no
+	alvo
 	"""
 	keyWait
 		any = true
@@ -1784,9 +1780,9 @@ script 99 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Place a
-	rock cube
-	in front
+	Cria cubo
+	de pedra
+	à frente
 	"""
 	keyWait
 		any = true
@@ -1802,9 +1798,9 @@ script 100 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Take no
-	dmg for a
-	while
+	Invencí-
+	vel por
+	um tempo
 	"""
 	keyWait
 		any = true
@@ -1820,9 +1816,9 @@ script 101 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Confuses
-	enemies
-	w/ music
+	Confunde
+	alvos c/
+	música
 	"""
 	keyWait
 		any = true
@@ -1838,9 +1834,9 @@ script 102 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Paralyzes
-	enemies
-	w/ music
+	Paralisa
+	alvos c/
+	música
 	"""
 	keyWait
 		any = true
@@ -1856,9 +1852,9 @@ script 103 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throws
-	Vdoll
-	ahead
+	Joga
+	VDoll
+	em frente
 	"""
 	keyWait
 		any = true
@@ -1874,9 +1870,9 @@ script 104 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Meteors
-	crack
-	panels!
+	Meteoros
+	racham
+	quadros!
 	"""
 	keyWait
 		any = true
@@ -1892,9 +1888,9 @@ script 105 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Meteors
-	crack
-	panels!
+	Meteoros
+	racham
+	quadros!
 	"""
 	keyWait
 		any = true
@@ -1910,9 +1906,9 @@ script 106 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Meteors
-	crack
-	panels!
+	Meteoros
+	racham
+	quadros!
 	"""
 	keyWait
 		any = true
@@ -1928,8 +1924,8 @@ script 107 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	10HP
+	Restaura
+	10PV
 	"""
 	keyWait
 		any = true
@@ -1945,8 +1941,8 @@ script 108 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	30HP
+	Restaura
+	30PV
 	"""
 	keyWait
 		any = true
@@ -1962,8 +1958,8 @@ script 109 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	50HP
+	Restaura
+	50PV
 	"""
 	keyWait
 		any = true
@@ -1979,8 +1975,8 @@ script 110 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	80HP
+	Restaura
+	80PV
 	"""
 	keyWait
 		any = true
@@ -1996,8 +1992,8 @@ script 111 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	120HP
+	Restaura
+	120PV
 	"""
 	keyWait
 		any = true
@@ -2013,8 +2009,8 @@ script 112 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	150HP
+	Restaura
+	150PV
 	"""
 	keyWait
 		any = true
@@ -2030,8 +2026,8 @@ script 113 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	200HP
+	Restaura
+	200PV
 	"""
 	keyWait
 		any = true
@@ -2047,8 +2043,8 @@ script 114 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Recovers
-	300HP
+	Restaura
+	300PV
 	"""
 	keyWait
 		any = true
@@ -2064,9 +2060,9 @@ script 115 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Power
-	goes up
-	by 1
+	Força
+	aumenta
+	em 1
 	"""
 	keyWait
 		any = true
@@ -2082,9 +2078,9 @@ script 116 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Steals 1
-	enemy
-	square!
+	Rouba 1
+	qdro do
+	inimigo
 	"""
 	keyWait
 		any = true
@@ -2100,9 +2096,9 @@ script 117 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Steals
-	left edge
-	from enmy
+	Rouba
+	coluna do
+	inimigo
 	"""
 	keyWait
 		any = true
@@ -2118,9 +2114,9 @@ script 118 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	40 damage
-	for every
-	stolen sq
+	40 dano
+	por qdro
+	roubado
 	"""
 	keyWait
 		any = true
@@ -2136,9 +2132,9 @@ script 119 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	20 damage
-	for every
-	stolen sq
+	20 dano
+	por qdro
+	roubado
 	"""
 	keyWait
 		any = true
@@ -2154,9 +2150,9 @@ script 120 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	CustGauge
-	Temporary
-	slow-down
+	Desacele-
+	ra Barra
+	de Cust.
 	"""
 	keyWait
 		any = true
@@ -2172,9 +2168,9 @@ script 121 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	CustGauge
-	Temporary
-	speed-up
+	Acelera
+	Barra de
+	Cust.
 	"""
 	keyWait
 		any = true
@@ -2190,9 +2186,9 @@ script 122 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fix your
-	area's
-	panels
+	Conserta
+	seus
+	quadros
 	"""
 	keyWait
 		any = true
@@ -2208,9 +2204,9 @@ script 123 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Cracks
-	all panel
-	on screen
+	Racha
+	todos os
+	quadros
 	"""
 	keyWait
 		any = true
@@ -2226,9 +2222,9 @@ script 124 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Breaks
-	all empty
-	panels
+	Quebra
+	quadros
+	vazios
 	"""
 	keyWait
 		any = true
@@ -2244,9 +2240,9 @@ script 125 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Turns all
-	panels to
-	swamp
+	O campo
+	vira
+	pântano
 	"""
 	keyWait
 		any = true
@@ -2262,9 +2258,9 @@ script 126 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Rains
-	down on
-	enmy area
+	Chove na
+	área dos
+	alvos
 	"""
 	keyWait
 		any = true
@@ -2280,9 +2276,9 @@ script 127 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	+10 for
-	next chip
-	attack
+	+10 para
+	próximo
+	chip
 	"""
 	keyWait
 		any = true
@@ -2298,9 +2294,9 @@ script 128 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Powers up
-	when over
-	elem sq
+	+ Forte
+	sobre qdo
+	elemental
 	"""
 	keyWait
 		any = true
@@ -2316,9 +2312,9 @@ script 129 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Blinds
-	enemy w/
-	light
+	Cega
+	alvos
+	c/ luz
 	"""
 	keyWait
 		any = true
@@ -2334,9 +2330,8 @@ script 130 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Spits out
-	hurricane
-	attack
+	Ataque
+	furacão
 	"""
 	keyWait
 		any = true
@@ -2352,9 +2347,8 @@ script 131 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Spits out
-	hurricane
-	attack
+	Ataque
+	furacão
 	"""
 	keyWait
 		any = true
@@ -2370,9 +2364,8 @@ script 132 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Spits out
-	hurricane
-	attack
+	Ataque
+	furacão
 	"""
 	keyWait
 		any = true
@@ -2388,9 +2381,9 @@ script 133 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Invisibl
-	for a
-	while
+	Invisível
+	por um
+	tempo
 	"""
 	keyWait
 		any = true
@@ -2406,9 +2399,9 @@ script 134 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Weak
-	against
-	elec atk
+	Fraco
+	contra
+	elet.
 	"""
 	keyWait
 		any = true
@@ -2424,9 +2417,9 @@ script 135 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Nullifies
-	10 HP of
-	damage
+	Anula
+	10 PV de
+	dano
 	"""
 	keyWait
 		any = true
@@ -2442,9 +2435,9 @@ script 136 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Nullifies
-	100 HP of
-	damage
+	Anula
+	100 PV de
+	dano
 	"""
 	keyWait
 		any = true
@@ -2460,9 +2453,9 @@ script 137 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Nullifies
-	200 HP of
-	damage
+	Anula
+	200 PV de
+	dano
 	"""
 	keyWait
 		any = true
@@ -2478,9 +2471,9 @@ script 138 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Wind blws
-	off aura,
-	barriers
+	Retira
+	aura e
+	barreiras
 	"""
 	keyWait
 		any = true
@@ -2496,9 +2489,9 @@ script 139 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Creates a
-	HolyPanl
-	in front
+	Cria
+	QdroSgrd
+	à frente
 	"""
 	keyWait
 		any = true
@@ -2514,9 +2507,9 @@ script 140 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fire atk
-	damages
-	you
+	Fogo
+	te
+	machuca
 	"""
 	keyWait
 		any = true
@@ -2532,9 +2525,9 @@ script 141 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Water atk
-	damages
-	you
+	Água
+	te
+	machuca
 	"""
 	keyWait
 		any = true
@@ -2550,9 +2543,9 @@ script 142 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Elec atk
-	damages
-	you
+	Elet.
+	te
+	machuca
 	"""
 	keyWait
 		any = true
@@ -2568,9 +2561,9 @@ script 143 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Wood atk
-	damages
-	you
+	Madeira
+	te
+	machuca
 	"""
 	keyWait
 		any = true
@@ -2586,9 +2579,9 @@ script 144 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Takes the
-	enemy's
-	Navi away
+	Rouba
+	ChipNavi
+	do alvo
 	"""
 	keyWait
 		any = true
@@ -2604,9 +2597,9 @@ script 145 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sets trap
-	and throw
-	stars
+	Armadilha
+	e joga
+	shuriken
 	"""
 	keyWait
 		any = true
@@ -2622,9 +2615,9 @@ script 146 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Retaliate
-	for sword
-	damage
+	Contra-
+	ataca
+	espadas
 	"""
 	keyWait
 		any = true
@@ -2640,9 +2633,9 @@ script 147 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Damages
-	enemy in
-	recovery
+	Fere
+	alvo que
+	se curam
 	"""
 	keyWait
 		any = true
@@ -2658,9 +2651,9 @@ script 148 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Duplicate
-	damage to
-	2nd enemy
+	Copia
+	dano em
+	2o.alvo
 	"""
 	keyWait
 		any = true
@@ -2676,9 +2669,9 @@ script 149 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	+10 for
-	selected
-	atk chip
+	+10 para
+	chip se-
+	lecionado
 	"""
 	keyWait
 		any = true
@@ -2694,9 +2687,9 @@ script 150 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	+20 for
-	selected
-	Navi chip
+	+20 para
+	ChipNavi
+	escolhido
 	"""
 	keyWait
 		any = true
@@ -2712,9 +2705,9 @@ script 151 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slams
-	closest
-	enemy
+	Esmaga
+	alvo
+	próximo
 	"""
 	keyWait
 		any = true
@@ -2730,9 +2723,9 @@ script 152 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slams
-	closest
-	enemy
+	Esmaga
+	alvo
+	próximo
 	"""
 	keyWait
 		any = true
@@ -2748,9 +2741,9 @@ script 153 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slams
-	closest
-	enemy
+	Esmaga
+	alvo
+	próximo
 	"""
 	keyWait
 		any = true
@@ -2766,9 +2759,9 @@ script 154 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Burns all
-	enemies
-	around
+	Queima
+	alvos ao
+	redor
 	"""
 	keyWait
 		any = true
@@ -2784,9 +2777,9 @@ script 155 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Burns all
-	enemies
-	around
+	Queima
+	alvos ao
+	redor
 	"""
 	keyWait
 		any = true
@@ -2802,9 +2795,9 @@ script 156 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Burns all
-	enemies
-	around
+	Queima
+	alvos ao
+	redor
 	"""
 	keyWait
 		any = true
@@ -2820,9 +2813,9 @@ script 157 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Whirlwind
-	makes
-	water sq
+	Rdemoinho
+	cria qdro
+	de água
 	"""
 	keyWait
 		any = true
@@ -2838,9 +2831,9 @@ script 158 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Whirlwind
-	makes
-	water sq
+	Rdemoinho
+	cria qdro
+	de água
 	"""
 	keyWait
 		any = true
@@ -2856,9 +2849,9 @@ script 159 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Whirlwind
-	makes
-	water sq
+	Rdemoinho
+	cria qdro
+	de água
 	"""
 	keyWait
 		any = true
@@ -2874,9 +2867,9 @@ script 160 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bubbles
-	spread in
-	a big V
+	Bolhas
+	explodem
+	em V
 	"""
 	keyWait
 		any = true
@@ -2892,9 +2885,9 @@ script 161 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bubbles
-	spread in
-	a big V
+	Bolhas
+	explodem
+	em V
 	"""
 	keyWait
 		any = true
@@ -2910,9 +2903,9 @@ script 162 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bubbles
-	spread in
-	a big V
+	Bolhas
+	explodem
+	em V
 	"""
 	keyWait
 		any = true
@@ -2928,9 +2921,9 @@ script 163 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Elec wire
-	shocks
-	enemies
+	Fio elét.
+	corre
+	por alvos
 	"""
 	keyWait
 		any = true
@@ -2946,9 +2939,9 @@ script 164 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Elec wire
-	shocks
-	enemies
+	Fio elét.
+	corre
+	por alvos
 	"""
 	keyWait
 		any = true
@@ -2964,9 +2957,9 @@ script 165 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Elec wire
-	shocks
-	enemies
+	Fio elét.
+	corre
+	por alvos
 	"""
 	keyWait
 		any = true
@@ -2982,9 +2975,9 @@ script 166 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Consumes
-	Custom
-	Gauge
+	Consome
+	Barra
+	Cust.
 	"""
 	keyWait
 		any = true
@@ -3000,9 +2993,9 @@ script 167 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Consumes
-	Custom
-	Gauge
+	Consome
+	Barra
+	Cust.
 	"""
 	keyWait
 		any = true
@@ -3018,9 +3011,9 @@ script 168 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Consumes
-	Custom
-	Gauge
+	Consome
+	Barra
+	Cust.
 	"""
 	keyWait
 		any = true
@@ -3036,9 +3029,9 @@ script 169 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Attacks
-	even when
-	guarding!
+	Ataca
+	até ao
+	defender!
 	"""
 	keyWait
 		any = true
@@ -3054,9 +3047,9 @@ script 170 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Attacks
-	even when
-	guarding!
+	Ataca
+	até ao
+	defender!
 	"""
 	keyWait
 		any = true
@@ -3072,9 +3065,9 @@ script 171 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Attacks
-	even when
-	guarding!
+	Ataca
+	até ao
+	defender!
 	"""
 	keyWait
 		any = true
@@ -3090,8 +3083,9 @@ script 172 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Wave from
-	Water sq
+	Onda de
+	qdro de
+	água
 	"""
 	keyWait
 		any = true
@@ -3108,8 +3102,8 @@ script 173 mmbn5 {
 		delay = 0
 	"""
 	RedWave
-	out of
-	Lava sq
+	de qdro
+	de lava
 	"""
 	keyWait
 		any = true
@@ -3126,8 +3120,8 @@ script 174 mmbn5 {
 		delay = 0
 	"""
 	MudWave
-	out of
-	hole
+	de
+	buraco
 	"""
 	keyWait
 		any = true
@@ -3143,9 +3137,9 @@ script 175 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Jumps
-	forward
-	4 times
+	Pula em
+	frente
+	4 vezes
 	"""
 	keyWait
 		any = true
@@ -3161,9 +3155,9 @@ script 176 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Jumps
-	forward
-	4 times
+	Pula em
+	frente
+	4 vezes
 	"""
 	keyWait
 		any = true
@@ -3179,9 +3173,9 @@ script 177 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Jumps
-	forward
-	4 times
+	Pula em
+	frente
+	4 vezes
 	"""
 	keyWait
 		any = true
@@ -3197,9 +3191,9 @@ script 178 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Branch
-	grows out
-	from side
+	Galho
+	nasce da
+	lateral
 	"""
 	keyWait
 		any = true
@@ -3215,9 +3209,9 @@ script 179 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Branch
-	grows out
-	from side
+	Galho
+	nasce da
+	lateral
 	"""
 	keyWait
 		any = true
@@ -3233,9 +3227,9 @@ script 180 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Branch
-	grows out
-	from side
+	Galho
+	nasce da
+	lateral
 	"""
 	keyWait
 		any = true
@@ -3335,9 +3329,9 @@ script 187 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	STOP
-	CURSR AND
-	ATTACK
+	PARE
+	CURSOR
+	E ATAQUE
 	"""
 	keyWait
 		any = true
@@ -3353,9 +3347,9 @@ script 188 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	USE LARGE
-	SWORD AND
-	SLICE
+	CORTA C/
+	ESPADA
+	GRANDE
 	"""
 	keyWait
 		any = true
@@ -3371,9 +3365,9 @@ script 189 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	RELEASE
-	YOUR
-	DARKNESS
+	LIBERE
+	SUA
+	ESCURIDÃO
 	"""
 	keyWait
 		any = true
@@ -3389,8 +3383,8 @@ script 190 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	NEXT CHIP
-	ATK
+	PRÓXIMO
+	CHIP
 	+50
 	"""
 	keyWait
@@ -3407,9 +3401,9 @@ script 191 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	ATK ENMY
-	FROM
-	BEHIND
+	ATAQUE
+	ALVO
+	DE TRÁS
 	"""
 	keyWait
 		any = true
@@ -3425,9 +3419,9 @@ script 192 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	WIDE SHOT
-	PIERCES
-	THE ENMY
+	TIRO LAR-
+	GO FURA
+	ALVOS
 	"""
 	keyWait
 		any = true
@@ -3443,9 +3437,9 @@ script 193 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	CORNER
-	ENMY BY
-	THUNDER
+	ENCURRALA
+	ALVO COM
+	TROVÃO
 	"""
 	keyWait
 		any = true
@@ -3461,9 +3455,9 @@ script 194 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	BECOME
-	ALMOST
-	INVINCBLE
+	FICA
+	QUASE IN-
+	VENCÍVEL
 	"""
 	keyWait
 		any = true
@@ -3479,9 +3473,9 @@ script 195 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	METEOR
-	SHOWER
-	ON ENMY
+	CHUVA DE
+	METEOROS
+	NOS ALVOS
 	"""
 	keyWait
 		any = true
@@ -3497,9 +3491,9 @@ script 196 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	LETHAL
-	DRILL OF
-	DARKNESS
+	BROCA
+	LETAL DAS
+	TREVAS
 	"""
 	keyWait
 		any = true
@@ -3516,8 +3510,8 @@ script 197 mmbn5 {
 		delay = 0
 	"""
 	TORNADO
-	EXPANDS
-	WHEN HIT
+	CRESCE AO
+	ATINGIR
 	"""
 	keyWait
 		any = true
@@ -3533,9 +3527,8 @@ script 198 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	PARALYZE
-	THE
-	ENEMY
+	PARALISA
+	INIMIGO
 	"""
 	keyWait
 		any = true
@@ -3550,7 +3543,7 @@ script 199 mmbn5 {
 		arrowPos = 1
 	textSpeed
 		delay = 0
-	"EXTRA TREASURE3"
+	"TESOURO EXTRA3"
 	keyWait
 		any = true
 	end
@@ -3564,7 +3557,7 @@ script 200 mmbn5 {
 		arrowPos = 1
 	textSpeed
 		delay = 0
-	"EXTRA TREASURE4"
+	"TESOURO EXTRA4"
 	keyWait
 		any = true
 	end
@@ -3579,9 +3572,9 @@ script 201 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Repel all
-	attacks
-	under200
+	Repele
+	menos de
+	200 dano
 	"""
 	keyWait
 		any = true
@@ -3597,9 +3590,8 @@ script 202 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Atk power
-	equal amt
-	of lostHP
+	Atq = PV
+	perdidos
 	"""
 	keyWait
 		any = true
@@ -3615,9 +3607,9 @@ script 203 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Statue
-	punishes
-	when hit
+	Estátua
+	machuca
+	se atacda
 	"""
 	keyWait
 		any = true
@@ -3634,8 +3626,8 @@ script 204 mmbn5 {
 		delay = 0
 	"""
 	Anubis
-	poisons
-	enemies
+	envenena
+	alvos
 	"""
 	keyWait
 		any = true
@@ -3651,9 +3643,9 @@ script 205 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	+30 for
-	selected
-	atk chip
+	+30 para
+	chip se-
+	lecionado
 	"""
 	keyWait
 		any = true
@@ -3669,8 +3661,8 @@ script 206 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Repairs &
-	removes
+	Cura e
+	remove
 	bugs
 	"""
 	keyWait
@@ -3687,9 +3679,9 @@ script 207 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	+20 for
-	next chip
-	attack
+	+20 para
+	próximo
+	chip
 	"""
 	keyWait
 		any = true
@@ -3705,9 +3697,9 @@ script 208 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Chng all
-	own panel
-	to holy
+	Campo
+	vira
+	sagrado
 	"""
 	keyWait
 		any = true
@@ -3723,9 +3715,8 @@ script 209 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	CustGauge
-	instantly
-	refills
+	Enche
+	BarraCust
 	"""
 	keyWait
 		any = true
@@ -3741,9 +3732,9 @@ script 210 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Drop many
-	meteor on
-	enmy area
+	Joga
+	meteoros
+	nos alvos
 	"""
 	keyWait
 		any = true
@@ -3759,9 +3750,9 @@ script 211 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Last 2
-	HP digits
-	= atk pwr
+	Últimos 2
+	dígts PV=
+	ataque
 	"""
 	keyWait
 		any = true
@@ -3777,9 +3768,9 @@ script 212 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	More dmg
-	if enemy
-	has chip
+	Mais
+	chips,
+	mais dano
 	"""
 	keyWait
 		any = true
@@ -3795,9 +3786,9 @@ script 213 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Objects
-	thrown at
-	enemies!
+	Arremessa
+	objetos
+	no campo
 	"""
 	keyWait
 		any = true
@@ -3813,9 +3804,9 @@ script 214 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Wing atk
-	from a
-	cave
+	Atq de
+	asa de
+	caverna
 	"""
 	keyWait
 		any = true
@@ -3831,9 +3822,9 @@ script 215 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Put Otnko
-	to raise
-	atk pwr
+	Otnko
+	aumenta
+	ataque
 	"""
 	keyWait
 		any = true
@@ -3849,9 +3840,9 @@ script 216 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fist Atk
-	on center
-	panel
+	Soco no
+	quadro
+	central
 	"""
 	keyWait
 		any = true
@@ -3867,9 +3858,9 @@ script 217 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	A magical
-	shifting
-	sword
+	Espada
+	mágica e
+	mutável
 	"""
 	keyWait
 		any = true
@@ -3888,9 +3879,9 @@ script 218 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Repliroid
-	swrd cuts
-	3 times
+	Espada
+	Reploide,
+	3 golpes
 	"""
 	keyWait
 		any = true
@@ -3906,9 +3897,9 @@ script 219 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fires a
-	spread
-	sunbeam
+	Dispara
+	raio
+	solar
 	"""
 	keyWait
 		any = true
@@ -3924,9 +3915,9 @@ script 220 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	12-shot
-	vulcan
-	cannon
+	Metralha-
+	dora de
+	12 tiros
 	"""
 	keyWait
 		any = true
@@ -3942,9 +3933,9 @@ script 221 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Attack an
-	enmy,then
-	heals you
+	Ataca
+	alvo e
+	te cura
 	"""
 	keyWait
 		any = true
@@ -3960,9 +3951,9 @@ script 222 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Attack an
-	enmy,then
-	heals you
+	Ataca
+	alvo e
+	te cura
 	"""
 	keyWait
 		any = true
@@ -3978,9 +3969,9 @@ script 223 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Attack an
-	enmy,then
-	heals you
+	Ataca
+	alvo e
+	te cura
 	"""
 	keyWait
 		any = true
@@ -3996,9 +3987,9 @@ script 224 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bombs the
-	front of
-	same row
+	Bombrdeia
+	à frente
+	na linha
 	"""
 	keyWait
 		any = true
@@ -4014,9 +4005,9 @@ script 225 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bombs the
-	front of
-	same row
+	Bombrdeia
+	à frente
+	na linha
 	"""
 	keyWait
 		any = true
@@ -4032,9 +4023,9 @@ script 226 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bombs the
-	front of
-	same row
+	Bombrdeia
+	à frente
+	na linha
 	"""
 	keyWait
 		any = true
@@ -4050,9 +4041,9 @@ script 227 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Explosion
-	spreads
-	9 panels
+	Explosão
+	cobra
+	9 qdros
 	"""
 	keyWait
 		any = true
@@ -4068,9 +4059,9 @@ script 228 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Explosion
-	spreads
-	9 panels
+	Explosão
+	cobra
+	9 qdros
 	"""
 	keyWait
 		any = true
@@ -4086,9 +4077,9 @@ script 229 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Explosion
-	spreads
-	9 panels
+	Explosão
+	cobra
+	9 qdros
 	"""
 	keyWait
 		any = true
@@ -4104,9 +4095,9 @@ script 230 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Aim
-	and fire
-	5 shots
+	Mira e
+	atira
+	5 vezes
 	"""
 	keyWait
 		any = true
@@ -4122,9 +4113,9 @@ script 231 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Aim
-	and fire
-	5 shots
+	Mira e
+	atira
+	5 vezes
 	"""
 	keyWait
 		any = true
@@ -4140,9 +4131,9 @@ script 232 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Aim
-	and fire
-	5 shots
+	Mira e
+	atira
+	5 vezes
 	"""
 	keyWait
 		any = true
@@ -4158,8 +4149,8 @@ script 233 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	NS tackle
-	and chrge
+	Investida
+	e carga
 	"""
 	keyWait
 		any = true
@@ -4175,8 +4166,8 @@ script 234 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	NS tackle
-	and chrge
+	Investida
+	e carga
 	"""
 	keyWait
 		any = true
@@ -4192,8 +4183,8 @@ script 235 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	NS tackle
-	and chrge
+	Investida
+	e carga
 	"""
 	keyWait
 		any = true
@@ -4209,9 +4200,9 @@ script 236 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 2
-	bombs to
-	enmy area
+	Joga 2
+	bombas
+	nos alvos
 	"""
 	keyWait
 		any = true
@@ -4227,9 +4218,9 @@ script 237 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 2
-	bombs to
-	enmy area
+	Joga 2
+	bombas
+	nos alvos
 	"""
 	keyWait
 		any = true
@@ -4245,9 +4236,9 @@ script 238 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 2
-	bombs to
-	enmy area
+	Joga 2
+	bombas
+	nos alvos
 	"""
 	keyWait
 		any = true
@@ -4263,9 +4254,9 @@ script 239 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Move in
-	and slice
-	the enemy
+	Chega
+	no alvo
+	e corta
 	"""
 	keyWait
 		any = true
@@ -4281,9 +4272,9 @@ script 240 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Move in
-	and slice
-	the enemy
+	Chega
+	no alvo
+	e corta
 	"""
 	keyWait
 		any = true
@@ -4299,9 +4290,9 @@ script 241 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Move in
-	and slice
-	the enemy
+	Chega
+	no alvo
+	e corta
 	"""
 	keyWait
 		any = true
@@ -4317,9 +4308,9 @@ script 242 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bomb 3
-	ahead!
-	Hits 9sq
+	3 bombas
+	à frente!
+	9 qdros
 	"""
 	keyWait
 		any = true
@@ -4335,9 +4326,9 @@ script 243 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bomb 3
-	ahead!
-	Hits 9sq
+	3 bombas
+	à frente!
+	9 qdros
 	"""
 	keyWait
 		any = true
@@ -4353,9 +4344,9 @@ script 244 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Bomb 3
-	ahead!
-	Hits 9sq
+	3 bombas
+	à frente!
+	9 qdros
 	"""
 	keyWait
 		any = true
@@ -4371,9 +4362,9 @@ script 245 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slice
-	enemy in
-	same row
+	Corta
+	alvo na
+	linha
 	"""
 	keyWait
 		any = true
@@ -4389,9 +4380,9 @@ script 246 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slice
-	enemy in
-	same row
+	Corta
+	alvo na
+	linha
 	"""
 	keyWait
 		any = true
@@ -4407,9 +4398,9 @@ script 247 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slice
-	enemy in
-	same row
+	Corta
+	alvo na
+	linha
 	"""
 	keyWait
 		any = true
@@ -4425,9 +4416,8 @@ script 248 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 3
-	ninja
-	stars
+	Joga 3
+	shurikens
 	"""
 	keyWait
 		any = true
@@ -4443,9 +4433,8 @@ script 249 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 3
-	ninja
-	stars
+	Joga 3
+	shurikens
 	"""
 	keyWait
 		any = true
@@ -4461,9 +4450,8 @@ script 250 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Throw 3
-	ninja
-	stars
+	Joga 3
+	shurikens
 	"""
 	keyWait
 		any = true
@@ -4479,8 +4467,8 @@ script 251 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slice 2sq
-	side,3sq
+	Corta 2qd
+	horiz., 3
 	vertical
 	"""
 	keyWait
@@ -4497,8 +4485,8 @@ script 252 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slice 2sq
-	side,3sq
+	Corta 2qd
+	horiz., 3
 	vertical
 	"""
 	keyWait
@@ -4515,8 +4503,8 @@ script 253 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Slice 2sq
-	side,3sq
+	Corta 2qd
+	horiz., 3
 	vertical
 	"""
 	keyWait
@@ -4533,9 +4521,9 @@ script 254 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Circle
-	around
-	and atk
+	Bola
+	ataca
+	ao redor
 	"""
 	keyWait
 		any = true
@@ -4551,9 +4539,9 @@ script 255 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Circle
-	around
-	and atk
+	Bola
+	ataca
+	ao redor
 	"""
 	keyWait
 		any = true

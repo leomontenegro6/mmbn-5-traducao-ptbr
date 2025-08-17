@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ACDC TOWN IS
-	SO NICE AND
-	QUIET LATELY.
+	O BAIRRO ACDC ANDA TÃO
+	AGRADÁVEL E TRANQUILO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A PEACEFUL NET
-	IS A GOOD NET!
+	UMA REDE PACÍFICA
+	É UMA BOA REDE!
 	"""
 	keyWait
 		any = false
@@ -25,23 +24,23 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Ever hear of
-	End City?
+	Já ouviu falar da
+	Cidade de Endo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hear it's great
-	for sightseeing but
-	I've never been.
+	Parece que é um ponto
+	turístico incrível, mas
+	eu nunca fui lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone! Anyone!
-	Take me there!
+	Alguém! Qualquer um!
+	Me leva lá!
 	"""
 	keyWait
 		any = false
@@ -52,17 +51,17 @@ script 2 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Lots of areas have
-	been liberated from
-	Nebula's dark hands!
+	Várias áreas foram
+	libertadas das mãos
+	nojentas da Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it thanks
-	to that famous
-	team of Navis?
+	Será que isso é graças
+	àquela equipe famosa de
+	Navis?
 	"""
 	keyWait
 		any = false
@@ -73,9 +72,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WAR⋯ ⋯NG!
-	JA⋯
-	⋯ATELY!
+	ALER... TA...
+	DESC...
+	...DIATAMENTE!
 	"""
 	keyWait
 		any = false
@@ -83,9 +82,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -96,8 +95,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Wha⋯ worl⋯
-	is⋯ er⋯?
+	O qu... é...
+	qu... ilo...?
 	"""
 	keyWait
 		any = false
@@ -105,9 +104,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -118,16 +117,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NEBULA IS REALLY
-	WEARING ME DOWN.
+	A NEBULA ESTÁ ME
+	CANSANDO PARA VALER.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S HARD TO GET
-	ANY WORK DONE THESE
-	DAYS.
+	ANDA TÃO DIFÍCIL
+	TRABALHAR DIREITO,
+	ESTES DIAS.
 	"""
 	keyWait
 		any = false
@@ -138,13 +137,13 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	All the connections
-	are back to normal!
+	Todas as conexões
+	voltaram ao normal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a relief!"
+	"Ufa, que alívio!"
 	keyWait
 		any = false
 	end
@@ -154,15 +153,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	ACDC AREA1!
+	BEM-VINDO À ÁREA
+	ACDC 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW CAN WE
-	HELP YOU?
+	COMO PODEMOS LHE
+	AJUDAR?
 	"""
 	keyWait
 		any = false
@@ -173,16 +172,16 @@ script 31 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I love the
-	ACDC Area.
+	Eu amo tanto a
+	Área ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It feels like
-	home. What
-	do you think?
+	Ela realmente me faz
+	sentir... em casa.
+	E você?
 	"""
 	keyWait
 		any = false
@@ -193,9 +192,9 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SCILAB AREA
-	SEEMS TO BE
-	IN TROUBLE⋯
+	PARECE QUE A ÁREA
+	SCILAB ESTÁ EM
+	APUROS...
 	"""
 	keyWait
 		any = false
@@ -205,7 +204,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"What happened?"
+	"O que aconteceu?"
 	keyWait
 		any = false
 	end
@@ -215,9 +214,8 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME!
-	THIS IS ACDC
-	AREA1!
+	BEM-VINDO!
+	ESTA É A ÁREA ACDC 1!
 	"""
 	keyWait
 		any = false
@@ -228,15 +226,15 @@ script 51 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Undernet?
-	It's baaaad!
+	A Undernet?
+	Treeeeta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't even mention
-	the name! Baaad!
+	Nem fale o nome dela!
+	É treeeeeta!
 	"""
 	keyWait
 		any = false
@@ -247,22 +245,22 @@ script 52 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	SciLab HP got hit
-	yesterday.
+	A página do SciLab foi
+	atacada ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is Nebula
-	up to?
+	O que a Nebula está
+	tramando?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is really
-	getting serious.
+	A situação está ficando
+	bem séria.
 	"""
 	keyWait
 		any = false

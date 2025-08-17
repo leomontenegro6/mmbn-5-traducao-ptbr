@@ -4,14 +4,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I suppose,as it's
-	you,I can part with
-	this⋯
+	Acho que, se for pra
+	você, eu posso abrir
+	mão disto...
 	"""
 	keyWait
 		any = false
@@ -28,8 +28,8 @@ script 1 mmbn5 {
 		timer = 0
 		value = 1
 	"""
-	MegaMan got:
-	"KtnaData"!!!
+	MegaMan adquiriu:
+	"Dados da Katana"!!!
 	"""
 	keyWait
 		any = false
@@ -43,8 +43,7 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Keep up the good
-	work⋯
+	Continue assim...
 	"""
 	keyWait
 		any = false

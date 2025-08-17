@@ -43,48 +43,49 @@ script 2 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	One of the chips I
-	bought online was
-	kinda strange.
+	Eu comprei um chip
+	online que é meio
+	esquisito...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a weird-colored
-	"WideSht." I'm not
-	sure what to do.
+	É um "WideSht", só que
+	de uma cor estranha.
+	O que eu faço...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I E-Mailed the shop
-	and got no reply.
+	Já mandei um e-mail
+	pra loja, mas nada de
+	eles responderem ainda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It gives me the
-	creeps but I can't
-	just throw it away.
+	Este negócio me dá
+	arrepios, mas eu não
+	posso só jogar fora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey! How about I
-	sell it to you for
+	Ah! Que tal eu vender
+	ele pra você por...
 	1000 Zennys?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a weird color
-	but it still works,
-	I think.
+	A cor dele é estranha,
+	mas acho que funciona
+	normal.
 	"""
 	keyWait
 		any = false
@@ -100,7 +101,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -109,7 +110,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -124,8 +125,8 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	"""
-	What,you won't butt
-	it? Cheapskate!
+	Pô, não vai comprar?
+	Mão-de-vaca!
 	"""
 	keyWait
 		any = false
@@ -136,16 +137,16 @@ script 3 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	So you'll buy
-	my weird-colored
-	WideSht?!
+	E aí, vai comprar o
+	meu WideSht da cor
+	estranha?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yippee! That'll
-	be 1000 Zennys.
+	Êêêbaaa!
+	Só 1000 Zennys.
 	"""
 	keyWait
 		any = false
@@ -161,7 +162,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -170,7 +171,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -185,8 +186,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	"""
-	I knew it!
-	Cheapskate!
+	Sabia! Mão-de-vaca!
 	"""
 	keyWait
 		any = false
@@ -204,9 +204,9 @@ script 4 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	What a relief! It's
-	a weird color and it
-	gives me the creeps.
+	Ai, que alívio! A cor
+	dele é esquisita e ele
+	me dá arrepios.
 	"""
 	keyWait
 		any = false
@@ -235,8 +235,8 @@ script 4 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -255,8 +255,9 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	"""
-	Don't try to give
-	it back,either!
+	E nem perca seu tempo
+	tentando me devolver,
+	viu?!
 	"""
 	keyWait
 		any = false
@@ -267,9 +268,9 @@ script 5 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	You need more money.
-	I'm not gonna give
-	it away for free.
+	Precisa de mais dinheiro.
+	Eu não vou dar ele de
+	graça.
 	"""
 	keyWait
 		any = false
@@ -284,8 +285,8 @@ script 6 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	ProtoMan got a
-	BattleChip:
+	ProtoMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -304,8 +305,9 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	"""
-	Don't try to give
-	it back,either!
+	E nem perca seu tempo
+	tentando me devolver,
+	viu?!
 	"""
 	keyWait
 		any = false
@@ -320,9 +322,8 @@ script 7 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Colonel got a
-	BattleChip:
-	"
+	Colonel adquiriu
+	um chip:
 	"""
 	printChip
 		buffer = 0
@@ -340,8 +341,9 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	"""
-	Don't try to give
-	it back,either!
+	E nem perca seu tempo
+	tentando me devolver,
+	viu?!
 	"""
 	keyWait
 		any = false
@@ -378,15 +380,15 @@ script 10 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	Thanks for helping
-	me out like that.
+	Valeu pela ajuda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't try to give
-	it back,either!
+	E nem perca seu tempo
+	tentando me devolver,
+	viu?!
 	"""
 	keyWait
 		any = false
@@ -397,16 +399,16 @@ script 11 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	This Navi helped me
-	out by buying my
+	Obrigada por me ajudar
+	comprando o aquele
+	WideSht da cor estranha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	weird-colored Wide-
-	Sht I didn't like
-	for 1000 Zennys.
+	que eu não queria
+	por 1000 Zennys.
 	"""
 	keyWait
 		any = false

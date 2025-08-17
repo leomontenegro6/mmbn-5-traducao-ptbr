@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Nebula got MegaMan⋯
-	I see⋯
+	A Nebula pegou o
+	MegaMan...
+	Entendo...
 	"""
 	keyWait
 		any = false
@@ -18,21 +19,21 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm sorry⋯"
+	"Desculpa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shouldn't have
-	stopped ProtoMan.
+	Eu não devia ter
+	parado o ProtoMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now it'll be even
-	harder to liberate
-	End Area.
+	Agora, vai ser ainda
+	mais difícil liberar a
+	Área Endo.
 	"""
 	keyWait
 		any = false
@@ -45,39 +46,39 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It's okay. Even if
-	ProtoMan had shut
-	down MegaMan,
+	Tá tudo bem. Mesmo
+	que o ProtoMan tivesse
+	deletado o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it wouldn't have
-	stopped the Nebula
-	backup coming.
+	isso não teria
+	impedido os reforços de
+	Nebula de aparecerem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But with the Nebula
-	forces in End Area
+	Mas, com as forças da
+	Nebula da Área Endo
+	tendo convertido o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	having overcome
-	MegaMan,we've lost
-	a lot of ground.
+	MegaMan, perdemos
+	muito território nesta
+	guerra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a serious
-	problem⋯
+	É um problema grave...
 	"""
 	keyWait
 		any = false
@@ -90,9 +91,9 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. Well how about
-	taking in MagnetMan
-	or GyroMan then?
+	É... Ei, que tal, então,
+	a gente levar o
+	MagnetMan ou o GyroMan?
 	"""
 	keyWait
 		any = false
@@ -105,41 +106,38 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	They're both great
-	Navis,that's for
-	sure⋯
+	Ambos são Navis muito
+	habilidosos, sim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we're up against
-	too many. Even if we
-	had MegaMan,
+	mas são adversários
+	demais. Mesmo se
+	tivéssemos o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we couldn't beat
-	them without
-	casualties⋯
+	seria impossível vencer
+	sem sofrermos baixas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What we need right
-	now is an ally with
-	serious power who
+	Estamos precisando de
+	um aliado com enorme
+	força, que seja capaz
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can take out a bunch
-	of enemies in a
-	single blow.
+	de abater múltiplos
+	inimigos com um golpe só.
 	"""
 	keyWait
 		any = false
@@ -151,7 +149,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯ but who⋯?"
+	"Sei... Mas quem...?"
 	keyWait
 		any = false
 	clearMsg
@@ -163,17 +161,17 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Anyway,we can't just
-	go into End Area
-	without a plan⋯
+	Enfim, não podemos
+	ir pra Área Endo
+	sem um plano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For now I need you
-	to work on another
-	task,Lan.
+	Por enquanto, quero
+	que você atue em uma
+	outra tarefa, Lan.
 	"""
 	keyWait
 		any = false
@@ -185,7 +183,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Another task?"
+	"Outra tarefa?"
 	keyWait
 		any = false
 	clearMsg
@@ -197,46 +195,47 @@ script 8 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Right now the luxury
-	passenger liner,
+	O cruzeiro de luxo
+	conhecido como o
+	"Rainha Boêmia"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Queen Bohemia,
-	is in port behind
-	SciLab.
+	está ancorado no porto
+	atrás do SciLab no
+	momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got wind of a
-	party that's going
-	to be held on board
+	Eu fui informado de que
+	vai haver uma festa a
+	bordo do navio amanhã,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ship tomorrow by
-	a certain company
-	from Electopia⋯
+	bancada por uma certa
+	empresa de Ni-Hon...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The guest list is
-	full of the world's
+	A lista de convidados
+	está cheia dos principais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	top business-people
-	and royals.
+	membros da realeza e
+	empresários do mundo
+	inteiro.
 	"""
 	keyWait
 		any = false
@@ -249,9 +248,9 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Sounds pretty
-	important. What's
-	it all about?
+	... Parece importante.
+	Mas o que isso tem a
+	ver com a gente?
 	"""
 	keyWait
 		any = false
@@ -264,32 +263,33 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Ubercorp,the company
-	hosting the party,
+	A Ubercorp,
+	a empresa que está
+	sediando a festa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is going to present
-	a booster system it
-	has developed.
+	vai apresentar nela
+	um sistema impulsionador
+	que eles desenvolveram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apparently it can
-	multiply the power
-	of any program.
+	Ao que parece, ele pode
+	multiplicar a força de
+	qualquer programa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should go to the
-	presenta⋯ I mean,
-	auction.
+	É por isso que você
+	precisa ir à apresen...
+	digo, ao leilão.
 	"""
 	keyWait
 		any = false
@@ -301,14 +301,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Auction?"
+	"Leilão?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So they're going to
-	sell this booster
-	system?
+	Quer dizer que eles
+	vão vender esse
+	sistema impulsionador?
 	"""
 	keyWait
 		any = false
@@ -320,14 +320,13 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Yes⋯"
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and we've reason to
-	believe Nebula is
-	after it.
+	E, ao que tudo indica, a
+	Nebula está interessada.
 	"""
 	keyWait
 		any = false
@@ -340,17 +339,15 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And it's a system
-	that can power up
-	programs,right?
+	Um sistema que pode
+	energizar programas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If Nebula got hold
-	of something like
-	that⋯
+	Se a Nebula põe as
+	mãos numa coisa dessas...
 	"""
 	keyWait
 		any = false
@@ -363,8 +360,9 @@ script 14 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's your task,to
-	stop that happening.
+	Essa é a sua tarefa:
+	impedir isso de
+	acontecer.
 	"""
 	keyWait
 		any = false
@@ -376,14 +374,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ok. I'm on it."
+	"Beleza. Pode deixar."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'll have to get
-	on the Queen Bohemia
-	tomorrow then,right?
+	Então, eu tenho que
+	ir pro Rainha Boêmia
+	amanhã, é isso?
 	"""
 	keyWait
 		any = false
@@ -396,9 +394,9 @@ script 16 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Yes. Except you'll
-	need an Invite to
-	board the ship⋯
+	Isso. Mas você vai
+	precisar de um Convite
+	pra poder embarcar...
 	"""
 	keyWait
 		any = false
@@ -411,27 +409,27 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well your Dad's the
-	boss of that big
-	PET-making firm⋯
+	Ué, o seu pai é o
+	chefão de uma mega
+	produtora de chips, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"IPC,isn't it?"
+	"A IPC."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must be on the
-	guest list already.
+	Então, você já deve tá
+	na lista de convidados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Haven't you got an
-	Invite?
+	Não recebeu um
+	Convite, não?
 	"""
 	keyWait
 		any = false
@@ -444,20 +442,21 @@ script 18 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Unfortunately not.
-	Ubercorp's long been
-	a competitor of IPC⋯
+	... Infelizmente, não.
+	A Ubercorp é uma
+	concorrente da IPC...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We're not invited."
+	"Nós não fomos convidados."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to get
-	in yourself somehow.
+	Você vai ter que dar
+	um jeito de entrar lá
+	por conta própria.
 	"""
 	keyWait
 		any = false
@@ -469,28 +468,29 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How? I don't know
-	any bigshot business
-	people⋯No,wait⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I do know a bigshot
-	business person!
+	Mas como? Eu não
+	conheço nenhum gigante
+	do mundo dos negócios...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go ask right
-	now. See ya,Chaud!
+	Aliás, pera!
+	Eu conheço SIM
+	uma pessoa assim!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu vou lá perguntar pra
+	ela. Té mais, Chaud!
 	"""
 	keyWait
 		any = false
@@ -509,7 +509,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it?"
+	"Que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -525,25 +525,26 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"It's about MegaMan⋯"
+	"É sobre o MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know we might
-	come up against him⋯
+	Você já sabe que
+	podemos acabar nos
+	deparando com ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"as an enemy."
+	"como inimigo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we do⋯ Would you
-	be able to take him
-	out?
+	Se o fizermos...
+	Você vai ser capaz
+	de abatê-lo?
 	"""
 	keyWait
 		any = false
@@ -556,21 +557,22 @@ script 23 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯If MegaMan's soul
-	has been completely
-	overrun by darkness,
+	... Se a alma dele tiver
+	sido 100% consumida
+	pelas trevas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then yes⋯I'll take
-	him out.
+	então, sim...
+	eu vou deletar o
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll have to⋯"
+	"Eu vou ter que fazer\nisso..."
 	keyWait
 		any = false
 	clearMsg
@@ -581,7 +583,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Really⋯?"
+	"Mesmo...?"
 	keyWait
 		any = false
 	clearMsg
@@ -592,7 +594,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Really."
+	"... Mesmo."
 	keyWait
 		any = false
 	end
@@ -602,8 +604,8 @@ script 26 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Nebula got MegaMan⋯
-	I see.
+	A Nebula capturou o
+	MegaMan... Entendo.
 	"""
 	keyWait
 		any = false
@@ -615,21 +617,21 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm sorry⋯"
+	"Desculpa..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shouldn't have
-	stopped Colonel.
+	Eu não devia ter
+	parado o Colonel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now it'll be even
-	harder to liberate
-	End Area.
+	Agora, vai ser ainda
+	mais difícil liberar a
+	Área Endo.
 	"""
 	keyWait
 		any = false
@@ -642,39 +644,39 @@ script 28 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	It's okay. Even if
-	Colonel had shut
-	down MegaMan,
+	Está tudo bem. Mesmo
+	que o Colonel tivesse
+	deletado o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it wouldn't have
-	stopped the Nebula
-	backup coming.
+	isso não teria
+	impedido os reforços de
+	Nebula de aparecerem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But with the Nebula
-	forces in End Area
+	Mas, com as forças da
+	Nebula da Área Endo
+	tendo convertido o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	having overcome
-	MegaMan,we've lost
-	a lot of ground.
+	MegaMan, perdemos
+	muito território nesta
+	guerra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a serious
-	problem⋯
+	É um problema grave...
 	"""
 	keyWait
 		any = false
@@ -687,9 +689,9 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. Well how about
-	taking in KnightMan
-	or ShadowMan then?
+	É... Ei, que tal, então,
+	a gente levar o Knight-
+	Man ou o ShadowMan?
 	"""
 	keyWait
 		any = false
@@ -702,41 +704,38 @@ script 30 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	They're both great
-	Navis,that's for
-	sure⋯
+	Ambos são Navis muito
+	habilidosos, sim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we're up against
-	too many. Even if we
-	had MegaMan,
+	mas são adversários
+	demais. Mesmo se
+	tivéssemos o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we couldn't beat
-	them without
-	casualties⋯
+	seria impossível vencer
+	sem sofrermos baixas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What we need right
-	now is an ally with
-	serious power who
+	Estamos precisando de
+	um aliado com enorme
+	força, que seja capaz
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can take out a bunch
-	of enemies in a
-	single blow.
+	de abater múltiplos
+	inimigos com um golpe só.
 	"""
 	keyWait
 		any = false
@@ -748,7 +747,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯ but who⋯?"
+	"Sei... Mas quem...?"
 	keyWait
 		any = false
 	clearMsg
@@ -760,17 +759,17 @@ script 32 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Anyway,we can't just
-	go into End Area
-	without a plan⋯
+	Enfim, não podemos
+	ir para a Área Endo
+	sem um plano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For now I need you
-	to work on another
-	task,Lan.
+	Por ora, quero que você
+	se dedique a uma outra
+	tarefa, Lan.
 	"""
 	keyWait
 		any = false
@@ -782,7 +781,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Another task?"
+	"Outra tarefa?"
 	keyWait
 		any = false
 	clearMsg
@@ -794,46 +793,47 @@ script 34 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Right now the luxury
-	passenger liner,
+	O cruzeiro de luxo
+	conhecido como o
+	"Rainha Boêmia"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Queen Bohemia,
-	is in port behind
-	SciLab.
+	está ancorado no porto
+	atrás do SciLab no
+	momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got wind of a
-	party that's going
-	to be held on board
+	Eu fui informado de que
+	vai haver uma festa a
+	bordo do navio amanhã,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the ship tomorrow by
-	a certain company
-	from Electopia⋯
+	bancada por uma certa
+	empresa de Ni-Hon...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The guest list is
-	full of the world's
+	A lista de convidados
+	está cheia dos principais
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	top business-people
-	and royals.
+	membros da realeza e
+	empresários do mundo
+	inteiro.
 	"""
 	keyWait
 		any = false
@@ -846,9 +846,9 @@ script 35 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯Sounds pretty
-	important. What's
-	it all about?
+	... Parece importante.
+	Mas o que isso tem a
+	ver com a gente?
 	"""
 	keyWait
 		any = false
@@ -861,32 +861,33 @@ script 36 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Ubercorp,the company
-	hosting the party,
+	A Ubercorp,
+	a empresa que está
+	sediando a festa,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is going to present
-	a booster system it
-	has developed.
+	vai apresentar nela
+	um sistema impulsionador
+	que eles desenvolveram.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Apparently it can
-	multiply the power
-	of any program.
+	Ao que parece, ele pode
+	multiplicar a força de
+	qualquer programa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You should go to the
-	presenta⋯ I mean,
-	auction.
+	É por isso que você
+	precisa ir à apresen...
+	digo, ao leilão.
 	"""
 	keyWait
 		any = false
@@ -898,14 +899,14 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Auction?"
+	"Leilão?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So they're going to
-	sell this booster
-	system?
+	Quer dizer que eles
+	vão vender esse
+	sistema impulsionador?
 	"""
 	keyWait
 		any = false
@@ -917,14 +918,13 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Yes⋯"
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and we've reason to
-	believe Nebula is
-	after it.
+	E, ao que tudo indica, a
+	Nebula está interessada.
 	"""
 	keyWait
 		any = false
@@ -937,17 +937,15 @@ script 39 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And it's a system
-	that can power up
-	programs,right?
+	Um sistema que pode
+	energizar programas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If Nebula got hold
-	of something like
-	that⋯
+	Se a Nebula põe as
+	mãos numa coisa dessas...
 	"""
 	keyWait
 		any = false
@@ -960,8 +958,9 @@ script 40 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	That's your task,to
-	stop that happening.
+	Essa é a sua tarefa:
+	impedir isso de
+	acontecer.
 	"""
 	keyWait
 		any = false
@@ -973,14 +972,14 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Roger!"
+	"... Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'll have to get
-	on the Queen Bohemia
-	tomorrow then,right?
+	Então, eu tenho que
+	ir pro Rainha Boêmia
+	amanhã, é isso?
 	"""
 	keyWait
 		any = false
@@ -993,9 +992,9 @@ script 42 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Yes. Except you'll
-	need an Invite to
-	board the ship⋯
+	Isso. Mas você vai
+	precisar de um Convite
+	para poder embarcar...
 	"""
 	keyWait
 		any = false
@@ -1008,9 +1007,8 @@ script 43 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	And⋯I suppose you
-	don't have one,
-	right?
+	E... imagino que você
+	não tenha um, né?
 	"""
 	keyWait
 		any = false
@@ -1023,15 +1021,15 @@ script 44 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯You suppose
-	correctly.
+	... Imaginou certo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll have to get
-	in yourself somehow.
+	Você terá que dar um
+	jeito de adquirir um
+	por conta própria.
 	"""
 	keyWait
 		any = false
@@ -1043,28 +1041,30 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"É o quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know any
-	top business-people
-	and royals.⋯No,wait⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I do know royals
-	person!
+	Mas eu não conheço
+	ninguém dos negócios
+	ou da realeza...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go ask right
-	now. See ya,Baryl!
+	Não, pera!
+	Eu conheço, sim,
+	alguém da realeza!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu vou lá pedir pra
+	essa pessoa agora
+	mesmo. Falou, Baryl!
 	"""
 	keyWait
 		any = false
@@ -1083,7 +1083,7 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's wrong?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -1099,25 +1099,26 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"It's about MegaMan⋯"
+	"É sobre o MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know we might
-	come up against him⋯
+	Você já sabe que
+	podemos acabar nos
+	deparando com ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"as an enemy."
+	"como inimigo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we do⋯ Would you
-	be able to take him
-	out?
+	Se o fizermos...
+	Você vai ser capaz
+	de abatê-lo?
 	"""
 	keyWait
 		any = false
@@ -1130,21 +1131,22 @@ script 49 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯If MegaMan's soul
-	has been completely
-	overrun by darkness,
+	... Se a alma dele tiver
+	sido 100% consumida
+	pelas trevas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	then yes⋯I'll take
-	him out.
+	então, sim...
+	eu vou deletar o
+	MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll have to⋯"
+	"Eu vou ter que fazer\nisso..."
 	keyWait
 		any = false
 	clearMsg
@@ -1155,7 +1157,7 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Really⋯?"
+	"Mesmo...?"
 	keyWait
 		any = false
 	clearMsg
@@ -1166,7 +1168,7 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Yes."
+	"... Mesmo."
 	keyWait
 		any = false
 	end

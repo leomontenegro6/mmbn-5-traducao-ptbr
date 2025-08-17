@@ -4,19 +4,19 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"I regret what I did."
+	"Eu me arrependo muito\ndo que eu fiz."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I get irked,I
-	just can't control
-	myself.
+	Quando eu perco a
+	cabeça, também perco
+	o controle, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm really sorry."
+	"Desculpa, de verdade."
 	keyWait
 		any = false
 	clearMsg
@@ -28,16 +28,17 @@ script 1 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	I really put you
-	through a terribly
-	frightful ordeal.
+	Acabei lhes fazendo
+	passar por uma situação
+	terrivelmente aterradora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please accept my
-	humblest apologies!
+	Por favor, aceitem
+	minhas mais sinceras
+	desculpas!
 	"""
 	keyWait
 		any = false
@@ -50,24 +51,24 @@ script 2 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yeah,I thought we
-	were done for!
+	Bom, é, eu achei
+	que fosse morrer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now that I think
-	about it,we were
-	partly to blame
+	Mas, pensando aqui,
+	a gente também teve
+	um pouco de culpa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for wandering into
-	the OldMine in the
-	first place!
+	por resolver zanzar
+	pela Velha Mina, pra
+	começo de conversa!
 	"""
 	keyWait
 		any = false
@@ -80,8 +81,8 @@ script 3 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	At least nobody got
-	hurt!
+	O que importa é que
+	ninguém saiu machucado!
 	"""
 	keyWait
 		any = false
@@ -94,24 +95,23 @@ script 4 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	And I heard that you
-	lent your power to
-	Lan⋯
+	E, pelo que eu entendi,
+	você acabou ajudando o
+	Lan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So he could come and
-	save us.
+	pra ele salvar a gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was all good fun,
-	now that we're safe
-	and sound!
+	Agora que a gente tá
+	são e salvo, a gente
+	vai é rir disso depois!
 	"""
 	keyWait
 		any = false
@@ -121,18 +121,18 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Well,thanks⋯"
+	"Obrigada, crianças..."
 	keyWait
 		any = false
 	clearMsg
-	"for being so kind."
+	"Obrigada pela gentileza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better get
-	going soon before
-	the seas get rough.
+	Bem, é bom irem embora
+	logo, antes que o mar
+	fique agitado.
 	"""
 	keyWait
 		any = false
@@ -144,18 +144,18 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Well,thanks⋯"
+	"Ah, obrigada..."
 	keyWait
 		any = false
 	clearMsg
-	"for being so kind."
+	"Muito obrigada\npor sua gentileza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better get
-	going soon before
-	the seas get rough.
+	Bom, recomendo que par-
+	tam logo, antes que as
+	águas fiquem turbulentas.
 	"""
 	keyWait
 		any = false
@@ -167,7 +167,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's get going!"
+	"Bora, gente!"
 	keyWait
 		any = false
 	clearMsg
@@ -178,11 +178,11 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"OK!"
+	"Belê!"
 	keyWait
 		any = false
 	clearMsg
-	"See ya around!"
+	"Té mais!"
 	keyWait
 		any = false
 	clearMsg
@@ -193,7 +193,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Goodbye!"
+	"Tchau!"
 	keyWait
 		any = false
 	clearMsg
@@ -204,7 +204,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Farewell!"
+	"Adeuzinho!"
 	keyWait
 		any = false
 	end
@@ -214,8 +214,8 @@ script 11 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Hope to see you
-	soon!
+	Espero ver vocês
+	de novo em breve!
 	"""
 	keyWait
 		any = false
@@ -225,7 +225,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"See you all soon!"
+	"Até logo, amigos!"
 	keyWait
 		any = false
 	end
@@ -235,8 +235,8 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Until our next
-	mission!
+	Até a nossa
+	próxima missão!
 	"""
 	keyWait
 		any = false
@@ -246,7 +246,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Indeed!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
@@ -259,7 +259,7 @@ script 15 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"*smile*"
+	"Hi, hi!"
 	keyWait
 		any = false
 	clearMsg
@@ -272,7 +272,7 @@ script 16 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"OK,see you!"
+	"Tá, falou!"
 	keyWait
 		any = false
 	end

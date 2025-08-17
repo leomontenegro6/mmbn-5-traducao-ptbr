@@ -21,14 +21,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I FEEL SO DISGUSTED."
+	"ESTOU TÃO DESAGRADADO."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WANNA MESS WITH
-	THE TEMPERATURE
-	REAL BAD.
+	QUERO TANTO MEXER
+	COM A TEMPERATURA!
 	"""
 	keyWait
 		any = false
@@ -39,15 +38,16 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I TRIED TURNING DOWN
-	THE TEMPERATURE.
+	EU TENTEI DIMINUIR
+	A TEMPERATURA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LUCKILY,I CAME TO
-	BEFORE I SUCCEEDED.
+	FELIZMENTE, RECUPEREI
+	O JUÍZO ANTES DE
+	CONSEGUIR.
 	"""
 	keyWait
 		any = false
@@ -58,15 +58,17 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OUR AIR CONDITIONING
-	IS TOP NOTCH!
+	O NOSSO AR
+	CONDICIONADO
+	É DE PRIMEIRA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE ENJOY YOUR
-	TRIP IN COMFORT!!!
+	ESPERAMOS QUE
+	DESFRUTE DA SUA
+	VIAGEM COM CONFORTO!!
 	"""
 	keyWait
 		any = false

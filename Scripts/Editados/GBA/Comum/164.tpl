@@ -2,21 +2,21 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"A BBS⋯"
+	"Um Fórum..."
 	keyWait
 		any = false
 	clearMsg
-	"\"The dawn of an evil\n age draws near⋯\""
+	"\"O alvorecer de uma\nnova era do mal se\naproxima...\""
 	keyWait
 		any = false
 	clearMsg
-	"\"Comrades!!! Prepare\n for that day!\""
+	"\"Camaradas!!!\nPreparem-se para esse\npara esse dia!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a port for
-	jacking in.
+	Possui uma entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -29,15 +29,16 @@ script 1 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	An electro-barrier
-	bars the way.
+	Uma eletrobarreira
+	bloqueia o caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't risk
-	passing through!!!
+	Não podemos nos
+	arriscar em tentar
+	atravessar!!
 	"""
 	keyWait
 		any = false
@@ -54,15 +55,15 @@ script 2 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	The security system
-	control panel⋯
+	O painel de controle do
+	sistema de segurança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems to control
-	the electro-barrier.
+	Parece controlar a
+	eletrobarreira.
 	"""
 	keyWait
 		any = false
@@ -75,15 +76,16 @@ script 3 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	An electro-barrier
-	bars the way.
+	Uma eletrobarreira
+	bloqueia o caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't risk
-	passing through!!!
+	Não podemos nos
+	arriscar em tentar
+	atravessar!!
 	"""
 	keyWait
 		any = false
@@ -92,9 +94,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	An electro-barrier.
-	A burning smell
-	permeates the air.
+	Uma eletrobarreira.
+	Um cheiro de queimado
+	permeia o ar.
 	"""
 	keyWait
 		any = false
@@ -105,13 +107,13 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The barrier emanates
-	from this system.
+	A barreira é emanada
+	deste sistema.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's off right now."
+	"Está desligado agora."
 	keyWait
 		any = false
 	end
@@ -119,18 +121,17 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A security system
-	for blocking
-	intruders.
+	Um sistema de segurança
+	para barrar intrusos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's off right now."
+	"Está desligado agora."
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in!"
+	"Dá para se conectar\nnele!"
 	keyWait
 		any = false
 	end
@@ -138,20 +139,20 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	The security system
-	control panel⋯
+	O painel de controle do
+	sistema de segurança...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems to control
-	the electro-barrier.
+	Parece controlar a
+	eletrobarreira.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can jack in!"
+	"Dá para se conectar\nnele!"
 	keyWait
 		any = false
 	end

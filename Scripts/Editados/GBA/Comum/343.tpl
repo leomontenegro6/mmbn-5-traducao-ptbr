@@ -15,70 +15,70 @@ script 0 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Who sent for Quiz
-	King?
+	Quem convocou o
+	Questionário Rei?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who sent for Quiz
-	King?
+	Quem convocou o
+	Questionário Rei?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a chance!
-	(Let's go!)
+	Arrisque!
+	(No amanhã!)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try your luck!
-	(Here we go!)
+	Tente a sorte!
+	(Ela vem!)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get ready,set⋯
-	It's quiz time!!!
+	Preparar, apontar...
+	Questionáriooo!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm the Quiz King!"
+	"Eu sou o Questionário\nRei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I live for
-	quizzes.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We didn't meet here
-	just by chance.
+	Questionários são a
+	minha vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We were meant to
-	have a quiz
-	battle!!!
+	Este nosso encontro
+	aqui não foi mero acaso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try to answer
-	all my questions
-	correctly!!!
+	Estávamos destinados
+	a travar um duelo de
+	questionário!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Quero ver você tentar
+	acertar todas as minhas
+	perguntas!!
 	"""
 	keyWait
 		any = false
@@ -92,7 +92,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Bring it on!\n"
+	" Manda!\n"
 	option
 		brackets = 0
 		left = 1
@@ -101,7 +101,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" No,I'm busy now"
+	" Tô ocupado"
 	select
 		default = 0
 		BSeparate = false
@@ -115,7 +115,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Don't be like that⋯"
+	"Ah, vai..."
 	keyWait
 		any = false
 	end
@@ -125,47 +125,47 @@ script 1 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Who sent for Quiz
-	King?
+	Quem convocou o
+	Questionário Rei?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who sent for Quiz
-	King?
+	Quem convocou o
+	Questionário Rei?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take a chance!
-	(Let's go!)
+	Arrisque!
+	(No amanhã!)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try your luck!
-	(Here we go!)
+	Tente a sorte!
+	(Ela vem!)
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Get ready,set⋯
-	It's quiz time!!!
+	Preparar, apontar...
+	Questionáriooo!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm the Quiz King!"
+	"Eu sou o Questionário\nRei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,young man,it's
-	a quiz battle!!!
+	OK, jovem, hora de um
+	duelo de questionário!!
 	"""
 	keyWait
 		any = false
@@ -181,7 +181,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Bring it on!\n"
+	" Manda!\n"
 	option
 		brackets = 0
 		left = 1
@@ -190,7 +190,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" No,I'm busy now"
+	" Tô ocupado"
 	select
 		default = 0
 		BSeparate = false
@@ -206,7 +206,7 @@ script 1 mmbn5 {
 		delay = 2
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Don't be like that⋯"
+	"Ah, vai..."
 	keyWait
 		any = false
 	end
@@ -218,16 +218,16 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	Here goes!
-	Question #1!!!
+	Vamos lá!
+	Pergunta 1!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The dice at Higsby's
-	add up to what
-	number?
+	Os dados na Loja do
+	Higsby, somados, dão
+	que número?
 	"""
 	keyWait
 		any = false
@@ -283,15 +283,15 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Question #2!!!
+	Correto!!!
+	Pergunta 2!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the name of
-	Mr.Famous's Navi?
+	Qual é o nome do Navi
+	do Sr. Famoso?
 	"""
 	keyWait
 		any = false
@@ -347,16 +347,17 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Now for question #3!
+	Correto!!!
+	Agora, vamos à pergunta
+	3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many posts are
-	next to ACDC Town's
-	Metroline station?
+	Quantos postes há perto
+	da estação Metrolinha
+	do bairro ACDC?
 	"""
 	keyWait
 		any = false
@@ -412,16 +413,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Here's question #4!
+	Correto!!!
+	Eis a pergunta 4!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of the following
-	chips,which one has
-	the highest Attack?
+	Dentre estes chips,
+	qual possui o maior
+	ataque?
 	"""
 	keyWait
 		any = false
@@ -477,22 +478,22 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Now for question #5!
+	Correto!!!
+	Agora, a pergunta 5!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What color does blue
-	litmus paper turn
+	Que cor o papel
+	tornassol assume ao
+	ser mergulhado em
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when dipped in
-	hydrochloric acid?
+	ácido hidroclorídrico?
 	"""
 	keyWait
 		any = false
@@ -508,7 +509,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Red\n"
+	" Vermelho\n"
 	option
 		brackets = 0
 		left = 1
@@ -517,7 +518,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Blue\n"
+	" Azul\n"
 	option
 		brackets = 0
 		left = 2
@@ -526,7 +527,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Don't know"
+	" Sei lá"
 	select
 		default = 0
 		BSeparate = false
@@ -548,15 +549,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Here's question #6!
+	Correto!!!
+	Vamos à pergunta 6!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	7,14,21,28,35,42
-	What comes next?
+	7, 14, 21, 28, 35, 42.
+	Quais números vêm a
+	seguir?
 	"""
 	keyWait
 		any = false
@@ -572,7 +574,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" 45,51,64,72,83,81\n"
+	" 45, 51, 64, 72, 83\n"
 	option
 		brackets = 0
 		left = 1
@@ -581,7 +583,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" 49,55,63,72,89,96\n"
+	" 49, 55, 63, 72, 89\n"
 	option
 		brackets = 0
 		left = 2
@@ -590,7 +592,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" 49,56,63,70,77,84"
+	" 49, 56, 63, 70, 77"
 	select
 		default = 0
 		BSeparate = false
@@ -612,22 +614,22 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	On to question #7!
+	Correto!!!
+	Pergunta 7!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The visible sides
-	of the dice at
+	Os lados visíveis dos
+	dados na Loja do Higsby,
+	somados, resultam em
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's add up to
-	what number?
+	qual número?
 	"""
 	keyWait
 		any = false
@@ -683,15 +685,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Here's question #8!
+	Correto!!!
+	Eis a pergunta 8!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which word means the
-	same as "erase"?
+	Que palavra possui o
+	mesmo significado que
+	"apagar"?
 	"""
 	keyWait
 		any = false
@@ -707,7 +710,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Dessert\n"
+	" Relevar\n"
 	option
 		brackets = 0
 		left = 1
@@ -716,7 +719,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Delete\n"
+	" Deletar\n"
 	option
 		brackets = 0
 		left = 2
@@ -725,7 +728,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Delicate"
+	" Borrar"
 	select
 		default = 0
 		BSeparate = false
@@ -747,17 +750,15 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Now for question
-	#9!!!
+	Correto!!!
+	Agora, a pergunta 9!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is above a
-	female deer and a
-	drop of golden sun?
+	Qual é a nota musical
+	que mais dá pena?
 	"""
 	keyWait
 		any = false
@@ -773,7 +774,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" You\n"
+	" Mi\n"
 	option
 		brackets = 0
 		left = 1
@@ -782,7 +783,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Trees\n"
+	" Ré\n"
 	option
 		brackets = 0
 		left = 2
@@ -791,7 +792,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Me"
+	" Dó"
 	select
 		default = 0
 		BSeparate = false
@@ -813,23 +814,22 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Here's question #10!
+	Correto!
+	Pergunta 10 agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ryan's friend Kyle
-	went over to Ian's
-	house to play.
+	Na casa do José,
+	João foi brincar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who is the subject
-	of this sentence?
+	Quem é o sujeito desta
+	oração?
 	"""
 	keyWait
 		any = false
@@ -845,7 +845,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Ryan\n"
+	" José\n"
 	option
 		brackets = 0
 		left = 1
@@ -854,7 +854,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Kyle\n"
+	" João\n"
 	option
 		brackets = 0
 		left = 2
@@ -863,7 +863,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Ian"
+	" Casa"
 	select
 		default = 0
 		BSeparate = false
@@ -885,15 +885,15 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	On to question #11!
+	Correto!!!
+	Seguindo, pergunta 11!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What chip has ID67
-	in the Data Library?
+	Qual chip possui o ID67
+	na Coleção?
 	"""
 	keyWait
 		any = false
@@ -949,15 +949,15 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Here's question #12!
+	Correto!!!
+	Agora, a pergunta 12!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What follows Aries,
-	Taurus,and Gemini?
+	O que vem depois de
+	Áries, Touro e Gêmeos?
 	"""
 	keyWait
 		any = false
@@ -973,7 +973,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Pisces\n"
+	" Peixes\n"
 	option
 		brackets = 0
 		left = 1
@@ -982,7 +982,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Scorpio\n"
+	" Escorpião\n"
 	option
 		brackets = 0
 		left = 2
@@ -991,7 +991,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Cancer"
+	" Câncer"
 	select
 		default = 0
 		BSeparate = false
@@ -1013,44 +1013,44 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	On to question #13!
+	Correto!!!
+	Pergunta 13, então!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A bus is driving
-	down a street.
+	Um ônibus desce a rua.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are 13 people
-	inside,including the
-	driver.
+	Nele, há 13 pessoas,
+	incluindo o motorista.
+	Não há cobrador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	7 get off and 4 get
-	on at the 1st stop.
+	7 descem do ônibus
+	e 4 entram no ônibus
+	na primeira parada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	3 get off and 5 get
-	on at the 2nd stop.
+	3 descem e 5 entram
+	na segunda parada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How many people are
-	on the bus now?
+	Quantas pessoas há
+	no ônibus agora?
 	"""
 	keyWait
 		any = false
@@ -1106,16 +1106,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	That is correct!!!
-	Here's question #14!
+	Correto!!!
+	Pergunta 14!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Name the ship docked
-	in the harbor behind
-	SciLab.
+	Qual é o nome do navio
+	ancorado no porto atrás
+	do SciLab?
 	"""
 	keyWait
 		any = false
@@ -1131,7 +1131,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Princess Miki\n"
+	" Princesa Miki\n"
 	option
 		brackets = 0
 		left = 1
@@ -1140,7 +1140,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Rodriguez Cartan\n"
+	" Rei Rodrigues\n"
 	option
 		brackets = 0
 		left = 2
@@ -1149,7 +1149,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Queen Bohemia"
+	" Rainha Boêmia"
 	select
 		default = 0
 		BSeparate = false
@@ -1170,20 +1170,20 @@ script 2 mmbn5 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"That is correct!!!"
+	"Correto!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the last
-	one! Question #15!
+	Hora da última!
+	Pergunta 15!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whose web page does
-	not have a BBS?
+	De quem é a página que
+	não possui um fórum?
 	"""
 	keyWait
 		any = false
@@ -1199,7 +1199,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Dex's\n"
+	" Dex\n"
 	option
 		brackets = 0
 		left = 1
@@ -1208,7 +1208,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Mayl's\n"
+	" Mayl\n"
 	option
 		brackets = 0
 		left = 2
@@ -1217,7 +1217,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yai's"
+	" Yai"
 	select
 		default = 0
 		BSeparate = false
@@ -1239,17 +1239,17 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SciLabYoungMan
 	"""
-	No⋯ Noooooo⋯!!! How
-	could you get all my
-	questions right?!
+	Não... NÃÃÃÃÃO...!!
+	Como você acertou todas
+	as minhas perguntas?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think I'm going
-	to be sick. Take it.
-	You earned it⋯
+	Acho que eu vou
+	desmaiar. Toma.
+	Fez por merecer...
 	"""
 	keyWait
 		any = false
@@ -1262,8 +1262,8 @@ script 2 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	NaviCust Program:
+	Lan adquiriu um
+	Programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -1279,7 +1279,7 @@ script 2 mmbn5 {
 		mugshot = SciLabYoungMan
 	"""
 	Ah! Ahhh! Ahhhhhh!!!
-	Dang it!!!
+	Drooogaaaaaa!!!
 	"""
 	keyWait
 		any = false
@@ -1297,28 +1297,28 @@ script 3 mmbn5 {
 	msgOpen
 	textSpeed
 		delay = 2
-	"Sorry! Wrong answer!"
+	"Que pena!\nResposta errada!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't be
-	ashamed for getting
-	my question wrong!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	After all,
-	I AM the Quiz King!
+	Mas não sinta vergonha
+	por ter errado a minha
+	pergunta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll challenge you
-	again,anytime!!!
+	Afinal de contas, eu sou
+	SOU o Questionário Rei!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Aceito uma revanche
+	quando quiser!!
 	"""
 	keyWait
 		any = false
@@ -1329,8 +1329,8 @@ script 4 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Sigh⋯
-	Lemme alone.
+	Arh...
+	Me deixa em paz.
 	"""
 	keyWait
 		any = false

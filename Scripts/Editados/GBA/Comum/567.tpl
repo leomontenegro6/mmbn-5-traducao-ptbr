@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HELLO! THIS IS
-	SCILAB3!
+	OLÁ! ESTA É A ÁREA
+	SCILAB 3!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE OPEN SPACE
-	IS ITS MOST
-	CHARMING POINT!
+	O MAIOR ATRATIVO DELA
+	É TODO ESTE ESPAÇO
+	ABERTO!
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,16 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Mumble,mumble⋯
-	Mumble,mumble⋯
+	Hmnhg...
+	Hmnhg...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shoot!
-	I really want to
-	solve this problem!
+	Droga!
+	Eu quero tanto
+	resolver isto!
 	"""
 	keyWait
 		any = false
@@ -45,9 +45,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	E⋯
-	⋯STOP⋯
-	⋯EANIN⋯NO⋯!
+	E...
+	... PARA...
+	... GNIFICA... BER...!
 	"""
 	keyWait
 		any = false
@@ -55,9 +55,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	M⋯ sto⋯
-	Home⋯k!
+	M... par...
+	liç... asa!
 	"""
 	keyWait
 		any = false
@@ -77,9 +77,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -90,13 +90,13 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IS NEBULA STILL
-	IN END AREA?
+	A NEBULA AINDA ESTÁ
+	NA ÁREA ENDO?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THAT'S TOO BAD."
+	"QUE PENA..."
 	keyWait
 		any = false
 	end
@@ -106,15 +106,15 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Being smart
-	isn't everything!
+	Ser inteligente não é
+	tudo na vida!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattling is about
-	brains AND brawn!
+	NetLutas trabalham a
+	inteligência E a força!
 	"""
 	keyWait
 		any = false
@@ -125,14 +125,14 @@ script 30 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	This area is huge
-	so it's perfect
-	for jogging.
+	Esta área enorme é
+	perfeita para fazer
+	corrida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here I go!"
+	"Lá vou eu!"
 	keyWait
 		any = false
 	end
@@ -142,16 +142,15 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LET'S DO OUR
-	BEST IN OUR
-	RESEARCH!
+	VAMOS NOS DEDICAR
+	AO MÁXIMO À NOSSA
+	PESQUISA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE FUTURE
-	DEPENDS ON IT!
+	O FUTURO DEPENDE DELA!
 	"""
 	keyWait
 		any = false
@@ -162,9 +161,9 @@ script 40 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Looks like
-	SciLab HP is
-	having problems.
+	Parece que a página
+	do SciLab está com
+	problemas.
 	"""
 	keyWait
 		any = false
@@ -175,16 +174,16 @@ script 41 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE
-	SCILAB HP IS
-	UNDER ATTACK!
+	PARECE QUE A PÁGINA
+	DO SCILAB ESTÁ SOB
+	ATAQUE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	STAY AWAY FROM
-	IT,OK?
+	FIQUE LONGE DELA,
+	ESTÁ BEM?
 	"""
 	keyWait
 		any = false
@@ -195,15 +194,15 @@ script 50 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	So SciLab HP
-	was attacked.
+	Então, a página do
+	SciLab foi atacada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What is the world
-	coming to?
+	Onde é que este mundo
+	vai parar?
 	"""
 	keyWait
 		any = false
@@ -214,9 +213,9 @@ script 51 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SO MANY INCIDENTS,
-	SO LITTLE TIME TO
-	STUDY THEM⋯!
+	TANTO INCIDENTES,
+	E TÃO POUCO TEMPO
+	PARA ESTUDÁ-LOS...!
 	"""
 	keyWait
 		any = false
@@ -227,13 +226,13 @@ script 60 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I'm working out
-	to get in shape!
+	Eu tô malhando pra
+	ficar no "shape"!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"One,two,three,go!"
+	"Um, dois, três, quatro!"
 	keyWait
 		any = false
 	end
@@ -243,16 +242,16 @@ script 61 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE HAVE BEEN SO
-	MANY INCIDENTS⋯
+	TEM HAVIDO TANTOS
+	INCIDENTES...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I MISS THE GOOD
-	OLD DAYS OF
-	QUIET RESEARCH.
+	AH, SAUDADES DAQUELES
+	DIAS PACÍFICOS DE
+	PESQUISA.
 	"""
 	keyWait
 		any = false

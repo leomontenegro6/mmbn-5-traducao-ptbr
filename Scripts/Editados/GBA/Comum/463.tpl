@@ -5,21 +5,21 @@ script 0 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I've been collecting
-	data from various
+	Estou coletando dados
+	de várias áreas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	areas for my next
-	big scientific
-	presentation.
+	para a minha próxima
+	grande palestra
+	científica.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Busy,busy,busy!"
+	"Ah, tão ocupado!"
 	keyWait
 		any = false
 	end
@@ -29,16 +29,15 @@ script 1 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	SciLab Area has
-	pretty complex
-	pathways,huh?
+	A Área SciLab tem um
+	mapa bem complicado, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's like a
-	"cyber-labyrinth"?
+	Acho que é tipo um...
+	"cyber-labirinto".
 	"""
 	keyWait
 		any = false
@@ -49,16 +48,15 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	SCILAB2!
+	BEM-VINDO A SCILAB2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S A WARP
-	HOLE TO SCILAB HP
-	JUST PAST HERE.
+	LOGO EM FRENTE, HÁ
+	UM PORTAL PARA A
+	PÁGINA DO SCILAB.
 	"""
 	keyWait
 		any = false
@@ -69,9 +67,9 @@ script 10 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Ga⋯a⋯a!
-	My⋯ im⋯
-	da⋯!
+	Ga... a... a!
+	Meu... im...
+	di...!
 	"""
 	keyWait
 		any = false
@@ -79,9 +77,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -92,9 +90,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EMER⋯Y!
-	⋯K OUT⋯
-	⋯MED⋯!!
+	EMER... CIA!
+	... ECTE...
+	... MED...!!
 	"""
 	keyWait
 		any = false
@@ -102,9 +100,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -115,8 +113,8 @@ script 12 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	H⋯! I⋯
-	⋯anyth⋯!!
+	E...! Eu...
+	... ad...!!
 	"""
 	keyWait
 		any = false
@@ -124,9 +122,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -137,20 +135,21 @@ script 20 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Nebula's attack
-	freaked me out!
+	O ataque da Nebula me
+	fez entrar em pânico!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why I lost
-	my important data!
+	Por causa disso, eu
+	perdi meus dados
+	importantes!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*Sigh*"
+	"Argh..."
 	keyWait
 		any = false
 	end
@@ -160,9 +159,9 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NEBULA'S JAMMING
-	ATTACK REALLY
-	BUGGED ME!
+	O ATAQUE DE
+	INTERFERÊNCIA ME
+	BUGOU PESADO!
 	"""
 	keyWait
 		any = false
@@ -173,16 +172,17 @@ script 22 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Thanks to that
-	nasty incident
-	earlier today⋯
+	Por causa daquele
+	incidente horroroso
+	de ainda agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I had to change
-	my whole schedule!
+	eu tive que mexer na
+	minha agenda inteira
+	pra hoje!
 	"""
 	keyWait
 		any = false
@@ -193,15 +193,16 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS
-	SCILAB2!
+	ESTA É A ÁREA
+	SCILAB 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE ENTRANCE TO
-	SCILAB HP IS HERE!
+	A ENTRADA PARA A
+	PÁGINA DO SCILAB
+	FICA POR AQUI!
 	"""
 	keyWait
 		any = false
@@ -212,17 +213,17 @@ script 31 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Everything looks
-	the same to me
-	these days.
+	Tudo parece tão...
+	igual pra mim, estes
+	dias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need to get to
-	some other areas
-	for a change⋯
+	Eu preciso ir pra
+	outras áreas pra
+	mudar os ares...
 	"""
 	keyWait
 		any = false
@@ -233,24 +234,24 @@ script 32 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I like the smart
-	vibe here in
-	SciLab Area but
+	Eu gosto da "vibe"
+	de inteligência da
+	Área SciLab,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I also like the
-	wild feel of the
-	Oran Area!
+	mas também adoro a
+	atmosfera selvagem
+	da Área Oran!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which area do
-	you prefer?
+	E você, qual área
+	prefere?
 	"""
 	keyWait
 		any = false
@@ -261,17 +262,17 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WARNING! WARNING!
-	SCILAB HP IS
-	UNDER ATTACK!
+	ALERTA! ALERTA!
+	A PÁGINA DO SCILAB
+	ESTÁ SOB ATAQUE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SUGGEST NOT
-	GOING FURTHER. IT'S
-	TOO DANGEROUS!
+	SUGIRO NÃO SEGUIR
+	ADIANTE. É PERIGOSO
+	DEMAIS!
 	"""
 	keyWait
 		any = false
@@ -281,13 +282,13 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Should I go help?"
+	"Será que eu devia\najudar?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But⋯b-b-b-but⋯
-	I'm t-too s-scared!
+	Mas... M-m-m-mas...
+	eu t-tô c-com m-medo!
 	"""
 	keyWait
 		any = false
@@ -298,8 +299,8 @@ script 42 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Nebula? Again?
-	Is everything OK?
+	A Nebula? De novo?
+	Tá tudo bem?
 	"""
 	keyWait
 		any = false
@@ -309,7 +310,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"DANGER! DANGER!"
+	"PERIGO! PERIGO!"
 	keyWait
 		any = false
 	end
@@ -319,9 +320,9 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE
-	SCILAB HP IS
-	SAFE NOW!
+	PARECE QUE A PÁGINA
+	DO SCILAB ESTÁ A SALVO
+	AGORA!
 	"""
 	keyWait
 		any = false
@@ -332,8 +333,8 @@ script 51 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	What a headache
-	that Nebula is⋯!
+	Essa Nebula só dá
+	dor de cabeça...!
 	"""
 	keyWait
 		any = false
@@ -344,9 +345,9 @@ script 52 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	I just don't feel
-	safe anywhere
-	these days.
+	Ultimamente, eu não me
+	sinto segura em lugar
+	nenhum.
 	"""
 	keyWait
 		any = false
@@ -357,13 +358,13 @@ script 60 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS SCILAB
-	AREA2!
+	ESTA É A ÁREA
+	SCILAB 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"COME AND VISIT US!"
+	"OBRIGADO PELA VISITA!"
 	keyWait
 		any = false
 	end
@@ -373,9 +374,9 @@ script 61 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I can't even take a
-	walk in peace,
-	thanks to Nebula.
+	Eu não consigo nem dar
+	uma volta em paz, por
+	causa da Nebula.
 	"""
 	keyWait
 		any = false

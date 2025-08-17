@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"What the?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -12,8 +12,8 @@ script 0 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	Lan⋯ You⋯!!!
-	But how⋯?!!
+	Lan... Você...!!!
+	Mas como...?!!
 	"""
 	keyWait
 		any = false
@@ -27,7 +27,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Oh man!!!"
+	"Argh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -35,8 +35,9 @@ script 1 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	Lan⋯!!! I'm not
-	going down yet!
+	Lan...!!!
+	Eu ainda não vou me
+	dar por vencido!
 	"""
 	keyWait
 		any = false
@@ -51,22 +52,21 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yikes! This doesn't
-	look good.
+	Eita! A coisa aqui
+	tá complicada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,
-	jack in!!!
+	MegaMan, se conecta!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Destroy the server
-	quick!!!
+	Destrói o servidor,
+	rápido!!
 	"""
 	keyWait
 		any = false
@@ -78,7 +78,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá bom!"
 	keyWait
 		any = false
 	clearMsg
@@ -90,9 +90,9 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

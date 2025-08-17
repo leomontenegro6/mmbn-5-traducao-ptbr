@@ -31,18 +31,17 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE REFEREE
-	PROGRAM FOR THIS
-	MACHINE.
+	EU SOU O PROG ÁRBITRO
+	DESTA MÁQUINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"READY⋯"
+	"PREPARAR..."
 	keyWait
 		any = false
 	clearMsg
-	"FIGHT!!!"
+	"LUTAR!!!"
 	keyWait
 		any = false
 	end
@@ -52,22 +51,21 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE REFEREE
-	PROGRAM FOR THIS
-	MACHINE.
+	EU SOU O PROG ÁRBITRO
+	DESTA MÁQUINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
-	"STRIKE THREE!!!"
+	"PÊNALTI!!!"
 	keyWait
 		any = false
 	clearMsg
-	"HA HA,JUST KIDDING."
+	"HA HA, ZOEI."
 	keyWait
 		any = false
 	end
@@ -77,16 +75,16 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE REFEREE
-	PROGRAM FOR THIS
-	MACHINE.
+	EU SOU O PROG ÁRBITRO
+	DESTA MÁQUINA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVE NO IDEA
-	WHAT JUST HAPPENED.
+	E EU NÃO FAÇO IDEIA
+	DO QUE ACABOU DE
+	ACONTECER.
 	"""
 	keyWait
 		any = false
@@ -97,15 +95,14 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT WAS THAT
-	ALL ABOUT?
+	O QUE FOI AQUILO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MUST'VE BEEN SOME
-	KIND OF FOUL!
+	SÓ PODE TER
+	SIDO FALTA!
 	"""
 	keyWait
 		any = false

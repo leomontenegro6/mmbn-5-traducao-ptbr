@@ -3,13 +3,12 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	The door reads:
-	"Undernet ahead.
+	Na porta, está escrito:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	" Access to the\n general public\n is prohibited.\""
+	"Undernet à frente.\nAcesso proibido para\n o público geral.\""
 	keyWait
 		any = false
 	end

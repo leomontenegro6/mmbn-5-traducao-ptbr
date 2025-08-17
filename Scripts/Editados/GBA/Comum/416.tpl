@@ -5,49 +5,49 @@ script 0 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	GargCastle is more
-	than just a tourism
-	center. It's also a
+	O Castelo Shachi é mais
+	do que só um ponto
+	turístico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	key monitoring base
-	for the entire
-	Electopian network.
+	Também é uma base
+	chave que monitora
+	toda a Rede ni-honense.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it's closed to
-	the public during
-	such incidents.
+	Por isso, ele fecha
+	durante incidentes
+	como o de hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It will probably
-	stay closed for the
-	rest of the day.
+	Provavelmente, ficará
+	fechado pelo resto do
+	dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wait,aren't you⋯"
+	"Espera, você não é o..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Never mind. No point
-	in sweating the
-	small stuff.
+	Esquece. Não adianta
+	ficar se estressando
+	com coisa pouca.
 	"""
 	keyWait
 		any = false
@@ -58,40 +58,40 @@ script 10 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Welcome to
-	GargCastle.
+	Bem-vindo ao
+	Castelo Shachi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	GargCastle is more
-	than just a relay
-	for the entire
+	O Castelo Shachi é mais
+	do que só um transmissor
+	da Rede de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Electopian network.
-	It's also a
-	monitoring facility.
+	Ele também é uma
+	instalação de
+	monitoramento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,it's a historic
-	building and is
-	open to the public.
+	E, além disso, é um
+	patromônio histórico,
+	aberto ao público.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please enjoy this
-	awe-inspiring
-	historical site.
+	Espero que aproveite
+	este inspirador sítio
+	histórico.
 	"""
 	keyWait
 		any = false
@@ -102,9 +102,9 @@ script 11 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Electopian armor is
-	so cool. I'd like a
-	suit for my house.
+	Armaduras ni-honenses
+	são tão legais. Queria
+	ter uma lá em casa.
 	"""
 	keyWait
 		any = false
@@ -115,17 +115,15 @@ script 12 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Argh! Don't talk to
-	me all of a sudden
-	like that!
+	Aaahh! Não fala comigo
+	assim, do nada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you trying to
-	scare me and make me
-	fall?!
+	Tá tentando me dar um
+	susto pra eu cair?!
 	"""
 	keyWait
 		any = false
@@ -136,17 +134,16 @@ script 13 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I want to go to the
-	Castle Keep but I'm
-	too scared.
+	Eu queria ir na torre
+	de menagem, mas dá
+	tanto medo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Couldn't they at
-	least add hand
-	rails?
+	Eles podiam, pelo menos,
+	instalar um corrimão lá!
 	"""
 	keyWait
 		any = false
@@ -157,8 +154,8 @@ script 20 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Oh my,where did my
-	husband go?
+	Puxa, onde foi parar o
+	meu marido?
 	"""
 	keyWait
 		any = false
@@ -169,9 +166,9 @@ script 21 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	That armor looks
-	heavy. It'd crush me
-	if I wore it.
+	A armadura parece tão
+	pesada. Se eu vestisse,
+	ela me esmagava.
 	"""
 	keyWait
 		any = false
@@ -182,9 +179,9 @@ script 22 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Those Electopian
-	statues sure have
-	strange expressions.
+	As estátuas ni-honenses
+	têm umas expressões tão
+	estranhas.
 	"""
 	keyWait
 		any = false

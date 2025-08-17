@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Good luck,Lan!"
+	"Boa sorte, Lan!"
 	keyWait
 		any = false
 	end
@@ -14,16 +14,16 @@ script 1 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	This place is quite
-	famous for its
-	fabulous fish!
+	Esta ilha é muita
+	famosa por seus peixes
+	deliciosos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait to see
-	what you catch!
+	Tô doida pra ver o que
+	vocês pescam!
 	"""
 	keyWait
 		any = false
@@ -34,17 +34,17 @@ script 2 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	First,I need a rod!
-	Now,what would make
-	a good rod⋯?
+	Primeiro, eu preciso de
+	uma vara. Hum, o que
+	daria uma boa vara...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,why the long
-	face? Something
-	happen to you?
+	Ô, tá triste assim por
+	quê? Aconteceu alguma
+	coisa?
 	"""
 	keyWait
 		any = false
@@ -55,9 +55,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,time to search
-	for fishing
-	supplies!
+	Beleza, hora de caçar
+	uns materiais de pesca!
 	"""
 	keyWait
 		any = false
@@ -92,24 +91,24 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Looks like you
-	managed to find some
-	fishing supplies!
+	Parece que cê conseguiu
+	achar umas coisas pra
+	usar pra pescar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you need to find
-	a good fishing spot
-	and cast away!
+	Agora, é só achar um
+	bom lugar pra pescar
+	e mandar bala!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	May the best man
-	win! (That's me!)
+	E que vença o melhor
+	homem! (Isto é, eu!)
 	"""
 	keyWait
 		any = false
@@ -122,21 +121,20 @@ script 11 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	You're still looking
-	for your fishing
-	supplies?
+	Ainda tá procurando
+	pelos materiais de
+	pesca?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I already found
-	mine!
+	Eu já achei os meus!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Better hurry up!"
+	"Melhor correr, hein!"
 	keyWait
 		any = false
 	end
@@ -146,9 +144,8 @@ script 12 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Now,where's a good
-	fishing spot,I
-	wonder⋯
+	Hm, qual que seria um
+	bom lugar pra pescar...?
 	"""
 	keyWait
 		any = false
@@ -159,9 +156,9 @@ script 13 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Dex found his
-	fishing supplies!
-	Good luck,Lan!
+	O Dex já achou os
+	materiais de pesca dele!
+	Boa sorte, Lan!
 	"""
 	keyWait
 		any = false
@@ -172,9 +169,9 @@ script 14 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I expect you boys to
-	reel in the finest
-	fish in the sea!
+	É bom vocês pescarem
+	os peixes mais fartos
+	do oceano!
 	"""
 	keyWait
 		any = false
@@ -210,29 +207,29 @@ script 16 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	OK,Lan,you lost so
-	you go find the
-	makings of bonfire!
+	OK, Lan: como cê perdeu,
+	cê reúne as coisas pra
+	fazer a fogueira!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's see⋯"
+	"Deixa eu ver..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can start a fire
-	with some Board,
-	Twig and DryGrass.
+	Dá pra gente acender
+	uma com uma Tábua, um
+	Galho e Grama Seca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry,Lan! We've
-	gotta cook the fish
-	while it's fresh!
+	Vai logo, Lan! Temos
+	que preparar os peixes
+	enquanto tão frescos!
 	"""
 	keyWait
 		any = false
@@ -243,9 +240,9 @@ script 17 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I wish I could have
-	seen the fish you
-	caught,Lan!
+	Queria muito poder ter
+	visto o peixe que você
+	fisgou, Lan!
 	"""
 	keyWait
 		any = false
@@ -256,17 +253,16 @@ script 18 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Cooking a freshly
-	caught fish over an
-	open fire⋯
+	Assar um peixe em uma
+	fogueira logo depois
+	de pegar ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Primitive,indeed,
-	but scrumptious,
-	too!
+	Tão primitivo,
+	e tão apetitoso!
 	"""
 	keyWait
 		any = false
@@ -277,8 +273,8 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,where are you
-	going?
+	Lan, aonde é que você
+	vai?
 	"""
 	keyWait
 		any = false
@@ -289,8 +285,7 @@ script 24 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's read the
-	E-Mail!
+	Lan, bora ler o e-mail!
 	"""
 	keyWait
 		any = false
@@ -301,9 +296,9 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	C'mon,Lan,let's
-	catch up with Dex
-	and the rest!
+	Vamos, Lan! A gente
+	tem que alcançar o Dex
+	e as meninas!
 	"""
 	keyWait
 		any = false
@@ -316,7 +311,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Let's hurry and go!"
+	"Vamos rápido!"
 	keyWait
 		any = false
 	end
@@ -326,8 +321,7 @@ script 31 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Now,let's hurry
-	along!
+	Bom, apressemo-nos!
 	"""
 	keyWait
 		any = false

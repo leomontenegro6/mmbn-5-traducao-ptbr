@@ -14,8 +14,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now,MegaMan!
-	The server!!!
+	Agora, MegaMan!
+	O servidor!!!
 	"""
 	keyWait
 		any = false
@@ -27,7 +27,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'm on it!!!"
+	"Pode deixar!!!"
 	keyWait
 		any = false
 	end
@@ -36,7 +36,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!!!"
+	"Foi, Lan!!!"
 	keyWait
 		any = false
 	end
@@ -45,7 +45,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Uhhh,ahhh⋯"
+	"Ungh... Arh..."
 	keyWait
 		any = false
 	clearMsg
@@ -67,7 +67,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"⋯Lan,what did I⋯"
+	"... Lan...\nO que foi que eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -79,16 +79,16 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You OK now?
-	Phew! You had me
-	worried there.
+	Tudo bem contigo agora?
+	Ufa! Eu fiquei mó
+	preocupado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is SerchMan OK,
-	too?
+	O SearchMan
+	também tá bem?
 	"""
 	keyWait
 		any = false
@@ -101,37 +101,37 @@ script 8 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	⋯SerchMan's
-	fine.
+	... O SearchMan
+	está bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry for all
-	the trouble⋯
+	Peço desculpas pelo
+	trabalho que dei...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I felt this dark
-	feeling welling up
-	inside me,and then⋯
+	... Eu senti uma
+	escuridão me invadindo,
+	e, em seguida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I suddenly
-	lost consciousness.
+	... perdi a consciência,
+	de repente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I apologize⋯
-	⋯for what I've done.
+	Peço desculpas...
+	pelo que eu fiz.
 	"""
 	keyWait
 		any = false
@@ -143,35 +143,35 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Don't be sorry!"
+	"Besteira!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just happy
-	that you and
-	SerchMan are OK!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Good work,MegaMan.
-	Jack out!!!
+	Eu só tô feliz que você
+	e o SearchMan tão bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Town should
-	be OK now.
+	Mandou bem, MegaMan.
+	Agora, desconecta!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now to Chaud's to
-	think up a plan!
+	O Bairro ACDC já
+	deve tá bem agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Hora da gente ir
+	até o Chaud pra
+	bolar um plano!
 	"""
 	keyWait
 		any = false
@@ -183,7 +183,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -192,7 +192,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Raaahhh!!!"
+	"Aaaarrrhhh!!!"
 	keyWait
 		any = false
 	end
@@ -202,8 +202,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Now,MegaMan!
-	The server!!!
+	Agora, MegaMan!
+	O servidor!!!
 	"""
 	keyWait
 		any = false
@@ -224,7 +224,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"We did it,Lan!!!"
+	"Foi, Lan!!!"
 	keyWait
 		any = false
 	end
@@ -233,7 +233,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Uhhh,ahhh⋯"
+	"Ungh... Arh..."
 	keyWait
 		any = false
 	clearMsg
@@ -255,7 +255,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"⋯Lan,what did I⋯"
+	"... Lan...\nO que foi que eu..."
 	keyWait
 		any = false
 	clearMsg
@@ -267,16 +267,16 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You OK now?
-	Phew! You had me
-	worried there.
+	Tudo bem contigo agora?
+	Ufa! Eu fiquei mó
+	preocupado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is NumberMan OK,
-	too?
+	O NumberMan
+	também tá bem?
 	"""
 	keyWait
 		any = false
@@ -289,37 +289,36 @@ script 19 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	⋯NumberMan's
-	fine.
+	... O NumberMan tá, sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry for all
-	the trouble⋯
+	Desculpa por toda essa
+	dor de cabeça, é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I felt this dark
-	feeling welling up
-	inside me,and then⋯
+	... Eu senti uma
+	escuridão me invadindo,
+	e, em seguida...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I suddenly
-	lost consciousness.
+	... perdi a consciência,
+	de repente. É...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I apologize⋯
-	⋯for what I've done.
+	Desculpa...
+	pelo que eu fiz, é.
 	"""
 	keyWait
 		any = false
@@ -331,35 +330,35 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Don't be sorry!"
+	"Besteira!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm just happy
-	that you and
-	NumberMan are OK!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Good work,MegaMan.
-	Jack out!!!
+	Eu só tô feliz que você
+	e o NumberMan tão bem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Town should
-	be OK now.
+	Mandou bem, MegaMan.
+	Agora, desconecta!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now to Baryl's to
-	think up a plan!
+	O Bairro ACDC já
+	deve tá bem agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Hora da gente ir
+	até o Baryl pra
+	bolar um plano!
 	"""
 	keyWait
 		any = false
@@ -371,7 +370,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

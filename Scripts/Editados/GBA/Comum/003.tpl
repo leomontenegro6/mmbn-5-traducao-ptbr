@@ -31,9 +31,9 @@ script 0 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	ACDC Town, our home.
-	You shouldn't need
-	a description!
+	É o Bairro ACDC, nosso
+	lar. Você não devia
+	precisar de descrição!
 	"""
 	waitHold
 }
@@ -68,9 +68,9 @@ script 1 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	It's SciLab. They
-	study advanced
-	technologies there!
+	O SciLab. Aqui,
+	cientistas pesquisam
+	tecnologias avançadas!
 	"""
 	waitHold
 }
@@ -105,9 +105,8 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	It's Oran Isle.
-	It's currently
-	uninhabited.
+	É a Ilha Oran.
+	No presente, inabitada.
 	"""
 	waitHold
 }
@@ -142,8 +141,9 @@ script 3 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	End City. It's known
-	for GargoylCastle!
+	É a Cidade de Endo.
+	Famosa pelo Castelo
+	Shachi!
 	"""
 	waitHold
 }
@@ -152,9 +152,8 @@ script 5 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	ACDC Town.
-	It's a suburb
-	of DenCity.
+	Bairro ACDC.
+	Um subúrbio de DenCity.
 	"""
 	waitHold
 }
@@ -163,9 +162,9 @@ script 6 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	SciLab. Scientists
-	study advanced
-	technologies there.
+	SciLab. Aqui, cientistas
+	pesquisam tecnologias
+	avançadas.
 	"""
 	waitHold
 }
@@ -174,9 +173,9 @@ script 7 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Oran Isle. People
-	used to mine there.
-	It's uninhabited.
+	Ilha Oran. Outrora,
+	uma área de mineração.
+	Atualmente, inabitada.
 	"""
 	waitHold
 }
@@ -185,8 +184,9 @@ script 8 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	End City. It's known
-	for GargoylCastle!
+	É a Cidade de Endo.
+	Famosa pelo Castelo
+	Shachi.
 	"""
 	waitHold
 }
@@ -198,9 +198,8 @@ script 10 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	ACDC Town. It's
-	a suburb
-	of DenCity.
+	Bairro ACDC.
+	Um subúrbio de DenCity.
 	"""
 	waitHold
 }
@@ -212,9 +211,9 @@ script 11 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	SciLab. Scientists
-	study advanced
-	technologies there.
+	SciLab. Aqui, cientistas
+	pesquisam tecnologias
+	avançadas.
 	"""
 	waitHold
 }
@@ -226,9 +225,9 @@ script 12 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Oran Isle. People
-	used to mine there.
-	It's uninhabited.
+	Ilha Oran. Outrora,
+	uma área de mineração.
+	Atualmente, inabitada.
 	"""
 	waitHold
 }
@@ -240,8 +239,9 @@ script 13 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	End City. It's known
-	for GargoylCastle.
+	É a Cidade de Endo.
+	Famosa pelo Castelo
+	Shachi.
 	"""
 	waitHold
 }
@@ -253,9 +253,8 @@ script 15 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	ACDC Town. It's
-	a suburb
-	of DenCity.
+	Bairro ACDC.
+	Um subúrbio de DenCity.
 	"""
 	waitHold
 }
@@ -267,9 +266,9 @@ script 16 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	SciLab. Scientists
-	study advanced
-	technologies there.
+	SciLab. Aqui, cientistas
+	pesquisam tecnologias
+	avançadas.
 	"""
 	waitHold
 }
@@ -281,9 +280,9 @@ script 17 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Oran Isle. People
-	used to mine there.
-	It's uninhabited.
+	Ilha Oran. Outrora,
+	uma área de mineração.
+	Atualmente, inabitada.
 	"""
 	waitHold
 }
@@ -295,8 +294,9 @@ script 18 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	End City. It's known
-	for GargoylCastle.
+	É a Cidade de Endo.
+	Famosa pelo Castelo
+	Shachi.
 	"""
 	waitHold
 }

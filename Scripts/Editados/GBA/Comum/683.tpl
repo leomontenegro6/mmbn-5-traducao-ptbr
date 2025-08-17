@@ -34,47 +34,48 @@ script 5 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	Huh? Am I
-	Mr.Hide&Seek?
+	Hã? Se eu sou o
+	Sr. Esconde-Esconde?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You think I'm
-	a boy?
-	That's ridiculous!
+	Você acha que
+	eu sou menino?
+	Ai, que ridículo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	OK! I give up!
-	This isn't my
-	style.
+	Tá, eu desisto!
+	Isto aqui não faz
+	o meu estilo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the 2nd time
-	I've been done in by
-	my own plan.
+	Esta é a segunda vez
+	que a minha genialidade
+	me entregou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like I keep
-	outsmarting myself.
+	É como se eu não
+	parasse de me
+	superar, sabe?
 	"""
 	keyWait
 		any = false
@@ -82,9 +83,9 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Um⋯
-	Could we just get on
-	with this please.
+	...
+	A gente pode só
+	continuar com o lance?
 	"""
 	keyWait
 		any = false
@@ -92,9 +93,9 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	"""
-	Oh,yeah⋯
-	Sorry!
-	Go ahead and say it.
+	Ah, sim...
+	Foi mal!
+	Pode falar.
 	"""
 	keyWait
 		any = false
@@ -102,8 +103,8 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	One,two,three⋯
-	Got ya!
+	Um, dois, três...
+	"Te peguei!"
 	"""
 	keyWait
 		any = false
@@ -112,42 +113,42 @@ script 5 mmbn5 {
 		mugshot = NaviGirlPurple
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"*sigh*"
+	"Ai, ai..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never thought
-	I'd be pursued
-	this far.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	This calls for
-	drastic measures!
+	Nunca achei que eu
+	fosse ser seguido
+	até este ponto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next round is in
-	the real world!
+	Isso exige medidas
+	drásticas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the last
-	one,so no hints!
-	Just try to find me!
+	A próxima rodada vai
+	ser no mundo real!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É a última, então,
+	não vou dar pistas!
+	Só tenta me achar!
 	"""
 	keyWait
 		any = false
@@ -158,15 +159,16 @@ script 6 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	My next hiding place
-	will be somewhere in
+	Meu próximo esconderijo
+	vai ser em algum ponto
+	do mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the real world.
-	No hints this time!
+	Eu não vou dar
+	pistas desta vez!
 	"""
 	keyWait
 		any = false
@@ -190,15 +192,15 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = NaviGirlPurple
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	That's not a normal
-	look. Something's
-	definitely wrong.
+	Esse não é um olhar
+	normal. Tem alguma
+	coisa errada aqui.
 	"""
 	keyWait
 		any = false
@@ -209,8 +211,8 @@ script 8 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	H⋯⋯I
-	⋯Hi⋯⋯⋯ek?
+	O... E...
+	SR... NDE?
 	"""
 	keyWait
 		any = false
@@ -218,9 +220,9 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -231,31 +233,31 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS THE
-	FURNACECOMP AT
-	MS. YAI'S HOUSE.
+	ESTE É O COMPUTADOR
+	DA FORNALHA DA CASA
+	DA SRTA. YAI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT IT'S MORE
-	THAN A HEATER!
+	MAS ELA É MAIS DO QUE
+	SÓ UM MERO AQUECEDOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S A SUPER SYSTEM
-	THAT BOTH HEATS
-	AND COOLS.
+	NÃO, É UM SUPER
+	SISTEMA CAPAZ DE
+	AQUECER E RESFRIAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SHALL I HEAT YOU UP
-	OR COOL YOU DOWN?
+	E AÍ, QUER QUE EU
+	TE AQUEÇA OU ESFRIE?
 	"""
 	keyWait
 		any = false
@@ -266,8 +268,8 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PL⋯⋯YO⋯
-	TI⋯
+	POR... VO...
+	TEM...
 	"""
 	keyWait
 		any = false
@@ -275,9 +277,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -288,16 +290,16 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UUUH⋯
-	I FEEL SO ANNOYED!
+	UUURGH...
+	EU TÔ TÃO IRRITADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WANNA TAKE IT OUT
-	BY MAKING THIS PLACE
-	A SWELTERING JUNGLE!
+	QUERO DESCONTAR A
+	RAIVA TRANSFORMANDO
+	O LUGAR NUM FORNO!
 	"""
 	keyWait
 		any = false
@@ -308,20 +310,21 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I DON'T QUITE RECALL
-	WHAT JUST HAPPENED.
+	EU NÃO CONSIGO ME
+	LEMBRAR BEM DO QUE
+	ACONTECEU.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I THINK I SAID
-	SOMETHING TERRIBLE.
+	ACHO QUE EU DISSE
+	UMA COISA HORRÍVEL.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT HAVE I DONE⋯?"
+	"O QUE FOI\nQUE EU FIZ...?"
 	keyWait
 		any = false
 	end

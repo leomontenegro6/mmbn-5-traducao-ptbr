@@ -5,7 +5,7 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It looks like
+	Eu acho que a
 	"
 	"""
 	printItem
@@ -13,19 +13,19 @@ script 0 mmbn5 {
 		item = 9
 	"""
 	"
-	will work here,too.
+	também serve aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There're probably
-	viruses here,too⋯
+	Mas aposto que também
+	tem vírus aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Yep,I knew it!!!"
+	"Aham, sabia!!!"
 	keyWait
 		any = false
 	flagSet

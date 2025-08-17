@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Liberate panels!"
+	"Liberar quadros!"
 	keyWait
 		any = false
 	end
@@ -14,8 +14,8 @@ script 1 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Great!
-	I liberated it!
+	Maravilha!
+	Liberei!
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,8 @@ script 2 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Awesome!
-	1 turn liberation!
+	É isso aí!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -38,8 +38,8 @@ script 3 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Oh,no!
-	Liberation failed!
+	Essa não!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -49,7 +49,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -58,7 +58,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -68,8 +68,8 @@ script 6 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Yes! TwinLiberation
-	succeeded!
+	Isso! Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -80,15 +80,15 @@ script 7 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Alright!
-	1 turn liberation!
+	Legal!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -99,8 +99,8 @@ script 8 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -111,8 +111,8 @@ script 40 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Want to chop
-	around this area?
+	Quer que eu
+	fatie esta área?
 	
 	"""
 	positionOptionHorizontal
@@ -125,7 +125,7 @@ script 40 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -134,7 +134,7 @@ script 40 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -152,9 +152,9 @@ script 41 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,TomahawkMan!
-	We're using Order
-	Points!
+	OK, TomahawkMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -165,8 +165,8 @@ script 42 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	TIMBERRRR!
-	TomahawkSwing!
+	MADEEEEIRAAAA!
+	Corte da Machadinha!
 	"""
 	keyWait
 		any = false
@@ -177,8 +177,8 @@ script 60 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Recover HP during
-	this phase?
+	Restaurar PV
+	durante esta fase?
 	
 	"""
 	positionOptionHorizontal
@@ -191,7 +191,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -200,7 +200,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -218,8 +218,8 @@ script 61 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	End phase without
-	doing anything?
+	Encerrar fase
+	sem fazer nada?
 	
 	"""
 	positionOptionHorizontal
@@ -232,7 +232,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -241,7 +241,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -259,8 +259,7 @@ script 70 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -270,8 +269,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	TomahawkMan got:
-	"Heart"!!
+	TomahawkMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -283,13 +282,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"TomahawkMan recovers\n"
+	"TomahawkMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -299,8 +298,8 @@ script 72 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -310,8 +309,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	TomahawkMan got:
-	"Order Points"!!
+	TomahawkMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -325,7 +324,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -335,8 +334,7 @@ script 73 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -346,7 +344,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	TomahawkMan got:
+	TomahawkMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -368,8 +366,8 @@ script 74 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -378,13 +376,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"TomahawkMan got:\n"
+	"TomahawkMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -398,8 +396,8 @@ script 75 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -409,8 +407,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	TomahawkMan got a
-	BattleChip for:
+	TomahawkMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -431,8 +429,9 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	TomahawkMan's HP
-	recovered to max!
+	Os PV de TomahawkMan
+	foram restaurados
+	ao máximo!
 	"""
 	keyWait
 		any = false
@@ -441,8 +440,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -463,13 +462,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"TomahawkMan received\n"
+	"TomahawkMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -495,8 +494,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	TomahawkMan
-	has been paralyzed!
+	TomahawkMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -506,14 +505,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	TomahawkMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -523,14 +522,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	TomahawkMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -547,7 +546,7 @@ script 87 mmbn5 {
 	mugshotHide
 	"""
 	TomahawkMan
-	became paralyzed!
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -558,17 +557,16 @@ script 90 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Nngh! I-I can't
-	m-move⋯
+	Nngh! N-não consigo
+	me mover...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	TomahawkMan
-	has been
-	frozen!
+	TomahawkMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -579,8 +577,9 @@ script 91 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -590,7 +589,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -601,7 +600,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -610,7 +609,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -625,8 +624,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -637,8 +636,8 @@ script 105 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	YES! YES!
-	We got the boss!
+	BOA! ISSO AÍÍ!
+	Acabamos com o chefão!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I guess this is the
-	server.
+	Acho que é esse
+	o servidor.
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right,better start
-	fixing it!
+	É. Melhor começar logo
+	a consertar ele!
 	"""
 	keyWait
 		any = false
@@ -33,7 +33,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Stop right there!"
+	"Parado aí!"
 	keyWait
 		any = false
 	end
@@ -42,13 +42,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"SerchMan!"
+	"SearchMan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this was your
-	doing! I knew it!
+	Então, isso tinha dedo
+	seu! Eu sabia!
 	"""
 	keyWait
 		any = false
@@ -61,16 +61,16 @@ script 4 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I could say the same
-	to you!
+	Pois eu digo o
+	mesmo de você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who'd have thought
-	you'd surrender to
-	Nebula⋯
+	Nunca imaginei que
+	você iria para o
+	lado da Nebula...
 	"""
 	keyWait
 		any = false
@@ -83,9 +83,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you talking
-	about?! It's you
-	who's with Nebula!
+	Mas que papo é esse?!
+	É VOCÊ é que tá com a
+	Nebula!
 	"""
 	keyWait
 		any = false
@@ -98,9 +98,8 @@ script 6 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Don't waste your
-	breath! Get him,
-	SerchMan!
+	Não desperdice saliva!
+	Abata-o, SearchMan!
 	"""
 	keyWait
 		any = false
@@ -112,11 +111,11 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Target MegaMan!"
+	"Alvo: MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Lockon!"
+	"Na mira!"
 	keyWait
 		any = false
 	clearMsg
@@ -127,7 +126,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Stop right there!"
+	"Parado aí!"
 	keyWait
 		any = false
 	end
@@ -141,8 +140,8 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	So this was your
-	doing! I knew it!
+	Então, isso tinha dedo
+	seu! Eu sabia!
 	"""
 	keyWait
 		any = false
@@ -155,16 +154,16 @@ script 10 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I could say the same
-	to you!
+	Pois eu digo o
+	mesmo de você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why did you do that
-	to Ms.Mariko's
-	Navi?!
+	Por que você fez
+	aquilo com a Navi
+	da Srta. Mari?!
 	"""
 	keyWait
 		any = false
@@ -177,16 +176,15 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What?! You're
-	talking gibberish!
+	O quê?!
+	Para de falar abobrinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're the one who's
-	become a Nebula
-	Navi!
+	Foi você quem resolveu
+	virar um Navi da Nebula!
 	"""
 	keyWait
 		any = false
@@ -199,15 +197,14 @@ script 12 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	It's you who's
-	talking gibberish,
-	huh!
+	Isso, sim, é que é
+	a abobrinha aqui! É!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Attack him,
+	Pra cima dele,
 	NumberMan!
 	"""
 	keyWait
@@ -221,8 +218,8 @@ script 13 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Hah! It's payback
-	time!
+	Rá!
+	Hora da vingança!
 	"""
 	keyWait
 		any = false
@@ -234,7 +231,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"This is it,Lan!"
+	"Tá na hora, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -246,8 +243,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -259,7 +257,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -272,8 +270,7 @@ script 17 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Prepare yourself,
-	MegaMan!
+	Prepare-se, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -284,7 +281,7 @@ script 18 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	I'll get you,
+	Eu vou te pegar,
 	MegaMan!
 	"""
 	keyWait

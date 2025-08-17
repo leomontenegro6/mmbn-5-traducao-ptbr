@@ -9,21 +9,22 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	now let's use both
-	support and weapon
-	chips in our attack!
+	agora, vamos usar
+	chips de apoio e de
+	armas no ataque!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AreaGrab you see
-	there gives me more
+	O AreaGrab que você
+	deve ter aí me dará
+	mais espaço pra me
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"room to move around."
+	"locomover."
 	keyWait
 		any = false
 	end
@@ -33,9 +34,9 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Using AreaGrab with
-	WideSwrd is a very
-	effective strategy.
+	Usar o AreaGrab com
+	a WideSwrd é uma
+	estratégia das boas.
 	"""
 	keyWait
 		any = false
@@ -46,9 +47,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,you can only
-	select the same type
-	of chips together⋯
+	Ah, mas só dá pra
+	selecionar chips do
+	mesmo tipo, né...?
 	"""
 	keyWait
 		any = false
@@ -60,9 +61,9 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Come on,Lan!
-	You forget,already?
-	Take a look at this!
+	Sério, Lan?
+	Cê já esqueceu?!
+	Olha aqui!
 	"""
 	keyWait
 		any = false
@@ -73,69 +74,71 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoops! I completely
-	forgot!
+	Ah, é! Nossa, tinha
+	dado um branco total!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These letters are a
-	chip code. Different
-	types of chips can
+	Essas letras são os
+	códigos dos chips. Chips
+	de tipos diferentes
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	be selected together
-	as long as they
-	have the same code!
+	podem ser selecionados
+	juntos, desde que
+	tenham o mesmo código!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see⋯ Area-
-	Grab and WideSwrd
-	have the same code
+	Deixa eu ver...
+	AreaGrab e WideSwrd
+	têm o mesmo código,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I can select
-	them together!
+	então, eu posso
+	selecionar os dois
+	juntos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The chips with an
-	"*" are like wild-
+	Os chips que tem "*"
+	como código são tipo
+	curingas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	cards.
-	I can select them
-	with any other code!
+	Dá pra selecionar eles
+	junto de qualquer outro
+	código!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll try it with "S"
-	since there's no
-	"*"!
+	Bom, eu vou só seleci-
+	onar chips "S", já que
+	não tem nenhum "*"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Attack with Area-
-	Grab and WideSwrd!
+	Ataca com o Area-
+	Grab e a WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -146,8 +149,8 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,AreaGrab!
-	OK,now use
+	Boa, AreaGrab!
+	OK, agora, manda a
 	WideSwrd!
 	"""
 	keyWait
@@ -159,9 +162,9 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,select AreaGrab
-	first! Cancel with
-	the B Button now.
+	Lan, seleciona o
+	AreaGrab primeiro!
+	Cancela com "B".
 	"""
 	keyWait
 		any = false
@@ -172,9 +175,9 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Select AreaGrab!
-	Cancel with the
-	B Button now.
+	Seleciona o AreaGrab!
+	Pra cancelar, aperte
+	"B".
 	"""
 	keyWait
 		any = false
@@ -185,9 +188,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	AreaGrab first! Use
-	the B Button if
-	another's selected.
+	Primeiro, o AreaGrab!
+	Aperte "B" se já
+	selecionou outro.
 	"""
 	keyWait
 		any = false
@@ -198,15 +201,14 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you got the
-	order wrong.
+	Lan, cê errou a ordem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cancel by pressing
-	the B Button twice.
+	Aperta "B" duas
+	vezes pra cancelar.
 	"""
 	keyWait
 		any = false
@@ -217,9 +219,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Now I just
-	select OK to send
-	the data to MegaMan.
+	Boa! Agora, é só eu
+	apertar "OK" e mandar
+	os dados pro MegaMan.
 	"""
 	keyWait
 		any = false
@@ -230,8 +232,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there's no
-	need to cancel!
+	Lan, não precisa
+	cancelar!
 	"""
 	keyWait
 		any = false
@@ -242,9 +244,9 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,there's no need
-	to cancel! Send the
-	chip data,quickly!
+	Lan, não tem por que
+	cancelar! Manda logos
+	os dados dos chips!
 	"""
 	keyWait
 		any = false
@@ -255,9 +257,9 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This time,send
-	WideSwrd along
-	with AreaGrab.
+	Desta vez, manda a
+	WideSwrd junto com o
+	AreaGrab.
 	"""
 	keyWait
 		any = false
@@ -268,9 +270,9 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There's a virus on
-	the web page. This
-	is no time to run!
+	Tem um vírus aqui,
+	na página.
+	Não é hora de fugir!
 	"""
 	keyWait
 		any = false
@@ -281,13 +283,17 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	I sent the data!
+	MegaMan, eu mandei
+	os dados!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's score a combo!"
+	"""
+	Hora da gente fazer
+	essa combinação
+	acontecer!
+	"""
 	keyWait
 		any = false
 	end
@@ -297,29 +303,23 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! Time for
-	a combo!!!
+	Beleza!
+	Hora da combinação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By using AreaGrab
-	with the A Button,
+	Usando o AreaGrab
+	apertando "A",
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	part of the
-	viruses' area
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	will become
-	ours to use!
+	a gente rouba parte
+	da área dos vírus
+	pra gente mesmo usar!
 	"""
 	keyWait
 		any = false
@@ -330,28 +330,29 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Now we can move up
-	and use WideSwrd!
+	Agora a gente pode
+	avançar mais e
+	usar a WideSwrd!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a powerful
-	attack but remember,
+	É um ataque forte,
+	mas lembre-se:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to get
-	close to a virus
-	to strike it!
+	eu tenho que estar
+	perto do vírus pra
+	acertar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's give it a try!"
+	"Bom, vamos lá!"
 	keyWait
 		any = false
 	end

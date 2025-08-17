@@ -15,8 +15,8 @@ script 0 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I'm looking for a
-	"
+	Eu tô atrás de um
+	chip "
 	"""
 	printChip
 		buffer = 0
@@ -25,19 +25,19 @@ script 0 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	"\" chip."
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You got one?
-	If you do,
+	Cê tem um aí?
+	Se tiver,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll trade ya my
+	eu troco por um
 	"
 	"""
 	printChip
@@ -48,13 +48,12 @@ script 0 mmbn5 {
 		buffer = 0
 		code = *
 	"""
-	"
-	for it.
+	".
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -69,7 +68,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -78,7 +77,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -93,8 +92,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Come and trade with
-	me if you get a
+	Venha trocar comigo
+	se achar um
 	"
 	"""
 	printChip
@@ -104,7 +103,7 @@ script 0 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	".\""
+	"\"."
 	keyWait
 		any = false
 	end
@@ -120,17 +119,16 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"You'll trade?!"
+	"Vai trocar?!"
 	keyWait
 		any = false
 	clearMsg
-	"Ya-hoo!"
+	"Legal!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's do
-	it then!
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -147,7 +145,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan traded his
+	Lan trocou um
 	"
 	"""
 	printChip
@@ -162,7 +160,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printChip
@@ -172,7 +170,7 @@ script 1 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	".\""
+	"\"."
 	playerFinish
 	playerResetObject
 	keyWait
@@ -181,15 +179,15 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Thanks!
-	Use it well!!!
+	Valeu!
+	Usa ele bem!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Time to bust
-	some viruses!!!
+	Hora de dar uma lição
+	em uns vírus!!!
 	"""
 	keyWait
 		any = false
@@ -202,8 +200,8 @@ script 2 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Huh? You don't have
-	a "
+	Hã? Cê não tem um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -212,13 +210,13 @@ script 2 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it's in
-	your folder.
+	Será que tá na sua
+	pasta?
 	"""
 	keyWait
 		any = false
@@ -228,12 +226,12 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Oh,it's you!!!"
+	"Ah, é você!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you find a
+	E aí, conseguiu um
 	"
 	"""
 	printChip
@@ -248,8 +246,8 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	If ya did,wanna
-	trade it for my
+	Se sim, topa trocar
+	pelo meu
 	"
 	"""
 	printChip
@@ -274,7 +272,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -283,7 +281,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -297,7 +295,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = BlueShirtBoy
-	"I see⋯"
+	"Entendo..."
 	keyWait
 		any = false
 	end
@@ -307,8 +305,8 @@ script 4 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	It's virus-busting
-	time.
+	Hora de deleter uns
+	vírus!
 	"""
 	keyWait
 		any = false
@@ -322,13 +320,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	msgOpen
-	"Uh,ah,ahhhh!!!"
+	"Urhh! Ah, ahhhh!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate everyone
-	and everything!!!
+	Eu odeio a tudo e a
+	todos!!!
 	"""
 	keyWait
 		any = false

@@ -2,14 +2,14 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Full of shoes."
+	"Cheio de sapatos."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mom's special dress
-	shoes are kept
-	in the back.
+	Os saltos chiques
+	especiais da sua
+	mãe estão no fundo.
 	"""
 	keyWait
 		any = false
@@ -18,9 +18,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The inside of the
-	refrigerator is
-	neatly arranged.
+	O interior da geladeira
+	está muito bem
+	organizado.
 	"""
 	keyWait
 		any = false
@@ -29,17 +29,17 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A kitchen designed
-	especially for Mom's
-	style of cooking.
+	Cozinha projetada espe-
+	cialmente para o estilo
+	culinário da sua mãe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can sense Mom's
-	attention to detail
-	in the kitchen.
+	Pode-se sentir o
+	cuidado dela para com
+	detalhes em cada canto.
 	"""
 	keyWait
 		any = false
@@ -48,17 +48,17 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Mom really gets into
-	choosing the right
-	groceries.
+	Sua mãe se empenha
+	em escolher as coisas
+	certas no mercado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Her keen insight is
-	much like that of a
-	skilled NetBattler.
+	A perspicácia dela é
+	comparável à de um
+	NetLutador habilidoso.
 	"""
 	keyWait
 		any = false
@@ -67,16 +67,16 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Beautifully arranged
-	tableware that also
-	functions as part of
+	Talheres lindamente
+	organizados. Também
+	cumprem uma função
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the room's interior
-	design.
+	como parte da
+	decoração da sala.
 	"""
 	keyWait
 		any = false
@@ -85,16 +85,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	This is a
-	control panel.
+	Esse é um painel
+	de controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can remotely
-	control all the
-	house's appliances.
+	Ele é capaz de contro-
+	lar remotamente todos
+	os utensílios da casa.
 	"""
 	keyWait
 		any = false
@@ -103,16 +103,17 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	Thin panel TV that
-	first wowed the
+	TV tela plana de parede
+	que, no lançamento,
+	maravilhou o público
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	masses with its
-	ability to display
-	every detail.
+	com sua capacidade
+	de exibir cada mínimo
+	detalhe.
 	"""
 	keyWait
 		any = false
@@ -121,15 +122,15 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	Bright red flowers
-	in a vase.
+	Belas flores vermelhas
+	em um vaso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They give off a
-	pleasant scent.
+	Exalam um aroma
+	agradável.
 	"""
 	keyWait
 		any = false
@@ -138,9 +139,9 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A coffee table that
-	calms the soul with
-	its simple design.
+	Uma mesinha de café,
+	cujo visual simples
+	tranquiliza a alma.
 	"""
 	keyWait
 		any = false
@@ -161,9 +162,9 @@ script 10 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 15
 	"""
-	Potatoes,carrots,
-	beef and other
-	ingredients.
+	Batatas, cenouras,
+	carne, dentre outros
+	ingredientes.
 	"""
 	keyWait
 		any = false
@@ -175,28 +176,28 @@ script 11 mmbn5 {
 		jumpIfTeamColonel = 16
 	msgOpen
 	"""
-	Looks like beef stew
-	for dinner tonight.
+	Parece que vamos ter
+	ensopado pro jantar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
-	"*growl*"
+	"Ronc!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan's stomach growls
-	in anticipation.
+	O estômago do Lan
+	ronca de ansiedade.
 	"""
 	keyWait
 		any = false
@@ -214,49 +215,51 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This doghouse"
+	"Esta casinha de\ncachorro"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's some
-	writing!
+	Tem alguma coisa
+	escrita nela!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Gow is⋯ ⋯cleans the\n air at the island\n coal mine⋯"
+	"\"O Gáu está... ... limpa\no ar na mina de\ncarvão da ilha..."
 	keyWait
 		any = false
 	clearMsg
-	" ⋯something in\n corner of floor⋯\""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It was written long
-	ago and is difficult
-	to read.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Gow again⋯"
+	"... uma coisa no\ncanto da área...\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder what this
-	means?
+	Foi escrito há muito
+	tempo e está difícil
+	de ler.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Gáu de novo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O que será que isso
+	significa?
 	"""
 	keyWait
 		any = false
@@ -267,16 +270,16 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	There are 2 dog-
-	houses out back.
-	This is the old one.
+	Há duas casinhas de
+	cachorro aqui.
+	Esta é a antiga.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It hasn't been used
-	for a long time.
+	Não é usada já há
+	muito tempo.
 	"""
 	keyWait
 		any = false
@@ -285,23 +288,23 @@ script 13 mmbn5 {
 script 14 mmbn5 {
 	msgOpen
 	"""
-	On the back of the
-	doghouse,
+	Na parte de trás da
+	casinha de cachorro,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Gow is⋯ ⋯cleans the\n air at the island\n coal mine⋯"
+	"\"O Gáu está... ... limpa\no ar na mina de\ncarvão da ilha..."
 	keyWait
 		any = false
 	clearMsg
-	" ⋯something in\n corner of floor⋯\""
+	"... uma coisa no\ncanto da área...\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is written in
-	marking pen.
+	foi escrito com
+	pincel atômico.
 	"""
 	keyWait
 		any = false
@@ -310,15 +313,15 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	Mom's homemade
-	pasta is the best.
+	O macarrão caseiro da
+	mãe do Lan é sem igual.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once you try it,
-	you're hooked.
+	É só comer uma vez
+	que você vicia.
 	"""
 	keyWait
 		any = false
@@ -327,28 +330,28 @@ script 15 mmbn5 {
 script 16 mmbn5 {
 	msgOpen
 	"""
-	Today's dinner is
-	spaghetti and meat.
+	O jantar de hoje é
+	espaguete à bolonhesa.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
-	"*growl*"
+	"Ronc!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan's stomach growls
-	in anticipation.
+	O estômago do Lan
+	ronca de ansiedade.
 	"""
 	keyWait
 		any = false

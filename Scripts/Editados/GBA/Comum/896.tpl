@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you okay?!"
+	"Você tá bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,23 +16,23 @@ script 1 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I-I'm⋯OK⋯
-	⋯⋯
+	E-estou, sim...
+	......
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Qu-Quick! The Bridge
-	up ahead⋯ They've
-	hijacked⋯the ship⋯
+	R-rápido! A ponte,
+	logo à frente... Eles...
+	sequestraram o navio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯Thud!"
+	"... Tonc!"
 	keyWait
 		any = false
 	clearMsg
@@ -45,7 +45,7 @@ script 2 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	end

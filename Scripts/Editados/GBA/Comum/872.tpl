@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"You've come far!"
+	"Olha, cê veio bem longe!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,7 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No more running away
-	for you!
+	Você não vai mais fugir!
 	"""
 	keyWait
 		any = false
@@ -30,13 +29,12 @@ script 2 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Charlie,are you
-	getting this?
+	Ouviu isso, Charlie?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's the word?"
+	"Qual é a ordem da vez?"
 	keyWait
 		any = false
 	clearMsg
@@ -48,16 +46,17 @@ script 3 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Hmm,yes,enough
-	playing around!
+	Hmm...
+	É, acho que já tá
+	bom de brincadeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's show them how
-	much more you can do
-	than run!
+	Bora mostrar como
+	você sabe fazer muito
+	mais do que só correr!
 	"""
 	keyWait
 		any = false
@@ -69,7 +68,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -79,8 +78,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,is coming!
-	Prepare yourself!
+	MegaMan, aí vem ele!
+	Prepara!
 	"""
 	keyWait
 		any = false
@@ -104,8 +103,8 @@ script 7 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	This'll be great
-	fun!
+	Isso vai ser
+	TÃO divertido!
 	"""
 	keyWait
 		any = false
@@ -117,11 +116,14 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ready,MegaMan!"
+	"Pronto, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -132,7 +134,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -141,7 +143,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"You've come far."
+	"Parabéns por chegar\ntão longe assim."
 	keyWait
 		any = false
 	clearMsg
@@ -153,8 +155,7 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No more running away
-	for you!
+	Você não vai mais fugir!
 	"""
 	keyWait
 		any = false
@@ -167,8 +168,8 @@ script 12 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Master,what shall I
-	do with them?
+	Hmf. O que devo fazer
+	com eles, Dark?
 	"""
 	keyWait
 		any = false
@@ -181,9 +182,9 @@ script 13 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Enough tag⋯Go ahead
-	and grant them their
-	wish.
+	Chega de pega-pega...
+	Vá em frente, realize
+	o desejo deles.
 	"""
 	keyWait
 		any = false
@@ -195,7 +196,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"At once!"
+	"Com prazer!"
 	keyWait
 		any = false
 	end
@@ -205,8 +206,8 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,is coming!
-	Prepare yourself!
+	MegaMan, aí vem ele!
+	Prepara!
 	"""
 	keyWait
 		any = false
@@ -229,7 +230,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Engarde!"
+	"Em guarda!"
 	keyWait
 		any = false
 	clearMsg
@@ -240,11 +241,14 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Ready,MegaMan!"
+	"Pronto, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -255,7 +259,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end

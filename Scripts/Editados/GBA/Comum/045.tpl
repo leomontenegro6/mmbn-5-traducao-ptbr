@@ -29,13 +29,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!!!"
+	"Conectar!!!"
 	wait
 		frames = 10
-	"\nMegaMan,"
+	"\nMegaMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!!"
+	"\ntransmissão!!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -46,8 +46,8 @@ script 1 mmbn5 {
 		flag = 4287
 	msgOpen
 	"""
-	MegaMan isn't in
-	the PET⋯
+	O MegaMan não
+	está no PET...
 	"""
 	keyWait
 		any = false
@@ -60,13 +60,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!!!"
+	"Conectar!!!"
 	wait
 		frames = 10
-	"\nProtoMan,"
+	"\nProtoMan.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!!"
+	"\ntransmissão!!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -79,13 +79,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack in!!!"
+	"Conectar!!!"
 	wait
 		frames = 10
-	"\nColonel,"
+	"\nColonel.EXE,"
 	wait
 		frames = 10
-	"\nExecute!!!"
+	"\ntransmissão!!!"
 	wait
 		frames = 30
 	controlUnlock
@@ -98,8 +98,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's call it a
-	day,Lan.
+	Vamos encerrar
+	por hoje, Lan.
 	"""
 	keyWait
 		any = false
@@ -121,8 +121,8 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Mom is calling
-	you,Lan!
+	A mamãe tá te
+	chamando, Lan!
 	"""
 	keyWait
 		any = false
@@ -177,15 +177,17 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This squirrel has
-	a jack,but⋯
+	Este esquilo tem
+	entrada de conexão,
+	mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks too dirty
-	to get any data!
+	parece sujo demais
+	para render quaisquer
+	dados!
 	"""
 	keyWait
 		any = false
@@ -206,9 +208,9 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Net seems to
-	be down. We can't
-	access it.
+	Parece que a Rede
+	caiu. Não dá pra
+	acessá-la.
 	"""
 	keyWait
 		any = false
@@ -225,8 +227,9 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's check the
-	mail,Lan!
+	Vamos conferir a
+	caixa de e-mails,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -235,8 +238,8 @@ script 15 mmbn5 {
 script 16 mmbn5 {
 	msgOpen
 	"""
-	MegaMan isn't in
-	the PET⋯
+	O MegaMan não
+	está no PET...
 	"""
 	keyWait
 		any = false
@@ -253,8 +256,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's check the
-	mail,Lan!
+	Vamos conferir a
+	caixa de e-mails,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -271,9 +275,9 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The Net seems to
-	be down. We can't
-	access it.
+	Parece que a Rede
+	caiu. Não dá pra
+	acessá-la.
 	"""
 	keyWait
 		any = false
@@ -327,8 +331,9 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's check the
-	mail,Lan!
+	Vamos conferir a
+	caixa de e-mails,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -390,8 +395,9 @@ script 28 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what
-	Chaud will give us?
+	O que será que o
+	Chaud vai dar pra
+	gente?
 	"""
 	keyWait
 		any = false
@@ -404,8 +410,9 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what
-	Baryl will give us?
+	O que será que o
+	Baryl vai dar pra
+	gente?
 	"""
 	keyWait
 		any = false

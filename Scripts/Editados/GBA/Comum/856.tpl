@@ -5,17 +5,16 @@ script 0 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	There's a band of
-	petty resisters
-	puttering around⋯
+	Há um grupinho de
+	revoltosos patéticos
+	esperneando por aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and liberating the
-	Net areas we've
-	secured.
+	liberando as áreas da
+	Rede que já conquistamos.
 	"""
 	keyWait
 		any = false
@@ -27,7 +26,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Rrgh⋯"
+	"Rrgh..."
 	keyWait
 		any = false
 	clearMsg
@@ -39,17 +38,17 @@ script 2 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	The research must be
-	completed before
-	we're interrupted.
+	A pesquisa precisa ser
+	concluída antes que
+	sejamos interrompidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Hikari,
-	perhaps it's about
-	time you tell us?
+	Dr. Hikari, não acha
+	que já passou da hora
+	de você falar?
 	"""
 	keyWait
 		any = false
@@ -61,7 +60,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"I⋯I know nothing!"
+	"Eu... eu não sei de nada!"
 	keyWait
 		any = false
 	clearMsg
@@ -73,23 +72,23 @@ script 4 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	I'm a bit short
-	on time.
+	Hm. Eu estou ficando
+	sem tempo, doutor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd rather not show
-	you my bad side.
+	E prefiro não ter de
+	lhe mostrar o meu
+	lado desagradável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where is the prize
-	that was entrusted
-	to you?
+	Onde está o prêmio que
+	foi confiado a você?
 	"""
 	keyWait
 		any = false
@@ -102,8 +101,8 @@ script 5 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I told you,I don't
-	know!
+	Eu já falei
+	que eu não sei!
 	"""
 	keyWait
 		any = false
@@ -116,17 +115,17 @@ script 6 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Yes,of course,it's
-	possible that you've
-	forgotten⋯after all,
+	... Bom, acho que é
+	possível que você tenha
+	esquecido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it has been a while.
-	Will this help jog
-	your memory?
+	Afinal, já faz um tempo.
+	Será que isto ajudaria a
+	refrescar sua memória?
 	"""
 	keyWait
 		any = false
@@ -140,7 +139,7 @@ script 7 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 248
-	"*click*"
+	"Clic!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,7 +147,7 @@ script 7 mmbn5 {
 		timer = 0
 		value = 1
 	soundDisableTextSFX
-	"*zzzhhkt! zzzhhkt!*"
+	"Tzzzt! Tzzzz!"
 	keyWait
 		any = false
 	clearMsg
@@ -162,7 +161,7 @@ script 8 mmbn5 {
 	storeTimer
 		timer = 0
 		value = 2
-	"Aieeghh!"
+	"Aaaarraaaagh!"
 	keyWait
 		any = false
 	clearMsg
@@ -174,9 +173,9 @@ script 9 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Impressive resolve.
-	But it could be your
-	downfall!
+	A sua determinação é
+	louvável. Mas pode,
+	também, ser sua ruína!
 	"""
 	keyWait
 		any = false
@@ -188,7 +187,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Rrgh⋯"
+	"Rrgh..."
 	keyWait
 		any = false
 	clearMsg
@@ -200,9 +199,9 @@ script 11 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	I'll ask again in 1
-	hour. For your sake,
-	I hope you remember.
+	Em uma hora, perguntarei
+	de novo. Espero que se
+	lembre... pelo SEU bem.
 	"""
 	keyWait
 		any = false
@@ -213,38 +212,36 @@ script 11 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = CloudMan
-	"Yes,Master!"
+	"Sim, mestre!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Regal
 	"""
-	That pesky team of
-	resisters⋯
+	Aquela unidade
+	patética de revoltosos
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will breach your
-	area soon.
+	logo invadirá a sua área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = CloudMan
-	"I understand,Master."
+	"Compreendo."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Regal
 	"""
-	Concentrate your
-	forces on the blue
-	Navi.
+	Concentre suas forças
+	no Navi azul.
 	"""
 	keyWait
 		any = false
@@ -252,9 +249,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = CloudMan
 	"""
-	Yes,master,I swear
-	my memory banks on
-	it.
+	Sim, mestre.
+	Juro em nome do meu
+	banco de memória.
 	"""
 	keyWait
 		any = false
@@ -262,9 +259,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	"""
-	MegaMan⋯
-	A pity that we must
-	delete you⋯
+	MegaMan...
+	É uma pena termos
+	que deletar você...
 	"""
 	keyWait
 		any = false

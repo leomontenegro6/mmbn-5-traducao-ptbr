@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Hrgg⋯!"
+	"Hrgg...!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	MagnetMan,press the
-	switch!
+	MagnetMan,
+	aperta o botão!
 	"""
 	keyWait
 		any = false
@@ -29,13 +29,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Why you⋯!"
+	"Maldito...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't have me
-	yet!
+	Você ainda
+	não me venceu!
 	"""
 	keyWait
 		any = false
@@ -48,8 +48,7 @@ script 3 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	MagnetMan,stop right
-	there!
+	MagnetMan, pode parar!
 	"""
 	keyWait
 		any = false
@@ -61,7 +60,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"But,Tesla!"
+	"Mas, Tesla!"
 	keyWait
 		any = false
 	clearMsg
@@ -73,24 +72,23 @@ script 5 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	That was an
-	incredible fight,
+	Foi uma luta incrível,
 	MagnetMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must've worked off
-	a decade of stress!
+	Nossa, acho que eu
+	estravasei uma década
+	inteira de estresse nela!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,go ahead and
-	push that shutdown
-	switch!
+	Vamos, aperte esse
+	botão de desligar!
 	"""
 	keyWait
 		any = false
@@ -103,16 +101,16 @@ script 6 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	If Tesla so
-	desires⋯
+	Se a Tesla
+	assim deseja...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But,MegaMan,don't
-	go thinking you've
-	seen the last of me!
+	Mas não vá pensando que
+	esta disputa termina
+	por aqui, MegaMan!
 	"""
 	keyWait
 		any = false
@@ -123,8 +121,8 @@ script 7 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Shutdown switch⋯
-	activated⋯
+	Botão de desligamento...
+	acionado...
 	"""
 	soundPlay
 		track = 212
@@ -140,7 +138,7 @@ script 8 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 236
-	"*vreeeen*"
+	"Vruuuuuin..."
 	keyWait
 		any = false
 	end
@@ -150,8 +148,7 @@ script 9 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	The drill was shut
-	down.
+	A broca foi desligada.
 	"""
 	keyWait
 		any = false
@@ -163,7 +160,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"MagnetMan,jack out."
+	"MagnetMan, desconectar."
 	keyWait
 		any = false
 	clearMsg
@@ -174,7 +171,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Yes'm!"
+	"Sim, senhora!"
 	keyWait
 		any = false
 	end
@@ -184,24 +181,23 @@ script 12 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	You're name's Lan,
-	right?
+	O seu nome é Lan,
+	não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better hurry
-	and rescue your
-	friends!
+	É melhor você ir
+	logo salvar os
+	seus amiguinhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That nearby path
-	will take you down
-	below!
+	Aquele acesso ali vai
+	te levar lá pra baixo!
 	"""
 	keyWait
 		any = false
@@ -213,13 +209,12 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Rgg⋯Rgrr⋯"
+	"Rgg.... Rgggrr..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	W⋯What happened to
-	me?
+	O... o que houve comigo?
 	"""
 	keyWait
 		any = false
@@ -232,8 +227,8 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	KnightMan,are you
-	back to normal?!
+	KnightMan!
+	Você voltou ao normal?!
 	"""
 	keyWait
 		any = false
@@ -246,8 +241,8 @@ script 15 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	KnightMan,hurry and
-	press the switch!
+	KnightMan, rápido,
+	aperte o botão!
 	"""
 	keyWait
 		any = false
@@ -259,7 +254,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Yes,Princess Pride!"
+	"Claro, Princesa Pride!"
 	keyWait
 		any = false
 	end
@@ -269,8 +264,8 @@ script 17 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Shutdown switch,
-	activated⋯
+	Botão de desligamento,
+	acionado...
 	"""
 	soundPlay
 		track = 212
@@ -282,7 +277,7 @@ script 17 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 236
-	"*vreeeen*"
+	"Vrruuuuuin..."
 	keyWait
 		any = false
 	end
@@ -292,9 +287,8 @@ script 18 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Princess Pride,the
-	drill has been
-	deactivated.
+	Princesa Pride,
+	a broca foi desativada.
 	"""
 	keyWait
 		any = false
@@ -307,8 +301,8 @@ script 19 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Thank you,
-	KnightMan. Jack out.
+	Obrigada, KnightMan.
+	Desconectar.
 	"""
 	keyWait
 		any = false
@@ -320,7 +314,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Yes'm!"
+	"Sim, Alteza!"
 	keyWait
 		any = false
 	end
@@ -330,15 +324,16 @@ script 21 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Go,Lan,to your
-	dear friends!
+	Vá, Lan.
+	Vá ver os seus amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Follow that path to
-	go down below!
+	É só seguir por aquele
+	caminho para o andar
+	de baixo!
 	"""
 	keyWait
 		any = false
@@ -351,14 +346,14 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right!
-	I've gotta bust them
-	out!
+	Tá!
+	Eu tenho que tirar eles
+	de lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MegaMan,jack out!"
+	"Desconectar, MegaMan!"
 	keyWait
 		any = false
 	end
@@ -367,7 +362,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Tá!"
 	keyWait
 		any = false
 	end

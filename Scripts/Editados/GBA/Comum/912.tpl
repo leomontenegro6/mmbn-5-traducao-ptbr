@@ -4,29 +4,32 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"3rd ACDC,4th\n square. There find\n the way to Oran."
-	keyWait
-		any = false
-	clearMsg
-	" Open its center!\""
-	keyWait
-		any = false
-	clearMsg
-	"In ACDC Area3⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	⋯go to the 4th
-	square counting from
-	the entrance⋯
+	"Terceira ACDC,
+	quarto quadro. Lá,
+	um caminho para Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
+	"Abra o centro!\""
+	keyWait
+		any = false
+	clearMsg
+	"Na Área ACDC 3,"
+	keyWait
+		any = false
+	clearMsg
 	"""
-	⋯There find the way
-	to Oran.
+	ir para o quarto quadro
+	a partir da entrada.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Lá, se encontra o
+	caminho pra Oran.
 	"""
 	keyWait
 		any = false
@@ -37,15 +40,13 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Then open up its
-	center⋯
+	Daí, abrir o centro...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess this must be
-	the place.
+	Acho que é aqui.
 	"""
 	keyWait
 		any = false
@@ -56,9 +57,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't know if this
-	is right or not but
-	let's try the key.
+	Eu não sei se a gente
+	acertou, mas bora
+	tentar usar a chave.
 	"""
 	keyWait
 		any = false
@@ -70,7 +71,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Uhum!"
 	keyWait
 		any = false
 	end
@@ -79,7 +80,7 @@ script 4 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan took out:
+	MegaMan pegou:
 	"
 	"""
 	printItem
@@ -104,8 +105,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The door appeared
-	because of the
+	A porta apareceu
+	por causa da
 	"
 	"""
 	printItem
@@ -115,7 +116,7 @@ script 6 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Maybe⋯"
+	"Eu acho, né..."
 	keyWait
 		any = false
 	clearMsg
@@ -127,8 +128,8 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's try opening it
-	then!
+	Vamos tentar
+	abrir ela, então!
 	"""
 	keyWait
 		any = false
@@ -138,7 +139,7 @@ script 8 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	MegaMan inserted
+	MegaMan inseriu
 	"
 	"""
 	printItem
@@ -146,7 +147,7 @@ script 8 mmbn5 {
 		item = 26
 	"""
 	"
-	into the lock!!!
+	na fechadura!!!
 	"""
 	keyWait
 		any = false
@@ -154,7 +155,7 @@ script 8 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 332
-	"*⋯Clang!*"
+	"Clec!"
 	keyWait
 		any = false
 	end
@@ -163,11 +164,11 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯It's unlocked it!"
+	".. Destrancou!"
 	keyWait
 		any = false
 	clearMsg
-	"Are we going in?"
+	"Vamos entrar?"
 	keyWait
 		any = false
 	clearMsg
@@ -179,16 +180,17 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If we go in without
-	thinking,anything
-	could happen⋯
+	Se a gente entrar sem
+	um plano, vai saber o
+	que vai acontecer...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we've come this
-	far. We've got to⋯
+	Mas a gente já
+	chegou tão longe.
+	A gente precisa...
 	"""
 	keyWait
 		any = false
@@ -198,19 +200,19 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You're right."
+	"Realmente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But we should make
-	sure we're as
-	prepared as possible
+	Vamos nos certificar
+	de estarmos o mais
+	preparados possível
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"before we go in."
+	"antes de entrar."
 	keyWait
 		any = false
 	clearMsg
@@ -222,17 +224,16 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah. They say
-	providing is
-	preventing!
+	É. "A pressa é inimiga
+	da perfeição"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go in as soon
-	as we've finished
-	getting ready!
+	Assim que a gente
+	sentir que tá pronto,
+	bora entrar aí!
 	"""
 	keyWait
 		any = false
@@ -244,7 +245,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

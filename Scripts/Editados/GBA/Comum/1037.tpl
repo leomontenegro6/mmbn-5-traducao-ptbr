@@ -33,9 +33,9 @@ script 0 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	Looks like
-	there's a new
-	post!
+	Olha, tem
+	postagem
+	nova!
 	"""
 	keyWait
 		any = false
@@ -74,8 +74,8 @@ script 1 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	There aren't
-	any messages.
+	Nenhuma
+	mensagem.
 	"""
 	keyWait
 		any = false
@@ -100,9 +100,9 @@ script 2 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	Looks like
-	there's a new
-	post!
+	Olha, tem
+	postagem
+	nova!
 	"""
 	keyWait
 		any = false
@@ -127,8 +127,8 @@ script 3 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	There aren't
-	any messages.
+	Nenhuma
+	mensagem.
 	"""
 	keyWait
 		any = false
@@ -153,9 +153,9 @@ script 4 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	Looks like
-	there's a new
-	post!
+	Olha, tem
+	postagem
+	nova!
 	"""
 	keyWait
 		any = false
@@ -180,8 +180,8 @@ script 5 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	There aren't
-	any messages.
+	Nenhuma
+	mensagem.
 	"""
 	keyWait
 		any = false

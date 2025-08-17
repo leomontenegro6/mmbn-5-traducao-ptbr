@@ -46,15 +46,15 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE'VE BEEN OUTTA
-	WORK A LONG TIME.
+	A GENTE TÁ SEM
+	TRABALHO FAZ TEMPO, JÁ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT SURE IS A CRUEL
-	WORLD,ISN'T IT?
+	O MUNDO É UM LUGAR
+	TÃO CRUEL, NÉ?
 	"""
 	keyWait
 		any = false
@@ -70,20 +70,21 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO UNEMPLOYED
-	PROGRAMS LIKE US
+	PROGRAMAS
+	DESEMPREGADOS
+	COMO NÓS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HAVE ANY REASON
-	TO LIVE?
+	TÊM ALGUMA RAZÃO
+	PARA VIVER?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*SNIFFLE*"
+	"SNIFF!"
 	keyWait
 		any = false
 	end
@@ -97,24 +98,23 @@ script 5 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I am one of the 5
-	who guard the Under-
-	net door beyond.
+	Eu sou um dos 5 que
+	guardam a porta além
+	da Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must endure our
-	trial before you can
-	open the door.
+	Você precisará passar
+	pela nossa provação
+	para abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will you brave
-	our trial?
+	Tentará desafiá-la?
 	"""
 	keyWait
 		any = false
@@ -128,7 +128,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No problem!\n"
+	" Já é!\n"
 	option
 		brackets = 0
 		left = 1
@@ -137,7 +137,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Wait a sec!"
+	" Espera!"
 	select
 		default = 0
 		BSeparate = false
@@ -148,13 +148,13 @@ script 5 mmbn5 {
 			jump = 6,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Then let's
-	see if you can
-	endure our trial!
+	Então, vejamos se você
+	supera nossa provação!
 	"""
 	keyWait
 		any = false
@@ -169,9 +169,9 @@ script 6 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I understand.
-	Return when you wish
-	to brave our trial.
+	Entendo. Volte quando
+	quiser tentar passar
+	pela nossa provação.
 	"""
 	keyWait
 		any = false
@@ -184,23 +184,23 @@ script 7 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Well done.
-	I have clearly
-	seen your power.
+	Bom trabalho.
+	Sua força é evidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -213,15 +213,16 @@ script 8 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	You must defeat all
-	5 to open the door.
+	Você precisa vencer
+	todos os cinco para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Seek my brethren
-	in Cyberworld.
+	Busque os meus irmãos
+	pelo mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -232,15 +233,15 @@ script 9 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Is that the extent
-	of your power?
+	É esse o limite da sua
+	força?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Return again when
-	you are ready.
+	Retorne quando se
+	sentir preparado.
 	"""
 	keyWait
 		any = false
@@ -253,8 +254,8 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE⋯⋯EN⋯TA
-	WO⋯⋯LO⋯TI⋯
+	NÓS... SE... TR...
+	TÃ... STE...
 	"""
 	keyWait
 		any = false
@@ -263,9 +264,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -276,8 +277,8 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DO⋯⋯PLO⋯
-	⋯GRAM⋯⋯US⋯
+	PR... DESEM...
+	MO... ÓS...
 	"""
 	keyWait
 		any = false
@@ -286,9 +287,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -299,16 +300,17 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WANNA SWING THE
-	CRANE AROUND LIKE
-	CRAZY!!!
+	EU QUERO SAIR BATENDO
+	EM TUDO COM A MINHA
+	BENGALA!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS URGE WON'T GO
-	AWAY UNTIL I DO!
+	ESTA VONTADE NÃO VAI
+	PASSAR ATÉ EU FAZER
+	ISSO!
 	"""
 	keyWait
 		any = false
@@ -319,15 +321,16 @@ script 13 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WANNA GET BACK AT
-	THOSE WHO LEFT US!
+	EU QUERO ME VINGAR
+	DE TODO MUNDO QUE
+	DEIXOU A GENTE AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS BITTERNESS WILL
-	NEVER DIE!
+	ESTA AMARGURA
+	NUNCA VAI CESSAR!
 	"""
 	keyWait
 		any = false
@@ -338,17 +341,17 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BEFORE I KNEW IT,
-	I HAD THIS TERRIBLE
-	URGE TO GO BERSERK.
+	ANTES QUE EU ME DESSE
+	CONTA, QUERIA MUITO
+	SAIR DO CONTROLE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I STILL CAN'T
-	BELIEVE I COULD BE
-	SO VIOLENT.
+	AINDA NÃO POSSO
+	ACREDITAR QUE CONSIGO
+	SER TÃO VIOLENTO...
 	"""
 	keyWait
 		any = false
@@ -359,16 +362,16 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOTHING SURPRISES
-	LIKE THE RAGE
-	THAT BUILT UP IN ME.
+	NADA ME SURPREENDE
+	COMO A RAIVA QUE EU
+	ACUMULEI AQUI DENTRO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT WAS ALREADY A
-	TORRENT OF ANGER!
+	ERA QUASE QUE UMA
+	ENCHENTE DE RAIVA!
 	"""
 	keyWait
 		any = false

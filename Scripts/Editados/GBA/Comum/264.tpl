@@ -5,138 +5,133 @@ script 0 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	What're you gonna
-	write about for your
-	school report?
+	O que cê vai escrever
+	no seu relatório?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna write
-	about the "Regular
-	System."
+	O tópico do meu vai ser
+	o "Sistema Padrão".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm already halfway
-	done. Here,tell me
-	what you think:
+	Já terminei metade dele.
+	Aqui, ó, diz aí o que
+	cê acha de como tá:
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The \"Regular System\""
+	"O \"Sistema Padrão\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Regular System
-	allows you to
-	designate one chip
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	as your "Regular
-	Chip."
+	O Sistema Padrão lhe
+	permite designar um de
+	seus chips como o seu
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The chip designated
-	as your Regular Chip
+	"Chip Padrão".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will appear on your
-	Custom Screen at the
-	start of a battle.
+	O chip definido como
+	o seu Chip Padrão
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Place the cursor on
-	a chip on the Edit
-	Screen and press
+	aparecerá na sua Tela
+	de Customização ao
+	início das lutas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SELECT to
-	designate the chip
-	as your Regular Chip
+	Deixe o cursor sobre um
+	chip na Tela de Edição
+	e aperte "SELECT"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The yellow frame
-	shows that the chip
-	has been chosen.
+	para designar o chip
+	como o seu Chip Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,if the "data
-	size" of the chip is
-	larger than
+	A borda amarela
+	mostrará que o chip
+	foi escolhido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your regular memory,
-	then you cannot
-	choose that chip.
+	Contudo, se o "tamanho
+	de dados" do chip for
+	maior que a sua
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Regular memory is
-	shown to the right
-	of the folder name
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"on the Edit Screen."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Well? Whaddya think?
-	Pretty good,huh?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Oh,yeah!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You can expand your
-	regular memory with
-	the "RegUP" item!
+	memória padrão,
+	você não poderá
+	escolher esse chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotta jot all
-	this down! Before I
-	forget!
+	A memória padrão
+	aparece à direita
+	do nome da pasta na
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Tela de Edição."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E aí? Que que cê achou?
+	Bom, né?
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Ah, verdade!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Dá pra expandir a sua
+	memória padrão com o
+	item "Padrão+"!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tenho que anotar isso
+	antes que eu esqueça!
 	"""
 	keyWait
 		any = false
@@ -147,8 +142,8 @@ script 1 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Hey,do you know what
-	"Virus Busting" is?
+	Ei, você sabe o que é
+	"Deleção de Vírus"?
 	"""
 	keyWait
 		any = false
@@ -164,7 +159,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" No idea. "
+	" Não. "
 	option
 		brackets = 0
 		left = 0
@@ -173,7 +168,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Of course!"
+	" Claro!"
 	select
 		default = 0
 		BSeparate = false
@@ -189,58 +184,56 @@ script 1 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Then let me explain
-	it to you!
+	Então, permita-me
+	explicar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Virus Busting is the
-	purging of viruses!
+	Deleção de Vírus é
+	o processo de acabar
+	com os vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And how do you do
-	that?
+	E como se faz isso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's easy! Jack in
-	your PET into an
-	infected terminal
+	Fácil! Conecte
+	o seu PET a um
+	terminal infectado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and send your Navi
-	in to pick a fight
-	with the virus!
+	e mande o seu Navi pra
+	brigar com os vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That way your Navi
-	can delete the
-	virus.
+	Assim, o seu Navi
+	pode deletar os vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then your virus
-	hunt is complete!
+	E aí, fim da luta
+	antivírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You get all that?"
+	"Pegou a ideia?"
 	keyWait
 		any = false
 	end
@@ -250,14 +243,14 @@ script 2 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Oh,really? Shoot,I
-	was really itching
-	to tell somebody⋯
+	Ah, é mesmo? Poxa,
+	eu tava me coçando pra
+	contar pra alguém...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah well!"
+	"Bom, vida que segue,\nné?"
 	keyWait
 		any = false
 	end
@@ -266,68 +259,67 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
-	"Look at what I have!"
+	"Olha o que eu tenho\naqui!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Dad bought me a
-	new PET!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It does everything!
-	I can make phone
-	calls and do E-Mail!
+	O papai comprou um
+	PET novo pra mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,do you
-	know what "NetNavis"
-	are?
+	Ele faz tudo!
+	Telefonemas,
+	manda e-mail...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetNavis control the
-	programs inside our
-	PETs.
+	Aliás, você sabe o que
+	são os "NetNavis"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like E-Mail! When a
-	new E-Mail arrives,
-	who reads it?
+	Os NetNavis controlam
+	os programas dentro dos
+	nossos PETs.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guessed it! Your
-	NetNavi!
+	Que nem os e-mails!
+	Quando chega um novo,
+	sabe quem é que lê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know how but
-	that's what Dad
-	said!
+	Aham! Acertou!
+	É o seu NetNavi!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And remember,press
-	START to open
-	the PET screen.
+	Como, eu não sei,
+	mas foi o que o papai
+	me falou!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E não esquece: apertar
+	"START" abre a tela do
+	PET.
 	"""
 	keyWait
 		any = false
@@ -338,36 +330,36 @@ script 4 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Data on your
-	BattleChips
+	Os dados dos seus
+	chips de batalha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is saved in the
-	"Data Library" on
-	the PET screen.
+	ficam salvos na
+	"Coleção", na tela
+	do PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you get a new
-	BattleChip,check the
-	Data Library
+	Sempre que você
+	adquirir um novo chip,
+	confira a Coleção
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to find out what
-	kind of chip it is!
+	para ver que tipo de
+	chip ele é!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Got it?"
+	"Entendeu, menino?"
 	keyWait
 		any = false
 	end
@@ -377,17 +369,17 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I just saw Dex and
-	he sure seemed
-	down.
+	Eu vi o Dex ainda
+	agora.
+	Ele tava boladão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The usual Dex would
-	start harassing me
-	about NetBattles.
+	O Dex de sempre teria
+	me enchido o saco
+	sobre NetLutas.
 	"""
 	keyWait
 		any = false
@@ -398,16 +390,15 @@ script 11 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	There's something
-	strange about the
-	Net recently.
+	A Rede tem estado
+	estranha ultimamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I sure hope it's not
-	another net crime!
+	Tomara que não seja
+	outro netcrime!
 	"""
 	keyWait
 		any = false
@@ -418,16 +409,15 @@ script 12 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Phooey! This is no
-	fun! I got a brand
-	new PET
+	Arf! Que chato!
+	Eu ganhei um PET novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but nobody's sending
-	me any mail!
+	mas ninguém me
+	manda e-mail!
 	"""
 	keyWait
 		any = false
@@ -438,8 +428,9 @@ script 13 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I wish I had a cute
-	Navi like Roll⋯
+	Eu bem que queria ter
+	uma Navi linda como a
+	Roll...
 	"""
 	keyWait
 		any = false
@@ -450,21 +441,21 @@ script 14 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What am I doing
-	here,you ask?
+	Hã? "O que eu tô
+	fazendo aqui"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sitting in the shade
-	to get outta the
-	heat,what else?
+	Pegando a sombra da
+	árvore pra fugir do
+	calor, oras.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Phew,it sure is hot!"
+	"Ufa! Eita, dia quente!"
 	keyWait
 		any = false
 	end
@@ -480,8 +471,8 @@ script 15 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan! Thank goodness
-	you've come to.
+	Lan! Que bom que
+	eu te achei!
 	"""
 	keyWait
 		any = false
@@ -489,8 +480,9 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Mayl,What am I doing
-	here?
+	Mayl?
+	O que é que você tá
+	fazendo aqui?
 	"""
 	keyWait
 		any = false
@@ -498,32 +490,30 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	When I stay inside,
-	it just makes me
-	sad.
+	Ficar trancada dentro
+	de casa só me deixa
+	triste.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I came out for a
-	walk to get my mind
-	off things.
+	Aí, eu resolvi sair pra
+	espairar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,just in case
-	something happens,
+	Lan, só caso alguma
+	coisa aconteça,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	please keep this
-	with you as an
-	amulet.
+	por favor, guarda isto
+	aqui como um amuleto.
 	"""
 	keyWait
 		any = false
@@ -536,8 +526,8 @@ script 15 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -555,7 +545,7 @@ script 15 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Mayl
-	"Oh,and use this,OK?"
+	"Ah, e use isto, tá?"
 	keyWait
 		any = false
 	clearMsg
@@ -566,7 +556,7 @@ script 15 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -581,8 +571,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	"""
-	Take care of
-	yourself,Lan.
+	Se cuida, Lan.
 	"""
 	keyWait
 		any = false
@@ -592,7 +581,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -602,9 +591,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,Mayl's here.
-	She isn't looking
-	too good⋯
+	Lan, a Mayl tá aqui.
+	E ela não tá com uma
+	cara muito boa...
 	"""
 	keyWait
 		any = false
@@ -613,8 +602,9 @@ script 17 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	Shop lights are off.
-	It must be closed.
+	As luzes da loja
+	estão desligadas.
+	Deve estar fechada.
 	"""
 	keyWait
 		any = false
@@ -625,8 +615,8 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we've gotta
-	round everybody up!
+	Lan, a gente tem que
+	reunir todo mundo!
 	"""
 	keyWait
 		any = false
@@ -637,16 +627,16 @@ script 30 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Shoot,Higsby's is
-	closed today.
+	Poxa, a Loja do Higsby
+	tá fechada hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was hoping to buy
-	a new chip with my
-	allowance!
+	Eu tava querendo
+	comprar um chip novo
+	com a minha mesada!
 	"""
 	keyWait
 		any = false
@@ -657,24 +647,25 @@ script 31 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Some creepy brutes
-	are occupying the
-	Net,
+	Tem uns bandidões
+	sinistros ocupando
+	a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	plus,the weather is
-	suffocatingly hot.
+	e, pra completar,
+	o clima está esse
+	inferno todo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't there anything
-	to get my mind off
-	of all of this?
+	Não tem nada aí para
+	distrair a minha
+	atenção disso tudo?
 	"""
 	keyWait
 		any = false
@@ -684,13 +675,13 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Girl
 	msgOpen
-	"Why the stiff look?"
+	"Por que essa cara de\nnervoso?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,are you hiding
-	something?
+	Ei, você tá escondendo
+	alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -701,24 +692,24 @@ script 40 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	What shall I make
-	for supper today?
+	O que eu faço para
+	o jantar de hoje?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It isn't easy coming
-	up with new dishes
-	each day,you know.
+	Não é fácil pensar em
+	novos pratos todos os
+	dias, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The least people
-	could do is finish
-	every bite!
+	A minha família podia,
+	pelo menos, não deixar
+	sobrar nada!
 	"""
 	keyWait
 		any = false
@@ -729,28 +720,28 @@ script 41 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Yeow! Don't surprise
-	me like that,Lan!
+	Ahh! Não me assusta
+	desse jeito, Lan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll make me lose
-	at hide&seek!!!
+	Assim eu vou perder
+	no esconde-esconde!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What'd you say? I'm
-	so loud I'll give
-	myself away?
+	Como é que é? "Eu falo
+	tão alto que vão desco-
+	brir meu esconderijo"?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Shoot,you're right!"
+	"Droga, tem razão!"
 	keyWait
 		any = false
 	end
@@ -760,13 +751,14 @@ script 42 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Oh,man? Where is
-	he hiding?
+	Ah, cara!
+	Onde foi que ele
+	se escondeu?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's see⋯"
+	"Deixa eu ver..."
 	keyWait
 		any = false
 	end
@@ -776,17 +768,17 @@ script 43 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	You're all going to
-	the ocean? Sounds
-	like fun.
+	Vocês vão todos pra
+	praia?
+	Parece divertido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to go to
-	but I have a piano
-	lesson.
+	Eu bem que queria ir
+	também, mas tenho aula
+	de piano.
 	"""
 	keyWait
 		any = false
@@ -797,25 +789,24 @@ script 44 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Now that ACDC Area's
-	been liberated,we
-	can access it again.
+	Agora que a Área ACDC
+	foi liberada, podemos
+	acessá-la de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The next area beyond
-	it is under
-	construction.
+	A área que fica
+	além dela está em
+	construção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They'll open the
-	path soon enough,
-	I suppose.
+	Mas acho que logo, logo
+	eles abrem o caminho.
 	"""
 	keyWait
 		any = false

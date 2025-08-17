@@ -4,14 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"This is weird,Lan⋯"
+	"Que estranho, Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That dog that was
-	here before has
-	gone!
+	O cachorro que tava
+	aqui antes sumiu!
 	"""
 	keyWait
 		any = false
@@ -24,9 +23,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What?! He must be
-	around here
-	somewhere!
+	O quê?!
+	Ele tem que tá por
+	aí em algum lugar!
 	"""
 	keyWait
 		any = false
@@ -37,8 +36,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,he's nowhere to
-	be seen.
+	Não, ele realmente
+	não tá aqui...
 	"""
 	keyWait
 		any = false
@@ -52,7 +51,7 @@ script 3 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 340
-	"*Clang!*"
+	"Plénc!"
 	keyWait
 		any = false
 	end
@@ -72,7 +71,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯Is it here?"
+	"... É aqui?"
 	keyWait
 		any = false
 	clearMsg
@@ -84,8 +83,9 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It was when we came
-	before,but not now⋯
+	Bom, ele TAVA aqui
+	quando a gente veio
+	antes, mas, agora...
 	"""
 	keyWait
 		any = false
@@ -97,22 +97,22 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the VisionBurst
-	is the data of a set
-	moment in time⋯
+	Mas a Visão Passada
+	é um retrato de um
+	momento fixo no tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Its inhabitants
-	can't just move
-	about willy-nilly⋯
+	Os habitantes dela não
+	podem simplesmente ir
+	embora...
 	"""
 	keyWait
 		any = false
@@ -125,9 +125,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Then⋯ I guess that
-	means Nebula beat us
-	to it⋯
+	Então... Acho que isso
+	quer dizer que a Nebula
+	chegou primeiro...
 	"""
 	keyWait
 		any = false
@@ -140,9 +140,9 @@ script 9 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	⋯Maybe,but there
-	could be one other
-	explanation⋯
+	... Talvez. Mas existe
+	outra explicação
+	possível...
 	"""
 	keyWait
 		any = false
@@ -154,7 +154,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's that?"
+	"Existe?"
 	keyWait
 		any = false
 	clearMsg
@@ -166,25 +166,25 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Hm,you find out as
-	much about that dog
-	as you can.
+	Hm... Descubra tudo
+	o que você puder
+	sobre esse cão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Meanwhile,I'll see
-	if Nebula has been
-	up to anything⋯
+	Enquanto isso, eu vou
+	ver se a Nebula tem
+	feito alguma coisa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There should be some
-	clues if they've got
-	hold of the dog.
+	Se eles levaram o cão,
+	devem ter deixado
+	pistas para trás...
 	"""
 	keyWait
 		any = false
@@ -196,7 +196,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay,got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -206,9 +206,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right,MegaMan,we'd
-	better go find out
-	about this dog!
+	OK, MegaMan! Bora lá
+	aprender tudo o que
+	der sobre o cachorro!
 	"""
 	keyWait
 		any = false
@@ -220,7 +220,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Sure!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -240,7 +240,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯Is it here?"
+	"... É aqui?"
 	keyWait
 		any = false
 	clearMsg
@@ -252,8 +252,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It was when we came
-	before,but not now⋯
+	Bom, ele TAVA aqui
+	quando a gente veio
+	antes, mas, agora...
 	"""
 	keyWait
 		any = false
@@ -265,22 +266,18 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"What?!"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	But the VisionBurst
-	is the data of a set
-	moment in time⋯
+	A Visão Passada é
+	um retrato de um
+	momento fixo no tempo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Its inhabitants
-	can't just move
-	about willy-nilly⋯
+	Os habitantes dela não
+	podem simplesmente ir
+	embora...
 	"""
 	keyWait
 		any = false
@@ -293,9 +290,9 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Then⋯ I guess that
-	means Nebula beat us
-	to it⋯
+	Então... Acho que isso
+	quer dizer que a Nebula
+	chegou primeiro...
 	"""
 	keyWait
 		any = false
@@ -308,9 +305,9 @@ script 20 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	⋯Maybe,but there
-	could be one other
-	explanation⋯
+	... Talvez. Mas existe
+	outra explicação
+	possível...
 	"""
 	keyWait
 		any = false
@@ -322,7 +319,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's that?"
+	"Existe?"
 	keyWait
 		any = false
 	clearMsg
@@ -333,30 +330,29 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯Yeah."
+	"... Sim."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hm,you find out as
-	much about that dog
-	as you can.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Meanwhile,I'll see
-	if Nebula has been
-	up to anything⋯
+	Descubra tudo o que
+	puder sobre esse cão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There should be some
-	clues if they've got
-	hold of the dog.
+	Enquanto isso, eu vou
+	ver se a Nebula tem
+	feito alguma coisa...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Se eles levaram o cão,
+	devem ter deixado
+	pistas para trás...
 	"""
 	keyWait
 		any = false
@@ -368,7 +364,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay,got it!"
+	"Beleza!"
 	keyWait
 		any = false
 	end
@@ -378,9 +374,9 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right,MegaMan,we'd
-	better go find out
-	about this dog!
+	OK, MegaMan! Bora lá
+	aprender tudo o que
+	der sobre o cachorro!
 	"""
 	keyWait
 		any = false

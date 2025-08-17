@@ -5,23 +5,24 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,I guess it's
-	time to get going⋯
+	Tá, acho que é
+	hora de eu ir lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A party full of rich
-	people⋯ Phew,I'm
-	pretty nervous!
+	Uma festa cheia de
+	ricaços... Ah, tô
+	nervoso pra dedéu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Better pull myself
-	together!
+	Não!
+	Eu não posso ficar assim!
+	Vamos, postura!
 	"""
 	keyWait
 		any = false

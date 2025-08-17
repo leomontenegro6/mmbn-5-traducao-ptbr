@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"There you are."
+	"Aí está você."
 	keyWait
 		any = false
 	clearMsg
@@ -20,9 +20,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I think I know a way
-	we can beat the gun
-	battery!
+	Acho que eu achei um
+	jeito de resolver a
+	situação dos tiros!
 	"""
 	keyWait
 		any = false
@@ -34,7 +34,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Is that so?"
+	"É mesmo?"
 	keyWait
 		any = false
 	end
@@ -44,32 +44,32 @@ script 3 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Ah,so you want me
-	to block that gun
-	battery?
+	Ah, então, você quer
+	que eu sirva de escudo
+	pra metralhadora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,if it isn't the
-	Official Navi,
-	ProtoMan!
+	... Ora, ora, se não
+	é ProtoMan.EXE,
+	o Navi Oficial!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wouldn't normally
-	be willing to help
-	you⋯
+	Normalmente, eu
+	preferiria ser deletado
+	a te ajudar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I have orders
-	from Tesla⋯
+	mas a Tesla
+	me deu ordens.
 	"""
 	keyWait
 		any = false
@@ -82,9 +82,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is MagnetMan.
-	His defense is
-	incredible!
+	Este é o MagnetMan.
+	A defesa dele
+	é sem igual!
 	"""
 	keyWait
 		any = false
@@ -97,16 +97,16 @@ script 5 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	MagnetMan⋯
-	The ex-Gospel Navi.
+	MagnetMan...
+	O ex-Navi da Gospel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quite a surprise!
-	Let's see what
-	you've got,then!
+	He, que surpresa.
+	Vamos ver do que
+	você é capaz, então!
 	"""
 	keyWait
 		any = false
@@ -119,9 +119,9 @@ script 6 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Very well. I'll give
-	you something to
-	talk about!
+	Humpf. Vou te mostrar
+	uma coisinha pra cê
+	nunca esquecer!
 	"""
 	keyWait
 		any = false
@@ -133,7 +133,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"MegaMan,let's go!"
+	"MegaMan, vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -144,7 +144,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!"
+	"Bora!"
 	keyWait
 		any = false
 	end
@@ -154,16 +154,16 @@ script 9 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	MagnetMan,proceed
-	on my signal!
+	MagnetMan, avance
+	ao meu sinal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll destroy the gun
-	battery while you're
-	absorbing hits!
+	Vamos destruir a
+	torre enquanto você
+	segura os tiros!
 	"""
 	keyWait
 		any = false
@@ -176,9 +176,9 @@ script 10 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Don't order me!
-	I only listen to
-	Tesla's orders.
+	Não me dê ordens!
+	Eu só dou ouvidos
+	às ordens da Tesla.
 	"""
 	keyWait
 		any = false
@@ -190,13 +190,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Sheesh!"
+	"Hm."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here goes! 3,2,1⋯
-	Go!!!
+	Lá vai!
+	3, 2, 1...
+	Agora!!!
 	"""
 	keyWait
 		any = false
@@ -208,7 +209,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"MagnetBarrier!"
+	"Barreira Magnética!"
 	keyWait
 		any = false
 	end
@@ -218,7 +219,7 @@ script 13 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Now!
+	Agora!
 	StepSwrd!
 	"""
 	keyWait
@@ -231,7 +232,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Quite impressive."
+	"Impressionante."
 	keyWait
 		any = false
 	clearMsg
@@ -242,7 +243,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"That was nothing!"
+	"Brincadeira de criança!"
 	keyWait
 		any = false
 	clearMsg
@@ -253,13 +254,13 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Heh!"
+	"He!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go!
-	Begin mission!
+	Vamos!
+	Iniciar missão!
 	"""
 	keyWait
 		any = false
@@ -271,7 +272,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"This'll be fun!"
+	"Isso vai ser divertido!"
 	keyWait
 		any = false
 	end
@@ -281,8 +282,7 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,let's go,
-	too!
+	MegaMan, vamos, também!
 	"""
 	keyWait
 		any = false
@@ -294,7 +294,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	end
@@ -303,7 +303,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"There you are."
+	"Aí está você."
 	keyWait
 		any = false
 	clearMsg
@@ -319,9 +319,9 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I think I know a way
-	we can beat the gun
-	battery!
+	Acho que eu achei um
+	jeito de resolver a
+	situação dos tiros!
 	"""
 	keyWait
 		any = false
@@ -333,7 +333,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Is that so?"
+	"É mesmo?"
 	keyWait
 		any = false
 	end
@@ -343,9 +343,9 @@ script 23 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Ah,so you want me
-	to block that gun
-	battery?
+	Ah, então, você deseja
+	que eu bloqueie os
+	tiros dessa arma?
 	"""
 	keyWait
 		any = false
@@ -358,9 +358,9 @@ script 24 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is KnightMan.
-	His defense is
-	incredible!
+	Este aqui é o KnightMan.
+	A defesa dele é sem
+	igual!
 	"""
 	keyWait
 		any = false
@@ -373,16 +373,17 @@ script 25 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	KnightMan⋯Princess
-	Pride's Navi.
+	KnightMan...
+	O Navi da Princesa
+	Pride, de Brilhândia!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quite a surprise!
-	Let's see what
-	you've got,then!
+	Mas que surpresa!
+	Vejamos do que você
+	é capaz, então!
 	"""
 	keyWait
 		any = false
@@ -395,8 +396,8 @@ script 26 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Certainly. I won't
-	disappoint you.
+	Certamente.
+	Não irei desapontá-lo.
 	"""
 	keyWait
 		any = false
@@ -408,7 +409,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"MegaMan,let's go!"
+	"MegaMan, vamos!"
 	keyWait
 		any = false
 	clearMsg
@@ -419,7 +420,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	end
@@ -429,16 +430,16 @@ script 29 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	KnightMan,proceed
-	on my signal!
+	KnightMan, avance
+	ao meu sinal!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll destroy the gun
-	battery while you're
-	absorbing hits!
+	Vamos destruir a
+	metralhadora enquanto
+	você segura os tiros!
 	"""
 	keyWait
 		any = false
@@ -450,7 +451,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Understood!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -462,8 +463,9 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Here goes! 3,2,1⋯
-	Begin!
+	Aqui vai!
+	3, 2, 1...
+	Começar!
 	"""
 	keyWait
 		any = false
@@ -475,7 +477,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Hrggrahh!"
+	"Hrggrarr!"
 	keyWait
 		any = false
 	end
@@ -485,7 +487,7 @@ script 33 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Now!
+	Agora!
 	ScrenDiv!
 	"""
 	keyWait
@@ -498,7 +500,9 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Incredible strength."
+	"""
+	Mas que força incrível.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -510,8 +514,9 @@ script 35 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Those shots were but
-	pebbles to my hide!
+	Esse tiros foram
+	mero cascalho para
+	a minha couraça!
 	"""
 	keyWait
 		any = false
@@ -523,13 +528,13 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Heh!"
+	"He!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go!
-	Begin mission!
+	Vamos!
+	Iniciar missão!
 	"""
 	keyWait
 		any = false
@@ -542,9 +547,9 @@ script 37 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I've been waiting
-	for a nice
-	adventure!
+	Eu estava mesmo
+	ansioso por uma
+	boa incursão!
 	"""
 	keyWait
 		any = false

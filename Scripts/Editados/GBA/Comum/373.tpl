@@ -15,90 +15,88 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	⋯Hm?
-	What am I doing
-	here?
+	... Hã?
+	"O que eu estou
+	fazendo aqui?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's it to you?
-	It's a free country
-	ain't it?
+	E isso lá é da sua
+	conta? Este aqui é um
+	país livre, não é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I like empty places
-	like this,heh heh⋯
+	Eu gosto de lugares
+	vazios assim... He he...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now that you know,
-	get lost,will ya?
+	Agora que você sabe,
+	cai fora, vai!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"⋯No,wait a minute."
+	"... Não, espera."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We didn't meet
-	here just by chance.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'll let you have
-	this rare-colored
-	Tornado chip cheap.
+	Este nosso encontro
+	aqui não foi mero acaso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't get it
-	anywhere else. It's
-	a real find!
+	Farei um precinho bom
+	para este chip Tornado
+	de coloração rara.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Huh?
-	Where did I
-	get it?
+	Você não vai achá-lo
+	em nenhum outro lugar.
+	É um belo... achado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does it really
-	matter?
-	⋯Heh heh heh.
+	... Hã?
+	"Onde eu consegui ele?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	500 Zennys for
-	this rare chip.
-	Do you want it?
+	Faz diferença?
+	... He he he.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	500 Zennys por este
+	chip raro.
+	Vai querer ou não vai?
 	"""
 	keyWait
 		any = false
@@ -114,7 +112,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -123,7 +121,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -137,14 +135,14 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't care less
-	whether you buy it.
-	⋯Heh heh heh.
+	Bom, tanto faz pra mim
+	se você compra ou não.
+	... He he he.
 	"""
 	keyWait
 		any = false
@@ -161,7 +159,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	msgOpen
-	"Here ya go."
+	"Tó."
 	keyWait
 		any = false
 	clearMsg
@@ -173,8 +171,8 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -193,8 +191,9 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	You got a great deal
-	there,heh heh heh⋯
+	Você fez um ótimo
+	negócio, rapazinho.
+	He he he...
 	"""
 	keyWait
 		any = false
@@ -205,23 +204,23 @@ script 2 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You don't have
-	enough Zennys.
+	Você não tem Zennys
+	o bastante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd give it to you
-	for free but didn't
-	your parents tell ya
+	Eu até te daria ele de
+	graça, mas os seus pais
+	nunca te falaram pra
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	not to take things
-	from strangers?
+	não aceitar nada que
+	estranhos te dão?
 	"""
 	keyWait
 		any = false
@@ -232,21 +231,21 @@ script 3 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I knew you wanted
-	it,heh heh heh⋯
+	Sabia que você queria
+	ele. He he he...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know⋯ that
-	rare-colored Tornado
-	for 500 Zennys⋯
+	Sabe... Aquele Tornado
+	de coloração rara por
+	500 Zennys...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it?"
+	"E aí?"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +260,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -270,7 +269,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -284,14 +283,14 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't care less
-	whether you buy it.
-	⋯Heh heh heh.
+	Bom, tanto faz pra mim
+	se você compra ou não.
+	... He he he.
 	"""
 	keyWait
 		any = false
@@ -302,8 +301,9 @@ script 4 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	You got a great deal
-	there,heh heh heh⋯
+	Você fez um ótimo
+	negócio, rapazinho.
+	He he he...
 	"""
 	keyWait
 		any = false

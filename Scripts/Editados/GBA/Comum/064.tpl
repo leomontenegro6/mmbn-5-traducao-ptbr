@@ -58,8 +58,8 @@ script 42 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's check out
-	the beach,Lan!
+	Bora conferir a
+	praia, Lan!
 	"""
 	keyWait
 		any = false
@@ -73,8 +73,8 @@ script 43 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's read
-	Chaud's mail!
+	Bora ler o e-mail
+	do Chaud!
 	"""
 	keyWait
 		any = false
@@ -85,8 +85,8 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to Oran
-	Area! Jack me in!
+	Vamos pra Área Oran!
+	Me conecta!
 	"""
 	keyWait
 		any = false
@@ -115,9 +115,9 @@ script 45 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We got everything
-	we need for fishing!
-	Let's see Dex!
+	Pronto, temos tudo
+	de que precisamos pra
+	pescar! Fala pro Dex!
 	"""
 	keyWait
 		any = false
@@ -128,9 +128,9 @@ script 46 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find a
-	line,hook,rod
-	and bait,Lan!
+	Bora achar linha,
+	anzol, isca e uma
+	vara, Lan!
 	"""
 	keyWait
 		any = false
@@ -141,8 +141,8 @@ script 47 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find a
-	fishing spot!
+	Bora achar um lugar
+	pra pescar!
 	"""
 	keyWait
 		any = false
@@ -171,9 +171,9 @@ script 48 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We're ready to
-	build a fire. Let's
-	find Dex!
+	Tudo pronto pra fazer
+	a fogueira. Bora
+	falar pro Dex!
 	"""
 	keyWait
 		any = false
@@ -184,9 +184,8 @@ script 49 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find stuff
-	to make a fire!
-	What a big fish!
+	Vamos reunir os mate-
+	riais pra fogueira!
 	"""
 	keyWait
 		any = false
@@ -201,9 +200,9 @@ script 50 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's follow
-	Dex,or we'll
-	get left behind!
+	Vamos atrás do Dex,
+	ou a gente vai ficar
+	pra trás!
 	"""
 	keyWait
 		any = false
@@ -214,8 +213,8 @@ script 51 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's read
-	Baryl's mail!
+	Bora ler o e-mail
+	do Baryl!
 	"""
 	keyWait
 		any = false
@@ -226,8 +225,9 @@ script 52 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's read
-	our mail,Lan!
+	Vamos ler aquele
+	e-mail que chegou,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -277,7 +277,7 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's find Dex!"
+	"Vamos atrás do Dex!"
 	keyWait
 		any = false
 	end
@@ -287,9 +287,9 @@ script 56 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've got to find
-	a key for the
-	electronic lock!
+	A gente tem que achar
+	uma chave pra tranca
+	eletrônica!
 	"""
 	keyWait
 		any = false
@@ -300,8 +300,9 @@ script 57 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Open the electronic
-	lock! We must move!
+	Abre a tranca
+	eletrônica! A gente
+	não tem tempo a perder!
 	"""
 	keyWait
 		any = false
@@ -317,9 +318,9 @@ script 58 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's keep going!
-	I wonder where
-	Dex went.
+	Vamos em frente!
+	Aonde será que o
+	Dex foi?
 	"""
 	keyWait
 		any = false
@@ -335,9 +336,9 @@ script 59 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We should look
-	carefully.
-	Where is Dex⋯?
+	Vamos procurar com
+	atenção.
+	Cadê o Dex...?
 	"""
 	keyWait
 		any = false
@@ -348,8 +349,9 @@ script 60 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope everyone
-	is OK! Let's go!
+	Tomara que esteja
+	todo mundo bem!
+	Vamos!
 	"""
 	keyWait
 		any = false
@@ -360,9 +362,9 @@ script 61 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Looks like everyone
-	is locked up!
-	Let's go,Lan!
+	Parece que tá todo
+	mundo preso!
+	Vamos, Lan!
 	"""
 	keyWait
 		any = false
@@ -373,8 +375,8 @@ script 62 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We've got to stop
-	that drill! Hurry!
+	A gente tem que parar
+	aquela broca! E rápido!
 	"""
 	keyWait
 		any = false
@@ -390,8 +392,9 @@ script 63 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Three control
-	boxes to go! Hurry!
+	Só mais três caixas
+	de controle pra
+	desligar! Acelera!
 	"""
 	keyWait
 		any = false
@@ -407,8 +410,8 @@ script 64 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Two control
-	boxes to go! Hurry!
+	Só mais faltam mais
+	duas caixas! Rápido!
 	"""
 	keyWait
 		any = false
@@ -424,8 +427,9 @@ script 65 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Only one control
-	box to go! Hurry!
+	Só mais uma caixa
+	pra desligar!
+	Vai logo!
 	"""
 	keyWait
 		any = false
@@ -436,8 +440,8 @@ script 66 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go rescue
-	everyone,Lan!
+	Vamos salvar o
+	pessoal, Lan!
 	"""
 	keyWait
 		any = false
@@ -448,9 +452,8 @@ script 67 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back
-	to the OldMine
-	and rescue them!
+	Bora voltar pra Velha
+	Mina e salvar eles!
 	"""
 	keyWait
 		any = false
@@ -461,9 +464,9 @@ script 68 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We have to stop
-	the drill or they'll
-	get hurt,Lan!
+	A gente tem que parar
+	a broca ou eles tão
+	ferrados, Lan!
 	"""
 	keyWait
 		any = false
@@ -478,8 +481,8 @@ script 70 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	Oran Area!
+	Vamos lá pra
+	Área Oran!
 	"""
 	keyWait
 		any = false
@@ -490,9 +493,9 @@ script 71 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to Oran
-	Area3 whenever
-	you're ready!
+	Quando cê tiver
+	pronto, vamos lá
+	pra Área Oran 3!
 	"""
 	keyWait
 		any = false

@@ -5,9 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yipee!
-	Can you feel this
-	wind?
+	Aaah!
+	Sente só esse vento!
 	"""
 	keyWait
 		any = false
@@ -19,13 +18,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Lan,my man!"
+	"Ô, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Over here! Get a
-	move on!
+	Aqui, ó!
+	Vem logo!
 	"""
 	keyWait
 		any = false
@@ -38,8 +37,7 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha,Dex!
-	Coming your way!
+	Tô indo, Dex!
 	"""
 	keyWait
 		any = false
@@ -50,8 +48,7 @@ script 3 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Where's Yai and
-	Mayl?
+	Cadê a Yai e a Mayl?
 	"""
 	keyWait
 		any = false
@@ -64,23 +61,24 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	They're changing on
-	the ship.
+	Tão se trocando
+	no navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's suit up and
-	start swimming!
+	A gente também devia
+	botar logo a roupa
+	de banho pra nadar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see⋯Where's a
-	good place to
-	change?
+	Deixa eu ver...
+	Onde que é um bom
+	lugar pra se trocar?
 	"""
 	keyWait
 		any = false
@@ -92,14 +90,14 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Heh heh⋯"
+	"He he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know just the
-	thing for changing
-	into a suit⋯
+	Eu pretendo usar um
+	truque especial pra
+	isso...
 	"""
 	keyWait
 		any = false
@@ -112,8 +110,9 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,no,you can't
-	possibly⋯
+	Não...
+	Você não pode estar
+	falando da...?!
 	"""
 	keyWait
 		any = false
@@ -126,16 +125,15 @@ script 7 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yup! The forbidden
-	art of suit-
-	changing⋯
+	Aham! A arte proibida
+	de botar o calção de
+	banho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Houdini of the
-	Beach!
+	a Desliza-Cueca!
 	"""
 	keyWait
 		any = false
@@ -148,9 +146,9 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,what's he
-	talking about?
-	Houdini?
+	... Lan, o que diabos
+	é essa história aí de
+	Desliza-Cueca?
 	"""
 	keyWait
 		any = false
@@ -161,40 +159,33 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's a forbidden art
-	passed down from
-	father to son⋯
+	É uma técnica proibida
+	passada de geração em
+	geração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Remove pants,then
-	wear your suit over
-	your underpants.
+	Você tira a bermuda e
+	coloca a roupa de banho
+	por cima da cueca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then,remove
-	underpants out from
-	under suit⋯
+	Daí, você remove a
+	cueca por debaixo
+	da rouba de banho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This way,you can
-	change into your
-	suit⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Without once getting
-	naked!
+	Dessa forma, você se
+	troca sem precisar ficar
+	pelado nem um segundo!
 	"""
 	keyWait
 		any = false
@@ -207,8 +198,8 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Er,what makes that
-	a "forbidden art"?
+	Er, e por que isso é
+	uma "arte proibida"?
 	"""
 	keyWait
 		any = false
@@ -220,7 +211,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Allow me to explain⋯"
+	"Deixa que eu explico..."
 	keyWait
 		any = false
 	end
@@ -230,92 +221,89 @@ script 12 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	On the one hand you
-	can safely change
-	into your suit⋯
+	É verdade que ela te
+	permite botar a roupa
+	de banho com dignidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But not without
-	paying a dear
-	price.
+	mas tem um risco
+	alto envolvido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When you remove your
-	suit from beneath
-	your underpants,
+	Pra fazer essa
+	substituição de cueca
+	por calção de banho,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're forced to
-	stretch your
-	underpants out,
+	você tem que esticar
+	pra caramba a cueca,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and pull them over
-	each leg,one at a
-	time.
+	tirando uma perna
+	de cada vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now take it from me!
-	That can be a lot of
-	stretching!
+	E, vai por mim...
+	pode ser uma esticada
+	absurda!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	More stretching,in
-	fact,than most
-	underpants can stand
+	Mais esticamento, na
+	real, do que a maioria
+	das cuecas aguenta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with each use,your
-	underpants take a
-	beating⋯
+	ainda mais depois de
+	serem muito usadas.
+	A cueca fica gasta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before you know it,
-	your overworked
-	underpants
+	Se a coisa não rolar
+	direito, antes que cê
+	se dê conta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will let out a
-	terrible sound and
-	rip in two.
+	a cueca, esticada,
+	emite um som terrível...
+	e se rasga em duas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's worse⋯"
+	"E o pior..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,I can't bear to
-	say it!
+	Ah, dá pavor
+	só de falar!
 	"""
 	keyWait
 		any = false
@@ -327,7 +315,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aieek! Quit it,Dex!"
+	"Aaaahhh! Para, Dex!"
 	keyWait
 		any = false
 	clearMsg
@@ -339,8 +327,8 @@ script 14 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	What are you two
-	babbling about?
+	Do que é que vocês
+	tão falando aí?
 	"""
 	keyWait
 		any = false
@@ -350,21 +338,20 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Ta-dah!"
+	"Tchã-rã!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,guys,we're going
-	to have a swimming
-	race!
+	A gente tá pronta pra
+	uma corrida de natação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So hurry up and get
-	changed!
+	Então botem logo o
+	calção de banho, vocês!
 	"""
 	keyWait
 		any = false
@@ -377,9 +364,8 @@ script 16 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,Dex,we're
-	going to get in the
-	water.
+	A gente já vai entrar
+	na água, meninos.
 	"""
 	keyWait
 		any = false
@@ -390,8 +376,7 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dex,let's get
-	changed!
+	Dex, bora se trocar!
 	"""
 	keyWait
 		any = false
@@ -404,9 +389,8 @@ script 18 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	⋯Yeah,time for
-	Houdini of the
-	Beach!
+	... Uhum.
+	Hora do Desliza-Cueca!
 	"""
 	keyWait
 		any = false
@@ -417,11 +401,11 @@ script 19 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 222
-	"⋯*rrrip!*"
+	"... RRRREEEESC!"
 	keyWait
 		any = false
 	clearMsg
-	"Aieeeee!"
+	"Aaaaaiinn!"
 	keyWait
 		any = false
 	end
@@ -431,9 +415,9 @@ script 20 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yai said we're gonna
-	have a swimming
-	race,didn't she?
+	A Yai disse que a
+	gente ia apostar uma
+	corrida, não foi?
 	"""
 	keyWait
 		any = false
@@ -445,11 +429,11 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,she did⋯"
+	"É, disse, sim..."
 	keyWait
 		any = false
 	clearMsg
-	"Hey,what's that?"
+	"Ué, mas o que...?"
 	keyWait
 		any = false
 	end
@@ -458,7 +442,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Wow,Yai,awesome!"
+	"Nossa!\nQue incrível, Yai!"
 	keyWait
 		any = false
 	clearMsg
@@ -470,9 +454,9 @@ script 23 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	How's this,guys?
-	My very own jet-
-	powered inner tube!
+	Que tal, amiguinhos?
+	Esta é a minha boia
+	pessoal movida a jato!
 	"""
 	keyWait
 		any = false
@@ -483,8 +467,8 @@ script 24 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hey! Hit the
-	WATERMELON,not ME!
+	Aí! Acerta a melancia,
+	não eu!
 	"""
 	keyWait
 		any = false
@@ -496,7 +480,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Go,Yai,go!"
+	"Vai lá, Yai! Vai!"
 	keyWait
 		any = false
 	clearMsg
@@ -507,11 +491,11 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right! Left!"
+	"Direita! Esquerda!"
 	keyWait
 		any = false
 	clearMsg
-	"Let him have it,Yai!"
+	"Dá-lhe nele, Yai!"
 	keyWait
 		any = false
 	clearMsg
@@ -523,8 +507,8 @@ script 27 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I'll get you for
-	this,Lan!
+	Cê ainda me paga
+	por essa, Lan!
 	"""
 	keyWait
 		any = false
@@ -536,7 +520,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Tee hee hee!"
+	"Hi hi hi!"
 	keyWait
 		any = false
 	end
@@ -546,8 +530,8 @@ script 29 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	*phew!* That sure
-	was fun!
+	Uff!
+	Ai, foi tão divertido!
 	"""
 	keyWait
 		any = false
@@ -560,9 +544,9 @@ script 30 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Don't talk like it's
-	over,Mayl! The fun
-	has just begun!
+	Ei, não acabou ainda
+	não, Mayl! A diversão
+	tá só começando!
 	"""
 	keyWait
 		any = false
@@ -576,7 +560,7 @@ script 31 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 223
-	"*growl*"
+	"Ronc..."
 	keyWait
 		any = false
 	clearMsg
@@ -588,9 +572,9 @@ script 32 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	But first,we've
-	gotta get something
-	to eat!
+	Mas, primeiro, vamos
+	arranjar alguma coisa
+	pra comer!
 	"""
 	keyWait
 		any = false
@@ -603,9 +587,9 @@ script 33 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hmm⋯I know! We'll
-	catch some fish for
-	ya!
+	Hmmm... Já sei!
+	A gente pesca uns
+	peixes pra vocês!
 	"""
 	keyWait
 		any = false
@@ -616,8 +600,8 @@ script 34 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,are you up for a
-	fishing battle?
+	E aí, Lan? Topa um
+	duelo de pescaria?
 	"""
 	keyWait
 		any = false
@@ -630,9 +614,9 @@ script 35 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But how're we going
-	to fish without
-	equipment?
+	Mas como é que a
+	gente vai pescar
+	sem equipamento?
 	"""
 	keyWait
 		any = false
@@ -644,29 +628,28 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Are you kidding?"
+	"Ah, vá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All you need to
-	fish is Bamboo,
-	FishLine and Worm!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We can find that
-	much lying around
-	somewhere!
+	A gente só precisa de
+	Bambu, Linha de Pesca
+	e Minhoca pra pescar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoever catches the
-	most fish wins!
+	Dá pra achar essas
+	coisas por aí, pela ilha!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Quem pegar mais
+	peixe, vence!
 	"""
 	keyWait
 		any = false
@@ -677,15 +660,14 @@ script 37 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yai,Mayl--you
-	wait here.
+	Yai, Mayl,
+	vocês esperam aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna get a head
-	start!
+	Eu já vou na frente!
 	"""
 	keyWait
 		any = false
@@ -696,9 +678,8 @@ script 38 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sheesh,that Dex
-	never runs out of
-	steam!
+	Credo, esse Dex tá
+	sempre ligado no 220V!
 	"""
 	keyWait
 		any = false
@@ -708,7 +689,7 @@ script 39 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*bee-bee-beep!*"
+	"Bi-Bi-Biip!"
 	wait
 		frames = 42
 	end
@@ -717,7 +698,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	end
@@ -727,16 +708,15 @@ script 41 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's an order from
-	Chaud.
+	É uma ordem do Chaud.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's step away and
-	read it out of sight
-	of Mayl and Yai⋯
+	Vamos nos afastar da
+	Mayl e da Yai primeiro
+	pra ler...
 	"""
 	keyWait
 		any = false
@@ -749,16 +729,15 @@ script 42 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's an order from
-	Baryl.
+	É uma ordem do Baryl.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's step away and
-	read it out of sight
-	of Mayl and Yai⋯
+	Vamos nos afastar da
+	Mayl e da Yai primeiro
+	pra ler...
 	"""
 	keyWait
 		any = false
@@ -770,7 +749,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right,sure⋯"
+	"Tá..."
 	keyWait
 		any = false
 	end
@@ -780,9 +759,9 @@ script 44 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmm,maybe I'll go
-	find some stuff to
-	fish with⋯
+	Er, acho que eu vou
+	procurar pelas coisas
+	de pesca bem ali...
 	"""
 	keyWait
 		any = false
@@ -793,9 +772,9 @@ script 45 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	We're NOT counting
-	on you but good luck
-	anyway.
+	Bom, a gente NÃO tem
+	muita fé em você, mas
+	boa sorte mesmo assim.
 	"""
 	keyWait
 		any = false
@@ -807,7 +786,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Be careful!"
+	"Vai com cuidado!"
 	keyWait
 		any = false
 	clearMsg
@@ -819,8 +798,7 @@ script 47 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,catch you later,
-	then.
+	Tá, até já, então.
 	"""
 	keyWait
 		any = false

@@ -15,17 +15,16 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	He sure is lucky to
-	have somebody to
-	bring him clothes.
+	Cretino sortudo, tendo
+	alguém pra trazer
+	roupas pra ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a drag being
-	single⋯*mumble
-	mumble*
+	É um saco ser solteiro...
+	Grrr...
 	"""
 	keyWait
 		any = false
@@ -36,9 +35,9 @@ script 1 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	What's happening in
-	Oran Area and
-	SciLab Area?!
+	O que tá acontecendo
+	nas Áreas Oran e
+	SciLab?!
 	"""
 	keyWait
 		any = false
@@ -59,24 +58,24 @@ script 2 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This main system and
-	SciLab Area are
-	normally connected
+	O sistema central e a
+	Área Scilab normalmente
+	são interligados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the connection
-	has been severed,
+	mas a conexão foi
+	rompida,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to prevent Nebula
-	infiltration and
-	virus infection.
+	para prevenir a
+	infiltração da Nebula
+	e infecção de vírus.
 	"""
 	keyWait
 		any = false
@@ -87,15 +86,15 @@ script 3 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Emergency in SciLab
-	Area and Oran Area!
+	Emergência nas Áreas
+	SciLab e Oran!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Determine the cause!
-	Hurry!
+	Determinem a causa!
+	Rápido!
 	"""
 	keyWait
 		any = false
@@ -116,24 +115,24 @@ script 4 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The SciLab main
-	system is controlled
-	from this room.
+	O sistema central do
+	SciLab é controlado
+	desta sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's off-limits to
-	ordinary people.
+	A entrada é proibida
+	para o público...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,it's you! Yes,I
-	heard about you. Go
-	on ahead.
+	Ah, é você!
+	Sim, ouvi falar de você.
+	Pode entrar.
 	"""
 	keyWait
 		any = false
@@ -144,16 +143,16 @@ script 5 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The SciLab main
-	system is controlled
-	by⋯
+	O sistema central do
+	SciLab é controlado
+	desta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oops! You already
-	know this.
+	Opa! Você já sabe isso,
+	né?
 	"""
 	keyWait
 		any = false
@@ -164,16 +163,16 @@ script 6 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	There's trouble on
-	the Net again.
+	A Rede está com
+	problemas de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's hardly time
-	to enjoy coffee
-	working here.
+	Mal dá tempo para
+	saborear um bom café
+	trabalhando aqui.
 	"""
 	keyWait
 		any = false
@@ -184,16 +183,16 @@ script 7 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Guess I should go
-	home and get a
-	change of clothes.
+	Acho que eu devia ir
+	pra casa trocar de
+	roupa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't been home
-	for two weeks now⋯
+	Já tem duas semanas
+	que eu não vou lá...
 	"""
 	keyWait
 		any = false
@@ -204,16 +203,16 @@ script 8 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The Nebula activity
-	in SciLab Area is
-	somehow paced⋯
+	A atividade da Nebula
+	na Área SciLab se
+	reduziu um tanto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if they're
-	up to something?
+	Será que estão
+	aprontando algo?
 	"""
 	keyWait
 		any = false
@@ -229,22 +228,22 @@ script 10 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I heard about the
-	missing Navis.
+	Sim, fui informada dos
+	Navis desaparecidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must try not to
-	worry too much.
+	Tente não se preocupar
+	demais, por favor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're sure to come
-	back in good health!
+	Estou certa de que eles
+	voltarão sãos e salvos!
 	"""
 	keyWait
 		any = false
@@ -260,17 +259,17 @@ script 11 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Could the people on
-	the tour please
-	quiet down a bit?
+	Esse pessoal do tour
+	não podia abaixar o
+	volume, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm having trouble
-	concentrating on my
-	research.
+	Está tirando a minha
+	concentração na minha
+	pesquisa.
 	"""
 	keyWait
 		any = false
@@ -286,17 +285,17 @@ script 12 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The SciLab web page?
-	It's connected to
-	the Net already.
+	A página do SciLab?
+	Ela já está conectada
+	à Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in
-	from MissionCtrl
-	in the back.
+	Você pode se conectar
+	a ela do Controle de
+	Missão, lá nos fundos.
 	"""
 	keyWait
 		any = false
@@ -307,17 +306,17 @@ script 20 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	A person on the tour
-	tried to sneak into
-	here.
+	Uma das pessoas do
+	tour entrou de penetra
+	aqui ainda agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But without an ID
-	card,I don't know
-	how he did it.
+	Mas, sem um cartão de
+	identificação, eu não
+	sei COMO ele conseguiu.
 	"""
 	keyWait
 		any = false
@@ -328,9 +327,9 @@ script 21 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Today was the last
-	of the tours. Now I
-	can do my research!
+	Hoje foi o último tour.
+	Finalmente, posso fazer
+	minhas pesquisas!
 	"""
 	keyWait
 		any = false
@@ -341,24 +340,24 @@ script 22 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This system and the
-	SciLab web page are
-	linked together
+	Este sistema e a página
+	do SciLab estão
+	interligados,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but you can't jack
-	in from here.
+	mas não dá para se
+	conectar a ela daqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can jack in
-	from MissionControl
-	in the back.
+	Para se conectar, vá
+	ao Controle de Missão,
+	nos fundos.
 	"""
 	keyWait
 		any = false

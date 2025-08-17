@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yikes!!!"
+	"Aah!!!"
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan!"
+	"O que foi, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -24,7 +24,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's coming⋯"
+	"Tá vindo..."
 	keyWait
 		any = false
 	clearMsg
@@ -35,7 +35,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's coming?"
+	"O que é que tá vindo?"
 	keyWait
 		any = false
 	clearMsg
@@ -45,11 +45,11 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	mugshotHide
 	msgOpen
-	"I feel its power⋯"
+	"Eu sinto o poder dele..."
 	keyWait
 		any = false
 	clearMsg
-	"It's the same as me⋯"
+	"É igual ao meu."
 	keyWait
 		any = false
 	end
@@ -58,7 +58,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -70,8 +70,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,get ready
-	for some action!
+	Lan, vamos nos
+	preparar pra lutar!
 	"""
 	keyWait
 		any = false
@@ -83,7 +83,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm on it!!!"
+	"Tô sempre!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -94,7 +94,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here it comes!!!"
+	"Lá vem!!!"
 	keyWait
 		any = false
 	end
@@ -102,7 +102,7 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	mugshotHide
 	msgOpen
-	"I sense your power⋯"
+	"Eu sinto o seu poder..."
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +113,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯!!!"
+	"...!!!"
 	keyWait
 		any = false
 	end
@@ -134,35 +134,36 @@ script 12 mmbn5 {
 		mugshot = Bass
 	msgOpen
 	"""
-	The power pulses I
-	sense in you⋯
+	Os pulsos de força
+	que eu sinto dentro
+	de você...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are of the same
-	type as mine⋯
+	são do mesmo
+	tipo que a minha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯How interesting.
-	Let's battle.
+	... Interessante.
+	Vamos lutar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna find out
-	if that power of
-	yours is fake or if
+	Eu vou descobrir
+	se essa sua força
+	é falsa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"it's the real thing⋯"
+	"ou verdadeira!"
 	keyWait
 		any = false
 	clearMsg
@@ -173,7 +174,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!"
+	"Aí vem ele, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -185,15 +186,17 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Such terrible power⋯
-	Can we even win?
+	Mas que poder imenso...
+	Será que a gente
+	consegue vencer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've got no choice!
-	Battle routine,set!
+	Bom, não temos escolha!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -205,7 +208,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -216,7 +219,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Ready or not⋯"
+	"..."
 	keyWait
 		any = false
 	end

@@ -11,8 +11,8 @@ script 0 mmbn5 {
 		jumpIfTrue = 1
 		jumpIfFalse = continue
 	"""
-	Remove this data?
-	Moves remaining: 
+	Remover estes dados?
+	Ações restantes: 
 	"""
 	printBuffer
 		buffer = 3
@@ -30,7 +30,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -39,7 +39,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -59,8 +59,8 @@ script 1 mmbn5 {
 		jumpIfTrue = 3
 		jumpIfFalse = continue
 	"""
-	Exchange this data?
-	Moves remaining: 
+	Trocar estes dados?
+	Ações restantes: 
 	"""
 	printBuffer
 		buffer = 3
@@ -78,7 +78,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -87,7 +87,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -110,7 +110,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"Yes\n"
+	"Sim\n"
 	option
 		brackets = 0
 		left = 1
@@ -119,7 +119,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"No"
+	"Não"
 	select
 		default = 0
 		BSeparate = false
@@ -135,8 +135,8 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Place data here?
-	Moves remaining: 
+	Colocar dados aqui?
+	Ações restantes: 
 	"""
 	printBuffer
 		buffer = 3
@@ -154,7 +154,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -163,7 +163,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -179,9 +179,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Data is fragmented.
-	You'd better not
-	handle it.
+	Dados fragmentados.
+	É melhor não
+	manuseá-los.
 	"""
 	keyWait
 		any = false
@@ -190,9 +190,8 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Illegal access
-	detected! Activate
-	security!
+	Acesso ilegal detectado!
+	Ativando segurança!
 	"""
 	keyWait
 		any = false
@@ -201,8 +200,8 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	The security door
-	has opened!
+	A porta de segurança
+	se abriu!
 	"""
 	keyWait
 		any = false

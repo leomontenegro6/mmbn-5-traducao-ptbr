@@ -3,15 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	The crying of a baby
-	can be heard inside.
+	Pode-se ouvir o choro
+	de um bebê vindo de
+	dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are actually
-	2 babies crying.
+	Aliás, não...
+	Há dois bebês chorando.
 	"""
 	keyWait
 		any = false
@@ -20,16 +21,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A house will
-	be built here.
+	Uma casa será
+	construída aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears that
-	it'll be built for
-	Ayanokoji's family.
+	Parece que será de
+	propriedade da família
+	Ayano.
 	"""
 	keyWait
 		any = false
@@ -38,16 +39,17 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The smell of yummy
-	home cooking drifts
-	out from within.
+	O cheiro de uma
+	deliciosa comida
+	caseira exala de dentro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's enough to make
-	the stomach growl.
+	É o bastante para
+	fazer qualquer estômago
+	roncar.
 	"""
 	keyWait
 		any = false
@@ -56,15 +58,14 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A kindly looking
-	statue⋯
+	Uma estátua de
+	aparência terna...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It brings peace
-	to the town.
+	Ela traz paz à cidade.
 	"""
 	keyWait
 		any = false
@@ -73,22 +74,23 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	These 3 statues were
-	placed to bring
+	Essas três estátuas
+	foram instaladas aí
+	para atrair
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	peace,safety,and
-	good luck.
+	paz, segurança
+	e boa sorte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This one is for
-	safety.
+	Esta aqui é a da
+	segurança.
 	"""
 	keyWait
 		any = false
@@ -97,17 +99,17 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	This statue was
-	placed to bring
-	good luck.
+	Essa estátua foi
+	instalada aí para
+	trazer boa sorte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some say it has
-	brought prosperity
-	to the town.
+	Alguns dizem que ela
+	trouxe prosperidade
+	ao bairro.
 	"""
 	keyWait
 		any = false
@@ -115,20 +117,20 @@ script 5 mmbn5 {
 }
 script 6 mmbn5 {
 	msgOpen
-	"A pipe⋯"
+	"Um duto..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By day it's a
-	plaything for kids,
+	De dia, é um brinquedo
+	para as crianças.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by night it's a
-	bed for stray dogs.
+	De noite, é uma cama
+	para cães vira-lata.
 	"""
 	keyWait
 		any = false
@@ -136,14 +138,14 @@ script 6 mmbn5 {
 }
 script 7 mmbn5 {
 	msgOpen
-	"A clothesline."
+	"Um varal."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet a ton of
-	laundry has hung
-	here over the years.
+	Aposto que um monte de
+	roupas foram penduradas
+	aí no decorrer dos anos.
 	"""
 	keyWait
 		any = false
@@ -152,17 +154,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	It's some sort of
-	store that's been
-	closed for years.
+	É algum tipo de loja
+	que já está fechada
+	há anos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	People say no store
-	has ever prospered
-	in this location.
+	Dizem que nenhuma loja
+	jamais prosperou nesse
+	endereço.
 	"""
 	keyWait
 		any = false
@@ -171,9 +173,9 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	The voice of a man
-	speaking in Netopian
-	can be heard.
+	Pode-se ouvir a voz
+	de um homem falando
+	em ameropano.
 	"""
 	keyWait
 		any = false
@@ -181,13 +183,13 @@ script 9 mmbn5 {
 }
 script 10 mmbn5 {
 	msgOpen
-	"It's a doghouse⋯"
+	"É uma casinha de\ncachorro..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯A plain-looking
-	doghouse.
+	... Uma casinha de
+	cachorro comum.
 	"""
 	keyWait
 		any = false

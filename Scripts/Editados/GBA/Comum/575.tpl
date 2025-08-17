@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Seems like Nebula
-	is planning to do
-	something again.
+	Parece que a Nebula
+	tá tramando alguma
+	coisa de novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It had better
-	be good!
+	É bom ser uma
+	tramoia das boas!
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,16 @@ script 1 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	It's about time
-	for Nebula to begin
-	their big attack⋯
+	Já está quase na hora
+	da Nebula iniciar o
+	grande ataque deles...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think we're in
-	for real trouble.
+	Eu acho que tem
+	problema sério vindo aí.
 	"""
 	keyWait
 		any = false
@@ -45,22 +45,22 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Most people were
-	forced to act like
-	bad guys.
+	A maioria do pessoal
+	foi forçado a agir
+	como cretinos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But real bad guys
-	like me weren't
-	affected!
+	Mas bandidões de
+	verdade que nem eu
+	não foram afetados!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Pretty interesting."
+	"Interessante, né?"
 	keyWait
 		any = false
 	end
@@ -70,24 +70,24 @@ script 11 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	The whole world
-	is enveloped in
-	fear and hate.
+	O mundo inteiro
+	está mergulhado
+	em medo e ódio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know
-	how much longer
-	I can take it.
+	Eu não sei se vou
+	conseguir aguentar
+	muito mais...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The hate is
-	filling my mind⋯
+	O ódio está preenchendo
+	a minha mente...
 	"""
 	keyWait
 		any = false
@@ -98,17 +98,17 @@ script 20 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	That incident just
-	showed us the real
-	face of the world.
+	Tudo o que aquele
+	incidente fez foi mostrar
+	a real face do mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you know
-	how hypocritical
-	life really is!
+	Agora cês sabem o
+	quanto a vida é
+	hipócrita!
 	"""
 	keyWait
 		any = false
@@ -119,16 +119,16 @@ script 21 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	I felt like
-	something
-	invaded my mind.
+	Foi como se alguma coisa
+	tivesse invadido a minha
+	mente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What did Nebula
-	did to us?
+	O que a Nebula
+	fez com a gente?
 	"""
 	keyWait
 		any = false
@@ -139,17 +139,17 @@ script 30 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	That incident just
-	showed us the real
-	face of the world.
+	Tudo o que aquele
+	incidente fez foi mostrar
+	a real face do mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you know
-	how hypocritical
-	life really is!
+	Agora cês sabem o
+	quanto a vida é
+	hipócrita!
 	"""
 	keyWait
 		any = false
@@ -160,17 +160,17 @@ script 31 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	So now Nebula can
-	take over people's
-	minds freely?
+	Então, agora, a Nebula
+	pode controlar as mentes
+	das pessoas livremente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's hard to believe
-	but I guess that's
-	the scary truth.
+	É difícil de acreditar,
+	mas acho que essa é a
+	sinistra verdade.
 	"""
 	keyWait
 		any = false
@@ -181,23 +181,23 @@ script 40 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Thanks to Nebula's
-	treachery,
+	Graças à traição
+	da Nebula,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the entire world
-	will be tainted by
-	darkness.
+	o mundo inteiro vai
+	ser manchado pela
+	escuridão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I kind of like that.
-	Hee-hee-hee!
+	Eu até que gosto disso.
+	He he he!
 	"""
 	keyWait
 		any = false
@@ -208,15 +208,15 @@ script 41 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The whole world
-	is oddly quiet.
+	O mundo inteiro
+	tá tão quieto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess it's
-	only natural⋯
+	Bom, acho que era
+	de se esperar...
 	"""
 	keyWait
 		any = false

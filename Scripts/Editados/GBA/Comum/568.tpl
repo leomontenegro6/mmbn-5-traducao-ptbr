@@ -5,17 +5,17 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SO SCARED!
-	DID YOU SEE
-	NEBULA'S WARNING?
+	EU TÔ COM MEDO!
+	VOCÊ VIU O AVISO
+	DA NEBULA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I CAN'T LEAVE!
-	I'M STUCK HERE!
-	WHAT SHOULD I DO?
+	MAS EU NÃO POSSO IR
+	EMBORA! EU TÔ PRESO
+	AQUI! O QUE EU FAÇO?!
 	"""
 	keyWait
 		any = false
@@ -26,9 +26,8 @@ script 1 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	You can sense the
-	tension in the air,
-	you know?
+	Dá pra sentir a tensão
+	no ar, sabe?
 	"""
 	keyWait
 		any = false
@@ -38,14 +37,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WHAT DO YOU WANT?"
+	"QUÊ QUE CÊ QUER?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T LOOK DOWN
-	ON ME BECAUSE I'M
-	JUST A PROGRAM!
+	NÃO ME MENOSPREZA
+	SÓ PORQUE EU SOU
+	PROG, NÃO!
 	"""
 	keyWait
 		any = false
@@ -56,15 +55,15 @@ script 11 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm sick of all the
-	silly rules!
+	Eu tô cheia de todas
+	essas regras imbecis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm going to run
-	totally wild!
+	Eu vou sair é quebrando
+	tudo!
 	"""
 	keyWait
 		any = false
@@ -75,8 +74,8 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HUH? WHAT
-	WAS I DOING?
+	UÉ?
+	O QUE EU TAVA FAZENDO?
 	"""
 	keyWait
 		any = false
@@ -87,15 +86,15 @@ script 21 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Why was I going
-	wild like that?
+	Por que eu resolvi
+	ficar violenta assim?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How embarrassing!
-	I'm really sorry!
+	Ai, que embaraçoso!
+	Desculpa!
 	"""
 	keyWait
 		any = false
@@ -106,15 +105,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M FINALLY FEELING
-	NORMAL AGAIN.
+	FINALMENTE,
+	EU VOLTEI AO NORMAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND I WANT TO
-	STAY THIS WAY!
+	E ASSIM PRETENDO
+	FICAR!
 	"""
 	keyWait
 		any = false
@@ -125,17 +124,16 @@ script 31 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	It was like my
-	body moved
-	against my will⋯
+	Era como se o meu corpo
+	se mexesse contra a
+	minha vontade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I felt like I was
-	possessed or
-	something!
+	Eu me senti possuída,
+	sei lá!
 	"""
 	keyWait
 		any = false
@@ -146,24 +144,24 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	JUST THINKING
-	ABOUT YESTERDAY
-	UPSETS ME.
+	SÓ DE PENSAR NO QUE
+	ACONTECEU ONTEM,
+	EU FICO TRISTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I CAN'T LET
-	IT KEEP ME DOWN!
-	THINK POSITIVE!
+	MAS NÃO POSSO ME
+	DEIXAR ABATER! TENHO
+	QUE PENSAR POSITIVO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WELCOME TO
-	SCILAB3!
+	BEM-VINDO À ÁREA
+	SCILAB 3!
 	"""
 	keyWait
 		any = false
@@ -174,24 +172,24 @@ script 41 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Nebula's last
-	attack was scary.
+	O último ataque da
+	Nebula foi sinistro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But seeing that
-	negativity in
-	myself was even
+	Mas o que deu mais
+	medo mesmo foi ver
+	aquela negatividade
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	scarier. I don't
-	know who I am
-	anymore!
+	toda em mim mesmo.
+	Eu nem sei mais quem
+	eu sou, sabe?!
 	"""
 	keyWait
 		any = false

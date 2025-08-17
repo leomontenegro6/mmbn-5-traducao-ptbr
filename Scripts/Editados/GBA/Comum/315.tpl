@@ -9,29 +9,29 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome to SciLab!"
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're constantly
-	working on new
-	network technology!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	On the 2nd floor you
-	will find a display
-	of PETs new and old!
+	Estamos sempre
+	desenvolvendo novas
+	tecnologias de rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and have
-	a good look around.
+	No segundo andar, há uma
+	exposição de PETs do
+	passado e do presente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sugiro que confira,
+	é muito instrutivo.
 	"""
 	keyWait
 		any = false
@@ -47,17 +47,17 @@ script 1 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Some research at
-	SciLab concerns
-	national security.
+	Certas pesquisas no
+	SciLab são questões
+	de segurança nacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're checking to
-	make sure nobody
-	suspicious gets in.
+	Estamos conferindo
+	para não deixar ninguém
+	suspeito entrar.
 	"""
 	keyWait
 		any = false
@@ -78,8 +78,8 @@ script 2 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Here you go,Dad,a
-	change of underwear!
+	Toma, papai, uma cueca
+	limpa!
 	"""
 	keyWait
 		any = false
@@ -87,16 +87,17 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Thanks! You're a
-	godsend.
+	Obrigado!
+	Salvou a minha vida,
+	filha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without it,I'd have
-	to wear what I have
-	inside-out.
+	Sem ela, eu teria que
+	vestir a que eu tô
+	usando agora do avesso.
 	"""
 	keyWait
 		any = false
@@ -104,38 +105,38 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	"""
-	Glad I could help!
-	But,Dad⋯
+	Que bom que eu ajudei!
+	Mas, papai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That shirt smells a
-	bit funny.
+	Essa camisa aí tá
+	fedendo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you needed a
-	shirt,too,you
-	could've told me!
+	Se precisava de uma
+	camisa também, era
+	só ter falado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not like I have
-	all the time in the
-	world!
+	Tá achando que eu sou
+	FEITA de tempo livre,
+	é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Scientist
-	"Er,sorry⋯"
+	"Er, desculpa..."
 	keyWait
 		any = false
 	end
@@ -155,17 +156,16 @@ script 4 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Citizens of
-	Electopia work too
-	hard.
+	Os ni-honenses
+	trabalham demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They need to learn
-	how to relax and
-	enjoy life more.
+	Precisam aprender a
+	relaxar e aproveitar
+	mais a vida.
 	"""
 	keyWait
 		any = false
@@ -176,24 +176,23 @@ script 5 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Today,I decided to
-	try some Earl Grey
-	tea for a change.
+	Hoje, eu decidi
+	experimentar chá preto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Which makes this my
-	teatime!
+	Logo, é minha hora do
+	chá agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you know! I
-	don't drink coffee
-	all the time!
+	Pois é!
+	Eu não bebo só café o
+	tempo todo!
 	"""
 	keyWait
 		any = false
@@ -204,8 +203,8 @@ script 6 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Here,Dad,a clean
-	shirt!
+	Toma, papai, uma camisa
+	limpa!
 	"""
 	keyWait
 		any = false
@@ -213,8 +212,8 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Thanks! You're a
-	great help.
+	Obrigada!
+	Você é um anjo.
 	"""
 	keyWait
 		any = false
@@ -222,15 +221,16 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	"""
-	I brought some extra
-	socks,too.
+	Eu trouxe umas meias
+	limpas também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now you're all set,
-	at least for a while!
+	Pronto, agora você tá
+	precavido...
+	por enquanto!
 	"""
 	keyWait
 		any = false
@@ -241,45 +241,46 @@ script 10 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hm? It seems there's
-	some trouble on the
-	Net.
+	Hm? Parece que está
+	tendo algum problema
+	na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better go on
-	home.
+	É melhor você ir logo
+	pra casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Be a good girl,and
-	Daddy will come home
-	as soon as I can.
+	Comporte-se, filha.
+	O papai volta pra casa
+	assim que der.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = PigtailsGirl
-	"OK!"
+	"Tá bom!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad,I know your job
-	is important but⋯
+	Olha, papai, eu sei
+	que o seu trabalho é
+	importante, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Try to come home
-	early sometimes,
-	alright?
+	tenta voltar mais cedo
+	pra casa de vez em
+	quando, tá bom?
 	"""
 	keyWait
 		any = false
@@ -290,17 +291,16 @@ script 12 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Something's wrong on
-	the Net but we
-	mustn't be alarmed.
+	Tem alguma coisa errada
+	na Rede, mas não deve-
+	mos entrar em pânico.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's important to
-	respond to these
-	things calmly.
+	É importante reagir com
+	calma a essas coisas.
 	"""
 	keyWait
 		any = false
@@ -311,9 +311,9 @@ script 13 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	It's another net
-	crisis--Nebula up
-	to no good again?
+	Mais uma crise na
+	Rede...
+	Outra obra da Nebula?
 	"""
 	keyWait
 		any = false
@@ -324,9 +324,9 @@ script 14 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Even in times of
-	crisis,we must stay
-	at our posts.
+	Mesmo em tempos de
+	crise, temos que ficar
+	em nossos postos.
 	"""
 	keyWait
 		any = false
@@ -337,62 +337,62 @@ script 20 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	What? You want to
-	know where the
-	regular girl is?
+	Hã? Quer saber onde
+	está a moça de sempre?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She's off today,sick
-	with a cold.
+	Ela tirou o dia de
+	folga. Gripou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was asked to
-	fill her shoes at
-	the last minute.
+	Me chamaram para
+	substituí-la de última
+	hora, e cá estou.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now,let's begin⋯"
+	"OK, vamos lá..."
 	keyWait
 		any = false
 	clearMsg
-	"Welcome to SciLab!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We're constantly
-	working on new
-	network technology!
-	"""
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the 2nd floor you
-	will find a display
-	of PETs new and old!
+	Estamos sempre
+	desenvolvendo novas
+	tecnologias de rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and have
-	a good look around.
+	No segundo andar, há uma
+	exposição de PETs do
+	passado e do presente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whaddya think? Not
-	bad for a sub,hmm?
+	Sugiro que confira,
+	é muito instrutivo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O que achou?
+	Nada mal pra um
+	substituto, né?
 	"""
 	keyWait
 		any = false
@@ -403,8 +403,8 @@ script 21 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Oh! I haven't seen
-	this room yet.
+	Ah! Eu ainda não tinha
+	visto esta sala.
 	"""
 	keyWait
 		any = false
@@ -415,17 +415,17 @@ script 22 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Electopia SciLab is
-	something else. I've
-	been here for days,
+	O SciLab de Ni-Hon é
+	incrível. Já faz dias
+	que estou aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and there are still
-	places left to see!
-	Incredible!
+	e ainda tem lugares
+	que eu não visitei!
+	É surreal!
 	"""
 	keyWait
 		any = false
@@ -436,9 +436,9 @@ script 23 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Sorry. I have
-	a husband and
-	family in Netopia.
+	Desculpa, mas eu tenho
+	marido e filhos na
+	Ameropa.
 	"""
 	keyWait
 		any = false
@@ -449,16 +449,15 @@ script 24 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	You're very
-	beautiful.
+	Você é tão linda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Could we go out for
-	dinner after you
-	return to Netopia?
+	Que tal sairmos para
+	jantar depois que você
+	voltar para a Ameropa?
 	"""
 	keyWait
 		any = false
@@ -469,8 +468,9 @@ script 25 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hey,stop that! This
-	area is off-limits!
+	Ô, pode parar!
+	Esta área aqui está
+	interditada!
 	"""
 	keyWait
 		any = false
@@ -481,17 +481,17 @@ script 26 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Hmph! Young people
-	these days are
-	simply unabashed
+	Hmpf! Esses jovens de
+	hoje em dia, tão sem
+	vergonha com suas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about public
-	displays of
-	affection! Terrible!
+	demonstrações
+	públicas de afeto...!
+	Que disparate!
 	"""
 	keyWait
 		any = false
@@ -502,48 +502,48 @@ script 40 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I'll work extra hard
-	to make up for being
-	gone the other day!
+	Vou trabalhar dobrado
+	hoje para compensar
+	minha ausência!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now,let's begin⋯"
+	"Bem, vamos lá..."
 	keyWait
 		any = false
 	clearMsg
-	"Welcome to SciLab!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We're constantly
-	working on new
-	network technology!
-	"""
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the 2nd floor you
-	will find a display
-	of PETs new and old!
+	Estamos sempre
+	desenvolvendo novas
+	tecnologias de rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and have
-	a good look around.
+	No segundo andar, há uma
+	exposição de PETs do
+	passado e do presente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hmm⋯Not bad but my
-	throat still isn't
-	fully recovered.
+	Sugiro que confira,
+	é muito instrutivo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Hm... Nada mal, mas a
+	minha voz ainda está
+	meio fanha.
 	"""
 	keyWait
 		any = false
@@ -554,17 +554,17 @@ script 41 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The tour guide asked
-	me to stand guard
-	here,but why?
+	O guia do tour me pediu
+	para ficar de guarda
+	aqui, mas por quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,you're free to
-	go by. I've heard
-	about you.
+	Ah, você pode entrar
+	à vontade. Já me
+	falaram de você.
 	"""
 	keyWait
 		any = false
@@ -575,25 +575,25 @@ script 42 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	See that green PET
-	over there? For its
-	time,
+	Está vendo aquele PET
+	verde ali? Na época de
+	lançamento dele,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it had the fastest
-	processing speed
-	available.
+	ele tinha a maior velo-
+	cidade de processamento
+	do mercado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it was easy to
-	back up data.
-	A great machine!
+	E era muito fácil fazer
+	backup nele.
+	Que máquina!
 	"""
 	keyWait
 		any = false
@@ -604,9 +604,9 @@ script 43 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	You certainly know
-	your PETs. I learn
-	just by listening.
+	Você é bem entendido
+	de PETs. Aprendo muito
+	só ouvindo você falar.
 	"""
 	keyWait
 		any = false
@@ -617,20 +617,20 @@ script 44 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I invited that lady
-	to dinner but she
-	was married.
+	Eu chamei aquela moça
+	ali pra sair, mas ela
+	era casada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How embarrassing⋯"
+	"Que vergonha..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"*sigh*"
+	"Ai, ai."
 	keyWait
 		any = false
 	end
@@ -640,17 +640,17 @@ script 45 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Shoot⋯now they've
-	placed guards around
-	the area.
+	Droga...
+	Agora, encheram a área
+	de guardas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess that's no
-	surprise since I
-	sneaked in⋯
+	Bom, não é surpresa,
+	já que eu me infiltrei
+	aqui...
 	"""
 	keyWait
 		any = false
@@ -661,16 +661,14 @@ script 46 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Today is the last
-	day of the SciLab
-	tour.
+	Hoje é o último dia
+	do tour do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The time sure went
-	by quickly!
+	Nossa, o tempo voou!
 	"""
 	keyWait
 		any = false
@@ -681,24 +679,24 @@ script 47 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Today was my last
-	day as a tour guide.
+	Hoje é o meu último dia
+	como guia do tour.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It wasn't the easy
-	job I was hoping it
-	would be⋯
+	Não foi o trabalho
+	super fácil que eu
+	achei que seria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,now it's up to
-	my subordinates to
-	take up the torch.
+	Bom, agora, cabe aos
+	meus subordinados
+	assumirem o papel.
 	"""
 	keyWait
 		any = false

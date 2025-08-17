@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	*sigh* I've got to
-	climb these stairs?
+	Ai... Eu vou ter que
+	subir essas escadas?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I feel blue every
-	time I come here.
+	Sempre que eu venho
+	aqui, eu fico triste.
 	"""
 	keyWait
 		any = false
@@ -29,17 +29,17 @@ script 1 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hello,everybody!
-	This is Electopia
-	SciLab.
+	Olá, pessoal!
+	Bem-vindos ao SciLab
+	de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Before you go inside
-	I'd like to give you
-	some background.
+	Antes de entrarem,
+	quero ensinar um pouco
+	sobre a nossa história.
 	"""
 	keyWait
 		any = false
@@ -55,15 +55,15 @@ script 2 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Electopia's SciLab
-	is nothing special.
+	O SciLab de Ni-Hon
+	não é nada de mais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Netopia's SciLab is
-	way cooler.
+	O SciLab da Ameropa
+	é muito mais legal.
 	"""
 	keyWait
 		any = false
@@ -79,16 +79,17 @@ script 3 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Electopia's network
-	technology is on the
-	cutting edge.
+	A tecnologia atual de
+	Ni-Hon é de última
+	geração mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm pleased to be on
-	this tour of SciLab!
+	Estou tão feliz por ter
+	vindo fazer este tour
+	do SciLab!
 	"""
 	keyWait
 		any = false
@@ -104,25 +105,24 @@ script 4 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The Electopia SciLab
-	building is pretty
-	impressive.
+	O prédio do SciLab
+	de Ni-Hon é bem
+	impressionante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But the building is
-	nothing more than a
-	facade.
+	Mas o prédio não passa
+	de uma fachada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What's important is
-	the abilities of the
-	staff who work here.
+	O que importa mesmo são
+	as habilidades daqueles
+	que trabalham aqui.
 	"""
 	keyWait
 		any = false
@@ -133,15 +133,15 @@ script 10 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I've still got a
-	ways to go⋯
+	Ainda falta tanto
+	ainda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If only there were
-	an escalator.
+	Se, ao menos, tivesse
+	uma escada rolante...
 	"""
 	keyWait
 		any = false
@@ -152,46 +152,46 @@ script 11 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	SciLab works on
-	Electopia network
-	technology.
+	O SciLab trabalha na
+	tecnologia de rede de
+	Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Most net technology
-	from Electopia comes
-	out of SciLab.
+	Aliás, maior parte da
+	tecnologia de rede do
+	país vem do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In the past,SciLab
-	worked heavily on
-	robotics
+	No passado, o SciLab
+	investiu pesado na
+	robótica,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but today,the main
-	focus is on network
-	technology.
+	mas, hoje, o foco
+	principal dele é a
+	rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Outside of research,
-	SciLab also monitors
-	the Net.
+	Além de conduzir
+	pesquisas, o SciLab
+	também monitora a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Like I said before⋯"
+	"Como eu expliquei..."
 	keyWait
 		any = false
 	end
@@ -201,16 +201,15 @@ script 12 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Isn't this a bit
-	long-winded?
+	Explicação meio
+	enrolada, essa, hein?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're hearing the
-	same things over and
-	over again⋯
+	Ele só fica repetindo
+	as mesmas coisas...
 	"""
 	keyWait
 		any = false
@@ -221,9 +220,9 @@ script 13 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	C'mon! Enough
-	explaining,let's
-	see the inside!
+	Ah, vai!
+	Chega de explicação!
+	Bora entrar!
 	"""
 	keyWait
 		any = false
@@ -234,17 +233,17 @@ script 14 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I've been listening
-	so long the heat
-	is making me dizzy!
+	Tô ouvindo essa ladainha
+	neste calor há tanto
+	tempo que já tô tonta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope SciLab has
-	developed good air-
-	conditioning!
+	Tomara que o SciLab
+	tenha um ar condicionado
+	bem potente!
 	"""
 	keyWait
 		any = false
@@ -255,16 +254,16 @@ script 20 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	So,that's the cruise
-	ship everybody's
-	talking about!
+	Então, esse é o
+	cruzeiro de que todo
+	mundo tá falando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's humongous!
-	Incredible!!!
+	Ele é mó gigantão!
+	Irado!!!
 	"""
 	keyWait
 		any = false
@@ -280,16 +279,16 @@ script 21 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That old guy is
-	there everyday.
-	Wonder who he is?
+	Aquele velho tá
+	sempre por aqui.
+	Quem será que é ele?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He has a certain
-	aura about him⋯
+	É que ele tem essa
+	aura, sabe...?
 	"""
 	keyWait
 		any = false
@@ -300,22 +299,22 @@ script 22 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	When I grow up,I'm
-	gonna become a
-	great scientist!
+	Quando eu crescer,
+	eu vou virar um
+	super cientista!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I swear to this
-	statue that I'll
-	invent lotsa stuff!
+	Eu juro pra esta estátua
+	que eu vou criar um
+	monte de coisa!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hip hip,hooray!!!"
+	"Ééééé!!!"
 	keyWait
 		any = false
 	end
@@ -325,9 +324,9 @@ script 23 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	What is he getting
-	so giddy about? How
-	immature!
+	Por que ele ficou todo
+	animadinho assim?
+	Tão imaturo!
 	"""
 	keyWait
 		any = false
@@ -338,16 +337,16 @@ script 30 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	That old man is here
-	again⋯
+	E cá está aquele
+	velho de novo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd like to talk to
-	him but he's a bit
-	intimidating⋯
+	Eu até queria falar com
+	ele, mas ele intimida
+	um pouco...
 	"""
 	keyWait
 		any = false
@@ -358,25 +357,25 @@ script 31 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	This monument is
-	a wonderful piece of
-	art.
+	Este monumento é
+	uma obra de arte
+	fantástica.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the scientists
-	who take care of it
-	are wonderful,too.
+	E os cientistas que
+	cuidam dele também
+	são fantásticos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's exposed to the
-	elements but they
-	keep it spotless.
+	Apesar de ficar ao ar
+	livre, eles o mantém
+	em perfeito estado.
 	"""
 	keyWait
 		any = false
@@ -390,9 +389,9 @@ script 32 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	It looks like these
-	birds are on a date.
-	What do you think?
+	Esses passarinhos
+	tão namorando!
+	Você também acha, né?
 	"""
 	keyWait
 		any = false
@@ -408,7 +407,7 @@ script 32 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Right. "
+	" Uhum. "
 	option
 		brackets = 0
 		left = 0
@@ -417,7 +416,7 @@ script 32 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Disagree."
+	" Discordo."
 	select
 		default = 0
 		BSeparate = false
@@ -428,13 +427,14 @@ script 32 mmbn5 {
 			jump = 33,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Wow,you think so
-	too? Great minds
-	think alike!
+	Ah, você também acha?
+	Grandes mentes pensam
+	igual, mesmo!
 	"""
 	keyWait
 		any = false
@@ -445,15 +445,15 @@ script 33 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	No way! You don't
-	think so?
+	Mentira!
+	Você não acha?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought we'd have
-	more in common⋯
+	Eu achei que a gente
+	tinha mais em comum...
 	"""
 	keyWait
 		any = false
@@ -464,9 +464,9 @@ script 34 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	This statue is
-	awfully handsome,
-	isn't he? Tee hee.
+	Esse homem da estátua
+	é tão atraente, não
+	concorda? Hi hi.
 	"""
 	keyWait
 		any = false
@@ -477,9 +477,9 @@ script 35 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	If only we could
-	fly freely like
-	airplanes⋯
+	Se, ao menos, a gente
+	pudesse voar livre no
+	céu, como aviões...
 	"""
 	keyWait
 		any = false
@@ -495,17 +495,16 @@ script 40 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I can't stand the
-	thought of climbing
-	these steps.
+	Eu não aguento ter que
+	pensar em subir essas
+	escadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe today I'll
-	skip SciLab
-	altogether⋯
+	Acho que vou esquecer
+	o SciLab por hoje...
 	"""
 	keyWait
 		any = false
@@ -516,24 +515,23 @@ script 41 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Tomorrow I start my
-	job conducting
-	SciLab tours.
+	Amanhã, começará outro
+	dia de trabalho como
+	guia do tour do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought it would
-	be a plush job
+	Eu achei que seria um
+	trabalho bem tranquilo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's pretty
-	difficult to speak
-	in front of people!
+	mas é bem difícil falar
+	na frente dos outros!
 	"""
 	keyWait
 		any = false

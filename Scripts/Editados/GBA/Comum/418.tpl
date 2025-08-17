@@ -14,13 +14,12 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"⋯Hey,you."
+	"... Ei, menino."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you happen
-	to have a
+	Cê teria aí um
 	"
 	"""
 	printChip
@@ -34,13 +33,12 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"If you do,"
+	"Se tiver,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	would you trade
-	it for my
+	troca por este meu
 	"
 	"""
 	printChip
@@ -65,7 +63,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -74,7 +72,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -88,7 +86,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = BlackWoman
-	"⋯Oh,I see."
+	"... Ah, tá."
 	keyWait
 		any = false
 	end
@@ -104,26 +102,24 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"You'll really trade?"
+	"Vai trocar mesmo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just as
-	I thought.
+	He, como eu imaginei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was sure
-	you'd trade
-	with me.
+	Eu sabia que você ia
+	trocar comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Well,here you go."
+	"Bom, vamos lá."
 	keyWait
 		any = false
 	clearMsg
@@ -139,7 +135,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan traded his
+	Lan trocou um
 	"
 	"""
 	printChip
@@ -154,7 +150,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printChip
@@ -173,9 +169,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BlackWoman
 	"""
-	May it bring
-	you lots of
-	luck!
+	Que ele te traga toda
+	a sorte do mundo!
 	"""
 	keyWait
 		any = false
@@ -188,7 +183,7 @@ script 2 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I don't see a
+	Não vejo nenhum
 	"
 	"""
 	printChip
@@ -198,13 +193,13 @@ script 2 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	"\"⋯"
+	"\"..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe you put it in
-	your folder?
+	Será que você não
+	colocou na sua pasta?
 	"""
 	keyWait
 		any = false
@@ -214,12 +209,12 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"I can tell⋯"
+	"Posso sentir..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have a
+	Você tem um
 	"
 	"""
 	printChip
@@ -230,16 +225,15 @@ script 3 mmbn5 {
 		buffer = 0
 		code = *
 	"""
-	,"
-	don't you?
+	",
+	não tem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you want to
-	trade it for my
-	"
+	E quer trocá-lo pelo
+	meu "
 	"""
 	printChip
 		buffer = 0
@@ -248,11 +242,11 @@ script 3 mmbn5 {
 	printCode
 		buffer = 0
 		code = I
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
-	"Am I right?"
+	"Acertei?"
 	keyWait
 		any = false
 	clearMsg
@@ -267,7 +261,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -276,7 +270,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -290,7 +284,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = BlackWoman
-	"⋯Oh,I see."
+	"... Ah, tá."
 	keyWait
 		any = false
 	end
@@ -300,9 +294,8 @@ script 4 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	May it bring
-	you lots of
-	luck!
+	Que esse chip te traga
+	toda a sorte do mundo!
 	"""
 	keyWait
 		any = false
@@ -313,38 +306,38 @@ script 5 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What fabulous view
-	of the Buddha!
-	Hey,outta the way!
+	Que vista fabulosa do
+	Buda!
+	... Ei, sai daí!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please,just leave
-	me alone!
+	Só me deixa em paz,
+	por favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm begging you!
-	If you will,I'll
-	tell you a secret!
+	É sério, eu tô
+	implorando! Eu te conto
+	um segredo em troca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"45654128"
-	It's a lotto number!
+	"45654128"!
+	É um número de loteria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now please,
-	just go away!
+	Agora, por favor,
+	vá embora!
 	"""
 	keyWait
 		any = false
@@ -358,18 +351,19 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = BlackWoman
 	msgOpen
-	"Uuuhhh⋯"
+	"Uuuuuhng..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A terrible strength
-	is flooding into me!
+	Tem uma força terrível
+	fluindo para dentro de
+	mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I can't take it⋯"
+	"Não consigo conter..."
 	keyWait
 		any = false
 	end
@@ -388,16 +382,16 @@ script 10 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Why you!!!
-	You got a lot of
-	nerve bothering me!
+	Ora, seu...!!!
+	É muita ousadia tua vir
+	encher o meu saco!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now scram before I
-	slap you silly!!!
+	Agora cai fora antes que
+	eu te dê um sopapo!!
 	"""
 	keyWait
 		any = false

@@ -15,16 +15,16 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I can't find
-	it anywhere⋯
+	Não encontro ele
+	em lugar nenhum...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm history if I
-	don't get my hands
-	on a "
+	Ele vai acabar comigo
+	se eu não arranjar um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -33,13 +33,13 @@ script 0 mmbn5 {
 	printCode
 		buffer = 0
 		code = T
-	".\""
+	"\"..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,you there!!!
-	Do you have a
+	Ei, você aí!!!
+	Cê teria um
 	"
 	"""
 	printChip
@@ -54,7 +54,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	You see,I lost the
+	É que eu perdi o
 	"
 	"""
 	printChip
@@ -65,29 +65,29 @@ script 0 mmbn5 {
 		buffer = 0
 		code = T
 	"""
-	"
-	a friend lent me.
+	" que
+	um amigo me emprestou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And now it's time
-	to give it back.
+	E já tá na hora
+	de eu devolver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If he finds out that
-	I lost his chip,
-	I'm⋯ I'm⋯
+	Se ele descobrir que
+	eu perdi o chip dele,
+	eu... eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you have a
+	Se você tiver um
 	"
 	"""
 	printChip
@@ -102,8 +102,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	would you trade
-	it for my
+	toparia trocar
+	por este
 	"
 	"""
 	printChip
@@ -117,7 +117,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Please,please⋯"
+	"Vai, por favor...!"
 	keyWait
 		any = false
 	clearMsg
@@ -132,7 +132,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -141,7 +141,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -155,7 +155,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Don't be like that⋯"
+	"Poxa..."
 	keyWait
 		any = false
 	end
@@ -171,11 +171,11 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Really,really?!"
+	"Opa, sério?!"
 	keyWait
 		any = false
 	clearMsg
-	"Then let's do it!"
+	"Então, bora!"
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +191,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan traded his
+	MegaMan trocou um
 	"
 	"""
 	printChip
@@ -206,7 +206,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printChip
@@ -225,16 +225,15 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	"""
-	Oh,thank you!!!
-	I owe you big
-	time!!!
+	Ah, obrigado!
+	Eu te devo muito, cara!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You saved my
-	friendship!
+	Você salvou a
+	minha amizade!
 	"""
 	keyWait
 		any = false
@@ -246,13 +245,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviYellow
 	msgOpen
-	"Uh⋯ Um⋯"
+	"Er... Hum..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You don't seem to
-	have a "
+	Você não parece ter
+	um "
 	"""
 	printChip
 		buffer = 0
@@ -261,13 +260,13 @@ script 2 mmbn5 {
 	printCode
 		buffer = 0
 		code = T
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it in your
-	folder?
+	Será que tá
+	na sua pasta?
 	"""
 	keyWait
 		any = false
@@ -278,7 +277,7 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You wanna trade your
+	Que trocar o seu
 	"
 	"""
 	printChip
@@ -293,7 +292,7 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for my
+	pelo meu
 	"
 	"""
 	printChip
@@ -318,7 +317,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -327,7 +326,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -341,7 +340,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Don't be like that⋯"
+	"Poxa..."
 	keyWait
 		any = false
 	end
@@ -351,8 +350,9 @@ script 4 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Thanks to you,I
-	won't lose my buddy!
+	Graças a você,
+	eu não vou perder
+	o meu melhor amigo!
 	"""
 	keyWait
 		any = false

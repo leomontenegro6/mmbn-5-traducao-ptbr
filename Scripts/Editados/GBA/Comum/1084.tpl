@@ -8,8 +8,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What the⋯?
-	It can't be!
+	O quê...?
+	Não pode ser!
 	"""
 	keyWait
 		any = false
@@ -21,7 +21,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"What's wrong?"
+	"O que foi?"
 	keyWait
 		any = false
 	end
@@ -34,8 +34,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	ProtoMan! You're
-	alive!
+	ProtoMan!
+	Você tá vivo!
 	"""
 	keyWait
 		any = false
@@ -47,7 +47,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = DarkProtoMan
 	msgOpen
-	"⋯"
+	"..."
 	keyWait
 		any = false
 	clearMsg
@@ -59,8 +59,8 @@ script 4 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Wait! He's acting
-	funny!
+	Espera aí!
+	Ele tá estranho!
 	"""
 	keyWait
 		any = false
@@ -84,9 +84,8 @@ script 6 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	So,you're the
-	enemy of the
-	Officials,huh?
+	Então, você é o
+	inimigo dos Oficiais...
 	"""
 	keyWait
 		any = false
@@ -99,8 +98,8 @@ script 7 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	HUH?! What are
-	you talking about?!
+	HÃ?! Do que é que
+	cê tá falando?!
 	"""
 	keyWait
 		any = false
@@ -113,8 +112,8 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan! It's
-	us! Your friends!
+	ProtoMan! Somos nós!
+	Os seus amigos!
 	"""
 	keyWait
 		any = false
@@ -127,16 +126,16 @@ script 9 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Master Regal saved
-	my life. I pledged
-	my loyalty to him.
+	O Mestre Regal salvou
+	a minha vida. E eu
+	jurei lealdade a ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Protecting this
-	area is my task.
+	Proteger esta área
+	é o meu dever.
 	"""
 	keyWait
 		any = false
@@ -148,7 +147,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,no⋯!"
+	"Não...!"
 	keyWait
 		any = false
 	end
@@ -161,9 +160,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Did the Darkloids
-	modify him like
-	they did me⋯?
+	Será que os Darkloids
+	modificaram ele que
+	nem me modificaram...?
 	"""
 	keyWait
 		any = false
@@ -175,20 +174,20 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Looks like it."
+	"É o que tá parecendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means we have
-	to fight through
+	Então, a gente vai ter
+	que atravessar todos
+	esses quadros no soco
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all the panels to
-	get to him⋯
+	pra chegar até ele...
 	"""
 	keyWait
 		any = false
@@ -202,8 +201,8 @@ script 13 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Wow! DarkPanels
-	are EVERYWHERE!
+	Eita! Tem Quadros
+	Negros pra TODO O LADO!
 	"""
 	keyWait
 		any = false
@@ -216,9 +215,9 @@ script 14 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	This'll be tough to
-	handle even with my
-	firepower.
+	Isso vai ser dureza,
+	até pro meu poder de
+	fogo.
 	"""
 	keyWait
 		any = false
@@ -232,8 +231,8 @@ script 15 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I guess it's my
-	turn,then!
+	Então, é a minha
+	hora de brilhar!
 	"""
 	keyWait
 		any = false
@@ -252,8 +251,8 @@ script 16 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	What,you've got
-	a plan?
+	Hã?
+	Cê tem um plano, então?
 	"""
 	keyWait
 		any = false
@@ -266,16 +265,16 @@ script 17 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Yeah,I do!
-	With TwinLiberation⋯
+	Aham! Com a minha
+	Liberação Gêmea...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can liberate a
-	row of panels just
-	by hitting the ends!
+	eu posso liberar uma
+	fileira de paineis
+	atacando só a ponta!
 	"""
 	keyWait
 		any = false
@@ -287,14 +286,14 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"That's great!"
+	"Maravilha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That'll work better
-	than my jumping
-	over DarkPanels.
+	Isso vai ser mais útil
+	do que o meu voo sobre
+	Quadros Negros.
 	"""
 	keyWait
 		any = false
@@ -306,14 +305,14 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's a plan!"
+	"Perfeito!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let's free
-	ProtoMan from the
-	Nebula forces!
+	Agora, bora libertar
+	o ProtoMan das
+	garras da Nebula!
 	"""
 	keyWait
 		any = false
@@ -331,14 +330,14 @@ script 20 mmbn5 {
 	waitOWVar
 		variable = 0
 		value = 8
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mission is
-	to liberate within
-	10 phases! Go!
+	Vamos tentar liberar
+	dentro de 10 fases!
+	Avante!
 	"""
 	keyWait
 		any = false
@@ -349,8 +348,8 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	What the⋯?
-	It can't be!
+	O quê...?
+	Não pode ser!
 	"""
 	keyWait
 		any = false
@@ -362,7 +361,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"What's wrong?"
+	"O que foi?"
 	keyWait
 		any = false
 	end
@@ -372,8 +371,8 @@ script 32 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Colonel! You're
-	alive!
+	Colonel!
+	Você tá vivo!
 	"""
 	keyWait
 		any = false
@@ -385,7 +384,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = DarkColonel
 	msgOpen
-	"⋯"
+	"..."
 	keyWait
 		any = false
 	clearMsg
@@ -397,8 +396,8 @@ script 34 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Wait! He's acting
-	funny!
+	Espera aí!
+	Ele tá estranho!
 	"""
 	keyWait
 		any = false
@@ -422,9 +421,8 @@ script 36 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	So,you're the
-	enemy of the
-	Officials,huh?
+	Então, você é o
+	inimigo dos Oficiais...
 	"""
 	keyWait
 		any = false
@@ -437,8 +435,8 @@ script 37 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	HUH? What is
-	he talking about?
+	HÃ? Mas que papinho
+	é esse aí?
 	"""
 	keyWait
 		any = false
@@ -451,8 +449,8 @@ script 38 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Colonel! It's us!
-	Your friends!
+	Colonel! Somos nós!
+	O seus amigos!
 	"""
 	keyWait
 		any = false
@@ -465,16 +463,16 @@ script 39 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	Master Regal saved
-	my life. I pledged
-	my loyalty to him.
+	O Mestre Regal salvou
+	a minha vida. E eu
+	jurei lealdade a ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Protecting this
-	area is my task.
+	Proteger esta área
+	é o meu dever.
 	"""
 	keyWait
 		any = false
@@ -486,7 +484,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,no⋯!"
+	"Não...!"
 	keyWait
 		any = false
 	end
@@ -496,9 +494,9 @@ script 41 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Did the Darkloids
-	modify him like
-	they did me⋯?
+	Será que os Darkloids
+	modificaram ele que
+	nem me modificaram...?
 	"""
 	keyWait
 		any = false
@@ -510,20 +508,20 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Looks like it."
+	"É o que parece."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means we have
-	to fight through
+	Então, teremos que
+	atravessar todos
+	esses quadros
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all the panels to
-	get to him⋯
+	para chegar até ele...
 	"""
 	keyWait
 		any = false
@@ -534,9 +532,9 @@ script 43 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	It won't be easy,
-	with so many
-	DarkPanels.
+	Não será nada fácil,
+	visto quantos Quadros
+	Negros temos aqui.
 	"""
 	keyWait
 		any = false
@@ -549,8 +547,8 @@ script 44 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	This is going to
-	be a tough one⋯
+	A gente vai ter que
+	ralar bastante hoje...
 	"""
 	keyWait
 		any = false
@@ -561,8 +559,8 @@ script 45 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I guess it's my
-	turn,then!
+	Então, é a minha
+	hora de brilhar, coaxo!
 	"""
 	keyWait
 		any = false
@@ -581,8 +579,8 @@ script 46 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	What? Do you
-	have a plan?
+	Por quê?
+	Você tem um plano?
 	"""
 	keyWait
 		any = false
@@ -595,16 +593,16 @@ script 47 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	I'll sing LifeMelody
-	and make you
+	Eu vou cantar a Melodia
+	da Vida pra deixar vocês
+	muito mais fortes, coaxo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all much stronger!
-	You can liberate
-	5 sqs ahead!
+	Vocês vão poder liberar
+	cinco quadros à frente!
 	"""
 	keyWait
 		any = false
@@ -616,21 +614,21 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Nice!"
+	"Excelente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My liberation
-	capability isn't
-	very high.
+	A minha capacidade de
+	liberação não é bem das
+	mais elevadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This will give me
-	a great boost!
+	Esse impulso é
+	muito bem-vindo!
 	"""
 	keyWait
 		any = false
@@ -642,14 +640,14 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's a plan!"
+	"Perfeito!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let's free
-	Colonel from the
-	Nebula forces!
+	Agora, bora libertar
+	o Colonel das
+	garras da Nebula!
 	"""
 	keyWait
 		any = false
@@ -667,14 +665,14 @@ script 50 mmbn5 {
 	waitOWVar
 		variable = 0
 		value = 8
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The mission is
-	to liberate within
-	10 phases! Go!
+	Vamos tentar liberar
+	dentro de 10 fases!
+	Avante!
 	"""
 	keyWait
 		any = false

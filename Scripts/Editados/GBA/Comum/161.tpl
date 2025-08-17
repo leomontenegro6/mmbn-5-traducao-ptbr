@@ -12,9 +12,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	This Gargoyle guards
-	End City from atop
-	the Castle Keep.
+	Este Shachi protege
+	a Cidade de Endo do
+	topo deste castelo.
 	"""
 	keyWait
 		any = false
@@ -23,9 +23,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Up close,the
-	Gargoyle looks big-
-	ger than I thought⋯
+	De perto, o Shachi
+	parece maior do que
+	você presumia...
 	"""
 	keyWait
 		any = false
@@ -34,9 +34,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This Gargoyle guards
-	End City from atop
-	the Castle Keep.
+	Este Shachi protege
+	a Cidade de Endo do
+	topo deste castelo.
 	"""
 	keyWait
 		any = false
@@ -49,16 +49,16 @@ script 4 mmbn5 {
 		jumpIfFalse = 9
 	msgOpen
 	"""
-	This Gargoyle is a
-	vital system that
-	controls all of
+	Esse Shachi é um sistema
+	vital que controla toda
+	a Cidade de Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	End City.
-	I can jack in!
+	É possível se
+	conectar nele!
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 5 mmbn5 {
 		jumpIfFalse = 20
 	msgOpen
 	"""
-	Up close,the
-	Gargoyle looks big-
-	ger than I thought⋯
+	De perto, o Shachi
+	parece maior do que
+	você presumia...
 	"""
 	keyWait
 		any = false
@@ -82,15 +82,17 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	This ornately
-	decorated door is a
+	Essa porta
+	meticulosamente
+	decorada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	sign of the castle
-	owner's wealth.
+	é um indicativo da
+	riqueza do dono do
+	castelo.
 	"""
 	keyWait
 		any = false
@@ -103,15 +105,15 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A wooden door⋯
-	It's very old
+	Uma porta de madeira...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it adds to the
-	overall atmosphere.
+	É bem antiga,
+	mas colabora para a
+	atmosfera do lugar.
 	"""
 	keyWait
 		any = false
@@ -120,21 +122,17 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	This Gargoyle is a
-	vital system that
-	controls all of
+	Esse Shachi é um sistema
+	vital que controla toda
+	a Cidade de Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"End City."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	The system's locked
-	right now.
-	I can't jack in.
+	O sistema está
+	bloqueado agora.
+	Não dá pra se conectar.
 	"""
 	keyWait
 		any = false
@@ -152,15 +150,15 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A magnificent gold-
-	plated Gargoyle.
+	Um magnífico Shachi
+	banhado a ouro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The original one was
-	made of solid gold.
+	O original era feito
+	de ouro maciço.
 	"""
 	keyWait
 		any = false
@@ -176,21 +174,21 @@ script 20 mmbn5 {
 		flag = 539
 	msgOpen
 	"""
-	Up close,the
-	Gargoyle looks big-
-	ger than I thought⋯
+	De perto, o Shachi
+	parece maior do que
+	você presumia...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Hm?!"
+	"... Hm?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Something's wedged
-	into a hole in the
-	Gargoyle.
+	Tem alguma coisa
+	enfiada em um buraco
+	no Shachi.
 	"""
 	keyWait
 		any = false
@@ -202,8 +200,8 @@ script 20 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -219,9 +217,9 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	Up close,the
-	Gargoyle looks big-
-	ger than I thought⋯
+	De perto, o Shachi
+	parece maior do que
+	você presumia...
 	"""
 	keyWait
 		any = false

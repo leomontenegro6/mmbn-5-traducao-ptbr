@@ -5,21 +5,21 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmmm⋯ That chip on
-	the second shelf of
-	that chip case⋯
+	Hmmm... O chip na
+	segunda prateleira
+	desse guarda-chips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey look,it's
-	really a switch!
+	Olha só!
+	É um interruptor!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Here goes!!!"
+	"... Lá vai!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -30,8 +30,8 @@ script 1 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan pressed
-	the switch!!!
+	Lan puxou o
+	interruptor!!!
 	"""
 	keyWait
 		any = false
@@ -39,7 +39,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 211
-	"*CLUNK!!!*"
+	"CLÉNC!!"
 	keyWait
 		any = false
 	end
@@ -48,7 +48,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What was that sound?"
+	"Que barulho foi esse?"
 	keyWait
 		any = false
 	end
@@ -57,7 +57,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh!!!"
+	"Ah!!!"
 	keyWait
 		any = false
 	end
@@ -66,14 +66,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That's what is was!"
+	"Era aí que ficava!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet Regal and my
-	Dad are in here
-	somewhere!
+	Aposto que o Regal e
+	o papai tão aí dentro!
 	"""
 	keyWait
 		any = false
@@ -84,16 +83,16 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ready for the final
-	battle,MegaMan?!
+	Pronto pra batalha
+	final, MegaMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We owe it to our-
-	selves and the rest
-	to defeat Regal!!!
+	A gente deve a nós
+	mesmos e aos nossos
+	amigos vencer o Regal!!
 	"""
 	keyWait
 		any = false
@@ -105,11 +104,11 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!!!"
+	"É!!!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,Lan!"
+	"Vamos lá, Lan!"
 	keyWait
 		any = false
 	end
@@ -126,7 +125,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,guys!"
+	"Pessoal!"
 	keyWait
 		any = false
 	clearMsg
@@ -138,8 +137,8 @@ script 9 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Lan,you're gonna
-	crush Nebula,right?!
+	Lan, você vai acabar
+	com a Nebula, né?!
 	"""
 	keyWait
 		any = false
@@ -152,13 +151,13 @@ script 10 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	You get the coolest
-	assignment⋯
+	Eita, missão legal
+	que cê recebeu...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm counting on ya!"
+	"Tô contando contigo!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,8 +169,9 @@ script 11 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Go full blast!
-	Don't hold back!!!
+	Vai com tudo!
+	Não pega nem um
+	tiquinho leve!!!
 	"""
 	keyWait
 		any = false
@@ -183,7 +183,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Get that Regal⋯"
+	"Acabe com o Regal..."
 	keyWait
 		any = false
 	clearMsg
@@ -194,7 +194,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"Go for it,Lan!"
+	"Manda ver, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -205,7 +205,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Thanks,guys."
+	"... Valeu, pessoal."
 	keyWait
 		any = false
 	clearMsg
@@ -216,41 +216,46 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"As your leader,"
+	"Como o seu líder,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I order you to crush
-	Regal and Nebula.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And as your rival,
-	I say to you this:
-	Only you and MegaMan
+	ordeno que você
+	dê um fim no Regal
+	e na Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are as good as
-	ProtoMan and me⋯
+	E como seu rival,
+	eu digo o seguinte:
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without ProtoMan,
-	you guys are the
-	only hope left⋯
+	você e MegaMan são os
+	únicos tão fortes quanto
+	ProtoMan e eu...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan,don't fail me."
+	"""
+	Sem o ProtoMan, vocês
+	são a única esperança
+	que nos resta...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Lan, não faça eu me
+	arrepender de ter fé
+	em você.
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -262,58 +267,61 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud⋯
-	Guys⋯
+	Chaud...
+	Pessoal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When my Dad was
-	first kidnapped,
+	Quando o meu pai
+	foi sequestrado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I intended to rescue
-	him and crush Nebula
-	myself⋯
+	eu pretendia salvar ele
+	e acabar com a Nebula
+	sozinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wouldn't have
-	made it without you⋯
+	Mas eu nunca teria
+	conseguido sem vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotten this far
-	thanks to your help.
+	Se eu cheguei até aqui,
+	foi graças à sua ajuda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯MegaMan and I
-	can't lose now!
+	... Agora, não tem
+	como o MegaMan e eu
+	perdermos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After all,I have you
-	guys on my side!
+	Afinal de contas,
+	a gente tem vocês
+	do nosso lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll take your
-	spirit with me⋯
+	Eu vou levar os
+	espíritos de vocês
+	comigo...
 	"""
 	keyWait
 		any = false
@@ -323,7 +331,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Time's wasting⋯"
+	"O tempo está passando..."
 	keyWait
 		any = false
 	clearMsg
@@ -343,7 +351,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hey,guys!"
+	"Pessoal!"
 	keyWait
 		any = false
 	clearMsg
@@ -355,8 +363,7 @@ script 20 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Lan,go crush
-	Nebula.
+	Lan, destrua a Nebula.
 	"""
 	keyWait
 		any = false
@@ -369,8 +376,8 @@ script 21 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Heh,the boy's
-	becoming a man⋯
+	He. O menino está
+	virando um guerreiro...
 	"""
 	keyWait
 		any = false
@@ -382,11 +389,11 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Evil will fall!"
+	"O mal não vai triunfar!"
 	keyWait
 		any = false
 	clearMsg
-	"I believe in you!"
+	"Eu acredito em você!"
 	keyWait
 		any = false
 	clearMsg
@@ -397,7 +404,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"You can do it,huh!!!"
+	"Você consegue, é!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -409,9 +416,9 @@ script 24 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Lemme have the first
-	interview after you
-	crush Nebula!
+	Quando você acabar com
+	a Nebula, a primeira
+	entrevista é minha!
 	"""
 	keyWait
 		any = false
@@ -423,7 +430,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Thanks guys."
+	"... Valeu, pessoal."
 	keyWait
 		any = false
 	clearMsg
@@ -434,11 +441,11 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"This is it,Lan."
+	"Hora da verdade, Lan."
 	keyWait
 		any = false
 	clearMsg
-	"I'm counting on you⋯"
+	"Estou contando\ncom você..."
 	keyWait
 		any = false
 	clearMsg
@@ -450,58 +457,61 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Baryl⋯
-	Guys⋯
+	Baryl...
+	Pessoal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When my Dad was
-	first kidnapped,
+	Quando o meu pai
+	foi sequestrado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I intended to rescue
-	him and crush Nebula
-	myself⋯
+	eu pretendia salvar ele
+	e acabar com a Nebula
+	sozinho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I wouldn't have
-	made it without you⋯
+	Mas eu nunca teria
+	conseguido sem vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've gotten this far
-	thanks to your help.
+	Se eu cheguei até aqui,
+	foi graças à sua ajuda.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯MegaMan and I
-	can't lose now!
+	... Agora, não tem
+	como o MegaMan e eu
+	perdermos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After all,I have you
-	guys on my side!
+	Afinal de contas,
+	a gente tem vocês
+	do nosso lado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll take your
-	spirit with me⋯
+	Eu vou levar os
+	espíritos de vocês
+	comigo...
 	"""
 	keyWait
 		any = false
@@ -511,7 +521,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Time's short⋯"
+	"Não há muito tempo..."
 	keyWait
 		any = false
 	clearMsg
@@ -531,7 +541,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,let's move!"
+	"MegaMan, vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
@@ -542,7 +552,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

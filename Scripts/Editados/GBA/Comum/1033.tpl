@@ -1,11 +1,11 @@
 @size 48
 
 script 0 mmbn5s {
-	" Webmastr Offcl BBS!   "
+	" Webmastr Fórum Ofcl!  "
 	end
 }
 script 1 mmbn5s {
-	" Tatsuaki No way!      "
+	" Tatsuaki Mentira!     "
 	end
 }
 script 2 mmbn5s {
@@ -13,63 +13,63 @@ script 2 mmbn5s {
 	end
 }
 script 3 mmbn5s {
-	" Mosashi  Mster's Swd  "
+	" Mosashi  Espd mestre  "
 	end
 }
 script 4 mmbn5s {
-	" Goetsu   Orgnl Combo  "
+	" Goetsu   Combo orgnl  "
 	end
 }
 script 5 mmbn5s {
-	" Goro     Pls help!    "
+	" Goro     Ajuda!       "
 	end
 }
 script 6 mmbn5s {
-	" Koetsu   RE:Pls help  "
+	" Koetsu   RE:Ajuda     "
 	end
 }
 script 7 mmbn5s {
-	" Chanpon  Gosu tech!   "
+	" Chanpon  Téc. Gosu!   "
 	end
 }
 script 8 mmbn5s {
-	" Takeshi  Apples!      "
+	" Takeshi  Maçãs!       "
 	end
 }
 script 9 mmbn5s {
-	" Ofcl Goh Virus Distr  "
+	" Ofcl Goh DesastreVrs  "
 	end
 }
 script 10 mmbn5s {
-	" Honmaru  Discovery!   "
+	" Honmaru  Descoberta!  "
 	end
 }
 script 11 mmbn5s {
-	" NO NAME  RE:Discover  "
+	" SEM NOME RE:Descober  "
 	end
 }
 script 12 mmbn5s {
-	" Webmastr Netiquette   "
+	" Webmastr Netiqueta    "
 	end
 }
 script 13 mmbn5s {
-	" Koji     Chip hits    "
+	" Koji     Acerts Chip  "
 	end
 }
 script 14 mmbn5s {
-	" Goetsu   Neat chip    "
+	" Goetsu   Chip legal   "
 	end
 }
 script 15 mmbn5s {
-	" Nisshi   Elements     "
+	" Nisshi   Elementos    "
 	end
 }
 script 16 mmbn5s {
-	" Koetsu   Elmt combos  "
+	" Koetsu   Comb Elmnt   "
 	end
 }
 script 17 mmbn5s {
-	" Goetsu   Big brother  "
+	" Goetsu   Irmãozão     "
 	end
 }
 script 18 mmbn5s {
@@ -81,39 +81,39 @@ script 19 mmbn5s {
 	end
 }
 script 20 mmbn5s {
-	" BBS0  1B And then⋯    "
+	" BBS0  1B Aí...        "
 	end
 }
 script 21 mmbn5s {
-	" BBS0  1B Tournaments  "
+	" BBS0  1B Torneios     "
 	end
 }
 script 22 mmbn5s {
-	" BBS0  1B RE:Tournmts  "
+	" BBS0  1B RE:Torneios  "
 	end
 }
 script 23 mmbn5s {
-	" BBS0  1B RE:Tournmts  "
+	" BBS0  1B RE:Torneios  "
 	end
 }
 script 24 mmbn5s {
-	" BBS0  18 VarySword    "
+	" BBS0  18 VarSword     "
 	end
 }
 script 25 mmbn5s {
-	" BBS0  19 Clouds       "
+	" BBS0  19 Nuvens       "
 	end
 }
 script 26 mmbn5s {
-	" BBS0  1A RE:Clouds    "
+	" BBS0  1A RE:Nuvens    "
 	end
 }
 script 27 mmbn5s {
-	" BBS0  1B Ntwk Duel    "
+	" BBS0  1B Duelo Rede   "
 	end
 }
 script 28 mmbn5s {
-	" BBS0  1B RE:Ntwk Due  "
+	" BBS0  1B RE:Duelo Rd  "
 	end
 }
 script 29 mmbn5s {

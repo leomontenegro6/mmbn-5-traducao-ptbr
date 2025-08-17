@@ -3,7 +3,7 @@
 script 0 mmbn5 {
 	msgOpen
 	soundDisableTextSFX
-	"*Briiiiing!*"
+	"Trrriiiiim!"
 	wait
 		frames = 62
 	end
@@ -12,11 +12,11 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,phone call!"
+	"Lan, ligação!"
 	keyWait
 		any = false
 	clearMsg
-	"I'm picking up!!!"
+	"Eu vou atender!"
 	keyWait
 		any = false
 	clearMsg
@@ -27,7 +27,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hello⋯"
+	"Alô..."
 	keyWait
 		any = false
 	clearMsg
@@ -39,29 +39,28 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"It's Chaud⋯"
+	"Chaud na linha..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We destroyed all the
-	servers that Nebula
-	planted.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A scan of the
-	affected areas
+	Nós já destruímos
+	todos os servidores
+	que a Nebula plantou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reveals that
-	the damage
-	is subsiding.
+	Um escaneamento
+	das áreas afetadas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	revelou que os estragos
+	estão desaparecendo.
 	"""
 	keyWait
 		any = false
@@ -73,7 +72,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Great news⋯"
+	"Que bom..."
 	keyWait
 		any = false
 	clearMsg
@@ -85,8 +84,9 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Not so fast. The
-	real problem awaits.
+	Não relaxe ainda.
+	O verdadeiro problema
+	ainda não foi resolvido.
 	"""
 	keyWait
 		any = false
@@ -98,7 +98,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Real problem?"
+	"Verdadeiro problema?"
 	keyWait
 		any = false
 	clearMsg
@@ -110,25 +110,25 @@ script 7 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's right. Nebula
-	used the servers to
-	transmit a signal
+	Sim. A Nebula usou os
+	transmissores para
+	emitir um sinal
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that planted evil
-	feelings in people's
-	souls.
+	que plantou sentimentos
+	malignos nas almas das
+	pessoas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We now know the
-	source lies on the
-	Undernet.
+	E nós descobrimos
+	que a fonte disso
+	está na Undernet.
 	"""
 	keyWait
 		any = false
@@ -140,11 +140,11 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Undernet,eh⋯?"
+	"Na Undernet..."
 	keyWait
 		any = false
 	clearMsg
-	"I'll check it out."
+	"Eu vou lá conferir."
 	keyWait
 		any = false
 	clearMsg
@@ -156,35 +156,34 @@ script 9 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Lan,we detected
-	ProtoMan near the
-	signal source⋯
+	... Lan, detectamos
+	também o ProtoMan
+	perto da fonte do sinal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's fallen
-	completely into
+	Ele está completamente
+	sob o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's hands.
-	If it comes to a
+	Se as coisas acabarem
+	resultando em uma luta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fight,do not
-	hesitate to
+	Por favor...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"delete him."
+	"Não hesite em deletá-lo."
 	keyWait
 		any = false
 	clearMsg
@@ -195,20 +194,21 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Chaud⋯"
+	"Chaud..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I find him,I'm
-	gonna drag him back
+	Tá. Se eu achar ele,
+	eu prometo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by the scruff of
-	his neck!
+	que vou arrastar ele
+	pra cá pelo cabelo,
+	se for preciso!
 	"""
 	keyWait
 		any = false
@@ -221,21 +221,21 @@ script 11 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Heh,I appreciate
-	your enthusiasm
+	... He.
+	Agradeço o entusiasmo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but destroying the
-	signal source is the
-	prime objective.
+	mas destruir a fonte
+	do sinal é prioridade
+	máxima.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understand?"
+	"Entendido?"
 	keyWait
 		any = false
 	clearMsg
@@ -246,18 +246,19 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Got it."
+	"... Beleza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll contact you
-	once we're done.
+	Eu entro em contato
+	assim que a gente
+	terminar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bye!"
+	"Tchau!"
 	keyWait
 		any = false
 	clearMsg
@@ -268,29 +269,28 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"It's Baryl⋯"
+	"Baryl falando..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We destroyed all the
-	servers that Nebula
-	planted.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A scan of the
-	affected areas
+	Nós já destruímos
+	todos os servidores
+	que a Nebula plantou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reveals that
-	the damage
-	is subsiding.
+	Um escaneamento
+	das áreas afetadas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	revelou que os estragos
+	estão desaparecendo.
 	"""
 	keyWait
 		any = false
@@ -302,7 +302,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Great news⋯"
+	"Que bom..."
 	keyWait
 		any = false
 	clearMsg
@@ -314,8 +314,9 @@ script 15 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Not so fast. The
-	real problem awaits.
+	Não relaxe ainda.
+	O verdadeiro problema
+	ainda não foi resolvido.
 	"""
 	keyWait
 		any = false
@@ -327,7 +328,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Real problem?"
+	"Verdadeiro problema?"
 	keyWait
 		any = false
 	clearMsg
@@ -339,28 +340,29 @@ script 17 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	That's right. Nebula
-	used the servers to
-	transmit a signal
+	Sim. A Nebula usou os
+	transmissores para
+	emitir um sinal
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that planted evil
-	feelings in people's
+	que plantou sentimentos
+	malignos nas almas
+	de, essencialmente,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"souls."
+	"milhões de pessoas."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We now know the
-	source lies on the
-	Undernet.
+	E nós descobrimos
+	que a fonte disso
+	está na Undernet.
 	"""
 	keyWait
 		any = false
@@ -372,11 +374,11 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Undernet,eh⋯?"
+	"Na Undernet..."
 	keyWait
 		any = false
 	clearMsg
-	"I'll check it out."
+	"Eu vou lá conferir."
 	keyWait
 		any = false
 	clearMsg
@@ -388,35 +390,34 @@ script 19 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯Lan,we detected
-	Colonel near the
+	... Também detectamos
+	o Colonel próximo à
+	fonte do sinal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	signal source⋯
-	He's fallen
-	completely into
+	Ele está completamente
+	sob o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's hands.
-	If it comes to a
+	Se você acabar tendo
+	que lutar contra ele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	fight,do not
-	hesitate to
+	Por favor...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"delete him."
+	"Não hesite em deletá-lo."
 	keyWait
 		any = false
 	clearMsg
@@ -427,20 +428,21 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Baryl⋯"
+	"Baryl..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I find him,I'm
-	gonna drag him back
+	Tá. Se eu achar ele,
+	eu prometo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by the scruff of
-	his neck!
+	que vou arrastar ele
+	pra cá pelo cabelo,
+	se for preciso!
 	"""
 	keyWait
 		any = false
@@ -453,21 +455,21 @@ script 21 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯Heh,I appreciate
-	your enthusiasm
+	... He.
+	Agradeço o entusiasmo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but destroying the
-	signal source is the
-	prime objective.
+	mas destruir a fonte
+	do sinal é prioridade
+	máxima.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understand?"
+	"Entendido?"
 	keyWait
 		any = false
 	clearMsg
@@ -478,18 +480,19 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Got it."
+	"... Beleza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll contact you
-	once we're done.
+	Eu entro em contato
+	assim que a gente
+	terminar.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Bye!"
+	"Tchau!"
 	keyWait
 		any = false
 	clearMsg
@@ -502,7 +505,7 @@ script 23 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*Click⋯*"
+	"Clic..."
 	keyWait
 		any = false
 	clearMsg
@@ -514,8 +517,8 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,MegaMan,
-	off to the Undernet!
+	Beleza, MegaMan!
+	Pra Undernet!
 	"""
 	keyWait
 		any = false
@@ -527,7 +530,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!"
+	"É!"
 	keyWait
 		any = false
 	end

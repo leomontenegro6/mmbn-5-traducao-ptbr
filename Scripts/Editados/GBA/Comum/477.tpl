@@ -5,21 +5,21 @@ script 0 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	At first I wanted
-	to go kick
-	Nebula's butt
+	De início, eu queria
+	ir lá acabar com a
+	raça da Nebula,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but now I can't
-	stop shaking.
+	mas, agora, não consigo
+	parar de tremer.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so scared!"
+	"Estou morrendo de medo!"
 	keyWait
 		any = false
 	end
@@ -29,8 +29,8 @@ script 10 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	W⋯ at's⋯
-	⋯appeni⋯ e?!
+	O q... st...
+	... contece... go?!
 	"""
 	keyWait
 		any = false
@@ -38,9 +38,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -51,23 +51,22 @@ script 20 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Nebula,my sworn
-	enemy,is right
-	around the corner.
+	Nebula, a minha inimiga
+	jurada, está tão perto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I just can't
-	stop shaking!
+	Mas eu não consigo
+	parar de tremer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	C'mon! Be brave!
-	C'mon! Do it!
+	Vamos! Coragem!
+	Vamos! Vai!
 	"""
 	keyWait
 		any = false
@@ -77,7 +76,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"I'll stand guard!"
+	"Eu fico de guarda aqui!"
 	keyWait
 		any = false
 	end
@@ -87,15 +86,15 @@ script 22 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I'll watch here
-	for you.
+	Guardarei este local
+	para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on and give
-	them a fight!
+	Agora vá e mostre
+	a eles como se luta!
 	"""
 	keyWait
 		any = false
@@ -106,8 +105,8 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This area finally
-	quieted down.
+	Esta área finalmente
+	deu uma acalmada.
 	"""
 	keyWait
 		any = false
@@ -118,9 +117,9 @@ script 31 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Peace and quiet
-	is a wonderful
-	thing!
+	A paz e a tranquilidade
+	são coisas tão
+	maravilhosas!
 	"""
 	keyWait
 		any = false
@@ -131,9 +130,9 @@ script 40 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I hear some
-	areas are under
-	attack⋯
+	Ouvi dizer que certas
+	áreas estão sob
+	ataque...
 	"""
 	keyWait
 		any = false
@@ -144,9 +143,9 @@ script 41 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Something's up.
-	I'd better jack
-	out soon!
+	Tá acontecendo alguma
+	coisa. É melhor eu
+	desconectar logo!
 	"""
 	keyWait
 		any = false
@@ -157,16 +156,16 @@ script 50 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	You can get into
-	the Undernet
-	from End Area5.
+	Dá para acessar a
+	Undernet a partir
+	da Área Endo 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You aren't going
-	there,are you?!
+	Mas você não tá
+	pensando em ir lá, tá?!
 	"""
 	keyWait
 		any = false
@@ -177,15 +176,14 @@ script 51 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You're going
-	to the Undernet?
+	Você vai para a
+	Undernet?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you
-	serious?!
+	Está falando sério?!
 	"""
 	keyWait
 		any = false
@@ -196,9 +194,8 @@ script 60 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,do you want to
-	start the liberation
-	mission?
+	Lan, vamos começar a
+	missão de liberação?
 	"""
 	keyWait
 		any = false
@@ -214,7 +211,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -223,7 +220,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -238,8 +235,8 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Beleza, Lan.
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -253,13 +250,13 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad⋯Dad⋯
-	⋯Dad!!!
+	Pai... Pai...
+	... PAI!!!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 207
-	"*Lan wakes up*"
+	"Chuoc!"
 	keyWait
 		any = false
 	end
@@ -32,16 +32,16 @@ script 2 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,thank goodness
-	you've come to.
+	Lan! Graças a Deus,
+	você acordou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was worried sick.
-	You've been asleep
-	for three days.
+	Eu estava morta de
+	preocupação. Você
+	dormiu por três dias.
 	"""
 	keyWait
 		any = false
@@ -53,26 +53,26 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Three days?"
+	"... Três dias?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Right,the last thing
-	I remember was the
-	sleeping gas.
+	A última coisa de que
+	eu me lembro é o
+	gás do sono, que...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Wait!
-	What about Dad!!!
+	... Espera!
+	E o papai?!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is he alright?!"
+	"Ele tá bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -83,7 +83,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Um⋯"
+	"Hum..."
 	keyWait
 		any = false
 	clearMsg
@@ -95,16 +95,16 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,kidnapped by
-	Regal⋯?
+	O papai foi sequestrado
+	pelo Regal, não foi...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,that wasn't a bad
-	dream. I've got to
-	rescue him!
+	Então, não foi só um
+	pesadelo... Eu tenho
+	que ir salvar ele!
 	"""
 	keyWait
 		any = false
@@ -117,8 +117,8 @@ script 6 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,you must stay
-	in bed.
+	Lan, você tem é
+	que ficar na cama.
 	"""
 	keyWait
 		any = false
@@ -130,7 +130,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"But,Mom⋯"
+	"Mas, mãe..."
 	keyWait
 		any = false
 	clearMsg
@@ -142,8 +142,9 @@ script 8 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Now,Lan,you do as
-	I tell you!
+	Não, Lan!
+	Você vai fazer o que
+	eu estou mandando!
 	"""
 	keyWait
 		any = false
@@ -155,7 +156,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Aw,Mom⋯"
+	"... Mãe..."
 	keyWait
 		any = false
 	clearMsg
@@ -167,15 +168,15 @@ script 10 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,you need to
-	stay in bed.
+	Eu só vou falar uma
+	vez: é pra você
+	ficar na cama.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Am I making myself
-	clear?
+	Eu fui clara?
 	"""
 	keyWait
 		any = false
@@ -186,13 +187,13 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I was very worried
-	about you.
+	Ela tá muito preocupada
+	com você.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not to mention Dad⋯⋯"
+	"Pra não falar do papai..."
 	keyWait
 		any = false
 	clearMsg
@@ -204,15 +205,15 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I know⋯
-	I know,but⋯
+	Eu sei...
+	Eu sei, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to go
-	rescue Dad!
+	Eu tenho que
+	ir salvar ele!
 	"""
 	keyWait
 		any = false
@@ -225,23 +226,23 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But with Mom all
-	worried⋯
+	Mas, com a mamãe toda
+	preocupada assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to stay
-	here for now.
+	o jeito vai ser a gente
+	ficar aqui, por enquanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From here in my room
-	let's see what info
-	I can gather!
+	A gente vê se consegue
+	alguma informação daqui,
+	do quarto!
 	"""
 	keyWait
 		any = false
@@ -253,14 +254,13 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Right."
+	"... Tá bom."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,what
-	happened to Mayl
-	and the others?
+	Aliás, o que aconteceu
+	com a Mayl e os outros?
 	"""
 	keyWait
 		any = false
@@ -273,23 +273,23 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Everybody woke up
-	before you,Lan.
+	Todo mundo acordou
+	antes de você, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're at home
-	recovering.
+	Tá todo mundo em casa,
+	se recuperando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone's upset
-	about losing the
-	PET.
+	... Todos muito chateados
+	por terem perdido seus
+	PETs.
 	"""
 	keyWait
 		any = false
@@ -301,20 +301,20 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For everybody's
-	sake⋯
+	... A gente tem ir atrás
+	de mais informações...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to search
-	for data!
+	Não só pelo papai,
+	mas por eles, também!
 	"""
 	keyWait
 		any = false
@@ -325,16 +325,16 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I heard a message
-	about some group
-	taking over the Net.
+	Eu ouvi uma coisa aí
+	sobre um grupo que
+	quer dominar a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was that all
-	about?
+	Que papo será
+	que é esse?
 	"""
 	keyWait
 		any = false
@@ -347,17 +347,17 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah,I'm worried
-	about that,too.
-	Let's check the Net.
+	É, eu também tô
+	preocupado com isso.
+	Vamos conferir a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We might be able to
-	find some clues that
-	could lead to Dad.
+	Talvez a gente ache
+	alguma pista que nos
+	leve ao papai.
 	"""
 	keyWait
 		any = false
@@ -369,14 +369,14 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,let's do it!"
+	"Tá, vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

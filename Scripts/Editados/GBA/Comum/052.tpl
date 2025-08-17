@@ -5,263 +5,263 @@ script 0 mmbn5s {
 	end
 }
 script 1 mmbn5s {
-	"StewRec."
+	"RecEnsop"
 	end
 }
 script 2 mmbn5s {
-	"Dad's ID"
+	"ID Pai"
 	end
 }
 script 3 mmbn5s {
-	"Bamboo"
+	"Bambu"
 	end
 }
 script 4 mmbn5s {
-	"FishLine"
+	"LinhPesc"
 	end
 }
 script 5 mmbn5s {
-	"Worm"
+	"Minhoca"
 	end
 }
 script 6 mmbn5s {
-	"Board"
+	"Tábua"
 	end
 }
 script 7 mmbn5s {
-	"Twig"
+	"Galho"
 	end
 }
 script 8 mmbn5s {
-	"DryGrass"
+	"GrmaSeca"
 	end
 }
 script 9 mmbn5s {
-	"MineKey"
+	"ChveMina"
 	end
 }
 script 10 mmbn5s {
-	"MindProg"
+	"ProgMent"
 	end
 }
 script 11 mmbn5s {
-	"TalkProg"
+	"ProgFala"
 	end
 }
 script 12 mmbn5s {
-	"MoveProg"
+	"ProgMovm"
 	end
 }
 script 13 mmbn5s {
-	"AtkProg"
+	"ProgAtaq"
 	end
 }
 script 14 mmbn5s {
-	"WorkMemo"
+	"BlhtTrab"
 	end
 }
 script 15 mmbn5s {
-	"DrilProg"
+	"ProgBroc"
 	end
 }
 script 16 mmbn5s {
-	"VacuProg"
+	"ProgAspr"
 	end
 }
 script 17 mmbn5s {
-	"StopKey"
+	"ChvParar"
 	end
 }
 script 18 mmbn5s {
-	"ShipKey"
+	"ChvNavio"
 	end
 }
 script 19 mmbn5s {
-	"ShipKeyA"
+	"ChvNvioA"
 	end
 }
 script 20 mmbn5s {
-	"ShipKeyB"
+	"ChvNvioB"
 	end
 }
 script 21 mmbn5s {
-	"ShipKeyC"
+	"ChvNvioC"
 	end
 }
 script 22 mmbn5s {
-	"SciKey"
+	"SciChave"
 	end
 }
 script 23 mmbn5s {
-	"Invite"
+	"Convite"
 	end
 }
 script 24 mmbn5s {
-	"StmpCard"
+	"CrtãCari"
 	end
 }
 script 25 mmbn5s {
-	"MemoData"
+	"DadoBlht"
 	end
 }
 script 26 mmbn5s {
-	"OldKey"
+	"ChvVelha"
 	end
 }
 script 27 mmbn5s {
-	"TextData"
+	"DadoTxto"
 	end
 }
 script 28 mmbn5s {
-	"ArmrData"
+	"DadoArmd"
 	end
 }
 script 29 mmbn5s {
-	"KtnaData"
+	"DadoKtna"
 	end
 }
 script 30 mmbn5s {
-	"HelmData"
+	"DadoElmo"
 	end
 }
 script 31 mmbn5s {
-	"WoodSwrd"
+	"EspdMdra"
 	end
 }
 script 32 mmbn5s {
-	"GowPic"
+	"FotoGáu"
 	end
 }
 script 33 mmbn5s {
-	"PastKey"
+	"ChvPassd"
 	end
 }
 script 34 mmbn5s {
-	"Amulet"
+	"Amuleto"
 	end
 }
 script 35 mmbn5s {
-	"MaylPET"
+	"PETMayl"
 	end
 }
 script 36 mmbn5s {
-	"DexPET"
+	"PETDex"
 	end
 }
 script 37 mmbn5s {
-	"YaiPET"
+	"PETYai"
 	end
 }
 script 38 mmbn5s {
-	"NebulaID"
+	"IDNebula"
 	end
 }
 script 39 mmbn5s {
-	"DataDisk"
+	"DiscDado"
 	end
 }
 script 40 mmbn5s {
-	"GpsLetter"
+	"CartaVô"
 	end
 }
 script 41 mmbn5s {
-	"MemData"
+	"DadoMemó"
 	end
 }
 script 42 mmbn5s {
-	"DataFile"
+	"FichDado"
 	end
 }
 script 64 mmbn5s {
-	"SpinWhit"
+	"GiraBran"
 	end
 }
 script 65 mmbn5s {
-	"SpinYllw"
+	"GiraAmrl"
 	end
 }
 script 66 mmbn5s {
-	"SpinPink"
+	"GiraRosa"
 	end
 }
 script 67 mmbn5s {
-	"SpinRed"
+	"GiraVrml"
 	end
 }
 script 68 mmbn5s {
-	"SpinBlue"
+	"GiraAzul"
 	end
 }
 script 69 mmbn5s {
-	"SpinGrn"
+	"GiraVerd"
 	end
 }
 script 80 mmbn5s {
-	"MaylCode"
+	"CódgMayl"
 	end
 }
 script 81 mmbn5s {
-	"DexCode"
+	"CódgDex"
 	end
 }
 script 82 mmbn5s {
-	"YaiCode"
+	"CódgYai"
 	end
 }
 script 83 mmbn5s {
-	"SciPCode"
+	"CódgPSci"
 	end
 }
 script 84 mmbn5s {
-	"CasPCode"
+	"CódgPCst"
 	end
 }
 script 85 mmbn5s {
-	"OldPCode"
+	"CódgPVlh"
 	end
 }
 script 86 mmbn5s {
-	"MaylBanr"
+	"BanrMayl"
 	end
 }
 script 87 mmbn5s {
-	"DexBannr"
+	"BannrDex"
 	end
 }
 script 88 mmbn5s {
-	"YaiBannr"
+	"BannrYai"
 	end
 }
 script 89 mmbn5s {
-	"SciBannr"
+	"BannrSci"
 	end
 }
 script 90 mmbn5s {
-	"CasBannr"
+	"BannrCst"
 	end
 }
 script 96 mmbn5s {
-	"HP Memry"
+	"MemóriPV"
 	end
 }
 script 97 mmbn5s {
-	"ExpMemry"
+	"MemóriXP"
 	end
 }
 script 98 mmbn5s {
-	"RegUP1"
+	"Padrão+1"
 	end
 }
 script 99 mmbn5s {
-	"RegUP2"
+	"Padrão+2"
 	end
 }
 script 100 mmbn5s {
-	"RegUP3"
+	"Padrão+3"
 	end
 }
 script 101 mmbn5s {
-	"SubMemry"
+	"SubMemór"
 	end
 }
 script 112 mmbn5s {
@@ -269,26 +269,26 @@ script 112 mmbn5s {
 	end
 }
 script 113 mmbn5s {
-	"FullEnrg"
+	"EnrgTotl"
 	end
 }
 script 114 mmbn5s {
-	"SneakRun"
+	"DeFinin"
 	end
 }
 script 115 mmbn5s {
-	"Untrap"
+	"Desarma"
 	end
 }
 script 116 mmbn5s {
-	"LocEnemy"
+	"TravInmg"
 	end
 }
 script 117 mmbn5s {
-	"Unlocker"
+	"Destrava"
 	end
 }
 script 118 mmbn5s {
-	"SbChpSet"
+	"KitSbChp"
 	end
 }

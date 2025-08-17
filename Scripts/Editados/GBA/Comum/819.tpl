@@ -6,7 +6,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -14,9 +14,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	What are you
-	standing around for?
-	Come with me.
+	Tá parado aí por quê?
+	Venha pra cá.
 	"""
 	keyWait
 		any = false
@@ -26,7 +25,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh? Chaud⋯"
+	"Ah! Chaud..."
 	keyWait
 		any = false
 	clearMsg
@@ -38,16 +37,15 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What are you doing
-	here?
+	Tá fazendo o quê aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Navi that broke
-	into the main
-	system⋯was that⋯?
+	O Navi que invadiu o
+	sistema central...
+	Era o...?
 	"""
 	keyWait
 		any = false
@@ -60,24 +58,23 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Heh⋯
-	Looks like you're a
-	bit confused.
+	He...
+	Você parece meio confuso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me explain just
-	what's going on.
+	Pode deixar, eu explico
+	a situação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know what's
-	happening on the
-	Net,right?
+	Já sabe o que está
+	acontecendo na Rede,
+	não sabe?
 	"""
 	keyWait
 		any = false
@@ -89,7 +86,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
@@ -101,40 +98,41 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	In response,we're
-	forming a team of
-	Net Navis
+	Pra contra-atacar,
+	estamos formando uma
+	equipe de NetNavis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to defeat the evil
-	organization that's
-	occupying the Net
+	pra neutralizar a
+	organização maligna que
+	está ocupando a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and free cyber space
-	from its grasp.
+	e libertar o espaço
+	cibernético das
+	garras dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To keep the enemy
-	from catching on to
-	our plan⋯
+	Pra impedir o inimigo
+	de aprender sobre os
+	nossos planos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're scouting for
-	team members in
-	secrecy.
+	estamos recrutando
+	membros para essa
+	equipe em segredo.
 	"""
 	keyWait
 		any = false
@@ -147,9 +145,8 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,you mean⋯
-	This whole thing was
-	just⋯
+	Então, tá dizendo que...
+	essa coisa toda foi...
 	"""
 	keyWait
 		any = false
@@ -161,21 +158,21 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"That's right."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The infiltration of
-	the main system was
-	a test to determine
+	A invasão do sistema
+	central foi um teste
+	pra determinar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whether you were fit
-	for the team.
+	se você estava apto
+	a entrar pra equipe.
 	"""
 	keyWait
 		any = false
@@ -187,7 +184,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A test?"
+	"... Um teste."
 	keyWait
 		any = false
 	clearMsg
@@ -199,8 +196,8 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Correct.
-	And⋯You've passed.
+	Isso.
+	E... você passou.
 	"""
 	keyWait
 		any = false
@@ -213,8 +210,8 @@ script 11 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,MegaMan,join
-	our team.
+	Lan, MegaMan.
+	Entrem pra nossa equipe.
 	"""
 	keyWait
 		any = false
@@ -226,14 +223,14 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er,this is all,so
-	sudden⋯
-	I⋯
+	Er, isso tudo é
+	t-tão repentino...
+	Eu...
 	"""
 	keyWait
 		any = false
@@ -246,8 +243,8 @@ script 13 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	You don't want to
-	save your father?
+	Não quer salvar
+	o seu pai?
 	"""
 	keyWait
 		any = false
@@ -259,13 +256,13 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad?"
+	"O meu pai?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know what's
-	happened to my Dad?!
+	Você sabe o que
+	aconteceu com ele?!
 	"""
 	keyWait
 		any = false
@@ -278,24 +275,23 @@ script 15 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan⋯I'll say it
-	again. Join our
-	team!
+	Lan... Vou pedir mais
+	uma vez. Entre pra
+	nossa equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Together,we can
-	defeat Nebula,the
-	DarkChip Syndicate⋯
+	Juntos, podemos vencer
+	o Sincato Chip das
+	Trevas, a Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which kidnapped your
-	father!
+	que sequestrou o seu pai!
 	"""
 	keyWait
 		any = false
@@ -307,13 +303,13 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nebula!"
+	"Nebula...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So the person who
-	kidnapped Dad is⋯
+	Então, quem sequestrou
+	o papai foi...
 	"""
 	keyWait
 		any = false
@@ -326,17 +322,17 @@ script 17 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Dr.Regal,the mad
-	scientist and leader
-	of Nebula.
+	... o Dr. Regal,
+	cientista louco
+	e líder da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With him involved,
-	you can bet a nasty
-	plot is brewing.
+	Com o envolvimento dele,
+	uma trama sinistra com
+	certeza está germinando.
 	"""
 	keyWait
 		any = false
@@ -349,15 +345,15 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I⋯I'm in!
-	I'll join the team!
+	Eu... eu topo!
+	Eu entro pra equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll make sure my
-	Dad is safe!
+	Faço tudo pra manter
+	o meu pai a salvo!
 	"""
 	keyWait
 		any = false
@@ -370,39 +366,39 @@ script 19 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Good,then it's
-	settled.
+	Ótimo.
+	Então, está resolvido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From this moment,
-	you are officially a
-	member
+	Daqui em diante,
+	você é, oficialmente,
+	um membro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of ProtoMan's Anti-
-	Nebula Corps!
+	da Tropa Anti-Nebula
+	do ProtoMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there is little
-	time for
-	formalities⋯
+	Infelizmente, não
+	temos tempo pra
+	formalidades...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will join a
-	liberation mission
-	tomorrow.
+	Você vai participar de
+	uma missão de liberação
+	já amanhã.
 	"""
 	keyWait
 		any = false
@@ -414,38 +410,38 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Liberation mission?"
+	"Missão de liberação?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Yes. We must
-	liberate an area
-	held by Nebula.
+	Isso. Precisamos
+	liberar uma área sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Free it from its
-	suffocating grasp.
+	Libertá-la das garras
+	sufocantes deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tomorrow we're
-	liberating ACDC
-	Area3. Got it?
+	Amanhã, vamos liberar
+	a Área ACDC 3.
+	Entendido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Got it!"
+	"Pode apostar!"
 	keyWait
 		any = false
 	clearMsg
@@ -457,9 +453,9 @@ script 21 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Good. I'll contact
-	you tomorrow with
-	the mission time.
+	Ótimo. Encaminharei pra
+	você o horário da missão
+	amanhã.
 	"""
 	keyWait
 		any = false
@@ -471,7 +467,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Understood."
+	"Tá bom."
 	keyWait
 		any = false
 	clearMsg
@@ -483,13 +479,14 @@ script 23 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	And Lan,the team is
-	top-secret.
+	E, Lan?
+	A existência da
+	equipe é confidencial.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understand?"
+	"Entende isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -502,7 +499,7 @@ script 24 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"*nod*"
+	"Uhum."
 	keyWait
 		any = false
 	clearMsg
@@ -516,8 +513,8 @@ script 25 mmbn5 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Very well. You are
-	excused.
+	Pois bem.
+	Está dispensado.
 	"""
 	keyWait
 		any = false
@@ -529,7 +526,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uh⋯Chaud?"
+	"Er... Chaud?"
 	keyWait
 		any = false
 	clearMsg
@@ -540,7 +537,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Yes,what is it?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -552,8 +549,9 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Think⋯
-	Think my Dad is OK?
+	Cê...
+	Cê acha que o
+	meu pai tá bem?
 	"""
 	keyWait
 		any = false
@@ -566,29 +564,28 @@ script 29 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That is
-	undetermined.
+	... Isso segue
+	indeterminado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only thing we
-	know is that
-	defeating Nebula
+	Tudo o que sabemos
+	por ora é que
+	vencer a Nebula
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is the one chance
-	we have at saving
-	me.
+	é a única chance que
+	temos de salvá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You understand?"
+	"Entendeu?"
 	keyWait
 		any = false
 	clearMsg
@@ -599,13 +596,13 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"Aham..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯MegaMan,
-	let's head home!
+	... MegaMan,
+	bora pra casa!
 	"""
 	keyWait
 		any = false
@@ -617,7 +614,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -625,8 +622,8 @@ script 31 mmbn5 {
 script 32 mmbn5 {
 	msgOpen
 	"""
-	Come this way. I
-	will not harm you.
+	Entre.
+	Não vou te machucar.
 	"""
 	keyWait
 		any = false
@@ -636,7 +633,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who are you?"
+	"Quem é você?"
 	keyWait
 		any = false
 	clearMsg
@@ -647,14 +644,13 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"My name is Baryl."
+	"Meu nome é Baryl."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can trust me.
-	Well,at least try
-	to trust me.
+	Pode confiar em mim.
+	Ou, pelo menos, tente.
 	"""
 	keyWait
 		any = false
@@ -666,9 +662,9 @@ script 34 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	The Navi that broke
-	into the main
-	system⋯was that⋯?
+	Então, o Navi que
+	invadiu o sistema
+	central... era...?
 	"""
 	keyWait
 		any = false
@@ -681,23 +677,23 @@ script 35 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Looks like you're a
-	bit confused.
+	Você parece
+	um tanto confuso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me explain just
-	what's going on.
+	Permita-me explicar
+	o que está havendo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know what's
-	happening on the
-	Net,right?
+	Você já sabe o que está
+	acontecendo na Rede,
+	não sabe?
 	"""
 	keyWait
 		any = false
@@ -709,7 +705,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
@@ -721,40 +717,41 @@ script 37 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	In response,we're
-	forming a team of
-	Net Navis
+	Para contra-atacar,
+	estamos formando uma
+	equipe de NetNavis
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to defeat the evil
-	organization that's
-	occupying the Net
+	para neutralizar a
+	organização maligna que
+	está ocupando a Rede,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and free cyber space
-	from its grasp.
+	e libertar o espaço
+	cibernético das
+	garras dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,we could
-	hardly advertise the
-	team publicly.
+	Para impedir o inimigo
+	de aprender sobre os
+	nossos planos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Instead,we're
-	recruiting members
-	in secret.
+	estamos recrutando
+	membros para essa
+	equipe em segredo.
 	"""
 	keyWait
 		any = false
@@ -767,9 +764,8 @@ script 38 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So,you mean⋯
-	This whole thing was
-	just⋯
+	Então, tá dizendo que...
+	essa coisa toda foi...
 	"""
 	keyWait
 		any = false
@@ -781,21 +777,21 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"That's right."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The infiltration of
-	the main system was
-	a test to determine
+	A invasão do sistema
+	central foi um teste
+	pra determinar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	whether you were fit
-	for the team.
+	se você era adequado
+	a entrar para a equipe.
 	"""
 	keyWait
 		any = false
@@ -807,7 +803,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A test?"
+	"... Um teste."
 	keyWait
 		any = false
 	clearMsg
@@ -819,8 +815,8 @@ script 41 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Correct.
-	And⋯You've passed.
+	Correto.
+	E... você passou.
 	"""
 	keyWait
 		any = false
@@ -833,8 +829,9 @@ script 42 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan,MegaMan,join
-	our team.
+	Lan Hikari,
+	MegaMan.EXE...
+	Entrem para a equipe.
 	"""
 	keyWait
 		any = false
@@ -846,14 +843,14 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er,this is all,so
-	sudden⋯
-	I⋯
+	Er, isso tudo é
+	t-tão repentino...
+	Eu...
 	"""
 	keyWait
 		any = false
@@ -866,8 +863,8 @@ script 44 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	You don't want to
-	save your father?
+	Não quer salvar
+	o seu pai?
 	"""
 	keyWait
 		any = false
@@ -879,13 +876,13 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad?"
+	"O meu pai?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you know what's
-	happened to my Dad?!
+	Você sabe o que
+	aconteceu com ele?!
 	"""
 	keyWait
 		any = false
@@ -898,24 +895,23 @@ script 46 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan⋯I'll say it
-	again. Join our
-	team!
+	Lan... Vou pedir mais
+	uma vez. Entre para
+	a nossa equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Together,we can
-	defeat Nebula,the
-	DarkChip Syndicate⋯
+	Juntos, podemos vencer
+	o Sindicato Chip das
+	Trevas, a Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which kidnapped your
-	father!
+	que sequestrou o seu pai!
 	"""
 	keyWait
 		any = false
@@ -927,13 +923,13 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Nebula!"
+	"Nebula...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So the person who
-	kidnapped Dad is⋯
+	Então, quem sequestrou
+	o papai foi...
 	"""
 	keyWait
 		any = false
@@ -946,17 +942,17 @@ script 48 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯Dr.Regal,the mad
-	scientist and leader
-	of Nebula.
+	... o Dr. Regal,
+	cientista louco
+	e líder da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With him involved,
-	you can bet a nasty
-	plot is brewing.
+	Com o envolvimento dele,
+	uma trama sinistra com
+	certeza está germinando.
 	"""
 	keyWait
 		any = false
@@ -969,15 +965,16 @@ script 49 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I⋯I'm in!
-	I'll join the team!
+	Eu... eu topo!
+	Eu entro pra equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll make sure my
-	Dad is safe!
+	Qualquer coisa
+	pra manter o
+	meu pai a salvo!
 	"""
 	keyWait
 		any = false
@@ -990,39 +987,39 @@ script 50 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Good,then it's
-	settled.
+	Ótimo.
+	Então, está resolvido.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	From this moment,
-	you are officially a
-	member
+	Daqui em diante,
+	você é, oficialmente,
+	um membro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of Colonel's Anti-
-	Nebula Corps!
+	da Tropa Anti-Nebula
+	do Colonel!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But there is little
-	time for
-	formalities⋯
+	Infelizmente, não
+	temos tempo para
+	formalidades...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You will join a
-	liberation mission
-	tomorrow.
+	Você irá participar de
+	uma missão de liberação
+	já amanhã.
 	"""
 	keyWait
 		any = false
@@ -1034,38 +1031,38 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Liberation mission?"
+	"Missão de liberação?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Baryl
 	"""
-	Yes. We must
-	liberate an area
-	held by Nebula.
+	Isso. Precisamos
+	liberar uma área sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Free it from its
-	suffocating grasp.
+	Libertá-la das garras
+	sufocantes deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tomorrow we're
-	liberating ACDC
-	Area3. Got it?
+	Amanhã, vamos liberar
+	a Área ACDC 3.
+	Entendido?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"OK!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -1077,9 +1074,9 @@ script 52 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I'll contact
-	you tomorrow with
-	the mission time.
+	Ótimo. Encaminharei para
+	você o horário da missão
+	amanhã.
 	"""
 	keyWait
 		any = false
@@ -1091,7 +1088,7 @@ script 53 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Understood."
+	"Certo."
 	keyWait
 		any = false
 	clearMsg
@@ -1103,13 +1100,14 @@ script 54 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	And Lan,the team is
-	top-secret.
+	E, Lan?
+	A existência da
+	equipe é confidencial.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Understand?"
+	"Entende isso?"
 	keyWait
 		any = false
 	clearMsg
@@ -1122,7 +1120,7 @@ script 55 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 0
-	"*nod*"
+	"Uhum."
 	keyWait
 		any = false
 	clearMsg
@@ -1136,8 +1134,8 @@ script 56 mmbn5 {
 	mugshotAnimation
 		animation = 2
 	"""
-	Very well. You are
-	excused.
+	Pois bem.
+	Está dispensado.
 	"""
 	keyWait
 		any = false
@@ -1149,7 +1147,7 @@ script 57 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Baryl⋯?"
+	"Ei, Baryl...?"
 	keyWait
 		any = false
 	clearMsg
@@ -1160,7 +1158,7 @@ script 58 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Yes,what is it?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -1172,8 +1170,9 @@ script 59 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Think⋯
-	Think my Dad is OK?
+	Você...
+	Você acha que o
+	meu pai tá bem?
 	"""
 	keyWait
 		any = false
@@ -1186,29 +1185,28 @@ script 60 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	That is
-	undetermined.
+	Isso segue
+	indeterminado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only thing we
-	know is that
-	defeating Nebula
+	Tudo o que sabemos
+	por ora é que
+	vencer a Nebula
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is the one chance
-	we have at saving
-	me.
+	é a única chance que
+	temos de salvá-lo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You understand?"
+	"Entende o que\nquero dizer?"
 	keyWait
 		any = false
 	clearMsg
@@ -1219,13 +1217,13 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah⋯"
+	"Sim..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯MegaMan,
-	let's head home!
+	... MegaMan,
+	bora pra casa!
 	"""
 	keyWait
 		any = false

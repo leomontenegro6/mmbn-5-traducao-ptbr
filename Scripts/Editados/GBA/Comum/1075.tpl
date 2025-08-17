@@ -8,14 +8,13 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	This area is
-	controlled by the
-	Darkloids.
+	Esta área é controlada
+	por um Darkloide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That guy!"
+	"Mas especificamente...\nele!"
 	keyWait
 		any = false
 	end
@@ -39,15 +38,15 @@ script 2 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Long time no see,
-	MegaMan. Heh heh!
+	Há quanto tempo,
+	MegaMan. He he he!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The DarkPower has
-	resurrected me!
+	O Poder das Trevas
+	me ressuscitou!
 	"""
 	keyWait
 		any = false
@@ -61,25 +60,25 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	He's the one who
-	spread DarkChips!
-	Get him!
+	É ele quem está
+	espalhando Chips das
+	Trevas! Abata-o!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watch out for his
-	flying capability!
-	It lets him attack
+	Mas cuidado com a
+	habilidade de voo dele!
+	Com ela, ele pode atacar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	from any direction
-	during the
-	Darkloids' phase.
+	de qualquer direção
+	durante a fase
+	dos Darkloides.
 	"""
 	keyWait
 		any = false
@@ -92,8 +91,9 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So we'll be getting
-	hit all the time?
+	Então a gente vai
+	ficar sendo atingido
+	por ele direto?
 	"""
 	keyWait
 		any = false
@@ -106,9 +106,9 @@ script 5 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Don't forget. One
-	of us is really
-	strong at defense!
+	Não esqueça: temos
+	um aliado com uma
+	defesa fortíssima!
 	"""
 	keyWait
 		any = false
@@ -121,16 +121,17 @@ script 6 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	My MagnetBarrier
-	is strong enough to
+	A minha Barreira
+	Magnética é forte
+	o bastante
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	shield the whole
-	team during that
-	phase!
+	pra proteger
+	a equipe inteira
+	durante essa fase!
 	"""
 	keyWait
 		any = false
@@ -143,20 +144,20 @@ script 7 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Did you all hear
-	that?
+	Atenção!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Complete the
-	liberation within 9
+	Tentem concluir a
+	liberação dentro de
+	nove fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"phases! Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -166,14 +167,13 @@ script 10 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	This area is
-	controlled
-	by the Darkloids.
+	Esta área é controlada
+	por um Darkloide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That guy!"
+	"Mas especificamente...\nele!"
 	keyWait
 		any = false
 	end
@@ -194,15 +194,15 @@ script 12 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Long time no see,
-	MegaMan. Heh heh!
+	Há quanto tempo,
+	MegaMan. He he he!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The DarkPower has
-	resurrected me!
+	O Poder das Trevas
+	me ressuscitou!
 	"""
 	keyWait
 		any = false
@@ -213,25 +213,25 @@ script 13 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	He's the one who
-	spread DarkChips!
-	Get him!
+	É ele quem está
+	espalhando Chips das
+	Trevas! Abata-o!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watch out for his
-	flying capability!
-	It lets him attack
+	Mas cuidado com a
+	habilidade de voo dele!
+	Com ela, ele pode atacar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	from any direction
-	during the
-	Darkloids' phase.
+	de qualquer direção
+	durante a fase
+	dos Darkloides.
 	"""
 	keyWait
 		any = false
@@ -244,8 +244,9 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So we'll be getting
-	hit all the time?
+	Então a gente vai
+	ficar sendo atingido
+	por ele direto?
 	"""
 	keyWait
 		any = false
@@ -258,9 +259,9 @@ script 15 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	No. We have a
-	Navi with good
-	defense abilities.
+	Não. Pois temos conosco
+	um Navi com ótima
+	capacidade de defesa.
 	"""
 	keyWait
 		any = false
@@ -273,9 +274,8 @@ script 16 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I'll shield all
-	of you from the
-	enemy's attack!
+	Eu vos defenderei
+	dos ataques do inimigo!
 	"""
 	keyWait
 		any = false
@@ -288,21 +288,21 @@ script 17 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	You can count on
-	him. Now let's do
-	it!
+	Podemos contar com ele.
+	Agora, avante!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Complete the
-	liberation within 9
+	Tentem concluir a
+	liberação dentro de
+	nove fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"phases! Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

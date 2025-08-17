@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This looks like a
-	good spot.
+	Este lugar aqui
+	parece bom.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna catch a
-	real whopper!
+	Eu vou pegar
+	um bem grandão!
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Good luck,Lan!"
+	"Boa sorte, Lan!"
 	keyWait
 		any = false
 	end
@@ -33,7 +33,7 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	mugshotHide
 	msgOpen
-	"10 minutes later⋯"
+	"10 minuos depois..."
 	keyWait
 		any = false
 	end
@@ -43,8 +43,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shoot!
-	Not even a nibble!
+	Saco!
+	Nem uma mordidinha!
 	"""
 	keyWait
 		any = false
@@ -57,16 +57,15 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't get down,Lan,
-	fishing takes
-	patience!
+	Não desanima, Lan.
+	Pescar exige paciência!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just relax! They'll
-	come eventually.
+	É só relaxar, que os
+	peixes vão aparecer.
 	"""
 	keyWait
 		any = false
@@ -79,17 +78,15 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shoot,this really
-	does take a lot of
-	patience⋯
+	Argh, "haja paciência"
+	mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I don't know how
-	much more patience I
-	have!
+	mas eu acho que a
+	minha tá acabando!
 	"""
 	keyWait
 		any = false
@@ -101,13 +98,12 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Wow! Another one!"
+	"Eita! Mais um!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got five
-	already!
+	Foram cinco, já!
 	"""
 	keyWait
 		any = false
@@ -120,14 +116,14 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dang that Dex! He's
-	yelling like that on
-	purpose!
+	Maldito Dex! Ele tá
+	gritando desse jeito
+	de propósito!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I won't lose to him!"
+	"Eu não vou\nperder pra ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -139,8 +135,8 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That's the spirit,
-	Lan!
+	É assim que
+	se fala, Lan!
 	"""
 	keyWait
 		any = false
@@ -149,7 +145,7 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	mugshotHide
 	msgOpen
-	"30 minutes later⋯"
+	"30 minutos depois..."
 	keyWait
 		any = false
 	end
@@ -159,8 +155,8 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dang!
-	Still not a nibble!
+	Argh, que raiva!
+	Nenhuma mordida ainda!
 	"""
 	keyWait
 		any = false
@@ -173,9 +169,8 @@ script 11 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Yipee!
-	I got a dozen
-	already!
+	Aêêê!
+	Eu já peguei DOZE!
 	"""
 	keyWait
 		any = false
@@ -188,9 +183,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Shoot,can't just a
-	single fish come my
-	way?
+	Droga. Podia vir, pelo
+	menos, UM peixe pra mim!
 	"""
 	keyWait
 		any = false
@@ -203,9 +197,9 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Don't worry,Lan,
-	your number'll come
-	up soon enough!
+	Relaxa, Lan.
+	A sua hora já vai
+	chegar, cê vai ver.
 	"""
 	keyWait
 		any = false
@@ -218,16 +212,16 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I dunno,I'm
-	beginning to lose
-	hope.
+	Sei lá...
+	Tô começando a perder
+	as esperanças.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Hm?
-	Hey! What's this?!
+	Eita! O que é isso?!
 	"""
 	keyWait
 		any = false
@@ -237,11 +231,11 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wh-wh-wh-whoa!"
+	"O-o-o-opa!"
 	keyWait
 		any = false
 	clearMsg
-	"It's a big one!"
+	"Esse é dos grandes!"
 	keyWait
 		any = false
 	clearMsg
@@ -254,7 +248,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,reel it in!"
+	"Recolhe a linha, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -267,7 +261,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Whoooah!"
+	"Aaaaahhhh!"
 	keyWait
 		any = false
 	end
@@ -276,7 +270,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's strong as heck!"
+	"Ele é forte pra burro!"
 	keyWait
 		any = false
 	clearMsg
@@ -287,7 +281,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You can do it,Lan!"
+	"Você consegue!"
 	keyWait
 		any = false
 	clearMsg
@@ -307,7 +301,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Oh,boy⋯"
+	"Ah, cara..."
 	keyWait
 		any = false
 	clearMsg
@@ -319,8 +313,8 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You tried your best,
-	Lan⋯
+	Você fez o melhor
+	que pôde, Lan...
 	"""
 	keyWait
 		any = false
@@ -332,7 +326,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,shucks⋯"
+	"Saco..."
 	keyWait
 		any = false
 	end
@@ -342,8 +336,9 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's true! It was
-	practically a whale!
+	É sério!
+	Era praticamente
+	uma baleia!
 	"""
 	keyWait
 		any = false
@@ -356,24 +351,25 @@ script 25 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Heh,you sure it
-	wasn't a chunk of
-	driftwood?
+	He, certeza que não
+	era só um pedaço de
+	madeira velha?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,you LOSE!
-	And now it's time to
-	eat my fish,
+	Mas não importa, porque
+	cê PERDEU! Hora da
+	gente comer o meu peixe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so it's your job to
-	start the fire!
+	então, fica com você
+	a tarefa de acender
+	a fogueira!
 	"""
 	keyWait
 		any = false
@@ -384,7 +380,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Aw,man!"
+	"Hurngh!"
 	keyWait
 		any = false
 	clearMsg
@@ -395,30 +391,29 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Don't complain!"
+	"E não reclama!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You lost! You can't
-	complain to me,the
-	WINNER!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I have a lighter,so
-	you get some
-	firewood.
+	Cê perdeu! Não pode
+	reclamar pro VENCEDOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go find some
-	DryGrass,Twig and
-	Board!
+	Eu trouxe um isqueiro,
+	então traz aqui um
+	pouco de lenha.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Reúne pra gente
+	Grama Seca, Galho
+	e Tábua!
 	"""
 	keyWait
 		any = false
@@ -431,8 +426,8 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hmph! Yeah,OK,
-	your Majesty,Dex⋯
+	Hmpf! Aham, tá bom,
+	"Sua Majestade"...
 	"""
 	keyWait
 		any = false
@@ -443,8 +438,7 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoa! Was that an
-	earthquake?
+	Eita! Um terremoto?
 	"""
 	keyWait
 		any = false
@@ -457,9 +451,9 @@ script 30 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	The gods are
-	telling you to hurry
-	up and get firewood!
+	São os deuses da ilha...
+	dizendo pra você
+	trazer a lenha logo!
 	"""
 	keyWait
 		any = false
@@ -471,7 +465,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Good luck,Lan!"
+	"Boa sorte, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -483,8 +477,8 @@ script 32 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Hah hah hah! Now,off
-	with you,Lan!
+	Ha ha ha!
+	Vai, não enrola!
 	"""
 	keyWait
 		any = false
@@ -496,7 +490,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	end

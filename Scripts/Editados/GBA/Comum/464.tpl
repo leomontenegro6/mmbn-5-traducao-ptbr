@@ -5,17 +5,16 @@ script 0 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Looks like Nebula
-	is planning
-	something again.
+	Parece que a Nebula tá
+	planejando mais uma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They really don't
-	care what we
-	think at all!
+	Poxa, eles não pensam
+	mesmo no que a GENTE
+	sente!
 	"""
 	keyWait
 		any = false
@@ -26,14 +25,14 @@ script 1 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Huh? Nebula's
-	planning something
-	again?
+	Hã? A Nebula está
+	planejando uma outra
+	coisa?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's a bluff!"
+	"É blefe!"
 	keyWait
 		any = false
 	end
@@ -43,9 +42,9 @@ script 10 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Anybody smarter
-	than me is my
-	sworn enemy!
+	Todos mundo que é mais
+	inteligente que eu é
+	meu INIMIGO!
 	"""
 	keyWait
 		any = false
@@ -57,15 +56,14 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	Aargh! Aargh!
-	I can't stand it!
+	Eu não aguento mais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want
-	to swing a Katana
-	around!
+	Eu quero tanto sacudir
+	uma katana por aí!
 	"""
 	keyWait
 		any = false
@@ -76,15 +74,15 @@ script 20 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm OK now.
-	But I'm worried
+	Eu tô bem agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	about my friends
-	in other areas.
+	Mas tô preocupado com
+	os meus amigos nas
+	outras áreas.
 	"""
 	keyWait
 		any = false
@@ -95,17 +93,16 @@ script 21 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What exactly
-	happened to
-	my body?
+	Mas, afinal, o que
+	aconteceu com o meu
+	corpo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just can't
-	explain it
-	at all!
+	Eu realmente não
+	consigo explicar!
 	"""
 	keyWait
 		any = false
@@ -116,9 +113,8 @@ script 30 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I don't want to
-	experience that
-	ever again!
+	Não quero sentir
+	aquilo nunca mais!
 	"""
 	keyWait
 		any = false
@@ -129,9 +125,9 @@ script 31 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I STILL CAN'T
-	SHAKE MY
-	ANGRY THOUGHTS!
+	AINDA NÃO CONSIGO ME
+	DESFAZER DOS MEUS
+	PENSAMENTOS RAIVOSOS!
 	"""
 	keyWait
 		any = false
@@ -142,9 +138,9 @@ script 40 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	We just can't
-	stop Nebula.
-	Should we give up?
+	É impossível pra gente
+	deter a Nebula... Será
+	que devemos desistir?
 	"""
 	keyWait
 		any = false
@@ -155,9 +151,9 @@ script 41 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I feel like the
-	world is covered
-	in DarkPower⋯
+	Sinto como se o mundo
+	inteiro estivesse coberto
+	de Poder das Trevas...
 	"""
 	keyWait
 		any = false

@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"The UnderBBS⋯"
+	"O UnderFórum..."
 	keyWait
 		any = false
 	startBBS

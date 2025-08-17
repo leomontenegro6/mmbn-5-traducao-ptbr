@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	I didn't expect to
-	see you make it.
-	It's actually very
+	Eu não esperava que
+	você chegasse até aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unfortunate for you
-	that you did⋯!
+	E, para o seu próprio
+	bem, teria sido melhor
+	que não chegasse...!
 	"""
 	keyWait
 		any = false
@@ -43,16 +43,16 @@ script 2 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	You'll never ever
-	catch me off guard.
-	Because of that,
+	Você nunca irá me
+	pegar de guarda baixa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	your survival rate
-	is less than zero!
+	Por esse motivo, a sua
+	chance de sobrevivência
+	é menos que zero!
 	"""
 	keyWait
 		any = false
@@ -65,15 +65,15 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Battles are never
-	easy!
+	Lutas nunca são fáceis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why we
-	fight with passion!
+	E é por isso que a
+	gente sempre luta
+	com tudo!
 	"""
 	keyWait
 		any = false
@@ -102,9 +102,8 @@ script 5 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Welcome to my
-	never-ending
-	world of darkness!
+	Bem-vindo ao meu mundo
+	infinito de trevas!
 	"""
 	keyWait
 		any = false
@@ -114,7 +113,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -126,8 +125,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That's right,Lan!
-	This is it,CosmoMan!
+	É isso aí, Lan!
+	Você já era, CosmoMan!
 	"""
 	keyWait
 		any = false
@@ -139,7 +138,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -151,8 +150,8 @@ script 15 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	That's right,Lan!
-	This is it,CosmoMan!
+	Exatamente, Hikari!
+	Prepare-se, CosmoMan!
 	"""
 	keyWait
 		any = false
@@ -164,7 +163,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -176,9 +175,9 @@ script 23 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	I couldn't agree
-	more! This is
-	it,CosmoMan!
+	Concordo plenamente!
+	Prepare-se para ser
+	deletado, CosmoMan!
 	"""
 	keyWait
 		any = false
@@ -190,7 +189,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -202,8 +201,8 @@ script 27 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	You the man,Lan!
-	Let's kick butt!
+	Falou e disse, Lan!
+	Bora botar pra quebrar!
 	"""
 	keyWait
 		any = false
@@ -215,7 +214,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -227,9 +226,9 @@ script 31 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	You the man,Lan!
-	Let's kick his butt!
-	Charge!
+	Falou e disse, Lan!
+	Vamos botar pra quebrar!
+	Avançar!!
 	"""
 	keyWait
 		any = false
@@ -241,7 +240,7 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -253,8 +252,8 @@ script 39 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	That's right,Lan!
-	This is it,CosmoMan!
+	Exatamente, Lan Hikari!
+	Prepare-se, CosmoMan!
 	"""
 	keyWait
 		any = false
@@ -266,7 +265,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -278,9 +277,9 @@ script 47 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	This won't end
-	like you expect,
-	CosmoMan!
+	Isto aqui não vai
+	acabar como você
+	espera, CosmoMan!
 	"""
 	keyWait
 		any = false
@@ -292,7 +291,7 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -304,8 +303,8 @@ script 51 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	You the man,Lan!
-	This is it,CosmoMan!
+	Falou e disse, Lan!
+	Se prepara, CosmoMan!
 	"""
 	keyWait
 		any = false
@@ -317,7 +316,7 @@ script 54 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -329,8 +328,8 @@ script 55 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	A worthy spirit!
-	Let's do it!
+	Tamanho espírito digno!
+	Avante!
 	"""
 	keyWait
 		any = false

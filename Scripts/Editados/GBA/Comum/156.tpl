@@ -12,16 +12,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Various indicators
-	move and light up.
+	Vários indicadores se
+	movem e se acendem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems this boat
-	has the latest auto-
-	navigation system.
+	Este navio contém o mais
+	moderno sistema de
+	navegação automática.
 	"""
 	keyWait
 		any = false
@@ -30,9 +30,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Ship navigation
-	is controlled
-	by computer.
+	A navegação do navio
+	é controlada por
+	computadores.
 	"""
 	keyWait
 		any = false
@@ -41,9 +41,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	The captain's chair.
-	It emanates a
-	dignified aura.
+	O assento do capitão.
+	Emana uma aura de
+	respeito.
 	"""
 	keyWait
 		any = false
@@ -52,16 +52,17 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Plate reading "Queen
-	Bohemia" followed by
+	Na placa: "Rainha
+	Boêmia", seguido pelas
+	datas em que o navio
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the dates the ship
-	was built and took
-	its maiden voyage.
+	foi construído e
+	quando ele fez sua
+	primeira viagem.
 	"""
 	keyWait
 		any = false
@@ -70,9 +71,9 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A life preserver⋯
-	Let's hope we never
-	have to use it.
+	Uma boia salva-vidas...
+	Torçamos para nunca
+	termos de usá-la.
 	"""
 	keyWait
 		any = false
@@ -90,15 +91,16 @@ script 6 mmbn5 {
 		jumpIfFalse = 20
 	msgOpen
 	"""
-	Life jackets
-	hang here.
+	Aqui há coletes
+	salva-vidas pendurados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is one thing I
-	hope to never need.
+	Tá aí uma coisa que
+	você espera não
+	precisar usar nunca.
 	"""
 	keyWait
 		any = false
@@ -107,9 +109,9 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	This screen displays
-	the current status
-	of each room.
+	Essa tela mostra a
+	condição atual de cada
+	aposento.
 	"""
 	keyWait
 		any = false
@@ -122,24 +124,23 @@ script 8 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	All aspects of
-	the ship are
-	computer-controlled.
+	Todos os aspectos do
+	navio são controlados
+	por computadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This system oversees
-	all such control.
+	Este sistema administra
+	todo esse controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is currently
-	secured against
-	jacking in.
+	No momento, está
+	bloqueado para conexões.
 	"""
 	keyWait
 		any = false
@@ -148,9 +149,9 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	This computer
-	continues to run
-	endlessly.
+	Esse computador
+	continua a operar
+	sem cessar.
 	"""
 	keyWait
 		any = false
@@ -171,28 +172,29 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Spins right & left⋯
-	Could it be this?!
+	Gira pra direita
+	e pra esquerda...
+	Será que é isso?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"There!"
+	"Achei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A stamp behind the
-	ship's wheel!!!
+	Tem um carimbo atrás
+	do leme do navio!!
 	"""
 	keyWait
 		any = false
@@ -204,9 +206,9 @@ script 10 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan forcefully
-	applies the
-	"Wheel Stamp"!!!
+	Lan aplica
+	forçadamente o
+	"Carimbo do Leme"!!!
 	"""
 	playerFinish
 	playerResetScene
@@ -216,7 +218,10 @@ script 10 mmbn5 {
 	soundEnableTextSFX
 	mugshotShow
 		mugshot = Lan
-	"Cool! I got a stamp!"
+	"""
+	Legal!
+	Consegui um carimbo!
+	"""
 	keyWait
 		any = false
 	end
@@ -224,15 +229,16 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	Since the ship is
-	computer-controlled,
+	Como o navio é
+	controlado por
+	computadores,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	this wheel is rarely
-	ever used.
+	esse leme só é usado
+	muito raramente.
 	"""
 	keyWait
 		any = false
@@ -243,19 +249,19 @@ script 20 mmbn5 {
 		flag = 543
 	msgOpen
 	"""
-	Life jackets
-	hang here.
+	Aqui há coletes
+	salva-vidas pendurados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
 	"Hm?"
@@ -263,9 +269,9 @@ script 20 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	There's something
-	interesting in
-	a pocket.
+	Tem uma coisa bem
+	interessante no bolso
+	de um deles.
 	"""
 	keyWait
 		any = false
@@ -277,8 +283,8 @@ script 20 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -291,9 +297,8 @@ script 20 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	2 MB!!
+	Memória padrão
+	aumentada em 2 MB!!
 	"""
 	keyWait
 		any = false
@@ -302,15 +307,16 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	Life jackets
-	hang here.
+	Aqui há coletes
+	salva-vidas pendurados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is one thing I
-	hope to never need.
+	Tá aí uma coisa que
+	você espera não
+	precisar usar nunca.
 	"""
 	keyWait
 		any = false
@@ -319,24 +325,24 @@ script 21 mmbn5 {
 script 30 mmbn5 {
 	msgOpen
 	"""
-	All aspects of
-	the ship are
-	computer-controlled.
+	Todos os aspectos do
+	navio são controlados
+	por computadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This system oversees
-	all such control.
+	Este sistema administra
+	todo esse controle.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The jack in port is
-	exquisite like the
-	rest of the ship.
+	A entrada de conexão
+	é requintada, tal
+	qual o resto do navio.
 	"""
 	keyWait
 		any = false

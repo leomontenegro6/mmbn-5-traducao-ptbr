@@ -4,22 +4,22 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"Smash⋯?"
+	"Esmagar...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I really want
-	to smash things⋯
+	Eu quero tanto
+	esmagar coisas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But⋯"
+	"Mas..."
 	keyWait
 		any = false
 	clearMsg
-	"Ooog⋯"
+	"Uuugh..."
 	keyWait
 		any = false
 	end
@@ -34,31 +34,31 @@ script 5 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Whew! Finally,I
-	can breathe⋯
+	Ufa! Finalmente dá pra
+	eu respirar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Suddenly my mind
-	got all fogged up,
-	and then⋯
+	A minha mente ficou
+	toda turva de repente,
+	e aí...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanted to smash
-	computers!
+	eu fiquei com vontade de
+	esmagar computadores!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But why? Usually
-	I always take good
-	care of them.
+	Mas por quê?
+	Normalmente, eu cuido
+	tão bem deles...
 	"""
 	keyWait
 		any = false
@@ -69,9 +69,9 @@ script 10 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	My mind is clear
-	now,but my head
-	sure isn't. Ow⋯
+	A minha mente está
+	clara agora. Já a
+	minha cabeça? Aai...
 	"""
 	keyWait
 		any = false

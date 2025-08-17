@@ -5,25 +5,24 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	END AREA IS POPULAR
-	AS A PLACE TO JUST
-	RELAX.
+	Á ÁREA ENDO É FAMOSA
+	POR SER UM BOM LUGAR
+	PARA RELAXAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UNFORTUNATELY,NOW
-	THAT NEBULA HAS
-	TAKEN OVER,FORGET
+	INFELIZMENTE, AGORA
+	QUE A NEBULA A TOMOU,
+	ESQUECE RELAXAMENTO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ABOUT RELAXING!
-	YOU'D BETTER HURRY
-	UP AND EVACUATE!
+	É MELHOR VOCÊ
+	EVACUAR LOGO!
 	"""
 	keyWait
 		any = false
@@ -33,20 +32,19 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THIS IS END AREA."
+	"ESTA É A ÁREA ENDO."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEBULA IS STILL IN
-	CONTROL HERE.
+	A NEBULA AINDA ESTÁ
+	NO CONTROLE DELA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T TAKE IT
-	ANYMORE!
+	EU NÃO AGUENTO MAIS!
 	"""
 	keyWait
 		any = false
@@ -60,9 +58,9 @@ script 20 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Lan,are you ready
-	to start this
-	Liberation mission?
+	Hikari, pronto para
+	iniciar esta missão
+	de liberação?
 	"""
 	keyWait
 		any = false
@@ -78,7 +76,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -87,7 +85,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -102,8 +100,8 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	OK⋯
-	Let's go!!
+	Certo...
+	Vamos!!
 	"""
 	keyWait
 		any = false
@@ -117,14 +115,14 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"No problem⋯"
+	"Tudo bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can start the
-	mission whenever
-	you're ready.
+	Podemos iniciar a missão
+	assim que você estiver
+	pronto.
 	"""
 	keyWait
 		any = false
@@ -135,9 +133,8 @@ script 22 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Lan,do you want to
-	start the liberation
-	mission?
+	Lan, vamos começar a
+	missão de liberação?
 	"""
 	keyWait
 		any = false
@@ -153,7 +150,7 @@ script 22 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -162,7 +159,7 @@ script 22 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -177,8 +174,8 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	OK⋯
-	Let's go!!
+	Certo...
+	Vamos!!
 	"""
 	keyWait
 		any = false
@@ -192,14 +189,14 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"No problem⋯"
+	"Tudo bem..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can start the
-	mission whenever
-	you're ready.
+	Podemos começar a
+	missão assim que
+	você estiver pronto.
 	"""
 	keyWait
 		any = false

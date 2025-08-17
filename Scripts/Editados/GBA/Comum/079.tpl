@@ -26,8 +26,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nothing unusual
-	in the drill.
+	Nada de anormal na
+	broca.
 	"""
 	keyWait
 		any = false
@@ -41,8 +41,8 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's talk to
-	Tesla first,
+	Bora falar com a
+	Tesla primeiro,
 	MegaMan!
 	"""
 	keyWait
@@ -54,8 +54,8 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's talk to
-	Pride first,
+	Bora falar com a
+	Pride primeiro,
 	MegaMan!
 	"""
 	keyWait
@@ -125,9 +125,9 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There isn't any
-	sign of MagnetMan's
-	program here.
+	Nenhum sinal do
+	programa do MagnetMan
+	aqui.
 	"""
 	keyWait
 		any = false
@@ -138,9 +138,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There isn't any
-	sign of KnightMan's
-	program here.
+	Nenhum sinal do
+	programa do KnightMan
+	aqui.
 	"""
 	keyWait
 		any = false
@@ -154,8 +154,8 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go find
-	MagnetMan's program!
+	Bora achar o programa
+	do MagnetMan!
 	"""
 	keyWait
 		any = false
@@ -166,8 +166,8 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go find
-	KnightMan's program!
+	Bora achar o programa
+	do KnightMan!
 	"""
 	keyWait
 		any = false

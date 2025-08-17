@@ -3,7 +3,7 @@
 script 0 mmbn5 {
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	wait
 		frames = 62
 	end
@@ -13,16 +13,15 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's your
-	phone!
+	Lan! Ligação!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's Dex! The
-	connection's been
-	restored!
+	É o Dex!
+	A conexão foi
+	restaurada!
 	"""
 	keyWait
 		any = false
@@ -36,7 +35,7 @@ script 2 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Are you alright?"
+	"Vocês tão bem?!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,11 +46,11 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Yeah,we're OK."
+	"Sim, a gente tá..."
 	keyWait
 		any = false
 	clearMsg
-	"But not for long!"
+	"mas não por muito tempo!"
 	keyWait
 		any = false
 	clearMsg
@@ -63,8 +62,8 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Not for long?!
-	What do you mean?!
+	"Não por muito tempo"?!
+	Como assim?!
 	"""
 	keyWait
 		any = false
@@ -77,16 +76,17 @@ script 5 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	During that last
-	quake the door shut
-	and trapped us in.
+	Naquele último terremoto,
+	a porta daqui trancou,
+	prendendo a gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's shut tight with
-	an electronic lock.
+	Não dá pra abrir ela.
+	Tá trancada com uma
+	tranca eletrônica!
 	"""
 	keyWait
 		any = false
@@ -99,9 +99,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Gotcha. Sit tight!
-	I'll be there before
-	you know it!
+	Beleza! Aguenta aí!
+	Eu tô indo!
 	"""
 	keyWait
 		any = false
@@ -114,8 +113,9 @@ script 7 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Cool,Lan! Don't
-	keep us waiting!
+	Beleza, Lan!
+	Só não faz a gente
+	esperar muito!
 	"""
 	keyWait
 		any = false
@@ -127,7 +127,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You bet!"
+	"Claro, né?!"
 	keyWait
 		any = false
 	clearMsg
@@ -140,7 +140,7 @@ script 9 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 227
-	"*RUMBLE RUMBLE*"
+	"BRRRUUUM BRRRUUUM"
 	wait
 		frames = 29
 	end
@@ -149,7 +149,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Yikes!"
+	"Argh!"
 	keyWait
 		any = false
 	end
@@ -158,7 +158,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dex,what happened?!"
+	"Dex, o que foi?!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,24 +170,23 @@ script 12 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	A⋯A drill just
-	busted through the
-	ceiling!
+	Uma... uma broca acabou
+	de perfurar o teto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yeowch,it's raining
-	rocks!
+	Argh!
+	Tá chovendo pedra aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At this rate,the
-	ceiling will cave in
-	on us!
+	Nesse ritmo, o teto
+	vai desabar em cima
+	da gente!
 	"""
 	keyWait
 		any = false
@@ -200,15 +199,15 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A drill came through
-	the ceiling?
+	Uma broca furou o teto?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,that's what all
-	those "quakes" were!
+	Então, era isso que
+	aqueles "terremotos"
+	eram!
 	"""
 	keyWait
 		any = false
@@ -221,16 +220,16 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The question is,
-	who's controlling
-	the drill!
+	Mas a dúvida é:
+	quem tá controlando
+	a broca?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If we knew that,we
-	could shut it off!
+	Se a gente soubesse,
+	daria pra desligar ela!
 	"""
 	keyWait
 		any = false
@@ -243,9 +242,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	You're right! Dex,
-	hold out just a
-	little longer!
+	Verdade!
+	Dex, aguentem aí só
+	mais um pouquinho!
 	"""
 	keyWait
 		any = false
@@ -258,8 +257,9 @@ script 16 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	OK,Lan! Ball's in
-	your court!
+	Tá bom, Lan!
+	A gente depende de
+	você!
 	"""
 	keyWait
 		any = false
@@ -271,11 +271,11 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Leave it to me!"
+	"Podem confiar!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	end

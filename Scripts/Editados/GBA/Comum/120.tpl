@@ -60,8 +60,8 @@ script 57 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's head to
-	End Area2!
+	Vamos lá pra
+	Área Endo 2!
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 59 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	MissionCtrl now.
+	Vamos voltar para
+	o Controle de Missão.
 	"""
 	keyWait
 		any = false
@@ -84,8 +84,9 @@ script 61 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! Go to
-	Invite first!
+	Desconecta!
+	Vamos pegar o
+	Convite primeiro!
 	"""
 	keyWait
 		any = false
@@ -96,9 +97,9 @@ script 63 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe I'd better
-	jack out and get
-	some rest.
+	Acho que é melhor a
+	gente desconectar e
+	ir descansar.
 	"""
 	keyWait
 		any = false
@@ -112,7 +113,7 @@ script 70 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Go to the port!"
+	"Vamos pro porto!"
 	keyWait
 		any = false
 	end
@@ -122,8 +123,8 @@ script 72 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out or we'll
-	miss the ship!
+	Desconecta, ou a gente
+	vai perder o navio!
 	"""
 	keyWait
 		any = false
@@ -138,9 +139,9 @@ script 105 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nebula's Navi must
-	be hiding. Don't
-	drop your guard.
+	O Navi da Nebula
+	deve tá escondido.
+	Não baixa a guarda.
 	"""
 	keyWait
 		any = false
@@ -151,8 +152,8 @@ script 107 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to End
-	Area2!
+	Bora lá pra
+	Área Endo 2!
 	"""
 	keyWait
 		any = false

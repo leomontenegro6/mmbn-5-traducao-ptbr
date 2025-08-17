@@ -5,23 +5,24 @@ script 0 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Hmmm⋯ So you
-	defeated ShadeMan?
+	Hmmm...
+	Então, vocês venceram
+	o ShadeMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That means he'll
-	sleep awhile in the
-	dark vortex,while
+	O que quer dizer que ele
+	vai dormir um pouquinho
+	no vórtice negro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NebulaGray creates
-	his new form⋯
+	até Nebula Gray criar
+	a nova forma dele...
 	"""
 	keyWait
 		any = false
@@ -33,13 +34,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"NebulaGray⋯?!"
+	"Nebula Gray...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CloudMan,what's
-	NebulaGray?!
+	CloudMan, o que é
+	esse Nebula Gray?!
 	"""
 	keyWait
 		any = false
@@ -52,16 +53,16 @@ script 2 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	It's what give the
-	shapeless form⋯
+	É aquilo que dá forma
+	aos que não têm...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a dark star
-	at the center of
-	the DarkGalaxy!!!
+	Uma estrela que
+	brilha no centro
+	da Galáxia Negra!!!
 	"""
 	keyWait
 		any = false
@@ -73,7 +74,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dark⋯Nebula⋯?"
+	"O quê...?"
 	keyWait
 		any = false
 	clearMsg
@@ -85,15 +86,16 @@ script 4 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	See it for yourself,
-	if you really want⋯
+	Se quiserem, podem ver
+	por conta própria...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But only if you
-	can defeat me first!
+	mas somente SE
+	conseguirem me
+	vencer primeiro!
 	"""
 	keyWait
 		any = false
@@ -120,7 +122,10 @@ script 6 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -131,7 +136,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -143,9 +148,9 @@ script 8 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Sleep,MegaMan!
-	Sleep in the great
-	dark vortex,forever!
+	Durma, MegaMan!
+	Durma no grande vórtice
+	negro... para sempre!
 	"""
 	keyWait
 		any = false

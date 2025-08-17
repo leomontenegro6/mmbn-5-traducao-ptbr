@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"SciLab's BBS."
+	"O Fórum do SciLab."
 	keyWait
 		any = false
 	startBBS

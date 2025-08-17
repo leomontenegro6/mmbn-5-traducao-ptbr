@@ -4,35 +4,38 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Ah,there you are!"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = MegaMan
-	"So you're his Navi⋯"
-	keyWait
-		any = false
-	clearMsg
-	mugshotShow
-		mugshot = GyroMan
-	"Yep!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You got here pretty
-	quickly. I'll have
-	to give you credit.
-	"""
+	"Ah, tá aí você!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What do you guys
-	want?!
+	Então, você que
+	é o Navi dele...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = GyroMan
+	"Aham!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Cê chegou aqui
+	bem rápido, até.
+	Tiro o meu chapéu.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	mugshotShow
+		mugshot = MegaMan
+	"""
+	O que é que vocês
+	querem?!
 	"""
 	keyWait
 		any = false
@@ -40,8 +43,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	"""
-	Heh,wouldn't you
-	like to know!
+	He, cê acha mesmo que
+	eu vou contar?!
 	"""
 	keyWait
 		any = false
@@ -55,7 +58,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"It's you⋯"
+	"É você..."
 	keyWait
 		any = false
 	clearMsg
@@ -68,9 +71,9 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	"""
-	I measured how long
-	it took you to get
-	here. I'm impressed.
+	Eu contei o tempo que
+	você levou para chegar.
+	Estou impressionado.
 	"""
 	keyWait
 		any = false
@@ -78,8 +81,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	What are you people
-	after?!
+	Do que é que vocês
+	tão atrás?!
 	"""
 	keyWait
 		any = false
@@ -87,8 +90,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	"""
-	Hehehe,wouldn't you
-	like to know!
+	He he. Acha mesmo
+	que eu contaria?
 	"""
 	keyWait
 		any = false

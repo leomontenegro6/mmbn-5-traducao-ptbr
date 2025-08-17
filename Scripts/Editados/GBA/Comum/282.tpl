@@ -9,8 +9,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Hate! Hate!
-	Grrr⋯
+	Ódio! Ódio!
+	Grrr...
 	"""
 	keyWait
 		any = false
@@ -26,8 +26,7 @@ script 5 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What was
-	I doing?
+	O que eu tava fazendo?
 	"""
 	keyWait
 		any = false
@@ -38,13 +37,13 @@ script 10 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,I'm very
-	worried⋯
+	Lan, eu tô tão
+	preocupada...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful."
+	"Toma cuidado."
 	keyWait
 		any = false
 	end

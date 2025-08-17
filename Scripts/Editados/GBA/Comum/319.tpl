@@ -5,22 +5,22 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We're here to
-	observe the network.
+	Nós estamos aqui para
+	monitorar a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're constantly on
-	guard,
+	Estamos sempre alertas,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now that Nebula's
-	increased activity.
+	especialmente agora que
+	a atividade da Nebula
+	se intensificou.
 	"""
 	keyWait
 		any = false
@@ -31,40 +31,40 @@ script 1 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All we have to do is
-	keep our eyes on the
-	monitor
+	Tudo o que temos que
+	fazer é ficar de olho
+	no monitor,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but network security
-	requires a 24-hour
-	watch.
+	mas a segurança da
+	Rede requer monitora-
+	mento 24 horas por dia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a tough job,it
-	is.
+	É um trabalho bem
+	puxado, sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you see people
-	jogging in the park
-	outside?
+	Você viu umas pessoas
+	correndo no parque,
+	lá fora?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I need to exercise
-	too but I can't find
-	the time.
+	Eu também preciso me
+	exercitar, mas não
+	tenho tempo...
 	"""
 	keyWait
 		any = false
@@ -75,16 +75,16 @@ script 2 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	System lights green.
-	SciLab main system
-	is running smoothly.
+	Luzes do sistema:
+	verdes. Sistema central
+	do SciLab: normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hee hee! Was that
-	too dramatic?
+	He he! Eu sempre quis
+	dizer isso.
 	"""
 	keyWait
 		any = false
@@ -95,17 +95,17 @@ script 3 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Boy,I haven't
-	changed my clothes
-	for a week.
+	Nossa, já faz uma
+	semana que eu não
+	troco de roupa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Should I go home and
-	change,or have my
-	wife send clothes?
+	Vou pra casa me trocar
+	ou peço pra minha mulher
+	trazer roupas novas?
 	"""
 	keyWait
 		any = false
@@ -116,22 +116,22 @@ script 4 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I'll copy this file,
-	add it to this part
+	Eu copio este arquivo,
+	adiciono a esta parte
+	aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and correct the
-	formula here,and⋯
+	corrijo esta fórmula
+	aqui, e...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK! The bug is all
-	gone!
+	Pronto! Tchau, bug!
 	"""
 	keyWait
 		any = false
@@ -141,21 +141,21 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Oh,it's you?"
+	"Ah, é você?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know your worried
-	about your father
-	but he'll be OK!
+	Sei que está preocupado
+	com o seu pai, mas ele
+	vai ficar bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Would these lovely
-	eyes lie to you?
+	Estes lindos olhos aqui
+	não mentiriam pra você!
 	"""
 	keyWait
 		any = false
@@ -170,8 +170,9 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's locked and we
-	can't get in!
+	Tá trancado!
+	Não dá pra gente
+	entrar!
 	"""
 	keyWait
 		any = false
@@ -180,8 +181,8 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A lock prevents
-	passage.
+	Uma tranca impede a
+	passagem.
 	"""
 	keyWait
 		any = false

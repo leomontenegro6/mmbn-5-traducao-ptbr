@@ -23,9 +23,9 @@ script 4 mmbn5s {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	Get out of here,
-	you fools!
-	DarkSlash!
+	Sumam daqui,
+	seus tolos!
+	Corte Sombrio!
 	"""
 	keyWait
 		any = false

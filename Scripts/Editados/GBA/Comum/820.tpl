@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"The next day."
+	"No dia seguinte..."
 	keyWait
 		any = false
 	end
@@ -12,17 +12,17 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow,today we fight
-	Nebula⋯ Hope I can
-	handle it.
+	É hoje que a gente luta
+	com a Nebula... Tomara
+	que a gente dê conta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder why he
-	hasn't contacted me
-	yet?
+	Por que será que ele
+	ainda não entrou em
+	contato?
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 2 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRIIIIIIMM!"
 	wait
 		frames = 62
 	end
@@ -42,8 +42,7 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's your
-	phone!
+	Lan, é uma ligação!
 	"""
 	keyWait
 		any = false
@@ -57,25 +56,25 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,the ACDC Area3
-	liberation mission
-	begins now.
+	Lan, a missão de
+	liberação da Área
+	ACDC 3 começa agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must free the
-	area from Nebula's
-	grip.
+	Você deverá libertar
+	a área das garras da
+	Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time you're in
-	charge of Navi
-	operation.
+	Dessa vez, você vai
+	ficar encarregado da
+	operação de Navis.
 	"""
 	keyWait
 		any = false
@@ -87,14 +86,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Navi operation?"
+	"Operação de Navis?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chaud,you're not
-	going to fight with
-	me?
+	Ué, você não vai lutar
+	ao meu lado, Chaud?
 	"""
 	keyWait
 		any = false
@@ -107,38 +105,31 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Nebula has blocked
-	standard access to
+	A Nebula bloqueou
+	acesso padrão à área
+	marcada pra liberação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the area slated for
-	liberation.
+	Somente uma pessoa pode
+	operar Navis em uma
+	área ocupada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only one person can
-	operate Navis in an
-	occupied area.
+	Eu poderia operá-los
+	eu mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would operate them
-	myself⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But I have to
-	command Officials at
-	the national level.
+	mas preciso comandar
+	Oficiais a nível nacional.
 	"""
 	keyWait
 		any = false
@@ -151,9 +142,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait,you mean I have
-	to complete this
-	mission alone?
+	Pera, então eu vou
+	ter que cumprir a
+	missão sozinho?
 	"""
 	keyWait
 		any = false
@@ -165,21 +156,21 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"That is correct."
+	"Isso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have also sent
-	ProtoMan into ACDC
-	Area2.
+	Também enviei o
+	ProtoMan para a
+	Área ACDC 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan will guide
-	you on the mission.
+	Ele vai te guiar
+	nessa missão.
 	"""
 	keyWait
 		any = false
@@ -191,35 +182,35 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	So,you mean⋯
-	I'll be operating
-	ProtoMan as well?
+	Quer dizer que...
+	eu também vou operar
+	o ProtoMan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Chaud
-	"That is correct."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	But,I'm not even
-	sure if I can handle
-	that⋯I⋯
+	Mas eu não sei se
+	dou conta disso...
+	E-eu...
 	"""
 	keyWait
 		any = false
@@ -232,47 +223,47 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	If you're having
-	second thoughts,get
-	off the team now.
+	Se já começou a
+	hesitar, saia da
+	equipe agora mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have no time for
-	doubt. But Lan⋯
+	Não temos espaço pra
+	dúvidas. Mas, Lan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that not just
-	anybody can handle
-	ProtoMan.
+	Eu sei muito bem que
+	não é qualquer um que
+	pode operar o ProtoMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you defeated
-	the mad scientist
-	Wily and his WWW,
+	Mas você venceu o
+	Wily e a WWW daquele
+	cientista insano,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	destroyed the
-	netmafia Gospel,
+	destruiu a netmáfia
+	Gospel,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and defeated Regal
-	before. You are not
-	"just anybody."
+	e venceu o Regal
+	antes. Você não é
+	"qualquer um".
 	"""
 	keyWait
 		any = false
@@ -284,21 +275,20 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Chaud⋯"
+	"Chaud..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,I'll give it my
-	best shot. Besides,
+	Tá, eu vou tentar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never run away
-	from a NetBattle
-	before!
+	Afinal de contas,
+	eu nunca fugi de uma
+	NetLuta até hoje!
 	"""
 	keyWait
 		any = false
@@ -310,14 +300,14 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"That's the spirit."
+	"Esse é o espírito."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's almost time.
-	Jack in and head to
-	ACDC Area2.
+	Tá quase na hora.
+	Conecte-se e siga
+	pra Área ACDC 2.
 	"""
 	keyWait
 		any = false
@@ -329,7 +319,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK,gotcha!"
+	"Beleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -341,8 +331,8 @@ script 14 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It's in your hands,
-	Lan.
+	Está tudo nas suas
+	mãos, Lan.
 	"""
 	keyWait
 		any = false
@@ -355,8 +345,8 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Leave it to me,
-	Chaud!
+	Cê sabe que pode
+	contar comigo, Chaud!
 	"""
 	keyWait
 		any = false
@@ -369,8 +359,7 @@ script 16 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's what I like
-	to hear.
+	Gostei de ouvir.
 	"""
 	keyWait
 		any = false
@@ -384,23 +373,23 @@ script 17 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*\n"
+	"Clerc\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"*bweep*"
+	"Puip"
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"*bweep*"
+	"Puip"
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"*bweep⋯*"
+	"Puip..."
 	keyWait
 		any = false
 	clearMsg
@@ -412,8 +401,7 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	are you ready?
+	Tá pronto, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -425,7 +413,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,let's go,Lan!"
+	"Aham! Vamos lá, Lan!"
 	keyWait
 		any = false
 	end
@@ -435,17 +423,17 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	First,let's find
-	ProtoMan in ACDC
-	Area2!
+	Primeiro, bora falar
+	com o ProtoMan na
+	Área ACDC 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false
@@ -455,30 +443,30 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Lan⋯"
+	"Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The ACDC Area3
-	liberation mission
-	begins now.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You must free the
-	area from Nebula's
-	grip.
+	A missão de liberação
+	da Área ACDC 3 começa
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This time you're in
-	charge of Navi
-	operation.
+	Você deverá libertar
+	a área das garras da
+	Nebula.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Desta vez, você
+	ficará encarregado das
+	operações de Navis.
 	"""
 	keyWait
 		any = false
@@ -490,14 +478,13 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Navi operation?"
+	"Operações de Navis?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Baryl,you're not
-	going to fight with
-	me?
+	Você não vai lutar
+	ao meu lado, Baryl?
 	"""
 	keyWait
 		any = false
@@ -510,38 +497,31 @@ script 23 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Nebula has blocked
-	standard access to
+	A Nebula bloqueou
+	acesso padrão à área
+	marcada para liberação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the area slated for
-	liberation.
+	Somente uma pessoa pode
+	operar Navis em uma
+	área ocupada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only one person can
-	operate Navis in an
-	occupied area.
+	Eu poderia operá-los
+	eu mesmo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would operate them
-	myself⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But I have to
-	command Officials at
-	the national level.
+	mas preciso comandar
+	Oficiais a nível nacional.
 	"""
 	keyWait
 		any = false
@@ -554,9 +534,9 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wait,you mean I have
-	to complete this
-	mission alone?
+	Espera, então eu vou
+	ter que cumprir a
+	missão sozinho?
 	"""
 	keyWait
 		any = false
@@ -568,21 +548,20 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"That is correct."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have also sent
-	Colonel into ACDC
-	Area2.
+	Também enviei o Colonel
+	para a Área ACDC 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Colonel will guide
-	you on the mission.
+	Ele irá te guiar
+	na missão.
 	"""
 	keyWait
 		any = false
@@ -594,35 +573,35 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	So,you mean⋯
-	I'll be operating
-	Colonel as well?
+	Quer dizer que...
+	eu também vou operar
+	o Colonel?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
-		mugshot = Baryl
-	"That's right."
+		mugshot = Chaud
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	But,I'm not even
-	sure if I can handle
-	that⋯I⋯
+	Mas eu não sei se
+	dou conta disso...
+	E-eu...
 	"""
 	keyWait
 		any = false
@@ -635,62 +614,62 @@ script 27 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	If you're having
-	second thoughts,get
-	off the team now.
+	Se já começou a
+	hesitar, saia da
+	equipe agora mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We have no time for
-	cowardice.
+	Não temos espaço
+	para covardia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I thought you wanted
-	to save your father!
-	And Lan⋯
+	Hmpf. Achei que quisesse
+	salvar o seu pai!
+	E, Lan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know that not
-	just anybody can
-	handle Colonel.
+	Eu sei não é todo
+	mundo que consegue
+	dar conta do Colonel.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you defeated
-	the mad scientist
-	Wily and his WWW,
+	Mas você venceu o
+	Wily e a WWW daquele
+	cientista insano,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	destroyed the
-	netmafia Gospel,
+	destruiu a netmáfia
+	Gospel,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and defeated Regal
-	once before.
+	e venceu o Regal
+	antes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With your back-
-	ground,I know you
-	can handle Colonel.
+	Com o seu histórico, eu
+	SEI que você consegue
+	operar o Colonel.
 	"""
 	keyWait
 		any = false
@@ -702,29 +681,30 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"Baryl⋯"
+	"Baryl..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe you're right.
-	I⋯I'll do it.
+	Acho que você tem razão.
+	Eu... eu topo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll save Dad
-	myself!
+	Vou salvar o meu pai,
+	com as minhas próprias
+	mãos!
 	"""
 	keyWait
 		any = false
@@ -736,14 +716,14 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"That's the spirit."
+	"Esse é o espírito."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's almost time.
-	Jack in and head to
-	ACDC Area2.
+	Está quase na hora.
+	Conecte-se e siga
+	para a Área ACDC 2.
 	"""
 	keyWait
 		any = false
@@ -755,7 +735,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -767,8 +747,8 @@ script 31 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan,there's no room
-	for mistakes.
+	Lan, não há espaço
+	para falhas.
 	"""
 	keyWait
 		any = false
@@ -780,7 +760,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Rest assured!"
+	"Pode ficar sossegado!"
 	keyWait
 		any = false
 	clearMsg
@@ -792,8 +772,9 @@ script 33 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	That's the spirit.
-	I wish you success.
+	Gostei de ouvir.
+	Desejo a você sucesso
+	na missão.
 	"""
 	keyWait
 		any = false
@@ -807,23 +788,23 @@ script 34 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*\n"
+	"Clernc\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"*bweep*"
+	"Buip"
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"*bweep*"
+	"Buip"
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"*bweep⋯*"
+	"Buip..."
 	keyWait
 		any = false
 	clearMsg
@@ -835,8 +816,7 @@ script 35 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,
-	are you ready?
+	Tá pronto, MegaMan?!
 	"""
 	keyWait
 		any = false
@@ -848,7 +828,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,let's go,Lan!"
+	"Aham! Vamos lá, Lan!"
 	keyWait
 		any = false
 	end
@@ -858,17 +838,17 @@ script 37 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	First,let's find
-	Colonel in ACDC
-	Area2!
+	Primeiro, bora falar
+	com o Colonel na
+	Área ACDC 2!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

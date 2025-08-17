@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Victor of 100 foes⋯"
+	"Vencedor de\n100 inimigos..."
 	keyWait
 		any = false
 	end
@@ -10,8 +10,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	You may now proceed,
-	mighty samurai⋯
+	Pode prosseguir,
+	hábil samurai...
 	"""
 	keyWait
 		any = false

@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"SoulServer⋯"
+	"O ServidorAlma..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the world I
-	dreamed of⋯
+	E o mundo com o
+	qual eu sonhei...
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"It's all gone⋯"
+	"Tudo se foi..."
 	keyWait
 		any = false
 	clearMsg
@@ -30,7 +30,7 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	mugshotHide
 	msgOpen
-	"It's over,Regal."
+	"Acabou, Regal."
 	keyWait
 		any = false
 	end
@@ -39,7 +39,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W-Who are you⋯?"
+	"Q-quem é você...?"
 	keyWait
 		any = false
 	clearMsg
@@ -50,13 +50,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"I am Baryl⋯"
+	"Eu sou Baryl..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AKA,Colonel's
-	operator.
+	o operador
+	de Colonel.EXE.
 	"""
 	keyWait
 		any = false
@@ -66,19 +66,19 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Baryl⋯?!"
+	"Baryl...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Supreme Commander of
-	Netopia's Network
-	Corps?!
+	Comandante supremo
+	da Tropa de Rede
+	da Ameropa?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What are you doing⋯"
+	"Mas por que você está..."
 	keyWait
 		any = false
 	clearMsg
@@ -90,40 +90,39 @@ script 6 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	A certain someone
-	asked me to destroy
-	SoulServer⋯
+	Uma certa pessoa me
+	pediu para destruir
+	o ServidorAlma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But it seems the
-	job's already done⋯
+	mas parece que o
+	trabalho já está feito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The annihilation of
-	NebulaGray is making
-	the plant destruct.
+	A aniquilação de Nebula
+	Gray está fazendo a
+	usina se destruir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the explosions
-	are bringing the
-	volcano to life⋯
+	E as explosões estão
+	reativando o vulcão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulServer will be
-	inundated by lava
-	in about 10 minutes.
+	Em cerca de 10 minutos,
+	o ServidorAlma ficará
+	inundado de lava.
 	"""
 	keyWait
 		any = false
@@ -135,13 +134,14 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So my grand plan
-	have come to this⋯
+	Então, o meu grandioso
+	plano foi reduzido a
+	isso...
 	"""
 	keyWait
 		any = false
@@ -152,9 +152,9 @@ script 8 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	It's dangerous here.
-	Get out as fast as
-	you can.
+	É perigoso ficar aqui.
+	Saia daqui o mais rápido
+	que conseguir.
 	"""
 	keyWait
 		any = false
@@ -164,7 +164,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yikes!!!"
+	"Caramba!!!"
 	keyWait
 		any = false
 	end
@@ -173,13 +173,14 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"The volcano's closer"
+	"O vulcão..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to erupting than
-	I thought⋯
+	Ele está mais perto
+	de entrar em erupção
+	do que eu pensava...
 	"""
 	keyWait
 		any = false
@@ -191,7 +192,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Yeah!!!"
+	"... Tá bom!!!"
 	keyWait
 		any = false
 	end
@@ -200,7 +201,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!"
+	"Pai!"
 	keyWait
 		any = false
 	clearMsg
@@ -212,8 +213,9 @@ script 13 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Great work,
-	Lan,MegaMan.
+	Lan, MegaMan...
+	Vocês fizeram um
+	ótimo trabalho.
 	"""
 	keyWait
 		any = false
@@ -225,11 +227,14 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks! Now let's"
+	"Obrigado!"
 	keyWait
 		any = false
 	clearMsg
-	"get out,quick!"
+	"""
+	Agora, bora sair
+	daqui, e rápido!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -241,15 +246,15 @@ script 15 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,I'm sorry but,
-	you go ahead.
+	Lan, me desculpe,
+	mas vá na frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I promise I'll
-	be right behind.
+	Prometo que
+	saio já, também.
 	"""
 	keyWait
 		any = false
@@ -261,7 +266,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?! No!!!"
+	"O quê?! Não!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -272,13 +277,13 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"As a scientist and"
+	"Como cientista e como\nfilho do meu pai,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my Dad's son,I must
-	speak with Regal.
+	eu preciso falar
+	com o Regal.
 	"""
 	keyWait
 		any = false
@@ -290,13 +295,13 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯OK."
+	"... Tá bom."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I better
-	see you soon!!!
+	Mas é bom você
+	sair logo, viu?!!
 	"""
 	keyWait
 		any = false
@@ -308,7 +313,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Yes,I promise."
+	"Eu vou, prometo."
 	keyWait
 		any = false
 	end
@@ -317,7 +322,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Time's short,go!!!"
+	"Não há muito tempo!\nVá!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -330,7 +335,7 @@ script 21 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Roger!!!"
+	"Certo!!!"
 	keyWait
 		any = false
 	end
@@ -349,15 +354,15 @@ script 23 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Hikari⋯ Did you come
-	to laugh in my face?
+	Hikari... O que foi?
+	Veio rir da minha cara?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ha ha ha ha⋯
-	Well,have your fill!
+	Ha ha ha ha...
+	Vá em frente, então!
 	"""
 	keyWait
 		any = false
@@ -370,45 +375,45 @@ script 24 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Your failed plan
-	has opened my eyes
-	to what SoulNet is⋯
+	O seu plano frustrado
+	abriu os meus olhos para
+	o que a RedeAlma é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 13
-	"It's hope passed to"
+	"Ela é esperança,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	us from our fathers
-	and in turn,from
-	us to the next
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	generation.
-	It's also a message
+	passada a nós por nossos
+	pais, e por nós à
+	próxima geração.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	telling us to build
-	a world where people
-	have strong souls
+	E também é
+	uma mensagem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that can conquer
-	evil.
+	nos dizendo para
+	construir um mundo em
+	que as pessoas possuam
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	almas fortes, capazes
+	de conquistar o mal.
 	"""
 	keyWait
 		any = false
@@ -420,35 +425,36 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Hahahahahahaha!!!"
+	"Ha ha ha ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You stayed behind
-	and risked your life
-	just to say that?!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Fool! Such a day
-	will never come!!
+	Você ficou para trás,
+	arriscou a vida,
+	só para dizer isso?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My father,Dr.Wily,
-	sold his soul to
+	Tolo! Esse dia
+	nunca irá chegar!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	evil and tried to
-	destroy the world!
+	Afinal, o meu pai,
+	o Dr. Wily, vendeu
+	a alma para o mal
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	e tentou destruir
+	o mundo!
 	"""
 	keyWait
 		any = false
@@ -461,24 +467,25 @@ script 26 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It's true Wily fell
-	into evil ways⋯
+	É verdade que o Wily
+	acabou seguindo pelo
+	caminho da maldade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But he never tried
-	to complete SoulNet
-	and use it for evil.
+	mas ele nunca tentou
+	concluir a RedeAlma
+	e usá-la para o mal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who knows? Maybe he
-	still had hope for
-	humankind?
+	Vai saber? Talvez ele
+	ainda tivesse esperança
+	na humanidade...
 	"""
 	keyWait
 		any = false
@@ -491,8 +498,8 @@ script 27 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Bah,nothing but
-	idle speculation!
+	Rá! Isso não passa
+	de especulação!
 	"""
 	keyWait
 		any = false
@@ -505,88 +512,89 @@ script 28 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	It may be
-	speculation⋯
+	Pode até ser...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯but I'd like to
-	believe in Wily⋯
+	... mas eu gostaria
+	de acreditar no Wily...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"And in you,Regal⋯"
+	"... e em você, Regal."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to pass that
-	hope on to the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	next generation if
-	we succeed.
+	Quero passar essa
+	esperança para a
+	próxima geração,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who knows how long
-	it will take⋯
+	caso tenhamos sucesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But as long as this
-	hope survives,
+	Talvez isso demore
+	muito tempo, ainda...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	our fathers' wish
-	should come true⋯
+	Mas, enquanto esta
+	esperança viver,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is our duty to
-	convey the hope of
-	our predecessors to
+	o desejo dos nossos
+	pais, um dia, deve
+	se concretizar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the next generation.
-	Come with me,Regal.
+	E é nosso dever passar
+	a esperança de nossos
+	antecessores à próxima
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Face judgment for
-	what you have done.
+	geração.
+	Venha comigo, Regal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We must convey our
-	fathers' hopes!
+	Encare julgamento
+	pelos seus crimes.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Ohhh!!!"
+	"""
+	Precisamos transmitir
+	as esperanças dos
+	nossos pais!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"... Uck!!"
 	keyWait
 		any = false
 	end
@@ -595,14 +603,13 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"⋯Believe in me?"
+	"... Acreditar em mim?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He sacrificed
-	himself just to tell
-	me that⋯
+	Ele se sacrificou só
+	para me dizer isso...
 	"""
 	keyWait
 		any = false
@@ -613,42 +620,43 @@ script 30 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	The tremors are
-	getting closer
+	Os tremores estão
+	ficando mais frequentes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	together.
-	The end is near⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"The next generation⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If only I had
-	realized sooner.
-	⋯⋯⋯
+	O fim está próximo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No,what am saying⋯
-	I have shrouded my
-	soul in evil⋯
+	......
+	A próxima geração...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯There's no going
-	back now⋯
+	Se, ao menos, eu
+	tivesse percebido antes.
+	.........
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Não, o que eu estou
+	dizendo? Eu mergulhei
+	a minha alma no mal...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Não há mais volta...
 	"""
 	keyWait
 		any = false
@@ -659,7 +667,7 @@ script 30 mmbn5 {
 script 31 mmbn5 {
 	mugshotHide
 	msgOpen
-	"It's not too late⋯"
+	"Não, não é\ntarde demais..."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -671,8 +679,9 @@ script 32 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	⋯⋯⋯
-	Why? Why are you⋯?
+	.........
+	Como?!
+	Mas por que você...?
 	"""
 	keyWait
 		any = false
@@ -682,8 +691,8 @@ script 33 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	SoulNet,
-	restart⋯
+	RedeAlma,
+	reiniciar...
 	"""
 	keyWait
 		any = false
@@ -693,14 +702,14 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"What are you doing!"
+	"O que pensa que\nestá fazendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet won't
-	affect me! I have
-	MagnoMetal!
+	A RedeAlma não irá
+	me afetar! Eu tenho
+	MagnoMetal comigo!
 	"""
 	keyWait
 		any = false
@@ -712,15 +721,15 @@ script 35 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	⋯⋯
-	⋯⋯
+	......
+	......
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulServer,
-	overload!!!
+	ServidorAlma,
+	sobrecarregar!!!
 	"""
 	keyWait
 		any = false
@@ -732,7 +741,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Ah⋯ Aaaaaah!!!"
+	"Ah... Aaaaaah!!!"
 	keyWait
 		any = false
 	end
@@ -741,11 +750,11 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"F-father⋯"
+	"P-pai..."
 	keyWait
 		any = false
 	clearMsg
-	"Why? Why are you⋯?"
+	"Por quê?\nPor que você...?"
 	keyWait
 		any = false
 	end
@@ -755,16 +764,16 @@ script 38 mmbn5 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	To fulfill my duty,
-	both as a scientist
-	and as your father⋯
+	Vim cumprir com meu de-
+	ver, tanto como cientista
+	quanto como seu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet,
-	restart⋯
+	RedeAlma,
+	reiniciar...
 	"""
 	keyWait
 		any = false
@@ -774,14 +783,14 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"What are you doing!"
+	"Mas o que você\nestá fazendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet won't
-	affect me! I have
-	MagnoMetal!
+	A RedeAlma não irá
+	me afetar! Eu tenho
+	MagnoMetal comigo!
 	"""
 	keyWait
 		any = false
@@ -794,16 +803,15 @@ script 40 mmbn5 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Just who do you
-	think designed
-	SoulServer⋯
+	Quem você acha que
+	projetou o ServidorAlma?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulServer,
-	overload!!!
+	ServidorAlma,
+	sobrecarregar!!!
 	"""
 	keyWait
 		any = false
@@ -815,7 +823,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Ah⋯ Aaaaaah!!!"
+	"Ah... Aaaaaah!!!"
 	keyWait
 		any = false
 	end
@@ -825,24 +833,24 @@ script 42 mmbn5 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Now I'm going to
-	send an impulse into
-	your memory center.
+	Agora, irei mandar um
+	impulso direto para o
+	seu centro de memória.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It will delete the
-	last 10 or so
+	Ele apagará os últimos
+	10 anos do seu cérebro,
+	aproxidamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	years of memories.
-	You shall start over
-	with a clean slate.
+	Você irá recomeçar
+	do zero.
 	"""
 	keyWait
 		any = false
@@ -864,9 +872,9 @@ script 44 mmbn5 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	I did not raise you
-	right. But now you
-	can make amends.
+	Eu não te criei direito.
+	Mas, agora, posso
+	reparar o meu erro.
 	"""
 	keyWait
 		any = false
@@ -877,8 +885,8 @@ script 45 mmbn5 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	⋯Baryl,I leave
-	the rest to you⋯
+	... Baryl, deixo
+	o resto com você...
 	"""
 	keyWait
 		any = false
@@ -890,7 +898,7 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"⋯Alright."
+	"... Pois bem."
 	keyWait
 		any = false
 	end
@@ -910,13 +918,13 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Hello・"
+	"Olá."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	" Regal."

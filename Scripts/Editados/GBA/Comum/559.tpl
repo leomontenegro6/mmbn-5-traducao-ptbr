@@ -11,29 +11,28 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm putting my
-	all into my work
-	today! Yessir!
+	Eu tô me dedicando
+	total ao meu trabalho
+	hoje! Sim, senhor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?! Nebula
-	might attack
-	again?!
+	O quê?! Pode ser que a
+	Nebula ataque de novo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Uh⋯I'll put my
-	all into my work
-	tomorrow.
+	Er... Eu vou me dedicar
+	total ao meu trabalho
+	amanhã.
 	"""
 	keyWait
 		any = false
@@ -44,8 +43,8 @@ script 2 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Where can I
-	hide?
+	Onde será que eu posso
+	me esconder?
 	"""
 	keyWait
 		any = false
@@ -56,23 +55,21 @@ script 10 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Don't get
-	any closer!
+	Não chega perto!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't control
-	myself right
-	now!
+	Eu não tô conseguindo
+	me controlar agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I might even
-	hit you⋯!
+	Posso acabar até
+	batendo em você...!
 	"""
 	keyWait
 		any = false
@@ -83,15 +80,16 @@ script 11 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	My school,my
-	friends! I hate 'em!
+	A minha escola,
+	os meus amigos...
+	Eu odeio eles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish they'd all
-	just disappear!
+	Queria que eles todos
+	sumissem logo!
 	"""
 	keyWait
 		any = false
@@ -102,16 +100,15 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I just started
-	hating everything
-	around me.
+	Do nada, eu comecei a
+	odiar tudo ao meu redor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is Nebula behind
-	this?
+	Era a Nebula por trás
+	disso?
 	"""
 	keyWait
 		any = false
@@ -122,9 +119,9 @@ script 21 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I'm still having
-	trouble controlling
-	my emotions⋯
+	Eu ainda tô com
+	dificuldades pra controlar
+	as minhas emoções...
 	"""
 	keyWait
 		any = false
@@ -135,17 +132,16 @@ script 30 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	There are so few
-	Navis around
-	these days.
+	Tem tão poucos Navis
+	por aqui estes dias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think most of
-	them are too scared
-	to go out anymore.
+	Acho que a maioria tá
+	com medo demais de sair
+	por aí.
 	"""
 	keyWait
 		any = false
@@ -156,24 +152,24 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYBODY IS
-	WORRIED ABOUT
-	ANOTHER INCIDENT!
+	ESTÃO TODOS COM MEDO
+	DE OUTRO INCIDENTE!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NOW ANXIETY IS
-	RUNNING OUR LIVES.
-	FROM THAT STANDPOINT
+	A ANSIEDADE ESTÁ
+	GOVERNANDO NOSSAS
+	VIDAS. OLHANDO POR
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEBULA'S ATTACKS
-	WERE A SUCCESS⋯
+	ESSE LADO, OS
+	ATAQUES DA NEBULA
+	FORAM BEM-SUCEDIDOS...
 	"""
 	keyWait
 		any = false

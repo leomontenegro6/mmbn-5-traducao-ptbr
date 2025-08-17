@@ -25,9 +25,8 @@ script 5 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I'm going to rest up
-	with MagnetMan for
-	tomorrow.
+	O MagnetMan e eu vamos
+	descansar para amanhã.
 	"""
 	keyWait
 		any = false
@@ -58,16 +57,17 @@ script 6 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	I'll let KnightMan
-	rest until
-	tomorrow's mission.
+	Deixarei que KnightMan
+	descanse até a missão
+	de amanhã.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,you should let
-	MegaMan rest,too.
+	Lan, aconselho você
+	a deixar o MegaMan
+	descansar, também.
 	"""
 	keyWait
 		any = false
@@ -78,9 +78,9 @@ script 10 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I just had a nice
-	dip in the ocean.
-	It felt great.
+	Acabei de dar um
+	mergulho no mar.
+	Foi tão gostoso.
 	"""
 	keyWait
 		any = false
@@ -91,8 +91,8 @@ script 11 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	I think I'll go in
-	the ocean⋯
+	Acho que vou me banhar
+	nas águas do mar...
 	"""
 	keyWait
 		any = false
@@ -100,8 +100,8 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	"""
-	Lady Pride,that
-	would be dangerous!
+	Lady Pride, seria
+	perigoso fazê-lo!
 	"""
 	keyWait
 		any = false
@@ -112,16 +112,16 @@ script 15 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I'm totally frazzled
-	from swimming in the
-	ocean.
+	Estou enrugada feito
+	uva passa de tanto
+	nadar no mar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll sleep well
-	tonight!
+	Vou dormir tão bem esta
+	noite!
 	"""
 	keyWait
 		any = false
@@ -132,17 +132,16 @@ script 16 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	KnightMan was so
-	obnoxious,I gave up
-	on the ocean
+	O KnightMan foi tão
+	insistente que desisti
+	da praia e decidi ir
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and decided to go to
-	the woods,instead.
-	How refreshing⋯
+	ao bosque.
+	Foi tão refrescante...
 	"""
 	keyWait
 		any = false
@@ -153,17 +152,17 @@ script 20 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	They haven't told us
-	to start the mission
-	yet
+	Ainda não nos mandaram
+	a ordem de iniciar a
+	missão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but MagnetMan is
-	ready and standing
-	by!
+	mas o MagnetMan está
+	de prontidão, pronto
+	pra luta!
 	"""
 	keyWait
 		any = false
@@ -174,9 +173,9 @@ script 21 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	KnightMan is ready
-	and standing by. We
-	can go any time!
+	O KnightMan está de
+	prontidão. Estamos
+	prontos para partir!
 	"""
 	keyWait
 		any = false
@@ -187,9 +186,9 @@ script 25 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Finally,time to
-	start the mission!
-	Good luck!
+	Finalmente é hora de
+	começar a missão!
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -199,14 +198,14 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"The mission's begun."
+	"A missão começou."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Umm,Lan⋯
-	Should you be here
-	right now?
+	Hum, Lan...
+	Você devia mesmo estar
+	aqui agora?
 	"""
 	keyWait
 		any = false
@@ -237,30 +236,29 @@ script 50 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	The previous mission
-	liberated the entire
-	the Net.
+	A última missão liberou
+	a Rede inteira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That just leaves the
-	Undernet⋯⋯⋯
+	O que só deixa faltando
+	a Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe
-	Nebula is powerful
+	Difícil de acreditar
+	que a Nebula é forte o
+	bastante para dominar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	enough to take over
-	the entire Undernet.
+	toda a Undernet.
 	"""
 	keyWait
 		any = false
@@ -291,22 +289,23 @@ script 51 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	The next mission is
-	in the Undernet.
+	A próxima missão será
+	na Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula is so strong,
-	it's terrifying.
-	The actually
+	A Nebula é tão forte...
+	chega a ser
+	aterrorizante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	conquered the
+	Eles realizaram o feito
+	de conquistar a
 	Undernet!
 	"""
 	keyWait
@@ -318,9 +317,8 @@ script 55 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	So,this island
-	isn't completely
-	deserted.
+	Então, esta ilha não é
+	completamente deserta.
 	"""
 	keyWait
 		any = false
@@ -331,16 +329,16 @@ script 56 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Apparently,someone
-	comes to clean this
-	island on a regular
+	Ao que parece, uma
+	pessoa vem para limpar
+	a ilha com regularidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	basis,in order to
-	preserve its beauty.
+	para, assim, preservar
+	sua beleza.
 	"""
 	keyWait
 		any = false
@@ -351,23 +349,23 @@ script 60 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	There's some kind of
-	problem at my
-	company.
+	Está tendo algum tipo
+	de problema na minha
+	empresa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have to go to an
-	emergency meeting.
+	Preciso ir a uma
+	reunião de emergência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a pain but I
-	have no choice.
+	É um pé no saco,
+	mas não tenho escolha.
 	"""
 	keyWait
 		any = false
@@ -378,22 +376,22 @@ script 61 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	There's a problem in
-	Creamland.
+	A Brilholândia está
+	com problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to go back
-	home for a bit.
+	Terei de voltar ao meu
+	país temporariamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope it's nothing
-	serious⋯
+	Só espero que não seja
+	nada grave...
 	"""
 	keyWait
 		any = false
@@ -408,16 +406,16 @@ script 65 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	The problem at my
-	company wasn't
-	serious but the
+	O problema na minha
+	empresa não era grave,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	situation in SciLab
-	was much worse.
+	diferente da situação
+	no SciLab, que é
+	urgente!
 	"""
 	keyWait
 		any = false
@@ -432,9 +430,9 @@ script 66 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Luckily,the problem
-	in Creamland wasn't
-	very serious.
+	Felizmente, o problema
+	na Brilholândia não era
+	particularmente sério.
 	"""
 	keyWait
 		any = false
@@ -445,14 +443,13 @@ script 67 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I can't believe
-	ProtoMan was
-	defeated⋯
+	Não acredito que o
+	ProtoMan foi vencido...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a shocker⋯"
+	"Estou chocada..."
 	keyWait
 		any = false
 	end
@@ -462,16 +459,15 @@ script 68 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	I can't believe
-	Colonel was
-	defeated⋯
+	Não posso acreditar que
+	o Colonel foi vencido...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who would have
-	expected this?
+	Isso era completamente
+	inesperado.
 	"""
 	keyWait
 		any = false
@@ -486,9 +482,8 @@ script 70 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Of course you'll
-	be the new leader,
-	right Lan?
+	Claro que você vai ser
+	o novo líder, né, Lan?
 	"""
 	keyWait
 		any = false
@@ -503,8 +498,9 @@ script 71 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Lan,I'm sure you'll
-	be a great leader.
+	Estou certo de que você
+	será um grande líder,
+	Lan.
 	"""
 	keyWait
 		any = false
@@ -514,7 +510,7 @@ script 72 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Thank you,Leader!"
+	"Obrigada, Líder!"
 	keyWait
 		any = false
 	end
@@ -524,8 +520,8 @@ script 73 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	Lan,I'm so happy
-	for you!
+	Estou tão feliz por você,
+	Lan!
 	"""
 	keyWait
 		any = false

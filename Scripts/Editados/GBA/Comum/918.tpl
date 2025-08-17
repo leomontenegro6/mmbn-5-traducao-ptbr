@@ -5,7 +5,7 @@ script 0 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 154
-	"*Beep beep!*"
+	"Bip Bip!"
 	wait
 		frames = 62
 	keyWait
@@ -19,8 +19,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wake up,Lan!
-	You've got mail!
+	Acorda, Lan!
+	Chegou e-mail!
 	"""
 	keyWait
 		any = false
@@ -32,7 +32,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huuh⋯"
+	"Uuungh..."
 	keyWait
 		any = false
 	end
@@ -42,38 +42,53 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've just got
-	some mail news!
-	I'll read it!
+	É uma notícia via e-mail!
+	Eu vou ler!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Currently,the Net\n is experiencing\n widespread errors."
+	"""
+	"No momento, a Rede
+	está apresentando
+	erros abrangentes.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" The communications\n system in End Area3\n may be the cause."
+	"""
+	O sistema de comunica-
+	ções na Área Endo 3
+	pode ser a causa.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Your Navi may be\n subjected to an\n evil influence when"
+	"""
+	O seu Navi pode ser
+	sujeito a uma influência
+	maligna ao se conectar,
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" jacked in so please\n avoid this even in\n liberated areas.\""
+	"""
+	então, por favor,
+	evitem isso, mesmo
+	em áreas liberadas."
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Wow!"
+	"Fim do e-mail."
 	keyWait
 		any = false
 	clearMsg
 	soundPlayBGM
 		track = 12
 	"""
-	I'll bet this is
-	Nebula's doing⋯
+	Aposto que isso é
+	coisa da Nebula...!
 	"""
 	keyWait
 		any = false
@@ -86,13 +101,13 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Yeah,I know.
-	End Area3 then!
+	Assino embaixo.
+	Pra Área Endo 3, então!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Bora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -103,7 +118,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Sure! Jack me in!"
+	"Vamos! Me conecta!"
 	keyWait
 		any = false
 	end

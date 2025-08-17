@@ -26,38 +26,38 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS DATA IS A BIT
-	COMPLICATED,SO PAY
-	CLOSE ATTENTION,OK?
+	ESTES DADOS SÃO MEIO
+	COMPLICADOS, ENTÃO,
+	MUITA ATENÇÃO, TÁ?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE LEFT LETTER
-	COMPLETES THIS COIN
-	WORD: " ICKEL"
+	A LETRA À ESQUERDA
+	COMPLETA ESTE NOME DE
+	VEÍCULO: "Ô_IBUS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MIDDLE LETTER
-	COMPLETES THIS COIN
-	WORD: "QU RTER"
+	A LETRA DO MEIO
+	COMPLETA ESTE NOME DE
+	VEÍCULO: "C_RRO".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE RIGHT LETTER
-	COMPLETES THIS COIN
-	WORD: " ENNY"
+	A LETRA DO MEIO
+	COMPLETA ESTE NOME DE
+	VEÍCULO: "_ATINETE".
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GOT IT?"
+	"ENTENDEU?"
 	keyWait
 		any = false
 	clearMsg
@@ -78,27 +78,28 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CONSIDER THESE FOUR
-	ANIMALS:
+	ME AJUDA COM A MINHA
+	AULA DE INGLÊS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOG CAT OWL RAT.
-	ONE DOES NOT BELONG.
+	"UM PÁSSARO NOTURNO
+	CONHECIDO POR VIRAR
+	O PESCOÇO 180 GRAUS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	EVEN I DON'T KNOW
-	THE ANSWER⋯
+	E QUE É CONHECIDO POR
+	FAZER 'RÚ RÚ'.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT A CONUNDRUM⋯"
+	"COMO ELE SE CHAMA EM\nINGLÊS?\""
 	keyWait
 		any = false
 	clearMsg
@@ -119,25 +120,25 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OK,I NEED DATA FOR
-	AN ANIMAL THAT CAN
-	BE FOUND IN TAR.
+	HUM, É O NOME DE UM
+	ANIMAL... COM UMA
+	LETRA A MENOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO YOU THINK IT'S
-	REFERRING TO THE
-	LA BREA TAR PITS?
+	O ANIMAL É UM ROEDOR.
+	TEM A FAMA DE COMER
+	QUEIJO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DON'T KNOW WHAT TO
-	DO! I CAN'T FIGURE
-	THIS ONE OUT!
+	LOGO, SERIA O NOME
+	DELE, COM A ÚLTIMA
+	LETRA CORTADA!
 	"""
 	keyWait
 		any = false
@@ -151,33 +152,31 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE NUMBER ON THE
-	LEFT IS THE NUMBER
-	OF DAYS IN A WEEK.
+	O NÚMERO À ESQUERDA
+	É O NÚMERO DE DIAS
+	QUE UMA SEMANA TEM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MIDDLE DATA IS
-	HALF OF THE MONTHS
-	IN A YEAR.
+	O NÚMERO DO MEIO É
+	O NÚMERO DE MESES DO
+	ANO, PELA METADE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NUMBER ON THE
-	RIGHT IS OPPOSITE 5
-	ON A DIE.
+	E O NÚMERO À DIREITA
+	É O OPOSTO AO 5 EM
+	UM DADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WELL?
-	CAN YOU FIGURE IT
-	OUT?
+	E AÍ? PEGOU?
 	"""
 	keyWait
 		any = false
@@ -189,33 +188,33 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE LEFT LETTER
-	COMPLETES THIS COIN
-	WORD: " ICKEL"
+	A LETRA À ESQUERDA
+	COMPLETA ESTE NOME DE
+	VEÍCULO: "Ô_IBUS".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MIDDLE LETTER
-	COMPLETES THIS COIN
-	WORD: "QU RTER"
+	A LETRA DO MEIO
+	COMPLETA ESTE NOME DE
+	VEÍCULO: "C_RRO".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE RIGHT LETTER
-	COMPLETES THIS COIN
-	WORD: " ENNY"
+	A LETRA DO MEIO
+	COMPLETA ESTE NOME DE
+	VEÍCULO: "_ATINETE".
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAKES ME SLEEPY
-	JUST THINKING ABOUT
-	IT⋯
+	OLHA SÓ O "NAIPE" DA
+	COISA... COM UMAS
+	LETRAS A MENOS.
 	"""
 	keyWait
 		any = false
@@ -227,36 +226,39 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	CONSIDER THESE FOUR
-	ANIMALS:
+	UM PÁSSARO NOTURNO
+	FAMOSO POR VIRAR O
+	PESCOÇO EM 180 GRAUS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOG CAT OWL RAT.
-	ONE DOES NOT BELONG.
+	E POR FAZER "RÚ RÚ".
+	SÓ QUE É O NOME DELE
+	EM INGLÊS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LET'S SEE⋯ THEY'RE
-	ALL MAMMALS⋯
+	TALVEZ UM PARDAL...?
+	NÃO, ELE NÃO É
+	NOTURNO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY'RE ALL
-	WARM-BLOODED⋯
+	QUAL É AQUELE QUE É
+	BEM ASSOCIADO A
+	BRUXOS, MESMO...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND THEY ALL HAVE
-	FUR⋯ I DON'T GET IT⋯
+	ÔU... QUE CHARADA...
 	"""
 	keyWait
 		any = false
@@ -268,25 +270,25 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I NEED DATA FOR AN
-	ANIMAL THAT CAN BE
-	FOUND IN TAR.
+	EU PRECISO DOS DADOS
+	DE UM ROEDOR QUE
+	GOSTA DE QUEIJOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS THERE SOME ANIMAL
-	THAT ACTUALLY LIVES
-	IN TAR? LIKE A BUG?
+	HM... SERÁ QUE É O
+	CAMUNDONGO? NÃO, DEVE
+	SER UM NOME MENOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WAIT A SECOND! I'VE
-	BEEN GOING ABOUT
-	THIS THE WRONG WAY!
+	LEMBRE: É O NOME DELE,
+	MAS COM UMA LETRA A
+	MENOS NO FINAL!
 	"""
 	keyWait
 		any = false
@@ -298,17 +300,17 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANK YOU VERY MUCH!
-	THE NUMBER OPPOSITE
-	5 ON A DIE IS 2.
+	MUITO OBRIGADO!
+	O NÚMERO OPOSTO AO
+	5 EM UM DADO É O 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DID YOU KNOW THAT
-	OPPOSITE SIDES ON A
-	DIE ALWAYS EQUAL 7?
+	SABIA QUE OS NÚMEROS
+	OPOSTOS DE UM DADO
+	SEMPRE SOMAM 7?
 	"""
 	keyWait
 		any = false
@@ -320,17 +322,17 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	BINGO! HEY,DID YOU 
-	KNOW THAT PAN IS NAP
-	SPELLED BACKWARDS?
+	BINGO! EI, SABIA QUE
+	"NAP" É "SONECA" EM
+	INGLÊS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OF COURSE,A PAN
-	IS NOT THE BEST
-	PLACE FOR A NAP⋯
+	NOSSA, SÓ DE FALAR
+	"SONECA" JÁ DEU UM
+	SONINHO...
 	"""
 	keyWait
 		any = false
@@ -341,18 +343,21 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I SEE⋯"
+	"AH, SIM."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AN OWL FLIES,BUT
-	THE OTHER DON'T.
+	ERA "OWL"!
+	MAS...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"YOU'RE A BRIGHT ONE."
+	"""
+	A PRONÚNCIA É
+	"ÓUL" OU "ÁUL"?
+	"""
 	keyWait
 		any = false
 	end
@@ -363,9 +368,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OF COURSE! THE
-	LETTERS FOR "RAT"
-	ARE IN "TAR"! WOOT!
+	AH, SIM! "RAT"!
+	DEU VONTADE DE COMER
+	UM QUEIJO AGORA!
 	"""
 	keyWait
 		any = false
@@ -377,40 +382,39 @@ script 12 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HEAVENS! WHAT TO DO?
-	THE BACKUP DATA HAS
-	FRAGMENTED!
+	CREDO! O QUE EU FAÇO?
+	OS DADOS DE BACKUP
+	SE FRAGMENTARAM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DATA MUST BE
-	RESTORED TO CONTINUE
-	IN THIS DIRECTION!
+	ELES TÊM QUE SER
+	RESTAURADOS PARA ABRIR
+	ESTE CAMINHO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	COULD YOU PLEASE
-	REORGANIZE THE DATA?
+	VOCÊ PODERIA
+	REORGANIZAR OS DADOS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CHANGING THAT DATA
-	IS HARDER THAN IT
-	LOOKS! IT'S HEAVY!
+	MUDAR OS DADOS É MAIS
+	DIFÍCIL DO QUE PARECE!
+	É TRABALHO PESADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'LL LEND A
-	HELPING HAND,RIGHT?
-	RIGHT? RIGHT?
+	MAS VOCÊ VAI DAR ESSA
+	FORÇA, NÉ? NÉ? NÉ?!
 	"""
 	keyWait
 		any = false
@@ -431,7 +435,7 @@ script 13 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" No problem! "
+	" Claro! "
 	option
 		brackets = 0
 		left = 0
@@ -440,7 +444,7 @@ script 13 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Sorry!"
+	" Foi mal!"
 	select
 		default = 0
 		BSeparate = false
@@ -458,9 +462,9 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OH,PRETTY PLEASE
-	WITH A SOUND CARD ON
-	TOP? PLEASE? PLEASE?
+	AH, POR FAVORZINHO!
+	POR FAVOOR?
+	POR FAVOOOOOOOR?!
 	"""
 	keyWait
 		any = false
@@ -474,84 +478,84 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THANKS! I KNEW THAT
-	YOU WOULDN'T LET ME
-	DOWN!
+	OBRIGADO! SABIA QUE
+	VOCÊ NÃO ME DEIXARIA
+	NA MÃO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LET ME EXPLAIN HOW
-	TO RECONFIGURE THE
-	DATA!
+	PERMITA-ME EXPLICAR
+	COMO RECONFIGURAR OS
+	DADOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	RESTORING THE DATA
-	IS THE ONLY WAY TO
-	GET THROUGH HERE!
+	RESTAURÁ-LOS É
+	O ÚNICO JEITO DE
+	PASSAR POR AQUI!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DATA IS SAVED
-	IN THOSE BLOCKS.
+	OS DADOS ESTÃO SALVOS
+	NESSES BLOCOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRESS THE A BUTTON
-	TO REMOVE DATA.
+	APERTE "A" PARA
+	REMOVÊ-LOS DOS BLOCOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN SWITCH THE
-	DATA WITH THE DATA
-	IN ANOTHER BLOCK,
+	VOCÊ PODERÁ ENTÃO
+	TROCAR ESSES DADOS POR
+	DADOS DE OUTRO BLOCO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OR INSERT THE DATA
-	INTO AN EMPTY BLOCK.
+	OU INSERIR OS DADOS
+	EM UM BLOCO VAZIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT YOU CAN MOVE
-	DATA ONLY A LIMITED
-	NUMBER OF TIMES!
+	MAS SÓ PODERÁ MOVER
+	OS DADOS UM NÚMERO
+	LIMITADO DE VEZES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU MAKE MORE
-	MOVES THAN ALLOWED,
+	SE TENTAR FAZER MAIS
+	MUDANÇAS DO QUE É
+	PERMITIDO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'LL ACTIVATE THE
-	SECURITY SYSTEM,SO
-	BE EXTRA CAREFUL!
+	ISSO VAI ATIVAR O
+	SISTEMA DE SEGURANÇA.
+	TOME MUITO CUIDADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS EVERYTHING
-	CLEAR?
+	ENTENDEU?
 	"""
 	keyWait
 		any = false
@@ -572,7 +576,7 @@ script 16 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Got it! "
+	" Entendi! "
 	option
 		brackets = 0
 		left = 0
@@ -581,7 +585,7 @@ script 16 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Not at all."
+	" Não."
 	select
 		default = 0
 		BSeparate = false
@@ -599,67 +603,67 @@ script 17 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LET ME EXPLAIN IT
-	ONCE MORE.
+	TUDO BEM, EXPLICAREI
+	MAIS UMA VEZ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DATA IS SAVED
-	IN THOSE BLOCKS.
+	OS DADOS ESTÃO SALVOS
+	NESSES BLOCOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRESS THE A BUTTON
-	TO REMOVE DATA.
+	APERTE "A" PARA
+	REMOVÊ-LOS DOS BLOCOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN SWITCH THE
-	DATA WITH THE DATA
-	IN ANOTHER BLOCK,
+	VOCÊ PODERÁ ENTÃO
+	TROCAR ESSES DADOS POR
+	DADOS DE OUTRO BLOCO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OR INSERT THE DATA
-	INTO AN EMPTY BLOCK.
+	OU INSERIR OS DADOS
+	EM UM BLOCO VAZIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT YOU CAN MOVE
-	DATA ONLY A LIMITED
-	NUMBER OF TIMES!
+	MAS SÓ PODERÁ MOVER
+	OS DADOS UM NÚMERO
+	LIMITADO DE VEZES!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU MAKE MORE
-	MOVES THAN ALLOWED,
+	SE TENTAR FAZER MAIS
+	MUDANÇAS DO QUE É
+	PERMITIDO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'LL ACTIVATE THE
-	SECURITY SYSTEM,SO
-	BE EXTRA CAREFUL!
+	ISSO VAI ATIVAR O
+	SISTEMA DE SEGURANÇA.
+	TOME MUITO CUIDADO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS EVERYTHING
-	CLEAR?
+	ENTENDEU?
 	"""
 	keyWait
 		any = false
@@ -673,47 +677,47 @@ script 18 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NOW I'LL TELL YOU
-	THE CORRECT ORDER
-	FOR THIS DATA.
+	VOU LHE CONTAR A
+	ORDEM CERTA DESSES
+	DADOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE DATA IS ORDERED
-	ACCORDING TO NUMBER.
+	A ORDEM DOS DADOS É
+	BASEADA EM NÚMEROS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NUMBER FOR THE
-	DATA ON THE LEFT IS
-	THE DAYS IN A WEEK.
+	O NÚMERO NOS DADOS À
+	ESQUERDA SÃO OS DIAS
+	EM UMA SEMANA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE MIDDLE DATA IS
-	HALF OF THE MONTHS
-	IN A YEAR.
+	O DO MEIO É A METADE
+	DO NÚMERO DE MESES
+	EM UM ANO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE NUMBER ON THE
-	RIGHT IS OPPOSITE 5
-	ON A DIE.
+	E O NÚMERO À DIREITA É
+	O NÚMERO OPOSTO AO 5
+	EM UM DADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU FORGET,JUST
-	ASK ME AGAIN.
+	SE ESQUECER, É SÓ ME
+	PERGUNTAR DE NOVO.
 	"""
 	keyWait
 		any = false

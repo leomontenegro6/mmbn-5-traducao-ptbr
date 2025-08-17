@@ -9,8 +9,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	The Net's sure full
-	of surprises!
+	A Rede é mesmo
+	cheia de surpresas!
 	"""
 	keyWait
 		any = false
@@ -23,9 +23,9 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Welcome to ACDC Town
-	the year Mayl and
-	Dex were born.
+	Bem-vindos à ACDC do
+	ano em que a Mayl e o
+	Dex nasceram.
 	"""
 	keyWait
 		any = false
@@ -38,15 +38,15 @@ script 2 mmbn5 {
 		mugshot = Glide
 	msgOpen
 	"""
-	That would be
-	11 years ago⋯
+	Ou seja,
+	11 anos atrás...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So Ms. Yai hasn't
-	even been born yet⋯
+	Logo, a Srta. Yai ainda
+	não havia nascido.
 	"""
 	keyWait
 		any = false
@@ -59,9 +59,9 @@ script 3 mmbn5 {
 		mugshot = Roll
 	msgOpen
 	"""
-	It feels strange to
-	be standing here
-	in ACDC Town.
+	É tão estranho estar
+	andando pelo Bairro
+	ACDC.
 	"""
 	keyWait
 		any = false
@@ -72,8 +72,8 @@ script 4 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Let's go explore old
-	ACDC Town,yee-haw!
+	Bora explorar a
+	antiga ACDC, Guts!
 	"""
 	keyWait
 		any = false
@@ -85,7 +85,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"I'm in!"
+	"Eu topo!"
 	keyWait
 		any = false
 	clearMsg
@@ -96,7 +96,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Glide
 	msgOpen
-	"Me too."
+	"Idem."
 	keyWait
 		any = false
 	clearMsg
@@ -107,7 +107,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah,let's go!!!"
+	"É, vamos lá!!!"
 	keyWait
 		any = false
 	end
@@ -115,19 +115,19 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	After enjoying ACDC
-	Town 11 years in the
-	past
+	Após brincarem bastante
+	no Bairro ACDC de
+	11 anos no passado
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	end
@@ -137,8 +137,8 @@ script 9 mmbn5 {
 		mugshot = Glide
 	msgOpen
 	"""
-	Well,shall we
-	head back?
+	E então,
+	vamos retornar?
 	"""
 	keyWait
 		any = false
@@ -152,13 +152,13 @@ script 10 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 340
-	"RATTLE"
+	"Rshh..."
 	wait
 		frames = 16
 	soundDisableTextSFX
 	soundPlay
 		track = 340
-	"RATTLE⋯"
+	" Rshh..."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -169,7 +169,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who could that be⋯"
+	"Quem será...?"
 	keyWait
 		any = false
 	clearMsg
@@ -181,8 +181,8 @@ script 12 mmbn5 {
 		mugshot = Roll
 	msgOpen
 	"""
-	Maybe it's leftover
-	Nebula agents⋯
+	Talvez seja um agente
+	da Nebula que sobrou...!
 	"""
 	keyWait
 		any = false
@@ -197,15 +197,15 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	On your toes,
-	everyone⋯
+	Fiquem espertos,
+	pessoal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"⋯Gulp."
+	"... Glup."
 	keyWait
 		any = false
 	clearMsg
@@ -218,7 +218,7 @@ script 14 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 340
-	"RATTLE!!!"
+	"RSHH!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -231,7 +231,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here it comes!!!"
+	"Lá vem!!!"
 	keyWait
 		any = false
 	end
@@ -240,16 +240,16 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"Huh?"
+	"Hã?"
 	keyWait
 		any = false
 	end
@@ -264,7 +264,7 @@ script 17 mmbn5 {
 		value = 1
 	soundPlay
 		track = 341
-	"Ruff!!!"
+	"Gáu!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -278,7 +278,7 @@ script 18 mmbn5 {
 	storeTimer
 		timer = 1
 		value = 2
-	"What the?!"
+	"Mas o quê...?!"
 	keyWait
 		any = false
 	end
@@ -288,8 +288,8 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Gow!
-	You're safe!!!
+	Gáu!
+	Você tá bem!!!
 	"""
 	keyWait
 		any = false
@@ -304,13 +304,13 @@ script 20 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Ruff!"
+	"Gáu! "
 	wait
 		frames = 16
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Ruff!"
+	"Gáu!"
 	keyWait
 		any = false
 	end
@@ -319,13 +319,13 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"So that's it!"
+	"Então, é isso, Guts!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan's weakness
-	is dogs!!!
+	O ponto fraco do MegaMan
+	são doguinhos!!!
 	"""
 	keyWait
 		any = false
@@ -337,7 +337,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"No it's not!!!"
+	"Não são, não!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -349,9 +349,9 @@ script 23 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Then why did you
-	flip over when Gow
-	barked at ya?!
+	Então por que foi que
+	você caiu quando esse
+	Gáu latiu pra você?!
 	"""
 	keyWait
 		any = false
@@ -363,7 +363,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's just⋯"
+	"É só que..."
 	keyWait
 		any = false
 	end
@@ -378,7 +378,7 @@ script 25 mmbn5 {
 		value = 4
 	soundPlay
 		track = 341
-	"Ruff!!!"
+	"Gáu!!!"
 	keyWait
 		any = false
 	end
@@ -387,7 +387,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Whoa!"
+	"A-aah!"
 	keyWait
 		any = false
 	clearMsg
@@ -399,8 +399,8 @@ script 27 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	See. Gow startled
-	you,too,GutsMan.
+	Viu? O Gáu te assustou
+	também, GutsMan.
 	"""
 	keyWait
 		any = false
@@ -413,8 +413,8 @@ script 28 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	You just jumped,
-	too,MegaMan!
+	Você também deu um
+	pulinho agora, Guts!
 	"""
 	keyWait
 		any = false
@@ -426,7 +426,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"No I didn't!"
+	"Dei nada!"
 	keyWait
 		any = false
 	end
@@ -441,19 +441,19 @@ script 30 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Ruff"
+	"Gáu, "
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Ruff"
+	"gáu, "
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Ruff!!"
+	"gáu!!"
 	keyWait
 		any = false
 	end
@@ -463,7 +463,7 @@ script 31 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯Whoa.
+	... Uff.
 	Ha ha ha ha!
 	"""
 	keyWait
@@ -486,47 +486,49 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Lan,MegaMan⋯ I want"
+	"Lan, MegaMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to tell you and your
-	friends something.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We adults are trying
-	hard to build a
-	world of mutual
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"understanding⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But there will be
-	many difficulties
-	along the way.
+	Eu quero dizer uma
+	coisa pra vocês e
+	pros seus amigos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it will take
-	a really long time
+	Nós, adultos, estamos
+	dando duro para
+	construir um mundo
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"de compreensão\nrecíproca..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas ainda terão muitas
+	dificuldades no caminho
+	até então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	before we achieve
-	what we seek.
+	Pra ser sincero, eu
+	acho que ainda vai
+	levar muito tempo
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	até alcançarmos
+	aquilo que almejamos.
 	"""
 	keyWait
 		any = false
@@ -538,43 +540,46 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"We know!"
+	"A gente sabe!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter how hard
-	it is or how long
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	it takes,
-	our generation and
+	Mas não importa o
+	quanto seja difícil
+	ou quanto tempo leve,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the next will carry
-	on the hopes of our
+	a nossa geração e
+	as que vão vir depois
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	forefathers,until
-	the day the ideal
+	vão continuar com as
+	esperanças dos nossos
+	pais e avós,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"world is a reality!"
+	"""
+	até o dia em que esse
+	mundo ideal vai virar
+	realidade...
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,guys?!"
+	"E eu sei que ele vai!"
+	keyWait
+		any = false
+	clearMsg
+	"Né, pessoal?!"
 	keyWait
 		any = false
 	clearMsg
@@ -585,7 +590,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Right!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
@@ -596,7 +601,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Of course!"
+	"É claro, né?!"
 	keyWait
 		any = false
 	clearMsg
@@ -607,7 +612,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Same here!!!"
+	"Assino em baixo!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -620,44 +625,53 @@ script 38 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"(Father⋯"
+	"(Pai..."
 	keyWait
 		any = false
 	clearMsg
-	" The hope of an\n ideal world has"
+	"""
+	A esperança de
+	um mundo ideal
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" taken root in the\n new generation."
+	"""
+	já se enraizou
+	na próxima geração.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" One day it will\n surely come to\n blossom"
+	"""
+	E, um dia, eu sei que
+	ela vai florescer
+	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・)"
+	".)"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	We're having a party
-	at our house and
+	Nós vamos dar uma festa
+	lá em casa, e vocês
+	estão todos convidados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're all invited.
-	There's lots of
-	good eats waiting!
+	Vai ter muita comida
+	boa esperando!
 	"""
 	keyWait
 		any = false
@@ -669,14 +683,14 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A party!"
+	"Uma festa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,we better
-	hurry and jack
-	out then!!!
+	Bom, melhor a
+	gente desconectar
+	logo, então!!!
 	"""
 	keyWait
 		any = false
@@ -686,11 +700,11 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go guys!"
+	"Vamos lá, pessoal!"
 	keyWait
 		any = false
 	end
@@ -702,7 +716,7 @@ script 41 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Ruff!!!"
+	"Gáu!!!"
 	keyWait
 		any = false
 	end

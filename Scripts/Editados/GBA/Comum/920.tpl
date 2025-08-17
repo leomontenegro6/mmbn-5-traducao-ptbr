@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Your skills impress
-	me. I want you to
-	have this.
+	As suas habilidades
+	me impressionaram.
+	Fique com isto.
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,8 @@ script 1 mmbn5 {
 		timer = 0
 		value = 1
 	"""
-	MegaMan got:
-	"ArmrData"!!!
+	MegaMan adquiriu:
+	"Dados de Armadura"!!!
 	"""
 	keyWait
 		any = false
@@ -39,8 +39,7 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Don't neglect your
-	training⋯
+	Não deixe de treinar...
 	"""
 	keyWait
 		any = false

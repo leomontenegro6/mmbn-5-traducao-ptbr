@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,I bet this door
-	will open with that
+	Aí, deve dar pra abrir
+	a porta com o 
 	"""
 	keyWait
 		any = false
@@ -17,18 +17,17 @@ script 0 mmbn5 {
 		item = 9
 	"""
 	"
-	we got earlier.
+	que a gente pegou.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll connect my PET⋯"
+	"Eu vou conectar o meu\nPET, e..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoa! There're
-	viruses in there!!!
+	Eita! Tem vírus aqui!!
 	"""
 	keyWait
 		any = false
@@ -39,15 +38,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Why does that remind
-	me of a Mettaur?
+	Por que isso te faz
+	lembrar de um Mettaur?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too much Net
-	surfing perhaps?
+	Talvez você esteja
+	passando tempo demais
+	na Rede...
 	"""
 	keyWait
 		any = false
@@ -56,16 +56,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A drum can⋯
-	A strange liquid
-	is leaking out.
+	Um barril...
+	Com um estranho líquido
+	vazando dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd better stay
-	clear of that.
+	É melhor não chegar
+	perto.
 	"""
 	keyWait
 		any = false
@@ -78,14 +78,14 @@ script 3 mmbn5 {
 		jumpIfInRange = 4
 		jumpIfOutOfRange = continue
 	msgOpen
-	"A dead end⋯"
+	"Sem saída..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe it was
-	too hard to continue
-	digging here⋯
+	Talvez fosse difícil
+	demais continuar
+	escavando aqui...
 	"""
 	keyWait
 		any = false
@@ -93,30 +93,29 @@ script 3 mmbn5 {
 }
 script 4 mmbn5 {
 	msgOpen
-	"A dead end⋯"
+	"Sem saída..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Hm?"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	There's a scrap of
-	paper in the rubble.
-	"""
+	"... Hm?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's something
-	written on it.
+	Há um pedaço de papel
+	em meio ao entulho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lotto number:
+	No papel, uma anotação.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Número de loteria:
 	"28706568"
 	"""
 	keyWait

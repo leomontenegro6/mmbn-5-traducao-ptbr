@@ -5,7 +5,7 @@ script 0 mmbn5s {
 	end
 }
 script 1 mmbn5s {
-	"SprArmr"
+	"SupArmd"
 	end
 }
 script 2 mmbn5s {
@@ -17,107 +17,107 @@ script 3 mmbn5s {
 	end
 }
 script 4 mmbn5s {
-	"MegFldr1"
+	"MegPast1"
 	end
 }
 script 5 mmbn5s {
-	"MegFldr2"
+	"MegPast2"
 	end
 }
 script 6 mmbn5s {
-	"GigFldr1"
+	"GigPast1"
 	end
 }
 script 7 mmbn5s {
-	"FstBarr"
+	"BarrInic"
 	end
 }
 script 8 mmbn5s {
-	"Shield"
+	"Escuto"
 	end
 }
 script 9 mmbn5s {
-	"Reflect"
+	"Refletir"
 	end
 }
 script 10 mmbn5s {
-	"AntiDmg"
+	"AntiDano"
 	end
 }
 script 11 mmbn5s {
-	"FlotShoe"
+	"SptFltua"
 	end
 }
 script 12 mmbn5s {
-	"AirShoes"
+	"BotasAr"
 	end
 }
 script 13 mmbn5s {
-	"UnderSht"
+	"PorUm"
 	end
 }
 script 14 mmbn5s {
-	"SneakRun"
+	"DeFinin"
 	end
 }
 script 15 mmbn5s {
-	"OilBody"
+	"Óleo"
 	end
 }
 script 16 mmbn5s {
-	"Fish"
+	"Peixe"
 	end
 }
 script 17 mmbn5s {
-	"Battery"
+	"Bateria"
 	end
 }
 script 18 mmbn5s {
-	"Jungle"
+	"Selva"
 	end
 }
 script 19 mmbn5s {
-	"Collect"
+	"Coleta"
 	end
 }
 script 20 mmbn5s {
-	"Millions"
+	"Milhões"
 	end
 }
 script 21 mmbn5s {
-	"Humor"
+	"Piadas"
 	end
 }
 script 22 mmbn5s {
-	"Chivalry"
+	"Macho"
 	end
 }
 script 23 mmbn5s {
-	"AutoRun"
+	"CorrAuto"
 	end
 }
 script 24 mmbn5s {
-	"AutoHeal"
+	"CuraAuto"
 	end
 }
 script 25 mmbn5s {
-	"BustPack"
+	"KitTiro"
 	end
 }
 script 26 mmbn5s {
-	"BodyPack"
+	"KitCorpo"
 	end
 }
 script 27 mmbn5s {
-	"HubBatc"
+	"HubBat"
 	end
 }
 script 28 mmbn5s {
-	"BugStop"
+	"ParaBug"
 	end
 }
 script 29 mmbn5s {
-	"SoulClen"
+	"LimpAlma"
 	end
 }
 script 30 mmbn5s {
@@ -133,66 +133,66 @@ script 32 mmbn5s {
 	end
 }
 script 33 mmbn5s {
-	"MegaVirs"
+	"MegaVírs"
 	end
 }
 script 34 mmbn5s {
-	"GigaVirs"
+	"GigaVírs"
 	end
 }
 script 35 mmbn5s {
-	"Attck+1"
+	"Ataque+1"
 	end
 }
 script 36 mmbn5s {
-	"Speed+1"
+	"Rapidz+1"
 	end
 }
 script 37 mmbn5s {
-	"Charge+1"
+	"Charga+1"
 	end
 }
 script 38 mmbn5s {
-	"SoulT+1"
+	"TpAlma+1"
 	end
 }
 script 39 mmbn5s {
-	"AttckMAX"
+	"AtaqMÁX"
 	end
 }
 script 40 mmbn5s {
-	"SpeedMAX"
+	"RapdzMÁX"
 	end
 }
 script 41 mmbn5s {
-	"ChargMAX"
+	"CargaMÁX"
 	end
 }
 script 42 mmbn5s {
-	"HP+50"
+	"PV+50"
 	end
 }
 script 43 mmbn5s {
-	"HP+100"
+	"PV+100"
 	end
 }
 script 44 mmbn5s {
-	"HP+200"
+	"PV+200"
 	end
 }
 script 45 mmbn5s {
-	"HP+300"
+	"PV+300"
 	end
 }
 script 46 mmbn5s {
-	"HP+400"
+	"PV+400"
 	end
 }
 script 47 mmbn5s {
-	"HP+500"
+	"PV+500"
 	end
 }
 script 48 mmbn5s {
-	"RUN!"
+	"EXECUTAR!"
 	end
 }

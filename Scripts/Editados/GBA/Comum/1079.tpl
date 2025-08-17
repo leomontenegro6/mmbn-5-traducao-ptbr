@@ -5,9 +5,8 @@ script 0 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Feel the wrath
-	of my divine
-	punishment!
+	Sintam a fúria da
+	minha punição divina!
 	"""
 	keyWait
 		any = false
@@ -32,32 +31,35 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	"""
 	CloudMan!
-	Give it up!
+	Se rende!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"He won't,of course."
+	"Claro que ele não vai..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His combat ability
-	is incredibly high.
-	Be careful,MegaMan.
+	As habilidades de combate
+	dele são das boas.
+	Cuidado, MegaMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -67,36 +69,42 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	"""
 	CloudMan!
-	Give it up!
+	Renda-se!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He won't,of course."
+	"""
+	Hmpf.
+	Claro que ele não vai.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's right!"
+	"Pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His combat ability
-	is incredibly high.
-	Be careful,ProtoMan.
+	As habilidades de combate
+	dele são das boas.
+	Cuidado, ProtoMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -106,36 +114,42 @@ script 12 mmbn5 {
 		mugshot = GyroMan
 	"""
 	CloudMan!
-	Give it up!
+	Se rende aí!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He won't,of course."
+	"""
+	Hmpf.
+	Claro que ele não vai.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's right!"
+	"Pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His combat ability
-	is incredibly high.
-	Careful,GyroMan!
+	As habilidades de combate
+	dele são das boas.
+	Cuidado, GyroMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GyroMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -145,32 +159,38 @@ script 15 mmbn5 {
 		mugshot = MagnetMan
 	"""
 	CloudMan!
-	Give it up!
+	Desiste logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"He won't,of course."
-	keyWait
-		any = false
-	clearMsg
 	"""
-	His combat ability
-	is incredibly high.
-	Careful,MagnetMan!
+	Hmpf.
+	Claro que ele não vai.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	As habilidades de combate
+	dele são das boas.
+	Cuidado, MagnetMan!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MagnetMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -180,36 +200,42 @@ script 17 mmbn5 {
 		mugshot = Colonel
 	"""
 	CloudMan!
-	Give it up!
+	Renda-se!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He won't,of course."
+	"""
+	Hmpf.
+	Claro que ele não vai.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's right!"
+	"Pois é!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His combat ability
-	is incredibly high.
-	Careful,Colonel!
+	As habilidades de combate
+	dele são das boas.
+	Cuidado, Colonel!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -218,33 +244,37 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	"""
-	We won't change his
-	mind by talking.
+	Ele jamais será
+	convencido só com
+	palavras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"I agree."
+	"Concordo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His combat ability
-	is incredibly high.
-	Careful,ShadowMan!
+	As habilidades de combate
+	dele são das boas.
+	Cuidado, ShadowMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ShadowMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -253,25 +283,28 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	"""
-	Show me what you've
-	got! Fight me!
+	Mostre-me do que é
+	capaz! Enfrente-me!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Go,KnightMan!"
+	"Vai, KnightMan!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = KnightMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end

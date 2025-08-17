@@ -5,26 +5,27 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS IS PART OF
-	THE CHIP MAKER.
+	ESTA É UMA PARTE DA
+	CONSTRUTORA DE CHIPS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DARKCHIPS ARE
-	MADE HERE.
+	É AQUI QUE OS CHIPS
+	DAS TREVAS SÃO
+	PRODUZIDOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S NOTHING
-	ELSE TO SAY.
+	NÃO HÁ MAIS NADA
+	A SER DITO.
 	"""
 	keyWait
 		any = false
@@ -35,16 +36,17 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE PROGRAM FURTHER
-	ON IS BEYOND REPAIR.
+	O PROGRAMA MAIS
+	ADIANTE NÃO TEM MAIS
+	SALVAÇÃO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S ABSORBED A
-	DARK NOXIOUS
-	FORCE.
+	ELE ABSORVEU UMA
+	FORÇA SOMBRIA
+	ULTRA-TÓXICA.
 	"""
 	keyWait
 		any = false
@@ -54,20 +56,20 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HEH HEH HEH."
+	"HE HE HE."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I WON'T OBEY
-	NO ONE NO MORE.
+	EU NÃO VOU
+	OBEDECER NINGUÉM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YEP,I'M A BRAND
-	NEW PROGRAM!
+	É, EU SOU UM PROGRAMA
+	NOVO AGORA!
 	"""
 	keyWait
 		any = false

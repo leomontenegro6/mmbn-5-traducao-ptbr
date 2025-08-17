@@ -4,26 +4,27 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Whatcha want,kid?"
+	"Quê que cê quer, guri?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's in charge
-	of this area now.
+	É a Nebula que tá no
+	comando desta área
+	agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know what we do
-	with Navis who waltz
-	into our areas?
+	E sabe o que a gente
+	faz com Navis que
+	entram na nossa área?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Delete them!"
+	"A gente deleta!"
 	keyWait
 		any = false
 	flagSet
@@ -44,8 +45,8 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO ACDC
-	AREA2!
+	BEM-VINDO À ÁREA
+	ACDC 2!
 	"""
 	keyWait
 		any = false
@@ -56,17 +57,17 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Unless you put your
-	BattleChips into a
-	folder,
+	Você PRECISA inserir
+	os seus chips em uma
+	pasta, senão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they won't come up
-	in battle! Be sure
-	to edit your chips!
+	eles não aparecem
+	durante as lutas!
+	Sempre edite seus chips!
 	"""
 	keyWait
 		any = false
@@ -77,41 +78,41 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SPIC AND SPAN! AFTER
-	WE GO BY EVERYTHING
-	IS SPIC AND SPAN!
+	BRILHANDO! DEPOIS
+	QUE A GENTE PASSA,
+	TUDO FICA BRILHANDO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OOPS!"
+	"OPA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GUESS YOU'VE
-	FIGURED OUT WHAT WE
-	ARE!
+	ACHO QUE VOCÊ JÁ
+	ENTENDEU O QUE NÓS
+	SOMOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"THAT'S RIGHT!"
+	"É ISSO AÍ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE'RE THE ONES THAT
-	KEEP THE NET
-	SPARKLY CLEAN!
+	SOMOS NÓS QUEM
+	MANTEMOS A REDE
+	LIMPINHA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DO US A FAVOR AND
-	DON'T LEAVE YOUR
-	TRASH AROUND!
+	FAÇA UM FAVOR PARA
+	NÓS E NÃO JOGUE LIXO
+	NO CHÃO!
 	"""
 	keyWait
 		any = false
@@ -128,33 +129,31 @@ script 7 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	Guts guts guts!
-	MegaMan,is that
-	you?!
+	Guts, Guts, Guts!
+	É você, MegaMan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hello,GutsMan!"
+	"Oi, GutsMan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = GutsMan
 	"""
-	I'm trading chips
-	with Glide right
-	now!
+	Eu tô trocando chips
+	com o Glide agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That Yai sure gives
-	her Navi some great
-	chips!
+	Aquela Yai dá mesmo uns
+	chips incríveis pro Navi
+	dela!
 	"""
 	keyWait
 		any = false
@@ -170,19 +169,18 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hello,Glide!"
+	"Oi, Glide!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Glide
-	"Why,hello,MegaMan."
+	"Ah, olá, MegaMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What brings you
-	here?
+	O que o traz aqui?
 	"""
 	keyWait
 		any = false
@@ -190,29 +188,29 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	I'm running an
-	errand for Mom.
+	Eu tô fazendo um favor
+	pra minha mãe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Glide
-	"How kind of you!"
+	"Mas que gentileza!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yai could learn a
-	few things from a
-	nice lad like Lan.
+	A Yai poderia aprender
+	um tanto com um menino
+	exemplar como o Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er,don't tell her I
-	said that!
+	Er, não conte a ela
+	que eu disse isso!
 	"""
 	keyWait
 		any = false
@@ -223,9 +221,9 @@ script 9 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	I'm gonna get lotsa
-	chips so Dex and I
-	can beat anybody!
+	Vou conseguir um monte
+	de chips pro Dex e eu
+	vencermos geral! Guts!
 	"""
 	keyWait
 		any = false
@@ -236,24 +234,24 @@ script 10 mmbn5 {
 		mugshot = Glide
 	msgOpen
 	"""
-	I was trading chips
-	with GutsMan,
+	Eu estava trocando
+	chips com GutsMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	which is one of the
-	main forms of
-	communication
+	esta sendo uma das
+	principais formas de
+	comunicação entre
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	between NetBattlers.
-	Another is Net
-	Battling itself.
+	NetLutadores.
+	A outra é a própria
+	NetLuta.
 	"""
 	keyWait
 		any = false
@@ -269,8 +267,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,this is not the
-	way to KitchenComp!
+	Lan, não é por aqui
+	que se chega no CPU
+	Cozinha!
 	"""
 	keyWait
 		any = false
@@ -281,8 +280,9 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,Dad's waiting!
-	Let's go to SciLab!
+	Lan, o papai tá
+	esperando!
+	Bora lá pro SciLab!
 	"""
 	keyWait
 		any = false
@@ -293,23 +293,23 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS AREA WAS
-	SUDDENLY TAKEN OVER
+	ESTA ÁREA FOI TOMADA
+	DE REPENTE POR UM
+	GRUPO DE NAVIS
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BY A BAND OF ROGUE
-	NAVIS!
+	CRIMINOSOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'D BETTER ESCAPE
-	BEFORE IT'S TOO
-	LATE!
+	É MELHOR VOCÊ SAIR
+	DAQUI ANTES QUE SEJA
+	TARDE DEMAIS!
 	"""
 	keyWait
 		any = false
@@ -320,9 +320,9 @@ script 16 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Shh! Don't talk to
-	me! You'll blow my
-	cover!
+	Shh! Não fala comigo!
+	Vão descobrir onde eu
+	tô!
 	"""
 	keyWait
 		any = false
@@ -338,16 +338,16 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Access to ACDC Area3
-	is open
+	O acesso à Área ACDC 3
+	está liberado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but roads beyond
-	that are still under
-	construction.
+	mas as estradas além
+	dela ainda estão em
+	construção.
 	"""
 	keyWait
 		any = false
@@ -358,16 +358,16 @@ script 21 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	I heard there was
-	some kind of scene
-	and came right away.
+	Disseram que rolou
+	algum barraco aí,
+	então eu vim correndo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I missed the
-	mayhem! Oh,phooey!
+	Mas parece que eu
+	perdi o show! Poxa!
 	"""
 	keyWait
 		any = false
@@ -378,24 +378,24 @@ script 22 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I don't have enough
-	money to buy the new
-	chip I want.
+	Eu não tenho dinheiro o
+	bastante pro chip novo
+	que eu quero.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if I can
-	find some change
-	lying around⋯
+	Será que eu encontro
+	uns troquinhos por aqui,
+	pelo chão...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"*glance glance*"
+	"Olhando... Olhando..."
 	keyWait
 		any = false
 	end
@@ -405,9 +405,9 @@ script 23 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I heard that the
-	path to Oran Area
-	was restored.
+	Ouvi falar que o
+	caminho pra Área
+	Oran foi restaurado.
 	"""
 	keyWait
 		any = false
@@ -418,17 +418,15 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,is it time for
-	a liberation
-	mission?
+	Lan, já tá na hora da
+	missão de liberação?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't edit
-	folders on the
-	mission. Still OK?
+	Não dá pra editar pastas
+	durante ela. Tudo bem?
 	"""
 	keyWait
 		any = false
@@ -444,7 +442,7 @@ script 30 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -453,7 +451,7 @@ script 30 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -468,8 +466,8 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Beleza, Lan.
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -483,13 +481,13 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false

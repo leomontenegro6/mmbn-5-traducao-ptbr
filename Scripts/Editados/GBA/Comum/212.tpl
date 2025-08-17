@@ -25,16 +25,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A floor panel is
-	pulled up slightly.
+	Um painel do chão está
+	levemente puxado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like
-	someone once removed
-	then replaced it.
+	Parece que alguém
+	tirou e substituiu
+	ele no passado.
 	"""
 	keyWait
 		any = false

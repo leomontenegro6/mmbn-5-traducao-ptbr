@@ -18,9 +18,8 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	"""
-	I can't let you
-	go beyond
-	this point.
+	Não posso permitir
+	que passe além daqui.
 	"""
 	keyWait
 		any = false
@@ -45,29 +44,28 @@ script 2 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	NebulaArea is
-	the birthplace
-	of the Darkloids.
+	A Área Nebula é o
+	berço dos Darkloides.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"That's all it is."
+	"Simples assim."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	King Chaos
-	doesn't have his
-	own physical form.
+	O Senhor do Caos
+	não possui uma forma
+	física própria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He takes the form
-	of any individual
-	who feels hate.
+	Ele assume a forma
+	de todo indivíduo
+	que sente ódio.
 	"""
 	keyWait
 		any = false
@@ -95,13 +93,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Come,then."
+	"Venha, então."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	See if you can
-	defeat me.
+	Vejamos se é capaz
+	de me derrotar.
 	"""
 	keyWait
 		any = false
@@ -145,7 +143,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"MegaMan⋯"
+	"MegaMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -157,9 +155,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -171,7 +169,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's going on?!"
+	"O que tá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -182,11 +180,14 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaMan,get ready!"
+	"MegaMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -197,7 +198,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -206,7 +207,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"ProtoMan⋯"
+	"ProtoMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -218,9 +219,9 @@ script 16 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -232,7 +233,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"What's going on?!"
+	"O que está havendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -243,11 +244,14 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"ProtoMan,get ready!"
+	"ProtoMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -258,7 +262,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -267,7 +271,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"GyroMan⋯"
+	"GyroMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -279,9 +283,9 @@ script 21 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -293,7 +297,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"What's going on?!"
+	"O que tá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -304,11 +308,14 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"GyroMan,get ready!"
+	"GyroMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -319,7 +326,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -328,7 +335,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"MagnetMan⋯"
+	"MagnetMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -340,9 +347,9 @@ script 36 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -354,7 +361,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"What's going on?!"
+	"O que tá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -365,11 +372,14 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MagnetMn,get ready!"
+	"MagnetMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -380,7 +390,7 @@ script 39 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -389,7 +399,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Meddy⋯"
+	"Meddy..."
 	keyWait
 		any = false
 	clearMsg
@@ -401,9 +411,9 @@ script 41 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -415,7 +425,7 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"What's going on?!"
+	"O que tá acontecendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -426,11 +436,14 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Meddy,get ready!"
+	"Meddy, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -441,7 +454,7 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -450,7 +463,7 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Colonel⋯"
+	"Colonel..."
 	keyWait
 		any = false
 	clearMsg
@@ -462,9 +475,9 @@ script 46 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -476,7 +489,7 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"What's going on?!"
+	"O que está havendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -487,11 +500,14 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Colonel,get ready!"
+	"Colonel, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -502,7 +518,7 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -511,7 +527,7 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"ShadowMan⋯"
+	"ShadowMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -523,9 +539,9 @@ script 51 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -537,7 +553,7 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"What's going on?"
+	"O que está havendo?!"
 	keyWait
 		any = false
 	clearMsg
@@ -548,11 +564,14 @@ script 53 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"ShadowMan,get ready!"
+	"ShadowMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -563,7 +582,7 @@ script 54 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -572,7 +591,7 @@ script 65 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"KnightMan⋯"
+	"KnightMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -584,9 +603,9 @@ script 66 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -598,7 +617,7 @@ script 67 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"⋯?"
+	"...?"
 	keyWait
 		any = false
 	clearMsg
@@ -609,11 +628,14 @@ script 68 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"KnightMn,get ready!"
+	"KnightMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -624,7 +646,7 @@ script 69 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -633,7 +655,7 @@ script 70 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Toadman⋯"
+	"Toadman..."
 	keyWait
 		any = false
 	clearMsg
@@ -645,9 +667,9 @@ script 71 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	CosmoMan! Are
-	you one of
-	King Chaos' men?
+	CosmoMan! Você é
+	um dos homens do
+	Senhor do Caos, coaxo?!
 	"""
 	keyWait
 		any = false
@@ -659,7 +681,7 @@ script 72 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"What's up?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -670,11 +692,14 @@ script 73 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"ToadMan,get ready!"
+	"ToadMan, em posição!"
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -685,7 +710,7 @@ script 74 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end

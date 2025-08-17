@@ -21,7 +21,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -31,8 +31,8 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -47,23 +47,23 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I hope s-someone
-	gets r-rid of Nebula
-	soon.
+	E-eu espero q-que
+	alguém se l-livre da
+	Nebula logo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't do business
-	like this.
+	Assim não dá pra
+	trabalhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -76,7 +76,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -85,7 +85,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -102,8 +102,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	The NetDealer's
-	gone.
+	O NetVendedor foi
+	embora.
 	"""
 	keyWait
 		any = false
@@ -118,8 +118,8 @@ script 5 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -132,7 +132,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -141,7 +141,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

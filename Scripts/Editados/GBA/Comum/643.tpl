@@ -39,16 +39,16 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UUUH⋯
-	I WANNA MESS UP THE
-	RADAR REAL BAD!!!
+	UUUNNGH...
+	EU QUERO TANTO
+	ESTRAGAR O RADAR!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I REALLY WANNA
-	ANNOY SOMEONE!
+	QUERO TANTO
+	IRRITAR ALGUÉM!
 	"""
 	keyWait
 		any = false
@@ -59,15 +59,15 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WANNA MAKE SOMEONE
-	REALLY CONFUSED!
+	EU QUERO DEIXAR
+	ALGUÉM TODO CONFUSO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S WHY I'M GONNA
-	MESS UP THE RADAR!
+	E, PRA ISSO, EU
+	VOU MEXER NO RADAR!
 	"""
 	keyWait
 		any = false
@@ -77,13 +77,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I STILL FEEL DIZZY⋯"
+	"EU AINDA TÔ TONTO..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A BIT LIKE I'M
-	SEASICK.
+	É TIPO A SENSAÇÃO
+	DE FICAR ENJOADO
+	EM UM BARCO.
 	"""
 	keyWait
 		any = false
@@ -94,9 +95,9 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I THINK I MIGHT'VE
-	BEEN MOUTHING OFF
-	ABOUT WORK.
+	ACHO QUE EU ESTAVA
+	FALANDO MAL DO
+	TRABALHO...?
 	"""
 	keyWait
 		any = false
@@ -107,22 +108,22 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE RADAR'S A-OK!
-	NOTHING TO DO NOW⋯
-	*YAWN*
+	O RADAR ESTÁ EM
+	PERFEITO ESTADO! NADA
+	A FAZER AGORA... UAAH.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SURE GLAD
-	I ADDED A YAWN
-	FUNCTION!
+	NOSSA, AINDA BEM
+	QUE EU INSTALEI UMA
+	FUNÇÃO DE BOCEJO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"*YAWN*"
+	"UAAAAAHHH..."
 	keyWait
 		any = false
 	end
@@ -132,13 +133,13 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	NO MALFUNCTIONS.
-	THIS IS SO BORING.
+	NADA A RELATAR.
+	AH, QUE TÉDIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BRING ON A STORM!"
+	"APARECE LOGO UMA\nTEMPESTADE AÍ!"
 	keyWait
 		any = false
 	end

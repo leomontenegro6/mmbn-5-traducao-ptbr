@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,you gotta
-	disable the door's
-	electronic lock!
+	MegaMan, você tem que
+	desativar a tranca
+	eletrônica da porta!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!!!"
+	"Pode deixar!!!"
 	keyWait
 		any = false
 	end
@@ -29,8 +29,8 @@ script 2 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	MagnetMan,give
-	it all you got!
+	MagnetMan,
+	manda ver aí!
 	"""
 	keyWait
 		any = false
@@ -42,7 +42,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Yes,Ms. Tesla!"
+	"Sim, Srta. Tesla!"
 	keyWait
 		any = false
 	clearMsg
@@ -54,7 +54,7 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go for it,
+	Vamos nessa,
 	MagnetMan!
 	"""
 	keyWait
@@ -67,13 +67,15 @@ script 5 mmbn5 {
 	msgOpen
 	"""
 	Hmph!
-	Don't get the wrong
-	idea. I'm doing this
+	Não me entenda mal.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"for Ms. Tesla!"
+	"""
+	Eu só estou fazendo
+	isso pela Srta. Tesla!
+	"""
 	keyWait
 		any = false
 	end
@@ -83,8 +85,8 @@ script 6 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	KnightMan,I'm
-	counting on you!
+	KnightMan,
+	conto com você!
 	"""
 	keyWait
 		any = false
@@ -97,8 +99,8 @@ script 7 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Leave it to me,
-	Lady Pride.
+	Não a desapontarei,
+	Sua Alteza.
 	"""
 	keyWait
 		any = false
@@ -111,7 +113,7 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go for it,
+	Vamos nessa,
 	KnightMan!
 	"""
 	keyWait
@@ -123,9 +125,9 @@ script 9 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	I'm with you! We'll
-	bask together in the
-	glory of battle!
+	Avante! Vamos, juntos,
+	ser banhados pela
+	glória da batalha!
 	"""
 	keyWait
 		any = false
@@ -136,30 +138,29 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	In battle,it's
-	crucial to work with
-	your teammate!
+	Durante as lutas, é
+	vital trabalhar com
+	seu colega de equipe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press Select to
-	switch Navis.
+	Aperte "Select"
+	pra trocar de Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go
-	full blast!!!
+	Vamos com tudo!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Gotcha!!!"
+	"É!!!"
 	keyWait
 		any = false
 	end

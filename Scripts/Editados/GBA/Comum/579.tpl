@@ -5,23 +5,24 @@ script 0 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I STORE AND RECREATE
-	BATTLES FOUGHT IN
-	THIS AREA.
+	EU ARMAZENO E RECRIO
+	LUTAS TRAVADAS NESTA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	RELIVE A BATTLE
+	VOCÊ GOSTARIA DE
+	REPETIR UMA BATALHA
+	QUE SE DEU ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN NEBULA AND A
-	CERTAIN NAVI TEAM?
+	A NEBULA E UMA CERTA
+	EQUIPE DE NAVIS?
 	"""
 	keyWait
 		any = false
@@ -37,7 +38,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -46,7 +47,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -60,7 +61,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -69,18 +70,17 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"VERY WELL⋯"
+	"POIS BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHALL
-	RECREATE IT⋯
+	EU A RECRIAREI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯GO!!!"
+	"... AGORA!!!"
 	keyWait
 		any = false
 	flagSet
@@ -91,7 +91,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"AN EPIC BATTLE!"
+	"QUE BATALHA ÉPICA!"
 	keyWait
 		any = false
 	clearMsg
@@ -102,7 +102,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"TOO BAD⋯"
+	"QUE PENA..."
 	keyWait
 		any = false
 	clearMsg
@@ -114,8 +114,9 @@ script 4 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	SOMETIMES RETREAT IS
-	THE BEST STRATEGY⋯
+	HÁ VEZES EM QUE
+	RECUAR É A MELHOR
+	ESTRATÉGIA...
 	"""
 	keyWait
 		any = false
@@ -125,15 +126,15 @@ script 4 mmbn5 {
 }
 script 5 mmbn5 {
 	"""
-	IF YOU EVER WANT TO
-	EXPERIENCE THAT
+	SE QUISER REPETIR
+	AQUELA BATALHA DE
+	NOVO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BATTLE AGAIN,JUST
-	LET ME KNOW.
+	É SO ME AVISAR.
 	"""
 	keyWait
 		any = false
@@ -153,57 +154,58 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"⋯Hey."
+	"... Fala."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ya know "Solar Boy
-	Django"? It's really
-	popular on the Net.
+	Cê conhece "Django,
+	o Garoto Solar"?
+	É super popular na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯I'm a huge fan."
+	"... Eu sou mó fã."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Cool stuff's on the
-	Net and Undernet.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I was the one who
-	posted about Django
-	on the UnderBBS.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"By the way⋯"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I also collect lots
-	of stuff related to
-	Django.
+	É um bagulho incrível,
+	adorado na Rede e na
+	Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I can't seem to
-	find everything⋯
+	Fui eu quem postou
+	sobre o Django no
+	UnderFórum.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"The \""
+	"Aliás..."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu também coleciono
+	bagulhos relacionados
+	ao Django.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas não consigo achar
+	tudo...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"O chip \""
 	printChip
 		buffer = 0
 		chip = 34
@@ -212,16 +214,16 @@ script 6 mmbn5 {
 		buffer = 0
 		code = D
 	"""
-	"
-	BattleChip is really
-	hard to find.
+	",
+	por exemplo, é tão
+	difícil de achar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you had one,would
-	ya give it to me?
+	Cê tem um aí?
+	Se tiver, me descola?
 	"""
 	keyWait
 		any = false
@@ -237,7 +239,7 @@ script 6 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Claro "
 	option
 		brackets = 0
 		left = 0
@@ -246,7 +248,7 @@ script 6 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -261,7 +263,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"⋯Whatever."
+	"... Tá."
 	keyWait
 		any = false
 	end
@@ -279,7 +281,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"You're the best!"
+	"Cê é firmeza!"
 	keyWait
 		any = false
 	clearMsg
@@ -289,8 +291,7 @@ script 7 mmbn5 {
 		code = D
 		amount = 1
 	"""
-	MegaMan gave
-	away his
+	MegaMan deu o
 	"
 	"""
 	printChip
@@ -300,24 +301,24 @@ script 7 mmbn5 {
 	printCode
 		buffer = 0
 		code = D
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviBlack
 	"""
-	Don't have anything
-	to give you in
-	return 'cept this⋯
+	Mas eu não tenho nada
+	pra te dar em troca...
+	Só isto aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	"91098051"
-	It's a lotto number!
-	Don't forget it.
+	"91098051"!
+	É um número de loteria!
+	Não vá esquecer.
 	"""
 	keyWait
 		any = false
@@ -328,8 +329,8 @@ script 8 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Man,I got my hopes
-	up for nothing⋯
+	Pô, eu fiquei todo
+	animado à toa...
 	"""
 	keyWait
 		any = false
@@ -340,16 +341,16 @@ script 9 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	"91098051." A lotto
-	number to say
-	thanks!
+	"91098051".
+	Um número de loteria
+	pra agradecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I won't forget this.
-	I owe you big time.
+	Eu não vou esquecer
+	isso. Te devo demais!
 	"""
 	keyWait
 		any = false
@@ -360,16 +361,16 @@ script 10 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	⋯Hey. So you've
-	reconsidered?
+	... Opa.
+	E aí, mudou de ideia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a huge Django
-	fan. Ya gotta give
-	me "
+	Eu sou um mega fã do
+	Django. Descola aí um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -378,7 +379,7 @@ script 10 mmbn5 {
 	printCode
 		buffer = 0
 		code = D
-	".\""
+	"\"..."
 	keyWait
 		any = false
 	clearMsg
@@ -393,7 +394,7 @@ script 10 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Claro "
 	option
 		brackets = 0
 		left = 0
@@ -402,7 +403,7 @@ script 10 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -417,7 +418,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"⋯Whatever."
+	"... Tá."
 	keyWait
 		any = false
 	end

@@ -60,8 +60,8 @@ script 7 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Don't underestimate
-	the Darkloids!
+	Não subestimem
+	os Darkloides!
 	"""
 	keyWait
 		any = false
@@ -82,9 +82,9 @@ script 11 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	You still aren't
-	good enough to
-	beat me!
+	Você ainda não é
+	forte o bastante
+	para me vencer!
 	"""
 	keyWait
 		any = false
@@ -95,9 +95,9 @@ script 12 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Grr! I can't
-	believe I've been
-	disgraced again⋯!
+	Grr! Não acredito
+	que fui humilhado
+	mais uma vez...!
 	"""
 	keyWait
 		any = false
@@ -116,9 +116,9 @@ script 14 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Running away?
-	Too bad. I wanted
-	to crush you!
+	Ora, vai fugir?
+	Que pena. Eu queria
+	tanto destrui-los!
 	"""
 	keyWait
 		any = false
@@ -129,8 +129,8 @@ script 15 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Heh heh⋯
-	Let's party!
+	He he...
+	Hora da festa!
 	"""
 	keyWait
 		any = false

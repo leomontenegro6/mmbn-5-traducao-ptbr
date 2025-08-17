@@ -5,33 +5,33 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	We managed to free
-	the Net from
-	Nebula this time
+	Tivemos sucesso em
+	liberar a Rede da
+	Nebula desta vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but many fierce
-	Navis continue to
-	fight on their side.
+	mas ainda restam
+	diversos Navis poderosos
+	do lado deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MagnetMan,won't you
-	take up the good
-	fight and join us?
+	MagnetMan, aceitaria
+	lutar ao nosso lado?
+	Pelo bem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your defensive
-	powers would be a
-	great asset to us.
+	Os seus poderes
+	defensivos seriam
+	de grande utilidade.
 	"""
 	keyWait
 		any = false
@@ -43,22 +43,22 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"You must be joking."
+	"Cê só pode tá brincando."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I would never
-	willingly fight at
-	your side.
+	Eu nunca lutaria do
+	seu lado por vontade
+	própria.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even this time,if it
-	weren't for Tesla's
-	orders⋯
+	Incluindo esta vez.
+	Se não fossem
+	ordens da Tesla...
 	"""
 	keyWait
 		any = false
@@ -71,31 +71,31 @@ script 2 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I think it sounds
-	great,MagnetMan.
+	Eu simplesmente amei
+	a ideia, MagnetMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's given us
-	plenty of trouble.
+	A Nebula já nos deu
+	muita dor cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In fact,they're the
-	prime cause of my
-	stress these days.
+	Aliás, eles são a
+	principal causa pro
+	meu estresse recente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it would help
-	punish Nebula,I say,
-	join up!
+	Se for ajudar a dar
+	uma lição neles, acho
+	uma boa você ajudar!
 	"""
 	keyWait
 		any = false
@@ -103,13 +103,13 @@ script 2 mmbn5 {
 	"MagnetMan・"
 	waitSkip
 		frames = 30
-	"please・"
+	"por・"
 	waitSkip
 		frames = 30
-	"\npretty・"
+	"\nfa・"
 	waitSkip
 		frames = 30
-	"please?"
+	"vor?"
 	keyWait
 		any = false
 	clearMsg
@@ -120,7 +120,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Y⋯Yes'm⋯"
+	"S... sim, senhora..."
 	keyWait
 		any = false
 	clearMsg
@@ -132,8 +132,8 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Heh! Then it's
-	settled.
+	He!
+	Então, está decidido.
 	"""
 	keyWait
 		any = false
@@ -145,23 +145,23 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Er⋯Ergg⋯"
+	"Er... Erg..."
 	keyWait
 		any = false
 	clearMsg
-	"Very well."
+	"Tá bom, então."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hee hee!"
+	"He he!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MagnetMan
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	clearMsg
@@ -173,16 +173,15 @@ script 6 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Well,you may not
-	care to hear me say
-	this
+	Bom, você pode não
+	gostar de ME ouvir
+	dizer isso, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but welcome to the
-	team.
+	bem-vindo ao time.
 	"""
 	keyWait
 		any = false
@@ -193,16 +192,16 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Good to have you
-	with us,MagnetMan!
+	É bom ter você com
+	a gente, MagnetMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My soul resonates
-	with your staunch
-	defensive power!
+	A minha alma ressoou
+	com o seu rígido
+	poder defensivo!
 	"""
 	keyWait
 		any = false
@@ -214,8 +213,8 @@ script 7 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	MegaMan's soul
-	resonated with
+	A alma de MegaMan
+	ressou com a de
 	MagnetMan!
 	"""
 	keyWait
@@ -229,7 +228,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	end
@@ -238,14 +237,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Heh."
+	"He."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall be
-	contacting you
-	again.
+	Entrarei em contato
+	de novo em breve.
 	"""
 	keyWait
 		any = false
@@ -256,15 +254,15 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's jack out,
-	too.
+	Lan, vamos desconectar
+	também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our friends must be
-	waiting for us.
+	Os nossos amigos devem
+	tá esperando a gente.
 	"""
 	keyWait
 		any = false
@@ -274,7 +272,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You too,MagnetMan!"
+	"Você também, MagnetMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -285,7 +283,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Just my luck⋯"
+	"Eu mereço..."
 	keyWait
 		any = false
 	end
@@ -295,36 +293,37 @@ script 13 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	We managed to free
-	the Net from
-	Nebula this time
+	Tivemos sucesso em
+	liberar a Rede da
+	Nebula desta vez,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but many fierce
-	Navis continue to
-	fight on their side.
+	mas ainda restam
+	diversos Navis poderosos
+	do lado deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯KnightMan,won't you"
+	"... KnightMan,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	take up the good
-	fight and join us?
+	você aceitaria entrar
+	para a nossa luta
+	contra o mal?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your defensive
-	powers would be a
-	great asset to us.
+	Os seus poderes
+	defensivos seriam
+	de grande utilidade.
 	"""
 	keyWait
 		any = false
@@ -337,9 +336,9 @@ script 14 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Thank you,but it is
-	my duty to protect
-	Princess Pride.
+	Fico lisonjeado, mas
+	meu dever é proteger
+	a Princesa Pride.
 	"""
 	keyWait
 		any = false
@@ -352,16 +351,16 @@ script 15 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	KnightMan,don't
-	worry about me.
+	KnightMan, não se
+	preocupe comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lend them your power
-	if it will help the
-	team.
+	Empreste a eles seu
+	poder, se isso for
+	ajudar a equipe.
 	"""
 	keyWait
 		any = false
@@ -373,14 +372,14 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"But,Princess⋯"
+	"Mas, Princesa..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Pride
 	"""
-	I'll be fine,
+	Eu ficarei bem,
 	KnightMan!
 	"""
 	keyWait
@@ -388,13 +387,13 @@ script 16 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = KnightMan
-	"Yes,Princess⋯"
+	"Pois bem, Princesa..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hee hee!"
+	"Hi hi!"
 	keyWait
 		any = false
 	clearMsg
@@ -405,7 +404,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Then it's settled."
+	"Então, está resolvido."
 	keyWait
 		any = false
 	clearMsg
@@ -417,9 +416,9 @@ script 18 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	For the Pride of
-	Creamland,I will
-	fight bravely!
+	Pelo orgulho da
+	Brilholândia, eu
+	lutarei bravamente!
 	"""
 	keyWait
 		any = false
@@ -432,8 +431,8 @@ script 19 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	KnightMan,
-	welcome to the team.
+	Bem-vindo à equipe,
+	KnightMan!
 	"""
 	keyWait
 		any = false
@@ -444,16 +443,16 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Good to have you
-	aboard,KnightMan!
+	É bom ter você com
+	a gente, KnightMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My soul resonates
-	with your nerves of
-	steel!
+	A minha alma ressoou
+	com os seus nervos
+	de aço!
 	"""
 	keyWait
 		any = false
@@ -465,8 +464,8 @@ script 20 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	MegaMan's soul
-	resonated with
+	A alma de MegaMan
+	ressou com a de
 	KnightMan!
 	"""
 	keyWait
@@ -480,7 +479,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Why,thank you."
+	"Ora, muito obrigado."
 	keyWait
 		any = false
 	end
@@ -490,9 +489,9 @@ script 22 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I shall be
-	contacting you
-	again.
+	Entrarei em contato
+	de novo quando
+	chegar a hora.
 	"""
 	keyWait
 		any = false
@@ -503,15 +502,15 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's jack out,
-	too.
+	Lan, vamos desconectar
+	também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our friends must be
-	waiting for us.
+	Os nossos amigos devem
+	tá esperando a gente.
 	"""
 	keyWait
 		any = false
@@ -521,7 +520,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You too,KnightMan!"
+	"Você também, KnightMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -532,7 +531,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Yes!"
+	"Claro!"
 	keyWait
 		any = false
 	end

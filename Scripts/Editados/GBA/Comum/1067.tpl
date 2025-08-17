@@ -58,9 +58,9 @@ script 10 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	Who wants the
-	first taste of my
-	MegaBuster?
+	Quem quer ser o
+	primeiro a sentir
+	o meu MegaAtirador?
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 11 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	You're good. But
-	the DarkPower makes
-	me invincible!
+	Você é bom. Mas o
+	Poder das Trevas me
+	torna invencível!
 	"""
 	keyWait
 		any = false
@@ -84,19 +84,19 @@ script 12 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	What?! No⋯!
-	I-I thought I
-	was invincible⋯
+	O quê?! Não...!
+	E-eu achei que
+	fosse invencível...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Waaaahh!"
+	"Uaaaahhhr!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"L⋯Lan⋯"
+	"L... Lan..."
 	keyWait
 		any = false
 	end
@@ -110,15 +110,16 @@ script 14 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	Running off?
-	Good move!
+	Vão fugir?
+	Inteligentes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'd better
-	train harder!
+	Vão ter que treinar
+	muito ainda se quiserem
+	me desafiar!
 	"""
 	keyWait
 		any = false

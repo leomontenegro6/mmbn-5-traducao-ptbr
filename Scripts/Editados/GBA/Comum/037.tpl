@@ -5,57 +5,58 @@ script 0 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	Let me teach you
-	the basics of
-	virus busting!
+	Vou lhe ensinar o
+	básico da deleção
+	de vírus!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm Mr.Prog. My
-	speech ability has
+	Eu sou um Prog.
+	Minha capacidade de
+	fala foi aprimorada
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	been augmented so
-	that I can explain
-	things to you.
+	para me permitir
+	explicar as coisas
+	a você devidamente;.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Pleased to meet you!"
+	"Muito prazer!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In this mode,you
-	can't use the
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	+Control Pad to move
-	your Navi. Instead,
+	Neste modo, você não
+	pode usar os direcionais
+	para mover o seu Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you input commands
-	beforehand for
-	your Navi to follow.
+	Em vez disso,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me show you
-	how to do it!
+	você ordena comandos
+	de antemão que o seu
+	Navi irá seguir.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vou lhe mostrar como
+	se faz!
 	"""
 	keyWait
 		any = false
@@ -80,9 +81,9 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	The Strategy Screen
-	lets you choose the
-	enemy to attack.
+	A Tela de Estratégia
+	lhe permite selecionar
+	o Navi para atacar.
 	"""
 	keyWait
 		any = false
@@ -107,8 +108,9 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Available chips are
-	shown at bottom.
+	Os chips disponíveis
+	ficam à mostra na
+	parte de baixo.
 	"""
 	keyWait
 		any = false
@@ -133,16 +135,16 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Press R Button to
-	read descriptions
-	for each chip.
+	Aperte "R" para
+	ler as descrições
+	de cada chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,try choosing
-	an enemy to hit!
+	Agora, escolha um
+	inimigo para atingir!
 	"""
 	keyWait
 		any = false
@@ -153,8 +155,8 @@ script 4 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	Don't worry about
-	getting hit for now.
+	Não se preocupe com
+	levar danos agora.
 	"""
 	keyWait
 		any = false
@@ -179,31 +181,29 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Next,set the
-	distance to
-	the enemy.
+	A seguir, defina a
+	distância do inimigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Navi will
-	maintain it so
+	O seu Navi, então,
+	irá mantê-la. Defina-a
+	com base no ataque que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	set it,based on
-	the attack that
-	you plan to use.
+	você planeja usar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's try setting
-	the distance!
+	Vamos tentar
+	configurar a distância!
 	"""
 	keyWait
 		any = false
@@ -214,48 +214,46 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Time to battle!
-	Your Navi will
+	Hora da luta!
+	O seu Navi irá manter
+	a distância que você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	maintain the
-	distance you've
-	just set.
+	acabou de definir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press R Button or
-	L Button to give
-	your Navi attack
+	Aperte "R" e "L"
+	para dar ao seu Navi
+	comandos de ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	commands.
-	Every Navi has
-	different attacks,
+	Cada Navi possui
+	ataques diferentes,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like Shield or
-	PowerAttack. Keep
-	that in mind! Now,
+	como escudos ou
+	tiros carregados.
+	Lembre-se bem disso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the most important
-	part: using chips
-	to attack!
+	E, agora, a parte mais
+	importante: usar chips
+	para atacar!
 	"""
 	keyWait
 		any = false
@@ -266,39 +264,40 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	This is your
-	Cust Gauge!
+	Esta é a sua Barra
+	de Customização!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be full in
-	order to use chips.
+	Para usar chips,
+	ela precisa estar
+	cheia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It fills gradually
-	as time passes. It
-	turns from yellow
+	Ele se enche gradual-
+	mente com o passar do
+	tempo, indo de amarelo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to red as it fills
-	up with energy.
-	You'll start out
+	a vermelho à medida
+	que se enche de
+	energia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	with a yellow
-	Cust Gauge
-	at first.
+	De início, você
+	começará com uma
+	barra amarela.
 	"""
 	keyWait
 		any = false
@@ -323,9 +322,8 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Take a good look
-	at the bottom
-	of the screen!
+	Dê uma boa olhada na
+	parte de baixo da tela!
 	"""
 	keyWait
 		any = false
@@ -350,9 +348,9 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	The chips in a
-	Navi's folder are
-	chosen randomly.
+	Os chips na pasta do
+	Navi são escolhidos
+	aleatoriamente.
 	"""
 	keyWait
 		any = false
@@ -377,9 +375,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Standard Chips can
-	be used when the
-	gauge is yellow.
+	Chips Padrão podem
+	ser usados quando a
+	barra está amarela.
 	"""
 	keyWait
 		any = false
@@ -404,9 +402,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	MegaChips are blue.
-	They can be used if
-	the gauge is blue.
+	MegaChips são os azuis.
+	Podem ser usados quando
+	a barra está azul.
 	"""
 	keyWait
 		any = false
@@ -431,9 +429,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	GigaChips are red.
-	They can be used if
-	the gauge is red.
+	GigaChips são vermelhos.
+	Podem ser usados quando
+	a barra está vermelha.
 	"""
 	keyWait
 		any = false
@@ -458,33 +456,32 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	To use a chip,use
-	the +Control Pad to
-	select the chip.
+	Para usar um chip, use
+	os direcionais para
+	selecionar o chip.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then send,
-	using A Button.
-	If you don't see the
+	Daí, envie-o apertando
+	"A". Se não vir o chip
+	que deseja,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	chip you want,then
-	press B Button to
-	shuffle.
+	aperte "B" para
+	embaralhar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shuffling will lower
-	your Cust Gauge
-	so be careful!
+	Embaralhar consumirá a
+	sua Barra de Customi-
+	zação, então, cuidado!
 	"""
 	keyWait
 		any = false
@@ -509,31 +506,32 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	That's all. Give it
-	a try for yourself!
+	E é isso.
+	Experimente por
+	conta própria!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To change targets
-	during battle,press
-	the +Control Pad up.
+	Para trocar de alvo
+	durante a luta, aperte
+	o direcional para cima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	To change distance
-	during battle,press
-	it down.
+	Para mudar a distância
+	durante ela, aperte
+	para baixo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There you have it.
-	Good luck!
+	E é isso.
+	Boa sorte!
 	"""
 	keyWait
 		any = false
@@ -544,29 +542,30 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	That concludes my
-	virus busting class.
+	Isso conclui minha
+	aula de deleção de
+	vírus.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It may take time to
-	wrap your brain
-	around auto-attacks.
+	Pode demorar até você
+	se acostumar aos
+	ataques automáticos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But just trust your
-	Navi and focus on
-	picking the chips!
+	Mas é só confiar no
+	seu Navi e focar em
+	selecionar os chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

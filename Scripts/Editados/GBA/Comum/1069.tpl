@@ -40,8 +40,8 @@ script 7 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	Take this!
-	ColonelSaber!
+	Tome isto!
+	Sabre do Coronel!
 	"""
 	keyWait
 		any = false
@@ -58,9 +58,9 @@ script 10 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	Hey there,kids!
-	Who wants to
-	fight me first?
+	Olá, crianças!
+	Qual de vocês quer me
+	enfrentar primeiro?
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 11 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	So this is the
-	"power of justice"?
-	Too little,too late.
+	Então, esse é o
+	"poder da justiça"?
+	Tarde demais para isso...
 	"""
 	keyWait
 		any = false
@@ -84,16 +84,16 @@ script 12 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	This is nonsense!
-	I'm the superior
-	Navi here⋯!
+	Isso é um absurdo!
+	EU sou o Navi
+	superior...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So this is the
-	"power of justice"⋯
+	Então, esse é que é
+	o "poder da justiça"...
 	"""
 	keyWait
 		any = false
@@ -108,9 +108,9 @@ script 14 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	Running with your
-	tails between your
-	legs,eh? Ha ha ha!
+	Fugindo com o rabo
+	entre as pernas?
+	Ha ha ha ha!
 	"""
 	keyWait
 		any = false

@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Is it over?!"
+	"Acabou?!"
 	keyWait
 		any = false
 	clearMsg
@@ -16,8 +16,8 @@ script 1 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Do not underestimate
-	the DarkPower!
+	Não subestimem o
+	Poder das Trevas!
 	"""
 	keyWait
 		any = false
@@ -60,21 +60,21 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Aha ha ha ha ha!!!"
+	"Aahh ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I can't beat you
-	in battle,then I'll
-	taint you with evil.
+	Se não posso vencê-lo
+	em batalha, então irei
+	manchá-lo com o mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And make you my
-	servant!!!
+	e fazer de você
+	meu servo!!!
 	"""
 	keyWait
 		any = false
@@ -98,13 +98,13 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Don't give in to
-	the evil soul!!!
+	Não se entregue
+	pra alma maligna!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Fight,MegaMan!"
+	"Lute, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -115,14 +115,14 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"It's futile!!!"
+	"É inútil!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan may resist
-	but he'll still be
-	tainted by evil!!!
+	Ele pode tentar resistir,
+	mas ainda será manchado
+	pelo mal!!!
 	"""
 	keyWait
 		any = false
@@ -134,7 +134,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gaaaaaah!!!"
+	"Gaaaaaarrrh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -146,16 +146,15 @@ script 10 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Take in the evil,
-	MegaMan!!!
+	Aceite o mal, MegaMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Become my Navi,and
-	together we'll rule
-	this evil world!
+	Torne-se meu Navi!
+	Juntos, dominaremos
+	este mundo maligno!
 	"""
 	keyWait
 		any = false
@@ -167,13 +166,13 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"L-Lan⋯"
+	"L-Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	For⋯give⋯me
-	I⋯can't⋯
+	Me... per... doa...
+	Eu... não consigo...
 	"""
 	keyWait
 		any = false
@@ -186,8 +185,7 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	⋯MegaMan,
-	don't give up!
+	... MegaMan, não desiste!
 	"""
 	keyWait
 		any = false
@@ -201,7 +199,7 @@ script 13 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 354
-	"*Click!!!*"
+	"Clic!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -214,21 +212,22 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Muwahaha!!!"
+	"Ua ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've taken off the
-	MagnoMetal Amulet!
+	Ora, ora!
+	Você tirou o amuleto
+	de MagnoMetal?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you are prepared
-	to accept SoulNet
-	and its evil?!
+	Então, está preparado
+	para aceitar a RedeAlma
+	e toda a sua maldade?!
 	"""
 	keyWait
 		any = false
@@ -240,13 +239,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uuuuh!!!"
+	"Uuuunnngh!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	M-MegaMan. Hear the
-	voice of my soul⋯
+	M-MegaMan.
+	Escuta a voz
+	da minha alma...
 	"""
 	keyWait
 		any = false
@@ -259,41 +259,45 @@ script 16 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	I see⋯ You're trying
-	to use SoulNet to
+	Entendi...
+	Está tentando
+	usar a RedeAlma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	speak directly with
-	MegaMan's soul!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"Well,it's futile!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	All the world's
-	souls are gathering!
+	para falar diretamente
+	com a alma de MegaMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan hearing you
-	here would be like
+	Lamento informar,
+	mas é inútil!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	finding a pebble
-	lost in a vast
-	desert!!!
+	Todas as almas do mundo
+	estão se reunindo aqui!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	As chances de MegaMan
+	ouvir a sua voz aqui
+	são as mesmas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	de achar um cascalho
+	no meio de um deserto!
 	"""
 	keyWait
 		any = false
@@ -305,19 +309,19 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Uuh⋯ Uuuuh⋯"
+	"Uurgh... Uuungh..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan⋯ I mean,
-	Hub⋯ Why can't I get
-	through to you?!
+	MegaMan... Não... Hub...
+	Por que eu não consigo
+	te alcançar?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Uuuuh!!!"
+	"Uuuunnngh!!!"
 	keyWait
 		any = false
 	checkGameVersion
@@ -328,97 +332,97 @@ script 17 mmbn5 {
 	"Lan "
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"T-that voice "
+	"E-essa voz."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・
-	Gramps?!
+	.
+	Vovô?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Lan,you and MegaMan
-	are always linked⋯
+	Lan, você e MegaMan
+	estão sempre ligados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is just difficult
-	to see right now⋯
+	Só é difícil de
+	ver isso agora...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I repeat⋯"
+	"Eu repito..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You two are always
-	linked⋯
+	Vocês dois estão
+	sempre ligados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Gramps "
+	"Vovô"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course we are,
-	MegaMan⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We're always
-	linked!
+	Sim... É claro que
+	a gente tá, MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't need
-	SoulNet!!!
+	Eu e você estamos
+	sempre ligados!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan!!!"
+	"""
+	A gente não precisa
+	de nenhuma RedeAlma!!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Né, MegaMan?!!!"
 	keyWait
 		any = false
 	end
@@ -430,18 +434,17 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"This can't be!!!"
+	"Não pode ser!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hikari's Dad is
-	helping his
+	Tadashi Hikari...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"grandson?!"
+	"está ajudando o neto?!"
 	keyWait
 		any = false
 	end
@@ -451,8 +454,8 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	M-MegaMan⋯
-	What's going on⋯
+	M-MegaMan...
+	O que tá acontecendo...?
 	"""
 	keyWait
 		any = false
@@ -462,7 +465,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"H-Hub⋯"
+	"H-Hub..."
 	keyWait
 		any = false
 	clearMsg
@@ -473,21 +476,20 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Hub
 	msgOpen
-	"Thanks,Lan⋯"
+	"Obrigado, Lan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's just like you
-	said,Lan. We're
-	always linked.
+	É como você disse.
+	Nós dois estamos
+	sempre ligados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even without
-	SoulNet!!!
+	Mesmo sem a RedeAlma!!!
 	"""
 	keyWait
 		any = false
@@ -499,7 +501,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hub⋯"
+	"Hub..."
 	keyWait
 		any = false
 	clearMsg
@@ -510,7 +512,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"I'm not done yet!!!"
+	"Eu ainda não acabei!!!"
 	keyWait
 		any = false
 	end
@@ -520,13 +522,14 @@ script 24 mmbn5 {
 		mugshot = Hub
 	msgOpen
 	"""
-	We know a power
-	much stronger than
+	A gente conhece um
+	poder muito mais forte
+	do que a alma maligna...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the evil soul!!!"
+	"Muito mais!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -538,13 +541,13 @@ script 25 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Nothing's more
-	powerful than evil!
+	Não! Não há nada
+	mais forte que o mal!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be gone!!!"
+	"Desapareçam!!!"
 	keyWait
 		any = false
 	end
@@ -554,8 +557,9 @@ script 26 mmbn5 {
 		mugshot = Hub
 	msgOpen
 	"""
-	Regal,your evil
-	plan ends here!!!
+	Regal, o seu plano
+	maligno acaba aqui
+	e agora!!!!
 	"""
 	keyWait
 		any = false
@@ -565,7 +569,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It's gone⋯"
+	"Sumiu..."
 	keyWait
 		any = false
 	clearMsg
@@ -577,15 +581,15 @@ script 28 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	The DarkPower
-	vanished?!
+	O Poder das Trevas
+	desapareceu?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No⋯
-	This cannot be⋯
+	Não...
+	Não pode ser...
 	"""
 	keyWait
 		any = false
@@ -597,7 +601,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Hub
 	msgOpen
-	"It's over⋯"
+	"Acabou..."
 	keyWait
 		any = false
 	end
@@ -606,11 +610,11 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thank you⋯Hub."
+	"Obrigado... Hub."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Oh no!!!"
+	"... Ah, não!!!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -621,24 +625,24 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Aha ha ha ha ha!!!"
+	"Aaaah ha ha ha ha!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You can't destroy
-	it permanently!!!
+	Não há como destrui-lo
+	permanentemente!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It is the DarkPower!"
+	"É o Poder das Trevas!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're history,this
-	time,MegaMan!!!
+	Desta vez, você está
+	acabado, MegaMan!!!
 	"""
 	keyWait
 		any = false
@@ -656,7 +660,7 @@ script 32 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"⋯Ack!!!"
+	"... Ack!!!"
 	keyWait
 		any = false
 	end
@@ -674,7 +678,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"C-Colonel⋯"
+	"C-Colonel..."
 	keyWait
 		any = false
 	clearMsg
@@ -690,13 +694,16 @@ script 35 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	MegaMan,finish off
-	NebulaGray quick!
+	MegaMan, acabe logo
+	com Nebula Gray!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I won't last long⋯"
+	"""
+	Eu não vou aguentar
+	muito mais tempo...!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -707,7 +714,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"OK⋯"
+	"OK..."
 	keyWait
 		any = false
 	end
@@ -716,7 +723,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Hurry!!!"
+	"Depressa!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -728,8 +735,9 @@ script 38 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Ack⋯ My MegaBuster
-	won't fire⋯
+	Unck...
+	O meu MegaAtirador
+	não quer disparar...
 	"""
 	keyWait
 		any = false
@@ -742,13 +750,13 @@ script 39 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	If he's that
-	exhausted then⋯
+	Se ele está exausto
+	assim, então...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Is this the end?!"
+	"Acabou?!"
 	keyWait
 		any = false
 	clearMsg
@@ -759,8 +767,8 @@ script 40 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Everyone,help
-	MegaMan!!!
+	Homens, ajudem
+	o MegaMan!!!
 	"""
 	keyWait
 		any = false
@@ -771,26 +779,27 @@ script 41 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Transmit your power
-	to MegaMan!!!
+	Transmitam a ele
+	todo o seu poder!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all linked
-	by our souls!
+	Nós estamos todos
+	ligados através
+	das nossas almas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We can do it!!!"
+	"Nós somos capazes!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Focus your power
-	into your souls!
+	Concentrem suas forças
+	em suas almas!
 	"""
 	keyWait
 		any = false
@@ -801,8 +810,9 @@ script 42 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Their power is
-	poring into me!!!
+	Toda a força deles
+	tá fluindo pra dentro
+	de mim!!!
 	"""
 	keyWait
 		any = false
@@ -812,11 +822,11 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Now,MegaMan!"
+	"Agora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Fire!!!"
+	"... Atire!!!"
 	keyWait
 		any = false
 	end
@@ -825,11 +835,11 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's over this time!"
+	"Desta vez, acabou!"
 	keyWait
 		any = false
 	clearMsg
-	"MegaBuster!!!"
+	"MegaAtirador!!!"
 	keyWait
 		any = false
 	end
@@ -839,26 +849,27 @@ script 45 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Transmit your power
-	to MegaMan!!!
+	Transmitam a ele
+	todo o seu poder!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're all linked
-	by our souls!
+	Nós estamos todos
+	ligados através
+	das nossas almas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We can do it!!!"
+	"Nós somos capazes!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Focus your power
-	into your souls!
+	Concentrem suas forças
+	em suas almas!
 	"""
 	keyWait
 		any = false
@@ -869,8 +880,9 @@ script 46 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Their power is
-	poring into me!!!
+	Toda a força deles
+	tá fluindo pra dentro
+	de mim!!!
 	"""
 	keyWait
 		any = false
@@ -880,11 +892,11 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Now,MegaMan!"
+	"Agora, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯Fire!!!"
+	"... Atire!!!"
 	keyWait
 		any = false
 	end
@@ -893,11 +905,11 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's over this time!"
+	"Desta vez, acabou!"
 	keyWait
 		any = false
 	clearMsg
-	"MegaBuster!!!"
+	"MegaAtirador!!!"
 	keyWait
 		any = false
 	end
@@ -925,89 +937,89 @@ script 52 mmbn5s {
 script 53 mmbn5 {
 	clearMsg
 	mugshotHide
-	"Lan "
+	"Lan"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"T-that voice "
+	"E-essa voz"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・
-	Could it be⋯
+	.
+	Será que é...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	You and MegaMan
-	are always linked⋯
+	Você e MegaMan estão
+	sempre ligados...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Do not forget it⋯"
+	"Nunca se esqueça..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You and MegaMan
-	are always linked⋯
+	Você e MegaMan estão
+	sempre ligados...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	Of course we are,
-	MegaMan⋯
+	Sim... É claro que
+	a gente tá, MegaMan...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're always
-	linked!
+	Nós dois estamos
+	sempre ligados!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't need
-	SoulNet!!!
+	A gente não precisa
+	de nenhuma RedeAlma!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Right,MegaMan!!!"
+	"Né, MegaMan?!!!"
 	keyWait
 		any = false
 	end
@@ -1017,22 +1029,22 @@ script 54 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Grrr! Who is
-	helping Lan?!
+	Grrr! Quem está
+	ajudando o Lan?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"What the?!"
+	"Mas o que...?!"
 	keyWait
 		any = false
 	end

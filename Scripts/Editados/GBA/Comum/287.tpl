@@ -4,17 +4,19 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Grrr! The whole"
-	keyWait
-		any = false
-	clearMsg
-	"world is MINE!"
+	"Grrr!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everybody has
-	to obey me. ME!!
+	O mundo inteiro é MEU!!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Todo mundo devia me
+	obedecer. TODO MUNDO!!
 	"""
 	keyWait
 		any = false
@@ -34,9 +36,8 @@ script 5 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Was I saying
-	something
-	strange⋯?
+	Eu falei alguma coisa
+	estranha...?
 	"""
 	keyWait
 		any = false
@@ -47,16 +48,16 @@ script 10 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	I seem to have
-	lost my memory!
+	Parece que eu perdi
+	a memória!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I remember is
-	that my mind
-	suddenly clouded.
+	Só o que eu lembro é
+	da minha mente ficando
+	confusa, de repente.
 	"""
 	keyWait
 		any = false

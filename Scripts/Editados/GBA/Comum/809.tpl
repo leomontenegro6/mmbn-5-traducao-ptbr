@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad!"
+	"Pai!"
 	keyWait
 		any = false
 	end
@@ -13,14 +13,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"Ah,you're here,Lan."
+	"Ah, oi, Lan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did you bring
-	everybody along with
-	you?
+	Trouxe a turma
+	toda junto?
 	"""
 	keyWait
 		any = false
@@ -32,7 +31,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yup!"
+	"Aham!"
 	keyWait
 		any = false
 	end
@@ -42,8 +41,7 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright everybody,
-	come on inside!
+	Vem, gente, pode entrar!
 	"""
 	keyWait
 		any = false
@@ -53,7 +51,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Hello!"
+	"Olá!"
 	keyWait
 		any = false
 	clearMsg
@@ -64,7 +62,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"SciLab,whoopee!"
+	"SciLab, já ééé!"
 	keyWait
 		any = false
 	clearMsg
@@ -75,7 +73,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hello,Dr.Hikari!"
+	"Olá, Dr. Hikari!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,24 +85,23 @@ script 7 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Great!
-	You're all here!
+	Maravilha!
+	Estão todos aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The reason why I've
-	asked you all here
-	today⋯
+	O motivo para eu ter
+	chamado todos vocês
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is to show you
-	something very
-	special.
+	foi para mostrar uma
+	coisa muito especial.
 	"""
 	keyWait
 		any = false
@@ -117,8 +114,8 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something very
-	special?
+	Uma coisa muito
+	especial?
 	"""
 	keyWait
 		any = false
@@ -131,9 +128,9 @@ script 9 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	A program I found
-	when going through
-	some old documents.
+	É um programa que eu
+	achei enquanto estudava
+	uns documentos antigos.
 	"""
 	keyWait
 		any = false
@@ -144,24 +141,25 @@ script 10 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	⋯whoops⋯
-	I forgot my ID Card.
+	... Ops...
+	Ha, esqueci meu cartão
+	de identificação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oh,boy. Gotta love
-	these secure SciLab
-	computers.
+	Ai, ai. A segurança
+	desses computadores do
+	SciLab é ótima, mas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't do a thing
-	without my ID Card
-	anymore.
+	não dá mais pra
+	fazer nada neles
+	sem o meu cartão.
 	"""
 	keyWait
 		any = false
@@ -172,15 +170,15 @@ script 11 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	Lan,could you please
-	get my ID?
+	Lan, pode ir pegar o
+	cartão pro seu pai aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's in my desk
-	drawer.
+	Tá em uma das gavetas
+	da minha mesa.
 	"""
 	keyWait
 		any = false
@@ -193,8 +191,7 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,I'll be right
-	back.
+	Claro. Volto já!
 	"""
 	keyWait
 		any = false
@@ -205,8 +202,8 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dad,which drawer is
-	it?
+	Pai, em qual
+	gaveta que tá?
 	"""
 	keyWait
 		any = false
@@ -217,8 +214,7 @@ script 14 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	The big one,in the
-	middle.
+	A grandona, do meio.
 	"""
 	keyWait
 		any = false
@@ -230,13 +226,12 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,Dad!"
+	"Valeu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see,which one
-	is it?
+	Tá bom, o cartão tá...
 	"""
 	keyWait
 		any = false
@@ -247,16 +242,16 @@ script 16 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	⋯hm? The Confirm ID
-	screen isn't coming
-	up⋯
+	... Ué? A tela de confir-
+	mação de identificação
+	não está aparecendo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It worked fine
-	yesterday.
+	Até ontem,
+	estava tudo normal.
 	"""
 	keyWait
 		any = false
@@ -267,11 +262,11 @@ script 16 mmbn5 {
 script 17 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Emergency!"
+	"Emergência!"
 	keyWait
 		any = false
 	clearMsg
-	"Emergency!"
+	"Emergência!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -281,27 +276,26 @@ script 17 mmbn5 {
 script 18 mmbn5 {
 	msgOpen
 	"""
-	A group of Navis has
-	infiltrated the Net⋯
+	Um grupo de Navis
+	invadiu a Rede...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and has occupied
-	several Areas!
+	e ocupou diversas áreas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯H⋯Hey!
-	Who are you?!
+	... E... ei!
+	Quem é você?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Rgg! Hrggraah!!!"
+	"Rgg! Hrggraarh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -309,8 +303,8 @@ script 18 mmbn5 {
 	soundPlay
 		track = 204
 	"""
-	*Zhk! Zhk! Zh-zh-zh,
-	Zhrrack!*
+	Tzzz! Tzt! Tz-tz-tz...
+	Tzzzéééénn...
 	"""
 	keyWait
 		any = false
@@ -323,13 +317,12 @@ script 19 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	The Net's been
-	occupied?!
+	A Rede foi ocupada?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's happening?!"
+	"Mas o que está\nacontecendo?!"
 	keyWait
 		any = false
 	end
@@ -340,7 +333,7 @@ script 20 mmbn5 {
 	msgOpen
 	"""
 	Hm?
-	What's this?
+	O que é isso?
 	"""
 	keyWait
 		any = false
@@ -361,7 +354,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 		any = false
 	end
@@ -370,13 +363,13 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯Hrg!!!"
+	"... Hrg!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everybody,stand
-	back from th⋯
+	Crianças,
+	fiquem longe do...!
 	"""
 	keyWait
 		any = false
@@ -388,7 +381,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Um⋯sure⋯"
+	"Hung... Tá..."
 	keyWait
 		any = false
 	clearMsg
@@ -401,21 +394,21 @@ script 25 mmbn5 {
 	msgOpen
 	"""
 	Agh!
-	Sleeping gas⋯!
+	Gás do sono...!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What in blazes⋯
-	Is going on h⋯
+	Mas o que é que...
+	está acontecendo aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
-	"*Thunk*"
+	"Ploc!"
 	keyWait
 		any = false
 	end
@@ -429,8 +422,7 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Wake up,
-	Lan!!!
+	Lan, acorda!!!
 	"""
 	keyWait
 		any = false
@@ -443,8 +435,8 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	D⋯Dad⋯
-	Everybody⋯
+	P... papai...
+	Pessoal...
 	"""
 	keyWait
 		any = false
@@ -455,22 +447,21 @@ script 28 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	⋯Confirmed:
-	Dr.Hikari.
+	... Confirmado:
+	Dr. Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gas concentration:
-	0.03%
+	Concentração de gás:
+	0,03%.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is now safe to
-	enter.
+	Já é seguro\nentrar agora.
 	"""
 	keyWait
 		any = false
@@ -481,13 +472,13 @@ script 29 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	⋯Well,well,
-	Dr.Hikari⋯
+	Ora, ora...
+	Dr. Hikari...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Take him away."
+	"... Levem-no daqui."
 	keyWait
 		any = false
 	clearMsg
@@ -498,7 +489,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -508,9 +499,8 @@ script 31 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	Master Regal,
-	what about his
-	friends?
+	Mestre Regal,
+	e as crianças?
 	"""
 	keyWait
 		any = false
@@ -523,15 +513,16 @@ script 32 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Confiscate their
-	PETs.
+	Confisquem os PETs
+	delas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Without them,they'll
-	be helpless anyway.
+	Sem eles, elas serão
+	peso morto, de qualquer
+	forma.
 	"""
 	keyWait
 		any = false
@@ -543,7 +534,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -553,8 +544,8 @@ script 34 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	All PETs were
-	claimed.
+	Todos os PETs
+	foram recolhidos.
 	"""
 	keyWait
 		any = false
@@ -566,33 +557,34 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"""
-	But I wonder⋯
-	why Lan isn't here⋯
+	Mas é curioso...
+	o Lan não estar
+	dentre elas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter⋯
-	Our job is done.
+	... Irrelevante.
+	Nosso trabalho aqui
+	está terminado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We've no time to
-	waste. Let us be
-	gone.
+	Não temos tempo a
+	perder. Vamos.
 	"""
 	keyWait
 		any = false
@@ -604,7 +596,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -613,13 +605,13 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dad⋯Dad⋯"
+	"Pa... pai..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"*Thunk*"
+	"Tlonc."
 	keyWait
 		any = false
 	clearMsg
@@ -632,7 +624,7 @@ script 38 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 2
-	"Lan,Lan!!!"
+	"Lan! Lan!!!"
 	keyWait
 		any = false
 	end

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The DarkPower's
-	coming from here⋯
+	O Poder das Trevas
+	tá saindo dali...
 	"""
 	keyWait
 		any = false
@@ -18,7 +18,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Keep your eyes open⋯"
+	"Olho aberto, MegaMan..."
 	keyWait
 		any = false
 	clearMsg
@@ -29,11 +29,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha⋯"
+	"Beleza..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Yikes!!!"
+	"... A-aahh!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -44,7 +44,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan!"
+	"Que foi, MegaMan?!"
 	keyWait
 		any = false
 	clearMsg
@@ -56,8 +56,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Something's coming
-	our of the vortex!
+	Tem alguma coisa
+	saindo do vórtice!
 	"""
 	keyWait
 		any = false
@@ -68,20 +68,20 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	mugshotHide
 	msgOpen
-	"GRAAAAAAH⋯"
+	"RAAAARRHHH..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I AM THE
-	CHAOSLORD.
+	EU SOU O SENHOR
+	DO CAOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVE COME TO RULE
-	THIS CHAOTIC WORLD⋯
+	VIM PARA GOVERNAR
+	ESTE MUNDO CAÓTICO...
 	"""
 	keyWait
 		any = false
@@ -96,13 +96,13 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	His DarkPower is
-	incredibly strong⋯
+	O Poder das Trevas dele
+	é absurdamente forte...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here he comes,Lan!!!"
+	"Lá vem ele, Lan!!!"
 	keyWait
 		any = false
 	end
@@ -110,8 +110,9 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	NO MERCY FOR THE
-	PURE OF HEART⋯
+	NÃO TEREI
+	MISERICÓRDIA PARA COM
+	OS PUROS DE CORAÇÃO...
 	"""
 	keyWait
 		any = false
@@ -123,7 +124,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here he comes,Lan!!!"
+	"Ele vai atacar, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -136,7 +137,8 @@ script 9 mmbn5 {
 	msgOpen
 	"""
 	OK!
-	Battle routine,set!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -148,7 +150,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	end

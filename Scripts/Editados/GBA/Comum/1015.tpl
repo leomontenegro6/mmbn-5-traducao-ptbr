@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Nothing here."
+	"Nada aqui."
 	keyWait
 		any = false
 	clearMsg
@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's go back then⋯"
+	"Bora voltar, então..."
 	keyWait
 		any = false
 	clearMsg
@@ -25,7 +25,7 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	mugshotHide
 	msgOpen
-	"I don't think so⋯"
+	"Receio discordar..."
 	keyWait
 		any = false
 	soundPlayBGM
@@ -36,7 +36,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who's there?!"
+	"Quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -45,7 +45,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's this feeling?"
+	"Que sensação é essa...?"
 	keyWait
 		any = false
 	end
@@ -54,7 +54,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It can't be!!!"
+	"Não pode ser!!!"
 	keyWait
 		any = false
 	end
@@ -63,13 +63,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"Well done so far⋯"
+	"Você se saiu\nbem até aqui..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But this time it
-	shall be different⋯
+	Mas, desta vez,
+	será diferente...
 	"""
 	keyWait
 		any = false
@@ -82,8 +82,8 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	He's much stronger
-	than before!!!
+	Ele tá muito mais
+	forte do que antes!!!
 	"""
 	keyWait
 		any = false
@@ -95,7 +95,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"⋯Brace yourself."
+	"... Prepare-se."
 	keyWait
 		any = false
 	clearMsg
@@ -118,20 +118,24 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK! We're stronger
-	than before,too!
+	OK! A gente também tá
+	mais forte do que antes!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's show him
-	what we can do!!!
+	Bora mostrar pra
+	ele do que a gente
+	é capaz!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -142,7 +146,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +157,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"This shall be fun!"
+	"Será divertido!"
 	keyWait
 		any = false
 	end

@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Ah,you've collected
-	all the stamps!
+	Ah, você reuniu
+	todos os carimbos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's your prize
-	then⋯ 1000 Zennys.
+	Bom, aqui está o seu
+	prêmio... 1000 Zennys.
 	"""
 	keyWait
 		any = false
@@ -25,7 +25,7 @@ script 0 mmbn5 {
 		timer = 1
 		value = 1
 	"""
-	Lan got:
+	Lan adquiriu:
 	"1000 Zennys"!!!
 	"""
 	keyWait
@@ -36,7 +36,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Congratulations!"
+	"Meus parabéns!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,7 +47,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"No way! I'm beat?!"
+	"Mentira! Eu perdi?!"
 	keyWait
 		any = false
 	end
@@ -56,21 +56,21 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"I-It's not possible!"
+	"N-não pode ser!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It cost me 10
-	million Zennys to
-	customize my Navi.
+	Eu gastei 10 milhões de
+	Zennys para customizar
+	o meu Navi...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can I be so
-	outclassed?!
+	Como é possível ele
+	ter me superado?!
 	"""
 	keyWait
 		any = false
@@ -83,29 +83,28 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Tsk!"
+	"Tsc!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NetBattles have to
-	be fought from the
-	gut!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Spending money to
-	make your Navi look
-	tough on the outside
+	NetLuta é coisa de
+	força interior!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doesn't mean it's
-	got guts!
+	Torrar dinheiro pra
+	fazer o seu Navi
+	PARECER forte por fora
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	não quer dizer que ele
+	tenha força interior!
 	"""
 	keyWait
 		any = false
@@ -117,21 +116,22 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Hah!"
+	"Rá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Spend all the cash
-	you want on your
-	Navi! You won't win!
+	Torra toda a grana
+	que quiser no seu Navi!
+	Cê nunca vai vencer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hate rich people
-	like you!
+	Afe, odeio riquinhos
+	metidos a besta como
+	você, viu?!
 	"""
 	keyWait
 		any = false
@@ -143,13 +143,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"W-What did you say?!"
+	"O-o que foi que você\ndisse?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who let this lowlife
-	on the ship?!
+	Quem deixou esse rato
+	de rua entrar no navio?!
 	"""
 	keyWait
 		any = false
@@ -159,21 +159,21 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Typical!"
+	"Affe! Típico!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All rich people are
-	pathetic!
+	Vocês ricos tão
+	todos patéticos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see someone
-	with a bit more
-	nerve!
+	Vai! Não tem ninguém
+	com mais moral aqui,
+	não?!
 	"""
 	keyWait
 		any = false
@@ -184,27 +184,31 @@ script 7 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I invited him to
-	spice up the battle
-	challenge a bit.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"His name's Fyrefox."
-	keyWait
-		any = false
-	clearMsg
-	"""
-	No one's ever been
-	able to defeat him.
+	Eu convidei ele a bordo
+	pra deixar as lutas mais
+	desafiadoras aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you give
-	it a go?
+	O nome dele é Nenji
+	Rokushakudama...
+	Apelido: "Fyrefox".
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ninguém nunca conseguiu
+	vencer ele.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por que não tenta
+	desafiar ele?
 	"""
 	keyWait
 		any = false
@@ -216,13 +220,14 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Hah!"
+	"Rá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't there anyone
-	better on board?!
+	Não tem ninguém
+	melhor que esse
+	molenga a bordo?!
 	"""
 	keyWait
 		any = false
@@ -233,24 +238,24 @@ script 9 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I invited him to
-	spice up the battle
-	challenge a bit.
+	Eu convidei ele pra
+	deixar as lutas mais
+	desafiadoras aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His name's Dingo.
-	No one's ever been
-	able to defeat him.
+	O nome dele é Dingo.
+	Ninguém nunca conseguiu
+	vencer ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you give
-	it a go?
+	Por que não tenta
+	desafiá-lo?
 	"""
 	keyWait
 		any = false
@@ -263,9 +268,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Never defeated?!
-	I'll teach him a
-	thing or two!
+	Ninguém venceu?!
+	Pois eu vou mostrar
+	pra ele uns negócios!
 	"""
 	keyWait
 		any = false
@@ -276,9 +281,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I'm Lan! You want a
-	challenge? Take me
-	on!
+	Eu sou o Lan!
+	Cê quer um desafio, né?
+	Então, cai dentro!
 	"""
 	keyWait
 		any = false
@@ -292,15 +297,15 @@ script 12 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Someone with some
-	guts at last!
+	Finalmente, alguém
+	com moral aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mind you don't over-
-	stretch yourself!
+	Só não vai se achando
+	demais, garoto!
 	"""
 	keyWait
 		any = false
@@ -313,22 +318,22 @@ script 13 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	You seem pretty sure
-	of yourself⋯
+	Você parece bem
+	confiante...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And you look pretty
-	determined too⋯
+	e determinado,
+	ainda por cima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll wipe the floor
-	with you!
+	Eu vou adorar te
+	humilhar na arena!
 	"""
 	keyWait
 		any = false
@@ -341,8 +346,8 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	If you think you
-	can,bring it on!
+	Menos papo,
+	mais NetLuta!
 	"""
 	keyWait
 		any = false
@@ -354,7 +359,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W-What was that?!"
+	"O-o que foi isso?!"
 	keyWait
 		any = false
 	clearMsg
@@ -367,8 +372,8 @@ script 16 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Lan! Nebula's on the
-	move!
+	Hikari!
+	A Nebula está agindo!
 	"""
 	keyWait
 		any = false
@@ -379,9 +384,9 @@ script 17 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Lan! That means
-	Nebula's on the
-	move.
+	Lan Hikari! Isso quer
+	dizer que a Nebula
+	começou a agir!
 	"""
 	keyWait
 		any = false
@@ -391,7 +396,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -404,9 +409,9 @@ script 19 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	That shaking must
-	mean the Engine
-	Room's been hit⋯!
+	Esse tremor deve ter
+	sido porque a sala das
+	máquinas foi atacada...!
 	"""
 	keyWait
 		any = false
@@ -419,9 +424,9 @@ script 20 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	That shaking must
-	mean the Engine
-	Room's been hit⋯!
+	Esse tremor deve ter
+	sido porque a sala das
+	máquinas foi atacada...!
 	"""
 	keyWait
 		any = false
@@ -433,7 +438,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Okay! On my way!"
+	"Tá! Tô indo lá!"
 	keyWait
 		any = false
 	end
@@ -443,8 +448,9 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sorry! This'll have
-	to wait!
+	Foi mal, mas esta
+	luta vai ter que
+	ficar pra depois!
 	"""
 	keyWait
 		any = false
@@ -458,8 +464,9 @@ script 23 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Whatever! Do what
-	you've gotta do!
+	Tranquilo!
+	Faz aí o que cê
+	tem que fazer!
 	"""
 	keyWait
 		any = false
@@ -470,25 +477,25 @@ script 24 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Hah! Everyone's too
-	chicken
+	Rá! Todo mundo aqui é
+	medroso demais
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
 	"""
-	・ But
-	you seem different⋯
+	. Mas
+	cê parece diferente...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Sure. See ya later!"
+	"Beleza. Até então!"
 	keyWait
 		any = false
 	end

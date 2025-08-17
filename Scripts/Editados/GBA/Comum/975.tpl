@@ -3,22 +3,22 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	Several hours after
-	leaving ACDC Town,
+	Várias horas após
+	deixarem o Bairro ACDC,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they reached the top
-	of Mt.Belenus,site
+	a equipe chega ao
+	topo do Monte Fuji,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of Nebula's base,and
-	a dormant volcano⋯
+	local da base da Nebula
+	e vulcão adormecido...
 	"""
 	keyWait
 		any = false
@@ -29,9 +29,9 @@ script 1 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	This is Nebula's
-	base,home of the
-	DarkChip Syndicate.
+	Essa é a base da Nebula,
+	lar do Sindicato Chip
+	das Trevas.
 	"""
 	keyWait
 		any = false
@@ -46,14 +46,14 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	We've come this far!
-	Now let's get in
-	there and finish it!
+	A gente já veio até
+	aqui! Bora logo entrar
+	lá e botar um fim nisso!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm point man!!!"
+	"Eu vou na frente!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -65,7 +65,7 @@ script 3 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	You're clueless
+	Cê é muito sem noção,
 	Fyrefox.
 	"""
 	keyWait
@@ -77,8 +77,8 @@ script 4 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	What's that supposed
-	to mean,Charlie?!
+	Que foi que cê quis
+	dizer com isso, Charlie?!
 	"""
 	keyWait
 		any = false
@@ -89,24 +89,23 @@ script 5 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	This is the enemy's
-	home base. Who knows
-	what traps await?
+	Essa é a base do
+	inimigo. Vai saber
+	quanta armadilha tem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Only a fool would
-	rush in without
-	thinking.
+	Só um bocó ia entrar
+	correndo sem pensar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm gonna lead
-	this one.
+	Deixa que eu tomo
+	a dianteira aqui.
 	"""
 	keyWait
 		any = false
@@ -117,9 +116,9 @@ script 6 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Right,leader?
-	Lemme go ahead and
-	check things out!
+	Né, líder?
+	Deixa eu ir na frente
+	conferir as coisas!
 	"""
 	keyWait
 		any = false
@@ -132,8 +131,8 @@ script 7 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Fine. But stay
-	on your toes.
+	... Pois bem.
+	Mas não baixe a guarda.
 	"""
 	keyWait
 		any = false
@@ -145,13 +144,13 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"Roger!"
+	"Positivo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stay here until
-	I send word.
+	Fiquem aqui até eu
+	dar notícias.
 	"""
 	keyWait
 		any = false
@@ -170,7 +169,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Be careful⋯"
+	"Toma cuidado..."
 	keyWait
 		any = false
 	clearMsg
@@ -182,20 +181,19 @@ script 11 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	I could do this
-	sorta thing with
-	my eyes closed.
+	Eu resolvo essas
+	coisas de olhos
+	fechados, carinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Don't ya worry!"
+	"Relaxa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be back in
-	a flash!
+	Volto já!
 	"""
 	keyWait
 		any = false
@@ -204,9 +202,8 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	10 minutes
-	after Charlie
-	set out⋯
+	10 minutos após a
+	partida de Charlie...
 	"""
 	keyWait
 		any = false
@@ -214,7 +211,7 @@ script 12 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 155
-	"*Briiiiing!*"
+	"Trrriiiiim!"
 	wait
 		frames = 62
 	keyWait
@@ -223,30 +220,30 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	soundEnableTextSFX
-	"Chaud here⋯"
+	"É o Chaud..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Charlie?"
+	"... Charlie?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The back entrance⋯
-	OK,got it.
+	A entrada dos fundos...
+	Certo, entendi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundPlay
 		track = 220
-	"⋯!?"
+	"... ?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was that?!
-	Answer me,Charlie!
+	O que foi isso?!
+	Charlie! Responda!
 	"""
 	keyWait
 		any = false
@@ -261,8 +258,8 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Chaud,what happened
-	to Charlie?!
+	Chaud, o que aconteceu
+	com o Charlie?!
 	"""
 	keyWait
 		any = false
@@ -275,8 +272,8 @@ script 14 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Dunno.
-	I lost the signal.
+	... Eu não sei.
+	Perdi o sinal.
 	"""
 	keyWait
 		any = false
@@ -289,21 +286,21 @@ script 15 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	That fool. Now look
-	what happened to him
-	for showing off!
+	Aquele imbecil...!
+	Foi se exibir, e olha
+	o que aconteceu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just
-	sit here now.
+	A gente não pode
+	ficar aqui parado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,leader!"
+	"Bora, líder!"
 	keyWait
 		any = false
 	clearMsg
@@ -315,13 +312,14 @@ script 16 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯Right. To the
-	back entrance!
+	... Certo.
+	Para a entrada
+	dos fundos!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,people!!!"
+	"Vamos lá, gente!!!"
 	keyWait
 		any = false
 	end
@@ -331,9 +329,9 @@ script 17 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	This is Nebula's
-	base,home of the
-	DarkChip Syndicate.
+	Essa é a base da Nebula,
+	lar do Sindicato Chip
+	das Trevas.
 	"""
 	keyWait
 		any = false
@@ -348,15 +346,15 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	We've come this far!
-	Let's get in there!
+	A gente já chegou tão
+	longe! Bora entrar logo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lemme take
-	the lead!
+	Deixa que eu
+	vou primeiro!
 	"""
 	keyWait
 		any = false
@@ -368,7 +366,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"You fool⋯"
+	"Tolo..."
 	keyWait
 		any = false
 	end
@@ -377,7 +375,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Excuse me,Dusk?!"
+	"Como é que é, Dark?!"
 	keyWait
 		any = false
 	end
@@ -387,16 +385,16 @@ script 21 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	You can't just rush
-	blindly into the
-	enemy's home base.
+	Não é sábio entrar
+	cegamente na base
+	no inimigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Leave this
-	one to me⋯
+	Deixe esta
+	etapa comigo...
 	"""
 	keyWait
 		any = false
@@ -407,9 +405,9 @@ script 22 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	⋯Baryl,
-	how about I go ahead
-	and take a look⋯
+	... Baryl.
+	Posso entrar lá
+	para conferir...?
 	"""
 	keyWait
 		any = false
@@ -422,8 +420,8 @@ script 23 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯OK. But stay
-	on your toes.
+	... Pois bem.
+	Mas não baixe a guarda.
 	"""
 	keyWait
 		any = false
@@ -435,13 +433,14 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"Got it. I'll contact"
+	"Naturalmente."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you as soon as I
-	find out something.
+	Entrarei em contato
+	assim que descobrir
+	alguma coisa.
 	"""
 	keyWait
 		any = false
@@ -451,7 +450,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dusk!"
+	"Dark!"
 	keyWait
 		any = false
 	end
@@ -460,7 +459,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Be careful⋯"
+	"Toma cuidado..."
 	keyWait
 		any = false
 	clearMsg
@@ -472,8 +471,8 @@ script 27 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	⋯Bah,don't
-	worry about me.
+	... Hm.
+	Não se preocupe comigo.
 	"""
 	keyWait
 		any = false
@@ -482,8 +481,8 @@ script 27 mmbn5 {
 script 28 mmbn5 {
 	msgOpen
 	"""
-	10 minutes after
-	Dusk set out⋯
+	10 minutos após
+	Dark partir...
 	"""
 	keyWait
 		any = false
@@ -491,7 +490,7 @@ script 28 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 155
-	"*Briiiiing!*"
+	"Trrriiiiim!"
 	wait
 		frames = 62
 	keyWait
@@ -500,35 +499,35 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	soundEnableTextSFX
-	"Baryl here⋯"
+	"Baryl aqui..."
 	keyWait
 		any = false
 	clearMsg
-	"⋯Dusk?"
+	"... Dark?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The back entrance⋯
-	OK,got it.
+	A entrada dos fundos...
+	Certo, entendi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	soundPlay
 		track = 220
-	"⋯!?"
+	"... ?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What was that?!
-	Answer me,Dusk!
+	O que foi isso?!
+	Responda, Dark!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Dusk!!!"
+	"Dark!!!"
 	keyWait
 		any = false
 	end
@@ -538,8 +537,8 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Baryl what happened
-	to Dusk?!
+	Baryl, o que aconteceu
+	com o Dark?!
 	"""
 	keyWait
 		any = false
@@ -552,8 +551,8 @@ script 30 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯Dunno.
-	I lost the signal.
+	... Eu não sei.
+	Perdi o sinal.
 	"""
 	keyWait
 		any = false
@@ -566,21 +565,21 @@ script 31 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	That fool. Now look
-	what happened to him
-	for showing off!
+	Aquele imbecil...!
+	Foi se exibir, e olha
+	o que aconteceu!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't just
-	sit here now.
+	A gente não pode
+	ficar aqui parado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,leader!"
+	"Bora, líder!"
 	keyWait
 		any = false
 	clearMsg
@@ -593,15 +592,15 @@ script 32 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Right!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	To the back
-	entrance! Hurry!
+	Para a entrada dos
+	fundos! Depressa!
 	"""
 	keyWait
 		any = false

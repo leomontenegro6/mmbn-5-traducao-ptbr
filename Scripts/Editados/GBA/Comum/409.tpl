@@ -14,48 +14,46 @@ script 10 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I am the captain of
-	the Queen Bohemia.
+	Eu sou o capitão do
+	Rainha Boêmia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? You don't
-	think I'm dressed
-	like a captain?
+	Hã? Acha que eu não
+	estou "vestido como
+	capitão"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I got these clothes
-	and hat when I first
-	took the wheel.
+	Ganhei estas roupas e o
+	chapéu quando peguei num
+	leme pela primeira vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mind you,that was a
-	tiny ship compared
-	to this fine vessel.
+	Claro, era de uma embar-
+	cação pequenininha se
+	comparada a este navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I've had this as
-	my uniform ever
-	since.
+	Mas eu visto este
+	"uniforme" desde então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess you could
-	say it's a bit of a
-	tradition.
+	Acho que pode-se dizer
+	que é uma tradição.
 	"""
 	keyWait
 		any = false
@@ -66,17 +64,16 @@ script 11 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	You don't start to
-	panic at a little
-	shaking like that!
+	Não se deve entrar
+	em pânico com um
+	tremorzinho desses!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Queen Bohemia's
-	not going to be sunk
-	that easily!
+	O Rainha Boêmia não vai
+	afundar fácil assim!
 	"""
 	keyWait
 		any = false
@@ -87,24 +84,22 @@ script 12 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	You heard the
-	announcement,didn't
-	you?
+	Você ouviu o anúncio,
+	não ouviu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't miss out on
-	the fun. It's not
-	every day you're
+	Não fique de fora da
+	diversão. Não é sempre
+	que se está numa festa
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	at a party on the
-	Queen Bohemia!
+	no Rainha Boêmia!
 	"""
 	keyWait
 		any = false
@@ -131,15 +126,15 @@ script 15 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This is the Queen
-	Bohemia's Bridge.
+	Esta é a ponte do
+	Rainha Boêmia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're welcome to
-	look around.
+	Fique à vontade para
+	explorar.
 	"""
 	keyWait
 		any = false
@@ -150,9 +145,9 @@ script 16 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	That vibration was
-	odd. The instruments
-	read normal though⋯
+	Aquela vibração foi
+	estranha. E as leituras
+	estavam normais...
 	"""
 	keyWait
 		any = false
@@ -163,16 +158,15 @@ script 17 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Huh? What are you
-	doing in here?
+	Hã? Está fazendo o que
+	aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't go
-	soon the party will
-	be over!
+	Se não correr, a festa
+	vai acabar!
 	"""
 	keyWait
 		any = false
@@ -183,9 +177,9 @@ script 18 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	What? Anyone
-	suspicious? No,not
-	that I've seen.
+	Hã?
+	Alguma pessoa suspeita?
+	Não, não vi nenhuma.
 	"""
 	keyWait
 		any = false
@@ -209,25 +203,24 @@ script 20 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It's possible for a
-	single person to
-	operate this ship.
+	Este navio pode ser
+	operado por uma pessoa
+	só.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's how far
-	automation has come.
-	Isn't it amazing?
+	Tudo graças aos avanços
+	da automação.
+	Loucura, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're the height of
-	both luxury and
-	technology here!
+	Este aqui é o ápice do
+	luxo E da tecnologia!
 	"""
 	keyWait
 		any = false
@@ -238,31 +231,30 @@ script 21 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The vibration wasn't
-	to do with anything
-	in this room.
+	A vibração não teve
+	nenhuma relação com
+	nada nesta sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All the Bridge's
-	instruments are
-	fine.
+	Todos os equipamentos
+	da ponte estão bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The other
-	possibility
+	A outra possibilidade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is trouble in the
-	Engine Room.
+	seria que houve algum
+	problema na sala das
+	máquinas.
 	"""
 	keyWait
 		any = false
@@ -273,16 +265,16 @@ script 22 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We don't want any
-	trouble while the
-	party's going on.
+	Não queremos que haja
+	nenhum problema
+	durante a festa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to be
-	extra vigilant.
+	Tenho que ficar
+	duplamente vigilante.
 	"""
 	keyWait
 		any = false
@@ -293,8 +285,7 @@ script 23 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Huh? Is the party
-	over already?
+	Hã? A festa já acabou?
 	"""
 	keyWait
 		any = false
@@ -310,14 +301,14 @@ script 30 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	If you can't stop my
-	Navi,you can't get
-	the booster system!
+	Se não detiver o meu
+	Navi, não vai pegar o
+	sistema impulsionador!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Better hurry!"
+	"Melhor correr, hein!"
 	keyWait
 		any = false
 	end
@@ -332,14 +323,14 @@ script 31 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	If you can't stop my
-	Navi,you can't get
-	the booster system!
+	Se não detiver o meu
+	Navi, não vai pegar o
+	sistema impulsionador!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Better hurry!"
+	"Melhor correr, hein!"
 	keyWait
 		any = false
 	end
@@ -349,17 +340,16 @@ script 35 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Right,let's go and
-	pound some Nebula
-	guys!
+	Tá, bora lá dar uma
+	surra naquele povinho
+	da Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NapalmMan's all
-	fired up and ready
-	for action!
+	O NapalmMan tá aquecido
+	e pronto pra briga!
 	"""
 	keyWait
 		any = false
@@ -370,16 +360,16 @@ script 36 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I'm not sure how
-	TomahawkMan will go
-	against Nebula
+	Não sei o quão bem o
+	TomahawkMan vai se
+	sair contra a Nebula,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we'll give it
-	our best shot!
+	mas a gente vai com
+	tudo!
 	"""
 	keyWait
 		any = false

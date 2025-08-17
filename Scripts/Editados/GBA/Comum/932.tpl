@@ -3,20 +3,20 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	Let the battle of
-	the 100 foes begin!
+	Que comece a batalha
+	dos 100 adversários!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"On guard!"
+	"Em guarda!"
 	keyWait
 		any = false
 	end
 }
 script 1 mmbn5 {
 	msgOpen
-	"Let's do it!"
+	"Vamos!"
 	keyWait
 		any = false
 	end

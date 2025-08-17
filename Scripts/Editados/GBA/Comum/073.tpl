@@ -89,9 +89,9 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So this is
-	Nebula's base⋯
-	Stay alert,Lan!
+	Então, esta é a
+	base da Nebula...
+	Fica esperto, Lan!
 	"""
 	keyWait
 		any = false
@@ -107,8 +107,8 @@ script 27 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's find the
-	back door,Lan!
+	Bora achar a porta
+	dos fundos, Lan!
 	"""
 	keyWait
 		any = false
@@ -124,8 +124,8 @@ script 28 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Keep alert as
-	we move ahead⋯
+	Vamos seguir em frente,
+	mas em alerta...
 	"""
 	keyWait
 		any = false
@@ -141,8 +141,9 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Where's Regal?
-	Let's check inside.
+	Cadê o Regal?
+	Vamos conferir o
+	interior.
 	"""
 	keyWait
 		any = false
@@ -158,9 +159,8 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Head back to
-	FactoryComp1
-	and jack me in!
+	Vá pro CPU Fábrica 1
+	e me conecta!
 	"""
 	keyWait
 		any = false
@@ -179,9 +179,9 @@ script 31 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Tesla's OK.
-	Why don't you
-	talk to her?
+	Tomara que a Tesla
+	esteja bem. Que tal
+	ir lá falar com ela?
 	"""
 	keyWait
 		any = false
@@ -196,7 +196,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's hurry,Lan!"
+	"Rápido, Lan!"
 	keyWait
 		any = false
 	end
@@ -211,9 +211,8 @@ script 33 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack me in so
-	I can open the
-	barrier!
+	Me conecta pra eu
+	abrir a barreira!
 	"""
 	keyWait
 		any = false
@@ -229,9 +228,8 @@ script 34 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Head back to
-	FactoryComp2
-	and jack me in!
+	Vá pro CPU Fábrica 2
+	e me conecta!
 	"""
 	keyWait
 		any = false
@@ -251,9 +249,8 @@ script 37 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Head back to
-	FactoryComp3
-	and jack me in!
+	Volta pro CPU Fábrica 3
+	e me conecta!
 	"""
 	keyWait
 		any = false
@@ -273,9 +270,8 @@ script 40 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Head back to
-	FactoryComp4
-	and jack me in!
+	Volta pro CPU Fábrica 4
+	e me conecta!
 	"""
 	keyWait
 		any = false
@@ -295,9 +291,9 @@ script 42 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder if there's
-	any clue as to where
-	Regal went.
+	Será que tem alguma
+	pista que aponte pra
+	onde o Regal foi?
 	"""
 	keyWait
 		any = false
@@ -313,9 +309,9 @@ script 43 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Find the
-	switch to reveal
-	the hidden path!
+	Lan! Encontra o
+	interruptor pra revelar
+	o caminho secreto!
 	"""
 	keyWait
 		any = false
@@ -335,9 +331,9 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is our
-	final battle⋯
-	Let's do it!
+	É a nossa batalha
+	final...
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -348,9 +344,8 @@ script 45 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aren't you
-	forgetting
-	something?
+	Você não tá
+	esquecendo uma coisa?
 	"""
 	keyWait
 		any = false
@@ -361,9 +356,9 @@ script 46 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Pride's OK.
-	Why don't you
-	talk to her?
+	Tomara que a Pride
+	esteja bem. Que tal
+	ir lá falar com ela?
 	"""
 	keyWait
 		any = false
@@ -374,9 +369,8 @@ script 47 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Head back to
-	Nebula's
-	MissionCtrl!
+	Volta pro Controle
+	de Missão da Nebula!
 	"""
 	keyWait
 		any = false
@@ -387,9 +381,8 @@ script 48 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	We can go back
-	inside when
-	you're ready.
+	Quando você estiver
+	pronto, vamos voltar lá!
 	"""
 	keyWait
 		any = false

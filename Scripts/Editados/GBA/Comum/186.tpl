@@ -9,7 +9,7 @@ script 0 mmbn5 {
 		jumpIfLess = 1
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -25,16 +25,17 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A Security Cube
-	that was placed
-	long ago.
+	Um Cubo de Segurança,
+	deixado aí há muito
+	tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can't be unlocked
-	without its P-Code!
+	Não pode ser
+	desbloqueado
+	sem o Código-P!
 	"""
 	keyWait
 		any = false

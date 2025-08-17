@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT IS GOING
-	TO HAPPEN NEXT?
+	O QUE VAI ACONTECER
+	AGORA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	UNPREDICTABLE
-	FEARS ARE THE
-	SCARIEST⋯
+	MEDOS IMPREVISÍVEIS
+	SÃO OS MAIS
+	ASSUSTADORES...
 	"""
 	keyWait
 		any = false
@@ -24,14 +24,14 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"*Sigh*"
+	"Ai, ai..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula really
-	messed up my
-	schedule today.
+	A Nebula realmente
+	estragou o meu
+	cronograma.
 	"""
 	keyWait
 		any = false
@@ -42,14 +42,14 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE ROADS HERE
-	ARE SO COMPLEX!
-	SO ANNOYING!
+	AS ESTRADAS AQUI
+	SÃO TÃO COMPLEXAS!
+	QUE IRRITANTE!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"JUST MAKE ONE!"
+	"ERA SÓ FAZER UMA SÓ!"
 	keyWait
 		any = false
 	end
@@ -59,15 +59,14 @@ script 11 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Get rid of
-	SciLab Area!
+	Que se exploda a
+	Área SciLab!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's useless
-	anyway!
+	Ela é inútil, mesmo!
 	"""
 	keyWait
 		any = false
@@ -78,16 +77,15 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU SAVED
-	MY LIFE⋯
+	VOCÊ SALVOU A
+	MINHA VIDA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT OTHER AREAS
-	ARE STILL IN
-	CHAOS!
+	MAS AS OUTRAS ÁREAS
+	AINDA ESTÃO UM CAOS!
 	"""
 	keyWait
 		any = false
@@ -98,15 +96,15 @@ script 21 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Suddenly I got
-	so angry!
+	Eu fiquei tão furioso
+	de repente!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,why the heck
-	did that happen?!
+	Puxa, por que raios
+	aquilo aconteceu?
 	"""
 	keyWait
 		any = false
@@ -117,9 +115,9 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HOW IN THE WORLD
-	DID I BECOME
-	LIKE THAT?
+	O QUE ACONTECEU
+	COMIGO PARA FICAR
+	DAQUELE JEITO?
 	"""
 	keyWait
 		any = false
@@ -130,14 +128,14 @@ script 31 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I felt like a huge
-	amount of hate was
-	burning inside me.
+	Foi como se um volume
+	imenso de raiva
+	queimasse em mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It was terrifying!"
+	"Foi aterrorizante!"
 	keyWait
 		any = false
 	end
@@ -147,16 +145,16 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I GUESS WE DON'T
-	HAVE ANY OTHER
-	CHOICE.
+	ACHO QUE NÃO TEMOS
+	OUTRA ESCOLHA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S UP TO THAT
-	TEAM OF NAVIS!
+	TEMOS QUE DEIXAR TUDO
+	NAS MÃOS DAQUELA
+	EQUIPE DE NAVIS!
 	"""
 	keyWait
 		any = false
@@ -167,17 +165,16 @@ script 41 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I couldn't do
-	anything but
-	watch helplessly.
+	Só o que eu pude fazer
+	foi assistir, atônito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing
-	I can do in a
-	situation like this⋯
+	Digo, não TEM nada que
+	eu possa vez numa
+	situação destas...
 	"""
 	keyWait
 		any = false

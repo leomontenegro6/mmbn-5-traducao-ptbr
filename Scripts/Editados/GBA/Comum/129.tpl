@@ -2,21 +2,21 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"This is Mayl's PC."
+	"É o computador da Mayl."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's linked with her
-	electric piano so
-	she can write music.
+	Está ligado ao piano
+	elétrico dela, para
+	compôr música.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's also a port
-	for jacking in.
+	Também possui uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,9 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A portable electric
-	piano that can be
-	played outside.
+	Um piano elétrico
+	portátil que pode ser
+	tocado ao ar livre.
 	"""
 	keyWait
 		any = false
@@ -36,13 +36,14 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A lovely heart-
-	shaped pillow.
+	Um adorável
+	travesseiro em
+	forma de coração.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mayl loves it."
+	"A Mayl o adora."
 	keyWait
 		any = false
 	end
@@ -53,23 +54,23 @@ script 3 mmbn5 {
 		jumpIfTeamColonel = 6
 	msgOpen
 	"""
-	A tennis racket
-	and balls.
+	Uma raquete e bolas
+	de tênis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mayl's tennis
-	skills even amaze
-	the boys⋯
+	As habilidades de tênis
+	da Mayl maravilham até
+	os meninos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Or at least that's
-	what she thinks.
+	... Ou, pelo menos,
+	é o que ela pensa.
 	"""
 	keyWait
 		any = false
@@ -78,8 +79,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A ladder to the
-	top bunk.
+	Uma escada para
+	a cama de cima
+	do beliche.
 	"""
 	keyWait
 		any = false
@@ -88,15 +90,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A closet⋯
-	I can't look in
+	Um closet...
+	Não posso abrir para
+	ver.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	there. Even close
-	friends have limits.
+	Até amizades próximas
+	têm seus limites.
 	"""
 	keyWait
 		any = false
@@ -105,16 +108,17 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A lone ace of hearts
-	is on the desk.
+	Um solitário ás de
+	copas se encontra
+	sobre a mesa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's facing this
-	way and affects
-	Lan somehow.
+	Está virado para o Lan.
+	Deixa o jovem vermelho,
+	por algum motivo.
 	"""
 	keyWait
 		any = false

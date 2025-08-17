@@ -69,8 +69,9 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	So this is End City.
-	The castle's huge!
+	Então, esta é a Cidade
+	de Endo. O castelo é
+	gigantesco!
 	"""
 	keyWait
 		any = false
@@ -85,8 +86,8 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go into
-	GargoylCastle!
+	Vamos lá pro
+	Castelo Endo!
 	"""
 	keyWait
 		any = false
@@ -97,8 +98,9 @@ script 19 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in,Lan! Let's
-	go check End Area3!
+	Me conecta, Lan!
+	Vamos conferir a
+	Área Endo 3!
 	"""
 	keyWait
 		any = false
@@ -109,9 +111,9 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's tell him
-	that End Area
-	was OK!
+	Vamos contar pra ele
+	que tava tudo bem na
+	Área Endo!
 	"""
 	keyWait
 		any = false
@@ -127,8 +129,9 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to where
-	the Gargoyles are!
+	Vamos lá pra cima,
+	pras estátuas dos
+	Shachi!
 	"""
 	keyWait
 		any = false
@@ -139,9 +142,9 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what the
-	TextData in the
-	DataDisk meant.
+	O que será que o texto
+	naquele Disco de Dados
+	significa?
 	"""
 	keyWait
 		any = false
@@ -152,8 +155,8 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's check out
-	Gargoyle!
+	Vamos conferir o
+	Shachi!
 	"""
 	keyWait
 		any = false
@@ -164,9 +167,9 @@ script 24 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's talk to people
-	and see what's
-	going on!
+	Bora falar com todo
+	mundo pra ver o que
+	tá rolando!
 	"""
 	keyWait
 		any = false
@@ -185,9 +188,9 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go through
-	that door when
-	you're ready,Lan!
+	Assim que você tiver
+	pronto, vamos passar
+	por aquela porta, Lan!
 	"""
 	keyWait
 		any = false
@@ -201,8 +204,8 @@ script 33 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's go
-	see Chaud!
+	Lan! Vamos lá falar
+	com o Chaud!
 	"""
 	keyWait
 		any = false
@@ -213,8 +216,8 @@ script 34 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Let's go
-	see Baryl!
+	Lan! Vamos lá falar
+	com o Baryl!
 	"""
 	keyWait
 		any = false
@@ -225,8 +228,8 @@ script 35 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Why don't we
-	go home now,Lan?
+	Que tal a gente ir
+	pra casa, Lan?
 	"""
 	keyWait
 		any = false
@@ -273,9 +276,9 @@ script 39 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in,Lan!
-	Let's head out
-	to End Area3!
+	Se conecta, Lan!
+	Vamos para a Área
+	Endo 3!
 	"""
 	keyWait
 		any = false
@@ -286,8 +289,8 @@ script 40 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go jack in
-	at Gargoyle!
+	A gente tem que se
+	conectar no Shachi!
 	"""
 	keyWait
 		any = false
@@ -309,7 +312,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's get moving!"
+	"Vamos andando!"
 	keyWait
 		any = false
 	end
@@ -319,9 +322,9 @@ script 42 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	That hologram of a
-	samurai was missing
-	something⋯
+	Tava faltando alguma
+	coisa no holograma
+	daquele samurai...
 	"""
 	keyWait
 		any = false
@@ -332,8 +335,8 @@ script 43 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	Gargoyle!
+	Vamos lá pro
+	Shachi!
 	"""
 	keyWait
 		any = false
@@ -344,9 +347,9 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Looks like we have
-	to complete the
-	100-slice training!
+	Parece que temos que
+	completar o treino dos
+	100 cortes!
 	"""
 	keyWait
 		any = false
@@ -361,8 +364,8 @@ script 46 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in to the
-	Gargoyle,Lan!
+	Se conecta no Shachi,
+	Lan!
 	"""
 	keyWait
 		any = false
@@ -373,8 +376,8 @@ script 47 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go back
-	to GargoylComp!
+	Bora voltar pro
+	Computador do Shachi!
 	"""
 	keyWait
 		any = false
@@ -385,8 +388,8 @@ script 48 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	End Area4,Lan!
+	Vamos pra Área
+	Endo 4, Lan!
 	"""
 	keyWait
 		any = false
@@ -397,8 +400,8 @@ script 49 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to End
-	Area5!
+	Vamos lá pra
+	Área Endo 5!
 	"""
 	keyWait
 		any = false
@@ -436,8 +439,8 @@ script 60 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what
-	Chaud's up to.
+	O que será que o Chaud
+	anda fazendo?
 	"""
 	keyWait
 		any = false
@@ -448,8 +451,8 @@ script 61 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder what
-	Baryl's up to.
+	O que será que o Baryl
+	anda fazendo?
 	"""
 	keyWait
 		any = false
@@ -460,9 +463,9 @@ script 62 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	VisionBurst of
-	ACDC Town,Lan!
+	Vamos pra Visão
+	Passada do Bairro
+	ACDC, Lan!
 	"""
 	keyWait
 		any = false
@@ -473,8 +476,9 @@ script 63 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder if anyone
-	knows about the dog.
+	Será que alguém sabe
+	alguma coisa sobre
+	aquele cachorro?
 	"""
 	keyWait
 		any = false
@@ -485,9 +489,8 @@ script 64 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I wonder where
-	Grandpa took
-	the dog.
+	Aonde será que o vovô
+	levava o cachorro?
 	"""
 	keyWait
 		any = false
@@ -498,9 +501,9 @@ script 65 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Jack in,Lan! Let's
-	go see that old
-	man's Navi!
+	Se conecta, Lan!
+	Vamos lá ver o Navi
+	daquele senhor!
 	"""
 	keyWait
 		any = false
@@ -520,15 +523,15 @@ script 66 mmbn5 {
 		item = 85
 	"""
 	"?
-	What PCode is this?
+	Que Código-P é esse?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it has
-	something to do
-	with SciLab⋯
+	Acho que tem alguma
+	coisa a ver com o
+	SciLab...
 	"""
 	keyWait
 		any = false
@@ -539,14 +542,14 @@ script 67 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The 4th rock-crusher
-	machine. A box that
-	blocks the rocks
+	A quarta máquina de
+	quebrar rochas. Uma
+	caixa que detém as
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"marks the spot⋯"
+	"rochas marca o local..."
 	keyWait
 		any = false
 	end
@@ -556,8 +559,8 @@ script 68 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's get back
-	to the Net,Lan!
+	Vamos voltar
+	pra Rede, Lan!
 	"""
 	keyWait
 		any = false
@@ -584,9 +587,9 @@ script 70 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go through
-	that door when
-	you're ready!
+	Quando cê tiver pronto,
+	vamos atravessar
+	aquela porta!
 	"""
 	keyWait
 		any = false
@@ -597,8 +600,8 @@ script 73 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to
-	SciLab HP,Lan!
+	Vamos pra página
+	do SciLab, Lan!
 	"""
 	keyWait
 		any = false
@@ -609,9 +612,9 @@ script 74 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A place for a new
-	MissionCtrl⋯? Who
-	should we talk to?
+	Um novo local pro Con-
+	trole de Missão? Quem
+	a gente consulta...?
 	"""
 	keyWait
 		any = false
@@ -622,9 +625,9 @@ script 75 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	The DataFile's by an
-	impressive object in
-	End Area3,right?
+	O Arquivo de Dados fica
+	perto de um objeto im-
+	pressionante em Endo 3.
 	"""
 	keyWait
 		any = false
@@ -635,8 +638,8 @@ script 76 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's take it
-	to Higsby!
+	Bora levar ele
+	pro Higsby!
 	"""
 	keyWait
 		any = false
@@ -659,8 +662,8 @@ script 80 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to End
-	Area5,Lan!
+	Vamos lá pra
+	Área Endo 5, Lan!
 	"""
 	keyWait
 		any = false
@@ -674,9 +677,9 @@ script 83 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	Undernet,Lan!
-	Meddy's in danger!
+	Vamos pra Undernet,
+	Lan!
+	A Meddy tá em apuros!
 	"""
 	keyWait
 		any = false
@@ -687,9 +690,9 @@ script 84 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	Undernet,Lan!
-	ToadMan's in danger!
+	Vamos pra Undernet,
+	Lan!
+	O ToadMan tá em apuros!
 	"""
 	keyWait
 		any = false
@@ -700,8 +703,7 @@ script 85 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Let's go to the
-	Undernet4!
+	Vamos pra Undernet 4!
 	"""
 	keyWait
 		any = false

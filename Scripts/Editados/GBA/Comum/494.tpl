@@ -3,22 +3,21 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your hopeful
-	soul that commands
-	all⋯
+	A sua alma esperançosa
+	que tudo governa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -28,22 +27,21 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your masterful
-	soul that commands
-	all⋯
+	A sua alma magistral
+	que tudo governa...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -53,16 +51,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	I am the flame of
-	darkness. I'll burn
-	bright again,
+	Eu sou a chama da
+	escuridão. Eu queimarei
+	forte de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you depart the
-	Cyberworld.
+	quando você deixar o
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -73,22 +71,21 @@ script 2 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your trustworthy
-	soul that protects
-	your friends⋯
+	A sua alma confiável
+	que protege os amigos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -98,22 +95,21 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your trustworthy
-	soul that protects
-	your friends⋯
+	A sua alma confiável
+	que protege os amigos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -123,16 +119,16 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	I am the flame of
-	darkness. I'll burn
-	bright again,
+	Eu sou a chama da
+	escuridão. Eu queimarei
+	forte de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you depart the
-	Cyberworld.
+	quando você deixar o
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -143,22 +139,21 @@ script 7 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your piercing
-	soul that sees
-	through all⋯
+	A sua alma perfurante
+	que vê através de tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -168,22 +163,21 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your piercing
-	soul that sees
-	through all⋯
+	A sua alma perfurante
+	que vê através de tudo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -193,16 +187,16 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	I am the flame of
-	darkness. I'll burn
-	bright again,
+	Eu sou a chama da
+	escuridão. Eu queimarei
+	forte de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you depart the
-	Cyberworld.
+	quando você deixar o
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -213,22 +207,21 @@ script 12 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your burning
-	soul that
-	consumes all⋯
+	A sua alma ardente
+	que tudo consome...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -238,22 +231,21 @@ script 15 mmbn5 {
 script 16 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your powerful
-	soul that
-	crushes all⋯
+	A sua alma poderosa
+	que tudo pulveriza...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -263,16 +255,16 @@ script 16 mmbn5 {
 script 17 mmbn5 {
 	msgOpen
 	"""
-	I am the flame of
-	darkness. I'll burn
-	bright again,
+	Eu sou a chama da
+	escuridão. Eu queimarei
+	forte de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you depart the
-	Cyberworld.
+	quando você deixar o
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -283,22 +275,22 @@ script 17 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your wise soul
-	that has all
-	the answers⋯
+	A sua alma sábia que
+	contém todas as
+	respostas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -308,22 +300,22 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your wise soul
-	that has all
-	the answers⋯
+	A sua alma sábia que
+	contém todas as
+	respostas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -333,16 +325,16 @@ script 21 mmbn5 {
 script 22 mmbn5 {
 	msgOpen
 	"""
-	I am the flame of
-	darkness. I'll burn
-	bright again,
+	Eu sou a chama da
+	escuridão. Eu queimarei
+	forte de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you depart the
-	Cyberworld.
+	quando você deixar o
+	mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -353,22 +345,21 @@ script 22 mmbn5 {
 script 25 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your healing
-	soul that
-	loves all⋯
+	A sua alma restauradora,
+	que tudo ama...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -378,22 +369,21 @@ script 25 mmbn5 {
 script 26 mmbn5 {
 	msgOpen
 	"""
-	My flames reflect
-	the darkness in
-	your soul.
+	As minhas chamas
+	refletem a escuridão
+	na sua alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your healing
-	soul that
-	soothes all⋯
+	A sua alma restauradora,
+	que tudo ama...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It stirs my flames!"
+	"Ela atiça minhas chamas!"
 	keyWait
 		any = false
 	flagSet
@@ -403,16 +393,16 @@ script 26 mmbn5 {
 script 27 mmbn5 {
 	msgOpen
 	"""
-	I am the flame of
-	darkness. I'll burn
-	bright again,
+	Eu sou a chama da
+	escuridão. Eu queimarei
+	forte de novo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when you depart the
-	Cyberworld.
+	quando você deixar o
+	mundo cibernético.
 	"""
 	keyWait
 		any = false

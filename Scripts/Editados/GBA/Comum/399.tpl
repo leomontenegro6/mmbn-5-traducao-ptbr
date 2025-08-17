@@ -10,14 +10,14 @@ script 10 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I guess I took
-	the brunt of
-	Nebula's attack⋯
+	Acho que eu acabei
+	levando o ataque da
+	Nebula bem na cara...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm sorry."
+	"Foi mal."
 	keyWait
 		any = false
 	end
@@ -32,16 +32,16 @@ script 11 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I guess I took
-	the brunt of
-	Nebula's attack⋯
+	Acho que eu levei o
+	ataque da Nebula bem
+	na cara...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I don't know
-	when I got hit.
+	Mas não faço ideia de
+	quando eu fui atingido.
 	"""
 	keyWait
 		any = false
@@ -52,8 +52,7 @@ script 20 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I'm totally
-	exhausted.
+	Eu tô tão exausto.
 	"""
 	keyWait
 		any = false
@@ -64,8 +63,7 @@ script 21 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	My head is still
-	kind of heavy.
+	Que dor de cabeça...
 	"""
 	keyWait
 		any = false

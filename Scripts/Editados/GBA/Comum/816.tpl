@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,find the
-	Navis that invaded
-	the main system!
+	MegaMan, encontra os
+	Navis que invadiram
+	o sistema central!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Positivo!"
 	keyWait
 		any = false
 	end

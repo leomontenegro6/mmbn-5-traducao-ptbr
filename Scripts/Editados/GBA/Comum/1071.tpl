@@ -9,7 +9,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Hold on,Lan."
+	"Espere, Hikari."
 	keyWait
 		any = false
 	clearMsg
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's up?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -32,17 +32,17 @@ script 2 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Liberation battles
-	are a bit different
-	from virus busting.
+	As batalhas de liberação
+	são um pouco diferentes
+	da típica deleção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to beat
-	all the viruses
-	within 3 turns.
+	Você precisa vencer
+	todos os vírus dentro
+	de três turnos.
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really?!"
+	"Três turnos?!"
 	keyWait
 		any = false
 	clearMsg
@@ -66,25 +66,24 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	When the Custom
-	Gauge is max,the
-	Custom Screen opens.
+	Quando a BarraCustom
+	chega ao máximo, o seu
+	turno é encerrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,if you can
-	delete all viruses
-	within 1 turn,you
+	Ah, e, se conseguir
+	deletar todos os
+	vírus em um só turno,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will liberate all
-	the panels around
-	you!
+	você libera todos os
+	quadros ao seu redor!
 	"""
 	keyWait
 		any = false
@@ -97,8 +96,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right.
-	Understood.
+	Certo.
+	Entendido.
 	"""
 	keyWait
 		any = false
@@ -111,32 +110,31 @@ script 6 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I've got one
-	more tip⋯
+	E tenho uma última
+	dica para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it may help you
-	if you get into a
-	tight situation.
+	Pode lhe ajudar caso
+	você se veja em uma
+	situação complicada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you happen to
-	be caught between
-	enemies⋯
+	Se você ficar entre
+	duas colunas de inimigos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use the L/R Buttons
-	to switch your
-	Navi's direction.
+	aperte os botões
+	"L" e "R" para mudar
+	a direção do seu Navi.
 	"""
 	keyWait
 		any = false
@@ -149,9 +147,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the L/R Button
-	function changes on
-	the Custom Screen.
+	Então, a função desses
+	botões muda entre a luta
+	e a Tela de Customização.
 	"""
 	keyWait
 		any = false
@@ -164,8 +162,7 @@ script 8 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I'm counting
-	on you!
+	Agora, é com você!
 	"""
 	keyWait
 		any = false
@@ -175,7 +172,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Hold on,Lan."
+	"Espere, Lan Hikari."
 	keyWait
 		any = false
 	clearMsg
@@ -186,7 +183,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yes?"
+	"Sim?"
 	keyWait
 		any = false
 	clearMsg
@@ -198,17 +195,17 @@ script 12 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Liberation battles
-	are a bit different
-	from virus busting.
+	As batalhas de liberação
+	são um pouco diferentes
+	da típica deleção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You have to beat
-	all the viruses
-	within 3 turns.
+	Você precisa vencer
+	todos os vírus dentro
+	de três turnos.
 	"""
 	keyWait
 		any = false
@@ -220,7 +217,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Really?!"
+	"Três turnos?!"
 	keyWait
 		any = false
 	clearMsg
@@ -232,25 +229,24 @@ script 14 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	When the Custom
-	Gauge is max,the
-	Custom Screen opens.
+	Quando a BarraCustom
+	chega ao máximo, o seu
+	turno é encerrado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,if you can
-	delete all viruses
-	within 1 turn,you
+	Ah, e, se conseguir
+	deletar todos os
+	vírus em um só turno,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will liberate all
-	the panels around
-	you!
+	você libera todos os
+	quadros ao seu redor!
 	"""
 	keyWait
 		any = false
@@ -263,8 +259,8 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	All right.
-	Understood.
+	Certo.
+	Entendido.
 	"""
 	keyWait
 		any = false
@@ -277,32 +273,31 @@ script 16 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I've got one
-	more tip⋯
+	E tenho uma última
+	dica para você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it may help you
-	if you get into a
-	tight situation.
+	Pode lhe ajudar caso
+	você se veja em uma
+	situação complicada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you happen to
-	be caught between
-	enemies⋯
+	Se você ficar entre
+	duas colunas de inimigos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	use the L/R Buttons
-	to switch your
-	Navi's direction.
+	aperte os botões
+	"L" e "R" para mudar
+	a direção do seu Navi.
 	"""
 	keyWait
 		any = false
@@ -315,9 +310,9 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the L/R Button
-	function changes on
-	the Custom Screen.
+	Então, a função desses
+	botões muda entre a luta
+	e a Tela de Customização.
 	"""
 	keyWait
 		any = false
@@ -330,8 +325,7 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I'm counting
-	on you!
+	Agora, é com você!
 	"""
 	keyWait
 		any = false
@@ -356,8 +350,8 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Liberate with the
-	LongSwrd?
+	Liberar com a
+	Espada Longa?
 	
 	"""
 	positionOptionHorizontal
@@ -370,7 +364,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -379,7 +373,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -397,8 +391,8 @@ script 21 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Use WideSwrd
-	to liberate?
+	Usar Espada Larga
+	para liberar?
 	
 	"""
 	positionOptionHorizontal
@@ -411,7 +405,7 @@ script 21 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -420,7 +414,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -438,8 +432,8 @@ script 22 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Use ScrenDiv
-	to liberate?
+	Usar Investida Visor
+	para liberar?
 	
 	"""
 	positionOptionHorizontal
@@ -452,7 +446,7 @@ script 22 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -461,7 +455,7 @@ script 22 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false

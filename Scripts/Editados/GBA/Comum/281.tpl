@@ -15,13 +15,13 @@ script 20 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I went to the ocean
-	by myself yesterday⋯
+	Eu fui pra praia
+	sozinha ontem...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's so beautiful!"
+	"Muito linda!"
 	keyWait
 		any = false
 	end
@@ -31,16 +31,15 @@ script 25 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Maybe it's because
-	I grew up with Roll⋯
+	Talvez seja porque eu
+	cresci com a Roll...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have trouble
-	spending time by
-	myself.
+	mas é difícil pra mim
+	passar tempo sozinha.
 	"""
 	keyWait
 		any = false
@@ -51,9 +50,9 @@ script 30 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	You should take a
-	break every once in
-	a while too,Lan!
+	Você devia fazer uma
+	pausa de vez em quando
+	também, Lan!
 	"""
 	keyWait
 		any = false
@@ -74,14 +73,13 @@ script 50 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I have to teach
-	someone the Net
-	Battle basics today.
+	Eu vou dar uma aula de
+	NetLuta básica hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm kind of nervous⋯"
+	"Tô um pouco nervosa..."
 	keyWait
 		any = false
 	end
@@ -91,17 +89,16 @@ script 55 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Mrs. Hikari,you're
-	studying NetBattles,
-	right?
+	A sua mãe tá estudando
+	NetLuta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know how you feel.
-	I have to dig into
-	something,myself⋯
+	Eu entendo ela. Preciso
+	me distrair com alguma
+	coisa também...
 	"""
 	keyWait
 		any = false
@@ -112,9 +109,8 @@ script 60 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Lan,is there
-	something wrong?
-	Take care⋯
+	Lan, algum problema?
+	Se cuida...
 	"""
 	keyWait
 		any = false

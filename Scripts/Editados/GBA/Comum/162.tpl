@@ -19,17 +19,17 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Fishy devices are
-	arranged like
-	products in a store.
+	Dispositivos estranhos,
+	organizados como
+	produtos em uma loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The case has an
-	electronic lock. I
-	think I can jack in!
+	A caixa tem uma tranca
+	eletrônica. Acho que dá
+	para se conectar nela!
 	"""
 	keyWait
 		any = false
@@ -38,9 +38,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Nebula's symbol
-	gives a menacing
-	quality to the room.
+	O símbolo da Nebula
+	dá à sala um ar de
+	ameaça.
 	"""
 	keyWait
 		any = false
@@ -49,9 +49,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Nebula's symbol
-	gives a menacing
-	quality to the room.
+	O símbolo da Nebula
+	dá à sala um ar de
+	ameaça.
 	"""
 	keyWait
 		any = false
@@ -60,9 +60,9 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The computer was no
-	doubt used for
-	dubious purposes.
+	Esse computador, com
+	certeza, era usado
+	para fins sinistros.
 	"""
 	keyWait
 		any = false
@@ -77,20 +77,19 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The PETs of Dex
-	and the others
-	are hidden⋯
+	Os PETs do Dex e dos
+	outros tão escondidos...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	"Bingo!!!"
@@ -98,7 +97,7 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"Lan got:"
+	"Lan adquiriu:"
 	itemGive
 		item = 35
 		amount = 1
@@ -115,20 +114,20 @@ script 10 mmbn5 {
 		buffer = 0
 		item = 36
 	"""
-	,"
+	",
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 35
 	"""
-	" and
+	" e
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 37
-	".\""
+	"\"."
 	playerFinish
 	playerResetScene
 	keyWait
@@ -137,8 +136,8 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Now we can fight
-	with all our might!
+	Agora a gente pode
+	lutar com tudo!
 	"""
 	keyWait
 		any = false
@@ -158,9 +157,9 @@ script 11 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	This case holds
-	handheld devices of
-	dubious nature.
+	Esse depósito guarda
+	dispostivos portáteis
+	de natureza ilícita.
 	"""
 	keyWait
 		any = false
@@ -169,9 +168,9 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	This case holds
-	illegally modified
-	PETs and DarkChips.
+	Aqui há PETs e Chips
+	das Trevas ilegalmente
+	modificados.
 	"""
 	keyWait
 		any = false

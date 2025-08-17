@@ -26,13 +26,13 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S WRONG WITH
-	AN OLD PC?!
+	O QUE VOCÊ TEM CONTRA
+	COMPUTADORES ANTIGOS?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DON'T MOCK ME!!!"
+	"NÃO ME ESNOBA, NÃO!!!"
 	keyWait
 		any = false
 	end
@@ -42,23 +42,23 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	APPARENTLY,THE
-	SERVER THAT CAUSED
+	AO QUE PARECE,
+	O SERVIDOR QUE CAUSOU
+	AQUELE INCIDENTE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT INCIDENT WAS
-	INSTALLED IN THE
-	TREECOMP.
+	FOI INSTALADO NO
+	COMPUTADOR DA ÁRVORE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SO GLAD IT
-	WASN'T HERE.
+	AINDA BEM QUE EU
+	NÃO ESTAVA LÁ.
 	"""
 	keyWait
 		any = false
@@ -69,15 +69,16 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S BEEN NO WORK
-	AT ALL LATELY.
+	NÃO TEM APARECIDO
+	NENHUM TRABALHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I GUESS I'M JUST
-	YESTERDAY'S MODEL.
+	ACHO QUE EU
+	REALMENTE SOU
+	PEÇA DE MUSEU, JÁ...
 	"""
 	keyWait
 		any = false
@@ -98,25 +99,25 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I HAVEN'T STOPPED
-	TRYING TO FIND WORK
-	LIKE THAT OTHER GUY.
+	DIFERENTE DAQUELE LÁ,
+	EU NÃO DESISTI DE
+	ACHAR TRABALHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M GONNA PROVE
-	MYSELF BY GETTING
-	RARE CHIPS!
+	VOU PROVAR O MEU
+	VALOR ADQUIRINDO
+	CHIPS RAROS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHILE WE'RE ON THE
-	SUBJECT,WOULD YOU
-	LIKE TO TRADE YOUR
+	ALIÁS, VOCÊ TERIA
+	INTERESSE EM TROCAR
+	O SEU
 	"""
 	keyWait
 		any = false
@@ -131,7 +132,7 @@ script 5 mmbn5 {
 		code = J
 	"""
 	"
-	FOR MY HARD-EARNED
+	PELO MEU SUADO
 	"
 	"""
 	printNaviCustProgram
@@ -142,9 +143,9 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	COME ON!
-	GIVE A GUY--I MEAN
-	A PROGRAM--A HAND.
+	VAI!
+	EU TÔ DE JOELHOS!
+	ER, FIGURATIVAMENTE!
 	"""
 	keyWait
 		any = false
@@ -160,7 +161,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -169,7 +170,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -184,9 +185,9 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	I SEE⋯ I GUESS THIS
-	IS GONNA BE HARDER
-	THAN I THOUGHT⋯
+	ENTENDO... ACHO QUE
+	VAI SER MAIS DIFÍCIL
+	DO QUE EU IMAGINAVA...
 	"""
 	keyWait
 		any = false
@@ -206,13 +207,13 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	REALLY?!
-	YOU MEAN IT?!
+	É MESMO?!
+	DE VERDADE?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HERE YOU GO!"
+	"PODE PEGAR!"
 	keyWait
 		any = false
 	clearMsg
@@ -228,7 +229,7 @@ script 6 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan traded his
+	MegaMan trocou um
 	"
 	"""
 	printChip
@@ -243,7 +244,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printNaviCustProgram
@@ -257,14 +258,14 @@ script 6 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"THANK YOU VERY MUCH!"
+	"MUITO OBRIGADO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS PUTS ME ONE
-	STEP CLOSER TO BEING
-	A WORKING PROGRAM!
+	AGORA, ESTOU UM PASSO
+	MAIS PERTO DE SER UM
+	PROG TRABALHADOR!
 	"""
 	keyWait
 		any = false
@@ -275,9 +276,9 @@ script 7 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SORRY,BUT IT LOOKS
-	LIKE YOU DON'T HAVE
-	A "
+	DESCULPA, MAS ACHO
+	QUE VOCÊ NÃO TEM UM
+	"
 	"""
 	printChip
 		buffer = 0
@@ -286,20 +287,21 @@ script 7 mmbn5 {
 	printCode
 		buffer = 0
 		code = J
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE IT'S IN A
-	FOLDER?
+	SERÁ QUE ELE ESTÁ
+	EM UMA PASTA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MUST TAKE IT OUT
-	OF THE FOLDER FIRST!
+	PRECISA TIRÁ-LO
+	DA PASTA ANTES
+	DE TROCAR!
 	"""
 	keyWait
 		any = false
@@ -310,8 +312,8 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WOULD YOU LIKE
-	TO TRADE YOUR
+	GOSTARIA DE TROCAR
+	O SEU
 	"""
 	keyWait
 		any = false
@@ -326,7 +328,7 @@ script 8 mmbn5 {
 		code = J
 	"""
 	"
-	FOR MY
+	PELO MEU
 	"
 	"""
 	printNaviCustProgram
@@ -347,7 +349,7 @@ script 8 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -356,7 +358,7 @@ script 8 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -370,14 +372,14 @@ script 8 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"⋯I SEE."
+	"... ENTENDO."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M SO SILLY FOR
-	THINKING I WAS ABOUT
-	TO MAKE A COMEBACK.
+	FOI TOLICE PENSAR
+	QUE EU PODERIA
+	VOLTAR A SER ÚTIL.
 	"""
 	keyWait
 		any = false
@@ -388,9 +390,9 @@ script 9 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS PUTS ME ONE
-	STEP CLOSER TO BEING
-	A WORKING PROGRAM!
+	AGORA, ESTOU UM PASSO
+	MAIS PERTO DE SER UM
+	PROG TRABALHADOR!
 	"""
 	keyWait
 		any = false

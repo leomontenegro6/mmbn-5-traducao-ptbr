@@ -11,89 +11,88 @@ script 5 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What,fool!
-	You got a problem?!
+	Que é, mané?!
+	Não foi com a minha
+	cara, não?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you suggesting
-	I don't belong here,
-	fool!
+	Tá dizendo que aqui
+	não é lugar pra mim,
+	é, mané?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't judge me
-	like that,fool!
+	Tu não pode me julgar
+	desse jeito, não, mané!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
 	"""
-	⋯No good. I can't
-	keep this voice
-	up.
+	... Esquece. Eu não
+	aguento fazer muito
+	essa voz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's right,I'm
-	Mr.Hide&Seek. My
-	plan didn't work.
+	É isso aí, eu sou o
+	Sr. Esconde-Esconde.
+	O meu plano não rolou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,go ahead.
-	Say it like in
-	the rules.
+	Bom, manda ver.
+	Faz como tá nas regras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Say,\"Got ya!\""
+	"\"Te peguei!\""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"You got me!"
+	"É, cê me pegou!\n"
 	wait
 		frames = 60
 	"""
-	
-	Now let's go on to
-	the next one.
+	Agora, vá pegar o
+	próximo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Round 4's in a warm
-	part of Cyberspace.
+	A quarta rodada é
+	em uma parte quente
+	do ciberespaço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	When I said warm,
-	what did it make
-	you think about?
+	O que te vem à cabeça
+	quando eu falo "quente"?
 	"""
 	keyWait
 		any = false
@@ -104,24 +103,25 @@ script 6 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	When I said warm,
-	what did it make
-	you think about?
+	Quando eu falei
+	"quente", no que
+	você pensou?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A stove,an oven,
-	or maybe a⋯
+	Uma grelha?
+	Uma panela?
+	Ou, talvez, um...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Whoops,
-	I almost gave
-	it away.
+	... Opa.
+	Quase que eu dou a
+	resposta.
 	"""
 	keyWait
 		any = false

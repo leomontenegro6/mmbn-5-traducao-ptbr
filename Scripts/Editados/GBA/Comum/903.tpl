@@ -4,64 +4,62 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"""
-	Dang MegaMan and his
-	friends! 
-	"""
+	"Maldito MegaMan e seu\nexercitozinho ridículo!\n"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems I've
-	underestimated them⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	To have overcome
-	such deep-rooted
-	DarkPower⋯
+	Parece que venho
+	subestimando eles...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll be a problem
-	if MegaMan can
-	command DarkPower.
+	Jamais imaginaria que
+	ele venceria Trevas
+	tão enraizadas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Tsk! I'll have to
-	get Hikari to talk
-	somehow
+	Será um problema se
+	MegaMan conseguir domi-
+	nar o Poder das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and complete the
-	research. If I can
-	just get his report⋯
+	Tsc! Terei de dar um
+	jeito de fazer o Hikari
+	falar e concluir minha
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then my ambitions
-	will be realized!
+	pesquisa. Se, ao menos,
+	eu conseguisse pôr as
+	mãos no relatório dele...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	as minhas ambições
+	seriam, enfim,
+	realizadas!
 	"""
 	keyWait
 		any = false
@@ -70,7 +68,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Dr.Regal⋯"
+	"Dr. Regal..."
 	keyWait
 		any = false
 	clearMsg
@@ -82,8 +80,7 @@ script 2 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	⋯Oh,it's you,
-	CosmoMan.
+	... Ah, é você, CosmoMan.
 	"""
 	keyWait
 		any = false
@@ -95,7 +92,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Yes."
+	"Sim."
 	keyWait
 		any = false
 	end
@@ -105,23 +102,23 @@ script 4 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Now they've taken
-	MegaMan back,
+	Agora que eles
+	recuperaram o MegaMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	all the Net areas we
-	had captured are
-	being liberated!
+	todas as áreas da Rede
+	que havíamos capturado
+	serão liberadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not happy about
-	it!
+	E isso não me
+	agrada em nada!
 	"""
 	keyWait
 		any = false
@@ -134,16 +131,16 @@ script 5 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	I have an idea,
-	Doctor.
+	Pois eu tenho uma ideia,
+	Doutor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A way to destroy
-	that meddling Navi
-	team from within!
+	Uma forma de destruir
+	aquele esquadrão
+	impertinente de dentro!
 	"""
 	keyWait
 		any = false
@@ -156,24 +153,24 @@ script 6 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Interesting⋯
-	Let it be so⋯
+	Interessante...
+	Prossiga, então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Those fools who
-	try to spoil our
-	righteous plan!
+	Aqueles tolos que tanto
+	lutam para frustrar
+	nosso plano justo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's see how they
-	like the iron fist
-	of rage!
+	Vejamos como se saem
+	contra o punho de ferro
+	da justiça!
 	"""
 	keyWait
 		any = false
@@ -185,7 +182,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Ha hah!"
+	"Ha haa!"
 	keyWait
 		any = false
 	end
@@ -195,8 +192,8 @@ script 8 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Where is that
-	report⋯?
+	Agora, onde pode estar
+	aquele relatório...?
 	"""
 	keyWait
 		any = false

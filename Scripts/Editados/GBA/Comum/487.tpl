@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Nebula sent a
-	warning,huh?
+	A Nebula mandou um
+	aviso, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what
-	they're up to.
+	No que será que eles
+	tão pensando...?
 	"""
 	keyWait
 		any = false
@@ -24,15 +24,15 @@ script 1 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Nebula's attacking?
-	Who cares.
+	A Nebula tá atacando?
+	E eu com isso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't waste my
-	time,man!
+	Não perde o meu tempo,
+	não!
 	"""
 	keyWait
 		any = false
@@ -43,9 +43,9 @@ script 10 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Sounds like the
-	people of the Net
-	are having fun!
+	Parece que o pessoal
+	na Rede tá na maior
+	curtição!
 	"""
 	keyWait
 		any = false
@@ -56,15 +56,15 @@ script 11 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	The Net is in
-	an uproar? So?
+	A Rede tá uma confusão?
+	E eu com isso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't waste
-	my time,man!
+	Não me faz perder tempo,
+	mano!
 	"""
 	keyWait
 		any = false
@@ -75,15 +75,15 @@ script 20 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	How did they stir
-	up so much trouble?
+	Como foi que eles
+	conseguiram causar
+	tanto caos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd really like
-	to know!
+	Eu bem que queria saber!
 	"""
 	keyWait
 		any = false
@@ -94,13 +94,13 @@ script 21 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Nebula is really,
-	really bad.
+	A Nebula é má.
+	Má pra caramba...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I like that!"
+	"Adoro!"
 	keyWait
 		any = false
 	end
@@ -110,16 +110,16 @@ script 30 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I'm putting my
-	hopes on Nebula.
+	Tô apostando as minhas
+	fichas na Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want them to make
-	the world a better
-	place to live!
+	Eu quero que eles façam
+	do mundo um lugar melhor
+	pra viver!
 	"""
 	keyWait
 		any = false
@@ -130,16 +130,16 @@ script 31 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I don't mind if
-	Nebula takes
-	over the world.
+	Eu não me importaria
+	se a Nebula dominasse
+	o mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It sounds more
-	fun that way.
+	Parece mais divertido
+	assim.
 	"""
 	keyWait
 		any = false

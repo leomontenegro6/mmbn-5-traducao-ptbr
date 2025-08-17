@@ -5,13 +5,13 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Huh? An advance
-	warning from Nebula?
+	Hã? Um aviso de
+	ataque da Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Who cares?"
+	"Quem liga?"
 	keyWait
 		any = false
 	end
@@ -21,9 +21,9 @@ script 1 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	This place never
-	changes,no matter
-	what happens.
+	Este lugar nunca muda,
+	não importa o que rola
+	lá fora.
 	"""
 	keyWait
 		any = false
@@ -34,13 +34,12 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	What's wrong with
-	the Net?
+	Hã? Tem treta na Rede?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm fine."
+	"Eu tô de boa."
 	keyWait
 		any = false
 	end
@@ -49,13 +48,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Do I feel edgy?"
+	"Se eu tô arisco?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sure. I always
-	feel edgy.
+	Não sei...
+	Mas um risco,
+	eu sempre sou! He he!
 	"""
 	keyWait
 		any = false
@@ -66,22 +66,23 @@ script 20 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I don't care what
-	Nebula does.
+	Tô pouco me lixando pro
+	que a Nebula faz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All I care about
-	is myself.
+	Só o que me importa
+	sou eu mesmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds cool,huh?
-	Heh,heh,heh⋯
+	Falei um bagulho mó
+	legal agora, né?
+	He he he...
 	"""
 	keyWait
 		any = false
@@ -92,22 +93,22 @@ script 21 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	No matter how
-	good you might be,
+	Por mais forte que você
+	seja,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	evil will never
-	disappear.
+	o mal nunca desaparece
+	pra valer.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Look at Nebula.
-	That's the proof.
+	É só olhar pra Nebula.
+	Não tem prova maior.
 	"""
 	keyWait
 		any = false
@@ -118,17 +119,16 @@ script 30 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I know the Net is
-	being terrorized
-	by Nebula but
+	Eu sei que a Rede tá
+	sendo toda aterrorizada
+	pela Nebula e tal,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it's business as
-	usual on the
-	Undernet.
+	mas, na Undernet,
+	é só vida que segue.
 	"""
 	keyWait
 		any = false
@@ -139,21 +139,20 @@ script 31 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Good versus evil.
-	Who's going
-	to win?
+	O bem contra o mal.
+	Quem que vai vencer?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm betting on evil.
-	I hope so!
+	A minha aposta é no
+	mal. E o que eu quero!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh,heh,heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end

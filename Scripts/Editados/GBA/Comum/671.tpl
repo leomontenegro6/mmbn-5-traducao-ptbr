@@ -22,24 +22,24 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HUH?! YOU WANT ME
-	TO GIVE YOU A TOUR
-	OF THE HELMET?
+	HÃ? VOCÊ QUER QUE EU
+	OFEREÇA UM TOUR DO
+	ELMO?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHY DO I HAVE TO
-	HEAR STUFF LIKE
-	THAT FROM YOU?!
+	POR QUE EU TENHO
+	QUE DAR OUVIDOS
+	A VOCÊ, HEIN?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT AN OBNOXIOUS
-	LITTLE NAVI!
+	NAVIZINHO
+	IMPERTINENTE!
 	"""
 	keyWait
 		any = false
@@ -50,15 +50,16 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I SUDDENLY STARTED
-	RESENTING MY WORK.
+	EU COMECEI A
+	RESSENTIR O MEU
+	TRABALHO DE REPENTE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT'S NEVER
-	HAPPENED BEFORE.
+	ISSO NUNCA ACONTECEU
+	ANTES.
 	"""
 	keyWait
 		any = false
@@ -69,36 +70,37 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE OFTEN GET
-	VISITORS FROM
-	OVERSEAS
+	RECEBEMOS VISITANTES
+	DO EXTERIOR COM
+	FREQUÊNCIA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO I'M ALWAYS READY
-	TO GIVE A TOUR.
+	ENTÃO, EU FICO SEMPRE
+	DE PRONTIDÃO PARA
+	DAR UM TOUR PARA ELES.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I TELL THEM SLOWLY:
-	"THIS 
+	EU FALO BEM DEVAGAR:
+	"ESTE 
 	"""
 	wait
 		frames = 10
-	"IS "
+	"É "
 	wait
 		frames = 10
-	"A "
+	"UM "
 	wait
 		frames = 10
-	"BATTLE"
+	"ELMO"
 	wait
 		frames = 10
-	"\n HELMET,"
+	"\nDE GUERRA, "
 	wait
 		frames = 10
 	"OK\"?"
@@ -121,21 +123,21 @@ script 5 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hmph⋯
-	Not here either⋯
+	Hmpf...
+	Também não está aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a NetNavi
-	roaming the Cyber-
-	world in search of a
+	Sou um NetNavi errante,
+	viajando pelo mundo
+	cibernético em busca de
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\""
+	"um \""
 	printChip
 		buffer = 0
 		chip = 145
@@ -144,22 +146,21 @@ script 5 mmbn5 {
 		buffer = 0
 		code = F
 	"""
-	."
-	Do you have one?
+	".
+	Você tem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do,I'll trade
-	you my "
+	Se tiver, eu troco por
+	um "
 	"""
 	printNaviCustProgram
 		buffer = 0
 		program = 10
 	"""
-	"
-	for it.
+	".
 	"""
 	keyWait
 		any = false
@@ -175,7 +176,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -184,7 +185,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -199,9 +200,9 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I see⋯
-	I suppose I'll have
-	to find one myself.
+	Entendo... Acho que vou
+	ter que achar um por
+	conta própria, mesmo.
 	"""
 	keyWait
 		any = false
@@ -221,8 +222,8 @@ script 6 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	To think I would
-	actually ever get a
+	Quem diria que, um dia,
+	eu conseguiria um
 	"
 	"""
 	printChip
@@ -232,14 +233,13 @@ script 6 mmbn5 {
 	printCode
 		buffer = 0
 		code = F
-	".\""
+	"\"!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm so grateful!
-	Let's close
-	the deal.
+	Fico tão grato!
+	Vamos fechar negócio.
 	"""
 	keyWait
 		any = false
@@ -256,7 +256,7 @@ script 6 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan traded his
+	MegaMan trocou seu
 	"
 	"""
 	printChip
@@ -271,7 +271,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	for a
+	por um
 	"
 	"""
 	printNaviCustProgram
@@ -286,14 +286,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I've finally
-	fulfilled my
-	lifelong dream.
+	Finalmente, eu realizei
+	o sonho da minha vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I owe you one!"
+	"Te devo muito por isto!"
 	keyWait
 		any = false
 	end
@@ -303,9 +302,9 @@ script 7 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Sorry,it looks
-	like you don't have
-	a "
+	Desculpe, mas parece
+	que você não tem um
+	"
 	"""
 	printChip
 		buffer = 0
@@ -314,20 +313,21 @@ script 7 mmbn5 {
 	printCode
 		buffer = 0
 		code = F
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Maybe you put it
-	in a folder?
+	Será que você o
+	colocou em uma pasta?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Can't trade while
-	it's in a folder!
+	Não dá para trocar
+	chips que estão em
+	uma pasta!
 	"""
 	keyWait
 		any = false
@@ -338,14 +338,13 @@ script 8 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Hey! Did you
-	change your mind?
-	Do you wanna trade
+	Ah! Mudou de ideia?
+	Quer trocar o seu
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"your \""
+	"\""
 	printChip
 		buffer = 0
 		chip = 145
@@ -355,7 +354,7 @@ script 8 mmbn5 {
 		code = F
 	"""
 	"
-	for my "
+	pelo meu "
 	"""
 	printNaviCustProgram
 		buffer = 0
@@ -375,7 +374,7 @@ script 8 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -384,7 +383,7 @@ script 8 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -399,15 +398,15 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	I see⋯
-	Forget about it.
+	Entendo...
+	Deixa para lá, então.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you have
-	your reasons.
+	Estou certo de que você
+	tem seus motivos.
 	"""
 	keyWait
 		any = false
@@ -418,14 +417,13 @@ script 9 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I've finally
-	fulfilled my
-	lifelong dream.
+	Finalmente, realizei
+	o sonho da minha vida.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I owe you one!"
+	"Te devo muito por isto!"
 	keyWait
 		any = false
 	end

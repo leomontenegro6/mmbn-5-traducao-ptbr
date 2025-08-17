@@ -5,15 +5,16 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This must be the
-	release switch.
+	Esse deve ser o
+	interruptor que
+	controla a porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pressing the switch
-	now!
+	Tá, eu vou apertar
+	o botão!
 	"""
 	keyWait
 		any = false
@@ -21,13 +22,13 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	msgOpen
-	"ILLEGAL OPERATION!"
+	"OPERAÇÃO ILEGAL!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACTIVATE SECURITY
-	SYSTEM!
+	ATIVANDO SISTEMA
+	DE SEGURANÇA!
 	"""
 	keyWait
 		any = false
@@ -39,7 +40,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	end
@@ -48,7 +49,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yikes!"
+	"Eita!"
 	wait
 		frames = 5
 	soundPlayBGM
@@ -59,7 +60,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"MagnetBarrier!"
+	"Barreira Magnética!"
 	wait
 		frames = 5
 	end
@@ -72,7 +73,7 @@ script 5 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"But,why?!"
+	"Mas... por quê?!"
 	keyWait
 		any = false
 	clearMsg
@@ -86,9 +87,9 @@ script 6 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Tesla's orders. You
-	think I'd help you
-	otherwise?
+	Ordens da Tesla. Acha
+	mesmo que eu ia te
+	ajudar se não fosse?
 	"""
 	keyWait
 		any = false
@@ -99,8 +100,8 @@ script 7 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	The security system
-	is off.
+	O sistema de segurança
+	foi desligado.
 	"""
 	keyWait
 		any = false
@@ -110,7 +111,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thank you,MagnetMan!"
+	"Valeu, MagnetMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -122,16 +123,17 @@ script 9 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Hmph! Thank Tesla,
-	not me.
+	Hmpf!
+	Agradeça a Tesla,
+	não eu.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	By the way,the
-	electronic lock was
-	released.
+	Por sinal, a tranca
+	eletrônica foi aberta,
+	também.
 	"""
 	keyWait
 		any = false
@@ -141,7 +143,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Hrrggraahh!"
+	"Hrrggraarrh!"
 	wait
 		frames = 5
 	end
@@ -163,7 +165,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Don't move!"
+	"Não se mova!"
 	keyWait
 		any = false
 	end
@@ -173,8 +175,8 @@ script 13 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	The security system
-	is off.
+	O sistema de segurança
+	foi desligado.
 	"""
 	keyWait
 		any = false
@@ -184,7 +186,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Thank you,KnightMan!"
+	"Obrigado, KnightMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -196,29 +198,29 @@ script 15 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	A true knight always
-	returns a favor in
-	kind!
+	Um cavaleiro de verdade
+	sempre retribui um
+	favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is my thanks
-	for you restoring me
-	to normal.
+	É minha forma de lhe
+	agradecer por fazer-me
+	voltar ao normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now we're even."
+	"Agora, estamos quites."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The electronic lock
-	is down. You can
-	save your friends.
+	A tranca eletrônica
+	se abriu. Vá salvar
+	seus companheiros.
 	"""
 	keyWait
 		any = false
@@ -229,8 +231,7 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	jack me out!
+	Lan, me desconecta!
 	"""
 	keyWait
 		any = false
@@ -242,7 +243,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger!"
+	"É pra já!"
 	keyWait
 		any = false
 	end

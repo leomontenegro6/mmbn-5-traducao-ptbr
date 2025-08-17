@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Unfortunately,the
-	ship won't be able
-	to leave soon.
+	Infelizmente, o navio
+	não vai deixar o porto
+	tão cedo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're conducting a
-	complete overhaul.
+	Estamos conduzindo uma
+	renovação completa.
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,16 @@ script 1 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Why do I have to
-	help out with the
-	Engine Room⋯
+	Por que é que eu tenho
+	que ajudar na sala das
+	máquinas...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"*mumble grumble*"
+	"Humpf... Brngh..."
 	keyWait
 		any = false
 	end
@@ -49,17 +49,17 @@ script 5 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Net trouble?
-	Of course I heard,
-	but we're fine.
+	Problemas na Rede?
+	Claro que fiquei sabendo,
+	mas está tudo bem aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The system was
-	disconnected for a
-	complete overhaul.
+	O sistema tinha sido
+	desconectado para
+	fazer renovações.
 	"""
 	keyWait
 		any = false
@@ -70,8 +70,8 @@ script 10 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	OK,what system to
-	examine next⋯
+	Bom, qual sistema vamos
+	examinar agora...?
 	"""
 	keyWait
 		any = false
@@ -82,33 +82,33 @@ script 15 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I'm off tomorrow so
-	I'll have to check
-	it all today.
+	Eu tenho folga amanhã,
+	então tenho que cuidar
+	de tudo logo hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? You're shocked
-	to hear me say
-	something serious?
+	Hã? "Está chocado por
+	me ouvir falar uma
+	coisa tão séria assim"?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They don't let
-	complete jokers
-	onto the crew.
+	Não é como se deixassem
+	gente desleixada entrar
+	para a tripulação.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A talented guy like
-	me doesn't need to
-	show off.
+	E um cara talentoso
+	como eu não PRECISA
+	se exibir.
 	"""
 	keyWait
 		any = false
@@ -119,24 +119,23 @@ script 16 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	OK,the toilets are
-	clean,now for the
-	machine maintenance.
+	Beleza, as privadas
+	tão limpas. Hora da
+	manutenção nas máquinas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	After that,I'll
-	clean the signs.
+	Depois disso, eu vou
+	limpar as placas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wish I could clone
-	myself a couple
-	times.
+	Ah, queria ter um ou
+	dois clones meus agora...
 	"""
 	keyWait
 		any = false
@@ -147,21 +146,21 @@ script 17 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	After cleaning the
-	Fiesta Room,it's
-	machine maintenance.
+	Depois de limpar o
+	Salão de Fiesta, faço a
+	manutenção das máquinas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then it's liferaft
-	maintenance.
+	Depois, manutenção dos
+	botes salva-vidas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm so tired⋯"
+	"Eita, canseira..."
 	keyWait
 		any = false
 	end

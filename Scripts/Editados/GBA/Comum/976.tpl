@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Two doors⋯"
+	"Duas portas..."
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well,Chaud?"
+	"E aí, Chaud?"
 	keyWait
 		any = false
 	clearMsg
@@ -25,35 +25,36 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	The front entrance
-	lies ahead.
+	A entrada da frente
+	está logo adiante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are two
-	doors we can use.
+	Há duas portas que
+	podemos usar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen up. Form two
-	groups: one to check
-	out each door.
+	Escutem bem. Formem
+	duas equipes: uma pra
+	conferir cada porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once Regal is found,
-	contact the other
+	Assim que uma encontrar
+	o Regal, entrem em
+	contato com os demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"group,got it?"
+	"Entendido?"
 	keyWait
 		any = false
 	clearMsg
@@ -65,7 +66,7 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So is it me and you,
+	Então vamos você e eu,
 	Chaud?
 	"""
 	keyWait
@@ -79,32 +80,32 @@ script 4 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No,we're splitting
-	up. Lan,Tesla,
-	Fyrefox and Raika⋯
+	Não, vamos nos separar.
+	Lan, Tesla, Fyrefox
+	e Raika...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys check out
-	the near door.
+	Vocês entram na porta
+	mais próxima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may end up
-	facing the enemy's
-	frontal assault.
+	Podem acabar se
+	deparando com o ataque
+	frontal do inimigo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I know you
-	guys are the right
-	people for the job.
+	mas sei que vocês
+	são a equipe certa
+	pro desafio.
 	"""
 	keyWait
 		any = false
@@ -117,8 +118,7 @@ script 5 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	W-what about
-	me?
+	M-mas e eu?
 	"""
 	keyWait
 		any = false
@@ -131,15 +131,16 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Jasmine,come with
-	me. I need your
+	Jasmine, você vem
+	comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ability to counter
-	the DarkPower.
+	Vou precisar da sua
+	habilidade de conter
+	o Poder das Trevas.
 	"""
 	keyWait
 		any = false
@@ -151,7 +152,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"Y-yes sir!"
+	"S-sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -161,14 +162,14 @@ script 8 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Fall back if things
-	get too hairy.
-	Don't be reckless.
+	Batam em retirada caso
+	a situação aperte.
+	Não sejam descuidados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh,and Lan⋯"
+	"Ah, e, Lan?"
 	keyWait
 		any = false
 	end
@@ -178,8 +179,9 @@ script 9 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Take this. You'll be
-	able to master it.
+	Tome.
+	Sei que você
+	conseguirá dominá-lo.
 	"""
 	keyWait
 		any = false
@@ -196,9 +198,9 @@ script 10 mmbn5 {
 		timer = 0
 		value = 7
 	"""
-	Lan got a
-	BattleChip:
-	"DeltaRay Z"!!!
+	Lan adquiriu
+	um chip:
+	DeltaRay Z"!!!
 	"""
 	keyWait
 		any = false
@@ -212,13 +214,13 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks,Chaud. I'll
-	use it wisely.
+	Valeu, Chaud.
+	Vou usar ele bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful."
+	"Toma cuidado."
 	keyWait
 		any = false
 	clearMsg
@@ -229,7 +231,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"You guys,too⋯"
+	"Vocês, também..."
 	keyWait
 		any = false
 	clearMsg
@@ -242,7 +244,7 @@ script 13 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Got it!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -251,7 +253,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Let's go,Jasmine!"
+	"Vamos, Jasmine!"
 	keyWait
 		any = false
 	clearMsg
@@ -262,7 +264,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Jasmine
 	msgOpen
-	"Alright!!!"
+	"OK!!!"
 	keyWait
 		any = false
 	end
@@ -271,7 +273,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Two doors,eh⋯"
+	"Duas portas, é...?"
 	keyWait
 		any = false
 	end
@@ -280,7 +282,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well,Beryl?"
+	"E aí, Beryl?"
 	keyWait
 		any = false
 	clearMsg
@@ -292,35 +294,36 @@ script 18 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	The front entrance
-	lies ahead.
+	A entrada da frente
+	está logo adiante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There are two
-	doors we can use.
+	Há duas portas que
+	podemos usar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Listen up. Form two
-	groups: one to check
-	out each door.
+	Escutem bem. Formem
+	duas equipes: uma pra
+	conferir cada porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once Regal is found,
-	contact the other
+	Assim que uma encontrar
+	o Regal, entrem em
+	contato com os demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"group,got it?"
+	"Entendido?"
 	keyWait
 		any = false
 	clearMsg
@@ -332,7 +335,7 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So is it me and you,
+	Então vamos você e eu,
 	Baryl?
 	"""
 	keyWait
@@ -346,32 +349,32 @@ script 20 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No,we're splitting
-	up. Lan,Pride,
-	Dingo and Higsby⋯
+	Não, vamos nos separar.
+	Lan, Pride, Dingo
+	e Higsby...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You guys check out
-	the near door.
+	Vocês entram na porta
+	mais próxima.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You may end up
-	facing the enemy's
-	frontal assault.
+	Podem acabar se
+	deparando com o ataque
+	frontal do inimigo,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I know you
-	guys are the right
-	people for the job.
+	mas sei que vocês
+	são a equipe certa
+	para o desafio.
 	"""
 	keyWait
 		any = false
@@ -384,8 +387,7 @@ script 21 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	W-what about
-	me?
+	M-mas e eu?
 	"""
 	keyWait
 		any = false
@@ -398,15 +400,16 @@ script 22 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Ribitta,come with
-	me. I need your
+	Ribitta, você vem
+	comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ability to counter
-	the DarkPower.
+	Vou precisar da sua
+	habilidade de conter
+	o Poder das Trevas.
 	"""
 	keyWait
 		any = false
@@ -418,7 +421,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"I'll d-do my best!"
+	"V-vou fazer o possível!"
 	keyWait
 		any = false
 	end
@@ -428,14 +431,14 @@ script 24 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Fall back if things
-	get too hairy.
-	Don't be reckless.
+	Batam em retirada caso
+	a situação aperte.
+	Não sejam descuidados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Oh,and Lan⋯"
+	"Ah, e, Lan?"
 	keyWait
 		any = false
 	end
@@ -445,8 +448,9 @@ script 25 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Take this. You'll be
-	able to master it.
+	Tome.
+	Sei que você
+	conseguirá dominá-lo.
 	"""
 	keyWait
 		any = false
@@ -463,9 +467,9 @@ script 26 mmbn5 {
 		timer = 0
 		value = 7
 	"""
-	Lan got a
-	BattleChip:
-	"CrossDiv C"!!!
+	Lan adquiriu
+	um chip:
+	CrossDiv C"!!!
 	"""
 	keyWait
 		any = false
@@ -479,13 +483,13 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Thanks,Baryl. I'll
-	use it wisely.
+	Obrigado, Baryl.
+	Eu vou usar ele bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful."
+	"Toma cuidado."
 	keyWait
 		any = false
 	clearMsg
@@ -496,7 +500,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"You guys,too⋯"
+	"Vocês, também..."
 	keyWait
 		any = false
 	clearMsg
@@ -509,7 +513,7 @@ script 29 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Got it!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -518,7 +522,7 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Let's go,Ribitta!"
+	"Vamos, Ribitta!"
 	keyWait
 		any = false
 	clearMsg
@@ -529,7 +533,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	msgOpen
-	"R-right behind you!"
+	"T-tô indo!"
 	keyWait
 		any = false
 	end

@@ -3,8 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A door bars the way.
-	It won't open.
+	Uma porta barra o
+	caminho.
+	Não dá para abrir.
 	"""
 	keyWait
 		any = false
@@ -13,16 +14,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A CyberCloud
-	emanating a terrible
-	life force.
+	Uma CyberNuvem,
+	emanando uma força
+	vital terrível.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's impassable
-	by normal means.
+	Intransponível por
+	métodos normais.
 	"""
 	keyWait
 		any = false

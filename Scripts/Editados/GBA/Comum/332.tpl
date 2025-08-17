@@ -10,24 +10,22 @@ script 0 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	The mail said
-	Electopia is in
-	trouble.
+	O e-mail disse que
+	Ni-Hon está em apuros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But nothing's
-	happening here.
+	mas não há nada
+	acontecendo aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess this place
-	isn't worth
-	attacking.
+	Acho que não valia a
+	pena atacar este lugar.
 	"""
 	keyWait
 		any = false
@@ -43,23 +41,22 @@ script 1 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	The mail said
-	Electopia is in
-	trouble.
+	O e-mail disse que
+	Ni-Hon está em apuros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But nothing's
-	happening here.
+	mas não tem nada
+	acontecendo aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess it's 'cause
-	nobody lives here.
+	Acho que é porque não
+	mora ninguém aqui.
 	"""
 	keyWait
 		any = false
@@ -70,9 +67,9 @@ script 2 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	I'll go make sure
-	there isn't any
-	real damage.
+	Vou confirmar se não
+	houve nenhum estrago
+	sério.
 	"""
 	keyWait
 		any = false
@@ -83,15 +80,9 @@ script 3 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	I'd better go and
-	make sure
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	there isn't any
-	real damage⋯
+	É melhor eu ir confirmar
+	que nenhum dano sério
+	foi causado...
 	"""
 	keyWait
 		any = false

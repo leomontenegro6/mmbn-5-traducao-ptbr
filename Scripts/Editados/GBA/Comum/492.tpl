@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	I sense a terrible
-	DarkPower beyond.
+	Lan, eu tô sentindo
+	um Poder das Trevas
+	terrível à frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are we really gonna
-	enter?
+	A gente vai mesmo
+	entrar?
 	"""
 	keyWait
 		any = false
@@ -30,7 +30,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -39,7 +39,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -54,8 +54,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Beleza, Lan.
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -69,13 +69,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false

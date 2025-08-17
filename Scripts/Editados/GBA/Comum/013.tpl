@@ -2,47 +2,47 @@
 
 script 0 mmbn5s {
 	"""
-	Recovers
-	50HP!
+	Cura
+	50 PV!
 	"""
 	end
 }
 script 1 mmbn5s {
 	"""
-	Recovers
-	max HP!
+	Cura todos
+	os PV!
 	"""
 	end
 }
 script 2 mmbn5s {
 	"""
-	No weak
-	viruses for
-	a while.
+	Evita vírus
+	fracos por
+	um tempo
 	"""
 	end
 }
 script 3 mmbn5s {
 	"""
-	Remove trap
-	on mystery
-	data.
+	Tira arma-
+	dilhas de
+	cristais
 	"""
 	end
 }
 script 4 mmbn5s {
 	"""
-	More likely
-	on meet
-	last enemy.
+	Mais chance
+	de repetir
+	vírus
 	"""
 	end
 }
 script 5 mmbn5s {
 	"""
-	Unlocks
-	mystery
-	data.
+	Desbloqueia
+	dados
+	misteriosos
 	"""
 	end
 }
@@ -69,8 +69,9 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Let's not
-	use it yet.
+	Ainda não é
+	hora de usar
+	isso.
 	"""
 	keyWait
 		any = false
@@ -95,8 +96,8 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	You want to
-	use "
+	Utilizar
+	"
 	"""
 	printItem
 		buffer = 1
@@ -112,7 +113,7 @@ script 7 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -121,7 +122,7 @@ script 7 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -152,8 +153,8 @@ script 8 mmbn5 {
 	msgOpen
 	"""
 	MegaMan
-	recovers
-	50HP!
+	restaura
+	50 PV!
 	"""
 	keyWait
 		any = false
@@ -177,8 +178,8 @@ script 9 mmbn5 {
 	msgOpen
 	"""
 	MegaMan
-	recovers
-	max HP!
+	restaura
+	seus PV!
 	"""
 	keyWait
 		any = false
@@ -187,7 +188,7 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	You used
+	Você usou
 	"
 	"""
 	printItem
@@ -222,7 +223,7 @@ script 11 mmbn5 {
 		item = 0
 	"""
 	"
-	is in use.
+	em uso.
 	"""
 	keyWait
 		any = false
@@ -247,9 +248,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	There isn't
-	any locked
-	data!
+	Não há dados
+	bloqueados à
+	frente!
 	"""
 	keyWait
 		any = false
@@ -274,9 +275,9 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	No viruses
-	around
-	here yet!
+	Não achou
+	nenhum
+	vírus ainda!
 	"""
 	keyWait
 		any = false
@@ -285,9 +286,9 @@ script 13 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	YOU DON'T
-	NEED TO USE
-	THAT YET.
+	NÃO PRECISA
+	USAR ISSO
+	AGORA.
 	"""
 	keyWait
 		any = false
@@ -298,8 +299,9 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	Let's wait
-	to use it.
+	Vamos espe-
+	rar para
+	usar isso.
 	"""
 	keyWait
 		any = false
@@ -310,8 +312,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	You want to
-	use
+	Utilizar
 	"""
 	keyWait
 		any = false
@@ -331,7 +332,7 @@ script 21 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -340,7 +341,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -357,8 +358,8 @@ script 22 mmbn5 {
 	msgOpen
 	"""
 	ProtoMan
-	recovers
-	50HP!
+	restaura
+	50 PV!
 	"""
 	keyWait
 		any = false
@@ -368,8 +369,8 @@ script 23 mmbn5 {
 	msgOpen
 	"""
 	ProtoMan
-	recovers
-	max HP!
+	restaura
+	seus PV!
 	"""
 	keyWait
 		any = false
@@ -385,7 +386,7 @@ script 25 mmbn5 {
 		item = 0
 	"""
 	"
-	is in use.
+	em uso.
 	"""
 	keyWait
 		any = false
@@ -396,9 +397,9 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	There isn't
-	any locked
-	data!
+	Não há dados
+	bloqueados à
+	frente!
 	"""
 	keyWait
 		any = false
@@ -409,9 +410,9 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	No viruses
-	around
-	here yet!
+	Ainda não se
+	deparou com
+	vírus aqui!
 	"""
 	keyWait
 		any = false
@@ -422,8 +423,9 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	Let's wait
-	to use it.
+	Vamos espe-
+	rar para
+	usar isso.
 	"""
 	keyWait
 		any = false
@@ -434,8 +436,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	You want to
-	use
+	Utilizar
 	"""
 	keyWait
 		any = false
@@ -455,7 +456,7 @@ script 31 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -464,7 +465,7 @@ script 31 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -481,8 +482,8 @@ script 32 mmbn5 {
 	msgOpen
 	"""
 	Colonel
-	recovers
-	HP +50!
+	restaura
+	50 PV!
 	"""
 	keyWait
 		any = false
@@ -492,8 +493,8 @@ script 33 mmbn5 {
 	msgOpen
 	"""
 	Colonel
-	recovers
-	max HP!
+	restaura
+	seus PV!
 	"""
 	keyWait
 		any = false
@@ -509,7 +510,7 @@ script 35 mmbn5 {
 		item = 0
 	"""
 	"
-	is in use.
+	em uso.
 	"""
 	keyWait
 		any = false
@@ -520,9 +521,9 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	There isn't
-	any locked
-	data!
+	Não há dados
+	bloqueados à
+	frente!
 	"""
 	keyWait
 		any = false
@@ -533,9 +534,9 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	No viruses
-	around
-	here yet!
+	Ainda não se
+	deparou com
+	vírus aqui!
 	"""
 	keyWait
 		any = false

@@ -7,19 +7,19 @@ script 0 mmbn5 {
 	end
 }
 script 1 mmbn5 {
-	"Newsflash"
+	"Urgente"
 	keyWait
 		any = false
 	end
 }
 script 2 mmbn5 {
-	"Newsmail"
+	"Notícias"
 	keyWait
 		any = false
 	end
 }
 script 3 mmbn5 {
-	"Be careful"
+	"Cuidado"
 	keyWait
 		any = false
 	end
@@ -37,7 +37,7 @@ script 5 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 101
-	"Go to Oran"
+	"Vá a Oran"
 	keyWait
 		any = false
 	end
@@ -55,7 +55,7 @@ script 7 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 103
-	"Neb.agents"
+	"Agntes Neb"
 	keyWait
 		any = false
 	end
@@ -73,7 +73,7 @@ script 9 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 105
-	"Help!"
+	"Ajuda!"
 	keyWait
 		any = false
 	end
@@ -85,7 +85,7 @@ script 10 mmbn5 {
 	end
 }
 script 11 mmbn5 {
-	"NaviCust"
+	"CustNavi"
 	keyWait
 		any = false
 	end
@@ -103,37 +103,37 @@ script 13 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 107
-	"DublSoul"
+	"UniAlma"
 	keyWait
 		any = false
 	end
 }
 script 14 mmbn5 {
-	"Dad"
+	"Pai"
 	keyWait
 		any = false
 	end
 }
 script 15 mmbn5 {
-	"Go SciLab!"
+	"Pro SciLab"
 	keyWait
 		any = false
 	end
 }
 script 16 mmbn5 {
-	"Newsmail"
+	"Notícias"
 	keyWait
 		any = false
 	end
 }
 script 17 mmbn5 {
-	"DarkChips"
+	"ChipTrev"
 	keyWait
 		any = false
 	end
 }
 script 18 mmbn5 {
-	"Anon"
+	"Anônimo"
 	keyWait
 		any = false
 	end
@@ -151,19 +151,19 @@ script 20 mmbn5 {
 	end
 }
 script 21 mmbn5 {
-	"Neb. Attack"
+	"Atq Nebula"
 	keyWait
 		any = false
 	end
 }
 script 22 mmbn5 {
-	"Newsmail"
+	"Notícias"
 	keyWait
 		any = false
 	end
 }
 script 23 mmbn5 {
-	"The Net"
+	"A Rede"
 	keyWait
 		any = false
 	end
@@ -181,7 +181,7 @@ script 25 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 109
-	"MagnSoul"
+	"MagnAlma"
 	keyWait
 		any = false
 	end
@@ -199,7 +199,7 @@ script 27 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 111
-	"GyroSoul"
+	"GyroAlma"
 	keyWait
 		any = false
 	end
@@ -217,7 +217,7 @@ script 29 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 113
-	"NplmSoul"
+	"NplmAlma"
 	keyWait
 		any = false
 	end
@@ -235,7 +235,7 @@ script 31 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 115
-	"SrchSoul"
+	"SrchAlma"
 	keyWait
 		any = false
 	end
@@ -253,7 +253,7 @@ script 33 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 117
-	"MedySoul"
+	"MedyAlma"
 	keyWait
 		any = false
 	end
@@ -271,7 +271,7 @@ script 35 mmbn5 {
 	checkGameVersion
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 119
-	"ProtSoul"
+	"ProtAlma"
 	keyWait
 		any = false
 	end
@@ -283,19 +283,19 @@ script 36 mmbn5 {
 	end
 }
 script 37 mmbn5 {
-	"Use it!"
+	"Usa isto!"
 	keyWait
 		any = false
 	end
 }
 script 38 mmbn5 {
-	"GargCasl"
+	"CstShachi1"
 	keyWait
 		any = false
 	end
 }
 script 39 mmbn5 {
-	"Thanks!"
+	"Obrigado!"
 	keyWait
 		any = false
 	end
@@ -307,31 +307,31 @@ script 40 mmbn5 {
 	end
 }
 script 41 mmbn5 {
-	"For You"
+	"Para você"
 	keyWait
 		any = false
 	end
 }
 script 42 mmbn5 {
-	"MailMag"
+	"RvstMail"
 	keyWait
 		any = false
 	end
 }
 script 43 mmbn5 {
-	"NetBattlers"
+	"Lutadores"
 	keyWait
 		any = false
 	end
 }
 script 44 mmbn5 {
-	"MailMag"
+	"RvstMail"
 	keyWait
 		any = false
 	end
 }
 script 45 mmbn5 {
-	"Hot Info!"
+	"Furo!"
 	keyWait
 		any = false
 	end
@@ -343,7 +343,7 @@ script 100 mmbn5 {
 	end
 }
 script 101 mmbn5 {
-	"Go to Oran"
+	"Vá a Oran"
 	keyWait
 		any = false
 	end
@@ -355,7 +355,7 @@ script 102 mmbn5 {
 	end
 }
 script 103 mmbn5 {
-	"Neb.agents"
+	"Agnts Neb."
 	keyWait
 		any = false
 	end
@@ -367,7 +367,7 @@ script 104 mmbn5 {
 	end
 }
 script 105 mmbn5 {
-	"Help!"
+	"Socorro!"
 	keyWait
 		any = false
 	end
@@ -379,7 +379,7 @@ script 106 mmbn5 {
 	end
 }
 script 107 mmbn5 {
-	"DublSoul"
+	"UniAlma"
 	keyWait
 		any = false
 	end
@@ -391,7 +391,7 @@ script 108 mmbn5 {
 	end
 }
 script 109 mmbn5 {
-	"KngtSoul"
+	"KngtAlma"
 	keyWait
 		any = false
 	end
@@ -403,7 +403,7 @@ script 110 mmbn5 {
 	end
 }
 script 111 mmbn5 {
-	"ShdoSoul"
+	"ShdoAlma"
 	keyWait
 		any = false
 	end
@@ -415,7 +415,7 @@ script 112 mmbn5 {
 	end
 }
 script 113 mmbn5 {
-	"TmhkSoul"
+	"TmhkAlma"
 	keyWait
 		any = false
 	end
@@ -427,7 +427,7 @@ script 114 mmbn5 {
 	end
 }
 script 115 mmbn5 {
-	"NumSoul"
+	"NumAlma"
 	keyWait
 		any = false
 	end
@@ -439,7 +439,7 @@ script 116 mmbn5 {
 	end
 }
 script 117 mmbn5 {
-	"ToadSoul"
+	"ToadAlma"
 	keyWait
 		any = false
 	end
@@ -451,7 +451,7 @@ script 118 mmbn5 {
 	end
 }
 script 119 mmbn5 {
-	"ColSoul"
+	"ColAlma"
 	keyWait
 		any = false
 	end

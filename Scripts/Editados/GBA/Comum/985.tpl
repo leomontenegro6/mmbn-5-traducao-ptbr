@@ -5,22 +5,24 @@ script 0 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Dr.Regal⋯ I'm going
-	back to the dark⋯
+	Dr.Regal...
+	Eu irei retornar
+	à escuridão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There,I'll become
-	a vile spirit,
+	Lá, me tornarei
+	um espírito vil,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and NebulaGray will
-	give me new power⋯
+	e Nebula Gray
+	me concederá
+	um novo poder...!
 	"""
 	keyWait
 		any = false
@@ -32,7 +34,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"NebulaGray?!"
+	"Nebula Gray?!"
 	keyWait
 		any = false
 	clearMsg
@@ -44,30 +46,31 @@ script 2 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	It is what gives
-	darkness form⋯
+	É aquele que dá à
+	escuridão, forma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll drift in the
-	dark vortex,becoming
-	a new part of it⋯
+	Irei vagar pelo vórtice
+	negro, me tornando uma
+	nova parte dele...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As will all trapped
-	in the DarkGalaxy!
+	assim como todos
+	que estão presos
+	na Galáxia Negra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Heh heh heh heh⋯
-	A-ha ha ha ha ha!!!
+	He he he he...
+	Hya-ha-ha-ha-ha!!!
 	"""
 	keyWait
 		any = false
@@ -77,11 +80,11 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Charlie,there was"
+	"Charlie..."
 	keyWait
 		any = false
 	clearMsg
-	"nothing I could do⋯"
+	"Eu não consegui\nfazer nada..."
 	keyWait
 		any = false
 	clearMsg
@@ -93,9 +96,9 @@ script 4 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	⋯No,it was my
-	fault. Don't let it
-	bother you.
+	... Não, a culpa foi
+	minha. Não se tortura
+	com isso.
 	"""
 	keyWait
 		any = false
@@ -107,7 +110,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Charlie⋯"
+	"Charlie..."
 	keyWait
 		any = false
 	clearMsg
@@ -119,29 +122,31 @@ script 6 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	⋯Keep going.
-	You must keep going.
+	... Continua.
+	Cê tem que seguir em
+	frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And then you must
-	defeat that Regal!!!
+	Seguir em frente...
+	até acabar com o
+	Regal!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry about
-	me. GyroMan's soul
+	Não se preocupa comigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	lives on within you
-	and MegaMan!
+	A alma do Gyromon segue
+	viva, dentro de você e
+	do MegaMan!
 	"""
 	keyWait
 		any = false
@@ -158,8 +163,9 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	By GyroMan's soul,I
-	vow to defeat Regal!
+	Eu juro, pela alma do
+	GyroMan, que eu vou
+	vencer o Regal!
 	"""
 	keyWait
 		any = false
@@ -171,7 +177,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"That's the spirit!!!"
+	"Esse é o espírito!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -182,11 +188,11 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dusk,there was"
+	"Dark..."
 	keyWait
 		any = false
 	clearMsg
-	"nothing I could do⋯"
+	"Eu não consegui\nfazer nada..."
 	keyWait
 		any = false
 	clearMsg
@@ -198,15 +204,16 @@ script 10 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	⋯ShadowMan's
-	not gone.
+	... O ShadowMan
+	não foi eliminado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've trained him to
-	face much worse⋯
+	Eu o treinei para
+	suportar provações
+	muito piores...
 	"""
 	keyWait
 		any = false
@@ -218,7 +225,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Dusk⋯"
+	"Dark..."
 	keyWait
 		any = false
 	clearMsg
@@ -230,16 +237,17 @@ script 12 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Forget about me. You
-	should keep going.
+	Não perca seu tempo
+	comigo. Você precisa
+	seguir em frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll concede the
-	glory of defeating
-	Nebula to you guys⋯
+	Vou conceder a glória
+	de derrotar a Nebula
+	a vocês...
 	"""
 	keyWait
 		any = false
@@ -251,13 +259,14 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!!!"
+	"Tá bom!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll do it for
-	ShadowMan,too!!!
+	A gente vai...
+	pelo ShadowMan,
+	também!!!
 	"""
 	keyWait
 		any = false
@@ -269,7 +278,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"⋯⋯Yeah!"
+	"...... Hum!"
 	keyWait
 		any = false
 	clearMsg
@@ -281,8 +290,7 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	let's jack out!
+	Lan, vamos desconectar!
 	"""
 	keyWait
 		any = false

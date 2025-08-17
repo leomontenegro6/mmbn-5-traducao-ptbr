@@ -4,14 +4,22 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"RAAAWWWWRRR!!!"
+	"RAAAAAAARRRR!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PRETTY SCARY,HUH? I
-	CAN SCARE ANY CROOK
-	AWAY WITH MY VOICE!
+	DEU MEDO, NÉ? EU
+	ASSUSTO QUALQUER
+	LADRÃO COM ESSA VOZ!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	DEU MEDO, NÉ? EU
+	ASSUSTO QUALQUER
+	LADRÃO COM ESSA VOZ!
 	"""
 	keyWait
 		any = false
@@ -26,22 +34,22 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"*YAWN*"
+	"UAAAAAHHH..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯HM?! OH,SORRY.
-	I JUST COULDN'T
-	HOLD IT IN.
+	... HM?! AH, DESCULPA,
+	EU NÃO CONSEGUI
+	SEGURAR O BOCEJO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THIS 24/7 SECURITY
-	SYSTEM IS STARTING
-	TO GET TO ME⋯
+	ESSE NEGÓCIO DE SIS-
+	TEMA 24 HORAS TÁ ME
+	CANSANDO FORTE...
 	"""
 	keyWait
 		any = false
@@ -52,15 +60,17 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHY ARE YOU ALWAYS
-	SLACKING OFF?!
+	POR QUE É QUE VOCÊ
+	TÁ SEMPRE FAZENDO
+	CORPO MOLE?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AND SPARE ME THE
-	EXCUSES,WILL YA?!
+	E NEM VEM COM
+	DESCULPINHAS
+	PRA CIMA DE MIM!
 	"""
 	keyWait
 		any = false
@@ -71,15 +81,15 @@ script 6 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'RE THE ONE WITH
-	THE BAD ATTITUDE!!!
+	VOCÊ QUE É UM
+	CRETINO DESAGRADÁVEL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'RE HOLDING ME
-	BACK BIG TIME!!!
+	SÓ SABE ATRASAR
+	O MEU TRABALHO!!
 	"""
 	keyWait
 		any = false
@@ -89,18 +99,18 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"HUH? WHAT?"
+	"HÃ? UÉ?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN BARELY
-	REMEMBER A THING⋯
+	EU NÃO CONSIGO ME
+	LEMBRAR DE NADA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT JUST HAPPENED?"
+	"O QUE ACONTECEU AQUI?"
 	keyWait
 		any = false
 	end
@@ -110,14 +120,14 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I THINK I MIGHT'VE
-	CHEWED OUT A PROGRAM
-	RIGHT TO ITS FACE.
+	ACHO QUE EU FUI SUPER
+	GROSSO COM UM PROG,
+	TIPO, NA CARA DELE.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"BUT I'M NOT SURE."
+	"MAS NÃO SEI AO CERTO."
 	keyWait
 		any = false
 	end

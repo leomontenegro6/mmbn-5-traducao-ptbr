@@ -5,23 +5,23 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	DESTRUCTION,DOMINA-
-	TION,KIDNAPPING⋯
+	DESTRUIÇÃO,
+	CONQUISTA,
+	SEQUESTRO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE ARE MANY
-	THINGS WRITTEN
-	ON THIS BBS.
+	TEM MUITAS COISAS
+	ESCRITAS NESTE FÓRUM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I CAN
-	SAY NO MORE⋯
+	MAS EU NÃO POSSO
+	FALAR MAIS QUE ISSO...
 	"""
 	keyWait
 		any = false

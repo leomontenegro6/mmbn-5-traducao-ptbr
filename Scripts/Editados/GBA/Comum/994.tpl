@@ -5,23 +5,24 @@ script 0 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	At last,SoulServer
-	is complete⋯
+	Enfim, o ServidorAlma
+	está completo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All that is left is
-	to transfer Nebula-
+	Só o que resta agora
+	é transferir Nebula
+	Gray para o servidor.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gray to the server.
-	Heh heh heh⋯ Our
-	time has come.
+	He he he...
+	A nossa hora,
+	enfim, chegou.
 	"""
 	keyWait
 		any = false
@@ -31,28 +32,28 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Well,Hikari⋯"
+	"Pois é, Hikari..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The research of our
-	fathers will be
-	complete at last,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	after so many
-	decades.
+	a pesquisa dos nossos
+	pais finalmente será
+	concluída,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No doubt they,too,
-	would be delighted.
+	após tantas décadas.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Com certeza, eles,
+	também, ficariam
+	tão extasiados.
 	"""
 	keyWait
 		any = false
@@ -62,13 +63,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"You're wrong⋯"
+	"Você está errado..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is not what our
-	fathers wanted!
+	Não é isso o que os
+	nossos pais queriam!
 	"""
 	keyWait
 		any = false
@@ -78,57 +79,55 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yes,it's true
-	there's a slight
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	difference from what
-	they hoped for⋯
+	De fato, há uma
+	pequena diferença
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But that's a
-	trivial matter.
+	entre isto e o que
+	eles esperavam...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SoulNet was meant
-	to link the souls
-	of all humankind,
+	Mas é trivial.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and that is what
-	I will do.
+	A RedeAlma foi idealizada
+	para ligar as almas de
+	toda a humanidade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then our theory
-	will be proven
-	correct.
+	e é exatamente isso
+	o que eu farei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What more could a
-	scientist want?
+	Será então que a nossa
+	teoria será comprovada.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O que mais um cientista
+	poderia querer?
 	"""
 	keyWait
 		any = false
@@ -141,9 +140,9 @@ script 4 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	No scientist would
-	delight in finishing
-	defective research!
+	Nenhum cientista teria
+	prazer em concluir uma
+	pesquisa defeituosa!
 	"""
 	keyWait
 		any = false
@@ -155,27 +154,28 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"⋯Defective?"
+	"... Defeituosa?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You know nothing.
-	The theory behind
-	SoulNet is solid.
+	Você não sabe de nada.
+	A teoria por trás da
+	RedeAlma é robusta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it not humankind,
-	the medium of
-	SoulNet,the one
+	Não seria a humanidade,
+	o meio da RedeAlma...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"that's defective?"
+	"""
+	o elemento defeituoso?
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -186,7 +186,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -195,27 +195,27 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Heh heh heh heh heh⋯"
+	"He he he he he..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I shall link
-	people's souls
-	through SoulServer⋯
+	Eu conectarei as almas
+	das pessoas através do
+	ServidorAlma...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And if a soul-
-	damaging program
-	somehow found it's
+	E, caso algum programa
+	nocivo à alma tiver,
+	de alguma forma,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"way onto the server⋯"
+	"se infiltrado\nno servidor..."
 	keyWait
 		any = false
 	clearMsg
@@ -226,7 +226,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Dad
 	msgOpen
-	"⋯You fiend⋯"
+	"... Demônio..."
 	keyWait
 		any = false
 	end
@@ -236,18 +236,17 @@ script 9 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	There's no firewall
-	protecting the human
-	soul⋯
+	Não há firewall que
+	proteja a alma humana...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's full of"
+	"Ela é cheia... CHEIA..."
 	keyWait
 		any = false
 	clearMsg
-	"security holes!"
+	"de falhas de segurança!"
 	keyWait
 		any = false
 	end
@@ -257,20 +256,20 @@ script 10 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	I should have seen
-	this coming⋯
+	Eu devia ter
+	previsto isto...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why didn't I destroy
-	the Hikari Report?!
+	Por que eu não destruí
+	o Relatório Hikari?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Forgive me,Lan⋯"
+	"... Me perdoa, Lan..."
 	keyWait
 		any = false
 	clearMsg
@@ -281,25 +280,28 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"It's not your fault⋯"
+	"A culpa não é sua..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No scientist would
-	ever throw away such
-	superb research⋯
+	Nenhum cientista jogaria
+	fora uma pesquisa tão
+	magnífica assim...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"After all,humans"
+	"""
+	Afinal de contas,
+	os humanos, de fato,
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	really are such
-	weak creatures⋯
+	são criaturas
+	tão fracas...
 	"""
 	keyWait
 		any = false
@@ -310,23 +312,24 @@ script 12 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Your guilt will be
-	gone once you're
-	tainted by evil.
+	Essa culpa desaparecerá
+	assim que você for
+	manchado pelo mal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then together we can
-	watch⋯
+	Então, poderemos
+	assistir juntos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Watch as the world's
-	tainted by evil.
+	Assistir enquanto
+	o mundo inteiro é
+	manchado pelo mal.
 	"""
 	keyWait
 		any = false
@@ -337,8 +340,8 @@ script 13 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	⋯Lan,
-	I've failed you⋯
+	... Lan...
+	Eu falhei com você...
 	"""
 	keyWait
 		any = false

@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Well,it's great that
-	everything went
-	according to plan.
+	Ah, que bom que tudo
+	correu bem, no fim
+	das contas.
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,9 @@ script 1 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	It's thanks to you
-	and Higsby being
-	there that it did.
+	Tudo só deu certo
+	porque você e o
+	Higsby estavam lá.
 	"""
 	keyWait
 		any = false
@@ -35,9 +35,8 @@ script 2 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	No,not at all. I'm
-	just glad to be of
-	service.
+	Ah, imagina.
+	Só fico feliz em ser útil.
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Te he he he."
+	"Hi hi hi hi."
 	keyWait
 		any = false
 	end
@@ -59,9 +58,8 @@ script 4 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Is that you,MegaMan?
-	What are you doing
-	here?
+	É você, MegaMan?
+	O que está fazendo aqui?
 	"""
 	keyWait
 		any = false
@@ -73,7 +71,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Hah!"
+	"... Rá!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -84,7 +82,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"Waargh!"
+	"Uaaagh!"
 	keyWait
 		any = false
 	end
@@ -94,8 +92,8 @@ script 7 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	W-What on earth
-	are you doing?!
+	M-mas o que é que
+	você está fazendo?!
 	"""
 	keyWait
 		any = false
@@ -107,7 +105,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -117,9 +115,9 @@ script 9 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	MegaMan⋯
-	You'll pay for
-	this⋯!
+	MegaMan...
+	Você vai pagar
+	por isso...!
 	"""
 	keyWait
 		any = false

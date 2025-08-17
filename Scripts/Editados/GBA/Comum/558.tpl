@@ -11,16 +11,16 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	There still seem
-	to be problems
-	inside End Area.
+	Parecem que a Área
+	Endo ainda tá encarando
+	uns problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm staying
-	out of there!
+	Eu vou é ficar beeem
+	longe de lá!
 	"""
 	keyWait
 		any = false
@@ -31,17 +31,17 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	*Sigh* I've got
-	to go see my
-	tutor now.
+	Ai, ai... Eu tô indo
+	até o meu professor
+	particular agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want to. But
-	my Mom will get mad
-	if I skip out!
+	Eu não quero estudar...
+	mas a minha mãe vai me
+	dar bronca se eu furar!
 	"""
 	keyWait
 		any = false
@@ -60,8 +60,8 @@ script 3 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Looking for
-	something?
+	Está atrás de alguma
+	coisa?
 	"""
 	keyWait
 		any = false
@@ -77,7 +77,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -86,7 +86,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -100,7 +100,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"Oh."
+	"Hum."
 	keyWait
 		any = false
 	end
@@ -112,47 +112,47 @@ script 4 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	A code? Hmm.
-	"The 3rd ACDC"
+	Um código?
+	Hmm...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	must refer to
-	ACDC Area3⋯
+	"A terceira  ACDC"
+	deve ser referir à
+	Área ACDC 3...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the 4th
-	square from ACDC
-	Area2. I think
+	E este é o quarto
+	quadro a partir da
+	Área ACDC 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we're standing
-	near your
-	destination.
+	Acho que estamos bem
+	perto do seu destino.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The entrance for
-	Oran Area is right
-	over there,too⋯
+	E a entrada para a
+	Área Oran fica bem
+	ali...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you find
-	what you're looking
-	for!
+	Espero que você
+	encontre o que
+	está procurando!
 	"""
 	keyWait
 		any = false
@@ -163,17 +163,16 @@ script 5 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I think this is the
-	area you're looking
-	for.
+	Acho que esta é a
+	área que você está
+	procurando, sim.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why don't you
-	start looking
-	around here?
+	Por que não dá uma
+	investigada por aqui?
 	"""
 	keyWait
 		any = false
@@ -184,8 +183,7 @@ script 6 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Is that a new
-	door over there?
+	Aquilo ali é uma porta?
 	"""
 	keyWait
 		any = false
@@ -196,8 +194,8 @@ script 10 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Some⋯
-	Ple⋯ Sto⋯ !!
+	Alg...
+	Por f... Par...!!
 	"""
 	keyWait
 		any = false
@@ -205,9 +203,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -218,8 +216,8 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sh⋯ J⋯k⋯
-	⋯out earl⋯
+	Dev... ter de... nect...
+	... nte...
 	"""
 	keyWait
 		any = false
@@ -227,9 +225,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -240,8 +238,9 @@ script 20 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Don't count Nebula
-	out just yet.
+	Eu acho que a Nebula
+	ainda não terminou de
+	aprontar...
 	"""
 	keyWait
 		any = false
@@ -252,8 +251,8 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I should have jacked
-	out earlier⋯
+	Eu devia ter
+	desconectado logo...
 	"""
 	keyWait
 		any = false
@@ -264,17 +263,17 @@ script 30 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	This area was under
-	Nebula's control
-	a little while ago.
+	Esta área estava sob o
+	controle da Nebula até
+	pouco tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But now it's
-	just about back
-	to normal.
+	Mas agora, ela
+	praticamente já
+	voltou ao normal.
 	"""
 	keyWait
 		any = false
@@ -285,16 +284,16 @@ script 31 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Who cares about
-	Nebula? I just
-	take it easy,man.
+	Quem liga pra essa
+	Nebula? Eu só tô de
+	boa aqui, cara.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Worrying is bad
-	for your health!
+	Preocupação faz mal
+	pra saúde!
 	"""
 	keyWait
 		any = false
@@ -305,14 +304,14 @@ script 40 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I heard some
-	areas are really
-	in an uproar.
+	Ouvi dizer que algumas
+	áreas estão no maior
+	caos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful!"
+	"Cuidado, hein!"
 	keyWait
 		any = false
 	end
@@ -321,14 +320,14 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
-	"An incident?"
+	"Um incidente?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry me,
-	man! It's bad
-	for my health!
+	Não me preocupa, não,
+	cara! Vai prejudicar a
+	minha saúde!
 	"""
 	keyWait
 		any = false
@@ -339,17 +338,17 @@ script 50 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This area,ACDC
-	Area3,was under
-	Nebula's control.
+	Esta área, a Área
+	ACDC 3, estava sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was expecting
-	it to look a lot
-	worse than this!
+	Eu achava que ela
+	estaria em bem pior
+	estado!
 	"""
 	keyWait
 		any = false
@@ -360,16 +359,15 @@ script 51 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I've got to get
-	Nebula outta my
-	mind!
+	Eu tenho que parar de
+	pensar na Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I don't,I'll
-	wreck my health!
+	Senão, a minha saúde
+	vai pras cucuias!
 	"""
 	keyWait
 		any = false

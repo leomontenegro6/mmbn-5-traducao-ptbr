@@ -1,15 +1,15 @@
 @size 48
 
 script 0 mmbn5s {
-	" WM Dex   Welcome!"
+	" WM Dex   Bem-vindos!"
 	end
 }
 script 1 mmbn5s {
-	" Yai      Congrats!"
+	" Yai      Parabéns!"
 	end
 }
 script 2 mmbn5s {
-	" WM Dex   Champy's #!"
+	" WM Dex   O Champy!"
 	end
 }
 script 3 mmbn5s {
@@ -17,55 +17,55 @@ script 3 mmbn5s {
 	end
 }
 script 4 mmbn5s {
-	" Glide    Cool,Dex!"
+	" Glide    Ótimo, Dex!"
 	end
 }
 script 5 mmbn5s {
-	" Mayl     Today's HW"
+	" Mayl     Lição de hj"
 	end
 }
 script 6 mmbn5s {
-	" Koetsu   RE:Tdays HW"
+	" Koetsu   RE:Lição hj"
 	end
 }
 script 7 mmbn5s {
-	" Chakkan  Big secret!"
+	" Chakkan  Segredo!"
 	end
 }
 script 8 mmbn5s {
-	" WM Dex   RE:Secret!"
+	" WM Dex   RE:Segredo!"
 	end
 }
 script 9 mmbn5s {
-	" Chakkan  Thx!"
+	" Chakkan  Vlw!"
 	end
 }
 script 10 mmbn5s {
-	" Yu       Mystry data"
+	" Yu       Ddo Misteri"
 	end
 }
 script 11 mmbn5s {
-	" Mozukuzu Reglr Chips"
+	" Mozukuzu Chip Padrão"
 	end
 }
 script 12 mmbn5s {
-	" Koetsu   RE:Reglr Ch"
+	" Koetsu   RE:Chip Pad"
 	end
 }
 script 13 mmbn5s {
-	" Hirohiro NaviCust!"
+	" Hirohiro CustNavi!"
 	end
 }
 script 14 mmbn5s {
-	" Rick     RE:NaviCust"
+	" Rick     RE:CustNavi"
 	end
 }
 script 15 mmbn5s {
-	" Tokitada Using NvCst"
+	" Tokitada Usando CstN"
 	end
 }
 script 16 mmbn5s {
-	" Koetsu   RE:Using NC"
+	" Koetsu   RE:Usando C"
 	end
 }
 script 17 mmbn5s {
@@ -73,47 +73,47 @@ script 17 mmbn5s {
 	end
 }
 script 18 mmbn5s {
-	" Inoppe   Bug again?"
+	" Inoppe   Bug d novo?"
 	end
 }
 script 19 mmbn5s {
-	" Koetsu   DarkChip!"
+	" Koetsu   ChipTrev!"
 	end
 }
 script 20 mmbn5s {
-	" Wolf     RE:DarkChip"
+	" Lobo     RE:ChipTrev"
 	end
 }
 script 21 mmbn5s {
-	" Tomosuke Watch out!"
+	" Tomosuke Cuidado!"
 	end
 }
 script 22 mmbn5s {
-	" Nookie   Sub virus"
+	" Nookie   Vírus submr"
 	end
 }
 script 23 mmbn5s {
-	" Nanako   RE:Sub viru"
+	" Nanako   RE:Vírus sb"
 	end
 }
 script 24 mmbn5s {
-	" Zacky    Counters!"
+	" Zacky    Contra-Atq!"
 	end
 }
 script 25 mmbn5s {
-	" Mukkai   Slashing"
+	" Mukkai   Cortes"
 	end
 }
 script 26 mmbn5s {
-	" Mosashi  RE:Slashing"
+	" Mosashi  RE:Cortes"
 	end
 }
 script 27 mmbn5s {
-	" BBSO  1B Ntwrk Duel"
+	" BBSO  1B Duelo Rede"
 	end
 }
 script 28 mmbn5s {
-	" BBSO  1B RE:Ntwrk Du"
+	" BBSO  1B RE:Duelo Rd"
 	end
 }
 script 29 mmbn5s {

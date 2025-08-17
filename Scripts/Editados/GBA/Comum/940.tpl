@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I haven't seen any
-	sign of the dog yet.
+	Nem sombra do cachorro
+	até agora...
 	"""
 	keyWait
 		any = false
@@ -18,13 +18,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm⋯"
+	"Hmm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Where should we look
-	next⋯?
+	Onde será que a gente
+	procura agora...?
 	"""
 	keyWait
 		any = false
@@ -41,13 +41,13 @@ script 2 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow"
+	"Gáu! "
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow!"
+	"Gáu!"
 	keyWait
 		any = false
 	end
@@ -56,7 +56,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's a dog barking!"
+	"É um latido!"
 	keyWait
 		any = false
 	end
@@ -70,32 +70,33 @@ script 4 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow"
+	"Gáu, "
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow"
+	"Gáu"
 	wait
 		frames = 8
 	"!\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow"
+	"Gáu, "
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"Gow!"
+	"Gáu!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shut up,you noisy
-	hound! Be quiet!
+	Cala a boca, seu
+	vira-lata barulhento!
+	Quieto!
 	"""
 	keyWait
 		any = false
@@ -106,9 +107,9 @@ script 5 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	MegaMan'll find us
-	if you make that
-	much of a racket!
+	Se você ficar nessa
+	gritaria, o MegaMan
+	vai achar a gente!
 	"""
 	keyWait
 		any = false
@@ -120,7 +121,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I already have!"
+	"Já achei!"
 	keyWait
 		any = false
 	end
@@ -129,7 +130,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Kurgh,MegaMan!"
+	"Urgh! MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -141,15 +142,17 @@ script 8 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A Nebula Navi?!
-	You're here too⋯
+	Um Navi da Nebula?!
+	Então, vocês também
+	chegaram aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Give me that dog⋯
-	Let Gow go!
+	Passa esse
+	cachorro pra cá...
+	Solta o Gáu!
 	"""
 	keyWait
 		any = false
@@ -164,33 +167,33 @@ script 9 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Huh,do you expect me
-	to just hand him
-	over to you?!
+	Rá. Acha mesmo que eu
+	vou dar ele pra você
+	assim, de mão beijada?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No way! And I'm
-	going to delete you
-	too!
+	Até parece!
+	Eu vou é te deletar,
+	maldito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If I take him the
-	dog and tell him I
-	defeated MegaMan,
+	Se eu levar o cachorro
+	pro Mestre Regal e
+	contar pra ele que
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Master Regal will be
-	mighty pleased with
-	me!
+	deletei o MegaMan,
+	aposto que ele vai
+	ficar bem feliz!
 	"""
 	keyWait
 		any = false
@@ -202,7 +205,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's attacking,Lan!"
+	"Aí vem ele, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -213,7 +216,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Groooargh!"
+	"Gruuargh!"
 	keyWait
 		any = false
 	end

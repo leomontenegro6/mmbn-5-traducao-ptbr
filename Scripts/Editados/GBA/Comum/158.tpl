@@ -3,22 +3,24 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	This helmet's been
-	customized with the
-	latest devices and
+	Esse elmo foi personali-
+	zado com a tecnologia
+	mais avançada que há,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	can be used for
-	security purposes.
-	It also has a port
+	e pode ser usado para
+	segurança.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"for jacking in."
+	"""
+	Também possui uma
+	entrada de conexão.
+	"""
 	keyWait
 		any = false
 	end
@@ -26,9 +28,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	The helmet is
-	brimming with a
-	powerful aura.
+	O elmo está cercado
+	por uma aura poderosa.
 	"""
 	keyWait
 		any = false
@@ -37,9 +38,8 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	This helmet has
-	majestic air
-	about it.
+	Este elmo emana uma
+	atmosfera majestosa.
 	"""
 	keyWait
 		any = false
@@ -52,8 +52,8 @@ script 3 mmbn5 {
 		jumpIfFalse = 30
 	msgOpen
 	"""
-	This armor is
-	steeped in history.
+	Essa armadura guarda
+	tanta história.
 	"""
 	keyWait
 		any = false
@@ -62,22 +62,16 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	The armor's heavier
-	than it looks.
+	A armadura é mais
+	pesada do que parece.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The samurais who
-	wore this must've
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	had huge muscular
-	bodies.
+	Os samurais que as
+	usavam deviam ter
+	corpos bem musculosos.
 	"""
 	keyWait
 		any = false
@@ -86,23 +80,23 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The armor's been
-	patched in places.
+	A armadura tem alguns
+	reparos aqui e ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The latest materials
-	were used to patch
-	it up,
+	Os reparos foram feitos
+	com materiais bem
+	modernos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and a jack in port
-	was also added.
+	e incluem uma entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -111,8 +105,8 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	Armor displayed like
-	works of art.
+	Uma armadura, exposta
+	como uma obra de arte.
 	"""
 	keyWait
 		any = false
@@ -135,31 +129,29 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A life-sized statue
-	bars the way.
+	Uma estátua de tamanho
+	real barra o caminho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems it
-	was designed
-	to keep enemies
+	Ela foi projetada para
+	impedir a entrada de
+	inimigos durante
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	out during an
-	invasion.
+	invasões.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's probably
-	a way to move it
-	back around here⋯
+	Deve haver uma forma
+	de movê-la...
 	"""
 	keyWait
 		any = false
@@ -168,16 +160,16 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	A life-sized
-	statue.
+	Uma estátua de
+	tamanho real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has a powerful
-	look,as if it could
-	protect everything.
+	Tem um olhar poderoso,
+	como se fosse capaz de
+	proteger tudo.
 	"""
 	keyWait
 		any = false
@@ -186,9 +178,8 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	A magnificent
-	screen greets
-	visitors.
+	Uma tela magnífica
+	recebe os visitantes.
 	"""
 	keyWait
 		any = false
@@ -197,9 +188,9 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	An introduction to
-	basic armor and
-	helmet facts.
+	Uma lista de curiosi-
+	dades básicas sobre
+	elmos e armaduras.
 	"""
 	keyWait
 		any = false
@@ -208,16 +199,16 @@ script 11 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	A stern-faced statue
-	carrying a number of
-	weapons.
+	Uma estátua de
+	expressão austera
+	portando várias armas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has an extremely
-	menacing look.
+	Seu olhar é
+	extremamente ameaçador.
 	"""
 	keyWait
 		any = false
@@ -234,23 +225,22 @@ script 16 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Defeat the 100
-	fighters and the
-	way shall open⋯
+	Derrote os 100
+	guerreiros e o
+	caminho se abrirá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A hero you shall
-	be named⋯
+	E um herói você
+	se tornará...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you accept
-	the challenge?
+	Aceita o desafio?
 	"""
 	keyWait
 		any = false
@@ -265,7 +255,7 @@ script 16 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Yes\n"
+	" Sim\n"
 	option
 		brackets = 0
 		left = 1
@@ -274,7 +264,7 @@ script 16 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	option
 		brackets = 0
 		left = 2
@@ -283,7 +273,7 @@ script 16 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Hear more"
+	" Mais informações"
 	select
 		default = 0
 		BSeparate = false
@@ -299,8 +289,8 @@ script 16 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	This is no place
-	for cowards.
+	Aqui não é lugar
+	para covardes.
 	"""
 	keyWait
 		any = false
@@ -319,8 +309,8 @@ script 17 mmbn5 {
 		delay = 2
 	msgOpen
 	"""
-	Go forth,
-	Katana in hand⋯
+	Adiante, com a
+	espada em mãos...
 	"""
 	keyWait
 		any = false
@@ -331,7 +321,7 @@ script 17 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a:
+	Lan recebeu uma:
 	"
 	"""
 	printItem
@@ -352,7 +342,7 @@ script 18 mmbn5 {
 	msgOpen
 	flagSet
 		flag = 2678
-	"Now,go forth!"
+	"Agora, avante!"
 	keyWait
 		any = false
 	end
@@ -362,38 +352,37 @@ script 19 mmbn5 {
 		delay = 2
 	msgOpen
 	"""
-	You will find
-	a cross beyond.
+	Você verá uma
+	encruzilhada à frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stand in its center
-	and use the B Button
-	to swing the WoodSwrd
+	Fique no centro dela
+	e aperte B para usar
+	a Espada de Madeira
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and cut down the
-	attacking fighters.
+	e cortar os guerreiros
+	que atacarem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This trial continues
-	until you defeat
-	100 fighters.
+	A provação continua
+	até você derrotar
+	100 guerreiros.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do you accept the
-	challenge?
+	Aceita o desafio?
 	"""
 	keyWait
 		any = false
@@ -408,7 +397,7 @@ script 19 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Yes\n"
+	" Sim\n"
 	option
 		brackets = 0
 		left = 1
@@ -417,7 +406,7 @@ script 19 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	option
 		brackets = 0
 		left = 2
@@ -426,7 +415,7 @@ script 19 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Hear more"
+	" Mais informações"
 	select
 		default = 0
 		BSeparate = false
@@ -442,8 +431,8 @@ script 19 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	This is no place
-	for cowards.
+	Aqui não é lugar
+	para covardes.
 	"""
 	keyWait
 		any = false
@@ -456,8 +445,7 @@ script 20 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Do you accept the
-	challenge?
+	Aceita o desafio?
 	"""
 	keyWait
 		any = false
@@ -472,7 +460,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Yes\n"
+	" Sim\n"
 	option
 		brackets = 0
 		left = 1
@@ -481,7 +469,7 @@ script 20 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	option
 		brackets = 0
 		left = 2
@@ -490,7 +478,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Hear more"
+	" Mais informações"
 	select
 		default = 0
 		BSeparate = false
@@ -506,8 +494,8 @@ script 20 mmbn5 {
 	textSpeed
 		delay = 2
 	"""
-	This is no place
-	for cowards.
+	Aqui não é lugar
+	para covardes.
 	"""
 	keyWait
 		any = false
@@ -516,8 +504,7 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	Onward,
-	young samurai⋯
+	Avante, jovem samurai...
 	"""
 	keyWait
 		any = false
@@ -525,7 +512,7 @@ script 21 mmbn5 {
 }
 script 22 mmbn5 {
 	msgOpen
-	"Now,go forth!"
+	"Agora, em frente!"
 	keyWait
 		any = false
 	end
@@ -540,19 +527,19 @@ script 30 mmbn5 {
 		flag = 544
 	msgOpen
 	"""
-	This armor is
-	steeped in history.
+	Essa armadura guarda
+	tanta história.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
 	"Hm?"
@@ -560,9 +547,8 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	There's something
-	hidden in the
-	armor.
+	Tem alguma coisa
+	escondida nela.
 	"""
 	keyWait
 		any = false
@@ -574,8 +560,8 @@ script 30 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -588,9 +574,8 @@ script 30 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	1 MB!!
+	Memória padrão
+	aumentada em 1 MB!!
 	"""
 	keyWait
 		any = false
@@ -599,8 +584,8 @@ script 30 mmbn5 {
 script 31 mmbn5 {
 	msgOpen
 	"""
-	This armor is
-	steeped in history.
+	Essa armadura guarda
+	tanta história.
 	"""
 	keyWait
 		any = false

@@ -15,25 +15,24 @@ script 0 mmbn5 {
 	flagSet
 		flag = 515
 	"""
-	I somehow ended
-	up with a bad chip
-	of yours.
+	Um chip mó ruim
+	acabou vindo parar
+	comigo, por acaso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Since then,I've
-	had nothing but
-	bad luck.
+	E, desde então, eu
+	só tenho tido azar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Will ya take
-	this nasty chip
-	off my hands?
+	Cê pode tirar esta
+	coisa maldita de
+	perto de mim?
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Claro "
 	option
 		brackets = 0
 		left = 0
@@ -58,7 +57,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -72,7 +71,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Ah,come on⋯"
+	"Ah, vai..."
 	keyWait
 		any = false
 	end
@@ -81,7 +80,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Cool⋯"
+	"Show..."
 	keyWait
 		any = false
 	clearMsg
@@ -93,8 +92,8 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -114,22 +113,21 @@ script 1 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Watch out⋯
-	Yer luck's gonna
-	run short now.
+	Fica ligado...
+	Agora, a tua sorte
+	vai pro chão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Hey,I know.
-	Let's test it
-	right now!
+	... Aliás, já sei.
+	Bora testar isso já!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Rahhh!!!"
+	"... Iáááárh!!!"
 	keyWait
 		any = false
 	flagSet
@@ -143,15 +141,15 @@ script 2 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	⋯Oh! Did you
-	change your mind?
+	... Ah!
+	Mudou de ideia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take this nasty
-	chip,please!
+	Por favor, só tira este
+	chip horroroso daqui!
 	"""
 	keyWait
 		any = false
@@ -167,7 +165,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Claro "
 	option
 		brackets = 0
 		left = 0
@@ -176,7 +174,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No way"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -190,7 +188,7 @@ script 2 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Ah,come on⋯"
+	"Ah, vai..."
 	keyWait
 		any = false
 	end
@@ -200,17 +198,17 @@ script 3 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Calm down!
-	I just wanted to see
-	what you got.
+	Opa, calma!
+	Eu só queria ver
+	se tu se garantia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess you'll
-	be able to master
-	that chip.
+	Acho que tu vai
+	conseguir dominar
+	o chip, sim.
 	"""
 	keyWait
 		any = false
@@ -221,23 +219,24 @@ script 5 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	I STORE AND RECREATE
-	BATTLES FOUGHT IN
-	THIS AREA.
+	EU ARMAZENO E RECRIO
+	LUTAS TRAVADAS NESTA
+	ÁREA.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	RELIVE A BATTLE
+	VOCÊ GOSTARIA DE
+	REPETIR UMA BATALHA
+	QUE SE DEU ENTRE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN NEBULA AND A
-	CERTAIN NAVI TEAM?
+	A NEBULA E UMA CERTA
+	EQUIPE DE NAVIS?
 	"""
 	keyWait
 		any = false
@@ -253,7 +252,7 @@ script 5 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -262,7 +261,7 @@ script 5 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -276,7 +275,7 @@ script 5 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGold
-	"I SEE⋯"
+	"ENTENDO..."
 	keyWait
 		any = false
 	end
@@ -285,18 +284,17 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"VERY WELL⋯"
+	"POIS BEM..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I SHALL
-	RECREATE IT⋯
+	EU A RECRIAREI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯GO!!!"
+	"... AGORA!!!"
 	keyWait
 		any = false
 	flagSet
@@ -307,7 +305,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"AN EPIC BATTLE!"
+	"QUE BATALHA ÉPICA!"
 	keyWait
 		any = false
 	clearMsg
@@ -318,7 +316,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	msgOpen
-	"TOO BAD⋯"
+	"QUE PENA..."
 	keyWait
 		any = false
 	clearMsg
@@ -330,8 +328,9 @@ script 9 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	SOMETIMES RETREAT IS
-	THE BEST STRATEGY⋯
+	HÁ VEZES EM QUE
+	RECUAR É A MELHOR
+	ESTRATÉGIA...
 	"""
 	keyWait
 		any = false
@@ -341,15 +340,15 @@ script 9 mmbn5 {
 }
 script 10 mmbn5 {
 	"""
-	IF YOU EVER WANT TO
-	EXPERIENCE THAT
+	SE QUISER REPETIR
+	AQUELA BATALHA DE
+	NOVO,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BATTLE AGAIN,JUST
-	LET ME KNOW.
+	É SO ME AVISAR.
 	"""
 	keyWait
 		any = false

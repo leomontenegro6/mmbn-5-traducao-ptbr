@@ -12,8 +12,9 @@ script 0 mmbn5 {
 		amount = 1
 	msgOpen
 	"""
-	It unlocked! The
-	CyberHatch opened!
+	Destrancada!
+	A CyberEscotilha
+	se abriu!
 	"""
 	keyWait
 		any = false
@@ -24,16 +25,16 @@ script 0 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	The CyberHatch is
-	locked and won't
-	budge.
+	A CyberEscotilha está
+	trancada. É impossível
+	abri-la à força.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	One keyhole
-	is empty.
+	Uma das fechaduras
+	está vazia.
 	"""
 	keyWait
 		any = false

@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	All the incidents on
-	the news are related
-	to the Net.
+	Todos os incidentes
+	nos noticiários são
+	relacionados à Rede.
 	"""
 	keyWait
 		any = false
@@ -28,16 +28,16 @@ script 5 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Every time I watch
-	the news I think
-	about Yuichiro.
+	Sempre que eu assisto
+	ao noticiário, eu
+	penso no Yuichiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I pray that he's
-	safe and sound.
+	Estou sempre rezando
+	pra ele estar bem.
 	"""
 	keyWait
 		any = false
@@ -48,9 +48,9 @@ script 10 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Don't goof off all
-	day just because
-	school's cancelled!
+	Não fique de bobeira
+	o dia todo só porque
+	a aula foi cancelada!
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 15 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I suppose I'll do
-	some shopping.
+	Acho que vou sair para
+	fazer umas compras.
 	"""
 	keyWait
 		any = false
@@ -73,8 +73,8 @@ script 20 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What shall I fix
-	today?
+	O que eu vou preparar
+	hoje?
 	"""
 	keyWait
 		any = false
@@ -90,9 +90,9 @@ script 30 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Why the long face,
-	Lan? Has something
-	happened?
+	Por que tá tão tristinho,
+	Lan?
+	Aconteceu alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -103,9 +103,9 @@ script 35 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I haven't heard
-	MegaMan around.
-	Did you two fight?
+	Eu não tenho ouvido o
+	MegaMan estes dias.
+	Vocês brigaram?
 	"""
 	keyWait
 		any = false
@@ -121,16 +121,17 @@ script 40 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	A cruise ship is
-	docked at the
-	harbor behind SciLab
+	Um cruzeiro atracou
+	no porto atrás do
+	SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You father and I
-	could use a cruise⋯
+	O seu pai e eu bem
+	que podíamos fazer
+	um cruzeiro...
 	"""
 	keyWait
 		any = false
@@ -141,24 +142,24 @@ script 45 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I heard there was
-	a disturbance on the
-	cruise ship.
+	Ouvi falar que teve
+	algum tipo de problema
+	no cruzeiro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No surprise,the way
-	things are these
-	days.
+	Não me surpreende,
+	vendo como as coisas
+	andam ultimamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,promise me
-	you'll stay safe!
+	Lan, promete que você
+	vai se cuidar!
 	"""
 	keyWait
 		any = false

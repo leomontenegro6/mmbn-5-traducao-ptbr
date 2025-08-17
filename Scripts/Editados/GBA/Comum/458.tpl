@@ -4,28 +4,28 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WARNING! WARNING!"
+	"ALERTA! ALERTA!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SCILAB1 IS CURRENTLY
-	UNDER THE CONTROL OF
-	NEBULA!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	ENTRY BY ORDINARY
-	NAVIS IS FORBIDDEN!
+	A ÁREA SCILAB 1 ESTÁ
+	SOB O CONTROLE DA
+	NEBULA AGORA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	JACK OUT
-	IMMEDIATELY!!!
+	A ENTRADA DE NAVIS
+	CIVIS ESTÁ PROIBIDA!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	DESCONECTE-SE
+	IMEDIATAMENTE!!
 	"""
 	keyWait
 		any = false
@@ -35,21 +35,21 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME TO SCILAB1!"
+	"BEM-VINDO A SCILAB 1!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ORAN AREA3 IS IN
-	FRONT,AND SCILAB2
-	IS IN BACK.
+	A ÁREA ORAN 3 FICA EM
+	FRENTE, E A SCILAB 2
+	FICA ATRÁS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OH? YOU ALREADY KNEW
-	THAT?
+	HÃ?
+	VOCÊ JÁ SABIA DISSO?
 	"""
 	keyWait
 		any = false
@@ -60,16 +60,16 @@ script 11 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Huh?! You were right
-	by me. When did you
-	get over there?
+	Ué?! Cê tava bem aqui,
+	do meu lado. Como fez
+	pra chegar aí?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,what is this
-	place,anyway?
+	Aliás, que lugar é este,
+	hein?
 	"""
 	keyWait
 		any = false
@@ -80,16 +80,16 @@ script 12 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	I can't believe you
-	got lost. We were
-	walking together!
+	Não acredito que você
+	se perdeu. A gente
+	tava andando juntos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're so bad with
-	directions!!!
+	O seu senso de direção
+	é uma tragédia!!
 	"""
 	keyWait
 		any = false
@@ -100,23 +100,24 @@ script 13 mmbn5 {
 		mugshot = NormalNaviBrown
 	msgOpen
 	"""
-	Hey,outta the way.
-	I'm jogging,here.
+	Ei, sai da frente.
+	Eu tô fazendo uma
+	corridinha aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What?
-	You want to know why
-	I'm jogging?
+	Hã?
+	Quer saber por que eu
+	tô correndo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hehehe⋯
-	That's a secret.
+	He he he...
+	Segredo.
 	"""
 	keyWait
 		any = false
@@ -127,24 +128,22 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I figured it'd be
-	easy to do math
-	homework
+	Eu achei que seria fácil
+	fazer a lição de matemá-
+	tica na Área SciLab,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in SciLab Area,
-	but I was just
-	kidding myself⋯
+	mas era pura ilusão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man,I just don't
-	get this stuff!
+	Argh, eu não entendo
+	nada disto!
 	"""
 	keyWait
 		any = false
@@ -155,23 +154,22 @@ script 21 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	The terminal in the
-	SciLab lobby
+	O terminal na recepção
+	do SciLab
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	connects with some
-	SciLab Area,
-	supposedly.
+	se conecta a uma parte
+	da Área SciLab, ao que
+	parece.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what it
-	connects to.
+	Mas a que parte será?
 	"""
 	keyWait
 		any = false
@@ -186,16 +184,16 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YAHOOO!!!"
+	"FÚÚÚÚÚÚP!!!"
 	callVacuumProgReduce
 		amount = 100
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE WE GO!
-	IT'S EMPTY NOW.
-	COME AGAIN!
+	PRONTO!
+	ESVAZIADO.
+	VOLTE SEMPRE!
 	"""
 	keyWait
 		any = false
@@ -206,17 +204,17 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU PROBABLY ALREADY
-	KNOW THIS,BUT YOUR
-	VACUPROG IS EMPTY.
+	JÁ DEVE SABER DISSO,
+	MAS O SEU PROGRAMA
+	JÁ ESTÁ VAZIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S NOTHING ELSE
-	I CAN DO FOR YOU
-	RIGHT NOW.
+	NÃO HÁ MAIS NADA QUE
+	EU POSSA FAZER POR
+	VOCÊ AGORA.
 	"""
 	keyWait
 		any = false
@@ -243,31 +241,30 @@ script 33 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN'T EMPTY IT OUT
-	COMPLETELY BUT I'LL
-	DO MY BEST!
+	NÃO POSSO ESVAZIAR
+	COMPLETAMENTE, MAS
+	VOU ME ESFORÇAR!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK,LET'S SEE HERE⋯"
+	"OK, VAMOS LÁ..."
 	keyWait
 		any = false
 	clearMsg
-	"YAHOOO!!!"
+	"FÚÚÚÚÚP!!!"
 	callVacuumProgReduce
 		amount = 50
 	keyWait
 		any = false
 	clearMsg
-	"WHEW⋯"
+	"UFF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YEAH⋯
-	THAT'S AS MUCH AS I
-	CAN DO⋯
+	É...
+	SÓ CONSIGO ISSO...
 	"""
 	keyWait
 		any = false
@@ -282,24 +279,24 @@ script 34 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOUR VACUPROG IS
-	ALREADY EMPTY.
+	O SEU PROGRAMA
+	ASPIRADOR JÁ ESTÁ
+	VAZIO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M STILL KIND OF
-	INEXPERIENCED AS A
-	PROGRAM
+	AINDA SOU UM PROG
+	INEXPERIENTE,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BUT I ALWAYS TRY MY
-	BEST. COME BACK
-	ANYTIME.
+	MAS SEMPRE DOU O
+	MELHOR DE MIM.
+	CONTE SEMPRE COMIGO.
 	"""
 	keyWait
 		any = false
@@ -309,14 +306,14 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"*pant pant*"
+	"ARF... ARF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M TOO TIRED TO DO
-	ANYTHING RIGHT NOW.
-	SORRY!
+	TÔ CANSADO DEMAIS
+	PRA FAZER ALGUMA
+	COISA AGORA. DESCULPA!
 	"""
 	keyWait
 		any = false
@@ -332,76 +329,76 @@ script 37 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I LACK THE
-	CAPABILITY TO EMPTY
-	COLLECTED CLOUDS.
+	EU NÃO TENHO A
+	CAPACIDADE DE ESVAZIAR
+	NUVENS ACUMULADAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	INSTEAD,I CAN TELL
-	YOU THE ORDER FOR
+	EM VEZ DISSO, POSSO
+	LHE INDICAR A ORDEM
+	CERTA PARA COLHER
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CLEARING THIS ENTIRE
-	SQUARE FULL OF
-	CLOUDS ALL AT ONCE.
+	TODAS AS NUVENS DESTA
+	ÁREA DE UMA SÓ VEZ.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IF YOU FOLLOW THIS
-	ORDER,YOU'LL RUN
-	INTO MY PALS,TOO.
+	SE SEGUIR ESSA ORDEM,
+	TAMBÉM IRÁ ENCONTRAR
+	ALGUNS DE MEUS AMIGOS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN RELY ON
-	THEM TO GET RID OF
-	YOUR CLOUDS!
+	PODE CONTAR COM ELES
+	PARA ESVAZIAR AS SUAS
+	NUVENS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SO LISTEN UP!
-	WHITE IS FIRST!
+	ENTÃO, ATENÇÃO!
+	PRIMEIRO, UMA BRANCA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEXT COMES GRAY!
-	THEN WHITE!
+	DEPOIS, UMA CINZA!
+	DEPOIS, BRANCA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEN⋯
-	THEN⋯
+	DEPOIS...
+	DEPOIS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HMMM⋯
-	I FORGET.
+	HMMM...
+	ESQUECI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WELL,YOU SHOULD BE
-	JUST FINE WITH THIS
-	MUCH INFO,RIGHT?
+	BOM, ESSE TANTO DE
+	INFORMAÇÃO JÁ DEVE
+	BASTAR, NÃO?
 	"""
 	keyWait
 		any = false
@@ -416,24 +413,24 @@ script 38 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"YAHOOO!!!"
+	"FÚÚÚÚÚÚP!!!"
 	callVacuumProgReduce
 		amount = 100
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE WE GO!
-	YOUR VACUPROG IS
-	EMPTY NOW.
+	PRONTINHO! O SEU
+	PROGRAMA ASPIRADOR
+	FOI ESVAZIADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'RE ALMOST AT
-	SCILAB2.
-	GOOD LUCK!
+	VOCÊ ESTÁ QUASE
+	CHEGANDO EM SCILAB 2.
+	BOA SORTE!
 	"""
 	keyWait
 		any = false
@@ -444,15 +441,16 @@ script 39 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	HERE'S SOMETHING YOU
-	SHOULD KNOW⋯
+	TEM UMA COISA QUE
+	VOCÊ PRECISA SABER...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOUR VACUPROG IS
-	ALREADY EMPTY!
+	O SEU PROGRAMA
+	ASPIRADOR JÁ ESTÁ
+	VAZIO!
 	"""
 	keyWait
 		any = false

@@ -40,8 +40,8 @@ script 0 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	You got the top
-	record,Lan! It's
+	Bateu o melhor
+	recorde, Lan! É
 	
 	"""
 	printBuffer
@@ -103,8 +103,8 @@ script 1 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	You got the top
-	record,Lan! It's
+	Bateu o melhor
+	recorde, Lan! É
 	
 	"""
 	printBuffer
@@ -168,7 +168,7 @@ script 2 mmbn5 {
 		top = 6
 		type = 0
 	msgOpen
-	"The top record is\n"
+	"Maior recorde atual\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -197,7 +197,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Return  "
+	" Voltar  "
 	option
 		brackets = 0
 		left = 0
@@ -206,7 +206,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Delete"
+	" Apagar"
 	select
 		default = 0
 		BSeparate = true
@@ -256,7 +256,7 @@ script 3 mmbn5 {
 		top = 6
 		type = 0
 	msgOpen
-	"The top record is\n"
+	"Maior recorde atual\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -285,7 +285,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Return  "
+	" Voltar  "
 	option
 		brackets = 0
 		left = 0
@@ -294,7 +294,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Delete"
+	" Apagar"
 	select
 		default = 0
 		BSeparate = true
@@ -321,8 +321,8 @@ script 4 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	YOU GOT THE TOP
-	RECORD. IT'S
+	VOCÊ BATEU O MAIOR
+	RECORDE. SENDO ESSE
 	
 	"""
 	printBuffer
@@ -360,8 +360,8 @@ script 5 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	YOU GOT THE TOP
-	RECORD. IT'S
+	VOCÊ BATEU O MAIOR
+	RECORDE. SENDO ESSE
 	
 	"""
 	printBuffer
@@ -398,7 +398,7 @@ script 6 mmbn5 {
 		top = 6
 		type = 0
 	msgOpen
-	"THE TOP RECORD IS\n"
+	"O MAIOR RECORDE É\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -427,7 +427,7 @@ script 6 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Return  "
+	" Voltar  "
 	option
 		brackets = 0
 		left = 0
@@ -436,7 +436,7 @@ script 6 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Delete"
+	" Apagar"
 	select
 		default = 0
 		BSeparate = true
@@ -462,7 +462,7 @@ script 7 mmbn5 {
 		top = 6
 		type = 0
 	msgOpen
-	"THE TOP RECORD IS\n"
+	"O MAIOR RECORDE É\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
@@ -491,7 +491,7 @@ script 7 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Return  "
+	" Voltar  "
 	option
 		brackets = 0
 		left = 0
@@ -500,7 +500,7 @@ script 7 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Delete"
+	" Apagar"
 	select
 		default = 0
 		BSeparate = true

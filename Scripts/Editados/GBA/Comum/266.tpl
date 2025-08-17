@@ -5,16 +5,15 @@ script 0 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	They bought me a new
-	PET.
+	Eu ganhei um novo PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	My Navi's the latest
-	model,too. So,are
-	you jealous?
+	E o meu Navi é do mais
+	novo modelo, também.
+	E aí? Inveja?
 	"""
 	keyWait
 		any = false
@@ -25,17 +24,16 @@ script 1 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Hey,did you know
-	that you can jack in
-	to this squirrel?
+	Ei, sabia que dá pra se
+	conectar neste esquilo
+	aqui?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was the one who
-	figured it out!
-	Isn't that amazing!
+	Eu que descobri!
+	Legal demais, né?!
 	"""
 	keyWait
 		any = false
@@ -46,17 +44,17 @@ script 2 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Tonight I'll just
-	reheat last night's
-	meatloaf for dinner.
+	O meu jantar de
+	hoje vai ser carne
+	requentada de ontem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I just wish cooking
-	was this easy every
-	night.
+	Queria tanto que
+	cozinhar fosse sempre
+	fácil assim.
 	"""
 	keyWait
 		any = false
@@ -67,9 +65,9 @@ script 3 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	What nice weather⋯
-	I should really go
-	somewhere today.
+	Que clima gostoso...
+	Eu devia dar uma saída
+	hoje.
 	"""
 	keyWait
 		any = false
@@ -80,17 +78,16 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Oh n-n-n-no!
-	My Navi! ⋯My Navi
-	is all messed up!
+	E-e-e-essa n-não!
+	O meu Navi...!
+	Ele tá todo bagunçado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What can I do?!
-	They just bought it
-	for me,too!!!
+	O que que eu faço?!
+	Poxa, e ele é novinho!!
 	"""
 	keyWait
 		any = false
@@ -102,8 +99,8 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	Arrrrgh!
-	The Navi my Dad got
-	me is sick!!!
+	O Navi que o papai me
+	deu tá doente!!
 	"""
 	keyWait
 		any = false
@@ -119,17 +116,17 @@ script 12 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	What's going on?
-	My Navi started
-	acting up suddenly.
+	O que está havendo?
+	O meu Navi começou a
+	dar defeito de repente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must have been
-	slacking with the
-	maintenance lately⋯
+	Acho que eu enrolei
+	demais para fazer a
+	última manutenção...
 	"""
 	keyWait
 		any = false
@@ -145,21 +142,21 @@ script 13 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Everyone seems in a
-	panic now. I wonder
-	why?
+	Parece que tá todo
+	mundo em pânico.
+	Por que será?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What? Navis? PETs?"
+	"Quê? Navis? PETs?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That reminds me. I
-	haven't jacked into
-	the Net lately.
+	... Agora que você
+	falou, faz tempo que
+	eu não entro na Rede.
 	"""
 	keyWait
 		any = false
@@ -170,9 +167,9 @@ script 20 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Whew⋯
-	My Navi's finally
-	back to normal!
+	Ufa...
+	O meu Navi finalmente
+	voltou ao normal!
 	"""
 	keyWait
 		any = false
@@ -183,9 +180,9 @@ script 21 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Hey,look!
-	My Navi's not sick
-	anymore!
+	Ei, olha!
+	O meu Navi não tá mais
+	doente!
 	"""
 	keyWait
 		any = false
@@ -196,17 +193,17 @@ script 22 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Wow!
-	My Navi's all better
-	all of a sudden!
+	Ufa! O meu Navi se
+	recuperou de uma
+	hora pra outra!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll have to keep up
-	with the maintenance
-	from now on.
+	Não vou mais esquecer
+	de deixar a manutenção
+	dele em dia.
 	"""
 	keyWait
 		any = false
@@ -217,9 +214,8 @@ script 23 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Well,it looks like
-	the crisis in the
-	Net is over.
+	Bom, parece que a
+	crise na Rede passou.
 	"""
 	keyWait
 		any = false
@@ -230,17 +226,17 @@ script 30 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Are you ever filled
-	with confidence for
-	no reason at all?
+	Cê tá sentindo um
+	surto de confiança
+	completamente do nada?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's how I feel
-	right now! Raawrrr!
-	Nothing can stop me!
+	Porque eu tô!
+	Iááááárhh!!
+	Ninguém me segura!
 	"""
 	keyWait
 		any = false
@@ -251,25 +247,25 @@ script 31 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I have trouble
-	remembering things
-	lately.
+	Eu ando me esquecendo
+	cada vez mais das
+	coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I used to have no
-	trouble remembering
-	pi to 10,000 places.
+	Antigamente,
+	eu lembrava de uns
+	10.000 dígitos de pi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nowadays,I can only
-	do about 5,000.
-	3.1415926535⋯
+	Agora, só lembro
+	de uns 5.000.
+	3,1415926535...
 	"""
 	keyWait
 		any = false
@@ -279,22 +275,22 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = FriesBoy
 	msgOpen
-	"*pant pant*"
+	"Uff... Uff..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard that dinner
-	tastes better when
-	you're hungry,so
+	Sabe o ditado "a fome
+	é o melhor tempero"?
+	É, por isso eu tô me
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm exercising,but
-	I may just collapse
-	before I get hungry⋯
+	exercitando, mas acho
+	que vou desmaiar de
+	cansaço antes da fome...
 	"""
 	keyWait
 		any = false
@@ -305,25 +301,24 @@ script 33 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I went to SciLab
-	Area yesterday to
-	hang out,
+	Eu fui dar uma volta
+	na Área SciLab ontem,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so I thought I'd go
-	to End Area today
-	but my Dad says no!
+	então, tava querendo ir
+	na Área Endo hoje, mas
+	o papai não deixou!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not a kid
-	anymore! I wish he'd
-	give me a break!
+	Eu não sou mais criança!
+	Queria que ele desse
+	uma trégua, tipo assim!
 	"""
 	keyWait
 		any = false
@@ -333,7 +328,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"Lan,be careful⋯"
+	"Lan, toma cuidado..."
 	keyWait
 		any = false
 	end
@@ -342,7 +337,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"Good luck!!!"
+	"Boa sorte!!!"
 	keyWait
 		any = false
 	end
@@ -352,9 +347,9 @@ script 36 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I know you're all
-	fired up but don't
-	overdo it.
+	Sei que você tá todo
+	animado, mas não
+	exagera na dose.
 	"""
 	keyWait
 		any = false
@@ -365,9 +360,9 @@ script 37 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	This is all my
-	fault⋯ how can I
-	possibly apologize⋯
+	Isso é tudo culpa
+	minha... Como posso
+	expiar por isto...
 	"""
 	keyWait
 		any = false
@@ -378,17 +373,17 @@ script 38 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	This all happened
-	because of my
-	thoughtlessness⋯
+	Isso tudo aconteceu
+	porque eu fui
+	impulsiva...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How can I take
-	responsibility for
-	this?
+	Como faço pra assumir
+	a responsabilidade por
+	isso?
 	"""
 	keyWait
 		any = false
@@ -399,9 +394,9 @@ script 40 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	My story is kinda
-	long. Do you want to
-	hear it?
+	A minha história
+	é meio comprida.
+	Quer ouvir?
 	"""
 	keyWait
 		any = false
@@ -417,7 +412,7 @@ script 40 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes   "
+	" Sim   "
 	option
 		brackets = 0
 		left = 0
@@ -426,7 +421,7 @@ script 40 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -437,13 +432,16 @@ script 40 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	keyWait
+		any = false
+	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
 	"""
-	Hmph⋯OK. If you
-	don't wanna hear it,
-	I won't force you.
+	Hmph... Tá bom.
+	Se não quer ouvir,
+	eu não vou te forçar.
 	"""
 	keyWait
 		any = false
@@ -454,64 +452,64 @@ script 41 mmbn5 {
 		mugshot = CapBoy
 	msgOpen
 	"""
-	I hooked up to the
-	Net last night
-	before bedtime.
+	Eu me conectei à Rede
+	ontem, antes de ir
+	dormir.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Undernet Area
-	scares me so I hung
-	out in End Area1.
+	A Área Undernet me dá
+	medo, então eu fiquei
+	ali na Área Endo 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But before I knew
-	it,I was in the
+	Mas, sem eu me dar
+	conta, fui parar na
 	Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isn't that strange?
-	The Undernet is past
-	End Area5.
+	Estranho, né?
+	O acesso pra Undernet
+	fica na Área Endo 5.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You aren't supposed
-	to go there from
-	End Area1!
+	Não devia dar pra
+	chegar lá a partir
+	da Área Endo 1!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some bizarre power
-	is taking Navis to
-	the Undernet!
+	Tem algum tipo de poder
+	bizarro levando Navis
+	pra Undernet!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wasn't
-	sleepwalking!
+	E não, eu não tava
+	sonhando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well⋯
-	I was starting to
-	get a little sleepy⋯
+	... Bom...
+	Admito que já tava
+	dando um soninho...
 	"""
 	keyWait
 		any = false
@@ -521,29 +519,30 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"I saw that fight."
+	"Eu vi aquela briga."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothing
-	wrong with a little
-	competition.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	But no matter what,
-	it's important that
-	we all get along.
+	Não tem nada de errado
+	com um pouco de
+	competição,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess that's the
-	hardest thing to do⋯
+	mas, haja o que houver,
+	é importante que todos
+	convivamos em paz.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Suponho que essa seja
+	a coisa mais difícil de
+	se fazer...
 	"""
 	keyWait
 		any = false
@@ -554,16 +553,16 @@ script 43 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	I love going for
-	walks.
+	Eu adoro sair pra
+	dar uma volta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It makes me so happy
-	to walk outside on a
-	beautiful day.
+	Fico tão feliz de ficar
+	ao ar livre num dia
+	lindo assim.
 	"""
 	keyWait
 		any = false
@@ -574,25 +573,24 @@ script 44 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Today we're eating
-	dinner at a French
-	restaurant.
+	Hoje, vamos jantar em
+	um restaurante francês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's nice not to
-	have to worry about
-	dinner for a change.
+	É legal não ter que
+	esquentar em fazer o
+	jantar, pra variar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	More than the good
-	food,that's what
-	makes me happy.
+	Isso é o que me deixa
+	mais feliz. Sim, até
+	mais que a comida boa.
 	"""
 	keyWait
 		any = false
@@ -603,8 +601,8 @@ script 100 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we must go
-	home now.
+	Lan, a gente tem
+	que ir pra casa.
 	"""
 	keyWait
 		any = false

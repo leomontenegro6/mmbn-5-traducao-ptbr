@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	*pant pant* How long
-	are you going to
-	avoid facing us?
+	Arf... Arf... Até
+	quando cê vai evitar
+	de encarar a gente?
 	"""
 	keyWait
 		any = false
@@ -21,15 +21,15 @@ script 1 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I'm not avoiding
-	anything.
+	Eu não tô evitando
+	coisa nenhuma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could take you on
-	right now if I⋯
+	Podia dar cabo de você
+	agora mesmo se eu...
 	"""
 	keyWait
 		any = false
@@ -41,13 +41,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"GyroMan,stop."
+	"GyroMan, não."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm enjoying this
-	game of tag!
+	Eu tô curtindo
+	esse pega-pega!
 	"""
 	keyWait
 		any = false
@@ -59,13 +59,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Yes,I understand."
+	"Tá, entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like master said,
-	time for more tag!
+	Como o patrão mandou,
+	hora de mais pega-pega!
 	"""
 	keyWait
 		any = false
@@ -75,14 +75,14 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Why you⋯!"
+	"Ora, seu...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,we're gonna
-	nab GyroMan once and
-	for all!
+	MegaMan, a gente vai
+	pegar o GyroMan de uma
+	vez por todas!
 	"""
 	keyWait
 		any = false
@@ -95,15 +95,16 @@ script 5 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	I'm not avoiding
-	anything.
+	Eu não estou
+	evitando nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could take you on
-	right now if I⋯
+	Poderia dar um fim
+	em você agora
+	mesmo se eu...
 	"""
 	keyWait
 		any = false
@@ -116,15 +117,15 @@ script 6 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	ShadowMan,there is
-	no rush!
+	Não há por que ter
+	pressa, ShadowMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Besides,I'm enjoying
-	this.
+	Além disso, essa caçada
+	está prazerosa.
 	"""
 	keyWait
 		any = false
@@ -136,7 +137,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Yes,Master!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -145,14 +146,14 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Why you⋯!"
+	"Ora, seu...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,we're gonna
-	nab ShadowMan once
-	and for all!
+	MegaMan, a gente vai
+	pegar o ShadowMan de
+	uma vez por todas!
 	"""
 	keyWait
 		any = false
@@ -164,7 +165,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"É!"
 	keyWait
 		any = false
 	end

@@ -22,9 +22,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The Undernet's a
-	place for outlaws?
-	Sounds dangerous.
+	A Undernet é a terra
+	dos foras-da-lei, né?
+	Perigoso...
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 83 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Find Meddy,
+	Encontra a Meddy,
 	MegaMan!
 	"""
 	keyWait
@@ -66,7 +66,7 @@ script 84 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Find ToadMan,
+	Encontra o ToadMan,
 	MegaMan!
 	"""
 	keyWait
@@ -78,8 +78,7 @@ script 85 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to
-	Undernet4!
+	Pra Undernet 4!
 	"""
 	keyWait
 		any = false

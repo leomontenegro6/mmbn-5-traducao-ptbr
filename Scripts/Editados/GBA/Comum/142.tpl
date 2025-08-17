@@ -3,15 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A foul odor wafts
-	from the steel drum.
+	Um odor pútrido exala
+	do barril de aço.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's bad enough to
-	drive anyone away.
+	Repulsivo o bastante
+	para afastar qualquer
+	pessoa normal.
 	"""
 	keyWait
 		any = false
@@ -19,14 +20,14 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	msgOpen
-	"A dead end⋯"
+	"Sem saída..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears they were
-	digging here when
-	the mine shut.
+	Pareciam estar escavan-
+	do esta parte quando a
+	mina foi fechada.
 	"""
 	keyWait
 		any = false
@@ -35,15 +36,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	An abandoned shovel
-	lies here.
+	Aqui há uma pá
+	abadonada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Perhaps a miner
-	left it behind⋯
+	Talvez um dos
+	mineradores a tenha
+	deixado para trás...
 	"""
 	keyWait
 		any = false
@@ -52,14 +54,14 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	An elevator once
-	used by the miners.
-	It still might work.
+	Um elevador outrora
+	usado por mineradores.
+	Talvez ainda funcione.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Turn it on?\n"
+	"Ligar?\n"
 	positionOptionHorizontal
 		width = 10
 	option
@@ -70,7 +72,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -79,7 +81,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No\n"
+	" Não\n"
 	select
 		default = 0
 		BSeparate = false
@@ -95,8 +97,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	The elevator is
-	turned on!
+	O elevador está ligado!
 	"""
 	keyWait
 		any = false

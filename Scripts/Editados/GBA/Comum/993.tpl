@@ -4,35 +4,36 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"Rawrrr!!!"
+	"Aaaaahhrr!!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your angry emotions⋯
-	How magnificent⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Anger and hate⋯
-	These are what bear
+	As suas emoções
+	raivosas...
+	Que magnífico...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the greatest power
-	in the world.
+	Raiva e ódio...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And they're the very
-	root of the Dark-
-	Power you despise⋯!
+	São essas as emoções
+	que detêm o maior
+	poder do universo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E elas são a raiz do
+	Poder das Trevas que
+	você tanto detesta...!
 	"""
 	keyWait
 		any = false
@@ -44,7 +45,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
@@ -55,27 +56,28 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = CosmoMan
 	msgOpen
-	"The time has come⋯"
+	"É chegada a hora..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Regal's research
-	is nearly complete⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	And once SoulNet is
-	complete,the world
+	A pesquisa do Dr. Regal
+	está quase concluída...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	will be shrouded in
-	anger and hate.
+	E, uma vez que a
+	Rede Alma estiver
+	completa,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	o mundo será mergulhado
+	em raiva e ódio.
 	"""
 	keyWait
 		any = false
@@ -85,11 +87,11 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"S-SoulNet?!"
+	"R-RedeAlma?!"
 	keyWait
 		any = false
 	clearMsg
-	"It can't be⋯"
+	"Não pode ser...!"
 	keyWait
 		any = false
 	end
@@ -99,15 +101,14 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,
-	let's jack out!
+	Lan, vamos desconectar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We gotta stop
-	Regal,quick!
+	A gente tem que deter
+	o Regal, e rápido!
 	"""
 	keyWait
 		any = false
@@ -119,7 +120,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"OK!"
+	"Tá!"
 	keyWait
 		any = false
 	end

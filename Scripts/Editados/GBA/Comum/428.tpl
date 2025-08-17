@@ -9,9 +9,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan! Aren't you
-	forgetting
-	something?
+	Lan! Cê não tá
+	esquecendo uma coisa?
 	"""
 	keyWait
 		any = false
@@ -22,16 +21,16 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	There are strong
-	radio waves
-	beyond this point.
+	Além daqui, tem ondas
+	de rádio fortíssimas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You won't be able
-	to save. Is that OK?
+	Não vai dar mais pra
+	salvar o jogo.
+	Tudo bem?
 	"""
 	keyWait
 		any = false
@@ -47,7 +46,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -56,7 +55,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -71,8 +70,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Certo, então, Lan.
+	Vamos lá!
 	"""
 	keyWait
 		any = false
@@ -86,13 +85,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false
@@ -102,7 +101,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Good luck,Lan."
+	"Boa sorte, Lan."
 	keyWait
 		any = false
 	end
@@ -111,7 +110,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Good luck,Lan."
+	"Boa sorte, Lan Hikari."
 	keyWait
 		any = false
 	end
@@ -121,8 +120,8 @@ script 12 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Go and kick
-	Regal's butt!
+	Vai lá, dá uma surra
+	naquele Regal!
 	"""
 	keyWait
 		any = false
@@ -133,8 +132,8 @@ script 13 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	I have faith in
-	you and MegaMan!
+	Tenho total fé em você
+	e no MegaMan!
 	"""
 	keyWait
 		any = false
@@ -145,9 +144,9 @@ script 14 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	You and MegaMan
-	are a great combo!
-	Regal's nothing!
+	Você e o MegaMan são
+	uma equipe sem igual!
+	O Regal já era!
 	"""
 	keyWait
 		any = false
@@ -158,8 +157,8 @@ script 15 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Good luck,
-	I guess.
+	Hmpf.
+	Boa sorte.
 	"""
 	keyWait
 		any = false
@@ -170,8 +169,8 @@ script 16 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Make some big
-	fireworks!
+	Faz uns fogos de
+	artifício bonitos!
 	"""
 	keyWait
 		any = false
@@ -182,8 +181,8 @@ script 17 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Smash Regal's
-	evil plan!
+	Acaba com o plano
+	maligno do Regal!
 	"""
 	keyWait
 		any = false
@@ -193,13 +192,13 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Try to stay calm."
+	"Mantenha a calma."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the surest
-	path to victory.
+	Esse é o caminho mais
+	certeiro para a vitória.
 	"""
 	keyWait
 		any = false
@@ -211,7 +210,7 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	Lan!
-	Good luck,huh!
+	Boa sorte, é!
 	"""
 	keyWait
 		any = false
@@ -222,8 +221,8 @@ script 20 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	Lan,good luck!
-	I'll cheer for you!
+	Lan, você consegue!
+	Tô torcendo por você!
 	"""
 	keyWait
 		any = false
@@ -234,9 +233,8 @@ script 21 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Your battle is
-	going to be the
-	day's top news!
+	A sua luta vai ser
+	matéria de capa!
 	"""
 	keyWait
 		any = false

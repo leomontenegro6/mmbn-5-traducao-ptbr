@@ -5,16 +5,17 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS AREA WAS
-	LIBERATED A LITTLE
-	WHILE AGO.
+	ESTA ÁREA FOI
+	LIBERTADA FAZ
+	POUCO TEMPO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU CAN SEE THE
-	DAMAGE EVERYWHERE.
+	OS ESTRAGOS CAUSADOS
+	AINDA ESTÃO VISÍVEIS
+	POR TODA A PARTE.
 	"""
 	keyWait
 		any = false
@@ -25,9 +26,8 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I CAN HEAR THE
-	COMMOTION IN
-	SCILAB⋯!
+	POSSO OUVIR A
+	COMOÇÃO NO SCILAB...!
 	"""
 	keyWait
 		any = false
@@ -38,9 +38,9 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I hope this area
-	will go back to
-	how it was before.
+	Tomara que esta área
+	volte a ser como era
+	antes.
 	"""
 	keyWait
 		any = false
@@ -50,14 +50,14 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WARNING!"
+	"AVISO!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE TAKE NO
-	RESPONSIBILITY
-	BEYOND THIS POINT.
+	NÓS NÃO NOS
+	RESPONSABILIZAMOS PELA
+	ÁREA ALÉM DESTE PONTO.
 	"""
 	keyWait
 		any = false
@@ -68,23 +68,16 @@ script 22 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hee-hee! Another
-	foolish Navi
-	comin' through!
+	He he! Mais um Navi
+	otário passando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll realize what
-	a mistake he's
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	making soon
-	enough⋯
+	Mas já, já ele vai
+	se tocar do vacilo
+	que ele tá fazendo...
 	"""
 	keyWait
 		any = false

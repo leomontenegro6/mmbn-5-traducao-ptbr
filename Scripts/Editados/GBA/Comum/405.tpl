@@ -9,9 +9,9 @@ script 0 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The food's superb!
-	All made with the
-	finest ingredients.
+	A comida é divina!
+	Tudo preparado com os
+	melhores ingredientes.
 	"""
 	keyWait
 		any = false
@@ -24,9 +24,9 @@ script 1 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Every item of food
-	here is exquisite!
-	Unbeatable!
+	Cada prato aqui é
+	tão requintado!
+	E incomparável!
 	"""
 	keyWait
 		any = false
@@ -41,24 +41,23 @@ script 2 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Are you enjoying
-	yourself?
+	Está tudo proveitoso?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The food today is
-	being cooked by a
-	top chef
+	A comida de hoje foi
+	preparada por um chef
+	de primeira,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	called in from one
-	of Netopia's finest
-	restaurants.
+	trazido aqui de um dos
+	melhores restaurantes
+	da Ameropa.
 	"""
 	keyWait
 		any = false
@@ -71,8 +70,8 @@ script 3 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	A suspicious guy⋯
-	Not here!
+	Uma pessoa suspeita?
+	Aqui, não!
 	"""
 	keyWait
 		any = false
@@ -87,16 +86,16 @@ script 4 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	This is my company's
-	best ever business
-	opportunity⋯
+	Esta é a melhor oportu-
+	nidade de negócios da
+	vida da minha empresa...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The party has to go
-	perfectly!
+	NADA pode dar errado
+	nesta festa!
 	"""
 	keyWait
 		any = false
@@ -109,8 +108,8 @@ script 5 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Phew! I'm getting a
-	bit nervous!
+	Arh!
+	Tá batendo um nervoso!
 	"""
 	keyWait
 		any = false
@@ -125,9 +124,9 @@ script 6 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	This lady's the boss
-	of a famous oil
-	company,you know.
+	Esta é a CEO de uma
+	famosa petroleira,
+	sabia?
 	"""
 	keyWait
 		any = false
@@ -140,16 +139,16 @@ script 7 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Compared to a big
-	oil company like
-	that lady's,
+	Comparada a uma
+	petroleira gigante
+	como a daquela dama,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my firm's still just
-	a baby.
+	a minha firma não passa
+	de um bebezinho.
 	"""
 	keyWait
 		any = false
@@ -164,24 +163,24 @@ script 8 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	This gentleman is
-	the boss of an IT-
-	related industry
+	Este cavalheiro é o
+	presidente de uma
+	companhia de TI
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that holds a huge
-	market share
-	worldwide.
+	que tem imensa
+	participação no
+	mercado internacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's a very handsome
-	man!
+	E, ainda por cima,
+	ele é tão esbelto!
 	"""
 	keyWait
 		any = false
@@ -194,23 +193,23 @@ script 9 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	If I could get hold
-	of the system being
-	presented today,
+	Se eu pudesse adquirir
+	o sistema sendo
+	apresentado hoje,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	my company's oil
-	output would soar.
+	os lucros com petróleo
+	da minha empresa iriam
+	triplicar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no question
-	about that.
+	Disso, não tenho dúvidas.
 	"""
 	keyWait
 		any = false
@@ -225,16 +224,16 @@ script 10 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I never get bored
-	of these flavors⋯
+	Eu não me canso destes
+	sabores...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder if I could
-	get some wrapped to
-	take away?
+	Será que me deixariam
+	embalar alguns para
+	levar?
 	"""
 	keyWait
 		any = false
@@ -251,7 +250,7 @@ script 11 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I'm so full!
+	Estou empanturrada!
 	Ho ho ho!
 	"""
 	keyWait
@@ -271,9 +270,9 @@ script 12 mmbn5 {
 		flag = 2383
 	msgOpen
 	"""
-	A highly-polished
-	mirror is fitted to
-	the pillar.
+	Um espelho polido com
+	maestria está afixado
+	a esse pilar.
 	"""
 	keyWait
 		any = false
@@ -282,16 +281,16 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	Lan is reflected in
-	the mirror on the
-	pillar.
+	A imagem do Lan é
+	refletida no espelho
+	do pilar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He unconsciously
-	strikes a cool pose!
+	Sem nem se dar conta,
+	Lan faz uma pose legal!
 	"""
 	keyWait
 		any = false
@@ -305,9 +304,9 @@ script 14 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Where are you going?
-	The mystery's still
-	unsolved.
+	Aonde você vai?
+	O mistério ainda não
+	foi solucionado.
 	"""
 	keyWait
 		any = false
@@ -318,9 +317,9 @@ script 15 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Where are you going?
-	The mystery's still
-	unsolved.
+	Aonde você vai?
+	O mistério ainda não
+	foi solucionado.
 	"""
 	keyWait
 		any = false
@@ -343,14 +342,14 @@ script 16 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What kind of person
-	would take the
-	booster system?
+	Que tipo de pessoa
+	roubaria o sistema
+	impulsionador?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This is inexcusable!"
+	"É injustificável!"
 	keyWait
 		any = false
 	end
@@ -372,9 +371,9 @@ script 17 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	That's strange⋯ I'm
-	sure I didn't let a
-	mouse past me!
+	Estranho... Estou certo
+	de que nem uma formiga
+	sequer passou por mim!
 	"""
 	keyWait
 		any = false
@@ -396,13 +395,12 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"What's going on?!"
+	"O que está havendo?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're really in a
-	pickle now!
+	Estamos em maus lençóis!
 	"""
 	keyWait
 		any = false
@@ -425,9 +423,9 @@ script 19 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I never imagined a
-	party I attended
-	would be targeted!
+	Nunca imaginei que
+	uma festa com a minha
+	presença seria atacada!
 	"""
 	keyWait
 		any = false
@@ -450,13 +448,13 @@ script 20 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	The thief's still
-	somewhere on board.
+	O ladrão ainda está a
+	bordo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's a bit scary⋯"
+	"O que é um tanto\nassustador..."
 	keyWait
 		any = false
 	end
@@ -477,14 +475,14 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = OldWoman
 	msgOpen
-	"Well,really!"
+	"Ora, bolas!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Forget about the
-	booster system! Just
-	catch the thief!
+	Esqueçam o sistema
+	impulsionador!
+	Peguem logo o ladrão!
 	"""
 	keyWait
 		any = false
@@ -503,8 +501,8 @@ script 22 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	I don't know
-	anything about it!
+	Eu não sei nada sobre
+	essa história aí!
 	"""
 	keyWait
 		any = false
@@ -527,16 +525,16 @@ script 23 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I'm the captain of
-	this vessel.
+	Sou o capitão deste
+	navio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't believe this
-	has happened on my
-	ship⋯
+	Não acredito que isso
+	foi acontecer justo
+	nele...
 	"""
 	keyWait
 		any = false
@@ -547,9 +545,8 @@ script 24 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Where's the person
-	responsible for this
-	hiding?!
+	Onde está o responsável
+	por essa ocultação?!
 	"""
 	keyWait
 		any = false
@@ -560,17 +557,17 @@ script 25 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Yes⋯ it was a clever
-	trick using the
-	mirrors!
+	É... Foi bem inteligente,
+	esse truque de usar os
+	espelhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I suppose I
-	shouldn't be saying
-	that about a crime!
+	Mas acho que eu não
+	devia estar elogiando
+	um crime...
 	"""
 	keyWait
 		any = false
@@ -581,16 +578,15 @@ script 26 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Is the booster
-	system going to be
-	okay⋯?
+	O sistema impulsionador
+	vai ficar bem...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Argh! I'm tearing my
-	hair out here!
+	Argh! Eu estou ficando
+	careca de preocupação!
 	"""
 	keyWait
 		any = false
@@ -601,17 +597,17 @@ script 27 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	The fact that it was
-	targeted by Nebula
-	or some other thief
+	O fato de ele ter sido
+	alvejado pela Nebula ou
+	um ladrão afim
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	just shows how
-	valuable the booster
-	system is⋯ Good.
+	só mostra o quanto o
+	sistema impulsionador
+	é valioso... Ótimo.
 	"""
 	keyWait
 		any = false
@@ -622,9 +618,8 @@ script 28 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	I just hope the
-	criminal doesn't
-	turn dangerous⋯
+	Espero que o criminoso
+	não seja violento...
 	"""
 	keyWait
 		any = false
@@ -635,9 +630,9 @@ script 29 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	W-We will be able to
-	go home safely,won't
-	we?
+	N-nós vamos todos
+	conseguir voltar para
+	casa em segurança, sim?
 	"""
 	keyWait
 		any = false
@@ -648,9 +643,9 @@ script 30 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	However much you
-	ask,I said I don't
-	know anything!
+	Pode perguntar o quanto
+	quiser. Eu já falei,
+	eu não sei de nada!
 	"""
 	keyWait
 		any = false
@@ -661,16 +656,17 @@ script 31 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	I see⋯ that was how
-	it was done⋯
+	Entendo...
+	Então, foi assim que
+	o ladrão fez...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You couldn't have
-	pulled that kind of
-	stunt with old PETs.
+	Não daria para executar
+	um plano desses com
+	PETs mais antigos.
 	"""
 	keyWait
 		any = false
@@ -681,22 +677,22 @@ script 35 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	What?! The thief's
-	on the Bridge?!
+	O quê?!
+	O ladrão tá na ponte?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	S-So we're being
-	hijacked now?!
+	E-então o navio está
+	sendo sequestrado?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Th-This is the worst
-	day ever!
+	E-este é o pior dia
+	possível!
 	"""
 	keyWait
 		any = false
@@ -707,15 +703,14 @@ script 36 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Th-The ship's being
-	hijacked?!
+	O-o navio está sendo
+	sequestrado?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is
-	unbelievable!
+	Inacreditável!
 	"""
 	keyWait
 		any = false
@@ -726,9 +721,9 @@ script 37 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	My booster system!
-	Is my booster
-	system all right⋯?!
+	O meu sistema
+	impulsionador!
+	Ele está bem...?!
 	"""
 	keyWait
 		any = false
@@ -739,16 +734,16 @@ script 38 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Until the thief is
-	caught,I can't get
-	the booster system⋯
+	Até o ladrão ser pego,
+	não poderei adquirir o
+	sistema impulsionador...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone has to find
-	the thief now!
+	Alguém tem que achar
+	esse patife, e já!
 	"""
 	keyWait
 		any = false
@@ -759,16 +754,16 @@ script 39 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	Aren't we putting
-	out an SOS call?!
+	Ainda não mandaram um
+	sinal de SOS?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't like just
-	cruising around with
-	a criminal on board!
+	Não me apetece nada
+	estar num cruzeiro com
+	um criminoso a bordo!
 	"""
 	keyWait
 		any = false
@@ -779,15 +774,15 @@ script 40 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	The ship's been
-	hijacked?!
+	O navio foi
+	sequestrado?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Why did I ever come
-	to this party?!
+	Por que eu fui inventar
+	de vir a esta festa?!
 	"""
 	keyWait
 		any = false
@@ -798,16 +793,16 @@ script 41 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	The thief's hijacked
-	the ship?
+	O ladrão sequestrou o
+	navio?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's doing all the
-	thingsss I was going
-	to do⋯
+	Saco. Ele tá fazendo
+	tudo o que EU ia
+	fazer...
 	"""
 	keyWait
 		any = false
@@ -815,15 +810,15 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	"""
-	Quiet! Just keep
-	your mouth shut!
+	Cala a boca!
+	Só... para de falar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BlackMan
-	"Sssorry⋯"
+	"Dessssculpa..."
 	keyWait
 		any = false
 	end
@@ -833,25 +828,25 @@ script 42 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Times like this call
-	for calm,considered
-	thought.
+	É nessas horas que
+	precisamos pensar com
+	calma e consideração.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Panic,and you'll be
-	blind to the most
-	obvious things.
+	Se entrar em pânico,
+	você perderá de vista
+	coisas bem óbvias.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A seafarer can't be
-	thrown off by a tiny
-	thing like this⋯
+	Um homem do mar não
+	pode se deixar abalar
+	por coisas pequenas...
 	"""
 	keyWait
 		any = false
@@ -862,17 +857,17 @@ script 50 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Well⋯ we seem to
-	have managed to get
-	back to port.
+	Bom... Parece que
+	conseguimos voltar
+	ao porto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	for a while I
-	wondered what was
-	going to happen⋯
+	Fiquei bem preocupado
+	com o rumo que as
+	coisas iam tomar...
 	"""
 	keyWait
 		any = false
@@ -883,9 +878,9 @@ script 51 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I must say,I was
-	scared when I heard
-	we'd been hijacked⋯
+	Olha, eu morri de medo
+	quando disseram que o
+	navio foi sequestrado...
 	"""
 	keyWait
 		any = false
@@ -896,17 +891,16 @@ script 52 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	I had an Official
-	take that Nebula
-	guy away.
+	Mandei um Oficial levar
+	aquele homem da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a way for the
-	booster system
-	presentation to go!
+	Mas que apresentação,
+	essa do sistema
+	impulsionador!
 	"""
 	keyWait
 		any = false
@@ -917,31 +911,31 @@ script 53 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	When news of this
-	gets out,
+	Quando o mundo for
+	informado do que
+	aconteceu aqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	everyone will know
-	about the booster
-	system.
+	todo mundo vai ficar
+	sabendo do sistema
+	impusionador.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's going to be a
-	lot harder to get
-	hold of it,
+	Aí, será bem mais
+	difícil adquiri-lo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	unless I can clinch
-	the deal quickly.
+	Preciso fechar a compra
+	imediatamente!
 	"""
 	keyWait
 		any = false
@@ -952,23 +946,23 @@ script 54 mmbn5 {
 		mugshot = BlackWoman
 	msgOpen
 	"""
-	That young IT firm
-	manager
+	Aquele moço que
+	é presidente da
+	companhia de TI
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	thinks about nothing
-	but work.
+	só pensa em trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His type's a real
-	bore even away from
-	work⋯
+	É do tipo que não tem
+	graça nem fora do
+	batente...
 	"""
 	keyWait
 		any = false
@@ -979,17 +973,17 @@ script 55 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	I don't know how it
-	happened but we made
-	it back⋯
+	Não sei como, mas
+	conseguimos voltar
+	sãos e salvos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've lost a few more
-	years of my life
-	today!
+	Bom, mais ou menos.
+	Eu perdi uns anos
+	da minha vida!
 	"""
 	keyWait
 		any = false
@@ -1000,15 +994,16 @@ script 56 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Ha ha hargh! All's
-	well that ends well!
+	Ha ha har!
+	Tudo está bem quando
+	acaba bem!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it now!
-	Case closed!
+	E ponto final!
+	Caso encerrado!
 	"""
 	keyWait
 		any = false

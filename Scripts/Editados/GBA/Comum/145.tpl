@@ -3,16 +3,15 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	These steel drums
-	have been abandoned
-	for many years.
+	Esses barris estão
+	abandonados aí há
+	muitos anos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a rather sad
-	sight.
+	É triste de se ver.
 	"""
 	keyWait
 		any = false
@@ -22,31 +21,30 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"A door⋯"
+	"Uma porta..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know!
-	"
+	Já sei!
+	A "
 	"""
 	printItem
 		buffer = 0
 		item = 9
 	"""
 	"
-	should open it⋯
+	deve abrir ela...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's see⋯"
+	"Vamos ver..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whoa! There're
-	viruses in there!!!
+	Eita! Tem vírus aqui!!
 	"""
 	keyWait
 		any = false

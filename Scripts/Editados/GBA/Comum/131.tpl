@@ -3,15 +3,15 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A strange shaped
-	black device.
+	Um dispositivo preto
+	de formato estranho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's some kind of
-	ancient telephone.
+	Parece ser algum tipo
+	de telefone antigo.
 	"""
 	keyWait
 		any = false
@@ -19,22 +19,21 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	msgOpen
-	"Yai's PC."
+	"O computador da Yai."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Offers top-notch
-	performance,design
-	and ease of use.
+	Oferece o ápice do
+	desempenho, design e
+	facilidade de uso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's also super
-	easy to jack
-	into.
+	Também é super fácil
+	se conectar nele.
 	"""
 	keyWait
 		any = false
@@ -43,9 +42,8 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A very expensive
-	table made in
-	Netopia.
+	Uma mesa caríssima,
+	feita na Ameropa.
 	"""
 	keyWait
 		any = false
@@ -58,36 +56,36 @@ script 3 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	This may look like
-	a real furnace
+	Pode parecer uma
+	fornalha de verdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's actually
-	a cutting-edge
+	mas, na verdade,
+	é um sistema de
+	controle de clima
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	climate control
-	system.
+	de ponta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not on
-	right now.
+	Não está ligado,
+	no momento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Press the
-	power switch?
+	Apertar o botão
+	de ligar?
 	"""
 	keyWait
 		any = false
@@ -102,7 +100,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -111,7 +109,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -127,17 +125,17 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A captivating
-	landscape painting
-	is hung here.
+	Pendurada aqui, uma
+	pintura cativante
+	de uma paisagem.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Art dealers are
-	always asking to buy
-	the famous works.
+	Negociantes de arte
+	sempre querem comprar
+	obras famosas.
 	"""
 	keyWait
 		any = false
@@ -146,15 +144,15 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The bird in here
-	peers right at Lan.
+	A pássaro aí dentro
+	encara o Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It somehow has a
-	noble look to it⋯
+	Parece ter um certo
+	"quê" de nobreza...
 	"""
 	keyWait
 		any = false
@@ -162,13 +160,14 @@ script 5 mmbn5 {
 }
 script 6 mmbn5 {
 	msgOpen
-	"A comfortable bed."
+	"Uma cama confortável."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It would even put
-	insomniacs to sleep.
+	Essa aí bota até
+	gente com insônia
+	pra dormir.
 	"""
 	keyWait
 		any = false
@@ -177,17 +176,16 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	One-of-a-kind
-	custom-made
-	stuffed rabbit.
+	Um coelho de pelúcia
+	feito sob encomenda,
+	único no mundo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's strange that
-	it would be left
-	on the floor.
+	Estranho ele ter sido
+	deixado jogado no chão.
 	"""
 	keyWait
 		any = false
@@ -196,30 +194,30 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	This houseplant's
-	always meticulously
-	cared for.
+	Essa planta sempre
+	recebe cuidados
+	meticulosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their maid does
-	good work.
+	A empragada da família
+	faz um bom trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
-	"Good job!"
+	"Palmas!"
 	keyWait
 		any = false
 	end
@@ -230,19 +228,21 @@ script 9 mmbn5 {
 		jumpIfTeamColonel = 17
 	msgOpen
 	"""
-	A fresh,delicious
-	looking peach.
+	Um pêssego que parece
+	fresquinho e delicioso.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"I bet it costs more\n than my allowance!\""
+	"""
+	"Aposto que custa mais
+	que a minha mesada!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everyone would
-	probably agree⋯
+	Uma aposta segura...
 	"""
 	keyWait
 		any = false
@@ -251,16 +251,16 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	A perfectly
-	cleaned window.
+	Uma janela limpada
+	com perfeição.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The maid cleans the
-	glass so good,you
-	can't even see it.
+	A empregada limpa
+	o vidro tão bem,
+	que você mal o vê.
 	"""
 	keyWait
 		any = false
@@ -269,9 +269,9 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A grand pattern
-	is carved on this
-	pillar.
+	Há uma estampa
+	grandiosa talhada
+	nesse pilar.
 	"""
 	keyWait
 		any = false
@@ -280,23 +280,25 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	A goldfish that
-	Yai selected
-	herself.
+	Um peixinho-dourado,
+	escolhido a dedo pela
+	Yai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's not some cheap
-	fish won as a prize.
+	Não é como os peixinhos
+	baratos que dão de
+	prêmio nos festivais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's what Yai says
-	all the time lately.
+	Pelo menos, é isso o
+	que a Yai anda falando
+	o tempo todo...
 	"""
 	keyWait
 		any = false
@@ -305,8 +307,8 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	A casually
-	placed plant.
+	Uma planta casualmente
+	posicionada.
 	"""
 	keyWait
 		any = false
@@ -317,8 +319,8 @@ script 14 mmbn5 {
 	flagSet
 		flag = 297
 	"""
-	The climate control
-	system is turned on.
+	O sistema de controle
+	climático está ligado.
 	"""
 	keyWait
 		any = false
@@ -327,17 +329,17 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	A climate control
-	system that looks
-	like a furnace.
+	Um sistema de controle
+	climático que parece
+	uma fornalha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It makes a
-	humming sound
-	as it runs.
+	Está ligado,
+	produzindo um som
+	de zumbido.
 	"""
 	keyWait
 		any = false
@@ -346,9 +348,9 @@ script 15 mmbn5 {
 script 17 mmbn5 {
 	msgOpen
 	"""
-	A delicious smell
-	wafts from this
-	delicate cheesecake.
+	Um cheiro delicioso
+	exala desse requintado
+	cheesecake.
 	"""
 	keyWait
 		any = false

@@ -9,9 +9,8 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My duty is to
-	protect this
-	HelmData.
+	O meu dever é proteger
+	estes Dados do Elmo.
 	"""
 	keyWait
 		any = false
@@ -19,45 +18,44 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Can I have your
-	HelmData?
+	Você poderia me dar
+	esses dados?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = NormalNaviYellow
-	"Hm⋯"
+	"Hm..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You want
-	my HelmData?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	You can have it,on
-	one condition.
+	Você quer os Dados
+	do Elmo, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've got to
-	delete this
-	virus first!
+	Eu dou pra você...
+	com uma condição.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"TAKE THIS!"
+	"""
+	Vai ter que deletar
+	estes vírus primeiro!
+	"""
 	keyWait
 		any = false
 	clearMsg
-	"The war has begun!"
+	"TOMA!"
+	keyWait
+		any = false
+	clearMsg
+	"Que comece a guerra!"
 	keyWait
 		any = false
 	flagSet
@@ -71,8 +69,8 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Remember,stay
-	calm and focused.
+	Lembre-se: mantenha
+	a calma e o foco.
 	"""
 	keyWait
 		any = false
@@ -83,22 +81,23 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	My duty is to
-	protect this
-	HelmData.
+	O meu dever é proteger
+	estes Dados do Elmo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm watching over
-	the helmet in the
-	next room.
+	Eu vigio o elmo que
+	fica na sala ao lado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Go and take a look."
+	"""
+	Recomendo você ir dar
+	uma conferida nele.
+	"""
 	keyWait
 		any = false
 	end
@@ -112,21 +111,21 @@ script 3 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	There's been some
-	kind of incident.
+	Parece que ocorreu
+	algum tipo de incidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I removed the
-	HelmData so it
-	won't get stolen.
+	Eu removi os Dados
+	do Elmo para eles
+	não serem roubados.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's safe for now."
+	"Estão a salvo agora."
 	keyWait
 		any = false
 	end

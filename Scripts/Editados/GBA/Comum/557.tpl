@@ -16,24 +16,25 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO ACDC
-	AREA3. WE DON'T GET
-	MANY VISITORS
+	BEM-VINDO À ÁREA
+	ACDC 3. NÃO RECEBEMOS
+	MUITAS VISITAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THEY'RE WORRIED
-	ABOUT THE EFFECTS
-	OF DARKPANELS?
+	SERÁ QUE SE PREOCUPAM
+	COM OS EFEITOS DOS
+	PAINEIS DAS TREVAS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I DO WISH MORE
-	PEOPLE WOULD COME⋯
+	EU BEM QUE GOSTARIA
+	QUE MAIS PESSOAS
+	VIESSEM...
 	"""
 	keyWait
 		any = false
@@ -44,17 +45,17 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO ACDC
-	AREA3. WE DON'T GET
-	MANY VISITORS
+	BEM-VINDO À ÁREA
+	ACDC 3. NÃO RECEBEMOS
+	MUITAS VISITAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THERE'S TROUBLE JUST
-	BEYOND HERE. NOTHING
-	TO DO WITH US,MIND!
+	ESTÁ HAVENDO UM
+	PROBLEMA ALÉM DAQUI.
+	MAS NÃO TEMOS RELAÇÃO!
 	"""
 	keyWait
 		any = false
@@ -65,14 +66,14 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THINGS ARE GETTING
-	BACK TO NORMAL HERE
-	IN ACDC AREA3 TOO.
+	AS COISAS TAMBÉM ESTÃO
+	VOLTANDO AO NORMAL
+	AQUI, NA ÁREA ACDC 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'VE GOT LOTS TO DO!"
+	"EU TENHO TANTA COISA\nPARA FAZER!"
 	keyWait
 		any = false
 	end
@@ -87,16 +88,16 @@ script 11 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	The Net's so huge!
-	It's fantastic!
+	A Rede é tão grande!
+	É fantástico!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want to go
-	back to being a
-	cramped PET⋯
+	Não quero voltar a
+	ficar enclausurado
+	em um PET...
 	"""
 	keyWait
 		any = false
@@ -112,9 +113,8 @@ script 12 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Do you⋯think it's
-	weird for Navis to
-	fall in love?
+	Você... acha estranho
+	Navis se apaixonarem?
 	"""
 	keyWait
 		any = false
@@ -130,7 +130,7 @@ script 12 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -139,7 +139,7 @@ script 12 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -150,12 +150,13 @@ script 12 mmbn5 {
 			jump = 13,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Yeah⋯ You're right.
-	It's weird,isn't it?
+	É... Tem razão.
+	É estranho, né?
 	"""
 	keyWait
 		any = false
@@ -166,16 +167,16 @@ script 13 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Me neither! It's not
-	weird at all!
+	Pois é, né?!
+	Não é nada estranho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks! That's given
-	me the courage I
-	needed!
+	Obrigada! Isso me deu a
+	coragem de que eu tava
+	precisando!
 	"""
 	keyWait
 		any = false
@@ -190,25 +191,25 @@ script 14 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Apparently you must
-	flick a power switch
-	in the real world
+	Parece que é preciso
+	acionar um interruptor
+	no mundo real pra ativar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to use the warp hole
-	up ahead. But which
-	switch is it?
+	o portal à frente.
+	Mas que interruptor
+	será?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is ACDC Area,so
-	I guess it'll be a
-	switch in ACDC Town.
+	Como estamos na Área
+	ACDC, ele deve estar
+	no Bairro ACDC...
 	"""
 	keyWait
 		any = false
@@ -219,40 +220,40 @@ script 15 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Apparently you must
-	flick a power switch
-	in the real world
+	Parece que é preciso
+	acionar um interruptor
+	no mundo real pra ativar
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to use the warp hole
-	up ahead. But which
-	switch is it?
+	o portal à frente.
+	Mas que interruptor
+	será?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯What?! You're
-	saying any switch
-	would do it?!
+	... Hã?! Sério isso?
+	"Qualquer interruptor
+	serve"?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I could have just
-	turned on the hearth
-	in that big house!
+	Eu podia simplesmente
+	ter ligado a lareira
+	daquele casarão lá!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks. That was
-	really bugging me!
+	Obrigado. Isso tava me
+	grilando pra caramba!
 	"""
 	keyWait
 		any = false
@@ -263,25 +264,25 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I don't want to go
-	back to being a
-	cramped PET.
+	Eu não quero voltar a
+	ficar enclausurado em
+	um PET.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But my operator
-	won't stop pestering
-	me to come back⋯
+	Mas o meu operador
+	não para de ficar me
+	enchendo pra voltar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What should I do⋯?
-	Maybe I should go
-	back⋯
+	O que eu faço...?
+	Talvez seja melhor eu
+	voltar, mesmo...
 	"""
 	keyWait
 		any = false
@@ -292,9 +293,9 @@ script 21 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	I told the Navi I
-	liked,how I felt but
-	it rejected me⋯!
+	Eu falei pra um Navi que
+	eu era a fim dele, e ele
+	me deu um fora...!
 	"""
 	keyWait
 		any = false

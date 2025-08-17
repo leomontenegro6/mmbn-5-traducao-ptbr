@@ -4,18 +4,18 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Lan,hurry!"
+	"Lan, rápido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll follow behind
-	with the others.
+	Eu e os outros
+	seguiremos logo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You must stop Regal!"
+	"Você tem que\nimpedir o Regal!"
 	keyWait
 		any = false
 	clearMsg
@@ -26,21 +26,21 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Go quickly,Lan!"
+	"Depressa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll follow behind
-	with the others.
+	Eu e os outros
+	seguiremos logo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You and MegaMan are
-	the only ones who
-	can stop Regal now!
+	Você e MegaMan são os
+	únicos que podem deter
+	o Regal agora!
 	"""
 	keyWait
 		any = false
@@ -52,11 +52,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got it!"
+	"Certo!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan!"
+	"Vamos, MegaMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -77,8 +77,8 @@ script 4 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	Lan,MegaMan,
-	you can do it!!!
+	Lan, MegaMan,
+	vocês conseguem!!!
 	"""
 	keyWait
 		any = false
@@ -89,8 +89,8 @@ script 5 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	I'm counting on ya!
-	We'll be there soon.
+	Tô contando com vocês!
+	Já, já, eu vou também.
 	"""
 	keyWait
 		any = false

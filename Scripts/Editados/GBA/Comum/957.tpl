@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Hold it right there!"
+	"Volta aqui!"
 	keyWait
 		any = false
 	clearMsg
@@ -12,8 +12,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Shaddup!
-	Shut yer trap!!!
+	Cala a boca!
+	Fecha essa matraca!!!
 	"""
 	keyWait
 		any = false
@@ -24,8 +24,7 @@ script 2 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Hey! Gimme
-	back my PET!
+	Ei! Devolve o meu PET!
 	"""
 	keyWait
 		any = false
@@ -38,16 +37,16 @@ script 3 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	No way!
-	It's mine!!!
+	Nunca!
+	É meu, agora!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Besides,you stole
-	it from someone
-	else,didn't ya?!
+	Além disso, cê também
+	roubou de outra pessoa,
+	não foi?!
 	"""
 	keyWait
 		any = false
@@ -60,13 +59,14 @@ script 4 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I can get away
-	with anything!
+	Eu posso fazer o
+	que eu quiser sem
+	consequências!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We're nothing alike."
+	"Diferente de VOCÊ."
 	keyWait
 		any = false
 	clearMsg
@@ -78,8 +78,9 @@ script 5 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I said shaddup!
-	It's mine I tell ya!
+	Eu já falei: cala a
+	boca! É meu agora,
+	e fim de papo!
 	"""
 	keyWait
 		any = false
@@ -90,8 +91,8 @@ script 6 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	NOOO!!!
-	Wait!!!
+	NÃÃÃO!!!
+	Volta aqui!!!
 	"""
 	keyWait
 		any = false
@@ -101,7 +102,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Huh?"
+	"Ué?"
 	keyWait
 		any = false
 	clearMsg
@@ -112,7 +113,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,over there!"
+	"Lan, ali!"
 	keyWait
 		any = false
 	clearMsg
@@ -123,7 +124,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Over there?"
+	"Ali?"
 	keyWait
 		any = false
 	end
@@ -133,9 +134,9 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You know,
-	I really never
-	did like you!
+	Quer saber?
+	Eu nunca gostei
+	de ti, não!
 	"""
 	keyWait
 		any = false
@@ -148,13 +149,13 @@ script 11 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Well,I can't
-	stand your face⋯
+	Ah, é? E eu não
+	suporto a tua cara...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're so annoying!"
+	"Argh, cê é tão irritante!"
 	keyWait
 		any = false
 	end
@@ -164,8 +165,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why's everyone
-	fighting?
+	Por que é que tá
+	todo mundo brigando?
 	"""
 	keyWait
 		any = false
@@ -178,15 +179,15 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This isn't
-	right⋯
+	Isso tá estranho...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It might be part of
-	Regal's experiment.
+	Só pode ser parte
+	daquele "experimento"
+	lá do Regal.
 	"""
 	keyWait
 		any = false
@@ -199,9 +200,8 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something's gone
-	wrong in the real
-	world this time!
+	A treta desta vez
+	é no mundo real!
 	"""
 	keyWait
 		any = false
@@ -209,15 +209,16 @@ script 14 mmbn5 {
 	soundPlayBGM
 		track = 12
 	"""
-	There's trouble in
-	this peaceful city.
+	Esta cidade pacífica
+	tá em apuros...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It'll get messy if
-	it goes nationwide!
+	e, se isso pegou o
+	país inteiro, a coisa
+	deve tá feia!
 	"""
 	keyWait
 		any = false
@@ -227,7 +228,7 @@ script 15 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*Beep beep beep!*"
+	"Bip bip biip!"
 	wait
 		frames = 42
 	end
@@ -236,14 +237,14 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder who it's
-	from? There's no
-	sender listed.
+	De quem será que é?
+	Não tem endereço de
+	remetente.
 	"""
 	keyWait
 		any = false
@@ -255,7 +256,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What does it say?"
+	"E o que diz nele?"
 	keyWait
 		any = false
 	clearMsg
@@ -266,39 +267,59 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Here goes:"
+	"Eu vou ler:"
 	keyWait
 		any = false
 	clearMsg
-	"\"This mail is for\n all Anti-Nebula\n Core members."
+	"""
+	"Este e-mail é destinado
+	a todos da Tropa
+	Anti-Nebula.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Nebula is placing\n microservers in"
+	"""
+	A Nebula está plantando
+	microsservidores
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Cyberworld all\n over Electopia."
+	"""
+	no espaço cibernético,
+	por toda a Ni-Hon.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Destroying those\n servers might"
+	"""
+	É possível que a
+	destruição desses
+	servidores
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" possibly stop\n Nebula's attack."
+	"""
+	pare o ataque da Nebula.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" The closer you get\n to one,the more\n it will affect you."
+	"""
+	Mas quanto mais perto
+	chegarem de um, mais
+	ele afetará vocês.
+	"""
 	keyWait
 		any = false
 	clearMsg
-	" Be very careful.\""
+	"Tomem muito cuidado.\""
 	keyWait
 		any = false
 	clearMsg
-	"⋯That's all of it!"
+	"... Fim do e-mail!"
 	keyWait
 		any = false
 	clearMsg
@@ -309,35 +330,37 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who sent that?"
+	"Quem será que mandou?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They sure know a lot
-	about Nebula's plan⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Based on this mail,
-	I bet other members
-	are spreading out to
+	Seja lá quem for,
+	sabia muito sobre
+	o plano da Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	look for the servers
-	right now⋯
+	Com base nesse e-mail,
+	aposto que os outros
+	membros tão saindo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Or it could be one
-	of Nebula's traps⋯
+	por aí pra procurar
+	pelos servidores...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	... Mas também pode
+	ser uma armadilha
+	da Nebula...
 	"""
 	keyWait
 		any = false
@@ -350,23 +373,23 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we can worry
-	about that later.
+	Lan, depois a gente
+	se preocupa com isso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If what that mail
-	says is true,
+	Se o e-mail tava
+	falando a verdade,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the microservers are
-	hidden somewhere in
-	ACDC Town!
+	podem ter microsservi-
+	dores escondidos no
+	Bairro ACDC também!
 	"""
 	keyWait
 		any = false
@@ -379,17 +402,17 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right! We gotta set
-	things straight in
-	ACDC Town first!
+	É! Melhor a gente
+	acertar as coisas aqui
+	no bairro primeiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	MegaMan,
-	let's go find these
-	microservers.
+	bora atrás desses
+	microsservidores!
 	"""
 	keyWait
 		any = false
@@ -401,7 +424,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Gotcha!!!"
+	"E rápido!!!"
 	keyWait
 		any = false
 	end

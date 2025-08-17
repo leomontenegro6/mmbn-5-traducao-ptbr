@@ -23,7 +23,7 @@ script 1 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	MegaMan used:
+	MegaMan usou:
 	"
 	"""
 	printItem
@@ -39,15 +39,17 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The Security Cube
-	for GargCastleHP.
+	O Cubo de Segurança
+	da página do Castelo
+	Shachi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It can't be unlocked
-	without its P-Code!
+	Não pode ser
+	desbloqueado
+	sem o Código-P!
 	"""
 	keyWait
 		any = false
@@ -59,7 +61,7 @@ script 3 mmbn5 {
 		jumpIfTeamColonel = 4
 	msgOpen
 	"""
-	ProtoMan used:
+	ProtoMan usou:
 	"
 	"""
 	printItem
@@ -75,7 +77,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Colonel used:
+	Colonel usou:
 	"
 	"""
 	printItem
@@ -104,23 +106,23 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A control system
-	for smooth
+	Um sistema de controle
+	que permite comunicação
+	via rede perfeita em
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Net communication
-	in Electopia.
+	Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's protected
-	by powerful
-	security.
+	É protegido por um
+	fortíssimo sistema
+	de segurança.
 	"""
 	keyWait
 		any = false

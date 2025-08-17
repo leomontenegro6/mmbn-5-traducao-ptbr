@@ -14,9 +14,9 @@ script 0 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	I didn't think you
-	would make it this
-	far! *Whoosh*
+	Não achei que você
+	fosse chegar tão
+	longe! Fuuuuu!
 	"""
 	keyWait
 		any = false
@@ -45,8 +45,8 @@ script 2 mmbn5 {
 		mugshot = BlizzardMan
 	msgOpen
 	"""
-	I'll freeze you to
-	the bone!
+	Eu vou te congelar
+	até o osso! Fuuuu!
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Let's do it!"
+	"Vamos nessa!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +87,7 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	BlizzardMan!
-	Leave this area!
+	Deixe esta área!
 	"""
 	keyWait
 		any = false
@@ -100,14 +100,15 @@ script 11 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Listen up! We're
-	Team ProtoMan!
+	Escute com atenção!
+	Nós somos a Equipe
+	ProtoMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your time is UP,
+	O seu tempo acabou,
 	BlizzardMan!
 	"""
 	keyWait
@@ -121,14 +122,15 @@ script 12 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Listen up! We're
-	Team Colonel!
+	Escute com atenção!
+	Nós somos a Equipe
+	Colonel!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your time is UP,
+	O seu tempo acabou,
 	BlizzardMan!
 	"""
 	keyWait
@@ -142,8 +144,8 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	This is it,Lan!
-	Get ready to battle!
+	É agora, Lan!
+	Prepara pra luta!
 	"""
 	keyWait
 		any = false
@@ -156,9 +158,9 @@ script 14 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Guess he wants
-	to do this the hard
-	way. Ready,Lan?
+	Acho que ele prefere
+	fazer do jeito difícil.
+	Pronto, Lan Hikari?
 	"""
 	keyWait
 		any = false
@@ -171,9 +173,9 @@ script 15 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Guess he wants
-	to do this the hard
-	way. Ready,Lan?
+	Acho que ele prefere
+	fazer isso do jeito
+	difícil. Pronto, Hikari?
 	"""
 	keyWait
 		any = false

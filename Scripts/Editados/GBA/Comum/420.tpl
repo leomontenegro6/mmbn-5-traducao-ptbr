@@ -5,17 +5,17 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	GRRRR! I want
-	to hit something!
-	Or hit anybody!
+	GRRRR! Eu quero bater
+	em alguma coisa!
+	Não, em ALGUÉM!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let me smack ya!
-	Let me smack ya!
-	Let me smack ya!
+	Me deixa te bater!
+	Me deixa te bater!
+	Me deixa te bater!
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,8 @@ script 10 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Huh?! What in
-	the world am I
-	doing here?
+	Ué?! Por que é que eu
+	tô aqui?
 	"""
 	keyWait
 		any = false
@@ -44,17 +43,17 @@ script 20 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I don't remember
-	a thing about
-	losing my memory!
+	Eu não consigo me
+	lembrar de nada antes
+	de perder a memória!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a shame! I
-	want to analyze it
-	scientifically!
+	Triste, isso! Queria
+	tanto poder analisar
+	o caso cientificamente!
 	"""
 	keyWait
 		any = false
@@ -65,28 +64,29 @@ script 30 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	A friend of mine
-	at SciLab told me
+	Uma amiga minha lá do
+	SciLab me disse que
+	você é membro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you're a member of
-	that team of Navis.
+	daquela equipe de
+	NetLutadores.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just leave things
-	here to us.
-	Please wipe out
+	Pode deixar a situação
+	aqui conosco. Por favor,
+	acabe com a Nebula!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Nebula! Good luck!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	end

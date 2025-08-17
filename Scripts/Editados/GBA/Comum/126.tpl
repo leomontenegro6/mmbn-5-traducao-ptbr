@@ -3,23 +3,23 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	The latest security
-	system disguised as
-	a doghouse.
+	O mais moderno sistema
+	de segurança, em forma
+	de casinha de cachorro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A jack in port is
-	included because
+	Inclui uma entrada
+	de conexão,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it requires periodic
-	maintenance.
+	já que requer
+	manutenção periódica.
 	"""
 	keyWait
 		any = false
@@ -33,32 +33,32 @@ script 1 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A statue of a
-	squirrel,ACDC Park's
-	symbol.
+	A estátua de um
+	esquilo, o símbolo
+	do Parque ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Beloved because it
-	calms the soul.
+	Muito amado porque
+	acalenta a alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A closer look
-	reveals a terminal
-	for jacking in.
+	Olhando mais de perto,
+	pode-se ver uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,the terminal
-	is all dirty and
-	appears inoperable.
+	Contudo, o terminal
+	está imundo e parece
+	inoperante.
 	"""
 	keyWait
 		any = false
@@ -70,15 +70,16 @@ script 2 mmbn5 {
 		jumpIfTeamColonel = 4
 	msgOpen
 	"""
-	A bush trimmed to
-	look like a bear.
+	Arbusto aparado para
+	se assemelhar a um
+	urso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was created by a
-	famous gardener.
+	Obra de um jardineiro
+	muito famoso.
 	"""
 	keyWait
 		any = false
@@ -87,24 +88,24 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This is no
-	ordinary tree.
+	Essa não é uma
+	árvore comum.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a weather
-	observation system
-	designed to look
+	É um sistema de
+	observação de clima
+	em forma de árvore.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	like a tree. It's
-	designed to allow
-	you to jack in.
+	Foi projetado para
+	permitir que você
+	se conecte a ele.
 	"""
 	keyWait
 		any = false
@@ -113,17 +114,16 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	This tree's been
-	trimmed to look
-	like a dinosaur.
+	Essa árvore foi
+	aparada para parecer
+	um dinossauro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's so lifelike
-	that it keeps
-	prowlers away.
+	É tão realista que
+	até afasta ladrões.
 	"""
 	keyWait
 		any = false
@@ -132,32 +132,32 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A statue of a
-	squirrel,ACDC Park's
-	symbol.
+	A estátua de um
+	esquilo, o símbolo
+	do Parque ACDC.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Beloved because it
-	calms the soul.
+	Muito amado porque
+	acalenta a alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A closer look
-	reveals a terminal
-	for jacking in.
+	Olhando mais de perto,
+	pode-se ver uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This once dirty
-	statue has been
-	recently cleaned.
+	A estátua, outrora
+	imunda, foi higienizada
+	recentemente.
 	"""
 	keyWait
 		any = false

@@ -1,30 +1,30 @@
 @size 11
 
 script 0 mmbn5s {
-	"Folder1"
+	"Pasta1"
 	end
 }
 script 1 mmbn5s {
-	"Folder2"
+	"Pasta2"
 	end
 }
 script 2 mmbn5s {
-	"BnusFldr"
+	"PstBônus"
 	end
 }
 script 3 mmbn5s {
-	"MrFolder"
+	"Sr.Pasta"
 	end
 }
 script 4 mmbn5s {
-	"Xfolder"
+	"PastaX"
 	end
 }
 script 5 mmbn5s {
-	"BadFldr"
+	"PstaRuim"
 	end
 }
 script 10 mmbn5s {
-	"Pack"
+	"Mochila"
 	end
 }

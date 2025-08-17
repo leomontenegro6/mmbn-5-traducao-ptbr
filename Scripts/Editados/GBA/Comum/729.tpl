@@ -5,24 +5,24 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I SHOULD KEEP MY
-	VOICE DOWN,BUT DID
-	YOU KNOW THIS SERVER
+	EU NÃO DEVIA FALAR,
+	MAS SABIA QUE ESTE
+	SERVIDOR ESTÁ LIGADO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS LINKED WITH A
-	NUMBER OF SUSPICIOUS
-	COMPUTERS?
+	A UM CERTO NÚMERO
+	DE COMPUTADORES
+	SUSPEITOS?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU COULD SAY IT'S
-	A DARK NETWORK.
+	PODE-SE ATÉ DIZER QUE
+	É UMA REDE SOMBRIA...
 	"""
 	keyWait
 		any = false
@@ -33,23 +33,23 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS SERVER IS
-	ALSO USED FOR
-	HACKING.
+	ESTE SERVIDOR TAMBÉM
+	É USADO PARA HACKEAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE DON'T HAVE ANY
-	RIGHT TO STOP IT.
+	NÃO TEMOS NENHUMA
+	FORMA OU DIREITO
+	DE PARÁ-LO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	AFTER ALL,WE JUST
-	FOLLOW COMMANDS.
+	AFINAL, APENAS
+	SEGUIMOS ORDENS.
 	"""
 	keyWait
 		any = false

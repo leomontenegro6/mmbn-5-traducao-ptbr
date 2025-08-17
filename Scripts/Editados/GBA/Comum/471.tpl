@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE AREA BEYOND
-	THIS POINT IS STILL
-	HELD BY NEBULA.
+	A ÁREA ALÉM DAQUI
+	AINDA ESTÁ SOB O
+	CONTROLE DA NEBULA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SO BE CAREFUL!"
+	"TOME MUITO CUIDADO!"
 	keyWait
 		any = false
 	end
@@ -22,21 +22,21 @@ script 1 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Even when Nebula
-	held End Area2,
+	Mesmo quando a Nebula
+	detinha o controle
+	sobre a Área Endo 2,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that guy kept
-	right on running
-	his business.
+	aquele cara ali seguiu
+	operando a loja dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a businessman!"
+	"Que profissional!"
 	keyWait
 		any = false
 	end
@@ -46,16 +46,15 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WELCOME TO
-	END AREA.
+	BEM-VINDO À ÁREA ENDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEBULA CONTROLS
-	END AREA5!
-	BE CAREFUL!
+	A NEBULA ESTÁ NO
+	CONTROLE DA ÁREA
+	ENDO 5! CUIDADO!
 	"""
 	keyWait
 		any = false
@@ -66,9 +65,9 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	COMM⋯
-	⋯EING⋯AMM⋯
-	EVA⋯!
+	COMU...
+	... NDO... INTER...
+	EVA...!
 	"""
 	keyWait
 		any = false
@@ -76,9 +75,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -89,8 +88,8 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	UH⋯ M⋯
-	⋯EAD⋯TS!
+	UR... M...
+	... EÇA... ÓI!
 	"""
 	keyWait
 		any = false
@@ -98,9 +97,9 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -111,16 +110,15 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE SURE GOT
-	SABOTAGED,
-	DIDN'T WE?
+	FOMOS MESMO
+	SABOTADOS, NÃO É?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT WAS JUST
-	TOO CRAZY.
+	AQUILO FOI LOUCURA,
+	LOUCURA.
 	"""
 	keyWait
 		any = false
@@ -131,8 +129,8 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I STILL FEEL
-	DIZZY⋯
+	AINDA ESTOU
+	MEIO TONTO...
 	"""
 	keyWait
 		any = false
@@ -143,14 +141,13 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS AREA HAS
-	BEEN LIBERATED
-	FROM NEBULA!
+	ESTA ÁREA FOI
+	LIBERTADA DA NEBULA!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"AH,IT FEELS GOOD!"
+	"AH, QUE COISA BOA!"
 	keyWait
 		any = false
 	end
@@ -160,17 +157,15 @@ script 31 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	My operator up
-	and left for a
-	bathroom break!
+	O meu operador resolveu
+	ir ao banheiro e me
+	deixou aqui esperando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What am I
-	supposed to do
-	now?!
+	O que eu faço agora?!
 	"""
 	keyWait
 		any = false
@@ -181,8 +176,7 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT'S THE FUSS
-	ALL ABOUT?
+	POR QUE TANTO ALARDE?
 	"""
 	keyWait
 		any = false
@@ -193,8 +187,8 @@ script 41 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Did Nebula do
-	something again?
+	A Nebula aprontou
+	mais alguma coisa?
 	"""
 	keyWait
 		any = false
@@ -205,15 +199,15 @@ script 50 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE UNDERNET?!
-	D-DON'T SAY IT!
+	A UNDERNET?!
+	N-NEM PROFIRA ISSO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THE VERY NAME
-	ITSELF SCARES ME!
+	SÓ O NOME DELA JÁ
+	ME MATA DE MEDO!
 	"""
 	keyWait
 		any = false
@@ -224,17 +218,17 @@ script 51 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	My operator fell
-	asleep in the middle
-	of surfing the Net.
+	O meu operador dormiu
+	enquanto surfava na
+	Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,wake up!
-	Don't leave me
-	hanging here! Hey!
+	Acorda, cara!
+	Não me deixa sozinho
+	aqui! Ô!
 	"""
 	keyWait
 		any = false

@@ -5,24 +5,23 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THIS ISN'T THE
-	TIME FOR PLAYING
-	AROUND!
+	ISSO NÃO É HORA
+	PARA BOBEIRA!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEBULA IS BREWING
-	SOME TROUBLE
-	AGAIN!
+	A NEBULA ESTÁ
+	APRONTANDO ALGUMA
+	COISA DE NOVO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HEAD FOR A SAFE
-	AREA!
+	VÁ PARA UMA ÁREA
+	SEGURA!
 	"""
 	keyWait
 		any = false
@@ -33,8 +32,8 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I can smell
-	trouble coming⋯
+	Tô sentindo cheiro
+	de encrenca...
 	"""
 	keyWait
 		any = false
@@ -45,16 +44,16 @@ script 10 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SO SICK AND
-	TIRED OF FOLLOWING
-	SOMEBODY'S ORDERS!
+	TÔ DE SACO CHEIO DE
+	SEGUIR ORDENS DOS
+	OUTROS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	FROM NOW ON I
-	WORK ON MY OWN!
+	DE AGORA EM DIANTE,
+	EU TRABALHO SOZINHO!
 	"""
 	keyWait
 		any = false
@@ -69,14 +68,14 @@ script 11 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I hate my school!
-	I hate classes!
-	I hate studying!
+	Eu odeio a escola!
+	Eu odeio aula!
+	Eu odeio estudar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I hate everything!"
+	"Eu odeio tudo!"
 	keyWait
 		any = false
 	end
@@ -85,21 +84,23 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"THE LAST ATTACK"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	WAS SOME KIND OF
-	"PSYCHIC
-	CONTAMINATION"!
+	ESSE ÚLTIMO ATAQUE
+	FOI ALGUM TIPO DE
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HOW SCARY!
-	HOW AWFUL!
+	"CONTAMINAÇÃO
+	PSÍQUICA"!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	QUE SINISTRO!
+	QUE HORROR!
 	"""
 	keyWait
 		any = false
@@ -110,16 +111,16 @@ script 21 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Whew!
-	The last attack
-	was pretty bad.
+	Uff...!
+	Esse último ataque foi
+	feio.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I lost my mind
-	for a minute!
+	Eu perdi completamente
+	a cabeça!
 	"""
 	keyWait
 		any = false
@@ -130,15 +131,15 @@ script 30 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Everybody looks
-	so worried⋯
+	Todo mundo parece
+	tão preocupado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The last attack was
-	too much for us.
+	Aquele último ataque
+	foi demais pra gente.
 	"""
 	keyWait
 		any = false
@@ -149,17 +150,16 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE ENTIRE NET
-	FEELS SO DARK
-	THESE DAYS⋯
+	A REDE INTEIRA ANDA
+	TÃO NEGATIVA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT MIGHT BE
-	ONE OF NEBULA'S
-	GOALS,TOO.
+	TALVEZ ESSE TAMBÉM
+	SEJA UM DOS OBJETIVOS
+	DA NEBULA...
 	"""
 	keyWait
 		any = false

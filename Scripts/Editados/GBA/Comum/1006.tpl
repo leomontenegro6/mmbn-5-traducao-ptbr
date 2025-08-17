@@ -2,22 +2,21 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"OHHHHHHHHHH⋯"
+	"AAAHHHHHH..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I HAVE COME TO
-	RULE THIS WORLD
-	OF CHAOS⋯
+	EU VIM GOVERNAR
+	ESTE MUNDO DE CAOS...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I SHALL ENDURE
-	AS LONG AS THERE
-	IS DARKPOWER⋯
+	... SEGUIREI VIVO
+	ENQUANTO HOUVER
+	PODER DAS TREVAS...
 	"""
 	keyWait
 		any = false
@@ -27,7 +26,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"That was some power⋯"
+	"Quanto poder..."
 	keyWait
 		any = false
 	clearMsg
@@ -38,8 +37,8 @@ script 2 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	One gigantic evil
-	reaction has faded⋯
+	Uma reação maligna
+	gigantesca evaporou...
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wh-who's there?!"
+	"Q-quem tá aí?!"
 	keyWait
 		any = false
 	end
@@ -58,16 +57,16 @@ script 4 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	A great evil
-	still lurks on
-	this planet⋯
+	Um grande mal ainda
+	se esgueira neste
+	planeta...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must fight until
-	evil is vanquished⋯
+	Você deve lutar até o
+	mal ser aniquilado...
 	"""
 	keyWait
 		any = false
@@ -77,7 +76,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯A BattleChip?"
+	"... Um chip?"
 	keyWait
 		any = false
 	end
@@ -86,7 +85,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I-it's⋯"
+	"É-é..."
 	keyWait
 		any = false
 	clearMsg
@@ -103,8 +102,8 @@ script 7 mmbn5 {
 		timer = 0
 		value = 8
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"BigHook G"!!!
 	"""
 	keyWait
@@ -123,8 +122,8 @@ script 8 mmbn5 {
 		timer = 0
 		value = 8
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"MetrKnuk M"!!!
 	"""
 	keyWait
@@ -137,16 +136,15 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	Evil will again
-	return one day⋯
+	O mal retornará
+	de novo um dia...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The only way to
-	defeat it is to
-	keep fighting⋯
+	A única forma de contê-lo
+	é continuar lutando...
 	"""
 	keyWait
 		any = false
@@ -158,7 +156,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Who the⋯?!"
+	"Mas o que...?!"
 	keyWait
 		any = false
 	clearMsg
@@ -169,15 +167,16 @@ script 11 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	I am the one who
-	conquers evil⋯
+	Eu sou aquele que
+	conquista o mal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I am always
-	watching⋯ Farewell⋯
+	Estou sempre
+	observando...
+	Adeus...
 	"""
 	keyWait
 		any = false
@@ -189,17 +188,17 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hey,wait!"
+	"Ei, espera!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯It's gone."
+	"... Sumiu."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The one who conquers
-	evil? Who's that?!
+	"Aquele que conquista
+	o mal"? Quem será?!
 	"""
 	keyWait
 		any = false
@@ -211,25 +210,24 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Don't sweat it⋯"
+	"Não esquenta com isso..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's just one of
-	those things⋯
+	É só uma daquelas...
+	coisas, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's head home."
+	"Bora pra casa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We still have
-	a lot of things
-	to do.
+	A gente ainda tem
+	muita coisa pra fazer.
 	"""
 	keyWait
 		any = false
@@ -239,7 +237,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯You're right."
+	"... É."
 	keyWait
 		any = false
 	end

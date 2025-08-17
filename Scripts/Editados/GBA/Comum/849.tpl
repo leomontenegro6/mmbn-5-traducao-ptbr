@@ -6,14 +6,13 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	Dex! Mayl! Yai!
-	Are you guys OK?
+	Vocês tão bem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll get you outta
-	there!
+	Eu vou tirar vocês daí!
 	"""
 	keyWait
 		any = false
@@ -26,8 +25,9 @@ script 1 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan! I knew you'd
-	come through for us!
+	Lan! Sabia que
+	cê não ia deixar
+	a gente na mão!
 	"""
 	keyWait
 		any = false
@@ -51,8 +51,8 @@ script 3 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	I thought we were
-	done for!
+	Eu achei que a
+	gente ia morreeer!
 	"""
 	keyWait
 		any = false
@@ -64,13 +64,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,jack me in!"
+	"Lan, me conecta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll disable the
-	electronic lock!
+	Eu desligo a tranca
+	eletrônica!
 	"""
 	keyWait
 		any = false
@@ -83,17 +83,17 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OK,MegaMan! There's
-	gotta be a switch
-	somewhere inside!
+	Beleza, MegaMan! Deve
+	ter um interruptor por
+	lá, em algum lugar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in!
-	MegaMan,
-	Execute!!!
+	Conectar!
+	MegaMan.EXE,
+	transmissão!!!
 	"""
 	keyWait
 		any = false

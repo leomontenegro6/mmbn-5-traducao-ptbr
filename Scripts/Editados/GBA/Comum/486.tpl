@@ -5,14 +5,13 @@ script 0 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Undernet4
-	is under Nebula's
-	control.
+	A Undernet 4 está sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not that I care."
+	"Não que isso faça\ndiferença pra mim."
 	keyWait
 		any = false
 	end
@@ -22,8 +21,8 @@ script 1 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	HEY! Quit slacking
-	off! Work!
+	Ô! Para de corpo mole!
+	Trabalha!
 	"""
 	keyWait
 		any = false
@@ -34,9 +33,9 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯⋯
-	(I CAN'T TAKE
-	THIS ANYMORE!)
+	......
+	(EU NÃO AGUENTO
+	MAIS ISTO!)
 	"""
 	keyWait
 		any = false
@@ -47,14 +46,13 @@ script 10 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Undernet4
-	is under Nebula's
-	control.
+	A Undernet 4 está sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not that I care."
+	"Não que isso faça\ndiferença pra mim."
 	keyWait
 		any = false
 	end
@@ -64,14 +62,13 @@ script 20 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Undernet4
-	is under Nebula's
-	control.
+	A Undernet 4 está sob
+	o controle da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Not that I care."
+	"Não que isso faça\ndiferença pra mim."
 	keyWait
 		any = false
 	end
@@ -81,21 +78,22 @@ script 30 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	I can't believe
-	you're making me sit
-	out and watch!
+	Eu não acredito que
+	você vai me fazer
+	assistir da arquibancada!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope you aren't
-	making a mistake!
+	Espero que não esteja
+	cometendo um erro,
+	rapaz!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ah,well. Good luck!"
+	"Enfim... Boa sorte!"
 	keyWait
 		any = false
 	end
@@ -105,8 +103,8 @@ script 31 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Leave this place
-	to me. Go and fight!
+	Deixe este lugar comigo.
+	Vá e lute!
 	"""
 	keyWait
 		any = false
@@ -117,9 +115,8 @@ script 40 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,do you want to
-	start the liberation
-	mission?
+	Lan, vamos começar a
+	missão de liberação?
 	"""
 	keyWait
 		any = false
@@ -135,7 +132,7 @@ script 40 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -144,7 +141,7 @@ script 40 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -159,8 +156,8 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	OK,Lan. Then,let's
-	go!
+	Beleza, Lan.
+	Vamos lá, então!
 	"""
 	keyWait
 		any = false
@@ -174,13 +171,13 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll go whenever
-	you're ready!
+	A gente vai assim que
+	cê tiver pronto!
 	"""
 	keyWait
 		any = false

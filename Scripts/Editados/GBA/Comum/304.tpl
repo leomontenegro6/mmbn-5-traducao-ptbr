@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I lost an important
-	memo around here.
-	Have you seen it?
+	Eu perdi uma anotação
+	importante por aqui.
+	Você a viu?
 	"""
 	keyWait
 		any = false

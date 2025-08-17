@@ -5,17 +5,16 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we've taken care
-	of all the remaining
-	Nebula agents.
+	Lan, esse foi o último
+	agente da Nebula que
+	faltava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's contact Chaud.
-	I'll call with the
-	phone!
+	Vamos avisar o Chaud.
+	Eu vou ligar pra ele!
 	"""
 	keyWait
 		any = false
@@ -29,13 +28,13 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Riiing⋯"
+	"Trrriiiimmm..."
 	wait
 		frames = 120
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Riiing⋯"
+	"Trrriiiimmm..."
 	wait
 		frames = 120
 	keyWait
@@ -45,46 +44,45 @@ script 1 mmbn5 {
 		mugshot = Chaud
 	soundEnableTextSFX
 	"""
-	I see you've
-	finished.
+	Vejo que você
+	já terminou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now go restore the
-	network⋯
+	Agora, siga para
+	restaurar a rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in the deep reaches
-	of Oran Area3.
+	nas profundezas
+	da Área Oran 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need it to gain
-	access to SciLab
-	Area.
+	Nós precisamos ganhar
+	acesso à Área SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the next mission,
-	you'll be liberating
-	SciLab3.
+	Pra sua próxima
+	missão, você vai
+	liberar SciLab 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I want you to
-	check the route to
-	SciLab3.
+	Lan, quero que você
+	confira a rota de
+	acesso a SciLab 3.
 	"""
 	keyWait
 		any = false
@@ -96,14 +94,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I understand."
+	"Beleza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But Chaud,can't we
-	just enter SciLab
-	Area from SciLab?
+	Mas, Chaud, não dá pra
+	gente entrar na Área
+	SciLab... DO SciLab?
 	"""
 	keyWait
 		any = false
@@ -116,41 +114,40 @@ script 3 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Yes,there is a route
-	to SciLab Area in
-	SciLab.
+	De fato, existe uma
+	rota pra Área SciLab
+	no próprio SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,if we
-	liberate that access
-	route⋯
+	Mas se nós liberarmos
+	aquela rota de acesso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be inviting
-	agents in SciLab
-	Area into SciLab.
+	estaremos dando às
+	forças da Nebula acesso
+	fácil ao SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why we're
-	blocking net access
-	from SciLab.
+	Foi por isso que
+	bloqueamos o acesso
+	do SciLab à Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to use
-	the Net to liberate
-	SciLab Area.
+	Nossa única escolha
+	é usar a Rede pra
+	liberar a Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -162,22 +159,22 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see."
+	"Entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,so I'm to restore
-	the network in Oran
-	Area3
+	Beleza. Então, é pra
+	eu restaurar a Rede
+	na Área Oran 3
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and check the route
-	to SciLab3 for
-	the next mission?
+	e dar uma olhada na
+	rota pra SciLab 3,
+	pra próxima missão?
 	"""
 	keyWait
 		any = false
@@ -189,7 +186,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"That is correct."
+	"Isso mesmo."
 	keyWait
 		any = false
 	clearMsg
@@ -197,7 +194,7 @@ script 5 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -209,17 +206,16 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,we've taken care
-	of all the remaining
-	Nebula agents.
+	Lan, esse foi o último
+	agente da Nebula que
+	faltava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's contact,Baryl.
-	I'll call with the
-	phone!
+	Vamos avisar o Baryl.
+	Eu vou ligar pra ele!
 	"""
 	keyWait
 		any = false
@@ -233,13 +229,13 @@ script 7 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Riiing⋯"
+	"Trrriiiimmm..."
 	wait
 		frames = 120
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Riiing⋯"
+	"Trrriiiimmm..."
 	wait
 		frames = 120
 	keyWait
@@ -248,46 +244,45 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	"""
-	I see you've
-	finished.
+	Vejo que você
+	já terminou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now go restore the
-	network⋯
+	Agora, siga para
+	restaurar a rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in the deep reaches
-	of Oran Area3.
+	nas profundezas
+	da Área Oran 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We need it to gain
-	access to SciLab
-	Area.
+	Nós precisamos ganhar
+	acesso à Área SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	On the next mission,
-	you'll be liberating
-	SciLab3.
+	Para a sua próxima
+	missão, você irá
+	liberar SciLab 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,I want you to
-	check the route to
-	SciLab3.
+	Lan, preciso que
+	confira a rota
+	para SciLab 3.
 	"""
 	keyWait
 		any = false
@@ -300,9 +295,9 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But Baryl,can't we
-	just enter SciLab
-	Area from SciLab?
+	Mas, Baryl, não dá pra
+	entrar na Área SciLab
+	do próprio SciLab?
 	"""
 	keyWait
 		any = false
@@ -315,41 +310,40 @@ script 9 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Yes,there is a route
-	to SciLab Area in
-	SciLab.
+	De fato, existe uma
+	rota para a Área SciLab
+	no próprio SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,if we
-	liberate that access
-	route⋯
+	Porém, se liberarmos
+	aquela rota de acesso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll be inviting
-	agents in SciLab
-	Area into SciLab.
+	estaremos dando às
+	forças da Nebula acesso
+	fácil ao SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's why we're
-	blocking net access
-	from SciLab.
+	Por isso, bloqueamos
+	o acesso à Rede a
+	partir do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll have to use
-	the Net to liberate
-	SciLab Area.
+	Nossa única escolha
+	é usar a Rede para
+	liberar a Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -361,22 +355,22 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I see."
+	"Entendi."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK,so I'm to restore
-	the network in Oran
-	Area3
+	Beleza. Então, é pra
+	eu restaurar a Rede
+	na Área Oran 3
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and check the route
-	to SciLab3 for
-	the next mission?
+	e dar uma olhada na
+	rota pra SciLab 3,
+	pra próxima missão?
 	"""
 	keyWait
 		any = false
@@ -388,7 +382,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"That is correct."
+	"Exatamente."
 	keyWait
 		any = false
 	clearMsg
@@ -396,7 +390,7 @@ script 11 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*"
+	"Tchuic!"
 	keyWait
 		any = false
 	clearMsg
@@ -408,9 +402,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,we're gonna
-	restore the network
-	in Oran Area3!
+	MegaMan, bora restaurar
+	a rede da Área Oran 3!
 	"""
 	keyWait
 		any = false
@@ -422,7 +415,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Roger!"
+	"Beleza!"
 	keyWait
 		any = false
 	end

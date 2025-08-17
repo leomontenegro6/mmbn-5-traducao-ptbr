@@ -4,17 +4,20 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Bass
 	msgOpen
-	"So you've the power"
-	keyWait
-		any = false
-	clearMsg
-	"to counteract evil⋯"
+	"Então..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must get the power
-	of absolute evil⋯
+	você detém o poder
+	para conter o mal...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu preciso obter o
+	poder do mal absoluto...
 	"""
 	keyWait
 		any = false
@@ -24,7 +27,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"He's gone⋯"
+	"Foi embora..."
 	keyWait
 		any = false
 	clearMsg
@@ -35,7 +38,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"That was some power⋯"
+	"Quanta força..."
 	keyWait
 		any = false
 	clearMsg
@@ -47,9 +50,9 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah⋯ One false move
-	and we'd have been
-	toast⋯
+	É... Um passo em falso,
+	e a gente teria ido
+	pelos ares...
 	"""
 	keyWait
 		any = false
@@ -62,15 +65,17 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We gotta keep
-	getting stronger⋯
+	A gente tem que
+	continuar ficando
+	mais forte...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Strong enough to
-	beat any evil⋯
+	Forte o bastante
+	pra vencer qualquer
+	força do mal...
 	"""
 	keyWait
 		any = false
@@ -81,15 +86,16 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I can get stronger
-	because of you,Lan.
+	Com você, eu consigo
+	ficar mais forte, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Strong enough to
-	beat any old evil!
+	Forte o bastante pra
+	superar qualquer mal
+	que seja!
 	"""
 	keyWait
 		any = false
@@ -101,7 +107,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got that right!"
+	"É isso aí!"
 	keyWait
 		any = false
 	end

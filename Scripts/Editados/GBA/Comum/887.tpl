@@ -5,15 +5,16 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So⋯this is the
-	Engine Room⋯
+	Então... esta que é
+	a sala das máquinas...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First I better find
-	a place to jack in.
+	Antes de mais nada,
+	é melhor eu achar um
+	lugar pra conectar.
 	"""
 	keyWait
 		any = false

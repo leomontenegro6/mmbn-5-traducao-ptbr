@@ -9,30 +9,30 @@ script 0 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	So,they've put the
-	Official hounds on
-	the hunt?
+	Então, mandaram os
+	cães Oficiais para
+	nos caçar?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Little do they know
-	the Net occupation
-	is just one piece⋯
+	Mal sabem eles que a
+	ocupação da Rede é
+	apenas um fragmento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	of the grand plan.
-	Just try and stop
-	us!
+	do plano maior.
+	Quero ver eles
+	tentarem nos deter!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Keh heh heh⋯"
+	"Hu he he he..."
 	keyWait
 		any = false
 	end
@@ -42,9 +42,9 @@ script 1 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	Master Regal,
-	preparations are
-	complete.
+	Mestre Regal,
+	os preparativos
+	estão concluídos.
 	"""
 	keyWait
 		any = false
@@ -57,8 +57,8 @@ script 2 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Very well. I'll be
-	right there.
+	Ótimo.
+	Já estou a caminho.
 	"""
 	keyWait
 		any = false
@@ -70,7 +70,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Please excuse me."
+	"Com sua licença."
 	keyWait
 		any = false
 	end
@@ -80,9 +80,9 @@ script 4 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	⋯Keh heh heh. It's
-	all going according
-	to plan!
+	... He he he.
+	Tudo está correndo
+	conforme o planejado!
 	"""
 	keyWait
 		any = false

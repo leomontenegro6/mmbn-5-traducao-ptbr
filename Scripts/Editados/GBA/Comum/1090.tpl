@@ -7,7 +7,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This looks like⋯"
+	"Isso parece..."
 	keyWait
 		any = false
 	end
@@ -17,8 +17,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's the last area
-	to liberate!
+	É a última área
+	pra liberar!
 	"""
 	keyWait
 		any = false
@@ -31,9 +31,9 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. And I can
-	sense the hate
-	over there⋯
+	É.
+	E dá pra sentir todo
+	o ódio que tem nela...
 	"""
 	keyWait
 		any = false
@@ -59,9 +59,8 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Looks like this is
-	the last area,
-	MegaMan.
+	Parece que esta é a
+	última área, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -79,13 +78,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What were you
-	investigating?
+	O que é que você
+	tava investigando?
 	"""
 	keyWait
 		any = false
@@ -98,8 +97,8 @@ script 6 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Something deep
-	inside this area.
+	Uma coisa nas
+	profundezas desta área.
 	"""
 	keyWait
 		any = false
@@ -111,7 +110,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it?"
+	"Que coisa?"
 	keyWait
 		any = false
 	clearMsg
@@ -123,8 +122,8 @@ script 8 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	The throne of King
-	Chaos!
+	O trono do
+	Senhor do Caos!
 	"""
 	keyWait
 		any = false
@@ -136,7 +135,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"King Chaos?!"
+	"Senhor do Caos?!"
 	keyWait
 		any = false
 	clearMsg
@@ -148,25 +147,24 @@ script 10 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	All of the hate
-	born on the Net
-	floats freely
+	Todo o ódio que nasce
+	na Rede vaga livremente
+	no espaço
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	until it finally
-	reaches here and
-	takes form.
+	até, enfim, chegar
+	aqui e ganhar forma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	King Chaos is
-	the embodiment
-	of that hate!
+	O Senhor do Caos
+	é a encarnação
+	de todo esse ódio!
 	"""
 	keyWait
 		any = false
@@ -179,9 +177,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the voice that
-	guided us here was
-	actually King Chaos?
+	Então, a voz que guiou
+	a gente aqui, na verdade,
+	era do Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -194,9 +192,8 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But it sounded
-	more⋯ I dunno,
-	noble or something.
+	Mas ela parecia tão...
+	sei lá, "nobre"...
 	"""
 	keyWait
 		any = false
@@ -209,24 +206,24 @@ script 13 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I guess you're
-	the ones who
-	will find out!
+	Acho que vocês mesmos
+	terão que chegar a
+	essa resposta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Liberate within
-	16 phases.
+	A meta é liberar
+	a área dentro de
+	16 fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go,team! It's
-	the final
-	liberation!
+	Vamos lá, equipe!
+	Esta é a liberação final!
 	"""
 	keyWait
 		any = false
@@ -238,7 +235,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -249,7 +246,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end
@@ -258,7 +255,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This looks like⋯"
+	"Isso parece..."
 	keyWait
 		any = false
 	end
@@ -268,8 +265,8 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's the last area
-	to liberate!
+	É a última área
+	pra liberar!
 	"""
 	keyWait
 		any = false
@@ -282,9 +279,9 @@ script 22 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. And I can
-	sense the hate
-	over there⋯
+	É.
+	E dá pra sentir todo
+	o ódio que tem nela...
 	"""
 	keyWait
 		any = false
@@ -304,9 +301,8 @@ script 24 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Looks like this is
-	the last area,
-	MegaMan.
+	Parece que esta é a
+	última área, MegaMan.
 	"""
 	keyWait
 		any = false
@@ -324,13 +320,13 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah⋯"
+	"É..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What were you
-	investigating?
+	O que é que você
+	tava investigando?
 	"""
 	keyWait
 		any = false
@@ -343,8 +339,8 @@ script 26 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Something deep
-	inside this area.
+	Uma coisa nas
+	profundezas desta área.
 	"""
 	keyWait
 		any = false
@@ -356,7 +352,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it?"
+	"Que coisa?"
 	keyWait
 		any = false
 	clearMsg
@@ -368,8 +364,8 @@ script 28 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	The throne of King
-	Chaos!
+	O trono do
+	Senhor do Caos!
 	"""
 	keyWait
 		any = false
@@ -381,7 +377,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"King Chaos?!"
+	"Senhor do Caos?!"
 	keyWait
 		any = false
 	clearMsg
@@ -393,25 +389,24 @@ script 30 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	All of the hate
-	born on the Net
-	floats freely
+	Todo o ódio que nasce
+	na Rede vaga livremente
+	no espaço
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	until it finally
-	reaches here and
-	takes form.
+	até, enfim, chegar
+	aqui e ganhar forma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	King Chaos is
-	the embodiment
-	of that hate!
+	O Senhor do Caos
+	é a encarnação
+	de todo esse ódio!
 	"""
 	keyWait
 		any = false
@@ -424,9 +419,9 @@ script 31 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So the voice that
-	guided us here was
-	actually King Chaos?
+	Então, a voz que guiou
+	a gente aqui, na verdade,
+	era do Senhor do Caos?
 	"""
 	keyWait
 		any = false
@@ -439,9 +434,8 @@ script 32 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	But it sounded
-	more⋯ I dunno,
-	noble or something.
+	Mas ela parecia tão...
+	sei lá, "nobre"...
 	"""
 	keyWait
 		any = false
@@ -454,24 +448,24 @@ script 33 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I guess you're
-	the ones who
-	will find out!
+	Acho que vocês mesmos
+	terão que chegar a
+	essa resposta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Liberate within
-	16 phases.
+	A meta é liberar
+	a área dentro de
+	16 fases.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go,team! It's
-	the final
-	liberation!
+	Vamos lá, equipe!
+	Esta é a liberação final!
 	"""
 	keyWait
 		any = false
@@ -483,7 +477,7 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	clearMsg
@@ -494,7 +488,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yessir!"
+	"Sim, senhor!"
 	keyWait
 		any = false
 	end

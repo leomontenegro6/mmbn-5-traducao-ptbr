@@ -2,7 +2,7 @@
 $errors = [];
 
 // Iterar por todos os arquivos .tpl das pastas especificadas.
-foreach (glob('Scripts/Editados/GBA/*.tpl') as $file) {
+foreach (glob('Scripts/Editados/GBA/Comum/*.tpl') as $file) {
     // Iterar linha por linha
     $lines = file($file);
 

@@ -75,16 +75,14 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A lone tree
-	stands away
-	from the rest.
+	Uma árvore solitária,
+	distante das demais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a rather
-	lonely sight.
+	Que triste.
 	"""
 	keyWait
 		any = false
@@ -97,8 +95,8 @@ script 7 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Is this some kinda
-	speaker?
+	Isso é algum tipo
+	de alto-falante?
 	"""
 	keyWait
 		any = false
@@ -107,16 +105,15 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	The private boat of
-	Yai's family.
+	O barco particular
+	da família Ayano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a luxury
-	boat,inside and
-	out.
+	É um barco de luxo,
+	por dentro e por fora.
 	"""
 	keyWait
 		any = false
@@ -129,20 +126,25 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Some fishing line's
-	tangled in seaweed⋯
+	Tem uma linha de pesca
+	emaranhada em alga
+	aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's even a hook
-	still attached!
+	Ah, e tem até
+	um anzol junto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Finders keepers!"
+	"""
+	Achado não é roubado,
+	quem perdeu foi
+	relaxado!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -153,7 +155,7 @@ script 9 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -173,9 +175,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bamboo's flexible⋯
-	It'd be perfect for
-	a fishing pole!
+	Bambu é bem flexível...
+	Perfeito pra uma
+	vara de pesca!
 	"""
 	keyWait
 		any = false
@@ -187,7 +189,7 @@ script 10 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -207,8 +209,8 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This branch looks
-	like it'll burn!
+	Esse galho tem cara
+	de que queima bem!
 	"""
 	keyWait
 		any = false
@@ -220,7 +222,7 @@ script 11 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -239,14 +241,14 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Hm?"
+	"... Hm?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Yuck!
-	What's this
-	disgusting bug?!
+	Eca!
+	Que bicho gosmento
+	é esse?!
 	"""
 	keyWait
 		any = false
@@ -254,9 +256,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	That's a worm.
-	It's often used
-	as fishing bait.
+	É uma minhoca. Sabe,
+	famosa por ser usada
+	na pesca como isca.
 	"""
 	keyWait
 		any = false
@@ -264,9 +266,9 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Oh⋯ it's kinda
-	gross but I guess
-	I'll keep it.
+	Ah... Bom, ela é meio
+	nojenta, mas acho que
+	vou levar.
 	"""
 	keyWait
 		any = false
@@ -278,7 +280,7 @@ script 12 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -296,9 +298,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This board's really
-	dry. It'd make
-	perfect firewood!
+	Essa tábua tá tão seca.
+	Vai servir muito bem
+	como lenha!
 	"""
 	keyWait
 		any = false
@@ -310,7 +312,7 @@ script 13 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -332,13 +334,13 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Dry grass⋯ I bet
-	it'd burn good.
+	Grama seca...
+	Aposto que queima bem.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯I'll take it."
+	"... Vou levar."
 	keyWait
 		any = false
 	clearMsg
@@ -349,7 +351,7 @@ script 14 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -369,15 +371,15 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	Some fishing line's
-	tangled in seaweed⋯
+	Uma linha de pesca
+	emaranhada em alga...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Some people don't
-	know how to fish.
+	Tem gente que não sabe
+	mesmo como pescar.
 	"""
 	keyWait
 		any = false
@@ -385,21 +387,24 @@ script 15 mmbn5 {
 }
 script 16 mmbn5 {
 	msgOpen
-	"Lush green bamboo⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Bamboo's a mystical
-	plant that flowers
-	only once every
+	Exuberantes bambus
+	verdes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	several decades or
-	so.
+	O bambu é uma planta
+	mística que floresce
+	uma vez a cada dezenas
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	de anos,
+	aproximadamente.
 	"""
 	keyWait
 		any = false
@@ -408,16 +413,16 @@ script 16 mmbn5 {
 script 17 mmbn5 {
 	msgOpen
 	"""
-	A dried out old tree
-	about to fall over.
+	Uma velha árvore seca,
+	prestes a cair.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It will eventually
-	decay and fertilize
-	the soil.
+	Logo ela irá
+	se decompor e
+	fertilizará o solo.
 	"""
 	keyWait
 		any = false
@@ -426,23 +431,23 @@ script 17 mmbn5 {
 script 18 mmbn5 {
 	msgOpen
 	"""
-	These rocks are home
-	to a wide range of
-	creatures.
+	Essas rochas abrigam
+	uma vasta gama de
+	criaturas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Turning over one of
-	the larger rocks
+	Revirar uma das
+	pedras maiores
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	reveals all kinds
-	of life.
+	revela vida de todo
+	o tipo.
 	"""
 	keyWait
 		any = false
@@ -450,21 +455,21 @@ script 18 mmbn5 {
 }
 script 19 mmbn5 {
 	msgOpen
-	"Some driftwood⋯"
+	"Madeira flutuante..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wonder where this
-	came from?
+	De onde será que ela
+	vem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If it could talk,I
-	bet it'd have many
-	stories to tell⋯
+	Se ela falasse, aposto
+	que teria tantas
+	histórias pra contar...
 	"""
 	keyWait
 		any = false
@@ -477,9 +482,8 @@ script 20 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Dried out grass has
-	been gathered into
-	a pile.
+	Grama seca, acumulada
+	em uma pilha.
 	"""
 	keyWait
 		any = false
@@ -488,23 +492,23 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	A fence blocks
-	the way.
+	Uma cerca barra o cami-
+	nho. 
 	"""
 	keyWait
 		any = false
 	end
 	"""
-	Why is it when you
-	are prevented from
-	entering somewhere,
+	Por que, quando
+	somos impedidos de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you end up wanting
-	even more to enter?
+	entrar em um lugar,
+	acabamos querendo
+	entrar lá mais ainda?
 	"""
 	keyWait
 		any = false
@@ -523,15 +527,16 @@ script 22 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Is this some kinda
-	speaker?
+	Isso é algum tipo
+	de alto-falante?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A close look reveals
-	a port to jack in.
+	Uma análise mais
+	cuidadosa revela uma
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
@@ -540,16 +545,17 @@ script 22 mmbn5 {
 script 23 mmbn5 {
 	msgOpen
 	"""
-	The port appears
-	operable but I
-	can't jack in⋯
+	A entrada parece funci-
+	onal, mas você não
+	consegue se conectar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oran Isle's network
-	must be messed up⋯
+	A rede da Ilha Oran
+	deve estar com
+	defeito...
 	"""
 	keyWait
 		any = false
@@ -558,9 +564,9 @@ script 23 mmbn5 {
 script 24 mmbn5 {
 	msgOpen
 	"""
-	The wind blows
-	some dried grass
-	out of a pile.
+	O vento assopra um
+	pouco de grama seca
+	para fora da pilha.
 	"""
 	keyWait
 		any = false

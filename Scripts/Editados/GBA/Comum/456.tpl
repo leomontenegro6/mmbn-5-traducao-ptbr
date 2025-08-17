@@ -5,14 +5,16 @@ script 0 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Did you see the
-	Nebula broadcast?
-	You know,it was
+	Você viu a transmissão
+	da Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"kind of interesting!"
+	"""
+	Até que foi meio
+	interessante!
+	"""
 	keyWait
 		any = false
 	end
@@ -22,15 +24,14 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WE'D BETTER HURRY
-	AND EVACUATE!
+	É MELHOR TODOS
+	EVACUARMOS LOGO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU'D BETTER
-	GET OUT TOO!
+	SIM, ISSO INCLUI VOCÊ!
 	"""
 	keyWait
 		any = false
@@ -41,15 +42,14 @@ script 10 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	GAH! Everything
-	annoys me!
+	AGH! Tudo me irrita!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It must be a
-	chemical imbalance!
+	Deve ser um
+	desequilíbrio químico!
 	"""
 	keyWait
 		any = false
@@ -60,9 +60,9 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M SO ANGRY!
-	I'M GONNA BLOW
-	A FUSE!
+	EU TÔ TÃO FURIOSO!
+	TÔ PRA QUEIMAR UM
+	FUSÍVEL!
 	"""
 	keyWait
 		any = false
@@ -77,9 +77,9 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm finally able
-	to control
-	myself again.
+	Finalmente estou
+	conseguindo me
+	controlar de novo.
 	"""
 	keyWait
 		any = false
@@ -90,17 +90,17 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I FELT LIKE
-	SOMETHING TOOK
-	OVER ME.
+	FOI COMO SE ALGUMA
+	COISA TIVESSE ME
+	POSSUÍDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT A TERRIBLE
-	TECHNOLOGY NEBULA
-	CREATED⋯
+	QUE TECNOLOGIA
+	TERRÍVEL, ESSA QUE
+	A NEBULA CRIOU...
 	"""
 	keyWait
 		any = false
@@ -111,9 +111,9 @@ script 30 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I can't sleep!
-	I'm worried about
-	the next attack!
+	Eu não consigo dormir!
+	Estou tão preocupado
+	com um próximo ataque!
 	"""
 	keyWait
 		any = false
@@ -124,16 +124,17 @@ script 31 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I FEEL LIKE THE
-	WHOLE WORLD IS
-	GOING CRAZY.
+	SINTO COMO SE O MUNDO
+	INTEIRO ESTIVESSE
+	ENLOUQUECENDO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IS THERE ANYTHING
-	I CAN DO TO HELP?
+	TEM ALGUMA COISA QUE
+	EU POSSO FAZER PARA
+	AJUDAR?
 	"""
 	keyWait
 		any = false

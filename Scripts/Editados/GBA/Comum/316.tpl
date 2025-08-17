@@ -9,29 +9,29 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome to SciLab!"
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're constantly
-	working on new
-	network technology!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	On the 2nd floor you
-	will find a display
-	of PETs new and old!
+	Estamos sempre
+	desenvolvendo novas
+	tecnologias de rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and have
-	a good look around.
+	No segundo andar, há uma
+	exposição de PETs do
+	passado e do presente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sugiro que confira,
+	é muito instrutivo.
 	"""
 	keyWait
 		any = false
@@ -47,17 +47,17 @@ script 1 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Some research at
-	SciLab concerns
-	national security.
+	Certas pesquisas no
+	SciLab são questões
+	de segurança nacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're checking to
-	make sure nobody
-	suspicious gets in.
+	Estamos conferindo
+	para não deixar ninguém
+	suspeito entrar.
 	"""
 	keyWait
 		any = false
@@ -68,9 +68,9 @@ script 2 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hmph⋯ I always get
-	health drinks here.
-	I'm so tired⋯
+	Uf. Estou pegando tantas
+	bebidas saudáveis aqui.
+	Ando tão cansado...
 	"""
 	keyWait
 		any = false
@@ -78,31 +78,30 @@ script 2 mmbn5 {
 	textSpeed
 		delay = 1
 	"""
-	No,I've got to keep
-	my chin up!
-	Gotta get crackin'!
+	Não! Eu tenho que
+	levantar a cabeça!
+	Bora "cienciar"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 2
-	"・"
+	"."
 	wait
 		frames = 15
-	"・"
+	"."
 	wait
 		frames = 15
-	"・"
+	". "
 	wait
 		frames = 15
-	"But,"
+	"Mas\n"
 	wait
 		frames = 15
 	"""
-	
-	I really wanna go
-	home and sleep⋯
+	eu queria TANTO ir
+	pra casa dormir...
 	"""
 	keyWait
 		any = false
@@ -113,15 +112,16 @@ script 3 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	SciLab sure is quiet
-	today.
+	O SciLab está tão
+	quieto hoje.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A noisy tour just
-	went by recently.
+	Antes, tinha um grupo
+	de tour bem barulhento
+	circulando por aqui.
 	"""
 	keyWait
 		any = false
@@ -132,17 +132,17 @@ script 10 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	We are restricting
-	entry by the general
-	public at present.
+	No momento, estamos
+	restringindo o acesso
+	ao público.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course you can
-	come in but don't
-	interfere,OK!
+	Claro, VOCÊ pode
+	entrar, só... não
+	interfira em nada, OK?
 	"""
 	keyWait
 		any = false
@@ -153,16 +153,17 @@ script 20 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	This incident may be
-	a harbinger of
-	something worse.
+	Esse incidente pode ser
+	o prenúncio de uma
+	crise pior...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope I'm reading
-	too much into this.
+	... Tomara que eu só
+	esteja vendo pelo em
+	ovo aqui...
 	"""
 	keyWait
 		any = false
@@ -173,16 +174,16 @@ script 21 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	That Net
-	incident is over.
+	Aquele incidente da
+	Rede acabou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're letting the
-	general public
-	back in now.
+	Agora, estamos
+	re-abrindo acesso
+	ao público.
 	"""
 	keyWait
 		any = false
@@ -193,9 +194,9 @@ script 22 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ahh,the coffee
-	break. A brief
-	respite from it all.
+	Ah, a pausa pro café.
+	Um breve momento de
+	fugir de tudo.
 	"""
 	keyWait
 		any = false
@@ -220,29 +221,29 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = SciLabWoman
 	msgOpen
-	"Welcome to SciLab!"
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're constantly
-	working on new
-	network technology!
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	On the 2nd floor you
-	will find a display
-	of PETs new and old!
+	Estamos sempre
+	desenvolvendo novas
+	tecnologias de rede!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go ahead and have
-	a good look around.
+	No segundo andar, há uma
+	exposição de PETs do
+	passado e do presente!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Sugiro que confira,
+	é muito instrutivo.
 	"""
 	keyWait
 		any = false
@@ -253,17 +254,17 @@ script 31 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Some research at
-	SciLab concerns
-	national security.
+	Certas pesquisas no
+	SciLab são questões
+	de segurança nacional.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're checking to
-	make sure nobody
-	suspicious gets in.
+	Estamos conferindo
+	para não deixar ninguém
+	suspeito entrar.
 	"""
 	keyWait
 		any = false
@@ -274,16 +275,15 @@ script 32 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	All this research. I
-	haven't been home
-	in days.
+	Você anda trabalhando
+	tanto... Já faz dias
+	que não pisa em casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm so worried about
-	you.
+	Eu me preocupo com você.
 	"""
 	keyWait
 		any = false
@@ -291,9 +291,9 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	It's OK,Grandma.
-	I'm fine. Don't
-	worry about me.
+	Calma, vovó, tá tudo
+	bem. Eu tô bem.
+	Não se preocupa.
 	"""
 	keyWait
 		any = false
@@ -301,30 +301,30 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = OldWoman
 	"""
-	Really?
-	Well,OK then⋯
+	Verdade mesmo?
+	Bem, tudo bem, então...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But make sure you
-	eat right,at least.
+	Mas, pelo menos,
+	coma direitinho, tá bom?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also make sure you
-	get plenty of sleep,
-	brush your teeth⋯
+	E lembre-se também
+	de dormir bem, e de
+	escovar os dentes...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You've always been
-	kind of a slob⋯
+	Você sempre foi meio
+	desleixado, sabe...?
 	"""
 	keyWait
 		any = false
@@ -332,9 +332,8 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	All right already!
-	That's enough,
-	Grandma!
+	Tá bom, tá bom!
+	Chega, vovó!
 	"""
 	keyWait
 		any = false
@@ -350,32 +349,30 @@ script 33 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I have to head back
-	to the Netopian
-	SciLab soon.
+	Eu vou ter que voltar
+	para o SciLab da
+	Ameropa em breve.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Electopian
-	SciLab has been very
-	exciting.
+	Ah, o SciLab de Ni-Hon
+	foi tanta emoção.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Unfortunately,
-	the fun must end.
+	Mas, infelizmente,
+	tudo que é bom, acaba.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's like they say.
-	Nothing lasts
-	forever.
+	Realmente...
+	nada dura para sempre.
 	"""
 	keyWait
 		any = false
@@ -386,25 +383,24 @@ script 35 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	The SciLab HP is
-	currently under
-	attack by Nebula.
+	A página do SciLab
+	está sob ataque da
+	Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If they get past the
-	HP,the main system
-	itself is next.
+	Se passarem por ela,
+	o próximo alvo será o
+	próprio sistema central.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Then the real world
-	itself will be at
-	risk!
+	E aí... o próprio mundo
+	real correrá perigo!
 	"""
 	keyWait
 		any = false
@@ -424,22 +420,22 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = SciLabMan
 	msgOpen
-	"You!"
+	"Você!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must know the
-	SciLab HP is under
-	attack by Nebula.
+	Já deve saber que a
+	página do SciLab está
+	sob ataque da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry to the HP by
-	jacking in from
-	MissionCtrl!
+	Rápido, vá para lá!
+	Conecte-se do Controle
+	de Missão!
 	"""
 	keyWait
 		any = false
@@ -450,9 +446,9 @@ script 40 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I heard about what
-	you did. What an
-	amazing NetBattler!
+	Me contaram o que você
+	fez. Que NetLutador
+	incrível!
 	"""
 	keyWait
 		any = false
@@ -463,15 +459,15 @@ script 41 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	So you drove
-	Nebula away.
+	Então, você afugentou
+	a Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I heard about your
-	heroism. Nice work.
+	Ouvi falar do seu
+	heroísmo. Bom trabalho.
 	"""
 	keyWait
 		any = false
@@ -482,39 +478,39 @@ script 42 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I love the taste of
-	coffee after my work
-	is done.
+	Ah, adoro o sabor do
+	café depois do trabalho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What? You think all
-	I do is drink
-	coffee?
+	Hã? Você acha que
+	beber café é tudo
+	o que eu faço?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hahahaaa!!!
-	You've got me wrong.
+	Ha ha haaa!!!
+	É aí que se engana,
+	rapaz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I work hard and play
-	hard.
+	Eu trabalho com tudo
+	e relaxo com tudo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I know how
-	to set my
-	boundaries.
+	Acho que eu só...
+	sei traçar os meus
+	limites, sabe?
 	"""
 	keyWait
 		any = false
@@ -525,21 +521,21 @@ script 45 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Entry is restricted,
-	so I don't have much
-	work to do.
+	Como o acesso está
+	restrito, fico sem muito
+	trabalho para fazer.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Welcome to SciLab!"
+	"Bem-vindo ao SciLab!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't wait until I
-	can say that
-	cheerfully again.
+	... Mal posso esperar
+	para poder voltar a
+	falar isso com alegria.
 	"""
 	keyWait
 		any = false
@@ -550,17 +546,17 @@ script 46 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	The public is not
-	allowed in SciLab at
-	the moment.
+	O público está proibido
+	de entrar no SciLab por
+	ora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula attacked both
-	the real world and
-	the Cyberworld.
+	A Nebula atacou tanto
+	o mundo real quanto o
+	cibernético.
 	"""
 	keyWait
 		any = false
@@ -571,32 +567,31 @@ script 47 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I was going to go
-	back to Netopia
-	before the incident.
+	Eu ia voltar para a
+	Ameropa, mas aí teve
+	o incidente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I'm helping out a
-	bit more at the
-	Electopian SciLab.
+	Então, acabei ficando,
+	pra dar uma força pro
+	SciLab de Ni-Hon.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll do my best and
-	try to be of
-	assistance.
+	Vou me empenhar ao
+	máximo pra ajudar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll be a regular
-	workaholic!
+	É, vou me tornar um
+	genuínico "workaholic"!
 	"""
 	keyWait
 		any = false
@@ -607,25 +602,25 @@ script 48 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	People are allowed
-	in on official
-	business but the
+	Pessoas só podem entrar
+	aqui para tratar de
+	assuntos oficiais, mas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	security check is
-	very strict,and
-	things are really
+	a segurança está
+	extremamente rígida,
+	e as coisas andam bem
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	tense here at
-	SciLab. I just want
-	to go home,really.
+	tensas aqui, no SciLab.
+	... Ah, eu queria tanto
+	ir pra casa...
 	"""
 	keyWait
 		any = false

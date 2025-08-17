@@ -14,17 +14,17 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I didn't expect the
-	SciLab to be
-	attacked⋯
+	Eu não esperava
+	que o SciLab fosse
+	ser atacado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't use it as
-	Mission Control from
-	now on⋯
+	Agora, não poderemos
+	mais usá-lo como nosso
+	Controle de Missão.
 	"""
 	keyWait
 		any = false
@@ -34,13 +34,12 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯ProtoMan."
+	"... ProtoMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's got hold of
-	Gow.
+	A Nebula pegou o Gáu.
 	"""
 	keyWait
 		any = false
@@ -51,17 +50,17 @@ script 3 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	⋯I got the idea from
-	what they said
-	that the dog's not
+	... Eu imaginei, depois
+	que ouvi eles dizerem
+	que o cão não era
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	a VisionBurst
-	inhabitant after
-	all.
+	um habitante da
+	Visão Passada,
+	no fim das contas.
 	"""
 	keyWait
 		any = false
@@ -74,8 +73,8 @@ script 4 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Really? Gow's not
-	from a VisionBurst?
+	É sério? O Gáu não é
+	de uma Visão Passada?
 	"""
 	keyWait
 		any = false
@@ -88,46 +87,45 @@ script 5 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	That's right.A
-	VisionBurst is saved
+	Não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	data from past
-	moments in the real
-	world.
+	Uma Visão Passada são
+	dados salvos de momentos
+	do mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In other words,
-	things that happened
-	in the past⋯
+	Logo, coisas que
+	aconteceram no passado
+	são registradas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	keep on repeating
-	themselves forever⋯
+	e ficam se repetindo,
+	pra todo o sempre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Things don't happen
-	in real time.
+	Nada se desdobra
+	em tempo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I thought it was
-	odd when I heard the
-	dog had disappeared⋯
+	Logo, eu achei estranho
+	quando você disse que o
+	cão tinha desaparecido...
 	"""
 	keyWait
 		any = false
@@ -139,14 +137,14 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does Gow have
-	something to do with
-	Hikari Report then⋯?
+	Mas, então, o Gáu tem
+	alguma coisa a ver com
+	o Relatório Hikari...?
 	"""
 	keyWait
 		any = false
@@ -158,14 +156,14 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯I should think so."
+	"... Creio que sim."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,we should
-	jack out. Nebula
-	could be listening.
+	Enfim, é melhor
+	desconectar. A Nebula
+	pode estar ouvindo.
 	"""
 	keyWait
 		any = false
@@ -177,7 +175,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Hm."
+	"... Uhum."
 	keyWait
 		any = false
 	end
@@ -187,9 +185,9 @@ script 9 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Can you jack out,
-	Lan? Chaud needs to
-	talk.
+	Poderia desconectar,
+	Hikari? O Chaud quer
+	falar com você.
 	"""
 	keyWait
 		any = false
@@ -200,17 +198,17 @@ script 10 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I didn't expect the
-	SciLab to be
-	attacked⋯
+	Eu não esperava
+	que o SciLab fosse
+	ser atacado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We can't use it as
-	Mission Control from
-	now on⋯
+	Agora, não poderemos
+	mais usá-lo como nosso
+	Controle de Missão.
 	"""
 	keyWait
 		any = false
@@ -220,13 +218,12 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Colonel."
+	"... Colonel."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's got hold of
-	Gow.
+	A Nebula pegou o Gáu.
 	"""
 	keyWait
 		any = false
@@ -237,17 +234,17 @@ script 12 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	⋯I got the idea from
-	what they said that
-	the dog's not a
+	... Eu imaginei, depois
+	que ouvi eles dizerem
+	que o cão não era
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VisionBurst
-	inhabitant after
-	all.
+	um habitante da
+	Visão Passada,
+	no fim das contas.
 	"""
 	keyWait
 		any = false
@@ -260,8 +257,8 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Really? Gow's not
-	from a VisionBurst?
+	É sério? O Gáu não é
+	de uma Visão Passada?
 	"""
 	keyWait
 		any = false
@@ -274,46 +271,45 @@ script 14 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	That's right.A
-	VisionBurst is saved
+	Não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	data from past
-	moments in the real
-	world.
+	Uma Visão Passada são
+	dados salvos de momentos
+	do mundo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	In other words,
-	things that happened
-	in the past⋯
+	Logo, coisas que
+	aconteceram no passado
+	são registradas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	keep on repeating
-	themselves forever⋯
+	e ficam se repetindo,
+	para todo o sempre...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Things don't happen
-	in real time.
+	Nada se desdobra
+	em tempo real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So I thought it was
-	odd when I heard the
-	dog had disappeared⋯
+	Logo, eu achei estranho
+	quando você disse que o
+	cão tinha desaparecido...
 	"""
 	keyWait
 		any = false
@@ -325,14 +321,14 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"So⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Does Gow have
-	something to do with
-	Hikari Report then⋯?
+	Mas, então, o Gáu tem
+	alguma coisa a ver com
+	o Relatório Hikari...?
 	"""
 	keyWait
 		any = false
@@ -344,14 +340,14 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯I should think so."
+	"... Creio que sim."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,we should
-	jack out. Nebula
-	could be listening.
+	Enfim, é melhor
+	desconectar. A Nebula
+	pode estar ouvindo.
 	"""
 	keyWait
 		any = false
@@ -363,7 +359,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Hm."
+	"... Uhum."
 	keyWait
 		any = false
 	end
@@ -373,9 +369,9 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Can you jack out,
-	Lan? Baryl needs to
-	talk.
+	Poderia desconectar,
+	Lan Hikari? O Baryl
+	quer falar com você.
 	"""
 	keyWait
 		any = false
@@ -386,8 +382,9 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No problem! Let's
-	jack out,MegaMan!
+	Claro!
+	Bora desconectar,
+	MegaMan!
 	"""
 	keyWait
 		any = false
@@ -397,7 +394,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Okay!"
+	"Tá!"
 	keyWait
 		any = false
 	end

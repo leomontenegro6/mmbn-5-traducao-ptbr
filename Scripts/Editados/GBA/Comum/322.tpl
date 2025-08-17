@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	How could you force
-	me to work such
-	a low salary!
+	Como você PÔDE me
+	forçar a trabalhar por
+	esse salário RIDÍCULO?!
 	"""
 	keyWait
 		any = false
@@ -18,16 +18,15 @@ script 1 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Why stop now!?
-	What a piece of
-	junk!
+	Por que não funciona?!
+	Lata-velha INÚTIL!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Work for a change,
-	silly computer!
+	Funciona, pra variar,
+	computador maldito!
 	"""
 	keyWait
 		any = false
@@ -43,8 +42,9 @@ script 10 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Hahh,hahh! Why can't
-	I breathe normally?
+	Raaar! Raaaar!
+	Por que eu não consigo
+	respirar normal?
 	"""
 	keyWait
 		any = false
@@ -65,8 +65,9 @@ script 11 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	What happened?
-	What's going on?
+	... O que aconteceu?
+	O que está havendo
+	aqui?
 	"""
 	keyWait
 		any = false
@@ -77,24 +78,23 @@ script 20 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	All of a sudden,
-	I just lost
-	consciousness.
+	Eu perdi a consciência
+	de repente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I have no idea
-	what I did next!
+	O que eu fiz depois,
+	nem imagino!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I must have been
-	running,though.
-	My legs hurt.
+	Mas acho que eu estava
+	correndo. Minhas pernas
+	estão pura dor.
 	"""
 	keyWait
 		any = false
@@ -105,24 +105,23 @@ script 21 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I was so frustrated
-	because I couldn't
-	delete a bug!
+	Eu fiquei tão frustrada
+	por não conseguir
+	deletar um bug...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	All of a sudden
-	I just totally
-	lost control!
+	que, de repente, eu
+	perdi todo o controle!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've never felt
-	so nasty before!
+	Nunca me senti tão
+	detestável antes!
 	"""
 	keyWait
 		any = false
@@ -133,16 +132,16 @@ script 30 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	We'll protect the
-	Net while you guys
-	are away.
+	Vamos proteger a Rede
+	enquanto vocês estão
+	fora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So stay focused
-	on your battle!
+	Então, foque na sua
+	luta!
 	"""
 	keyWait
 		any = false
@@ -153,17 +152,17 @@ script 31 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	I know it's been
-	hard. But this is
-	your final battle!
+	Sei que tem sido
+	dureza... mas essa é
+	a sua batalha final!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry! You'll
-	do it! I have
-	faith in you!
+	Não se preocupe!
+	Você consegue!
+	Eu tenho fé em você!
 	"""
 	keyWait
 		any = false

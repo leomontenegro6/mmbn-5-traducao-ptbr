@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I think I've figured
-	it out. I know how
-	it was done!
+	Acho que eu peguei.
+	Descobri como que
+	o negócio foi feito!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯Well?"
+	"... Pois?"
 	keyWait
 		any = false
 	clearMsg
@@ -31,7 +31,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯Well?"
+	"... Pois?"
 	keyWait
 		any = false
 	clearMsg
@@ -42,7 +42,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well⋯"
+	"Bom..."
 	keyWait
 		any = false
 	end
@@ -72,7 +72,7 @@ script 4 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"It's the table!\n"
+	"É a mesa!\n"
 	option
 		brackets = 0
 		left = 1
@@ -81,7 +81,7 @@ script 4 mmbn5 {
 		down = 2
 	space
 		count = 1
-	"It's the buffet!\n"
+	"É o buffet!\n"
 	option
 		brackets = 0
 		left = 2
@@ -90,7 +90,7 @@ script 4 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"It's the mirror!"
+	"É o espelho!"
 	select
 		default = 0
 		BSeparate = false
@@ -113,9 +113,9 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This table's rigged
-	somehow! No
-	question!
+	Fizeram algum tipo de
+	modificação nessa mesa!
+	Certeza!
 	"""
 	keyWait
 		any = false
@@ -126,14 +126,14 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I checked the table
-	all over but there's
-	nothing unusual⋯
+	Eu revirei a mesa por
+	todos os ângulos, mas não
+	tem nada de anormal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So in that case⋯"
+	"Então, acho que..."
 	keyWait
 		any = false
 	end
@@ -147,9 +147,8 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The buffet's rigged
-	somehow! No
-	question!
+	Armaram alguma coisa
+	no buffet! Certeza!
 	"""
 	keyWait
 		any = false
@@ -159,19 +158,19 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Munch,munch⋯ Burp!"
+	"Nhac, Chomp... Ãrp!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mmm⋯ Tasty! But
-	there's nothing
-	unusual there⋯
+	Mmm... Delícia!
+	Só não tinha nada
+	de anormal aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"So in that case⋯"
+	"Então, creio que..."
 	keyWait
 		any = false
 	end
@@ -183,9 +182,9 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's the mirror! The
-	mirror's rigged
-	somehow!
+	É o espelho!
+	Fizeram alguma coisa
+	com o espelho!!
 	"""
 	keyWait
 		any = false
@@ -195,11 +194,11 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"The mirror⋯?"
+	"O espelho...?"
 	keyWait
 		any = false
 	clearMsg
-	"How?"
+	"Como?"
 	keyWait
 		any = false
 	clearMsg
@@ -210,11 +209,11 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"The mirror⋯?"
+	"O espelho...?"
 	keyWait
 		any = false
 	clearMsg
-	"How?"
+	"Como?"
 	keyWait
 		any = false
 	clearMsg
@@ -225,7 +224,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well⋯ It's⋯"
+	"Bom... O lance é..."
 	keyWait
 		any = false
 	end
@@ -255,7 +254,7 @@ script 13 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" A magic mirror!\n"
+	" O espelho é mágico!\n"
 	option
 		brackets = 0
 		left = 1
@@ -264,7 +263,7 @@ script 13 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" The reflection!\n"
+	" O reflexo!\n"
 	option
 		brackets = 0
 		left = 2
@@ -273,7 +272,7 @@ script 13 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" When you break it⋯"
+	" Sabe, se quebrar..."
 	select
 		default = 0
 		BSeparate = false
@@ -295,16 +294,17 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Watch! This is a
-	magic mirror!
-	⋯Or maybe not.
+	Olha só!
+	O espelho é... MÁGICO!
+	... Ou talvez não.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er⋯ Um⋯
-	I-In that case,it's⋯
+	Er... Hm...
+	N-nesse caso,
+	o lance é...
 	"""
 	keyWait
 		any = false
@@ -319,24 +319,25 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	When you break this
-	mirror⋯ Nah,I guess
-	I better not.
+	Ao quebrar esse espe...
+	Não, melhor não.
+	Não quero esse azar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And anyway,it hasn't
-	been broken by
-	anyone⋯
+	E, de qualquer jeito,
+	não é como se alguém
+	tivesse quebrado ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Er⋯ Um⋯
-	I-In that case,it's⋯
+	Er... Hm...
+	N-nesse caso,
+	o lance é...
 	"""
 	keyWait
 		any = false
@@ -349,16 +350,16 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Mirrors reflect
-	things,correct?
+	Os espelhos refletem
+	as coisas, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So when this mirror
-	reflects light,it
-	goes like this⋯
+	Então, quando este
+	espelho reflete luz,
+	fica assim...
 	"""
 	keyWait
 		any = false
@@ -369,38 +370,40 @@ script 17 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Navis travel over
-	infrared rays when
-	you jack in⋯
+	Navis viajam através
+	de raios infravermelhos
+	quando nos conectamos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it! Using a
-	mirror to reflect
-	the rays,
+	É claro! Utilizando
+	um espelho para
+	refletir os raios,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you could jack in
-	even from a way off!
+	daria para o Navi
+	se conectar, mesmo
+	à distância!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if we work back
-	from the ViewComp,
+	Então, se seguirmos os
+	espelhos a partir do
+	CPU Visualização,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can figure out
-	where the thief is!
+	podemos descobrir
+	onde o ladrão está!
 	"""
 	keyWait
 		any = false
@@ -413,38 +416,40 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Navis travel over
-	infrared rays when
-	you jack in⋯
+	Navis viajam através
+	de raios infravermelhos
+	quando nos conectamos...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's it! Using a
-	mirror to reflect
-	the rays,
+	É claro! Utilizando
+	um espelho para
+	refletir os raios,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you could jack in
-	even from a way off!
+	daria para o Navi
+	se conectar, mesmo
+	à distância!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So if we work back
-	from the ViewComp,
+	Então, se seguirmos os
+	espelhos a partir do
+	CPU Visualização,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can figure out
-	where the thief is!
+	podemos descobrir
+	onde o ladrão está!
 	"""
 	keyWait
 		any = false
@@ -456,16 +461,15 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"E-Exactly!"
+	"P-pois é!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 1
 	"""
-	(I-I hadn't quite
-	figured it out that
-	far yet⋯)
+	(E-eu não tinha pensado
+	tão longe ainda...)
 	"""
 	keyWait
 		any = false
@@ -473,9 +477,9 @@ script 19 mmbn5 {
 	mugshotAnimation
 		animation = 2
 	"""
-	So we'll trace the
-	light path back and
-	hunt out the thief!
+	Então, bora seguir o
+	trajeto da luz de ré
+	até chegar no ladrão!
 	"""
 	keyWait
 		any = false
@@ -492,7 +496,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"It's the buffet!\n"
+	"É o buffet!\n"
 	option
 		brackets = 0
 		left = 1
@@ -501,7 +505,7 @@ script 20 mmbn5 {
 		down = 2
 	space
 		count = 1
-	"It's the mirror!"
+	"É o espelho!"
 	select
 		default = 1
 		BSeparate = false
@@ -525,7 +529,7 @@ script 21 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"It's the table!\n"
+	"É a mesa!\n"
 	option
 		brackets = 0
 		left = 1
@@ -534,7 +538,7 @@ script 21 mmbn5 {
 		down = 2
 	space
 		count = 1
-	"It's the mirror!"
+	"É o espelho!"
 	select
 		default = 1
 		BSeparate = false
@@ -551,16 +555,16 @@ script 22 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	It's the reflection!
-	When you break it⋯
+	É o reflexo!
+	Sabe, se quebrar...
 	"""
 }
 script 23 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	It's a magic mirror!
-	It's the reflection!
+	O espelho é mágico!
+	É o reflexo!
 	"""
 }
 script 24 mmbn5s {
@@ -588,7 +592,7 @@ script 26 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"It's the table!\n"
+	"É a mesa!\n"
 	option
 		brackets = 0
 		left = 1
@@ -597,7 +601,7 @@ script 26 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"It's the mirror!"
+	"É o espelho!"
 	select
 		default = 0
 		BSeparate = false
@@ -625,7 +629,7 @@ script 27 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"It's the buffet!\n"
+	"É o buffet!\n"
 	option
 		brackets = 0
 		left = 1
@@ -634,7 +638,7 @@ script 27 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"It's the mirror!"
+	"É o espelho!"
 	select
 		default = 0
 		BSeparate = false
@@ -664,7 +668,7 @@ script 28 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"It's the mirror!"
+	"É o espelho!"
 	select
 		default = 0
 		BSeparate = false
@@ -691,7 +695,7 @@ script 29 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"The reflection!\n"
+	"O reflexo!\n"
 	option
 		brackets = 0
 		left = 1
@@ -700,7 +704,7 @@ script 29 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"When you break it⋯"
+	"Sabe, se quebrar..."
 	select
 		default = 0
 		BSeparate = false
@@ -727,7 +731,7 @@ script 30 mmbn5 {
 		down = 1
 	space
 		count = 1
-	"A magic mirror!\n"
+	"O espelho é mágico!\n"
 	option
 		brackets = 0
 		left = 1
@@ -736,7 +740,7 @@ script 30 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"The reflection!"
+	"O reflexo!"
 	select
 		default = 0
 		BSeparate = false
@@ -759,7 +763,7 @@ script 31 mmbn5 {
 		down = 0
 	space
 		count = 1
-	"The reflection!\n"
+	"O reflexo!\n"
 	select
 		default = 0
 		BSeparate = false

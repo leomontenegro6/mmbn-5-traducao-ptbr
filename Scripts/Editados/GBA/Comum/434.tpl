@@ -10,40 +10,40 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Tesla⋯"
+	"Tesla..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Tesla
-	"Lan. Go."
+	"Lan. Vá."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MagnetMan just
-	did what he had
-	to do!
+	O MagnetMan só fez o
+	que ele tinha que fazer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no time
-	for crying now!
+	Não temos tempo pra
+	ficar chorando!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Tesla⋯"
+	"Tesla..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll go. I'll go
-	take Regal out!
+	Tá, eu vou lá.
+	Hora de acabar com o
+	Regal!
 	"""
 	keyWait
 		any = false
@@ -51,8 +51,8 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	"""
-	Make him pay
-	for MagnetMan!
+	Faz ele pagar pelo que
+	fez com o MagnetMan!
 	"""
 	keyWait
 		any = false
@@ -63,8 +63,8 @@ script 31 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	It's all up to you
-	now.
+	Agora, está tudo nas
+	suas mãos.
 	"""
 	keyWait
 		any = false
@@ -80,41 +80,41 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Pride⋯"
+	"Pride..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Pride
 	"""
-	Don't worry.
-	KnightMan just
-	fulfilled his duty.
+	Não se preocupe.
+	O KnightMan meramente
+	cumpriu com seu dever.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now it's your
-	turn to fulfill
-	yours.
+	E, agora, é a sua vez
+	de cumprir com o seu.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Good luck."
+	"Boa sorte."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Pride⋯"
+	"Pride..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't worry! I'll
-	fulfill my duty!
+	Pode deixar!
+	Eu vou cumprir com o
+	meu dever, sim!
 	"""
 	keyWait
 		any = false
@@ -125,8 +125,7 @@ script 33 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	It's all up to you
-	now.
+	Agora, só cabe a você.
 	"""
 	keyWait
 		any = false
@@ -137,19 +136,18 @@ script 34 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	This place is
-	pretty crazy⋯
+	Este lugar é tão doido...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're not scared,"
+	"Mas você não tá com\nmedo, tá?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	are you? Let's go!
-	Let's do this!
+	Vamos lá!
+	Hora de agir!
 	"""
 	keyWait
 		any = false
@@ -159,7 +157,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Let's go!"
+	"Vamos!"
 	keyWait
 		any = false
 	end
@@ -172,8 +170,8 @@ script 36 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Tesla
-	is OK⋯
+	Tomara que a Tesla teja
+	bem...
 	"""
 	keyWait
 		any = false
@@ -184,8 +182,8 @@ script 37 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I hope Pride
-	is OK⋯
+	Tomara que a Pride teja
+	bem...
 	"""
 	keyWait
 		any = false
@@ -196,15 +194,16 @@ script 38 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	So this is the
-	DarkChip factory!
+	Então, esta que é a
+	fábrica dos Chips das
+	Trevas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to trash
-	the entire place!
+	Eu quero é levar este
+	lugar inteiro abaixo!
 	"""
 	keyWait
 		any = false
@@ -215,15 +214,16 @@ script 39 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	So this is the
-	DarkChip factory!
+	Então, esta que é a
+	fábrica dos Chips das
+	Trevas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to wreck
-	the whole place!
+	Que vontade de quebrar
+	o lugar todo!
 	"""
 	keyWait
 		any = false
@@ -234,13 +234,13 @@ script 40 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	You're not scared,
-	are you?
+	Você não está com medo,
+	está?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Let's move!"
+	"Vamos seguir!"
 	keyWait
 		any = false
 	end
@@ -249,13 +249,13 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Let's get moving!"
+	"Vamos andando!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This factory needs
-	to be destroyed!
+	Esta fábrica tem que
+	ser destruída, é!
 	"""
 	keyWait
 		any = false
@@ -270,8 +270,8 @@ script 42 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	It's all up to you,
-	Lan! Let's go!
+	Agora é com você, Lan!
+	Vamos!
 	"""
 	keyWait
 		any = false
@@ -285,13 +285,13 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Pride
 	msgOpen
-	"Let's do it,Lan!"
+	"Vamos lá, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	KnightMan is
-	ready,too!
+	O KnightMan também está
+	pronto!
 	"""
 	keyWait
 		any = false
@@ -306,9 +306,9 @@ script 44 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Let's get rid of
-	the barrier
-	and get moving!
+	Bora acabar com essa
+	barreira e seguir em
+	frente!
 	"""
 	keyWait
 		any = false
@@ -323,9 +323,9 @@ script 45 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	This time it's up
-	to you and Pride.
-	I'm up next.
+	Desta vez, é com você
+	e com a Pride.
+	Depois, sou eu.
 	"""
 	keyWait
 		any = false
@@ -340,8 +340,8 @@ script 46 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	Careful. Anything
-	might happen.
+	Cuidado.
+	Tudo pode acontecer.
 	"""
 	keyWait
 		any = false
@@ -356,8 +356,7 @@ script 47 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Be careful,Lan,
-	huh?
+	Cuidado, Lan. É!
 	"""
 	keyWait
 		any = false
@@ -367,12 +366,12 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Lan,let's move!"
+	"Lan, bora lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm fighting for
+	Eu vou lutar pelo
 	MagnetMan!
 	"""
 	keyWait
@@ -383,14 +382,14 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"Lan,let's move!"
+	"Lan, vamos lá!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll destroy Regal
-	in revenge for what
-	he did to KnightMan!
+	Vou acabar com o Regal
+	e me vingar pelo que ele
+	fez com o KnightMan!
 	"""
 	keyWait
 		any = false
@@ -401,9 +400,9 @@ script 52 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	We'd better get
-	moving now. No
-	time to waste.
+	É melhor avançarmos
+	logo. Não há tempo a
+	perder.
 	"""
 	keyWait
 		any = false
@@ -414,15 +413,15 @@ script 53 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	KnightMan's hard
-	work has inspired
+	A dedicação do
+	KnightMan me inspirou, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	me! I'll put my life
-	on the line too!
+	Eu também vou arriscar
+	o pescoço aqui!
 	"""
 	keyWait
 		any = false
@@ -437,15 +436,14 @@ script 55 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Man! Charlie did
-	all the fun work!
+	Pô! O Charlie ficou com
+	toda a diversão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to fight,
-	too!
+	Eu também quero lutar!
 	"""
 	keyWait
 		any = false
@@ -460,8 +458,9 @@ script 56 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	When's my turn? I
-	want to be next!
+	Quando que vai ser a
+	minha vez? Eu quero ser
+	o próximo!
 	"""
 	keyWait
 		any = false
@@ -476,9 +475,9 @@ script 57 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	We don't have much
-	time left. We'd
-	better get going.
+	Não nos resta muito
+	tempo. É melhor
+	prosseguirmos logo.
 	"""
 	keyWait
 		any = false
@@ -494,7 +493,7 @@ script 58 mmbn5 {
 	msgOpen
 	"""
 	Lan!
-	Let's do it,huh!
+	Vamos nessa, é!
 	"""
 	keyWait
 		any = false
@@ -504,13 +503,14 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"GyroMan is down!"
+	"O GyroMan foi abatido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hurry,Lan! I'll take
-	out Regal!
+	Rápido, Lan!
+	Eu quero dar uma surra
+	naquele Regal!
 	"""
 	keyWait
 		any = false
@@ -520,13 +520,14 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = Dingo
 	msgOpen
-	"ShadowMan is down!"
+	"O ShadowMan foi abatido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula! You won't
-	get away with this!
+	Nebula...!
+	Vocês não vão se safar
+	dessa!
 	"""
 	keyWait
 		any = false
@@ -537,14 +538,14 @@ script 62 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	There's no time
-	to cry. You have to
-	fight for MagnetMan
+	Não há tempo para luto.
+	Você precisa continuar
+	lutando,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"and GyroMan!"
+	"pelo MagnetMan e pelo\nGyroMan também!"
 	keyWait
 		any = false
 	end
@@ -553,13 +554,13 @@ script 63 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"ShadowMan is down!"
+	"O ShadowMan se foi!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now I'm worried
-	about NumberMan⋯
+	Agora eu tô preocupado
+	com o NumberMan...
 	"""
 	keyWait
 		any = false

@@ -5,17 +5,16 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We restored the
-	network that leads
-	to SciLab Area
+	A gente restaurou
+	a rede que leva pra
+	Área SciLab,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we couldn't make
-	it to the occupied
-	area.
+	mas não deu pra gente
+	chegar na área ocupada.
 	"""
 	keyWait
 		any = false
@@ -27,14 +26,14 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah."
+	"Pois é."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess we'll just
-	have to see how
-	things develop.
+	Acho que a gente vai
+	ter que esperar pra
+	ver no que vai dar.
 	"""
 	keyWait
 		any = false
@@ -47,17 +46,16 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I just can't stand
-	knowing that our
-	enemies⋯
+	Eu não suporto saber
+	que os nossos inimigos
+	tão perto assim,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are right around the
-	corner but we're not
-	able to act!
+	mas que a gente
+	não pode fazer nada!
 	"""
 	keyWait
 		any = false
@@ -70,8 +68,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I know what you
-	mean.
+	Entendo o que
+	quer dizer.
 	"""
 	keyWait
 		any = false
@@ -81,7 +79,7 @@ script 4 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*bee-bee-beep!*"
+	"Bi-Bi-Biip!"
 	wait
 		frames = 42
 	end
@@ -91,44 +89,63 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've got mail!
-	It's from Tesla.
-	I'll read it!
+	Lan, chegou e-mail!
+	É da Tesla.
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,\n I'm afraid I'm in a\n bit of trouble."
-	keyWait
-		any = false
-	clearMsg
-	" A helicopter Navi\n came and challenged\n me to a battle,"
-	keyWait
-		any = false
-	clearMsg
-	" saying he wanted\n to test my\n abilities."
-	keyWait
-		any = false
-	clearMsg
-	" But he stole some\n vital MagnetMan\n programs!"
-	keyWait
-		any = false
-	clearMsg
-	" Please come to the\n drill in the\n OldMine!\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
-	keyWait
-		any = false
-	clearMsg
-	"A helicopter Navi?"
+	"""
+	"Lan, acho que estou
+	com problemas.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's the Navi we
-	met in SquirrelCmp!
+	Um Navi helicóptero
+	apareceu e me desafiou
+	pra uma luta,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	dizendo que queria
+	testar as minhas
+	habilidades...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas o que ele fez foi
+	roubar programas vitais
+	pro MagnetMan!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por favor, vem aqui pra
+	broca na Velha Mina!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Fim do e-mail."
+	keyWait
+		any = false
+	clearMsg
+	"Um Navi helicóptero?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	É aquele Navi com
+	quem a gente lutou
+	no CPU Esquilo!
 	"""
 	keyWait
 		any = false
@@ -141,31 +158,31 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	First us,then Tesla?
-	Just what is he up
-	to?
+	Primeiro, a gente,
+	e, agora, a Tesla?
+	O que é que ele quer?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At any rate,we've
-	got to help
+	Enfim, a gente tem
+	que ir ajudar o
 	MagnetMan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	She said they were
-	at the drill,right?
+	Ela disse que eles
+	tavam na broca, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's head for Oran
-	Isle!
+	Bora rápido
+	pra Ilha Oran!
 	"""
 	keyWait
 		any = false
@@ -176,52 +193,76 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,you've got mail!
-	It's from Pride.
-	I'll read it!
+	Lan, chegou e-mail!
+	É da Pride.
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Lan,I was mining\n MagnoMetal on Oran\n Isle,"
-	keyWait
-		any = false
-	clearMsg
-	" when a ninja Navi\n challenged me to a\n battle,"
-	keyWait
-		any = false
-	clearMsg
-	" saying he wanted\n to test my\n abilities."
-	keyWait
-		any = false
-	clearMsg
-	" And in the blink of\n an eye,"
-	keyWait
-		any = false
-	clearMsg
-	" he stole some\n vital KnightMan\n programs."
-	keyWait
-		any = false
-	clearMsg
-	" KnightMan is\n immobilized without\n those programs!"
-	keyWait
-		any = false
-	clearMsg
-	" Please,lend us your\n help!\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
-	keyWait
-		any = false
-	clearMsg
-	"A ninja Navi?"
+	"""
+	"Lan, eu estava
+	minerando MagnoMetais
+	na Área Oran
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That must be
-	ShadowMan!
+	quando um Navi ninja
+	me desafiou para uma
+	luta,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	dizendo que queria
+	testar minhas
+	habilidades.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E, em um piscar de
+	olhos,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	ele roubou certos
+	programas vitais
+	para o KnightMan.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O KnightMan
+	está completamente
+	imobilizado sem eles!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Por favor, ajude-nos!"
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Fim do e-mail."
+	keyWait
+		any = false
+	clearMsg
+	"Um Navi ninja?"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Deve ser o ShadowMan!
 	"""
 	keyWait
 		any = false
@@ -234,32 +275,32 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	First us,then Pride
-	and KnightMan?
-	What's he up to?
+	Primeiro, a gente, e,
+	agora, a Pride e o
+	KnightMan? Por quê?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	At any rate,we've
-	got to help
-	KnightMan.
+	Enfim, a gente tem
+	que ir ajudar o
+	KnightMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mining MagnoMetal⋯
-	That must mean the
-	drill!
+	Minerando MagnoMetal...
+	Então, eles devem tá
+	na broca!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's head for Oran
-	Isle!
+	Bora rápido
+	pra Ilha Oran!
 	"""
 	keyWait
 		any = false

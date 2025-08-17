@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Let's do it!
-	Liberate panels!
+	Vamos lá!
+	Liberar quadros!
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,7 @@ script 1 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	All right!
-	I liberated it!
+	Boa! Liberei!
 	"""
 	keyWait
 		any = false
@@ -29,8 +28,8 @@ script 2 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Way to go!
-	1 turn liberation!
+	Mandou bem!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
@@ -41,8 +40,8 @@ script 3 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Oh,no!
-	Liberation failed!
+	Essa não!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -52,7 +51,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"A BonusPanel!"
+	"Um Quadro Bônus!"
 	keyWait
 		any = false
 	end
@@ -61,7 +60,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"TwinLiberation!"
+	"Liberação Dupla!"
 	keyWait
 		any = false
 	end
@@ -71,8 +70,8 @@ script 6 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Yes! TwinLiberation
-	succeeded!
+	Isso! Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -83,15 +82,15 @@ script 7 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Way to go!
-	1 turn liberation!
+	Mandou bem!
+	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TwinLiberation
-	succeeded!
+	Liberação Dupla
+	bem-sucedida!
 	"""
 	keyWait
 		any = false
@@ -102,8 +101,8 @@ script 8 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	All set for
-	TwinLiberation!
+	Tudo pronto pra
+	Liberação Dupla!
 	"""
 	keyWait
 		any = false
@@ -114,8 +113,8 @@ script 15 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Bomb here
-	and liberate?
+	Bombardear aqui
+	pra liberar?
 	
 	"""
 	positionOptionHorizontal
@@ -128,7 +127,7 @@ script 15 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -137,7 +136,7 @@ script 15 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -155,9 +154,9 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Hey,GyroMan!
-	We're using Order
-	Points!
+	Ei, GyroMan!
+	Vamos usar
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -166,8 +165,8 @@ script 16 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Here we go!
-	Bombing liberation!
+	Vamos nessa!
+	Bombardeio de Liberação!
 	"""
 	keyWait
 		any = false
@@ -177,7 +176,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Recover HP?\n"
+	"Restaurar PV?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -188,7 +187,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -197,7 +196,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -214,7 +213,7 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"End now?\n"
+	"Encerrar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -225,7 +224,7 @@ script 61 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -234,7 +233,7 @@ script 61 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -252,8 +251,7 @@ script 70 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I found
-	a heart!
+	Achei um coração!
 	"""
 	keyWait
 		any = false
@@ -263,8 +261,8 @@ script 70 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	GyroMan got:
-	"Heart"!!
+	GyroMan adquiriu:
+	"Coração"!!
 	"""
 	keyWait
 		any = false
@@ -276,13 +274,13 @@ script 70 mmbn5 {
 	checkLiberationNaviHPFull
 		jumpIfFull = 78
 		jumpIfNotFull = continue
-	"GyroMan recovers\n"
+	"GyroMan restaurou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" HP!!"
+	" PV!!"
 	keyWait
 		any = false
 	end
@@ -292,8 +290,8 @@ script 72 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I found
-	Order Points!
+	Encontrei
+	Pontos de Comando!
 	"""
 	keyWait
 		any = false
@@ -303,8 +301,8 @@ script 72 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	GyroMan got:
-	"Order Points"!!
+	GyroMan adquiriu:
+	"Pontos de Comando"!!
 	"""
 	keyWait
 		any = false
@@ -318,7 +316,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nOrder Pts recovered!"
+	"\npontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -328,8 +326,7 @@ script 73 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I found some
-	Zennys!
+	Achei Zennys aqui!
 	"""
 	keyWait
 		any = false
@@ -339,7 +336,7 @@ script 73 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	GyroMan got:
+	GyroMan adquiriu:
 	"
 	"""
 	printBuffer
@@ -361,8 +358,8 @@ script 74 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I found
-	BugFrags!
+	Encontrei
+	FragBugs!
 	"""
 	keyWait
 		any = false
@@ -371,13 +368,13 @@ script 74 mmbn5 {
 	callLiberationNaviAnimate
 		animation = 1
 	callLiberationItemPanel
-	"GyroMan got:\n"
+	"GyroMan adquiriu:\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" BugFrags!!"
+	" FragBugs!!"
 	keyWait
 		any = false
 	flagSet
@@ -391,8 +388,8 @@ script 75 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	I found a
-	BattleChip!
+	Encontrei um
+	chip de batalha!
 	"""
 	keyWait
 		any = false
@@ -402,8 +399,8 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	GyroMan got a
-	BattleChip for:
+	GyroMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -424,8 +421,8 @@ script 75 mmbn5 {
 }
 script 78 mmbn5 {
 	"""
-	GyroMan's HP
-	recovered to max!
+	GyroMan	Os PV de foram
+	restaurados ao máximo!
 	"""
 	keyWait
 		any = false
@@ -434,8 +431,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	You unlocked the
-	BarrierPanel
+	Você desbloqueou o
+	Quadro Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -456,13 +453,13 @@ script 80 mmbn5 {
 		any = false
 	clearMsg
 	mugshotHide
-	"GyroMan received\n"
+	"GyroMan levou\n"
 	printBuffer
 		buffer = 1
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" damage!"
+	" de dano!"
 	keyWait
 		any = false
 	clearMsg
@@ -488,8 +485,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	GyroMan
-	has been paralyzed!
+	GyroMan foi
+	paralisado!
 	"""
 	keyWait
 		any = false
@@ -499,14 +496,14 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	GyroMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -516,14 +513,14 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"I can move now."
+	"Já posso me mover."
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	GyroMan
-	has recovered!
+	se recuperou!
 	"""
 	keyWait
 		any = false
@@ -540,7 +537,7 @@ script 87 mmbn5 {
 	mugshotHide
 	"""
 	GyroMan
-	became paralyzed!
+	foi paralisado!
 	"""
 	keyWait
 		any = false
@@ -551,17 +548,16 @@ script 90 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Nngh! I-I can't
-	m-move⋯
+	Nngh! N-não consigo
+	me mover...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	GyroMan
-	has been
-	frozen!
+	GyroMan foi
+	congelado!
 	"""
 	keyWait
 		any = false
@@ -572,8 +568,9 @@ script 91 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Team down! We need
-	to retreat!
+	A equipe foi abatida!
+	Temos que bater em
+	retirada!
 	"""
 	keyWait
 		any = false
@@ -583,7 +580,7 @@ script 92 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Retreat?\n"
+	"Recuar?\n"
 	positionOptionHorizontal
 		width = 7
 	option
@@ -594,7 +591,7 @@ script 92 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -603,7 +600,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 1
 		BSeparate = false
@@ -618,8 +615,8 @@ script 92 mmbn5 {
 }
 script 93 mmbn5 {
 	"""
-	Retreat!
-	Retreat now!
+	Retirada!
+	Retirada!
 	"""
 	keyWait
 		any = false
@@ -630,8 +627,8 @@ script 105 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	We took him down!
-	That was great!
+	A gente acabou com ele!
+	Arrasamos!
 	"""
 	keyWait
 		any = false

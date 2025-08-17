@@ -45,8 +45,8 @@ script 62 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We have to stop
-	the drill! Hurry!
+	A gente tem que parar
+	a broca! Rápido!
 	"""
 	keyWait
 		any = false
@@ -69,8 +69,8 @@ script 66 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's
-	go save them!
+	MegaMan! Vamos
+	salvar o pessoal!
 	"""
 	keyWait
 		any = false
@@ -81,8 +81,8 @@ script 70 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nothing unusual
-	in the drill.
+	Nada de anormal na
+	broca.
 	"""
 	keyWait
 		any = false

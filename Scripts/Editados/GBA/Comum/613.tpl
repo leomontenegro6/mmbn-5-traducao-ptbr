@@ -9,16 +9,16 @@ script 0 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard Mr. & Mrs.
-	Hikari had twins!
-	The kids' names
+	Ouvi dizer que os
+	Hikari tiveram gêmeos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	were Hub and Lan,
-	I think.
+	Dois meninos. Os nomes
+	deles são Hub e Lan,
+	se eu não me engano.
 	"""
 	keyWait
 		any = false
@@ -31,16 +31,16 @@ script 1 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard Mr. & Mrs.
-	Hikari had twins!
-	The kids' names
+	Ouvi dizer que os
+	Hikari tiveram gêmeos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	were Hub and Lan,
-	I think.
+	Dois meninos. Os nomes
+	deles são Hub e Lan,
+	se eu não me engano.
 	"""
 	keyWait
 		any = false
@@ -55,16 +55,16 @@ script 2 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I heard some
-	CEO is building
-	a house here.
+	Parece que um CEO de
+	empresa vai construir
+	uma casa por aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet it'll be a
-	big one⋯!
+	Aposto que vai ser
+	o maior casarão...!
 	"""
 	keyWait
 		any = false
@@ -77,16 +77,16 @@ script 3 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I heard some
-	CEO is building
-	a house here.
+	Parece que um CEO de
+	empresa vai construir
+	uma casa por aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet it'll be a
-	big one⋯!
+	Aposto que vai ser
+	o maior casarão...!
 	"""
 	keyWait
 		any = false
@@ -101,25 +101,25 @@ script 4 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I heard this place
-	will become a
-	beautiful park.
+	Me disseram que esta
+	área vai virar um
+	parque bem bonitinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're asking
-	people to create
-	a mascot.
+	Estão até pedindo aos
+	moradores pra criarem
+	um mascote pra ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds like they'll
-	build a statue from
-	the best design.
+	E parece que a melhor
+	ideia vai virar uma
+	estátua!
 	"""
 	keyWait
 		any = false
@@ -132,25 +132,25 @@ script 5 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I heard this place
-	will become a
-	beautiful park.
+	Me disseram que esta
+	área vai virar um
+	parque bem bonitinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're asking
-	people to create
-	a mascot.
+	Estão até pedindo aos
+	moradores pra criarem
+	um mascote pra ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds like they'll
-	build a statue from
-	the best design.
+	E parece que a melhor
+	ideia vai virar uma
+	estátua!
 	"""
 	keyWait
 		any = false
@@ -165,8 +165,8 @@ script 6 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I hope my squirrel
-	design will win!
+	Tomara que o meu
+	mascote esquilo ganhe!
 	"""
 	keyWait
 		any = false
@@ -179,8 +179,8 @@ script 7 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I hope my squirrel
-	design will win!
+	Tomara que o meu
+	mascote esquilo ganhe!
 	"""
 	keyWait
 		any = false
@@ -195,22 +195,22 @@ script 8 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I'm going with
-	Mr.Sakurai to
-	Netopia on business.
+	Vou viajar pra Ameropa
+	com o Sr. Sakurai a
+	negócios.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And his wife is
-	expecting a baby
-	next month!
+	A mulher dele tá
+	grávida, e o bebê deve
+	nascer mês que vem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Talk about busy!"
+	"Homem ocupado, ele!"
 	keyWait
 		any = false
 	flagSet
@@ -222,22 +222,22 @@ script 9 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I'm going with
-	Mr.Sakurai to
-	Netopia on business.
+	Vou viajar pra Ameropa
+	com o Sr. Sakurai a
+	negócios.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And his wife is
-	expecting a baby
-	next month!
+	A mulher dele tá
+	grávida, e o bebê deve
+	nascer mês que vem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Talk about busy!"
+	"Homem ocupado, ele!"
 	keyWait
 		any = false
 	end
@@ -253,82 +253,81 @@ script 10 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hey,a dog!"
+	"Olha, é um cachorro!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"This must be Gow⋯"
+	"Deve ser o Gáu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess he's been
-	living in the
-	doghouse out back.
+	Acho que ele ficava na
+	casinha do quintal, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gee,what an ugly-
-	looking dog⋯
+	Mas, credo,
+	que cachorro feio...
 	"""
 	keyWait
 		any = false
@@ -338,34 +337,34 @@ script 10 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Did he understand!?"
+	"Ele me entendeu?!"
 	keyWait
 		any = false
 	flagSet
@@ -379,56 +378,56 @@ script 11 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	"\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	end
@@ -442,8 +441,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We aren't done
-	investigating yet,
+	A gente ainda não
+	terminou de investigar,
 	MegaMan!
 	"""
 	keyWait
@@ -455,9 +454,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where are you going,
-	MegaMan? Let's
-	go get Nebula!
+	Aonde é que cê vai,
+	MegaMan? Bora dar
+	uma lição na Nebula!
 	"""
 	keyWait
 		any = false
@@ -467,19 +466,19 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ah! It's YOU!"
+	"Ah! É VOCÊ!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dr.Regal will reward
-	me for destroying
-	you!
+	O Dr. Regal vai me dar
+	uma recompensa das boas
+	por te destruir!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"PREPARE TO DIE!"
+	"PREPARA PRA MORRER!"
 	keyWait
 		any = false
 	flagSet
@@ -493,15 +492,16 @@ script 16 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Who are you?!
-	MegaMan⋯? No!
+	Quem é você?!
+	MegaMan...? Não!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's sworn
-	enemy? Take this!
+	O inimigo jurado da
+	Nebula?!
+	Toma essa!!
 	"""
 	keyWait
 		any = false
@@ -520,13 +520,13 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Deleting you means
-	a promotion for me!
+	Te deletar vai me
+	garantir uma promoção!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're mine now!"
+	"Tu já éra!"
 	keyWait
 		any = false
 	flagSet
@@ -539,15 +539,15 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Aiieee! P-Please"
+	"Aaaahhh! P-por favor..."
 	keyWait
 		any = false
 	clearMsg
-	"l-l-let me live!"
+	"p-p-poupe a minha vida!"
 	keyWait
 		any = false
 	clearMsg
-	"Just kidding! YAAH!"
+	"É zoeira! IÁÁÁ!"
 	keyWait
 		any = false
 	flagSet
@@ -565,13 +565,13 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	How nice of you
-	to drop by.
+	Que gentileza a sua,
+	aparecer aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now you're mine!"
+	"Agora, cê vai sumir!"
 	keyWait
 		any = false
 	flagSet
@@ -589,13 +589,13 @@ script 20 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Thanks for coming
-	to me first!
+	Obrigado pela honra de
+	me deixar te deletar!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Gyaahh!"
+	"Aiiiááááá!"
 	keyWait
 		any = false
 	flagSet

@@ -22,16 +22,16 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OUR BEAUTIFUL ARMOR
-	AND HELMETS ARE VERY
-	POPULAR OVERSEAS.
+	OS NOSSOS LINDOS ELMOS
+	E ARMADURAS SÃO MUITO
+	POPULARES NO EXTERIOR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M JUST BEAMING
-	WITH PRIDE!
+	EU TENHO TANTO
+	ORGULHO!
 	"""
 	keyWait
 		any = false
@@ -42,16 +42,15 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I WANT TO BREAK THAT
-	ARMOR TO PIECES!
+	EU QUERO REDUZIR A
+	ARMADURA A PEDACINHOS!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHAT'S THE POINT IN
-	TAKING CARE OF THIS
-	KIND OF JUNK?!
+	DE QUE ADIANTA CUIDAR
+	DESSE TIPO DE LIXO?!
 	"""
 	keyWait
 		any = false
@@ -62,17 +61,16 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT WAS LIKE THE
-	HATRED WAS SEEPING
-	IN FROM THE OUTSIDE⋯
+	FOI COMO SE O ÓDIO
+	SE INFILTRASSE DE
+	FORA...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARMOR WON'T HELP
-	PROTECT YOU FROM
-	SOMETHING LIKE THIS.
+	NEM ARMADURA PROTEGE
+	DE UMA COISA DESSAS.
 	"""
 	keyWait
 		any = false

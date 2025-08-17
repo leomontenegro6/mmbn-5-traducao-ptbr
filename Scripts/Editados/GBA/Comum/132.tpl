@@ -3,9 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	These giant dice are
-	part of Higsby's
-	interior design.
+	Esses dados gigantes
+	são parte da decoração
+	da Loja do Higsby.
 	"""
 	keyWait
 		any = false
@@ -14,16 +14,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A giant die is
-	on the floor.
+	Um dado gigante no
+	chão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who knows what it's
-	for but it suits
-	the place well.
+	Sabe-se lá para o que
+	serve, mas combina
+	com o lugar.
 	"""
 	keyWait
 		any = false
@@ -32,16 +32,17 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A Free Space,one of
-	Higsby's features.
+	Um Espaço Livre,
+	área popular na Loja
+	do Higsby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's often used for
-	chip trading and
-	NetBattles.
+	É usada com frequência
+	para a troca de chips
+	e NetLutas.
 	"""
 	keyWait
 		any = false
@@ -53,16 +54,16 @@ script 3 mmbn5 {
 		jumpIfTeamColonel = 16
 	msgOpen
 	"""
-	A poster of famous
-	NetBattler Chaud's
-	NetNavi,ProtoMan.
+	Pôster do NetNavi do
+	famoso Eugene Chaud,
+	ProtoMan.EXE.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ProtoMan is
-	MegaMan's rival.
+	O ProtoMan é rival
+	do MegaMan.
 	"""
 	keyWait
 		any = false
@@ -71,13 +72,14 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A MegaMan poster was
-	recently hung here.
+	Penduraram um
+	pôster do MegaMan
+	aqui um tempo atrás.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Lan feels awkward."
+	"Lan sente vergonha."
 	keyWait
 		any = false
 	end
@@ -85,13 +87,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Ads for the latest
-	products.
+	Anúncios para os
+	mais novos produtos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"BattleChip Gate\n on sale now!!!\""
+	"""
+	"Chip Gate,
+	já à venda!!!
+	"""
 	keyWait
 		any = false
 	end
@@ -99,14 +104,18 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A showcase featuring
-	chips and Higsby's
-	reviews of them.
+	Vitrine exibindo chips
+	mais a avaliação do
+	Higsby deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"A user-friendly,\n must-have item!!!\""
+	"""
+	"Um produto fácil de
+	usar e essencial!!!
+	É!"
+	"""
 	keyWait
 		any = false
 	end
@@ -114,13 +123,16 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	Ads for the latest
-	products.
+	Anúncios para os
+	mais novos produtos.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"BattleChip Gate\n on sale now!!!\""
+	"""
+	"Chip Gate,
+	já à venda!!!
+	"""
 	keyWait
 		any = false
 	end
@@ -128,16 +140,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A large cutout of
-	NumberMan,
+	Um enorme recorte de
+	papelão do NumberMan,
+	o Navi do Higsby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's Navi.
-	A door to the next
-	room is behind it.
+	A porta para a outra
+	sala fica logo atrás
+	dele.
 	"""
 	keyWait
 		any = false
@@ -164,9 +177,9 @@ script 9 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A showcase packed
-	with chips that
-	Higsby recommends.
+	Uma vitrine cheia de
+	chips que o Higsby
+	recomenda.
 	"""
 	keyWait
 		any = false
@@ -188,16 +201,17 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	Advanced register
-	that can also manage
-	customer data.
+	Caixa registradora de
+	ponta, que administra
+	os dados dos clientes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's is always
-	getting new stuff.
+	O Higsby está sempre
+	incrementando a loja
+	com coisas novas.
 	"""
 	keyWait
 		any = false
@@ -224,9 +238,9 @@ script 12 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A showcase packed
-	with chips that
-	Higsby recommends.
+	Uma vitrine cheia de
+	chips que o Higsby
+	recomenda.
 	"""
 	keyWait
 		any = false
@@ -253,9 +267,9 @@ script 13 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A showcase packed
-	with chips that
-	Higsby recommends.
+	Uma vitrine cheia de
+	chips que o Higsby
+	recomenda.
 	"""
 	keyWait
 		any = false
@@ -271,9 +285,9 @@ script 15 mmbn5s {
 script 16 mmbn5 {
 	msgOpen
 	"""
-	Mayl's Navi Roll
-	is facing Lan with
-	a cute smile.
+	Roll, a Navi da Mayl,
+	olha para Lan com
+	um sorriso adorável.
 	"""
 	keyWait
 		any = false
@@ -293,8 +307,8 @@ script 20 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Enter a number in
-	the Number Trader?
+	Inserir número no
+	Troca-Números?
 	
 	"""
 	positionOptionHorizontal
@@ -307,7 +321,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -316,7 +330,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -335,8 +349,8 @@ script 21 mmbn5 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Really? Well,
-	please come again!
+	Tem certeza?
+	Bem, volte sempre!
 	"""
 	keyWait
 		any = false
@@ -347,7 +361,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpenQuick
-	"Enter lotto number.\n"
+	"Número de loteria?\n"
 	option
 		brackets = 1
 		left = 8
@@ -448,7 +462,7 @@ script 22 mmbn5 {
 		count = 1
 	"""
 	OK
-	(L/R:Cursor U/D:Num)
+	(E/D:Cursor C/B:Núm.)
 	"""
 	flagSet
 		flag = 4294
@@ -461,15 +475,15 @@ script 23 mmbn5 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Checking your lotto
-	number! *beep beep⋯*
+	Conferindo número de
+	loteria! Bip Bip...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Too bad! You lost.
-	Try again?
+	Que pena! Nada aqui.
+	Tentar de novo?
 	
 	"""
 	positionOptionHorizontal
@@ -482,7 +496,7 @@ script 23 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -491,7 +505,7 @@ script 23 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -510,16 +524,16 @@ script 24 mmbn5 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Checking your lotto
-	number! *beep beep⋯*
+	Conferindo número de
+	loteria! Bip Bip...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Check complete!
-	You have a winning
-	number!
+	Concluído!
+	O seu número é
+	premiado!
 	"""
 	keyWait
 		any = false
@@ -528,7 +542,7 @@ script 24 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 213
-	"Whir-whir⋯Clunk!"
+	"Ghr-ghrr... Tlonc!"
 	soundEnableTextSFX
 	keyWait
 		any = false
@@ -550,8 +564,8 @@ script 25 mmbn5 {
 		left = 226
 		top = 141
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -577,7 +591,7 @@ script 26 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -597,8 +611,8 @@ script 27 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got a
-	SubChip:
+	Lan adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -618,8 +632,8 @@ script 28 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got a
-	SubChip:
+	Lan adquiriu
+	um SubChip:
 	"
 	"""
 	printItem
@@ -635,16 +649,17 @@ script 28 mmbn5 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Oh! Looks like there
-	aren't any more.
+	Ah!
+	Parece que você não
+	tem espaço para mais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll mark that last
-	number as unused
-	then.
+	Vou marcar esse último
+	número como ainda não
+	utilizado, então.
 	"""
 	keyWait
 		any = false
@@ -657,8 +672,8 @@ script 29 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got a
-	NaviCust Program:
+	Lan adquiriu um
+	Programa do CustNavi:
 	"
 	"""
 	printNaviCustProgram
@@ -677,21 +692,21 @@ script 30 mmbn5 {
 		mugshot = NumberMan
 	msgOpenQuick
 	"""
-	Checking your lotto
-	number! *beep beep⋯*
+	Conferindo número de
+	loteria! Bip Bip...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Huh?
-	This number's been
-	entered already.
+	... Ué?
+	Esse número
+	já foi inserido.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Try again?\n"
+	"Tentar de novo?\n"
 	positionOptionHorizontal
 		width = 8
 	option
@@ -702,7 +717,7 @@ script 30 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -711,7 +726,7 @@ script 30 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -731,7 +746,7 @@ script 31 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -742,9 +757,9 @@ script 31 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin red program parts.
+	Permite usar "L" e "R"
+	para girar peças
+	vermelhas no CustNavi.
 	"""
 	playerFinish
 	playerResetScene
@@ -759,7 +774,7 @@ script 32 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -770,14 +785,10 @@ script 32 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin blue
+	Permite usar "L" e "R"
+	para girar peças
+	azuis no CustNavi.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"program parts."
 	playerFinish
 	playerResetScene
 	keyWait
@@ -791,7 +802,7 @@ script 33 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -802,14 +813,10 @@ script 33 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin green
+	Permite usar "L" e "R"
+	para girar peças verde
+	no CustNavi.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"program parts."
 	playerFinish
 	playerResetScene
 	keyWait
@@ -823,7 +830,7 @@ script 34 mmbn5 {
 	soundPlay
 		track = 115
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -834,14 +841,10 @@ script 34 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	In NaviCust you can
-	now use L/R Button
-	to spin white
+	Permite usar "L" e "R"
+	para girar peças
+	brancas no CustNavi.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"program parts."
 	playerFinish
 	playerResetScene
 	keyWait
@@ -895,7 +898,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Thank you!"
+	"Maravilha!"
 	keyWait
 		any = false
 	clearMsg
@@ -907,8 +910,8 @@ script 40 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -927,8 +930,8 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Use it well,
-	OK?
+	Use-o com sabedoria,
+	viu?
 	"""
 	keyWait
 		any = false
@@ -945,7 +948,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Thank you!"
+	"Maravilha!"
 	keyWait
 		any = false
 	clearMsg
@@ -957,8 +960,8 @@ script 41 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -977,8 +980,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Please come
-	again soon!
+	Volte sempre!
 	"""
 	keyWait
 		any = false
@@ -995,7 +997,7 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Thank you!"
+	"Maravilha!"
 	keyWait
 		any = false
 	clearMsg
@@ -1007,8 +1009,8 @@ script 42 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -1027,8 +1029,9 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Thanks for shopping
-	at Higsby's!
+	Muito obrigada por
+	comprar na Loja do
+	Higsby!
 	"""
 	keyWait
 		any = false
@@ -1045,7 +1048,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Thank you,huh!"
+	"Obrigado, é!"
 	keyWait
 		any = false
 	clearMsg
@@ -1057,8 +1060,8 @@ script 43 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got a
-	BattleChip:
+	Lan adquiriu um
+	chip:
 	"
 	"""
 	printChip
@@ -1077,9 +1080,9 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	⋯Oh,I think I
-	should've kept
-	that one,huh.
+	... Ai, acho que eu
+	não devia ter vendido
+	esse, é.
 	"""
 	keyWait
 		any = false
@@ -1090,9 +1093,9 @@ script 44 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	You need more money.
-	Come again after
-	you've saved up!
+	Você não tem dinheiro
+	suficiente. Economize
+	mais, aí, volte aqui!
 	"""
 	keyWait
 		any = false
@@ -1101,9 +1104,9 @@ script 44 mmbn5 {
 script 45 mmbn5 {
 	msgOpen
 	"""
-	A showcase packed
-	with chips that
-	Higsby recommends.
+	Uma vitrine cheia de
+	chips que o Higsby
+	recomenda.
 	"""
 	keyWait
 		any = false
@@ -1112,42 +1115,50 @@ script 45 mmbn5 {
 script 46 mmbn5 {
 	msgOpen
 	"""
-	Special products are
-	featured here.
+	Aqui ficam expostos
+	os produtos especiais.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Stock sales slogans
-	are everywhere.
+	Há slogans clichê de
+	vendas por toda a
+	parte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	textSpeed
 		delay = 0
-	"\"First come,first\n served!\""
+	"""
+	"Desconto exclusivo!"
+	"""
 	keyWait
 		any = false
 	clearMsg
 	wait
 		frames = 50
 	clearMsg
-	"\"The time is now!\""
+	"""
+	"Na minha mão é mais
+	barato!"
+	"""
 	wait
 		frames = 50
 	clearMsg
-	"\"It's now or never!\""
+	"""
+	"Mulher bonita paga
+	fiado!"
+	"""
 	wait
 		frames = 50
 	clearMsg
 	textSpeed
 		delay = 2
 	"""
-	They are intended
-	to induce customer
-	spending.
+	São formas de encorajar
+	os fregueses a gastar.
 	"""
 	keyWait
 		any = false
@@ -1158,9 +1169,8 @@ script 47 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow!
-	That's a "BblWrap"
-	BattleChip!
+	Caramba!
+	É um chip "BblWrap"!
 	"""
 	keyWait
 		any = false
@@ -1169,21 +1179,20 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	It just came
-	in the other
-	day.
+	Chegou não faz nem
+	uma semana.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's on sale now
-	for 4200 Zennys.
+	Tá em promoção agora,
+	por 4200 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Would you like one?"
+	"Vai levar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1198,7 +1207,7 @@ script 47 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -1207,7 +1216,7 @@ script 47 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1221,7 +1230,7 @@ script 47 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Maid
-	"Please come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -1231,15 +1240,15 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	I don't see any
-	good chips⋯
+	Não tô vendo nenhum
+	chip que preste...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,wait!
-	Is that a⋯?!
+	Ah, pera aí!
+	Esse é um...?!
 	"""
 	keyWait
 		any = false
@@ -1248,16 +1257,17 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Yep! It's a Solar
-	Boy "Django" chip!
+	Aham! Um chip de
+	"Django", o Garoto
+	Solar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a popular one
-	and sells out fast.
-	It's 7300 Zennys.
+	Ele é bem popular e
+	esgota super rápido.
+	Custa 7300 Zennys.
 	"""
 	keyWait
 		any = false
@@ -1273,7 +1283,7 @@ script 48 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -1282,7 +1292,7 @@ script 48 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1297,8 +1307,7 @@ script 48 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Please come
-	again!
+	Volte sempre!
 	"""
 	keyWait
 		any = false
@@ -1309,9 +1318,8 @@ script 49 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't see any
-	chips that really
-	appeal to me⋯
+	Nenhum chip que me
+	pareça interessante...
 	"""
 	keyWait
 		any = false
@@ -1320,22 +1328,22 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	How about this one?
-	It's Higsby's
-	special "NumbrBl."
+	Que tal este aqui?
+	É um especial do
+	Higsby, o "NumbrBl."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's specially
-	priced at 9500
-	Zennys.
+	Tá com um precinho
+	especial agora,
+	só 9500 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Would you like one?"
+	"Gostaria de levar?"
 	keyWait
 		any = false
 	clearMsg
@@ -1350,7 +1358,7 @@ script 49 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -1359,7 +1367,7 @@ script 49 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1374,8 +1382,8 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Come again if you
-	change your mind!
+	Caso mude de ideia,
+	volte quando quiser!
 	"""
 	keyWait
 		any = false
@@ -1386,9 +1394,9 @@ script 50 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Huh? I've never seen
-	this chip before.
-	What is it?
+	Ué? Eu nunca vi esse
+	chip antes.
+	O que ele é?
 	"""
 	keyWait
 		any = false
@@ -1397,22 +1405,21 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	That's a "ResetBom."
-	It took me forever
-	to find one,huh!
+	É uma "ResetBom."
+	Eu penei bastante
+	pra achar uma!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you really want
-	it,it's yours for
-	500 Zennys,huh.
+	Se quiser, faço ela
+	por só 500 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How about it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -1427,7 +1434,7 @@ script 50 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -1436,7 +1443,7 @@ script 50 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -1451,8 +1458,8 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	⋯I see. Well,
-	please come again.
+	... Entendo.
+	Bom, volte sempre.
 	"""
 	keyWait
 		any = false
@@ -1467,8 +1474,8 @@ script 60 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	How about Higsby's
-	bargain bin?
+	Quer conferir a seção
+	de ofertas do Higsby?
 	
 	"""
 	positionOptionHorizontal
@@ -1481,7 +1488,7 @@ script 60 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -1490,7 +1497,7 @@ script 60 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -1506,7 +1513,7 @@ script 60 mmbn5 {
 }
 script 61 mmbn5 {
 	clearMsg
-	"Please come again!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -1516,9 +1523,8 @@ script 62 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Sorry,but the
-	bargain bin's all
-	sold out.
+	Desculpa, mas a seção
+	de ofertas tá esgotada.
 	"""
 	keyWait
 		any = false
@@ -1528,18 +1534,18 @@ script 63 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	msgOpen
-	"Whadda YOU want?!"
+	"Qué que cê quer,\nHEIN?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's nothin'
-	here for you!
+	Num tem nada aqui
+	pra tu, não, guri!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Now buzz off!"
+	"Vaza!"
 	keyWait
 		any = false
 	end

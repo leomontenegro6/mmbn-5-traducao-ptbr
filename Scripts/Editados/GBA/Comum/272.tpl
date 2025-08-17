@@ -8,13 +8,14 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"My head!"
+	"Ai, minha cabeça!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It hurts suddenly⋯!
-	What's going on?
+	Ela inventou de doer
+	de repente...
+	O que tá acontecendo?
 	"""
 	keyWait
 		any = false
@@ -24,22 +25,22 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Sob⋯ sob⋯!"
+	"Chuif... Snif...!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula! You took
-	Yuichiro from me!
+	Nebula! Você tirou o
+	Yuichiro de mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How could you?"
+	"Como pôde?"
 	keyWait
 		any = false
 	clearMsg
-	"Sob⋯ sob!"
+	"Chuif... Arhh!"
 	keyWait
 		any = false
 	end
@@ -59,15 +60,14 @@ script 5 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	What⋯was I
-	doing⋯?
+	O que... eu estava
+	fazendo...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't remember
-	anything⋯
+	Não me lembro de nada...
 	"""
 	keyWait
 		any = false
@@ -78,15 +78,15 @@ script 10 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Lan,something
-	strange is going on!
+	Lan, tem alguma coisa
+	estranha acontecendo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't want you
-	staying out long!
+	Não quero você ficando
+	na rua até tarde!
 	"""
 	keyWait
 		any = false
@@ -97,16 +97,15 @@ script 15 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	You really remind
-	me of your father
-	and grandfather.
+	Você me lembra tanto
+	o seu pai e o seu avô.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But don't push
-	yourself,OK?
+	Só não faça nenhuma
+	loucura, tá bom?
 	"""
 	keyWait
 		any = false
@@ -127,35 +126,35 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"I'm leaving,Mom!"
+	"Tô indo, mãe!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
 	"""
-	Lan⋯ take care
-	of your father⋯
+	Lan...
+	Cuida do seu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!"
+	"Deixa comigo!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I promise I'll
-	bring him back!
+	Eu juro que vou trazer
+	ele de volta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"⋯OK."
+	"... Sim."
 	keyWait
 		any = false
 	end
@@ -164,7 +163,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Come home soon⋯"
+	"Volte logo..."
 	keyWait
 		any = false
 	end
@@ -174,8 +173,8 @@ script 32 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's say
-	bye to Mom!
+	Lan, vamos dar tchau
+	pra mamãe!
 	"""
 	keyWait
 		any = false
@@ -186,16 +185,16 @@ script 35 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I promise I'll
-	watch over the
-	house.
+	Eu prometo cuidar da
+	casa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm waiting here
-	for you two⋯
+	Estarei bem aqui,
+	esperando por vocês
+	dois...
 	"""
 	keyWait
 		any = false

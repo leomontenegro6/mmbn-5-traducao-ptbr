@@ -74,9 +74,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to Squirrel
-	Cmp and show'em
-	what we're made of!
+	Bora pro CPU do Esquilo
+	mostrar do que a
+	gente é capaz!
 	"""
 	keyWait
 		any = false
@@ -87,8 +87,8 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's
-	go to Oran Area!
+	MegaMan! Bora lá
+	pra Área Oran!
 	"""
 	keyWait
 		any = false
@@ -99,8 +99,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Go
-	back to Oran Area!
+	MegaMan!
+	Volta pra Área Oran!
 	"""
 	keyWait
 		any = false
@@ -111,9 +111,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to Oran
-	Area3! We must
-	fix the Net!
+	Vamos lá pra Área
+	Oran 3! A gente tem
+	que consertar a Rede!
 	"""
 	keyWait
 		any = false
@@ -124,8 +124,8 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go check
-	SciLab3!
+	Vamos lá conferir
+	SciLab 3!
 	"""
 	keyWait
 		any = false
@@ -136,9 +136,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's call it a day!
-	We'll jack out after
-	this round.
+	Bora encerrar por hoje.
+	Depois desta volta,
+	a gente desconecta.
 	"""
 	keyWait
 		any = false
@@ -152,8 +152,8 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	I'm worried about
+	Desconecta, MegaMan!
+	Eu tô preocupado com a
 	Tesla!
 	"""
 	keyWait
@@ -165,8 +165,8 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	I'm worried about
+	Desconecta, MegaMan!
+	Eu tô preocupado com a
 	Pride!
 	"""
 	keyWait
@@ -181,8 +181,9 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	Oran Isle for Tesla!
+	Bora voltar pra Ilha
+	Oran e ver como tá a
+	Tesla!
 	"""
 	keyWait
 		any = false
@@ -193,8 +194,9 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	Oran Isle for Pride!
+	Bora voltar pra Ilha
+	Oran e ver como tá a
+	Pride!
 	"""
 	keyWait
 		any = false
@@ -205,9 +207,9 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out,MegaMan!
-	Let's go to SciLab
-	MissionCtrl!
+	Desconecta, MegaMan!
+	Bora lá pro Controle
+	de Missão!
 	"""
 	keyWait
 		any = false
@@ -242,8 +244,8 @@ script 25 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's go
-	to Oran Area!
+	MegaMan! Bora lá
+	pra Área Oran!
 	"""
 	keyWait
 		any = false
@@ -257,8 +259,8 @@ script 26 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's
-	find GyroMan!
+	MegaMan! Bora achar
+	o GyroMan!
 	"""
 	keyWait
 		any = false
@@ -269,8 +271,8 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Let's
-	find ShadowMan!
+	MegaMan! Bora achar
+	o ShadowMan!
 	"""
 	keyWait
 		any = false
@@ -281,9 +283,8 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	dark cloud in
-	SciLab2!
+	Bora ver a nuvem
+	preta em SciLab 2!
 	"""
 	keyWait
 		any = false
@@ -294,9 +295,9 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Where are you going,
-	MegaMan? We have
-	to go to SciLab3!
+	Aonde é que cê vai,
+	MegaMan? A gente tem
+	que ir pra SciLab 3!
 	"""
 	keyWait
 		any = false
@@ -334,9 +335,9 @@ script 53 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'll get to
-	End Area via
-	Oran Area2!
+	A gente tem que ir
+	pra Área Endo via
+	Área Oran 2!
 	"""
 	keyWait
 		any = false
@@ -347,17 +348,16 @@ script 55 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	SciLab controls
-	the door to Oran
-	Area2.
+	O SciLab controla a
+	porta pra Área Oran 2.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We might find
-	something
-	in SciLab Area.
+	Talvez a gente ache
+	alguma coisa na
+	Área SciLab.
 	"""
 	keyWait
 		any = false
@@ -372,9 +372,9 @@ script 57 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Unlock the door to
-	Oran Area2. We'll
-	head to End Area.
+	Destranque a porta para
+	a Área Oran 2. Iremos
+	para a Área Endo.
 	"""
 	keyWait
 		any = false
@@ -385,8 +385,9 @@ script 59 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	MissionCtrl now!
+	Bora voltar pro
+	Controle de Missão
+	agora!
 	"""
 	keyWait
 		any = false
@@ -397,8 +398,9 @@ script 61 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! Get the
-	Invite first!
+	Desconecta! Primeiro
+	a gente precisa do
+	Convite!
 	"""
 	keyWait
 		any = false
@@ -409,9 +411,9 @@ script 63 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe I'd better
-	jack out and get
-	some rest.
+	Acho que é melhor a
+	gente desconectar e
+	ir descansar.
 	"""
 	keyWait
 		any = false
@@ -425,8 +427,8 @@ script 67 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan! Let's go
-	to End Area!
+	ProtoMan!
+	Bora pra Área Endo!
 	"""
 	keyWait
 		any = false
@@ -437,8 +439,8 @@ script 68 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Colonel! Let's go
-	to End Area!
+	Colonel!
+	Bora pra Área Endo!
 	"""
 	keyWait
 		any = false
@@ -449,9 +451,9 @@ script 69 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's collect stamps
-	and learn about the
-	ship!
+	Bora coletar carimbos
+	e aprender mais sobre
+	o navio!
 	"""
 	keyWait
 		any = false
@@ -477,7 +479,7 @@ script 70 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Go to the port!"
+	"Vamos pro porto!"
 	keyWait
 		any = false
 	end
@@ -487,8 +489,8 @@ script 72 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out or we'll
-	miss the ship!
+	Desconecta, ou a gente
+	vai perder o navio!
 	"""
 	keyWait
 		any = false
@@ -499,9 +501,9 @@ script 74 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's walk around
-	and check out the
-	inside of the ship!
+	Bora dar uma volta
+	e conferir o interior
+	do navio!
 	"""
 	keyWait
 		any = false
@@ -524,9 +526,9 @@ script 76 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We got the stamps
-	we needed. Now,get
-	back to the crew!
+	Temos os carimbos de
+	que precisamos. Agora,
+	fale com o organizador!
 	"""
 	keyWait
 		any = false
@@ -537,8 +539,8 @@ script 78 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to the
-	Engine Room!
+	Bora pra Sala das
+	Máquinas!
 	"""
 	keyWait
 		any = false
@@ -581,8 +583,9 @@ script 80 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! Go to
-	the Engine Room!
+	Desconecta! A gente
+	tem que ir na Sala
+	das Máquinas!
 	"""
 	keyWait
 		any = false
@@ -593,8 +596,9 @@ script 82 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go to the Engine
-	Room to fix the bug!
+	Vamos pra Sala das
+	Máquinas! Temos que
+	consertar o bug!
 	"""
 	keyWait
 		any = false
@@ -605,8 +609,9 @@ script 86 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! Back to
-	the Engine Room!
+	Desconecta! Vamos
+	voltar pra Sala das
+	Máquinas!
 	"""
 	keyWait
 		any = false
@@ -622,8 +627,8 @@ script 88 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Go to the
-	Fiesta Room!
+	Vamos para o
+	Salão Fiesta!
 	"""
 	keyWait
 		any = false
@@ -634,9 +639,9 @@ script 89 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! We'll
-	check out the
-	Fiesta Room!
+	Desconecta!
+	Vamos conferir o
+	Salão Fiesta!
 	"""
 	keyWait
 		any = false
@@ -647,9 +652,9 @@ script 90 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! We'll
-	find the trick
-	in the Fiesta Room!
+	Desconecta! Vamos
+	tentar descobrir o
+	truque do Salão Fiesta!
 	"""
 	keyWait
 		any = false
@@ -660,8 +665,7 @@ script 92 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go after
-	the bad guy!
+	Bora atrás do bandido!
 	"""
 	keyWait
 		any = false
@@ -672,8 +676,8 @@ script 94 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! We'll go
-	after the bad guy!
+	Desconecta!
+	Vamos atrás do bandido!
 	"""
 	keyWait
 		any = false
@@ -684,9 +688,9 @@ script 96 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	No time to play
-	around here!
-	Go to the Bridge!
+	Não é hora de ficar
+	brincando aqui!
+	Vamos pra Ponte!
 	"""
 	keyWait
 		any = false
@@ -697,8 +701,8 @@ script 98 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's jack in
-	on the Bridge!
+	Vamos nos conectar
+	na Ponte!
 	"""
 	keyWait
 		any = false
@@ -712,7 +716,7 @@ script 105 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Head to End Area1!"
+	"Vai pra Área Endo 1!"
 	keyWait
 		any = false
 	end
@@ -721,7 +725,7 @@ script 107 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Head to End Area2!"
+	"Vai pra Área Endo 2!"
 	keyWait
 		any = false
 	end

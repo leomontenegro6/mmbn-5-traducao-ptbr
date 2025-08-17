@@ -3,16 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A controller for a
-	gigantic drill.
+	Painel de controle de
+	uma broca gigante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a
-	maintenance port
-	for jacking in.
+	Possui uma entrada
+	de conexão para
+	manutenção.
 	"""
 	keyWait
 		any = false
@@ -21,16 +21,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Control box for
-	entering data to
-	operate the drill.
+	Caixa de controle, para
+	inserir dados para
+	operar a broca.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a port for
-	jacking in.
+	Possui uma entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
@@ -39,16 +39,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The depth under-
-	ground is displayed
-	on the screen.
+	A tela exibe uma
+	medição da profundeza
+	subterrânea.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It should be
-	possible to jack in.
+	Deve ser possível
+	se conectar nela.
 	"""
 	keyWait
 		any = false
@@ -57,22 +57,22 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	The control box is
-	in bad shape.
+	A caixa de controle
+	está em péssimo estado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The screen flickers
-	now and then.
+	A tela mostra estática
+	de vez em quando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It should be
-	possible to jack in.
+	Mas deve ser possível
+	se conectar nela.
 	"""
 	keyWait
 		any = false
@@ -81,15 +81,15 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A door with an
-	electronic lock.
+	Uma porta com uma
+	tranca eletrônica.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's of very
-	sturdy construction.
+	De constituição bem
+	rígida.
 	"""
 	keyWait
 		any = false
@@ -98,16 +98,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A control panel for
-	the locked door.
+	Painel de controle
+	para a porta trancada.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a rather old
-	model but there's
-	a port to jack in.
+	É um modelo bem antigo,
+	mas possui entrada de
+	conexão.
 	"""
 	keyWait
 		any = false

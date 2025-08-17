@@ -17,8 +17,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Nothing unusual
-	in the main system.
+	Nada de anormal
+	no sistema central.
 	"""
 	keyWait
 		any = false

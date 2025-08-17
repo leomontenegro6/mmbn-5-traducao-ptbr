@@ -3,8 +3,9 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	A security door that
-	looks hard to open.
+	Uma porta de segurança
+	que parece difícil de
+	abrir.
 	"""
 	keyWait
 		any = false

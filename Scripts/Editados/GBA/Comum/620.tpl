@@ -5,15 +5,15 @@ script 0 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I mined lots of
-	coal today!
+	Eu minerei tanto
+	carvão hoje!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Oran Isle is
-	full of minerals!
+	A Ilha Oran é mesmo
+	cheia de minerais!
 	"""
 	keyWait
 		any = false
@@ -23,18 +23,18 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Yes! Yes! Yes!"
+	"Aê! Legaaal!!"
 	keyWait
 		any = false
 	clearMsg
-	"What a catch!"
+	"Que peixão,\nesse que eu peguei!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Man,am I glad I
-	made the trip from
-	Netopia!
+	Ah, que bom que eu
+	fiz essa viagem da
+	Ameropa pra cá!
 	"""
 	keyWait
 		any = false
@@ -45,17 +45,16 @@ script 4 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	I knew it! Oran
-	Isle is full of
-	MagnoMetal!
+	Eu sabia!
+	A Ilha Oran é cheia
+	de MagnoMetais!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've got to tell
-	Dr.Hikari right
-	away!
+	Preciso contar isso
+	pro Dr. Hikari, e já!
 	"""
 	keyWait
 		any = false
@@ -65,14 +64,14 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"It's hot in here!"
+	"Credo, como é quente\naqui!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Buying coal is
-	as hard as mining
-	it!
+	Comprar carvão dá
+	tanto trabalho quanto
+	minerar ele!
 	"""
 	keyWait
 		any = false
@@ -83,15 +82,16 @@ script 8 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Miners work up
-	huge appetites!
+	O pessoal da mina
+	fica morrendo de fome
+	depois do trabalho!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm always running
-	short of food!
+	A comida que eu trago
+	nunca é suficiente!
 	"""
 	keyWait
 		any = false
@@ -102,14 +102,13 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	My Dad works
-	way down deep
-	inside this mine!
+	O meu pai trabalha bem
+	lá no fundo dessa mina!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"He's so cool!"
+	"Ele é tão da hora!"
 	keyWait
 		any = false
 	end

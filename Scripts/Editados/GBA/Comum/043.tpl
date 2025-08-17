@@ -4,7 +4,7 @@ script 0 mmbn5s {
 	end
 }
 script 1 mmbn5s {
-	" BugFrag"
+	" FragBug"
 	end
 }
 script 5 mmbn5s {
@@ -25,19 +25,19 @@ script 6 mmbn5s {
 	end
 }
 script 7 mmbn5s {
-	"      HP+"
+	"      PV+"
 	end
 }
 script 8 mmbn5s {
-	"     HP+"
+	"     PV+"
 	end
 }
 script 9 mmbn5s {
-	"    HP+"
+	"    PV+"
 	end
 }
 script 10 mmbn5s {
-	"    HP MAX"
+	"    PV MÁX"
 	end
 }
 script 11 mmbn5 {
@@ -45,9 +45,9 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Surrounded!
-	Press L or R Button
-	to turn around!
+	Cercado! Aperte
+	"L" ou "R" para
+	me virar!
 	"""
 	keyWait
 		any = false
@@ -59,9 +59,9 @@ script 12 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Surrounded.
-	Press L or R Button
-	to turn around!
+	Cercado. Aperte
+	"L" ou "R" para
+	me virar.
 	"""
 	keyWait
 		any = false
@@ -73,9 +73,9 @@ script 13 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Surrounded?
-	Press L or R Button
-	to turn around!
+	Cercado? Aperte
+	"L" ou "R" para
+	me virar!
 	"""
 	keyWait
 		any = false
@@ -87,9 +87,9 @@ script 14 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Surrounded.
-	Press L or R Button
-	to turn around!
+	Cercado. Aperte
+	"L" ou "R" para
+	me virar!
 	"""
 	keyWait
 		any = false
@@ -101,9 +101,9 @@ script 15 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Hmph,surrounded?
-	Press L or R Button
-	to turn around!
+	Hmpf. Cercado?!
+	Aperte "L" ou "R"
+	para me virar!
 	"""
 	keyWait
 		any = false
@@ -115,9 +115,9 @@ script 16 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Surrounded.
-	Press L or R Button
-	to turn around!
+	Cercado. Aperte
+	"L" ou "R" para
+	me virar!
 	"""
 	keyWait
 		any = false
@@ -129,9 +129,9 @@ script 17 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	Hm,surrounded?
-	Press L or R Button
-	to turn around!
+	Hm, cercada? Aperte
+	"L" ou "R" para
+	me virar!
 	"""
 	keyWait
 		any = false
@@ -143,9 +143,9 @@ script 18 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Surrounded⋯?
-	Press L or R Button
-	to turn around!
+	Cercado...?
+	Aperte "L" ou "R"
+	para me virar!
 	"""
 	keyWait
 		any = false
@@ -157,9 +157,9 @@ script 19 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Surrounded⋯?
-	Turn around with L
-	or R Button.
+	Cercado...?
+	Aperte "L" ou "R"
+	para me virar.
 	"""
 	keyWait
 		any = false
@@ -171,9 +171,9 @@ script 20 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Surrounded!
-	Use L or R Button
-	to turn around!
+	Cercado!
+	Aperte "L" ou "R"
+	para me virar!
 	"""
 	keyWait
 		any = false
@@ -185,9 +185,9 @@ script 21 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Hmph! Surrounded?
-	Press L or R Button
-	to turn around!
+	Hmpf! Cercado?
+	Aperte "L" ou "R"
+	para me virar!
 	"""
 	keyWait
 		any = false
@@ -199,9 +199,9 @@ script 22 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Ah,surrounded?
-	Press L or R Button
-	to turn around.
+	Ah, cercado?
+	Aperte "L" ou "R"
+	para me virar!
 	"""
 	keyWait
 		any = false
@@ -213,9 +213,9 @@ script 23 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Surrounded!
-	Ribit! L or R Button
-	to turn around!
+	Cercado! Coaxa!
+	Aperte "L" ou "R"
+	para me virar!
 	"""
 	keyWait
 		any = false

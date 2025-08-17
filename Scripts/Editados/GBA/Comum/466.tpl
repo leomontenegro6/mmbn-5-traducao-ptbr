@@ -13,25 +13,25 @@ script 0 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I can't believe
-	Nebula attacked
-	SciLab Area itself⋯
+	Eu não acredito que
+	a Nebula atacou a
+	Área SciLab...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like they
-	succeeded in holding
-	the damage to a bare
+	Mas parece que
+	conseguimos minimizar
+	os estragos 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	minimum by blocking
-	the road from Oran
-	Area2 to End Area.
+	ao bloquear a rota
+	da Área Oran 2
+	à Área Endo.
 	"""
 	keyWait
 		any = false
@@ -48,74 +48,75 @@ script 1 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	What? You want me to
-	open the door to
-	Oran Area2?
+	Hã? Você quer que eu
+	abra a porta para a
+	Área Oran 2?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That door leads to
-	End Area.
+	Essa porta leva à
+	Área Endo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula's still
-	strong there⋯
+	A Nebula ainda está
+	bem forte lá...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You're pretty tough
-	yourself,but can
+	Sim, você é bem forte
+	também,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you fight all the
-	way through 
+	mas será que consegue
+	sobreviver ao que vem
+	pela frente
 	"""
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	".?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can defeat
-	all of the viruses
-	I release,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I'll give you a key
-	to open that door⋯
+	Se derrotar todos os
+	vírus que eu lançar
+	agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you fail,it
-	proves you are just
-	another Navi⋯
+	dou a você a chave
+	para abrir a porta...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you ready?"
+	"""
+	Mas, se você falhar, só
+	provará que não passa
+	de um Navi qualquer...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -130,7 +131,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -139,7 +140,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -150,12 +151,12 @@ script 1 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	If you lack the
-	confidence,you might
-	as well give up⋯
+	Se te falta confiança,
+	devia desistir logo...
 	"""
 	keyWait
 		any = false
@@ -165,11 +166,11 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	msgOpen
-	"OK,let's go!"
+	"Pois bem, vamos lá!"
 	keyWait
 		any = false
 	clearMsg
-	"Hah!!!"
+	"Ráá!!!"
 	keyWait
 		any = false
 	flagSet
@@ -183,53 +184,52 @@ script 3 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	You want to open the
-	door to Oran Area2?
+	Você quer abrir a porta
+	para a Área Oran 2?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Like I mentioned
-	before,I don't mind
-	giving you this key⋯
+	Como eu disse antes,
+	eu te daria a chave
+	de bom grado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First I need to make
-	sure you're strong
-	enough for this key.
+	Mas, primeiro, tenho que
+	confirmar que você é
+	forte o bastante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you can defeat
-	all of the viruses
-	I release,
+	Se vencer todos os vírus
+	que eu lançar agora,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your strength is
-	sufficient. Here,
-	take the key.
+	verei que sua força é
+	suficiente e te darei
+	a chave.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But if you fail,it
-	proves you are just
-	another Navi⋯
+	Mas, se você falhar, só
+	provará que não passa
+	de um Navi qualquer...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Are you ready?"
+	"Pronto?"
 	keyWait
 		any = false
 	clearMsg
@@ -244,7 +244,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -253,7 +253,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -264,12 +264,12 @@ script 3 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	If you're not sure,
-	then maybe you'd
-	better not⋯
+	Se te falta confiança,
+	devia desistir logo...
 	"""
 	keyWait
 		any = false
@@ -283,16 +283,14 @@ script 4 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I have no choice but
-	to recognize your
-	power⋯
+	Não tenho escolha senão
+	reconhecer a sua força...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,just like I
-	promised.
+	Tome, como prometido.
 	"""
 	keyWait
 		any = false
@@ -304,7 +302,7 @@ script 4 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	ProtoMan got:
+	ProtoMan adquiriu:
 	"
 	"""
 	printItem
@@ -319,9 +317,8 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	No matter how strong
-	you are,don't do
-	anything reckless!
+	Por mais forte que você
+	seja, não se descuide!
 	"""
 	keyWait
 		any = false
@@ -334,16 +331,15 @@ script 5 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	Nebula⋯
-	Terrifying people.
+	Nebula...
+	Um grupo aterrorizante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you value your
-	life,don't get too
-	involved.
+	Se dá valor à sua vida,
+	não se envolva demais.
 	"""
 	keyWait
 		any = false
@@ -354,16 +350,14 @@ script 6 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	I have no choice but
-	to recognize your
-	power⋯
+	Não tenho escolha senão
+	reconhecer a sua força...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here,just like I
-	promised.
+	Tome, como prometido.
 	"""
 	keyWait
 		any = false
@@ -375,7 +369,7 @@ script 6 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Colonel got:
+	Colonel adquiriu:
 	"
 	"""
 	printItem
@@ -390,9 +384,8 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = OfficialNavi
 	"""
-	No matter how strong
-	you are,don't do
-	anything reckless!
+	Por mais forte que você
+	seja, não se descuide!
 	"""
 	keyWait
 		any = false
@@ -409,18 +402,18 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME TO SCILAB4!"
+	"BEM-VINDO A SCILAB 4!"
 	keyWait
 		any = false
 	clearMsg
-	"WHEW⋯"
+	"UFF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I UNDERSTAND WORKING
-	HARD BUT THERE'S
-	A LIMIT,YOU KNOW⋯
+	EU SEI O VALOR DO
+	TRABALHO DURO, MAS
+	TUDO TEM LIMITE...
 	"""
 	keyWait
 		any = false
@@ -436,18 +429,18 @@ script 11 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	TIME TO PRACTICE OUR
-	GREETING BEFORE
-	THE NAVIS SHOW UP.
+	HORA DE TREINAR NOSSA
+	SAUDAÇÃO ANTES DOS
+	NAVIS CHEGAREM.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"OK! SPEAK LOUDLY!!!"
+	"OK! FALEM BEM ALTO!!!"
 	keyWait
 		any = false
 	clearMsg
-	"WELCOME TO SCILAB4!"
+	"BEM-VINDO A SCILAB4!"
 	keyWait
 		any = false
 	end
@@ -456,17 +449,17 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"WELCOME TO SCILAB4!"
+	"BEM-VINDO A SCILAB4!"
 	keyWait
 		any = false
 	clearMsg
-	"WHEW⋯"
+	"UFF..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I CAN'T SMILE ANY
-	HARDER THAN THIS⋯
+	ISTO É O MÁXIMO QUE
+	EU CONSIGO SORRIR...
 	"""
 	keyWait
 		any = false
@@ -477,23 +470,22 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OK,THE ORDINARY
-	NAVIS WILL BE HERE
-	ANY MINUTE!
+	OK, OS NAVIS COMUNS
+	CHEGARÃO A QUALQUER
+	MOMENTO!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	SMILE,NOW! GIVE IT
-	ALL YOU GOT!!!
+	SORRIA, GENTE!
+	COM TUDO O QUE TÊM!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WELCOME TO
-	SCILAB4!!!
+	BEM-VINDO A SCILAB 4!!
 	"""
 	keyWait
 		any = false

@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	LOOKS LIKE
-	THE REAL WORLD
-	IS IN AN UPROAR⋯
+	PARECE QUE O MUNDO
+	REAL ESTÁ EM
+	POLVOROSA...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"WHAT HAPPENED?"
+	"O QUE HOUVE?"
 	keyWait
 		any = false
 	end
@@ -21,26 +21,25 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"GRUMBLE,GRUMBLE."
+	"HRMP... HRMP..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯
-	END AREA1.
+	...
+	ÁREA ENDO 1.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'M NOT WASTING
-	ANY MORE BREATH
-	THAN THAT!
+	EU NÃO VOU GASTAR
+	MAIS SALIVA QUE ISSO!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"GRUMBLE,GRUMBLE."
+	"HRMP... HRMP..."
 	keyWait
 		any = false
 	end
@@ -50,17 +49,16 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	END AREA IS BACK
-	TO NORMAL.
-	BUT OTHER PLACES
+	A ÁREA ENDO VOLTOU
+	AO NORMAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARE STILL IN
-	A STATE OF
-	PANIC!
+	MAS OUTRAS ÁREAS
+	SEGUEM EM ESTADO
+	DE PÂNICO!
 	"""
 	keyWait
 		any = false
@@ -71,16 +69,15 @@ script 30 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE REAL WORLD
-	HAS BEEN TURNED
-	UPSIDE DOWN!
+	O MUNDO REAL ESTÁ DE
+	PERNAS PARA O AR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WHO COULD'VE
-	EXPECTED THAT?!
+	QUEM PODERIA TER
+	PREVISTO ISSO?!
 	"""
 	keyWait
 		any = false
@@ -91,16 +88,15 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EVERYBODY IS IN
-	A STATE OF TERROR.
+	TODOS ESTÃO EM UM
+	ESTADO DE TERROR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S ONLY NATURAL
-	CONSIDERING THE
-	CIRCUMSTANCES.
+	O QUE É NATURAL, DADAS
+	AS CIRCUNSTÂNCIAS.
 	"""
 	keyWait
 		any = false

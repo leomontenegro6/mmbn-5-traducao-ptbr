@@ -43,28 +43,29 @@ script 2 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hey,you. Wanna
-	buy a BattleChip?
+	Fala. Tá a fim de
+	comprar um chip?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll sell you this
-	extremely rare Dril-
-	Arm for 3000 Zennys.
+	Eu faço este DrilArm
+	ultra-raro aqui por
+	3000 Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll never see
-	one like this again.
+	Tu num vai achar outro
+	que nem ele em lugar
+	nenhum.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh heh heh⋯ Well?"
+	"He he he... E aí?"
 	keyWait
 		any = false
 	clearMsg
@@ -81,7 +82,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -90,7 +91,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -105,8 +106,8 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	*tsk!*
-	You wimp!
+	Tsc!
+	Amarelão!
 	"""
 	keyWait
 		any = false
@@ -116,19 +117,19 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"So,you do want it!"
+	"E aí, vai querer?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll sell you this
-	extremely rare Dril-
-	Arm for 3000 Zennys.
+	Te vendo este DrilArm
+	ultra-raro por 3000
+	Zennys.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You want it,right?"
+	"Tu quer, não quer?"
 	keyWait
 		any = false
 	clearMsg
@@ -143,7 +144,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -152,7 +153,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -167,9 +168,9 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	"""
-	Huh? Are you messin'
-	with me? Scram or
-	I'll slap you silly!
+	Ué? Tá sacaneando
+	comigo, é? Vaza daqui
+	ou eu te dou uma bica!
 	"""
 	keyWait
 		any = false
@@ -187,15 +188,14 @@ script 4 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Heh heh heh⋯
-	I knew it.
+	He he he...
+	Sabia.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Take it.
-	It's all yours now.
+	Toma. É todo seu.
 	"""
 	keyWait
 		any = false
@@ -224,8 +224,8 @@ script 4 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -243,7 +243,10 @@ script 4 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Heh,been a pleasure⋯"
+	"""
+	He, prazer fazer
+	negócio contigo...
+	"""
 	keyWait
 		any = false
 	end
@@ -253,15 +256,16 @@ script 5 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Hey,you don't have
-	enough dough.
+	Ô, tu não tem grana o
+	bastante.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Beat it! I ain't got
-	time for games!
+	Vaza daqui! Eu não
+	tenho tempo pra ficar
+	de brincadeira, não!
 	"""
 	keyWait
 		any = false
@@ -276,8 +280,8 @@ script 6 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	ProtoMan got a
-	BattleChip:
+	ProtoMan adquiriu
+	um chip:
 	"
 	"""
 	printChip
@@ -295,7 +299,10 @@ script 6 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Heh,been a pleasure⋯"
+	"""
+	He, prazer fazer
+	negócio contigo...
+	"""
 	keyWait
 		any = false
 	end
@@ -309,9 +316,8 @@ script 7 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Colonel got a
-	BattleChip:
-	"
+	Colonel adquiriu
+	um chip:
 	"""
 	printChip
 		buffer = 0
@@ -328,7 +334,10 @@ script 7 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = HeelNaviPurple
-	"Heh,been a pleasure⋯"
+	"""
+	He, prazer fazer
+	negócio contigo...
+	"""
 	keyWait
 		any = false
 	end
@@ -364,8 +373,8 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	No refunds if that's
-	what you want!
+	Não tem devolução
+	aqui, não, "rapá"!
 	"""
 	keyWait
 		any = false
@@ -376,9 +385,9 @@ script 11 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Get outta my face.
-	I ain't got time for
-	the likes of you!
+	Vaza logo daqui. Eu não
+	tenho tempo pra gente da
+	tua laia!
 	"""
 	keyWait
 		any = false
@@ -398,8 +407,8 @@ script 20 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -412,7 +421,7 @@ script 20 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -421,7 +430,7 @@ script 20 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -437,7 +446,7 @@ script 20 mmbn5 {
 }
 script 21 mmbn5 {
 	clearMsg
-	"Come again soon!"
+	"Volte sempre!"
 	keyWait
 		any = false
 	end
@@ -447,8 +456,8 @@ script 22 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -463,23 +472,23 @@ script 23 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I hope s-someone
-	gets r-rid of Nebula
-	soon.
+	Eu espero q-que alguém
+	se l-livre da Nebula
+	logo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't do business
-	like this.
+	Não posso trabalhar
+	deste jeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -492,7 +501,7 @@ script 23 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -501,7 +510,7 @@ script 23 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -518,8 +527,8 @@ script 23 mmbn5 {
 script 100 mmbn5 {
 	msgOpen
 	"""
-	It's battle image
-	data from NapalmMan.
+	São dados de registro
+	de luta do NapalmMan.
 	"""
 	keyWait
 		any = false
@@ -527,8 +536,8 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,are we gonna
-	challenge NapalmMan?
+	Lan, vamos desafiar
+	o NapalmMan?
 	"""
 	keyWait
 		any = false
@@ -544,7 +553,7 @@ script 100 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -553,7 +562,7 @@ script 100 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -568,8 +577,8 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger,let's
-	challenge him again!
+	Beleza!
+	Hora da revanche!
 	"""
 	keyWait
 		any = false
@@ -578,22 +587,23 @@ script 100 mmbn5 {
 script 101 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -604,15 +614,12 @@ script 101 mmbn5 {
 }
 script 102 mmbn5 {
 	mugshotShow
-		mugshot = MegaMan
-	msgOpen
-	"We did it!"
+	"Vencemos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice work,
-	Lan!
+	Mandou bem, Lan!
 	"""
 	keyWait
 		any = false
@@ -624,13 +631,10 @@ script 103 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dang it⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Let's try harder
-	next time,OK,Lan?!
+	Na próxima a gente se
+	empenha mais, tá bom,
+	Lan?!
 	"""
 	keyWait
 		any = false
@@ -646,9 +650,8 @@ script 104 mmbn5s {
 script 105 mmbn5 {
 	msgOpen
 	"""
-	It's battle image
-	data for
-	TomahawkMan.
+	São dados de registro
+	de luta do TomahawkMan.
 	"""
 	keyWait
 		any = false
@@ -656,9 +659,8 @@ script 105 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,are we gonna
-	challenge
-	TomahawkMan?
+	Lan, vamos desafiar
+	o TomahawkMan?
 	"""
 	keyWait
 		any = false
@@ -674,7 +676,7 @@ script 105 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -683,7 +685,7 @@ script 105 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -698,8 +700,8 @@ script 105 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Roger,let's
-	challenge him again!
+	Beleza!
+	Hora da revanche!
 	"""
 	keyWait
 		any = false
@@ -709,22 +711,23 @@ script 106 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Go for it,Lan!"
+	"Manda ver, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	flagSet
@@ -735,15 +738,12 @@ script 106 mmbn5 {
 }
 script 107 mmbn5 {
 	mugshotShow
-		mugshot = MegaMan
-	msgOpen
-	"We did it!"
+	"Vencemos!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nice work,
-	Lan!
+	Mandou bem, Lan!
 	"""
 	keyWait
 		any = false
@@ -755,13 +755,10 @@ script 108 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Dang it⋯"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Let's try harder
-	next time,OK,Lan?!
+	Na próxima a gente se
+	empenha mais, tá bom,
+	Lan?!
 	"""
 	keyWait
 		any = false

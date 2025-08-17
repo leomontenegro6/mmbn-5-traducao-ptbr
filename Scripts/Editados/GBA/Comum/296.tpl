@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	How to get the best
-	possible chips with
-	the least money⋯
+	Como conseguir os
+	melhores chips possíveis
+	gastando pouco...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Every NetBattle
-	starts here.
+	É aqui que toda
+	NetLuta começa.
 	"""
 	keyWait
 		any = false
@@ -25,9 +25,8 @@ script 10 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	There sure are a lot
-	of different types
-	of chips.
+	Há mesmo uma variedade
+	incrível de chips aqui.
 	"""
 	keyWait
 		any = false
@@ -38,16 +37,15 @@ script 25 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	I wonder what the
-	letters on chips
-	stand for.
+	O que será que são
+	essas letras nos chips?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I haven't
-	studied enough.
+	Acho que estou
+	precisando estudar mais.
 	"""
 	keyWait
 		any = false
@@ -58,9 +56,9 @@ script 30 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I'm gonna surprise
-	my hubby with a new
-	chip I saved up for.
+	Vou surpreender o
+	maridão com um chip que
+	economizei pra comprar.
 	"""
 	keyWait
 		any = false
@@ -71,16 +69,16 @@ script 35 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	I guess you have to
-	put lots of healing
-	chips in the folder.
+	É, é bom mesmo colocar
+	um monte de chips de
+	cura na pasta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once your HPs are
-	gone,it's over.
+	Quando os seus PV
+	esgotam, já era.
 	"""
 	keyWait
 		any = false
@@ -91,17 +89,16 @@ script 36 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	I think attack chips
-	are better than
-	healing chips.
+	Eu acho que chips de
+	ataque são melhores
+	que chips de cura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A good offense
-	is the best defense,
-	after all.
+	A melhor defesa é um
+	bom ataque, né?
 	"""
 	keyWait
 		any = false
@@ -112,9 +109,9 @@ script 37 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Why are the chips in
-	the showcase all so
-	expensive?
+	Por que todos os chips
+	na vitrine são tão
+	caros?
 	"""
 	keyWait
 		any = false
@@ -125,13 +122,13 @@ script 40 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	When did that door
-	open up?
+	Quando foi que abriram
+	aquela porta?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Weird⋯"
+	"Eu, hein..."
 	keyWait
 		any = false
 	end
@@ -157,101 +154,99 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Oh Lan,there you
-	are,huh.
+	Ah, Lan.
+	Aí está você, é.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Welcome to Higsby's!"
+	"Bem-vindo à Loja do\nHigsby!"
 	keyWait
 		any = false
 	clearMsg
-	"What's wrong,huh?"
+	"O que foi, é?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Actually"
+	"Na verdade"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
 	"""
-	You're looking for a
-	big space,huh?
+	Você tá atrás de um
+	espaço amplo, é?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I know a place,huh."
+	"Olha, eu conheço um\nlugar. É."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Of course you'll
-	have to help me out
-	with something.
+	Mas, claro, antes,
+	você vai ter que me
+	ajudar com uma coisa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you do that for
-	me,I'll let you use
-	the place,huh!
+	Se ajudar, eu te deixo
+	usar o espaço, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Help?"
+	"Ajudar?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
-	"Yep!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Everything is give
-	and take in this
-	world,huh.
+	Tudo no mundo é
+	toma lá, dá cá, é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whatever you want,
-	you'll need to pay
-	the price,huh.
+	Se você quer uma coisa,
+	tem que pagar o preço,
+	é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"All right."
+	"Beleza."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what do I have to
-	do?
+	E aí, o que eu tenho
+	que fazer?
 	"""
 	keyWait
 		any = false
@@ -259,25 +254,24 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	"""
-	Actually,NumberMan
-	was suddenly
-	attacked by viruses
+	Na verdade, o NumberMan
+	foi atacado de repente
+	por vírus enquanto
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	while delivering
-	products to End
-	Area3.
+	entregava produtos
+	na Área Endo 3.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He dropped a file
-	with customer
-	info in it,huh.
+	E ele deixou cair uma
+	ficha com informações
+	de clientes, é.
 	"""
 	keyWait
 		any = false
@@ -285,35 +279,35 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	No!
-	That's the worst
-	possible situation!
+	Putz!
+	Essa é a pior coisa
+	que podia rolar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
-	"Indeed,huh⋯"
+	"De fato, é..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If this gets out,it
-	will destroy my
-	shop's reputation.
+	Se isso vazar, vai
+	arruinar a reputação
+	da minha loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Please help me!!!"
+	"Por favor, me ajuda!!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Please go find that
-	DataFile NumberMan
-	dropped,huh!!!
+	Encontre a Ficha de
+	Dados que o NumberMan
+	deixou cair, é!!!
 	"""
 	keyWait
 		any = false
@@ -325,31 +319,30 @@ script 90 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I'll need a little
-	more information
-	than that.
+	Mas eu vou precisar
+	de mais informações.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	End Area3 is a
-	pretty big area to
-	search.
+	A Área Endo 3 é um
+	lugar grande demais
+	pra procurar sem norte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
-	"True⋯"
+	"Verdade..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He said they hit him
-	while he was looking
-	at something cool.
+	Ele disse que foi
+	atingido enquanto
+	olhava uma coisa legal.
 	"""
 	keyWait
 		any = false
@@ -357,22 +350,21 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Something really
-	cool⋯
+	Uma coisa legal...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go check it
-	out!
+	Tá, a gente vai
+	procurar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Higsby
-	"Thanks,huh."
+	"Obrigado, é."
 	keyWait
 		any = false
 	end
@@ -382,30 +374,30 @@ script 91 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	NumberMan was hit
-	by viruses while
-	looking at something
+	O NumberMan foi atacado
+	por vírus enquanto
+	estava olhando pra uma
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	really cool,and that
-	is when he dropped
-	the DataFile.
+	coisa bem legal, e
+	deixou cair a Ficha
+	de Dados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sorry,but I
-	don't have any more
-	detailed info,huh.
+	Desculpa, mas não
+	tenho mais informações
+	que isso, é.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Thanks,huh."
+	"Obrigado, é."
 	keyWait
 		any = false
 	end
@@ -415,17 +407,17 @@ script 92 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	WOOHOO!!!
-	This is it,huh!
-	Thanks,huh!
+	EEBAAAA!!!
+	É isto mesmo, é!
+	Obrigado, é!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You helped prevent
-	my worst scandal
-	ever,huh!
+	Você ajudou a prevenir
+	a pior catástrofe da
+	minha vida, é!
 	"""
 	keyWait
 		any = false
@@ -445,9 +437,8 @@ script 95 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	You look all shook
-	up,huh. What's
-	wrong?
+	Você parece abalado, é.
+	Algum problema?
 	"""
 	keyWait
 		any = false
@@ -462,15 +453,14 @@ script 96 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Everyone's counting
-	on you,Lan.
+	Tá todo mundo contando
+	com você, Lan.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I believe in you,
-	huh.
+	Eu tenho fé em você, é.
 	"""
 	keyWait
 		any = false
@@ -481,22 +471,22 @@ script 97 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Liberating the
-	Undernet⋯
+	Liberar a Undernet...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds pretty
-	dangerous,huh⋯
+	Parece bem perigoso,
+	é...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But NumberMan will
-	do his best,huh!
+	Mas o NumberMan vai
+	se empenhar com força
+	pra isso, é!
 	"""
 	keyWait
 		any = false

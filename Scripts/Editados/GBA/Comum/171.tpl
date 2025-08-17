@@ -13,15 +13,15 @@ script 0 mmbn5 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	This system stops
-	the rock conveyor
+	Esse sistema desliga
+	a esteira das pedras,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but it's missing key
-	prevents its use.
+	mas a chave que lhe
+	falta previne seu uso.
 	"""
 	keyWait
 		any = false
@@ -35,7 +35,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Stopping the drill!"
+	"Parando a broca!"
 	keyWait
 		any = false
 	clearMsg
@@ -43,9 +43,8 @@ script 1 mmbn5 {
 	soundPlay
 		track = 212
 	"""
-	MegaMan pressed
-	the control
-	switch!!!
+	MegaMan apertou o
+	botão de controle!!
 	"""
 	keyWait
 		any = false
@@ -53,8 +52,7 @@ script 1 mmbn5 {
 	soundPlay
 		track = 236
 	"""
-	The drill
-	slowed down!!!
+	A broca desacelerou!!
 	"""
 	keyWait
 		any = false
@@ -65,9 +63,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	The drill's control
-	system is running
-	normally right now.
+	O sistema de controle
+	da broca está operando
+	normalmente.
 	"""
 	keyWait
 		any = false
@@ -76,15 +74,15 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	This system stops
-	the rock conveyor.
+	Esse sistema desliga
+	a esteira das pedras.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use the
-	"StopKey"?
+	Usar a
+	"Chave de Parada"?
 	"""
 	keyWait
 		any = false
@@ -99,7 +97,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -108,7 +106,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -128,8 +126,8 @@ script 4 mmbn5 {
 	soundPlay
 		track = 212
 	"""
-	The rock conveyor
-	stopped!
+	A esteira das
+	pedras parou!
 	"""
 	keyWait
 		any = false
@@ -138,9 +136,9 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The rock conveyor
-	stopped thanks to
-	the StopKey.
+	A esteira das pedras
+	parou, graças à Chave
+	de Parada.
 	"""
 	keyWait
 		any = false

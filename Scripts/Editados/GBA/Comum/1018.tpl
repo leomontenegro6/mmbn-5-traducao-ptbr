@@ -7,36 +7,37 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Nice work,guys!"
+	"Bom trabalho, gente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to you,
-	the liberation has
-	been a success.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	However,we must
-	have ProtoMan if
+	Graças a vocês,
+	a liberação foi
+	um sucesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we even hope to
-	keep battling on.
-	Let's take a
+	Dito isso, a gente
+	precisa do ProtoMan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	break so we don't
-	over do it.
+	se a gente quiser ter
+	alguma chance de
+	continuar essa luta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vamos fazer uma pausa
+	pra não exagerarmos
+	na dose.
 	"""
 	keyWait
 		any = false
@@ -48,14 +49,14 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever you need
-	me,I'll be there
-	in a flash!
+	Quando precisar
+	de mim, eu apareço
+	rapidinho!
 	"""
 	keyWait
 		any = false
@@ -68,8 +69,8 @@ script 2 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I can't wait till
-	the next battle!!!
+	Mal posso esperar
+	pra próxima luta!!!
 	"""
 	keyWait
 		any = false
@@ -81,7 +82,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
@@ -93,8 +94,8 @@ script 4 mmbn5 {
 		mugshot = Meddy
 	msgOpen
 	"""
-	I'll give my 100%
-	the next time,too!
+	Eu vou dar 100% de mim
+	da próxima vez, também!
 	"""
 	keyWait
 		any = false
@@ -106,36 +107,37 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Nice work,guys!"
+	"Bom trabalho, gente!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks to you,
-	the liberation has
-	been a success.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	However,we must
-	have Colonel if
+	Graças a vocês,
+	a liberação foi
+	um sucesso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we even hope to
-	keep battling on.
-	Let's take a
+	Dito isso, a gente
+	precisa do ProtoMan
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	break so we don't
-	over do it.
+	se a gente quiser ter
+	alguma chance de
+	continuar essa luta.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vamos fazer uma pausa
+	pra não exagerarmos
+	na dose.
 	"""
 	keyWait
 		any = false
@@ -147,14 +149,14 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Whenever you need
-	me,I'll be there
-	in a flash!
+	Quando precisar
+	de mim, eu apareço
+	rapidinho!
 	"""
 	keyWait
 		any = false
@@ -166,7 +168,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"M-me,too!"
+	"E-eu também!"
 	keyWait
 		any = false
 	clearMsg
@@ -177,7 +179,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	clearMsg
@@ -189,9 +191,9 @@ script 9 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	There's no enemy
-	we can't defeat
-	together! *ribbit*
+	Não tem inimigo que
+	a gente não consiga
+	vencer juntos! Coaxo!
 	"""
 	keyWait
 		any = false
@@ -203,18 +205,18 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Right!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rest up for the
-	next battle,guys.
+	Descansem bem pra
+	próxima batalha, gente.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"See ya later!"
+	"Até a próxima!"
 	keyWait
 		any = false
 	end
@@ -224,8 +226,8 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's keep
-	going. Hurry!
+	Lan, vamos continuar
+	em frente. Depressa!
 	"""
 	keyWait
 		any = false

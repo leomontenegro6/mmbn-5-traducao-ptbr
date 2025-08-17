@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I heard Mr. & Mrs.
-	Hikari had twins!
-	The kids' names
+	Ouvi dizer que os
+	Hikari tiveram gêmeos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	were Hub and Lan,
-	I think.
+	Dois meninos. Os nomes
+	deles são Hub e Lan,
+	se eu não me engano.
 	"""
 	keyWait
 		any = false
@@ -25,16 +25,16 @@ script 2 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	I heard some
-	CEO is building
-	a house here.
+	Parece que um CEO de
+	empresa vai construir
+	uma casa por aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet it'll be a
-	big one⋯!
+	Aposto que vai ser
+	o maior casarão...!
 	"""
 	keyWait
 		any = false
@@ -45,25 +45,25 @@ script 4 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	I heard this place
-	will become a
-	beautiful park.
+	Me disseram que esta
+	área vai virar um
+	parque bem bonitinho.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're asking
-	people to create
-	a mascot.
+	Estão até pedindo aos
+	moradores pra criarem
+	um mascote pra ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sounds like they'll
-	build a statue from
-	the best design.
+	E parece que a melhor
+	ideia vai virar uma
+	estátua!
 	"""
 	keyWait
 		any = false
@@ -74,8 +74,8 @@ script 6 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	I hope my squirrel
-	design will win!
+	Tomara que o meu
+	mascote esquilo ganhe!
 	"""
 	keyWait
 		any = false
@@ -86,22 +86,22 @@ script 8 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	I'm going with
-	Mr.Sakurai to
-	Netopia on business.
+	Vou viajar pra Ameropa
+	com o Sr. Sakurai a
+	negócios.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And his wife is
-	expecting a baby
-	next month!
+	A mulher dele tá
+	grávida, e o bebê deve
+	nascer mês que vem!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Talk about busy!"
+	"Homem ocupado, ele!"
 	keyWait
 		any = false
 	end
@@ -113,50 +113,50 @@ script 10 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	wait
 		frames = 8
 	soundDisableTextSFX
 	soundPlay
 		track = 341
-	"GOW-WOW!!!"
+	"GÁU-AU!!!"
 	keyWait
 		any = false
 	clearMsg

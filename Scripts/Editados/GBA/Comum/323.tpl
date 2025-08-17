@@ -11,7 +11,7 @@ script 0 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	I'm looking after
+	Estou cuidando desta
 	"
 	"""
 	printFolderName
@@ -19,36 +19,36 @@ script 0 mmbn5 {
 		entry = 3
 	"""
 	"
-	for Mr.Famous.
+	pro Sr. Famoso.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wanna try using it,
-	Lan?
+	Tá a fim de
+	experimentar ela, Lan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm sure you'll
-	find it useful.
+	Com certeza vai ser
+	útil pra você.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	your Extra Folder
-	being overwritten,
+	Se você topar ter
+	sua Pasta Extra
+	sobrescrita,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll start the
-	transfer right away.
+	iniciarei a transferência
+	agora mesmo.
 	"""
 	keyWait
 		any = false
@@ -73,7 +73,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não, valeu"
 	select
 		default = 0
 		BSeparate = false
@@ -87,19 +87,19 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,come again if
-	you ever want to use
+	Bem, é só voltar aqui
+	se quiser usar a
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
-	".\""
+	"\"."
 	keyWait
 		any = false
 	end
@@ -109,27 +109,27 @@ script 1 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	Do you want to use
+	Quer usar a
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
-	",\" now?"
+	"\" agora?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	If you don't mind
-	your Extra Folder
-	being overwritten,
+	Se você topar ter
+	sua Pasta Extra
+	sobrescrita,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll start the
-	transfer right away.
+	iniciarei a transferência
+	agora mesmo.
 	"""
 	keyWait
 		any = false
@@ -145,7 +145,7 @@ script 1 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -154,7 +154,7 @@ script 1 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -168,19 +168,19 @@ script 1 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"I see⋯"
+	"Sei..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,come again if
-	you ever want to use
+	Bem, é só voltar aqui
+	se quiser usar a
 	"
 	"""
 	printFolderName
 		buffer = 0
 		entry = 3
-	".\""
+	"\"."
 	keyWait
 		any = false
 	end
@@ -190,8 +190,8 @@ script 2 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	OK then,I'll start
-	the transfer⋯
+	Certo, iniciarei a
+	transferência...
 	"""
 	keyWait
 		any = false
@@ -200,31 +200,31 @@ script 2 mmbn5 {
 	startGiveFolder
 		slot = 2
 		folder = 3
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
 	soundDisableTextSFX
 	soundPlay
 		track = 116
-	"*BEEP!*"
+	"BIP!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = SciLabYoungMan
-	"Transfer's complete!"
+	"Transferência concluída!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Your Extra Folder
-	should now be
+	Sua Pasta Extra,
+	agora, deve ser a
 	"""
 	keyWait
 		any = false
@@ -233,21 +233,21 @@ script 2 mmbn5 {
 	printFolderName
 		buffer = 0
 		entry = 3
-	".\""
+	"\"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mr.Famous's deep
-	desire for peace is
-	contained within.
+	Ela contém o desejo
+	sincero do Sr. Famoso
+	pela paz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Just having it will
-	bring you good luck!
+	Vai te trazer boa sorte
+	só de tê-la consigo!
 	"""
 	keyWait
 		any = false

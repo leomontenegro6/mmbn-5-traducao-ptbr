@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	So that's taken care
-	of all the Nebula
-	Navis in this area.
+	Pronto, acabamos com
+	todos os Navis da
+	Nebula nesta área.
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Yeah. Time to head
-	back to ACDC Area3
-	for a while!
+	É. Hora de voltar
+	pra Área ACDC 3!
 	"""
 	keyWait
 		any = false
@@ -33,14 +32,14 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can't believe that
-	my house leads to
-	this place,though.
+	Mas eu ainda não
+	acredito que a minha
+	casa tem esse portal...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"It's just so weird."
+	"É tão estranho."
 	keyWait
 		any = false
 	clearMsg
@@ -52,25 +51,25 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Hm,it was a shock
-	to me at first too⋯
+	É, foi um belo
+	choque pra mim
+	de início, também...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". Ah!"
 	waitSkip
 		frames = 30
 	"""
-	Someone's coming
-	from behind the
-	door!
+	Tem alguém vindo
+	de trás da porta!
 	"""
 	keyWait
 		any = false
@@ -96,14 +95,14 @@ script 5 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It might be the boss
-	of that Navi group
-	we just defeated!
+	Pode ser o líder
+	desse grupo de Navis
+	que a gente venceu!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯They're coming!"
+	"... Lá vem!"
 	keyWait
 		any = false
 	end
@@ -113,7 +112,7 @@ script 6 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 340
-	"*Clang⋯*"
+	"Clónc..."
 	keyWait
 		any = false
 	end
@@ -122,7 +121,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -131,7 +130,7 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"SerchMan!"
+	"SearchMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -143,17 +142,16 @@ script 9 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Who'd have thought
-	this area would be
-	hidden here⋯
+	Quem imaginaria que
+	esta área estaria
+	escondida aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So it was worth
-	following you after
-	all.
+	Valeu a pena te seguir,
+	no fim das contas.
 	"""
 	keyWait
 		any = false
@@ -165,7 +163,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You⋯followed me?"
+	"Você... me seguiu?"
 	keyWait
 		any = false
 	clearMsg
@@ -179,17 +177,17 @@ script 11 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Dr.Regal asked me
-	to keep an eye on
-	what you were up to.
+	O Dr. Regal me pediu
+	para ficar de olhos
+	nas suas atividades.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that's how I
-	managed to find this
-	hidden area.
+	E foi assim que eu
+	consegui descobrir
+	esta área oculta.
 	"""
 	keyWait
 		any = false
@@ -201,7 +199,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯D-Dr.Regal?"
+	"... D-Dr. Regal?"
 	keyWait
 		any = false
 	clearMsg
@@ -213,9 +211,9 @@ script 13 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	That's right! Raika
-	and I are part of
-	Nebula!
+	Exatamente.
+	Raika e eu fazemos
+	parte da Nebula!
 	"""
 	keyWait
 		any = false
@@ -227,7 +225,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"N-No way⋯!"
+	"N-não pode ser...!"
 	keyWait
 		any = false
 	clearMsg
@@ -239,9 +237,9 @@ script 15 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Ha ha ha,it's so
-	easy to deceive the
-	likes of you⋯
+	Ha ha ha!
+	É tão fácil enganar
+	gente como vocês...
 	"""
 	keyWait
 		any = false
@@ -252,8 +250,8 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	B-but⋯ Why?!
-	Why Nebula⋯?!
+	M-mas... por quê?!
+	Por que a Nebula...?!
 	"""
 	keyWait
 		any = false
@@ -265,21 +263,22 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"⋯Power."
+	"... Poder."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DarkChips give me
-	even more of it⋯
+	Os Chips das Trevas
+	me deixam ainda mais
+	poderoso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're the best⋯
-	They fill me with
-	strength⋯
+	São incríveis...
+	Me fazem transbordar
+	de força...
 	"""
 	keyWait
 		any = false
@@ -292,8 +291,8 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Open your eyes,
-	SerchMan!
+	Abra os olhos,
+	SearchMan!
 	"""
 	keyWait
 		any = false
@@ -306,24 +305,24 @@ script 19 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Hey,calm down⋯
-	I wasn't planning on
-	fighting you now.
+	Não fique alvoroçado.
+	Eu não planejo lutar
+	contra você, por ora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I haven't completed
-	my mission yet⋯
+	Ainda não completei
+	a minha missão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And I'm sure I'll be
-	able to fight you
-	again before long⋯
+	E estou certo de que
+	terei minha chance de
+	te enfrentar em breve...
 	"""
 	keyWait
 		any = false
@@ -333,11 +332,11 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hey,wait!"
+	"Ei, espera!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -347,24 +346,24 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯I can't believe
-	SerchMan and Raika
-	are in Nebula⋯
+	... Eu não acredito que
+	o SearchMan e o Raika
+	tão na Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯And I wonder what
-	mission it is he was
-	talking about⋯
+	E que "missão" era
+	essa de que ele
+	tava falando...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better report
-	back to Chaud.
+	É melhor a gente relatar
+	isso pro Chaud.
 	"""
 	keyWait
 		any = false
@@ -376,7 +375,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"⋯⋯⋯"
+	"........."
 	keyWait
 		any = false
 	end
@@ -397,17 +396,15 @@ script 24 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Well,what a surprise
-	it is to find this
-	area here⋯
+	Ora, mas que surpresa,
+	achar esta área aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It looks like it was
-	worth following you
-	then.
+	Parece que valeu a
+	pena seguir você.
 	"""
 	keyWait
 		any = false
@@ -419,7 +416,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"You⋯followed me?"
+	"Você... me seguiu?"
 	keyWait
 		any = false
 	clearMsg
@@ -433,17 +430,16 @@ script 26 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Dr.Regal asked me
-	to keep an eye on
-	you two.
+	O Dr. Regal me pediu
+	para ficar de olho
+	em vocês dois.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's what brought
-	me to this hidden
-	area here.
+	Foi isso o que me trouxe
+	a esta área oculta aqui.
 	"""
 	keyWait
 		any = false
@@ -455,7 +451,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯D-Dr.Regal?"
+	"... D-Dr. Regal?"
 	keyWait
 		any = false
 	clearMsg
@@ -467,9 +463,9 @@ script 28 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	That's right! Higsby
-	and I are part of
-	Nebula!
+	Exatamente!
+	Higsby e eu fazemos
+	parte da Nebula!
 	"""
 	keyWait
 		any = false
@@ -482,9 +478,9 @@ script 29 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	N-No way⋯
-	So you've been lying
-	to us!
+	N-não pode ser...
+	Então, vocês tavam
+	mentindo pra gente!
 	"""
 	keyWait
 		any = false
@@ -497,9 +493,9 @@ script 30 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	Ha ha ha ha hah!
-	Better to deceive
-	than be deceived!
+	Ha ha ha ha haa!
+	Antes enganar
+	que ser enganado!
 	"""
 	keyWait
 		any = false
@@ -510,8 +506,8 @@ script 31 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	B-But⋯ Why?!
-	Why Nebula⋯?!
+	M-mas... por quê?!
+	Por que a Nebula...?!
 	"""
 	keyWait
 		any = false
@@ -523,22 +519,22 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"⋯Power."
+	"... Poder."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's quite simple.
-	DarkChips give me
-	more of it⋯
+	É simples assim.
+	Os Chips das Trevas
+	me dão mais poder...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're amazing⋯
-	I'm more powerful
-	than ever now.
+	Eles são incríveis...
+	Eu estou mais forte
+	que nunca agora!
 	"""
 	keyWait
 		any = false
@@ -550,7 +546,7 @@ script 33 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wake up,NumberMan!"
+	"Acorda, NumberMan!"
 	keyWait
 		any = false
 	clearMsg
@@ -562,32 +558,30 @@ script 34 mmbn5 {
 		mugshot = NumberMan
 	msgOpen
 	"""
-	There's no need to
-	pick a quarrel.
+	Não há por que comprar
+	briga comigo aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've no intention of
-	fighting you right
-	now.
+	Não pretendo lutar
+	contra você agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm still in the
-	middle of a mission,
-	you see⋯
+	Eu ainda estou no meio
+	de uma missão, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Anyway,I'm sure I'll
-	get to fight you
-	before too long⋯
+	Enfim, com certeza
+	vamos poder lutar
+	muito em breve...
 	"""
 	keyWait
 		any = false
@@ -597,11 +591,11 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Hey,wait!"
+	"Ei, espera!"
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	end
@@ -611,28 +605,28 @@ script 36 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	⋯I can't believe
-	NumberMan and Higsby
-	are in Nebula⋯
+	... Eu não acredito que
+	o NumberMan e o Higsby
+	tão na Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Unbelievable."
+	"É absurdo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯And I wonder what
-	mission it is he was
-	talking about⋯
+	E que "missão" era
+	essa de que ele
+	tava falando...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'd better report
-	back to Baryl.
+	É melhor a gente relatar
+	isso pro Baryl.
 	"""
 	keyWait
 		any = false
@@ -644,7 +638,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yeah,you're right⋯"
+	"É..."
 	keyWait
 		any = false
 	end

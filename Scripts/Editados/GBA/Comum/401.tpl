@@ -5,17 +5,17 @@ script 0 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	It wouldn't do for a
-	fault to occur with
-	passengers on board.
+	Seria inaceitável
+	ocorrer uma falha com
+	passageiros a bordo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We perform thorough
-	maintenance while
-	the ship is moored.
+	Realizamos reparos
+	meticulosos quando o
+	navio está ancorado.
 	"""
 	keyWait
 		any = false

@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Wow⋯ I never knew
-	there was a room
-	back here⋯
+	Caramba... Eu não
+	sabia que tinha uma
+	sala aqui atrás...
 	"""
 	keyWait
 		any = false
@@ -20,13 +20,14 @@ script 1 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	It's my warehouse.
-	It's an office too.
+	É o meu armazém.
+	Também serve
+	como escritório.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"This way,huh."
+	"Por aqui, é."
 	keyWait
 		any = false
 	end
@@ -35,7 +36,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wow!"
+	"Uau!"
 	keyWait
 		any = false
 	end
@@ -45,17 +46,17 @@ script 3 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Well? A lot of cash
-	has gone on the
-	equipment here,
+	Que tal? Eu investi
+	uma nota preta nos
+	equipamentos daqui,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	so it should be fine
-	for pretty much
-	anything,huh.
+	então, eles devem
+	dar conta de
+	qualquer coisa, é.
 	"""
 	keyWait
 		any = false
@@ -65,13 +66,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"This is amazing,"
+	"Que incrível, Higsby"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby! Just what
-	I was looking for!
+	Era justamente disso
+	que eu tava atrás!
 	"""
 	keyWait
 		any = false
@@ -83,20 +84,20 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"Hu hu hu⋯"
+	"Hu hu hu..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I'm glad you
-	like it,huh.
+	Bom, que bom que
+	você gostou, é.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As of today,it's all
-	yours,huh!
+	A partir de hoje,
+	ele é todo seu, é!
 	"""
 	keyWait
 		any = false
@@ -108,13 +109,13 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Thanks,Higsby!"
+	"Valeu, Higsby!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Um,and us using this
-	place⋯
+	Er, e sobre a gente
+	tá usando a sala...
 	"""
 	keyWait
 		any = false
@@ -127,32 +128,36 @@ script 7 mmbn5 {
 		mugshot = Higsby
 	msgOpen
 	"""
-	Chill out,huh! It's
-	a secret base,right?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"I won't tell anyone!"
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A secret base has to
-	be kept secret,huh!
+	Relaxa, é!
+	É uma base secreta, né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not the kind of
-	guy to give away
-	something like that!
+	Eu não vou contar
+	pra ninguém!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Huh,Lan?!"
+	"""
+	Uma base secreta tem
+	que ser segredo, né?
+	Tá no nome, é!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eu não sou do tipo de
+	homem que dedura os
+	outros!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Falou?!"
 	keyWait
 		any = false
 	clearMsg
@@ -164,13 +169,13 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure!"
+	"Falou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I'd better get
-	in touch with Chaud!
+	Beleza, agora, eu vou
+	falar com o Chaud!
 	"""
 	keyWait
 		any = false
@@ -180,13 +185,13 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Sure!"
+	"Falou!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Okay,I'd better get
-	in touch with Baryl!
+	Beleza, agora, eu vou
+	falar com o Baryl!
 	"""
 	keyWait
 		any = false
@@ -197,8 +202,8 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	This is an ideal
-	Mission Control⋯
+	É um Controle de Missão
+	ideal, de fato...
 	"""
 	keyWait
 		any = false
@@ -211,9 +216,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right,I'd better get
-	straight on with the
-	next mission plan⋯
+	Né? Bom, melhor a
+	gente começar a ver
+	a próxima missão e...
 	"""
 	keyWait
 		any = false
@@ -225,7 +230,7 @@ script 12 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 117
-	"*Pi-pi-pi-pi-piiii!*"
+	"Pi-pi-pi-pi-piiii!"
 	wait
 		frames = 36
 	keyWait
@@ -241,8 +246,7 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	It's the
-	surveillance alarm!
+	É o alarme de segurança!
 	"""
 	keyWait
 		any = false
@@ -255,8 +259,7 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The surveillance
-	alarm?!
+	Alarme de segurança?!
 	"""
 	keyWait
 		any = false
@@ -269,17 +272,17 @@ script 15 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ProtoMan set it up
-	on the door to the
-	Undernet.
+	O ProtoMan o armou
+	na porta de acesso
+	à Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone or something
-	must be trying to
-	get through.
+	Alguém ou alguma coisa
+	deve estar tentando
+	atravessá-la.
 	"""
 	keyWait
 		any = false
@@ -289,7 +292,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Oh no!"
+	"... Ah, não!"
 	keyWait
 		any = false
 	clearMsg
@@ -301,8 +304,8 @@ script 17 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Have you got some
-	idea who it is?
+	Algum palpite
+	de quem seja?
 	"""
 	keyWait
 		any = false
@@ -313,16 +316,17 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,there was this
-	girl who kept
-	pestering me
+	Bom, apareceu uma
+	menina um tempo atrás
+	que ficou me enchendo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to tell her how to
-	get to the Undernet!
+	pra contar pra ela
+	como chegava na
+	Undernet!
 	"""
 	keyWait
 		any = false
@@ -334,20 +338,20 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"No,not a civilian!"
+	"Tch! Uma civil!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,go to End Area5
-	right away.
+	Lan, vá pra Área
+	Endo 5 imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll bring ProtoMan
-	there soon!
+	Vou mandar o ProtoMan
+	ir pra lá, também!
 	"""
 	keyWait
 		any = false
@@ -359,7 +363,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got it!"
+	"Tá!"
 	keyWait
 		any = false
 	end
@@ -369,9 +373,9 @@ script 21 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯Hrm.
-	This is an ideal
-	Mission Control⋯
+	... Hrm.
+	É um Controle de Missão
+	ideal, de fato...
 	"""
 	keyWait
 		any = false
@@ -384,9 +388,9 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Right,I'd better get
-	straight on with the
-	next mission plan⋯
+	Né? Bom, melhor a
+	gente começar a ver
+	a próxima missão e...
 	"""
 	keyWait
 		any = false
@@ -396,7 +400,7 @@ script 23 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*Pi-pi-pi-pi-piiii!*"
+	"Pi-pi-pi-pi-piiii!"
 	keyWait
 		any = false
 	end
@@ -410,8 +414,7 @@ script 24 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	The surveillance
-	alarm?!
+	O alarme de segurança!
 	"""
 	keyWait
 		any = false
@@ -424,8 +427,7 @@ script 25 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	The surveillance
-	alarm?!
+	Alarme de segurança?!
 	"""
 	keyWait
 		any = false
@@ -438,17 +440,17 @@ script 26 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Colonel set it up
-	on the door to the
-	Undernet.
+	O Colonel o armou
+	na porta de acesso
+	à Undernet.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Someone or something
-	must be trying to
-	get through.
+	Alguém ou alguma coisa
+	deve estar tentando
+	atravessá-la.
 	"""
 	keyWait
 		any = false
@@ -458,7 +460,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯Oh no!"
+	"... Ah, não!"
 	keyWait
 		any = false
 	clearMsg
@@ -470,8 +472,8 @@ script 28 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Have you got some
-	idea who it is?
+	Algum palpite
+	de quem seja?
 	"""
 	keyWait
 		any = false
@@ -482,17 +484,17 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well,there was this
-	girl who kept
-	pestering me
+	Bom, tem essa âncora
+	da DNN chamada Ribitta
+	que, um tempo atrás,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	to tell Ribitta how
-	to get to the
-	Undernet!
+	ficou me enchendo pra
+	contar pra ela como
+	chegava na Undernet!
 	"""
 	keyWait
 		any = false
@@ -504,20 +506,21 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"No,not a civilian!"
+	"Não! Uma civil!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,go to End Area5
-	right away.
+	Lan, vá para a Área
+	Endo 5 imediatamente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'll bring Colonel
-	there soon!
+	Irei para lá com
+	o Colonel também,
+	o quanto antes!
 	"""
 	keyWait
 		any = false
@@ -529,7 +532,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Got it!"
+	"Tá!"
 	keyWait
 		any = false
 	end

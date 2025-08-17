@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's up,Chaud?"
+	"Que foi, Chaud?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it time for the
-	next mission?
+	Já tá na hora da
+	próxima missão?
 	"""
 	keyWait
 		any = false
@@ -23,29 +23,30 @@ script 1 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No,this isn't about
-	the mission⋯
+	Não, não é sobre
+	a missão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been looking
-	into a few things
+	Eu vim investigando
+	algumas coisas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I've come across
-	something odd⋯
+	e acabei me deparando
+	com uma informação um
+	tanto estranha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to look
-	into it for me.
+	Quero que você
+	investigue ela pra mim.
 	"""
 	keyWait
 		any = false
@@ -58,8 +59,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh yeah⋯
-	What is it?
+	Ah, tá...
+	E que informação que
+	é essa?
 	"""
 	keyWait
 		any = false
@@ -72,21 +74,22 @@ script 3 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	⋯It's at the heart
-	of this latest
-	incident⋯
+	... É o que está no
+	centro desse último
+	incidente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The reason why Regal
-	took your father⋯
+	O motivo para o Regal
+	ter sequestrado o seu
+	pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯The Hikari Report."
+	"... O Relatório Hikari."
 	keyWait
 		any = false
 	clearMsg
@@ -97,21 +100,21 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Hikari Report?"
+	"O Relatório Hikari?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mean⋯ Hikari as
-	in my name,Hikari?
+	"Hikari" tipo...
+	o meu sobrenome?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So does that mean
-	Dad wrote this
-	report⋯?
+	Então foi o papai
+	quem escreveu
+	esse relatório...?
 	"""
 	keyWait
 		any = false
@@ -123,29 +126,29 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Actually,no."
+	"Na verdade, não."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a research
-	report that your
-	grandfather wrote.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It's my guess that
-	your father
+	É um relatório de
+	pesquisa escrito por
+	Tadashi Hikari. Seu avô.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has the report or
-	at least knows where
-	it's kept.
+	É só uma teoria, mas
+	creio que o seu pai
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	possua o relatório
+	ou, pelo menos, saiba
+	onde está guardado.
 	"""
 	keyWait
 		any = false
@@ -158,15 +161,15 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A research report
-	of my grandfather's⋯
+	Um relatório de pesquisa
+	escrito pelo meu avô...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,what was this
-	report about?
+	E o que é que tem
+	nesse relatório?
 	"""
 	keyWait
 		any = false
@@ -179,36 +182,36 @@ script 7 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I'm still looking
-	into that⋯
+	Isso, eu ainda estou
+	investigando...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All I know right now"
+	"Só o que eu sei agora"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is that when he was
-	studying network
-	theory 30 years ago,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	he was also doing
-	some research with
-	another scientist.
+	é que, quando ele
+	estudava teoria de
+	rede, há 30 anos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They produced a
-	report on different
-	network technology⋯
+	ele também conduzia
+	pesquisas separadas
+	com um outro cientista.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eles elaboraram um estudo
+	sobre uma tecnologia
+	de rede diferente...
 	"""
 	keyWait
 		any = false
@@ -221,9 +224,9 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Different network
-	technology? What's
-	that?
+	Tecnologia de rede
+	diferente?
+	Como assim?
 	"""
 	keyWait
 		any = false
@@ -236,22 +239,23 @@ script 9 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	I'd say it's totally
-	unlike
+	Se eu fosse apostar,
+	meu palpite é que seja
+	o modelo de uma rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the network we use
-	now
+	completamente diferente
+	da nossa Rede atual,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I don't know any
-	more than that⋯
+	mas não tenho mais
+	informações que isso...
 	"""
 	keyWait
 		any = false
@@ -264,8 +268,8 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't get it.
-	It's all too vague!
+	É, eu tô perdidinho.
+	É muito pouca informação!
 	"""
 	keyWait
 		any = false
@@ -278,55 +282,54 @@ script 11 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It can't be helped⋯
-	This all happened 30
-	years ago.
+	Isso é inevitável...
+	Afinal, tudo isso
+	já tem 30 anos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the research was
-	never made public.
+	E a pesquisa nunca foi
+	liberada pro público.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't know for
-	sure if the Hikari
-	Report even exists.
+	Nem ao menos sabemos
+	se o Relatório Hikari
+	realmente existe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what
-	Regal's planning
+	Eu nem imagino o que
+	o Regal planeje fazer
+	com a tecnologia de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on doing with your
-	grandfather's
-	network technology
+	rede do seu avô,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we must get our
-	hands on that report
-	before he does.
+	mas temos que pôr as
+	mãos naquele relatório
+	antes dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did your grandfather
-	give anything to
-	your father?
+	O seu avô deixou
+	alguma outra coisa
+	pro seu pai?
 	"""
 	keyWait
 		any = false
@@ -338,7 +341,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm,I don't know⋯"
+	"Hmm, eu não sei..."
 	keyWait
 		any = false
 	clearMsg
@@ -354,9 +357,9 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I wonder if it says
-	in that letter your
-	Dad got from him⋯
+	Será que aquela carta
+	que o seu avô deixou
+	pro seu pai...?
 	"""
 	keyWait
 		any = false
@@ -367,9 +370,9 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But that's just a
-	clue to ACDC Town
-	when we were born.
+	Não era só uma pista
+	pro Bairro ACDC de
+	quando a gente nasceu?
 	"""
 	keyWait
 		any = false
@@ -382,8 +385,8 @@ script 15 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	ACDC Town in the
-	year you were born?
+	O Bairro ACDC de
+	quando vocês nasceram?
 	"""
 	keyWait
 		any = false
@@ -394,17 +397,17 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It's an area you can
-	get to from the
-	Net's ACDC Area.
+	É uma área que dá pra
+	acessar da Área ACDC,
+	na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Town's there
-	just like it was 11
-	years ago!
+	O Bairro ACDC que tem
+	nela é igualzinho ao de
+	11 anos atrás!
 	"""
 	keyWait
 		any = false
@@ -416,7 +419,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"⋯Ah,the VisionBurst."
+	"... Ah, a Visão Passada."
 	keyWait
 		any = false
 	clearMsg
@@ -427,7 +430,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The VisionBurst?"
+	"Visão Passada?"
 	keyWait
 		any = false
 	clearMsg
@@ -439,25 +442,25 @@ script 19 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	It saves moments in
-	time as data in
-	Cyberworld⋯
+	Ela grava momentos
+	no tempo como dados
+	no mundo cibernético...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never imagined it
-	was hidden in the
-	ACDC Area⋯
+	Mas eu nunca imaginaria
+	que ela estaria
+	escondida em ACDC...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That letter you were
-	talking about⋯
-	What did it say?
+	Essa carta de que
+	vocês falaram...
+	O que tem nela?
 	"""
 	keyWait
 		any = false
@@ -469,34 +472,45 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hang on a second⋯"
+	"Pera aí..."
 	keyWait
 		any = false
 	clearMsg
-	"Let's see⋯"
-	keyWait
-		any = false
-	clearMsg
-	"\"To my son,Yuichiro⋯"
-	keyWait
-		any = false
-	clearMsg
-	" Don't go neglecting\n Gow! You shouldn't\n get his fur wet."
-	keyWait
-		any = false
-	clearMsg
-	" He's grouchy wet,so\n if rainy be a nice\n kid and let him in\""
-	keyWait
-		any = false
-	clearMsg
-	"That's all it says."
+	"Tá aqui:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gow was that dog
-	that lived with us
-	11 years ago⋯
+	"Para o meu filho,
+	Yuichiro...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tome mais cuidado com
+	o Gáu! Cuidado pra não
+	deixar molhar o pelo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ele odeia se molhar. Se
+	chover, seja bonzinho
+	e deixe ele entrar."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"E é só."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O Gáu era um cachorro
+	que morava com a gente
+	11 anos atrás...
 	"""
 	keyWait
 		any = false
@@ -509,17 +523,16 @@ script 21 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Find that dog,Lan.
-	It could lead us to
-	the Hikari Report.
+	Encontre esse cão, Lan.
+	Pode ser que nos leve
+	ao Relatório Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must head for
-	the VisionBurst
-	right away!
+	Siga pra Visão Passada
+	imediatamente!
 	"""
 	keyWait
 		any = false
@@ -532,8 +545,8 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sure! I'll go check
-	it out!
+	Beleza!
+	Eu vou lá conferir!
 	"""
 	keyWait
 		any = false
@@ -545,7 +558,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Good luck."
+	"Boa sorte."
 	keyWait
 		any = false
 	end
@@ -554,13 +567,13 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What's up,Baryl?"
+	"Que foi, Baryl?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Is it time for the
-	next mission?
+	Já tá na hora da
+	próxima missão?
 	"""
 	keyWait
 		any = false
@@ -573,29 +586,30 @@ script 25 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No,this isn't about
-	the mission⋯
+	Não, não é sobre
+	a missão...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I've been looking
-	into a few things
+	Eu vim investigando
+	algumas coisas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and I've come across
-	something odd⋯
+	e acabei me deparando
+	com uma informação um
+	tanto estranha...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want you to look
-	into it for me.
+	Quero que você
+	investigue ela pra mim.
 	"""
 	keyWait
 		any = false
@@ -608,8 +622,9 @@ script 26 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh yeah⋯
-	What is it?
+	Ah, tá...
+	E que informação
+	que é essa?
 	"""
 	keyWait
 		any = false
@@ -622,21 +637,22 @@ script 27 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	⋯It's at the heart
-	of this latest
-	incident⋯
+	... É o que está no
+	centro desse último
+	incidente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The reason why Regal
-	took your father⋯
+	O motivo para o Regal
+	ter sequestrado o seu
+	pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯The Hikari Report."
+	"... O Relatório Hikari."
 	keyWait
 		any = false
 	clearMsg
@@ -647,21 +663,21 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The Hikari Report?"
+	"O Relatório Hikari?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You mean⋯ Hikari as
-	in my name,Hikari?
+	"Hikari" tipo...
+	o meu sobrenome?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So does that mean
-	Dad wrote this
-	report⋯?
+	Então foi o papai
+	quem escreveu
+	esse relatório...?
 	"""
 	keyWait
 		any = false
@@ -673,29 +689,29 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Actually,no."
+	"Na verdade, não."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a research
-	report that your
-	grandfather wrote.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	It's my guess that
-	your father
+	É um relatório de
+	pesquisa escrito por
+	Tadashi Hikari. Seu avô.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	has the report or
-	at least knows where
-	it's kept.
+	É só uma teoria, mas
+	creio que o seu pai
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	possua o relatório
+	ou, pelo menos, saiba
+	onde está guardado.
 	"""
 	keyWait
 		any = false
@@ -708,15 +724,15 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A research report
-	of my grandfather's⋯
+	Um relatório de pesquisa
+	escrito pelo meu avô...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,what was this
-	report about?
+	E o que é que tem
+	nesse relatório?
 	"""
 	keyWait
 		any = false
@@ -729,36 +745,36 @@ script 31 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I'm still looking
-	into that⋯
+	Isso, eu ainda estou
+	investigando...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"All I know right now"
+	"Só o que eu sei\npor enquanto"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is that when he was
-	studying network
-	theory 30 years ago,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	he was also doing
-	some research with
-	another scientist.
+	é que, quando ele
+	estudava teoria de
+	rede, há 30 anos,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They produced a
-	report on different
-	network technology⋯
+	ele também conduzia
+	pesquisas separadas
+	com um outro cientista.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Eles elaboraram um estudo
+	sobre uma tecnologia
+	de rede diferente...
 	"""
 	keyWait
 		any = false
@@ -771,9 +787,9 @@ script 32 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Different network
-	technology? What's
-	that?
+	Tecnologia de rede
+	diferente?
+	Como assim?
 	"""
 	keyWait
 		any = false
@@ -786,22 +802,23 @@ script 33 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	I'd say it's totally
-	unlike
+	Se eu fosse apostar,
+	meu palpite é que seja
+	o modelo de uma rede
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	the network we use
-	now
+	completamente diferente
+	da nossa Rede atual,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I don't know any
-	more than that⋯
+	mas não tenho mais
+	informações que isso...
 	"""
 	keyWait
 		any = false
@@ -814,8 +831,8 @@ script 34 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't get it.
-	It's all too vague!
+	É, eu tô perdidinho.
+	É muito pouca informação!
 	"""
 	keyWait
 		any = false
@@ -828,55 +845,54 @@ script 35 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	It can't be helped⋯
-	This all happened 30
-	years ago.
+	Isso é inevitável...
+	Afinal, tudo isso
+	já tem 30 anos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And the research was
-	never made public.
+	E a pesquisa nunca foi
+	liberada para o público.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We don't know for
-	sure if the Hikari
-	Report even exists.
+	Nem ao menos sabemos
+	se o Relatório Hikari
+	realmente existe.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I don't know what
-	Regal's planning
+	Eu nem imagino o que
+	o Regal planeje fazer
+	com a tecnologia de
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	on doing with your
-	grandfather's
-	network technology
+	rede do seu avô,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but we must get our
-	hands on that report
-	before he does.
+	mas temos que pôr as
+	mãos naquele relatório
+	antes dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Did your grandfather
-	give anything to
-	your father?
+	O seu avô deixou
+	alguma outra coisa
+	para o seu pai?
 	"""
 	keyWait
 		any = false
@@ -888,7 +904,7 @@ script 36 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hmm,I don't know⋯"
+	"Hmm, não sei..."
 	keyWait
 		any = false
 	clearMsg
@@ -904,9 +920,9 @@ script 37 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I wonder if it says
-	in that letter your
-	Dad got from him⋯
+	Será que aquela carta
+	que o vovô deixou pro
+	papai...?
 	"""
 	keyWait
 		any = false
@@ -917,9 +933,9 @@ script 38 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	But that's just a
-	clue to ACDC Town
-	when we were born.
+	Não era só uma pista
+	pro Bairro ACDC de
+	quando a gente nasceu?
 	"""
 	keyWait
 		any = false
@@ -932,29 +948,29 @@ script 39 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	ACDC Town in the
-	year you were born?
+	O Bairro ACDC de
+	quando vocês nasceram?
 	"""
 	keyWait
 		any = false
 	end
 }
-script 40 mmbn5 {
+script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
 	"""
-	It's an area you can
-	get to from the
-	Net's ACDC Area.
+	É uma área que dá pra
+	acessar da Área ACDC,
+	na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ACDC Town's there
-	just like it was 11
-	years ago!
+	O Bairro ACDC que tem
+	nela é igualzinho ao de
+	11 anos atrás!
 	"""
 	keyWait
 		any = false
@@ -966,7 +982,7 @@ script 41 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"⋯Ah,the VisionBurst."
+	"... Ah, a Visão Passada."
 	keyWait
 		any = false
 	clearMsg
@@ -977,7 +993,7 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"The VisionBurst?"
+	"Visão Passada?"
 	keyWait
 		any = false
 	clearMsg
@@ -989,25 +1005,25 @@ script 43 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	It saves moments in
-	time as data in
-	Cyberworld⋯
+	Ela grava momentos
+	no tempo como dados
+	no mundo cibernético...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I never imagined it
-	was hidden in the
-	ACDC Area⋯
+	Mas eu nunca imaginaria
+	que ela estaria
+	escondida em ACDC...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That letter you were
-	talking about⋯
-	What did it say?
+	Essa carta de que
+	vocês falaram...
+	O que tem nela?
 	"""
 	keyWait
 		any = false
@@ -1019,34 +1035,45 @@ script 44 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hang on a second⋯"
+	"Pera aí..."
 	keyWait
 		any = false
 	clearMsg
-	"Let's see⋯"
-	keyWait
-		any = false
-	clearMsg
-	"\"To my son,Yuichiro⋯"
-	keyWait
-		any = false
-	clearMsg
-	" Don't go neglecting\n Gow! You shouldn't\n get his fur wet."
-	keyWait
-		any = false
-	clearMsg
-	" He's grouchy wet,so\n if rainy be a nice\n kid and let him in\""
-	keyWait
-		any = false
-	clearMsg
-	"That's all it says."
+	"Tá aqui:"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gow was that dog
-	that lived with us
-	11 years ago⋯
+	"Para o meu filho,
+	Yuichiro...
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Tome mais cuidado com
+	o Gáu! Cuidado pra não
+	deixar molhar o pelo.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Ele odeia se molhar. Se
+	chover, seja bonzinho
+	e deixe ele entrar."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"E é só."
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O Gáu era um cachorro
+	que morava com a gente
+	11 anos atrás...
 	"""
 	keyWait
 		any = false
@@ -1059,17 +1086,16 @@ script 45 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Find that dog,Lan.
-	It could lead us to
-	the Hikari Report.
+	Encontre esse cão, Lan.
+	Pode ser que nos leve
+	ao Relatório Hikari.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You must head for
-	the VisionBurst
-	right away!
+	Siga para a Visão
+	Passada imediatamente!
 	"""
 	keyWait
 		any = false
@@ -1082,8 +1108,8 @@ script 46 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Sure! I'll go check
-	it out!
+	Beleza!
+	Eu vou lá conferir!
 	"""
 	keyWait
 		any = false
@@ -1095,7 +1121,7 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Good luck."
+	"Boa sorte."
 	keyWait
 		any = false
 	end

@@ -3,16 +3,17 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	An info terminal for
-	visitors,but it is
+	Um terminal de
+	informações, mas é
+	mais velho que o outro
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	older than the one
-	next to it and lacks
-	a jack in port.
+	ao lado dele, e não
+	possui entrada de
+	conexão.
 	"""
 	keyWait
 		any = false
@@ -21,16 +22,17 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	An info terminal for
-	visitors.
+	Um terminal de
+	informações para
+	visitantes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It includes a jack
-	in port to download
-	data to a PET.
+	Inclui uma entrada de
+	conexão para baixar
+	dados para o PET.
 	"""
 	keyWait
 		any = false
@@ -39,17 +41,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A map of SciLab
-	is displayed
-	here.
+	Um mapa do SciLab
+	fica exposto aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dad's Lab can be
-	reached via the
-	elevator.
+	O laboratório do pai do
+	Lan pode ser acessado
+	via elevador.
 	"""
 	keyWait
 		any = false
@@ -58,9 +59,9 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	SciLab's reception
-	desk. Many people
-	visit each day.
+	Recepção do SciLab.
+	Várias pessoas passam
+	aqui todos os dias.
 	"""
 	keyWait
 		any = false
@@ -69,9 +70,9 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	An ID card is
-	required to unlock
-	the door.
+	É necessário um cartão
+	de identificação para
+	abrir a porta.
 	"""
 	keyWait
 		any = false
@@ -80,16 +81,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A planter full of
-	plants.
+	Uma floreira cheia
+	de plantas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's nice to have
-	some greenery in
-	a place like this.
+	É legal ter um pouco
+	de verde em um lugar
+	destes.
 	"""
 	keyWait
 		any = false
@@ -98,17 +99,17 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	A vending machine
-	with unappetizing
-	energy drinks.
+	Uma máquina de vendas
+	com energéticos pouco
+	apetitosos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Do SciLab workers
-	really like to drink
-	this stuff?
+	Os funcionários do
+	SciLab gostam mesmo
+	de beber esses troços?
 	"""
 	keyWait
 		any = false
@@ -126,16 +127,16 @@ script 7 mmbn5 {
 		jumpIfFalse = 19
 	msgOpen
 	"""
-	It looks like
-	a plain old trash
-	can but actually⋯
+	Pode parecer uma
+	lata de lixo comum,
+	mas, na verdade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯No,it really is a
-	plain old trash can.
+	... Não, realmente É
+	uma lata de lixo comum.
 	"""
 	keyWait
 		any = false
@@ -144,17 +145,17 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Displayed here are
-	terminals SciLab has
-	worked on.
+	Aqui são exibidos os
+	terminais nos quais o
+	SciLab vem trabalhando.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The amount of work
-	concentrated here
-	is mind blowing.
+	O volume de trabalho
+	concentrado aqui é
+	assustador.
 	"""
 	keyWait
 		any = false
@@ -163,16 +164,16 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	A houseplant has
-	been placed here.
+	Colocaram uma planta
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Plants like these
-	help filter indoor
-	air.
+	Plantas como essa
+	ajudam a filtrar o
+	ar de dentro.
 	"""
 	keyWait
 		any = false
@@ -181,9 +182,9 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	The lab workers
-	relax their tired
-	minds here.
+	Os funcionários do labo-
+	ratório descansam suas
+	mentes cansadas aqui.
 	"""
 	keyWait
 		any = false
@@ -192,9 +193,9 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	No doubt the phone
-	here rings off the
-	hook.
+	Com toda a certeza,
+	esse telefone toca
+	o tempo todo.
 	"""
 	keyWait
 		any = false
@@ -203,15 +204,14 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	It appears to be a
-	guest register.
+	Parece ser um
+	registro de convidados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's jam-packed
-	with names.
+	Está recheado de nomes.
 	"""
 	keyWait
 		any = false
@@ -220,9 +220,9 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	Some nice plant is
-	displayed in the
-	reception area.
+	Uma planta bonita
+	fica exposta na
+	área da recepção.
 	"""
 	keyWait
 		any = false
@@ -236,17 +236,17 @@ script 14 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	It appears to be an
-	older terminal with
-	no place to jack in.
+	Parece ser um terminal
+	mais antigo, sem
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It shows signs of
-	recent repairs.
-	Turn it on?
+	Apresenta sinais de
+	reparos recentes.
+	Ligar?
 	"""
 	keyWait
 		any = false
@@ -261,7 +261,7 @@ script 14 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -270,7 +270,7 @@ script 14 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -290,9 +290,9 @@ script 15 mmbn5 {
 	flagClear
 		flag = 326
 	"""
-	The screen lights
-	up and the info
-	terminal starts.
+	A tela se acende, e o
+	terminal de informações
+	é iniciado.
 	"""
 	keyWait
 		any = false
@@ -305,17 +305,16 @@ script 16 mmbn5 {
 		jumpIfTrue = 14
 		jumpIfFalse = continue
 	"""
-	It appears to be an
-	older terminal with
-	no place to jack in.
+	Parece ser um terminal
+	mais antigo, sem
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It is turned off
-	and appears to be
-	out of order.
+	Está desligado, e
+	parece estar quebrado.
 	"""
 	keyWait
 		any = false
@@ -324,23 +323,24 @@ script 16 mmbn5 {
 script 17 mmbn5 {
 	msgOpen
 	"""
-	An older info
-	terminal.
+	Um terminal de
+	informações mais
+	antigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's no place
-	to jack in.
+	Não possui entrada
+	de conexão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's turned on
-	but does not seem
-	to be functioning.
+	Está ligado, mas
+	não parece estar
+	funcionando.
 	"""
 	keyWait
 		any = false
@@ -349,21 +349,21 @@ script 17 mmbn5 {
 script 18 mmbn5 {
 	msgOpen
 	"""
-	It appears to be an
-	older terminal with
-	no place to jack in.
+	Parece ser um terminal
+	mais antigo, sem
+	entrada de conexão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It appears to be
-	turned off.
+	E parece estar
+	desligado.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Turn it on?"
+	"Ligar?"
 	keyWait
 		any = false
 	clearMsg
@@ -377,7 +377,7 @@ script 18 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -386,7 +386,7 @@ script 18 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -404,19 +404,19 @@ script 19 mmbn5 {
 		flag = 541
 	msgOpen
 	"""
-	A trash can
-	for empty cans.
+	Uma lixeira para
+	latas vazias.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	"."
 	waitSkip
 		frames = 20
-	"・"
+	". "
 	wait
 		frames = 20
 	"Hm?"
@@ -424,9 +424,9 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A look inside
-	reveals an
-	unexpected item.
+	Olhar dentro dela
+	revela um objeto
+	inesperado.
 	"""
 	keyWait
 		any = false
@@ -438,8 +438,8 @@ script 19 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -452,9 +452,8 @@ script 19 mmbn5 {
 	playerResetScene
 	clearMsg
 	"""
-	Regular memory
-	increased by
-	1 MB!!
+	Memória padrão
+	aumentada em 1 MB!!
 	"""
 	keyWait
 		any = false
@@ -463,16 +462,16 @@ script 19 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	It looks like
-	a plain old trash
-	can but actually⋯
+	Pode parecer uma
+	lata de lixo comum,
+	mas, na verdade...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯No,it really is a
-	plain old trash can.
+	... Não, realmente É
+	uma lata de lixo comum.
 	"""
 	keyWait
 		any = false

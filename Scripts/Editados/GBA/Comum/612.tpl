@@ -79,34 +79,33 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"I BID YOU WELCOME."
+	"BOAS-VINDAS."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WOULD YOU LIKE TO
-	LINK THIS WEB PAGE
-	WITH YOURS?
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	IF YOU LINKED THEM,
-	YOU COULD COME
-	AND GO DIRECTLY
+	GOSTARIA DE LINKAR
+	ESTA PÁGINA COM A SUA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	BETWEEN THIS WEB
-	PAGE AND YOURS.
+	UMA VEZ LINKADAS,
+	VOCÊ PODERÁ TRANSITAR
+	LIVREMENTE
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"SHALL I LINK THEM?"
+	"""
+	ENTRE ESTA PÁGINA
+	E A SUA.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"POSSO CRIAR O LINK?"
 	keyWait
 		any = false
 	clearMsg
@@ -121,7 +120,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -130,7 +129,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -144,7 +143,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"HMMM⋯"
+	"HMMM..."
 	keyWait
 		any = false
 	end
@@ -154,16 +153,15 @@ script 4 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU'LL REALLY LINK
-	PAGES WITH US?
+	VAI MESMO LINKAR SUA
+	PÁGINA COM A NOSSA?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HERE,TAKE THIS.
-	USE THIS BANNER
-	TO COME HERE.
+	TOME. USE ESSE BANNER
+	PARA VIR PARA CÁ.
 	"""
 	keyWait
 		any = false
@@ -175,7 +173,7 @@ script 4 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	MegaMan got:
+	MegaMan adquiriu:
 	"
 	"""
 	printItem
@@ -190,15 +188,15 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	"""
-	OK,I'LL
-	PLACE A LINK!
+	CERTO, VOU INSTALAR
+	O LINK!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	HRRRR⋯
-	HAAAAAA!!!
+	HRRRR...
+	RÁÁÁÁÁÁ!!!
 	"""
 	keyWait
 		any = false
@@ -216,17 +214,17 @@ script 5 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THERE'S NO MORE
-	ADMIRABLE OR FORMAL
-	WEB PAGE THAN THIS!
+	NOSSA PÁGINA É A MAIS
+	ADMIRÁVEL E FORMAL
+	QUE HÁ!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WE DELIVER THE HEART
-	& SOUL OF ELECTOPIA
-	TO YOU ALL!
+	LEVAMOS O CORAÇÃO E
+	A ALMA DE NI-HON A
+	TODOS VOCÊS!
 	"""
 	keyWait
 		any = false
@@ -237,16 +235,16 @@ script 6 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This page's floor is
-	beautiful. It's like
-	a painting.
+	O piso desta página
+	é lindo. Parece até
+	uma pintura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think it's a
-	work of art!
+	Realmente, é uma
+	obra de arte!
 	"""
 	keyWait
 		any = false
@@ -257,21 +255,21 @@ script 7 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm all into being
-	a samurai lately!
+	Eu ando tão fissurado
+	na ideia de ser samurai!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout you?"
+	"E tu?"
 	keyWait
 		any = false
 	clearMsg
-	"Errr⋯ I mean⋯"
+	"Errr... Digo..."
 	keyWait
 		any = false
 	clearMsg
-	"And you my good sir?"
+	"E quanto a vós?"
 	keyWait
 		any = false
 	end
@@ -281,9 +279,9 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	THE⋯NO MO⋯
-	AD⋯⋯⋯OR⋯MAL
-	⋯PA⋯TH⋯TH⋯
+	O... CHEG...
+	AD... ...OR ...MAL
+	... CA... NHO... O...
 	"""
 	keyWait
 		any = false
@@ -291,9 +289,9 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -304,9 +302,9 @@ script 9 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	⋯pa⋯fl⋯is
-	⋯⋯ful⋯⋯like
-	a⋯ting.
+	... pa... fl... é...
+	... ndo... como...
+	tu... o.
 	"""
 	keyWait
 		any = false
@@ -314,9 +312,9 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -327,8 +325,8 @@ script 10 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	⋯all⋯to⋯ing
-	⋯knight⋯ly.
+	... tudo... para... ndo...
+	... cavalh... mo.
 	"""
 	keyWait
 		any = false
@@ -336,9 +334,9 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	It's no good⋯ Ican't
-	make it out over all
-	the interference.
+	Não adianta... Eu não
+	consigo entender, com
+	toda a interferência.
 	"""
 	keyWait
 		any = false
@@ -348,20 +346,21 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	WAIT ALL YA WANT. I
-	AIN'T GONNA HELP YA.
+	PODE ESPERAR AÍ PRA
+	SEMPRE, SE QUISER.
+	EU NUM VÔ TE AJUDAR.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DON'T PUSH YOUR LUCK
-	WITH ME RIGHT NOW.
+	NUM VACILA COMIGO
+	AGORA, NÃO!
 	"""
 	keyWait
 		any = false
@@ -372,13 +371,13 @@ script 12 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	This page's floor
-	makes me sick.
+	O piso desta página
+	me dá ânsia.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I should bust it up."
+	"Eu devia era rasgar ele!"
 	keyWait
 		any = false
 	end
@@ -388,21 +387,21 @@ script 13 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I'm all into being
-	a samurai lately.
+	Eu ando mó fissurado
+	em ser samurai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What would you do if
-	I drew my Katana and
-	started swinging it?
+	O que cê faria se eu
+	sacasse a minha katana
+	e saísse cortando tudo?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Heh heh heh⋯"
+	"He he he..."
 	keyWait
 		any = false
 	end
@@ -412,16 +411,17 @@ script 14 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I DIDN'T EVEN KNOW
-	I STOPPED DOING
-	MY JOB.
+	EU NEM PERCEBI QUE
+	PAREI DE REALIZAR
+	O MEU TRABALHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IT'S LIKE I WENT ON
-	STRIKE OR SOMETHING⋯
+	É COMO SE EU TIVESSE
+	ENTRADO EM GREVE OU
+	ALGO ASSIM...
 	"""
 	keyWait
 		any = false
@@ -432,16 +432,14 @@ script 15 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	I tried to ruin this
-	beautiful floor.
+	Eu tentei arruinar
+	este piso lindo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a terrible
-	thing that would've
-	been.
+	Isso teria sido terrível!
 	"""
 	keyWait
 		any = false
@@ -452,17 +450,16 @@ script 16 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	I suddenly wanted
-	to swing my Katana
-	around.
+	De repente, fiquei com
+	vontade de sacudir uma
+	katana por aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I guess I really
-	want to be a
-	samurai.
+	Acho que eu quero mesmo
+	ser um samurai, né?
 	"""
 	keyWait
 		any = false

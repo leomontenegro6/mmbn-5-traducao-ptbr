@@ -14,18 +14,18 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Mayl
 	msgOpen
-	"\"You mustn't neglect\n your studies"
+	"\"Você não deve relaxar\nnos estudos,"
 	keyWait
 		any = false
 	clearMsg
-	" even if school is\n canceled!\""
+	"mesmo com as aulas\ncanceladas!\""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯I bet that's what
-	Roll would say at a
-	time like this⋯
+	... Aposto que é isso
+	que a Roll diria nestas
+	horas...
 	"""
 	keyWait
 		any = false
@@ -36,9 +36,9 @@ script 5 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	When I'm alone,I
-	can't help but think
-	about Roll.
+	Quando eu tô sozinha,
+	não consigo não pensar
+	na Roll.
 	"""
 	keyWait
 		any = false
@@ -49,9 +49,8 @@ script 10 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Maybe I should go
-	out and try to get
-	my mind off things.
+	Acho que eu devia sair
+	um pouco pra espairar.
 	"""
 	keyWait
 		any = false
@@ -77,15 +76,15 @@ script 30 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What's wrong,Lan?
-	You look upset.
+	Que foi, Lan?
+	Você parece chateado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What happened to the
-	old you,Lan?
+	O que aconteceu com a
+	sua atitude de sempre?
 	"""
 	keyWait
 		any = false
@@ -96,17 +95,15 @@ script 35 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	I guess you must be
-	doing better,right,
-	Lan?
+	Acho que você tá melhor
+	agora, né, Lan?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can tell just by
-	the expression on
-	your face.
+	Dá pra ver só pela sua
+	cara.
 	"""
 	keyWait
 		any = false
@@ -117,9 +114,9 @@ script 40 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Tomorrow we're
-	having a study group
-	at Yai's house.
+	Amanhã, a gente vai
+	fazer estudo em grupo
+	na casa da Yai.
 	"""
 	keyWait
 		any = false
@@ -130,14 +127,14 @@ script 41 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Today we're supposed
-	to hold a study
-	group at Yai's house
+	Era pra gente ir pra
+	casa da Yai pra um
+	estudo em grupo,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"but where's Yai?"
+	"mas cadê ela?"
 	keyWait
 		any = false
 	end
@@ -147,8 +144,8 @@ script 45 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	What? Lan,you went
-	to a party?!
+	O quê? Lan, você foi
+	em uma festa?!
 	"""
 	keyWait
 		any = false
@@ -159,16 +156,16 @@ script 46 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	How do you figure
-	they don't invite me
-	but you get to go?
+	Como assim?
+	Eles convidaram VOCÊ,
+	e eu, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It seems I
-	underestimated you!
+	Olha! Quem te viu,
+	quem te vê, Lan!
 	"""
 	keyWait
 		any = false

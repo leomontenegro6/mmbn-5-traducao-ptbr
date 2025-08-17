@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's see,Dad said⋯
-	⋯There it is!
+	Deixa eu ver.
+	O papai tinha falado
+	que... Ah, tá aqui!
 	"""
 	keyWait
 		any = false
@@ -21,8 +22,8 @@ script 1 mmbn5 {
 		timer = 0
 		value = 1
 	"""
-	Lan got:
-	"Dad's ID"!!!
+	Lan adquiriu:
+	"ID Pai"!!!
 	"""
 	keyWait
 		any = false
@@ -36,15 +37,16 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Right! With Dad's
-	ID,
+	Boa! Com o cartão de
+	identificação do papai,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	we can get past all
-	the SciLab security!
+	a gente vai poder
+	passar por toda a
+	segurança do SciLab!
 	"""
 	keyWait
 		any = false
@@ -54,13 +56,13 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Yup!"
+	"É!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We should be able to
-	open that door!
+	Agora, deve dar pra
+	abrir aquela porta!
 	"""
 	keyWait
 		any = false
@@ -72,11 +74,11 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yup!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,Lan!"
+	"Bom, vamos lá, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -87,7 +89,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You bet,MegaMan!"
+	"E já!"
 	keyWait
 		any = false
 	end

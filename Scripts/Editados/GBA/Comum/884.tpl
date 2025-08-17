@@ -4,14 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What a ship!"
+	"Caaaramba!\nOlha só esse navio!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These rich guys sure
-	know how to throw a
-	party!
+	Esses ricaços sabem
+	mesmo dar uma festa!
 	"""
 	keyWait
 		any = false
@@ -25,43 +24,42 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 335
-	"Ding dong,ding dong."
+	"Dim Dom Dim Dom..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is a passenger
-	announcement. We
-	are now departing.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	A further
-	announcement will be
-	made
+	Comunicado aos
+	passageiros.
+	Estamos zarpando agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when the party is
-	about to begin.
+	Realizaremos outro
+	comunicado assim
+	que a festa estiver 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We wish you all a
-	pleasant voyage.
+	prestes a começar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The vessel is now
-	leaving port.
+	Desejamos a todos uma
+	maravilhosa viagem.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	O navio está deixando
+	o porto...
 	"""
 	keyWait
 		any = false
@@ -69,7 +67,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 336
-	"Buuuuuuuuuh!"
+	"Buóóóóóóón!"
 	keyWait
 		any = false
 	clearMsg
@@ -81,9 +79,9 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,looks like we're
-	away! Wow! You can't
-	feel it roll at all.
+	Ah, parece que a gente
+	zarpou! Nossa!
+	O navio nem balança!
 	"""
 	keyWait
 		any = false
@@ -94,8 +92,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,ProtoMan,what's
-	the plan?
+	Beleza, ProtoMan.
+	Qual que é o plano?
 	"""
 	keyWait
 		any = false
@@ -108,9 +106,9 @@ script 4 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	First we check if
-	there's anyone
-	suspicious on board.
+	Primeiro, precisamos
+	conferir se há alguém
+	suspeito a bordo.
 	"""
 	keyWait
 		any = false
@@ -122,7 +120,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger⋯"
+	"Entendido..."
 	keyWait
 		any = false
 	clearMsg
@@ -133,16 +131,16 @@ script 6 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Ah,I see⋯ It'll be
-	done before the
-	party startsss⋯
+	Ah, entendo...
+	Será feito assim que
+	a fessssta começar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Yesss,of courssse.
-	Thank you.
+	... Sim, masssss é claro.
+	Obrigado.
 	"""
 	keyWait
 		any = false
@@ -153,16 +151,16 @@ script 7 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	How are you enjoying
-	the cruise?
+	O senhor está gostando
+	do cruzeiro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but the Engine
-	Room's out of bounds
-	for passengers.
+	Sinto muito, mas passa-
+	geiros não podem entrar
+	na sala das máquinas.
 	"""
 	keyWait
 		any = false
@@ -175,9 +173,9 @@ script 8 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Oh,sssorry. Which
-	way is it to the
-	Deck then?
+	Ah, me desssssculpe.
+	Para que lado fica o
+	convésss, então?
 	"""
 	keyWait
 		any = false
@@ -190,9 +188,9 @@ script 9 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	You need to go back
-	along this corridor
-	the other way.
+	É só voltar por esse
+	corredor, no sentido
+	contrário.
 	"""
 	keyWait
 		any = false
@@ -204,7 +202,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Oh,right⋯ Thanksss."
+	"Ah, claro... Obrigado."
 	keyWait
 		any = false
 	end
@@ -214,15 +212,16 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A-Already?! He's
-	suspicious!
+	M-mas já?!
+	Aquele cara ali
+	é ultra suspeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Uh-oh! He's coming
-	this way!
+	Eita!
+	Ele tá vindo pra cá!
 	"""
 	keyWait
 		any = false
@@ -233,8 +232,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He's gone! What
-	now,ProtoMan?
+	Ele foi embora!
+	E agora, ProtoMan?
 	"""
 	keyWait
 		any = false
@@ -247,8 +246,9 @@ script 13 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Let's just tread
-	water for a while⋯
+	A melhor estratégia
+	aqui é comer pelas
+	beiradas...
 	"""
 	keyWait
 		any = false
@@ -259,16 +259,17 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	"Tread water"? So,
-	there's a pool on
-	board? Or d'you mean
+	"Comer pelas beiradas"?
+	Comer o quê? Já tão
+	servindo a comida?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	diving in the sea?
-	That's dangerous!
+	E, quando EU como
+	pizza, costumo deixar
+	a borda por último!
 	"""
 	keyWait
 		any = false
@@ -281,17 +282,17 @@ script 15 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	I mean,let's let him
-	carry on doing what
-	he wants for a bit.
+	Quero dizer para nos
+	aproximarmos devagar.
+	Deixe-o, por enquanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll wait and see
-	if he does anything
-	unusual.
+	Vamos esperar para ver
+	se ele faz alguma coisa
+	fora do comum.
 	"""
 	keyWait
 		any = false
@@ -304,21 +305,20 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,right! Special
-	crime-busting talk,
-	huh⋯
+	Ah, entendi!
+	Linguajar de justiceiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll remember that."
+	"Vou lembrar dessa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess I'll just be
-	treading in water,
-	then!
+	Acho que eu vou
+	abocanhar esse cara
+	pela beirada, então!
 	"""
 	keyWait
 		any = false
@@ -331,8 +331,9 @@ script 17 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	N-No,not in!
-	Oh,never mind!
+	N-não, não é para
+	comer ELE...
+	Ah, esqueça.
 	"""
 	keyWait
 		any = false
@@ -343,8 +344,8 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Okay,Colonel,what's
-	the plan?
+	Beleza, Colonel.
+	Qual que é o plano?
 	"""
 	keyWait
 		any = false
@@ -357,9 +358,9 @@ script 19 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	First we check if
-	there's anyone
-	suspicious on board.
+	Primeiro, precisamos
+	conferir se há alguém
+	suspeito a bordo.
 	"""
 	keyWait
 		any = false
@@ -371,7 +372,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Roger⋯"
+	"Entendido..."
 	keyWait
 		any = false
 	clearMsg
@@ -382,16 +383,16 @@ script 21 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Ah,I see⋯ It'll be
-	done before the
-	party startsss⋯
+	Ah, entendo...
+	Será feito assim que
+	a fessssta começar...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯Yesss,of courssse.
-	Thank you.
+	... Sim, masssss é claro.
+	Obrigado.
 	"""
 	keyWait
 		any = false
@@ -402,16 +403,16 @@ script 22 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	How are you enjoying
-	the cruise?
+	Está gostando
+	do cruseiro?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,but the Engine
-	Room's out of bounds
-	for passengers.
+	Sinto muito, mas passa-
+	geiros não podem entrar
+	na sala das máquinas.
 	"""
 	keyWait
 		any = false
@@ -424,9 +425,9 @@ script 23 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Oh,sssorry. Which
-	way is it to the
-	Deck then?
+	Ah, me desssssculpe.
+	Para que lado fica o
+	convés, então?
 	"""
 	keyWait
 		any = false
@@ -439,9 +440,9 @@ script 24 mmbn5 {
 		mugshot = SciLabYoungMan
 	msgOpen
 	"""
-	You need to go back
-	along this corridor
-	the other way.
+	É só voltar por esse
+	corredor, no sentido
+	contrário.
 	"""
 	keyWait
 		any = false
@@ -453,7 +454,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = BlackMan
 	msgOpen
-	"Oh,right⋯ Thanksss."
+	"Ah, claro... Obrigado."
 	keyWait
 		any = false
 	end
@@ -463,15 +464,16 @@ script 26 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A-Already?! He's
-	suspicious!
+	M-mas já?!
+	Aquele cara ali
+	é ultra suspeito!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Uh-oh! He's coming
-	this way!
+	Eita!
+	Ele tá vindo pra cá!
 	"""
 	keyWait
 		any = false
@@ -482,8 +484,8 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	He's gone! What
-	now,Colonel?
+	Ele foi embora!
+	E agora, Colonel?
 	"""
 	keyWait
 		any = false
@@ -496,28 +498,30 @@ script 28 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Let's just tread
-	water for a while⋯
+	A melhor estratégia
+	aqui é comer pelas
+	beiradas...
 	"""
 	keyWait
 		any = false
 	end
 }
-script 29 mmbn5 {
+script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
 	"""
-	"Tread water"? So,
-	there's a pool on
-	board? Or d'you mean
+	"Comer pelas beiradas"?
+	Comer o quê? Já tão
+	servindo a comida?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	diving in the sea?
-	That's dangerous!
+	E, quando EU como
+	pizza, costumo deixar
+	a borda por último!
 	"""
 	keyWait
 		any = false
@@ -530,17 +534,17 @@ script 30 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	I mean,let's let him
-	carry on doing what
-	he wants for a bit.
+	Quero dizer para nos
+	aproximarmos devagar.
+	Deixe-o, por enquanto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We'll wait and see
-	if he does anything
-	unusual.
+	Vamos esperar para ver
+	se ele faz alguma coisa
+	fora do comum.
 	"""
 	keyWait
 		any = false
@@ -553,21 +557,20 @@ script 31 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Oh,right! Special
-	crime-busting talk,
-	huh⋯
+	Ah, entendi!
+	Linguajar de justiceiro...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'll remember that."
+	"Vou lembrar dessa."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Guess I'll just be
-	treading in water,
-	then!
+	Acho que eu vou
+	abocanhar esse cara
+	pela beirada, então!
 	"""
 	keyWait
 		any = false
@@ -580,8 +583,9 @@ script 32 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	N-No,not in!
-	Oh,never mind!
+	N-não, não é para
+	comer ELE...
+	Ah, esqueça.
 	"""
 	keyWait
 		any = false

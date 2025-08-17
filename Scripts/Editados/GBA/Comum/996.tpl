@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Where is he?!"
+	"Cadê ele?!"
 	keyWait
 		any = false
 	end
@@ -22,18 +22,18 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What was that?!"
+	"O que foi isso?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hey,there's a sound
-	coming from above!
+	Aí, tem um barulho
+	vindo lá de cima!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What's up there?"
+	"O que será que tem lá?"
 	keyWait
 		any = false
 	clearMsg
@@ -45,13 +45,13 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,maybe there's
-	a secret passage to
+	Lan, talvez seja
+	uma passagem secreta
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"the floor above!"
+	"pro andar de cima!"
 	keyWait
 		any = false
 	clearMsg
@@ -63,8 +63,8 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Maybe! Let's check
-	it out!
+	Talvez!
+	Bora conferir!
 	"""
 	keyWait
 		any = false

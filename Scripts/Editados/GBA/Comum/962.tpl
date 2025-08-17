@@ -4,21 +4,21 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Fyrefox
 	msgOpen
-	"Heya,Lan!"
+	"Fala, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You here to destroy
-	Nebula's server?
+	Tá aqui pra destruir
+	o servidor da Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This server's inside
-	this NetBattle
-	machine!
+	O servidor tá aqui,
+	dentro desta máquina
+	de NetLuta!
 	"""
 	keyWait
 		any = false
@@ -31,8 +31,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well then,no time to
-	lose. Let's find it!
+	Bom, não vamos
+	perder tempo, então.
+	Bora achar ele!
 	"""
 	keyWait
 		any = false
@@ -45,9 +46,9 @@ script 2 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	You know⋯ I wanted
-	to battle you here
-	awhile back⋯
+	Sabe... Um tempinho
+	atrás, eu tava doido
+	pra lutar contigo aqui...
 	"""
 	keyWait
 		any = false
@@ -60,8 +61,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is no time
-	to bring that up!
+	Isso lá é hora
+	pra pensar nisso?!
 	"""
 	keyWait
 		any = false
@@ -74,8 +75,8 @@ script 4 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I was not able to
-	battle you then⋯
+	Não deu pra eu lutar
+	com você daquela vez...
 	"""
 	keyWait
 		any = false
@@ -87,7 +88,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait a sec,Fyrefox!"
+	"Peraí, Fyrefox!"
 	keyWait
 		any = false
 	clearMsg
@@ -99,29 +100,29 @@ script 6 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	I get a wild urge
-	to battle here⋯
+	Eu sinto uma vontade
+	louca de lutar aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't control
-	this feeling⋯
+	Não consigo controlar
+	o sentimento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I gotta battle
-	someone right now!!!
+	Eu preciso lutar com
+	alguém, agora!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,battle me and
-	NapalmMan right now!
+	Lan, luta comigo e
+	com o NapalmMan, já!
 	"""
 	keyWait
 		any = false
@@ -136,15 +137,15 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like we have
-	to take 'em on.
+	Parece que a gente vai
+	ter que encarar eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're gonna jack
-	in no matter what.
+	Eles vão se conectar
+	de qualquer jeito...
 	"""
 	keyWait
 		any = false
@@ -157,13 +158,13 @@ script 8 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Heh,heh⋯ So ya do
-	wanna take us on!
+	He he... Então,
+	cê vai encarar a gente!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're going down⋯"
+	"Cê já era..."
 	keyWait
 		any = false
 	clearMsg
@@ -175,8 +176,9 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go,MegaMan!
-	Battle routine,set!
+	Bora, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -188,7 +190,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -199,7 +201,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"I'll blow 'em away!"
+	"Você vai pelos ares!"
 	keyWait
 		any = false
 	end
@@ -213,16 +215,16 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	You here to destroy
-	Nebula's server?
+	Tá aqui pra destruir
+	o servidor da Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This server's inside
-	this NetBattle
-	machine!
+	O servidor tá aqui,
+	dentro desta máquina
+	de NetLuta!
 	"""
 	keyWait
 		any = false
@@ -235,8 +237,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Well then,no time to
-	lose. Let's find it!
+	Bom, não vamos
+	perder tempo, então.
+	Bora achar ele!
 	"""
 	keyWait
 		any = false
@@ -249,9 +252,9 @@ script 14 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	You know⋯ I wanted
-	to battle you here
-	a while back⋯
+	Sabe... Um tempo atrás,
+	eu queria muito lutar
+	com você aqui...
 	"""
 	keyWait
 		any = false
@@ -264,8 +267,8 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is no time
-	to bring that up!
+	Isso lá é hora
+	pra pensar nisso?!
 	"""
 	keyWait
 		any = false
@@ -278,8 +281,8 @@ script 16 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I was not able to
-	battle you then⋯
+	Não deu pra eu lutar
+	com você daquela vez...
 	"""
 	keyWait
 		any = false
@@ -291,7 +294,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Wait a sec,Dingo!"
+	"Peraí, Dingo!"
 	keyWait
 		any = false
 	clearMsg
@@ -303,29 +306,29 @@ script 18 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	I get a wild urge
-	to battle here⋯
+	Eu sinto uma vontade
+	louca de lutar aqui...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't control
-	this feeling⋯
+	Não consigo controlar
+	o sentimento...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I gotta battle
-	someone right now!!!
+	Eu preciso lutar com
+	alguém, agora!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,battle me and
-	TomahawkMan!
+	Lan, luta comigo e
+	com o TomahawkMan!
 	"""
 	keyWait
 		any = false
@@ -340,15 +343,15 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Looks like we have
-	to take 'em on.
+	Parece que a gente vai
+	ter que encarar eles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're gonna jack
-	in no matter what.
+	Eles vão se conectar
+	de qualquer jeito...
 	"""
 	keyWait
 		any = false
@@ -361,13 +364,14 @@ script 20 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	Heh,heh⋯ So ya do
-	wanna take us on!
+	He he... Então,
+	você vai encarar
+	a gente, mesmo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"You're going down⋯"
+	"Você já era..."
 	keyWait
 		any = false
 	clearMsg
@@ -379,8 +383,9 @@ script 21 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go,MegaMan!
-	Battle routine,set!
+	Bora, MegaMan!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -392,7 +397,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -403,7 +408,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"I'm gonna crush you!"
+	"Vou te dilacerar!"
 	keyWait
 		any = false
 	end

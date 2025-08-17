@@ -5,8 +5,7 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Bring him this way!
-	Now!
+	Tragam ele aqui! Vamos!
 	"""
 	keyWait
 		any = false
@@ -19,8 +18,8 @@ script 1 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	It's all set! Call
-	the doc!
+	Certo, tudo em posição.
+	Agora chamem o doutor!
 	"""
 	keyWait
 		any = false
@@ -30,14 +29,14 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Surprise,surprise!"
+	"Surpresa, galerinha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think we caught
-	somebody you may
-	know!
+	Acho que a gente pegou
+	alguém que cês conhecem
+	muito bem!
 	"""
 	keyWait
 		any = false
@@ -49,7 +48,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = GutsMan
 	msgOpen
-	"Who?"
+	"Quem?"
 	keyWait
 		any = false
 	end
@@ -58,7 +57,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"MegaMan!"
+	"Mega!"
 	keyWait
 		any = false
 	end
@@ -79,8 +78,8 @@ script 6 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	C'mon,c'mon!
-	Wake up! Wake up!
+	Vai, MegaMan!
+	Acorda, Guts!
 	"""
 	keyWait
 		any = false
@@ -92,7 +91,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"MegaMan!!!"
+	"Mega!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -104,24 +103,25 @@ script 8 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Scream all you want,
-	he can't hear you.
+	Gritem o quanto cês
+	quiserem. Ele não pode
+	ouvir vocês.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A sleep program has
-	him knocked out
-	cold.
+	Um programa de
+	sono deu uma bela
+	nocauteada nele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You couldn't wake
-	him with a
-	sledgehammer.
+	Nem com uma marreta
+	cês iam fazer ele
+	abrir os olhos.
 	"""
 	keyWait
 		any = false
@@ -134,8 +134,9 @@ script 9 mmbn5 {
 		mugshot = GutsMan
 	msgOpen
 	"""
-	What're you gonna do
-	with MegaMan!!!
+	O que é que você vai
+	fazer com o MegaMan,
+	Guts?!!!
 	"""
 	keyWait
 		any = false
@@ -148,24 +149,22 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Oh,we're just going
-	to enslave him,
-	that's all!
+	Ah, a gente só vai dar
+	uma escravizada nele!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,sit back and
-	watch how we make
-	new friends!
+	Enfim, espero que se
+	divirtam vendo como nós
+	fazemos novos amigos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gyah hah hah hah
-	hah!
+	Gya ha ha ha haaa!
 	"""
 	keyWait
 		any = false
@@ -175,7 +174,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	msgOpen
-	"Nooooo!!! MegaMan!!!"
+	"Nãããão!!! Meeeegaaaa!!"
 	wait
 		frames = 80
 	end
@@ -185,37 +184,37 @@ script 12 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I take it today's
-	guinea pig is this
-	kid?
+	Então, é esse garoto
+	aí o paciente do dia?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Regal tells me,he
-	is a Navi of the
-	highest caliber
+	O Regal falou que ele
+	é um Navi do mais alto
+	calibre,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	and was built based
-	on human DNA data.
+	e que foi construído
+	com base em dados de
+	DNA humano.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What a pity that
-	we'll be tainting
-	such perfection!
+	Ah... Vai ser mesmo
+	uma pena manchar uma
+	perfeição dessas!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Hee hee hee!"
+	"He he he he!"
 	keyWait
 		any = false
 	clearMsg
@@ -227,8 +226,9 @@ script 13 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Doc,this time it'll
-	work,I'm sure of it!
+	Doutor, acho que,
+	com ele, vai dar
+	certo, desta vez!
 	"""
 	keyWait
 		any = false
@@ -240,18 +240,18 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Oh,either way!"
+	"Tô doido pra ver!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let the operation
-	begin!
+	Hora de iniciar
+	a operação!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Use this DarkChip⋯"
+	"Usando este Chip das\nTrevas..."
 	keyWait
 		any = false
 	end
@@ -261,32 +261,32 @@ script 15 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	and implant the
-	DarkPower
-	into this boy!
+	vou implantar o Poder
+	das Trevas no corpo
+	deste menino!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Begin!"
+	"Agora!"
 	keyWait
 		any = false
 	end
 }
 script 16 mmbn5 {
 	msgOpen
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Eeyaaaahh!"
+	"Urrgaaaaaaaaahhhh!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hrggh⋯Rggghh⋯
+	Hrggh... Rggghh...
 	Arrgggrrrahh!
 	"""
 	keyWait
@@ -300,16 +300,17 @@ script 17 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	That was one of the
-	most powerful sleep
-	programs
+	O programa de sono que
+	usamos era um dos mais
+	poderosos que existe,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but the intense pain
-	has cracked it.
+	mas a dor intensa da
+	operação acabou fazendo
+	ele acordar mesmo assim.
 	"""
 	keyWait
 		any = false
@@ -322,33 +323,32 @@ script 18 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	The agony is beyond
-	comprehension,I'm
-	sure!
+	A agonia, decerto,
+	está além da nossa
+	compreensão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The DarkPower of the
-	DarkChip implanted
-	in him,
+	O Poder das Trevas
+	do Chip das Trevas
+	implantado nele
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	is seeping into
-	every pore in his
-	body.
+	está invadindo cada
+	byte de seu corpo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Any other Navi,and
-	he would've self-
-	deleted by now.
+	Qualquer outro Navi já
+	teria se auto-deletado
+	a esta altura.
 	"""
 	keyWait
 		any = false
@@ -362,7 +362,7 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	Hrrggraaah!
-	Aieeeee!!!
+	Aaaaaahhh!!!
 	"""
 	keyWait
 		any = false
@@ -375,9 +375,9 @@ script 20 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I get goose bumps
-	just thinking about
-	it! Hee hee!
+	Me dá arrepios
+	só de pensar!
+	He he he!
 	"""
 	keyWait
 		any = false
@@ -390,9 +390,8 @@ script 21 mmbn5 {
 		mugshot = Regal
 	msgOpen
 	"""
-	Doctor,how is our
-	MegaMan coming
-	along?
+	Doutor, como está o
+	progresso com MegaMan?
 	"""
 	keyWait
 		any = false
@@ -402,22 +401,22 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"Ah,Master Regal!"
+	"Ah, Mestre Regal!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Very well,indeed!
-	He is all that you
-	hoped for,Regal!
+	Está indo muitíssimo
+	bem! Ele é tudo aquilo
+	o que você esperava!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	His soul will soon
-	be soaked with
-	DarkPower!
+	A alma dele logo ficará
+	banhada de Poder das
+	Trevas!
 	"""
 	keyWait
 		any = false
@@ -429,14 +428,14 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Regal
 	msgOpen
-	"Yes,I see."
+	"Entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Once the DarkPower
-	stabilizes,boot him
-	up.
+	Uma vez que o
+	Poder das Trevas se
+	estabilizar, ligue-o.
 	"""
 	keyWait
 		any = false
@@ -448,7 +447,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviBlack
 	msgOpen
-	"As you say."
+	"Como desejar."
 	keyWait
 		any = false
 	end
@@ -458,9 +457,9 @@ script 25 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	O DarkPower,seep
-	deeper! Cling
-	stronger!
+	Ó, Poder das Trevas!
+	Infiltre-se ainda mais!
+	Agarre-se mais forte!
 	"""
 	keyWait
 		any = false
@@ -473,7 +472,7 @@ script 26 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aieeeeegggh!
+	Aaaaaaagggh!
 	LAAAAAAN!!!
 	"""
 	keyWait
@@ -487,30 +486,29 @@ script 27 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Savor the pain! Feel
-	the anguish!
+	Saboreie a dor!
+	Sinta a angústia!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And once it finally
-	subsides,
+	E, quando finalmente
+	tiverem passado,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you shall be reborn,
-	as the dark warrior,
+	você irá renascer como
+	o guerreiro das trevas...
 	DarkMega!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gyah hah hah hah
-	hah!
+	Gya ha ha ha haaa!
 	"""
 	keyWait
 		any = false

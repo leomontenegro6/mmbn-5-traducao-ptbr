@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Alright! Let's get
-	moving!
+	Beleza!
+	Bora continuar!
 	"""
 	keyWait
 		any = false
@@ -20,7 +20,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 227
-	"*RUMBLE RUMBLE*"
+	"PRRUUUUMM PRRUUUUMM"
 	wait
 		frames = 29
 	end
@@ -30,13 +30,13 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Whoa!
-	Another earthquake!
+	Argh!
+	Outro terremoto!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But why so many?"
+	"Por que tá tendo tantos?"
 	keyWait
 		any = false
 	end
@@ -46,16 +46,15 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Phew,it finally
-	stopped.
+	Ufa, finalmente parou.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But doesn't their
-	frequency seem
-	strange to you?
+	Mas cê não acha essa
+	frequência deles meio
+	estranha?
 	"""
 	keyWait
 		any = false
@@ -67,7 +66,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It sure does,Lan⋯"
+	"Acho, e muito..."
 	keyWait
 		any = false
 	end
@@ -76,7 +75,7 @@ script 5 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*RIIING!*"
+	"TRRRIIIIIMMM!"
 	wait
 		frames = 62
 	end
@@ -86,8 +85,7 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,it's your
-	phone!
+	Lan! Ligação!
 	"""
 	keyWait
 		any = false
@@ -98,17 +96,17 @@ script 7 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Lan,do you read?!
-	Something's wrong
-	with⋯SubPET⋯
+	Lan, tá na escuta?!
+	O SubPET tá dando
+	algu... problem...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	⋯not just⋯OldMine,
-	even May⋯d Yai's⋯
-	⋯not too⋯
+	... ão é só... Velha
+	Mina, até a May... da
+	Yai... não muito...
 	"""
 	keyWait
 		any = false
@@ -122,23 +120,23 @@ script 8 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 220
-	"*kchnk*\n"
+	"Tchiun\n"
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"bleep "
+	"Tuu "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"bleep "
+	"Tuu "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"bleep⋯"
+	"Tuu..."
 	keyWait
 		any = false
 	clearMsg
@@ -153,20 +151,21 @@ script 9 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Disconnected?"
+	"Desconectou...?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,let's hurry
-	and find them!
+	MegaMan, a gente
+	tem que achar eles,
+	e rápido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hold out just a
-	little longer,guys!
+	Aguenta só mais um
+	pouquinho, gente!
 	"""
 	keyWait
 		any = false

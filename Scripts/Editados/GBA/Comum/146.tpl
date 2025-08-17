@@ -3,16 +3,16 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	This must be an air
-	filtration system
-	for the mine.
+	Deve ser um sistema
+	de filtração de ar da
+	mina.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There's a port
-	for jacking in.
+	Possui uma entrada
+	para conexão.
 	"""
 	keyWait
 		any = false

@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You never learn,do
-	you⋯?
+	Cê não aprende
+	mesmo, hein...?
 	"""
 	keyWait
 		any = false
@@ -16,7 +16,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"You can't pass here!"
+	"Ninguém vai passar aqui!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -27,7 +27,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Lan,this is it!"
+	"Hikari, é agora!"
 	keyWait
 		any = false
 	end
@@ -41,16 +41,17 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Fool! Coming alone
-	again!
+	Idiota!
+	Inventou de vir
+	sozinho de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't think we'll go
-	easy on you because
-	you're alone!
+	Não ache que a gente
+	vai pegar leve contigo
+	só porque cê tá só!
 	"""
 	keyWait
 		any = false
@@ -62,13 +63,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Hmph!"
+	"Hmpf!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NapalmMan! You're
-	up!
+	NapalmMan!
+	É com você!
 	"""
 	keyWait
 		any = false
@@ -79,8 +80,8 @@ script 5 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	Tsk! Don't start
-	bossing me around!
+	Tsc! Não vem ser mandão
+	pra cima de mim, não!
 	"""
 	keyWait
 		any = false
@@ -93,17 +94,17 @@ script 6 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You can't win on
-	your own so you
-	brought backup?!
+	Como não consegue
+	vencer sozinho, cê
+	trouxe reforços, é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So there's one more
-	at the party! You'll
-	still lose!
+	Bom, grandes coisas!
+	Cês vão perder do mesmo
+	jeito!
 	"""
 	keyWait
 		any = false
@@ -115,13 +116,17 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hah! We'll see!"
+	"""
+	Rá!
+	Isso é o que a
+	gente vai ver!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NapalmMan! Blast him
-	away!
+	NapalmMan!
+	Explode eles!
 	"""
 	keyWait
 		any = false
@@ -134,22 +139,23 @@ script 8 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	I said stop bossing
-	me around!
+	Eu já falei pra
+	não mandar em mim!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know what to do!
-	He's history!
+	Eu sei o que eu
+	tenho que fazer!
+	Esses aí já eram!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Prepare to be blown
-	away!
+	Preparem pra
+	ir pelos ares!
 	"""
 	keyWait
 		any = false
@@ -161,7 +167,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Lan,this is it!"
+	"Lan Hikari, é agora!"
 	keyWait
 		any = false
 	end
@@ -175,16 +181,17 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Fool! Coming alone
-	again!
+	Idiota!
+	Inventou de vir
+	sozinho de novo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Don't think we'll go
-	easy on you because
-	you're alone!
+	Não ache que a gente
+	vai pegar leve contigo
+	só porque cê tá só!
 	"""
 	keyWait
 		any = false
@@ -197,8 +204,9 @@ script 11 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	TomahawkMan,show him
-	your power!
+	TomahawkMan,
+	mostre a eles
+	o seu poder!
 	"""
 	keyWait
 		any = false
@@ -209,13 +217,13 @@ script 12 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	You want this guy
-	taken out?
+	Você quer que eu acabe
+	com esse sujeitinho aí?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"No trouble!"
+	"Moleza!"
 	keyWait
 		any = false
 	clearMsg
@@ -227,17 +235,17 @@ script 13 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	You can't win on
-	your own so you
-	brought backup?!
+	Como não consegue
+	vencer sozinho, cê
+	trouxe reforços, é?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So there's one more
-	at the party! You'll
-	still lose!
+	Bom, grandes coisas!
+	Cês vão perder do mesmo
+	jeito!
 	"""
 	keyWait
 		any = false
@@ -249,13 +257,16 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Hah! We'll see!"
+	"""
+	Rá!
+	Isso é o que a
+	gente vai ver!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	TomahawkMan,carve
-	him up!
+	TomahawkMan, fatia eles!
 	"""
 	keyWait
 		any = false
@@ -268,13 +279,17 @@ script 15 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	I'll use you to
-	sharpen my tomahawk!
+	Vou usar vocês
+	pra afiar a minha
+	machadinha!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Watch for the swing!"
+	"""
+	Sai da frente quem
+	não quiser se cortar!
+	"""
 	keyWait
 		any = false
 	soundPlayBGM
@@ -295,8 +310,8 @@ script 17 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	D-Dr.Regal⋯
-	forgive me⋯!
+	D-Dr.Regal...
+	Me perdoe...!
 	"""
 	keyWait
 		any = false
@@ -311,16 +326,17 @@ script 18 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	That's it?! Talk
-	about weak!
+	Foi só isso?!
+	Chamar de "fraco"
+	é apelido!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There'll be some
-	more challenging bad
-	guys later,right?
+	Ainda vão aparecer
+	inimigos mais
+	desafiadores, né?
 	"""
 	keyWait
 		any = false
@@ -332,7 +348,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"For sure⋯"
+	"Pode apostar..."
 	keyWait
 		any = false
 	end
@@ -342,17 +358,17 @@ script 20 mmbn5 {
 		mugshot = NapalmMan
 	msgOpen
 	"""
-	It felt like a fire
-	was lit in my heart
-	with that strike.
+	Eu senti uma chama
+	acender no meu coração
+	com esse ataque.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wanna fire off a
-	few more rounds!
-	I'll be up ahead!
+	Quero disparar mais
+	umas baterias!
+	Espero vocês na frente!
 	"""
 	keyWait
 		any = false
@@ -363,9 +379,9 @@ script 21 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Lan,we haven't got
-	time to sit around!
-	Let's go!
+	Hikari, não temos
+	tempo para ficar de
+	corpo mole! Vamos!
 	"""
 	keyWait
 		any = false
@@ -377,14 +393,14 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"See! No trouble!"
+	"Viu? Fácil, fácil!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	There'll be some
-	more challenging bad
-	guys later,right?
+	Mais à frente vão
+	ter inimigos mais
+	desafiadores, né?
 	"""
 	keyWait
 		any = false
@@ -396,7 +412,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"There will⋯"
+	"Com certeza..."
 	keyWait
 		any = false
 	end
@@ -406,16 +422,16 @@ script 24 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	That battle really
-	sparked my fighting
-	instincts.
+	Esse ataque agora
+	despertou forte os
+	meus instintos de luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I can't sit around
-	here! I want more!
+	Eu não consigo ficar
+	parado! Quero mais!
 	"""
 	keyWait
 		any = false
@@ -426,8 +442,8 @@ script 25 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Come on,Lan! No
-	time to waste!
+	Vamos, Lan Hikari!
+	Não há tempo a perder!
 	"""
 	keyWait
 		any = false
@@ -439,7 +455,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Right!"
+	"Tá!"
 	keyWait
 		any = false
 	end

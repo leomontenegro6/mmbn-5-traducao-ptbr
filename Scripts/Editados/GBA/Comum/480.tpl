@@ -4,27 +4,27 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = HeelNaviPurple
 	msgOpen
-	"Welcome."
+	"Bem-vindo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	This is the big,
-	bad,scary
-	Undernet⋯
+	Esta aqui é a Undernet.
+	A perigosa. A macabra.
+	A sinistra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's a terrifying
-	world of hate
-	and evil. Enjoy!
+	Um mundo aterrorizante
+	de ódio e maldade.
+	Aproveite a estadia!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ha,ha,ha!"
+	"Ha ha ha!"
 	keyWait
 		any = false
 	end
@@ -34,17 +34,17 @@ script 1 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	Darkness and evil
-	are the reality of
-	our existence.
+	A escuridão e o mal
+	são a realidade da
+	nossa existência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I mean,you can't
-	act like an angel
-	all the time,right?
+	Digo, ninguém aguenta
+	ser anjinho o tempo
+	todo, né?
 	"""
 	keyWait
 		any = false

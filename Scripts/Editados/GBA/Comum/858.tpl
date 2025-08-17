@@ -5,8 +5,9 @@ script 0 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Hah hah hah hah!
-	Well done,well done!
+	Ha ha ha ha!
+	Mandou bem, rapaz!
+	Mandou bem!
 	"""
 	keyWait
 		any = false
@@ -18,13 +19,13 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Are you satisfied?"
+	"E aí? Satisfeito?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,tell us what you
-	know about Dad.
+	Agora fala o que você
+	sabe sobre o papai.
 	"""
 	keyWait
 		any = false
@@ -37,23 +38,24 @@ script 2 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Yes,I almost forgot!
-	What I found out is⋯
+	Ah, é, quase esqueci!
+	O que eu descobri foi
+	que...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula kidnapped
-	your father⋯
+	a Nebula sequestrou
+	o seu pai
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	in order to capture
-	a certain "thing"
-	that he has.
+	pra pôr as mãos em
+	uma certa "coisa"
+	que ele tem.
 	"""
 	keyWait
 		any = false
@@ -66,13 +68,13 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Something my Dad
-	has?
+	Uma coisa que
+	o meu pai tem?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"But what?"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -84,25 +86,25 @@ script 4 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Couldn't tell you.
-	This is all I know.
+	Sei lá.
+	É só isso que eu sei.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"That's it?!"
+	"É só isso?!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Charlie
-	"Yes,that's it!"
+	"Aham!"
 	keyWait
 		any = false
 	clearMsg
-	"Hey,come on home!"
+	"Volta pra casa, amigão!"
 	keyWait
 		any = false
 	clearMsg
@@ -113,7 +115,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Roger!"
+	"Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -125,16 +127,16 @@ script 6 mmbn5 {
 		mugshot = Charlie
 	msgOpen
 	"""
-	Lan,you have quite
-	some technique.
+	Lan, cê tem umas
+	habilidades da hora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But you rely too
-	much on your Navi's
-	abilities.
+	Mas cê depende demais
+	das capacidades do seu
+	Navi.
 	"""
 	keyWait
 		any = false
@@ -149,14 +151,13 @@ script 6 mmbn5 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Not even!"
+	"Não fala besteira!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd do just as well,
-	even without
-	MegaMan!
+	Eu me sairia de boa
+	mesmo SEM o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -164,16 +165,15 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,what kind of a
-	thing is that to
-	say?
+	Lan, isso lá é coisa
+	que se diga?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our strength lies in
-	our synergy!
+	A nossa força tá
+	na nossa sinergia!
 	"""
 	keyWait
 		any = false
@@ -181,17 +181,17 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,you're the
-	best Navi I could
-	have
+	Olha, MegaMan, você é
+	o melhor Navi que eu
+	poderia querer,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but did you hear
-	what he said? Who
-	wouldn't get mad!
+	mas cê ouviu o que ele
+	disse! Claro que eu
+	ficaria fulo da vida!
 	"""
 	keyWait
 		any = false
@@ -199,32 +199,31 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	"""
-	Well,it wasn't hard
-	to cause a rift
-	between you.
+	He, causar uma ruptura
+	entre vocês foi mó fácil.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It only goes to
-	show just how far
-	you are⋯
+	O que só mostra o
+	quanto vocês dois
+	tão longe
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	from being strong
-	enough to defeat
-	Nebula.
+	de serem fortes o
+	bastante pra vencer
+	a Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Until we meet again!
-	Adios!
+	Até a próxima!
+	"Bye-bye"!
 	"""
 	keyWait
 		any = false
@@ -234,7 +233,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W⋯Wait!"
+	"E... espera"
 	keyWait
 		any = false
 	end
@@ -243,14 +242,13 @@ script 8 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Who was that,anyway?"
+	"Quem era esse\ncara, afinal?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And what is this
-	"thing" that Dad
-	has?
+	E o que é essa tal
+	"coisa" que o papai tem?
 	"""
 	keyWait
 		any = false
@@ -261,8 +259,8 @@ script 9 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Well,clearly you're
-	competent.
+	Bom, você se provou
+	competente, claramente.
 	"""
 	keyWait
 		any = false
@@ -275,8 +273,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Y⋯You're ShadowMan's
-	operator?
+	V... você é o operador
+	do ShadowMan?!
+	Da Gospel?!
 	"""
 	keyWait
 		any = false
@@ -289,17 +288,17 @@ script 11 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Now I have an idea
-	of your present
-	strength.
+	Agora, pude ter uma
+	boa noção da sua
+	força atual.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lan,you're too
-	reliant on your
-	Navi's abilities.
+	Lan, você depende
+	demais das habilidades
+	do seu Navi.
 	"""
 	keyWait
 		any = false
@@ -314,14 +313,14 @@ script 11 mmbn5 {
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"What?!"
+	"O quê?!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'd do just as well,
-	even without
-	MegaMan!
+	Eu mandaria bem de
+	qualquer jeito, mesmo
+	sem o MegaMan!
 	"""
 	keyWait
 		any = false
@@ -329,16 +328,15 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	"""
-	Lan,what kind of a
-	thing is that to
-	say?
+	Lan, isso lá é coisa
+	que se diga?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Our strength lies in
-	our synergy!
+	A nossa força tá
+	na nossa sinergia!
 	"""
 	keyWait
 		any = false
@@ -346,17 +344,17 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	MegaMan,you're the
-	best Navi I could
-	have
+	Olha, MegaMan, você é
+	o melhor Navi que eu
+	poderia querer,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but did you hear
-	what he said? Who
-	wouldn't get mad!
+	mas cê ouviu o que ele
+	disse! Claro que eu
+	ficaria fulo da vida!
 	"""
 	keyWait
 		any = false
@@ -364,17 +362,17 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	"""
-	Keh heh⋯guess your
-	bond isn't as strong
-	as I thought!
+	He... Acho que o laço
+	entre vocês não é tão
+	forte quanto eu esperava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's going to be an
-	uphill battle
-	against Nebula!
+	A batalha contra a
+	Nebula será impossível
+	para vocês!
 	"""
 	keyWait
 		any = false
@@ -387,23 +385,24 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I don't need to hear
-	that from you!
+	Eu não vou ouvir
+	isso de você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And why would
-	ShadowMan's operator
-	need to test us?!
+	E por que um operador
+	da Gospel ia querer
+	testar a gente?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait,aren't you a
-	Nebula agent?!
+	Aliás... certeza que
+	cê não foi pro lado
+	da Nebula?!
 	"""
 	keyWait
 		any = false
@@ -416,14 +415,14 @@ script 13 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	I'm a lone wolf
-	assassin. I belong
-	to no one.
+	Eu sou um assassino
+	lobo solitário.
+	Não pertenço a ninguém.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ShadowMan,return."
+	"Volte, ShadowMan."
 	keyWait
 		any = false
 	clearMsg
@@ -434,7 +433,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"At once!"
+	"Claro!"
 	keyWait
 		any = false
 	clearMsg
@@ -445,28 +444,29 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Dusk
 	msgOpen
-	"Lan,heed my warning."
+	"Lan, ouça o meu aviso."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Regal seeks a
-	certain "thing" that
-	belongs to your Dad.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	If Regal is able to
-	get it,
+	O Regal busca obter
+	uma certa "coisa" que
+	pertence ao seu pai.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	it will surely spell
-	doom for all.
+	Se aquela cobra
+	conseguir pôr as
+	mãos nela,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	com certeza, estaremos
+	todos acabados.
 	"""
 	keyWait
 		any = false
@@ -476,7 +476,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"W⋯Wait!"
+	"E... espera!"
 	keyWait
 		any = false
 	end
@@ -486,16 +486,14 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Is he friend? Or
-	foe?
+	Ele é amigo? Ou inimigo?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And what is the
-	"thing" that Dad
-	has?
+	E que "coisa" é essa
+	que o papai tem?
 	"""
 	keyWait
 		any = false
@@ -505,7 +503,7 @@ script 18 mmbn5 {
 	mugshotHide
 	msgOpen
 	soundDisableTextSFX
-	"*bee-bee-beep!*"
+	"Bi-Bi-Biip!"
 	wait
 		frames = 42
 	end
@@ -514,7 +512,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,you've got mail!"
+	"Lan, chegou e-mail!"
 	keyWait
 		any = false
 	end
@@ -524,45 +522,62 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's from Chaud.
-	I'll read it!
+	É do Chaud.
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Nebula agents still\n remain in Oran\n Area."
-	keyWait
-		any = false
-	clearMsg
-	" Immediately make\n your way to Oran\n Area."
-	keyWait
-		any = false
-	clearMsg
-	" However,Oran Area\n network is\n unstable."
-	keyWait
-		any = false
-	clearMsg
-	" You will not be\n able to jack in\n from Oran Isle."
-	keyWait
-		any = false
-	clearMsg
-	" Go there by way of\n ACDC Area.\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Nebula's come to
-	occupy Oran Area
-	again!
+	"Agentes da Nebula
+	continuam na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We must hurry,Lan!"
+	"""
+	Suas ordens são
+	para ir até lá
+	imediatamente.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Porém, a rede da área
+	está instável agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Você não será capaz
+	de acessá-la através
+	da Ilha Oran.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Siga para lá através
+	da Área ACDC."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Não acredito!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A Nebula resolveu
+	ocupar a Área Oran
+	de novo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Vamos correr, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -574,45 +589,62 @@ script 21 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's from Baryl.
-	I'll read it!
+	É do Baryl.
+	Eu vou ler aqui!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"Nebula agents still\n remain in Oran\n Area."
-	keyWait
-		any = false
-	clearMsg
-	" Immediately make\n your way to Oran\n Area."
-	keyWait
-		any = false
-	clearMsg
-	" However,Oran Area\n network is\n unstable."
-	keyWait
-		any = false
-	clearMsg
-	" You will not be\n able to jack in\n from Oran Isle."
-	keyWait
-		any = false
-	clearMsg
-	" Go there by way of\n ACDC Area.\""
-	keyWait
-		any = false
-	clearMsg
-	"Wow!"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	Nebula's come to
-	occupy Oran Area
-	again!
+	"Agentes da Nebula
+	continuam na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"We must hurry,Lan!"
+	"""
+	Suas ordens são
+	para ir até lá
+	imediatamente.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Porém, a rede da área
+	está instável agora.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Você não será capaz
+	de acessá-la através
+	da Ilha Oran.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Siga para lá através
+	da Área ACDC."
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Não acredito!"
+	keyWait
+		any = false
+	clearMsg
+	"""
+	A Nebula resolveu
+	ocupar a Área Oran
+	de novo!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"Vamos correr, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -624,17 +656,17 @@ script 22 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Just when I thought
-	we'd finished with
-	that stranger,
+	Justo quando achamos
+	que o pior do dia ia
+	ser aquele estranho,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Nebula agents strike
-	again! This is too
-	much!
+	agentes da Nebula
+	decidem atacar de
+	novo! É dose, viu?!
 	"""
 	keyWait
 		any = false

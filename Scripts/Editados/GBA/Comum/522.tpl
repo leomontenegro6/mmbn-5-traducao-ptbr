@@ -13,15 +13,15 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	VISITORS ARE SO RARE
-	HERE⋯
+	É RARO TER VISITAS
+	AQUI...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ARE YOU LOOKING FOR
-	SOMETHING?
+	VOCÊ ESTÁ ATRÁS DE
+	ALGUMA COISA?
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes  "
+	" Sim  "
 	option
 		brackets = 0
 		left = 0
@@ -46,7 +46,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -60,7 +60,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrProgGreen
-	"I SEE⋯"
+	"SEI..."
 	keyWait
 		any = false
 	end
@@ -72,67 +72,63 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	⋯HMPH. FIND THE 4TH
-	ROCK SMASHER
+	... HM.
+	"ENCONTRE O
+	QUARTO QUEBRA-ROCHAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	LOOK FOR THE BOX
-	THAT BLOCKS THE
-	ROCKS.
+	PROCURE PELA CAIXA
+	QUE BARRA AS PEDRAS."
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DOES THAT MEAN THAT
-	DEVICE OVER THERE?
+	SERÁ QUE ISSO SE
+	REFERE ÀQUELE
+	APARELHO ALI?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	THAT REMINDS ME. I
-	SAW A NAVI DISAPPEAR
-	FROM THE EMPTY SPACE
+	ISSO ME LEMBRA... EU VI
+	UM NAVI DESAPARECER
+	EM UM ESPAÇO VAZIO
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	NEXT TO THAT DEVICE
-	A LONG TIME AGO.
+	AO LADO DAQUELE
+	APARELHO, HÁ MUITO
+	TEMPO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OF COURSE I WAS
-	PRETTY SURPRISED⋯
+	ÓBVIO QUE EU FIQUEI
+	SURPRESO...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I THINK THERE MAY BE
-	A PORTAL TO ANOTHER
+	TALVEZ TENHA UM PORTAL
+	PARA OUTRA DIMENSÃO
+	MAIS OU MENOS POR ALI.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DIMENSION AROUND
-	THERE SOMEWHERE.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	SO YOU PROBABLY
-	SHOULDN'T GET VERY
-	CLOSE⋯
+	ENTÃO, MELHOR VOCÊ
+	NÃO CHEGAR PERTO
+	DEMAIS...
 	"""
 	keyWait
 		any = false
@@ -143,9 +139,9 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT MUST BE NEAR THAT
-	DEVICE THAT BLOCKS
-	THE ROCKS. FOR SURE!
+	DEVE SER PERTO DAQUELE
+	APARELHO QUE BARRA AS
+	PEDRAS. TEM QUE SER!
 	"""
 	keyWait
 		any = false
@@ -156,17 +152,17 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	YOU SHOULD PROBABLY
-	STAY FAR AWAY FROM
-	THAT DEVICE.
+	É MELHOR VOCÊ FICAR
+	BEM LONGE DAQUELE
+	APARELHO.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	YOU MIGHT BE BLASTED
-	INTO ANOTHER
-	DIMENSION!
+	SENÃO, PODE ACABAR
+	INDO PARAR EM OUTRA
+	DIMENSÃO!
 	"""
 	keyWait
 		any = false

@@ -5,21 +5,20 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I'M THE ADMIN FOR
-	ALL THE COMPUTERS
-	AT SCILAB.
+	SOU O ADMINISTRADOR DE
+	TODOS OS COMPUTADORES
+	DO SCILAB.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	IMPRESSIVE,
-	ISN'T IT?
+	IMPRESSIONANTE, NÉ?
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"HE HEE!"
+	"HI HI!"
 	keyWait
 		any = false
 	end
@@ -29,9 +28,9 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	IT'S TIMES LIKE
-	THESE WHEN YOU
-	SHOULD REMAIN CALM.
+	SÃO NESTAS HORAS EM
+	QUE DEVEMOS MANTER A
+	CALMA.
 	"""
 	keyWait
 		any = false
@@ -46,9 +45,9 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	I DON'T FEEL RIGHT.
-	I REALLY WANT TO
-	SLUG SOMEONE⋯
+	EU NÃO ME SINTO BEM.
+	QUE VONTADE DE
+	ESPANCAR ALGUÉM...!
 	"""
 	keyWait
 		any = false
@@ -59,15 +58,16 @@ script 3 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	WHAT WAS THAT DARK
-	FEELING I JUST HAD⋯
+	QUE SENTIMENTO SOMBRIO
+	FOI AQUELE QUE EU
+	SENTI...?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAYBE IT WAS
-	A HATEFUL SOUL?
+	SERÁ QUE FOI UMA
+	ALMA CHEIA DE ÓDIO...?
 	"""
 	keyWait
 		any = false

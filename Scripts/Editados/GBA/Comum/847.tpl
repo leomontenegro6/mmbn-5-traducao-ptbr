@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Stop this drill!"
+	"Pare essa broca!"
 	keyWait
 		any = false
 	end
@@ -13,7 +13,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Who are you?"
+	"Quem é você?"
 	keyWait
 		any = false
 	clearMsg
@@ -39,14 +39,17 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"That's Gauss' Navi!"
+	"""
+	Mas esse aí é o
+	Navi do Gauss!
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Gauss is the
-	netmafia operator we
-	beat before!
+	Magnus Gauss, o operador
+	da Gospel que a gente
+	venceu antes!
 	"""
 	keyWait
 		any = false
@@ -58,13 +61,13 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Then it was you!"
+	"Então, foi você!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You defeated my
-	father!
+	Você que acabou
+	com o meu pai!
 	"""
 	keyWait
 		any = false
@@ -76,7 +79,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What?"
+	"O quê?"
 	keyWait
 		any = false
 	clearMsg
@@ -88,8 +91,9 @@ script 6 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	I'm Gauss' only
-	daughter,Tesla!
+	Eu sou a filha única
+	do Magnus.
+	Tesla Gauss!
 	"""
 	keyWait
 		any = false
@@ -101,7 +105,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"No way!"
+	"Mentira!"
 	keyWait
 		any = false
 	clearMsg
@@ -113,9 +117,9 @@ script 8 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	It's your fault!
-	You'll pay for what
-	you did!
+	É tudo culpa sua!
+	Vocês vão pagar
+	pelo que fizeram!
 	"""
 	keyWait
 		any = false
@@ -128,9 +132,9 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	OUR fault? But Gauss
-	was the one stirring
-	up trouble?!
+	Culpa NOSSA?!
+	Foi o Gauss que quase
+	derrubou um avião!
 	"""
 	keyWait
 		any = false
@@ -142,72 +146,73 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"Don't get me wrong!"
+	"Não me entenda mal!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I couldn't care
-	less⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	about you getting
-	Dad arrested!
+	Eu realmente
+	não dou a mínima
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That was his own
-	fault!
+	pro fato de você
+	ter colocado o meu
+	pai atrás das grades!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's what you did
-	AFTER he was
-	arrested!
+	Aquilo foi culpa
+	puramente dele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I was supposed to
-	succeed my father⋯
+	Eu ligo é pro que
+	você fez DEPOIS
+	que ele foi preso!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	running his
-	corporation!
+	Eu fui forçada a
+	suceder o meu pai...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I managed to get
-	some work done
-	thanks to MagnetMan,
+	como presidente
+	da nossa empresa!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but I was so busy my
-	hair nearly fell out
-	from all the stress!
+	Eu até consegui fazer
+	um pouco de trabalho
+	graças ao MagnetMan,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And it's just ruined
-	my beautiful skin!
+	mas fiquei tão ocupada
+	que quase perco todo o
+	meu cabelo de estresse!
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	E isso arruinou a minha
+	linda pele, também!
 	"""
 	keyWait
 		any = false
@@ -220,9 +225,9 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That sounds a lot
-	like a big excuse to
-	me!
+	Té sentindo esse cheiro?
+	É cheiro de desculpa
+	esfarrapada!
 	"""
 	keyWait
 		any = false
@@ -239,16 +244,16 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Trash that little
-	blue man!
+	Esmague esse
+	menininho azul!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Hee hee! Finally a
-	chance to burn some
-	stress off!
+	Hi hi! Finalmente, uma
+	chance de estravasar
+	um pouco de estresse!
 	"""
 	keyWait
 		any = false
@@ -261,8 +266,7 @@ script 13 mmbn5 {
 		mugshot = MagnetMan
 	msgOpen
 	"""
-	Anything for you,
-	Tesla.
+	Tudo por você, Tesla.
 	"""
 	keyWait
 		any = false
@@ -274,7 +278,7 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Grrrrr⋯"
+	"Grrrrr..."
 	keyWait
 		any = false
 	clearMsg
@@ -287,7 +291,7 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	KnightMan!
-	Stop that drill!
+	Desliga essa broca!
 	"""
 	keyWait
 		any = false
@@ -299,7 +303,7 @@ script 16 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Grrraw!"
+	"Grrraarr!"
 	keyWait
 		any = false
 	clearMsg
@@ -311,8 +315,8 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	It's no good!
-	He's not listening!
+	Não adianta!
+	Ele não tá ouvindo!
 	"""
 	keyWait
 		any = false
@@ -325,15 +329,16 @@ script 18 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	MegaMan,please stop
-	KnightMan!
+	MegaMan, por favor,
+	detenha o KnightMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's the only way to
-	save Lan's friends!
+	Essa é a única forma
+	de salvar os amigos
+	do Lan!
 	"""
 	keyWait
 		any = false
@@ -346,8 +351,8 @@ script 19 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Grrrr⋯
-	Grrrraaawggh!
+	Grrrr...
+	Grrrraaarrrgh!
 	"""
 	keyWait
 		any = false
@@ -359,7 +364,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,here comes!"
+	"Lan, lá vem ele!"
 	keyWait
 		any = false
 	clearMsg
@@ -370,7 +375,10 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Battle routine,set!"
+	"""
+	Rotina de batalha,
+	preparar!
+	"""
 	keyWait
 		any = false
 	clearMsg
@@ -381,7 +389,7 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!!!"
+	"Executar!!!"
 	keyWait
 		any = false
 	end
@@ -390,7 +398,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = MagnetMan
 	msgOpen
-	"Max magnet power!"
+	"Poder magnético total!"
 	keyWait
 		any = false
 	end
@@ -399,7 +407,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = KnightMan
 	msgOpen
-	"Graawwgh!"
+	"Graarrrgh!"
 	keyWait
 		any = false
 	end

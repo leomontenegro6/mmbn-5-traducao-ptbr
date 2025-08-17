@@ -19,20 +19,19 @@ script 1 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat the Navi
-	that commands
-	all.
+	Derrote o Navi
+	que tudo governa.
 	"""
 	keyWait
 		any = false
@@ -49,20 +48,19 @@ script 2 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat the Navi
-	that protects
-	all.
+	Derrote o Navi
+	que tudo protege.
 	"""
 	keyWait
 		any = false
@@ -79,20 +77,19 @@ script 3 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat the Navi
-	that sees
-	all.
+	Derrote o Navi
+	que tudo vê.
 	"""
 	keyWait
 		any = false
@@ -109,20 +106,19 @@ script 4 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat the Navi
-	that strikes
-	down all.
+	Derrote o Navi
+	que tudo ataca.
 	"""
 	keyWait
 		any = false
@@ -139,20 +135,20 @@ script 5 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat the Navi
-	that has all
-	the answers.
+	Derrote o Navi
+	que detém todas
+	as respostas.
 	"""
 	keyWait
 		any = false
@@ -169,20 +165,19 @@ script 6 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Defeat the Navi
-	that cures
-	all.
+	Derrote a Navi
+	que tudo cura.
 	"""
 	keyWait
 		any = false
@@ -215,13 +210,13 @@ script 7 mmbn5 {
 		jumpIfFalse = 14
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -231,13 +226,13 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -247,13 +242,13 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -263,13 +258,13 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -279,13 +274,13 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -295,13 +290,13 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -311,13 +306,13 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -327,20 +322,20 @@ script 13 mmbn5 {
 script 14 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Confront the
-	darkness that lurks
-	within you.
+	Confronte a escuridão
+	que repousa dentro de
+	você.
 	"""
 	keyWait
 		any = false

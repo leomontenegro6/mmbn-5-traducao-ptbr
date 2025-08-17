@@ -8,23 +8,23 @@ script 0 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Team ProtoMan,the
-	final liberation
-	is complete.
+	Equipe ProtoMan,
+	a missão final de
+	liberação está concluída.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,I want
-	you to keep going⋯
+	MegaMan, quero que
+	você siga em frente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go find out who
-	this King Chaos is.
+	Descubra que é esse
+	tal Senhor do Caos.
 	"""
 	keyWait
 		any = false
@@ -36,7 +36,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Roger!"
+	"... Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -47,13 +47,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"⋯Well,"
+	"... Enfim,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that's it,
-	Team ProtoMan!!!
+	isso é tudo,
+	Equipe ProtoMan!!!
 	"""
 	keyWait
 		any = false
@@ -64,23 +64,23 @@ script 3 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Team Colonel,the
-	final liberation
-	is complete.
+	Equipe Colonel,
+	a missão final de
+	liberação está concluída.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MegaMan,I want
-	you to keep going⋯
+	MegaMan, quero que
+	você siga em frente...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go find out who
-	this King Chaos is.
+	Descubra que é esse
+	tal Senhor do Caos.
 	"""
 	keyWait
 		any = false
@@ -92,7 +92,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"⋯Roger!"
+	"... Entendido!"
 	keyWait
 		any = false
 	clearMsg
@@ -103,13 +103,13 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"⋯Well,"
+	"... Enfim,"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	that's it,
-	Team Colonel!!!
+	isso é tudo,
+	Equipe Colonel!!!
 	"""
 	keyWait
 		any = false
@@ -120,8 +120,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go check
-	out this King Chaos!
+	Lan, vamos lá conferir
+	esse tal Senhor do Caos!
 	"""
 	keyWait
 		any = false

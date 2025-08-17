@@ -16,7 +16,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Yikes!!!"
+	"Eita!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -28,41 +28,41 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = NebulaGoon
-	"No,wait!"
+	"Não, calma!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I left
-	Nebula⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	I can't be around
-	that Regal anymore.
+	Eu larguei a Nebula...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I decided to live
-	my life as an honest
-	man from now on.
+	Não aguentava mais ficar
+	perto daquele Regal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But I'll need some
-	cash to start over.
+	Decidi levar uma vida
+	honesta daqui pra
+	frente.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about buying my
+	Mas, pra ser sincero,
+	eu preciso de uma
+	grana pra recomeçar.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Quer comprar esta minha
 	"
 	"""
 	printItem
@@ -72,25 +72,25 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"for 3000 Zennys?"
+	"por 3000 Zennys?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With it,
-	you can unlock the
+	Com ela, você vai poder
+	abrir as portas seladas
+	marcadas com o símbolo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CyberDoor marked
-	with a skull.
+	de caveira.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -105,7 +105,7 @@ script 0 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -114,7 +114,7 @@ script 0 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -128,13 +128,14 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = NebulaGoon
-	"I've no choice."
+	"Entendo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I deserve it for
-	what I've done⋯
+	Acho que eu mereço
+	isso, depois do que
+	que eu fiz...
 	"""
 	keyWait
 		any = false
@@ -150,13 +151,14 @@ script 1 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	Really?! You'll buy
-	it?! Thank you!!!
+	É mesmo?!
+	Vai comprar?!
+	Obrigado!!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Here ya go."
+	"Toma aí."
 	keyWait
 		any = false
 	clearMsg
@@ -167,7 +169,7 @@ script 1 mmbn5 {
 	playerAnimateObject
 		animation = 24
 	"""
-	Lan got:
+	Lan adquiriu:
 	"
 	"""
 	printItem
@@ -182,15 +184,16 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	"""
-	I can get by for a
-	while with this.
+	Com isto, vai dar pra
+	eu me virar por um
+	tempo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You won't turn me
-	in,will ya?
+	Cê não vai me entregar,
+	né?
 	"""
 	keyWait
 		any = false
@@ -200,13 +203,13 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Not enough cash⋯"
+	"Cê não tem dinheiro o\nbastante..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sorry,I can't afford
-	to give a discount.
+	Foi mal, mas eu não
+	posso dar um desconto.
 	"""
 	keyWait
 		any = false
@@ -216,12 +219,12 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	msgOpen
-	"Oh,it's you again."
+	"Ah, você de novo."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How about buying my
+	E aí, topa comprar esta
 	"
 	"""
 	printItem
@@ -231,25 +234,25 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"for 3000 Zennys?"
+	"por 3000 Zennys?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	With it,
-	you can unlock the
+	Com ela, você vai poder
+	destrancar as portas
+	cibernéticas que têm o
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	CyberDoor marked
-	with a skull.
+	símbolo da caveira.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"How 'bout it?"
+	"Que tal?"
 	keyWait
 		any = false
 	clearMsg
@@ -264,7 +267,7 @@ script 3 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Buy  "
+	" Comprar  "
 	option
 		brackets = 0
 		left = 0
@@ -273,7 +276,7 @@ script 3 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Don't buy"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -287,7 +290,7 @@ script 3 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = NebulaGoon
-	"I've no choice."
+	"É, eu entendo..."
 	keyWait
 		any = false
 	end
@@ -297,30 +300,31 @@ script 4 mmbn5 {
 		mugshot = NebulaGoon
 	msgOpen
 	"""
-	Huh? Why don't I get
-	outta these clothes?
+	Hã? "Por que eu não tiro
+	esta roupa?"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,they're special
-	clothes that require
-	a key to take off.
+	É que é um traje
+	especial. Só dá pra
+	remover com chave.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	But someday,I'll
-	tear 'em off myself.
+	Mas, um dia, eu vou
+	rasgar ele.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No use rushing. I've
-	plenty of time now.
+	Não tem pressa.
+	Agora, eu tenho todo
+	o tempo do mundo.
 	"""
 	keyWait
 		any = false
@@ -341,15 +345,16 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Heya,Lan!!!"
+	"Olá, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What am I,Mr.Famous,
-	doing around here?
+	O que eu, o Sr. Famoso,
+	estou fazendo aqui,
+	você pergunta?
 	"""
 	keyWait
 		any = false
@@ -357,29 +362,30 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	I've developed an
-	anti-Nebula Navi
+	Eu desenvolvi um Navi
+	anti-Nebula para nos
+	auxiliar nesta luta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but he won't
-	listen to me.
+	mas ele se recusa
+	a me dar ouvidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm trying to train
-	him here.
+	Estou tentando treiná-lo
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You up for a Net-
-	Battle with GridMan?
+	Você aceitaria uma
+	NetLuta contra GridMan?
 	"""
 	keyWait
 		any = false
@@ -395,7 +401,7 @@ script 100 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -404,7 +410,7 @@ script 100 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -419,8 +425,8 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Dang⋯ You would've
-	been great practice.
+	Poxa... Você teria dado
+	um ótimo treino.
 	"""
 	keyWait
 		any = false
@@ -431,23 +437,23 @@ script 101 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm starting to
-	understand GridMan
-	better!
+	Estou começando a
+	entender melhor o
+	GridMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think we're
-	in sync now!!!
+	Acho que estamos em
+	sincronia agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How 'bout a Net
-	battle with us?
+	Que tal uma NetLuta
+	conosco?
 	"""
 	keyWait
 		any = false
@@ -463,7 +469,7 @@ script 101 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -472,7 +478,7 @@ script 101 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -486,7 +492,7 @@ script 101 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Really? Too bad."
+	"Tem certeza? Que pena."
 	keyWait
 		any = false
 	end
@@ -510,37 +516,37 @@ script 103 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm not gonna
-	pull any punches!
-	Brace yourself!!!
+	Não irei me segurar!
+	Prepare-se!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet
@@ -558,36 +564,37 @@ script 104 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Now show 'em what
-	ya got,GridMan!!!
+	Agora mostre para eles
+	o seu poder, GridMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet
@@ -609,36 +616,37 @@ script 105 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	GridMan,tackle him
-	full force!!!
+	GridMan, choque-se com
+	ele com força total!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Go for it,Lan!"
+	"Vamos nessa, Lan!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet
@@ -652,13 +660,16 @@ script 106 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I guess we're not
-	in sync yet.
+	Acho que ainda não
+	alcançamos a sincronia.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Look out next time!"
+	"""
+	Mas, da próxima vez,
+	será diferente!
+	"""
 	keyWait
 		any = false
 	flagClear
@@ -670,8 +681,9 @@ script 107 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Seems the training
-	paid off⋯
+	Parece que o
+	treinamento deu
+	resultados...
 	"""
 	keyWait
 		any = false
@@ -689,15 +701,16 @@ script 110 mmbn5 {
 	mugshotShow
 		mugshot = MrFamous
 	msgOpen
-	"Heya,Lan!!!"
+	"Olá, Lan!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	What am I,Mr.Famous,
-	doing around here?
+	O que eu, o Sr. Famoso,
+	estou fazendo aqui,
+	você pergunta?
 	"""
 	keyWait
 		any = false
@@ -705,29 +718,30 @@ script 110 mmbn5 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	I've developed an
-	anti-Nebula Navi
+	Eu desenvolvi um Navi
+	anti-Nebula para nos
+	auxiliar nesta luta,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	but he won't
-	listen to me.
+	mas ele se recusa
+	a me dar ouvidos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm trying to train
-	him here.
+	Estou tentando treiná-lo
+	aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You up for a Net-
-	Battle with GridMan?
+	Você aceitaria uma
+	NetLuta contra GridMan?
 	"""
 	keyWait
 		any = false
@@ -743,7 +757,7 @@ script 110 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -752,7 +766,7 @@ script 110 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -767,8 +781,8 @@ script 110 mmbn5 {
 	mugshotShow
 		mugshot = MrFamous
 	"""
-	Dang⋯ You would've
-	been great practice.
+	Poxa... Você teria dado
+	um ótimo treino.
 	"""
 	keyWait
 		any = false
@@ -779,23 +793,23 @@ script 111 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm starting to
-	understand GridMan
-	better!
+	Estou começando a
+	entender melhor o
+	GridMan!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I think we're
-	in sync now!!!
+	Acho que estamos em
+	sincronia agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	How 'bout a Net
-	battle with us?
+	Que tal uma NetLuta
+	conosco?
 	"""
 	keyWait
 		any = false
@@ -811,7 +825,7 @@ script 111 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Yes "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -820,7 +834,7 @@ script 111 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -834,7 +848,7 @@ script 111 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Really? Too bad."
+	"Tem certeza? Que pena."
 	keyWait
 		any = false
 	end
@@ -856,37 +870,37 @@ script 113 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm not gonna
-	pull any punches!
-	Brace yourself!!!
+	Não irei me segurar!
+	Prepare-se!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Go for it,Lan!"
+	"Vamos, Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet
@@ -907,36 +921,37 @@ script 114 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Now show 'em what
-	ya got,GridMan!!!
+	Agora mostre para eles
+	o seu poder, GridMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Go for it,Lan!"
+	"Vamos, Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = ProtoMan
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet
@@ -950,37 +965,37 @@ script 115 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	I'm not gonna
-	pull any punches!
-	Brace yourself!!!
+	Não irei me segurar!
+	Prepare-se!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Go for it,Lan!"
+	"Vamos, Lan Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet
@@ -998,36 +1013,37 @@ script 116 mmbn5 {
 		mugshot = MrFamous
 	msgOpen
 	"""
-	Now show 'em what
-	ya got,GridMan!!!
+	Agora mostre para eles
+	o seu poder, GridMan!!!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Go for it,Lan!"
+	"Vamos, Lan Hikari!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Leave it to me!
-	Battle routine,set!
+	Deixa comigo!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Colonel
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = MrFamous
-	"Go,GridMan!!!"
+	"Vá, GridMan!!!"
 	keyWait
 		any = false
 	flagSet

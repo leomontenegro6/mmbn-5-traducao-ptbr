@@ -3,9 +3,8 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	Chairs for catching
-	some rays. But don't
-	overdo it!
+	Cadeiras para pegar sol.
+	Só não vá exagerar!
 	"""
 	keyWait
 		any = false
@@ -14,23 +13,23 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A glass of brightly
-	colored juice is
-	on the table.
+	Uma taça cheia de uma
+	bebida colorida se
+	posta sobre a mesa.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A note is visible
-	between the pages of
-	the newspaper.
+	Há um papel com uma
+	anotação dentre as
+	páginas do jornal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Lotto number:
+	Número de loteria:
 	"00798216"
 	"""
 	keyWait
@@ -40,9 +39,9 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Is it OK to drink
-	juice that is so
-	bright blue?
+	Tudo bem mesmo tomar
+	uma bebida tão azul
+	assim?
 	"""
 	keyWait
 		any = false
@@ -51,15 +50,15 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A lifeboat for
-	emergencies.
+	Um bote salva-vidas
+	para emergências.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I hope I never have
-	to use one of these⋯
+	Você torce para nunca
+	ter que usar um...
 	"""
 	keyWait
 		any = false
@@ -68,23 +67,23 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A NetBattle Machine
-	is installed here.
+	Há uma Máquina de
+	NetLutas instalada aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I bet it's cool to
-	battle here in the
-	sea breeze!
+	Aposto que é muito
+	gostoso lutar aí,
+	com a brisa do mar!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's a place to
-	jack in!
+	Possui uma entrada de
+	conexão!
 	"""
 	keyWait
 		any = false
@@ -93,9 +92,9 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The sound of roaring
-	engines can be heard
-	from the vent.
+	O estrondo das máquinas
+	pode ser ouvido através
+	do duto de ventilação.
 	"""
 	keyWait
 		any = false

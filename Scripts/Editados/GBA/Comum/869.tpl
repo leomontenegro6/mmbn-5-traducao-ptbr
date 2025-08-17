@@ -5,16 +5,17 @@ script 0 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Faster than I
-	expected!
+	Olha só!
+	Cê é mais rápido
+	do que eu esperava!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Next,this way! That
-	is,if you can keep
-	up!
+	A seguir, por aqui!
+	Se você conseguir
+	me acompanhar, né?
 	"""
 	keyWait
 		any = false
@@ -25,8 +26,8 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's keep after
-	GyroMan!
+	Lan, bora continuar
+	indo atrás do GyroMan!
 	"""
 	keyWait
 		any = false
@@ -39,15 +40,16 @@ script 2 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Faster than I
-	expected.
+	Mais rápido do que
+	eu esperava.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now this way! If you
-	can keep up,that is!
+	Agora, por aqui!
+	Isto é, se você for
+	capaz de me acompanhar!
 	"""
 	keyWait
 		any = false
@@ -58,8 +60,8 @@ script 3 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's keep after
-	ShadowMan!
+	Lan, bora continuar
+	indo atrás do ShadowMan!
 	"""
 	keyWait
 		any = false
@@ -71,7 +73,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"You bet!"
+	"Claro!"
 	keyWait
 		any = false
 	end
@@ -90,7 +92,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Wait!"
+	"Espera aí!"
 	wait
 		frames = 40
 	end

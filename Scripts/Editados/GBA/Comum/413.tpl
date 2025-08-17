@@ -27,7 +27,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	msgOpen
-	"Hmm⋯strange⋯"
+	"Hmm... Que estranho..."
 	keyWait
 		any = false
 	end
@@ -39,60 +39,48 @@ script 2 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Sorry,but you can't
-	come in now.
+	Desculpe, mas você não
+	pode entrar agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Why,you ask?"
+	"Por que não?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Someone has
-	illegally accessed
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	the castle's control
-	system.
+	Alguém acessou
+	ilegalmente os sistemas
+	de controle do castelo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Illegal access⋯"
+	"Acessou ilegalmente..."
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	Apparently the
-	communications
+	Ao que parece, o sistema
+	de comunicação da Área
+	Endo 3 foi hackeado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	system in End Area3
-	was hacked.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	The security is
-	pretty solid. It
-	must be Nebula.
+	E visto como a segurança
+	é rígida... deve ter sido
+	a Nebula.
 	"""
 	keyWait
 		any = false
@@ -104,66 +92,65 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	I'll go check it
-	out,sir.
+	Eu vou lá conferir, moço!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
-	"You?"
+	"Você?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	In return,let me
-	into the castle when
-	systems are normal.
+	Em troca, cê me deixa 
+	entrar no castelo quando
+	tudo voltar ao normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
-	"That's easy enough."
+	"... Pois bem."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Jack in to that
-	bronze statue down
-	the slope,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	and you'll be in
-	End Area2.
+	Conecte-se àquela
+	estátua de bronze
+	na base da ladeira
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Are you sure you'll
-	be all right?
+	e você chegará na
+	Área Endo 2.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Mas tem certeza de que
+	você vai ficar bem?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Leave it to me!"
+	"Relaxa!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I know I don't look
-	like much but I know
-	NetBattling!
+	Pode não parecer, mas
+	eu me garanto forte nas
+	NetLutas!
 	"""
 	keyWait
 		any = false
@@ -171,15 +158,16 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = BusinessMan
 	"""
-	OK,but don't do
-	anything crazy.
+	Pois bem, então.
+	Só não vá fazer
+	nenhuma loucura.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Don't worry!"
+	"Deixa comigo!"
 	keyWait
 		any = false
 	end
@@ -189,21 +177,22 @@ script 3 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	The communications
-	device is protected
+	O sistema de comunicação
+	é protegido por um
+	dispositivo com o formato
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	by a security device
-	shaped like a
-	castle. You'll see⋯
+	de um castelo.
+	Vai entender quando
+	vir...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Be careful."
+	"Só tome cuidado."
 	keyWait
 		any = false
 	end
@@ -215,54 +204,54 @@ script 4 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Thank you,kid. The
-	communications
-	device is fixed.
+	Obrigado, rapaz.
+	O sistema de comunicação
+	foi consertado.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Well⋯"
+	"Bom..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It was back to
-	normal by the time
-	we got there.
+	Na real, ele já tinha
+	voltado ao normal quando
+	eu cheguei lá.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = BusinessMan
-	"You don't say?"
+	"É mesmo?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,at least it's
-	fixed. Go on in and
-	take a look around.
+	Bem, o que importa é que
+	está consertado. Pode
+	explorar agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Really? It's OK?"
+	"Sério? Eu posso mesmo?"
 	keyWait
 		any = false
 	clearMsg
-	"Woohoo!"
+	"Aêêêêê!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Thanks,let's go on
-	in!
+	Valeu!
+	Bom, bora entrar!
 	"""
 	keyWait
 		any = false
@@ -273,9 +262,9 @@ script 5 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Please enjoy the
-	famous Electopian
-	castle,GargCastle!
+	Esperamos que aproveite
+	o Castelo Shachi, o
+	famoso castelo de Ni-Hon!
 	"""
 	keyWait
 		any = false
@@ -301,8 +290,8 @@ script 6 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait a second,Lan,
-	wasn't that Raika?
+	Calma aí, Lan...
+	Aquele não era o Raika?
 	"""
 	keyWait
 		any = false
@@ -313,8 +302,8 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait a second,Lan,
-	wasn't that Higsby?
+	Calma aí, Lan...
+	Aquele não era o Higsby?
 	"""
 	keyWait
 		any = false
@@ -335,9 +324,9 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	You can't go in yet!
-	Let's go check the
-	Net out!
+	Cê não pode entrar
+	ainda!
+	Vamos conferir a Rede!
 	"""
 	keyWait
 		any = false
@@ -348,9 +337,9 @@ script 10 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Wait a second,we
-	have to go tell him
-	there's no problem!
+	Ei! A gente tem que
+	falar pra ele que não
+	tem mais problema!
 	"""
 	keyWait
 		any = false
@@ -361,9 +350,9 @@ script 11 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Sorry,but you can't
-	go into the castle
-	now.
+	Desculpe, mas você não
+	pode entrar no castelo
+	no momento.
 	"""
 	keyWait
 		any = false
@@ -374,9 +363,9 @@ script 20 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	That dumpling sure
-	looks good but I'm
-	totally broke⋯
+	Aquele bolinho parece
+	uma delícia, mas eu tô
+	liso hoje...
 	"""
 	keyWait
 		any = false
@@ -387,14 +376,14 @@ script 21 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	I wanted to tour
-	GargCastle but it's
-	closed now.
+	Eu queria visitar o
+	Castelo Shachi, mas tá
+	fechado agora.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What a bummer!"
+	"Poxa!"
 	keyWait
 		any = false
 	end
@@ -404,23 +393,23 @@ script 22 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	So is GargCastle
-	open now?
+	Então, o Castelo Shachi
+	abriu?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Great,but I think
-	I'll eat these
-	cookies here first!
+	Legal! Mas acho que eu
+	vou comer estes quitutes
+	aqui primeiro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"*chomp chomp*"
+	"Nham Nham Nham"
 	keyWait
 		any = false
 	end
@@ -430,26 +419,27 @@ script 23 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Wow,this shop has
-	everything! Amazing
-	Electopian goods!
+	Nossa, esta loja
+	tem tudo! Produtos
+	ni-honenses de primeira!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I love Mt.Belenus!"
+	"Eu amo o Monte Fuji!"
 	wait
 		frames = 20
-	"\nThe Shogun!"
+	"\nE os Xoguns!"
 	wait
 		frames = 20
-	"\nThe Electopian food!"
+	"\nE comida ni-honense!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I LOVE IT ALL!!!
-	*ahem*
+	EU AMO TUDO!!!
+	TUDO "DAISUKI"!
+	... Ca-hem!
 	"""
 	keyWait
 		any = false
@@ -460,22 +450,23 @@ script 24 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Electopian castles
-	are kind of odd.
+	Castelos ni-honenses
+	são meio estranhos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What,with the huge
-	fish on the ceiling⋯
+	Sabe, por causa desses
+	peixes gigantes no
+	telhado...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Electopian culture
-	is so exotic.
+	A cultura ni-honense
+	é tão exótica.
 	"""
 	keyWait
 		any = false
@@ -491,16 +482,16 @@ script 30 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Oh noooo!!!
-	My Navi's acting up.
+	Ah, nããããooo!!!
+	O meu Navi tá dando
+	defeito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Who's doing this to
-	me!
-	Show yourself!
+	Quem tá fazendo isso?!
+	Aparece!
 	"""
 	keyWait
 		any = false
@@ -516,29 +507,29 @@ script 31 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Of course everyone's
-	Navis are acting
-	weird. It's because
+	Claro que os Navis de
+	todos estão estranhos.
+	É porque eles mandam
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	they send their cute
-	Navis into the big,
-	scary Net.
+	esses bebês pra Rede,
+	esse antro enorme de
+	perigo.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"My Navi?"
+	"Hm? O meu Navi?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I always take good
-	care of my Navi,
-	here in my PET.
+	Eu sempre cuido muito
+	bem dele aqui, no meu
+	PET.
 	"""
 	keyWait
 		any = false
@@ -554,33 +545,33 @@ script 32 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	What's wrong with my
-	Navi? Hmm,I'll try
-	rebooting my PET⋯
+	O que há com o meu
+	Navi? Hm, vou tentar
+	reiniciar o PET...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Huh?"
+	"Ué?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's still messed
-	up? OK,I'll try
-	rebooting again⋯
+	Ele ainda tá com o
+	defeito? Beleza,
+	reiniciar de novo...
 	"""
 	keyWait
 		any = false
@@ -591,15 +582,17 @@ script 35 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Yes!!! My Navi's
-	back to normal.
+	Ai, que bom!!!
+	O meu Navi voltou ao
+	normal.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It started suddenly
-	and ended the same.
+	O problema começou de
+	repente, e sumiu de
+	repente.
 	"""
 	keyWait
 		any = false
@@ -610,16 +603,16 @@ script 36 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	My cute little Navi
-	is afraid to go out.
+	O meu Navizinho lindo
+	tem medo de sair por aí.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's OK,you can
-	stay in my PET
-	forever,dear⋯
+	Tudo bem, meu amor,
+	pode ficar no meu
+	PET pra sempre...
 	"""
 	keyWait
 		any = false
@@ -630,44 +623,44 @@ script 37 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Woah!
-	What's going on?!
+	Argh!
+	O que tá acontecendo?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	No matter now many
-	times I reboot,my
-	Navi's messed up!
+	Por mais que eu
+	reinicie, o meu Navi
+	continua bugado!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 0
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
-	"⋯⋯"
+	"......"
 	keyWait
 		any = false
 	clearMsg
 	mugshotAnimation
 		animation = 2
-	"Huh?"
+	"Ué?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's back to normal⋯
-	When did that
-	happen?
+	Ele voltou ao normal...
+	Quando foi que isso
+	aconteceu?
 	"""
 	keyWait
 		any = false
@@ -678,8 +671,7 @@ script 40 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan,let's go to
-	the Net!
+	Lan, bora pra Rede!
 	"""
 	keyWait
 		any = false
@@ -690,8 +682,8 @@ script 50 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Isn't this tea
-	lovely,dear?
+	Esse chá não é uma
+	delícia, querido?
 	"""
 	keyWait
 		any = false
@@ -702,8 +694,8 @@ script 51 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	These dumplings are
-	delicious,dear.
+	Estes bolinhos estão
+	supimpa, querida.
 	"""
 	keyWait
 		any = false
@@ -714,9 +706,9 @@ script 52 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Why are there so
-	many pine trees
-	around the castle?
+	Sabe por que tem tantos
+	pinheiros cercando o
+	castelo?
 	"""
 	keyWait
 		any = false
@@ -732,7 +724,7 @@ script 52 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" I know   "
+	" Sei   "
 	option
 		brackets = 0
 		left = 0
@@ -741,7 +733,7 @@ script 52 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Why?"
+	" Por quê?"
 	select
 		default = 0
 		BSeparate = false
@@ -752,13 +744,14 @@ script 52 mmbn5 {
 			jump = 53,
 			jump = continue
 		]
+	clearMsg
 	mugshotShow
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	You really know?
-	Liar! Nobody knows
-	that!
+	Sabe mesmo?
+	Mentiroso!
+	NINGUÉM sabe!
 	"""
 	keyWait
 		any = false
@@ -769,40 +762,40 @@ script 53 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	OK,then I'll tell
-	you. Pine trees are
-	actually very
+	Tá, eu conto.
+	Na verdade, pinheiros
+	são muito nutritivos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	nutritious. People
-	would eat them
-	during sieges.
+	Exércitos comiam cascas
+	de pinheiros aos montes
+	durante cercos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They were a kind of
-	emergency food
-	supply.
+	Eram meio que uma
+	comida de emergência.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Wait,you can't eat
-	them!
+	... Epa, pera!
+	Isso foi na época!
+	Não coma um agora!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	We're not used to
-	eating them. We'd
-	get a tummy ache.
+	Nossos corpos não são
+	acostumados a isso.
+	Só daria dor de barriga.
 	"""
 	keyWait
 		any = false
@@ -818,16 +811,16 @@ script 54 mmbn5 {
 		mugshot = Woman
 	msgOpen
 	"""
-	Hey kid,want some
-	cookies?
+	Oi, menino.
+	Quer uns biscoitinhos?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These cookies are
-	full of plump and
-	juicy raisins!
+	São bem fofinhos e
+	cheios de passas
+	deliciosas!
 	"""
 	keyWait
 		any = false
@@ -837,14 +830,14 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Woman
 	msgOpen
-	"Want some cookies?"
+	"Aceita uns biscoitinhos?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	These cookies are
-	full of plump and
-	juicy raisins!
+	São bem fofinhos e
+	cheios de passas
+	deliciosas!
 	"""
 	keyWait
 		any = false
@@ -855,17 +848,17 @@ script 61 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	I love this historic
-	old castle! What a
-	sense of grandeur!
+	Eu amo este castelo
+	histórico! É tanta
+	grandeza!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Dang! I wish I could
-	have been born back
-	in those days!
+	Ahh! Quem dera eu
+	tivesse nascido naquele
+	tempo!
 	"""
 	keyWait
 		any = false
@@ -876,9 +869,9 @@ script 62 mmbn5 {
 		mugshot = FriesBoy
 	msgOpen
 	"""
-	No way! I have to
-	eat my cookies
-	first!
+	Nem pensar!
+	Eu vou comer estes
+	biscoitos primeiro!
 	"""
 	keyWait
 		any = false
@@ -889,16 +882,16 @@ script 63 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	You said we'd tour
-	the castle first on
-	the way here⋯
+	Você disse que a gente
+	ia visitar o castelo
+	antes de mais nada...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Food sure changes
-	some people⋯
+	A comida realmente muda
+	as pessoas...
 	"""
 	keyWait
 		any = false

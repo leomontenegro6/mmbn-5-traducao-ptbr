@@ -3,15 +3,15 @@
 script 0 mmbn5 {
 	msgOpen
 	"""
-	The store's decor
-	is all handmade.
+	A decoração da loja
+	é toda feita à mão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Even Higsby has
-	a secret side.
+	Até o Higsby tem
+	um lato oculto.
 	"""
 	keyWait
 		any = false
@@ -20,16 +20,16 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Banners that read
-	"SALE."
+	Faixas com "PROMO"
+	escrito.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They are placed out
-	front during the
-	once-a-month sale.
+	São colocadas na
+	frente da loja a cada
+	liquidação mensal.
 	"""
 	keyWait
 		any = false
@@ -38,15 +38,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A life-sized
-	NumberMan sign.
+	Uma placa do NumberMan
+	de tamanho real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He's built just
-	like Higsby.
+	O porte físico dele
+	é tão parecido com
+	o do Higsby...
 	"""
 	keyWait
 		any = false
@@ -54,13 +55,13 @@ script 2 mmbn5 {
 }
 script 3 mmbn5 {
 	msgOpen
-	"A huge monitor."
+	"Um enorme monitor."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I wonder what he
-	uses this for?
+	Para o que será
+	que ele o usa?
 	"""
 	keyWait
 		any = false
@@ -69,8 +70,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Monitor's switch.
-	It's a bit dusty.
+	O botão do monitor.
+	Está meio empoeirado.
 	"""
 	keyWait
 		any = false
@@ -79,16 +80,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Rare chips are hung
-	like paintings.
+	Chips raros, expostos
+	como pinturas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're all precious
-	chips Higsby
-	struggled to find.
+	São todos chips
+	valiosos que o Higsby
+	lutou para achar.
 	"""
 	keyWait
 		any = false
@@ -106,9 +107,9 @@ script 6 mmbn5 {
 		jumpIfFalse = 14
 	msgOpen
 	"""
-	The motherboard is
-	showing and a number
-	of wires protrude.
+	A placa-mãe está à
+	mostra, e há fios
+	soltos.
 	"""
 	keyWait
 		any = false
@@ -117,9 +118,8 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	This folder
-	contains many
-	documents.
+	Essa pasta contém
+	diversos documentos.
 	"""
 	keyWait
 		any = false
@@ -128,23 +128,22 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Boxes are
-	stacked to
-	the ceilings.
+	Caixas empilhadas
+	até o teto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's inventory
-	can't be beat.
+	O inventário do
+	Higsby é incomparável.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	That's his
-	sales strategy.
+	Essa é a estratégia
+	de vendas dele.
 	"""
 	keyWait
 		any = false
@@ -153,22 +152,25 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	An old PC has been
-	abandoned behind
-	the boxes.
+	Um velho computador,
+	abandonado atrás das
+	caixas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It has one of those
-	old floppy drives.
-	It might be possible
+	Possui uma daquelas
+	unidades de disquete
+	bem antigas.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"to jack into it."
+	"""
+	Pode ser possível
+	se conectar nele.
+	"""
 	keyWait
 		any = false
 	end
@@ -176,15 +178,16 @@ script 9 mmbn5 {
 script 10 mmbn5 {
 	msgOpen
 	"""
-	Design plan for
-	Higsby's own PC.
+	Projeto de um
+	computador para
+	o próprio Higsby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's named
-	"Double-Click 20XX."
+	Tem anotado:
+	"Duplo-Clique 20XX".
 	"""
 	keyWait
 		any = false
@@ -192,13 +195,17 @@ script 10 mmbn5 {
 }
 script 11 mmbn5 {
 	msgOpen
-	"Business admin book."
+	"""
+	Ficheiro de
+	administração
+	de vendas.
+	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Higsby's a fine
-	businessman.
+	O Higsby é um
+	negociante de primeira.
 	"""
 	keyWait
 		any = false
@@ -207,16 +214,17 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	"Double-Click 20XX,"
-	a PC built by
-	Higsby himself.
+	"Duplo-Clique 20XX",
+	um computador
+	projetado pelo Higsby.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	He'll sell it for
-	the right price.
+	Ele com certeza o
+	venderá por um preço
+	adequado.
 	"""
 	keyWait
 		any = false
@@ -225,8 +233,9 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	All paperwork is
-	carefully stored.
+	Toda a papelada
+	é cuidadosamente
+	armazenada aqui.
 	"""
 	keyWait
 		any = false
@@ -241,14 +250,14 @@ script 14 mmbn5 {
 	flagSet
 		flag = 538
 	msgOpen
-	"⋯Hm?"
+	"... Hm?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Amid various PC
-	parts something
-	catches Lan's eye.
+	Dentre as várias peças
+	de computador, algo
+	atrai a atenção de Lan.
 	"""
 	keyWait
 		any = false
@@ -260,8 +269,8 @@ script 14 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan got a
-	PowerUp Program:
+	Lan adquiriu um
+	Programa PowerUp:
 	"
 	"""
 	printItem
@@ -277,9 +286,9 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	The motherboard is
-	showing and a number
-	of wires protrude.
+	A placa-mãe está à
+	mostra, e há fios
+	soltos.
 	"""
 	keyWait
 		any = false

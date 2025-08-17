@@ -59,8 +59,9 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go to town!
-	What happened?
+	Vamos pro bairro!
+	O que será que
+	aconteceu?
 	"""
 	keyWait
 		any = false
@@ -70,14 +71,14 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Jack out!"
+	"Desconecta!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's find the
-	server hidden in
-	ACDC Town!
+	Bora achar o servidor
+	escondido no Bairro
+	ACDC!
 	"""
 	keyWait
 		any = false
@@ -91,8 +92,9 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! Let's
-	go find Chaud!
+	Desconecta!
+	Bora falar com o
+	Chaud!
 	"""
 	keyWait
 		any = false
@@ -103,8 +105,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Jack out! Let's
-	go find Baryl!
+	Desconecta!
+	Bora falar com o
+	Baryl!
 	"""
 	keyWait
 		any = false
@@ -115,9 +118,9 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go find
-	Nebula's hidden
-	microservers!
+	Vamos atrás dos
+	microsservidores
+	da Nebula!
 	"""
 	keyWait
 		any = false
@@ -129,8 +132,8 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	MegaMan!
-	Find Nebula's
-	Transmtr!
+	Encontra o Transmissor
+	da Nebula!
 	"""
 	keyWait
 		any = false
@@ -141,9 +144,9 @@ script 16 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tomorrow's the
-	big day. I'd better
-	rest up.
+	Amanhã é o grande
+	dia. É melhor eu
+	descansar.
 	"""
 	keyWait
 		any = false
@@ -154,9 +157,9 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	What's the data
-	in the disk
-	supposed to mean?
+	O que será que
+	significam os
+	dados no disco?
 	"""
 	keyWait
 		any = false
@@ -167,9 +170,9 @@ script 19 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	When you're ready,
-	go through the door
-	in SciLab3!
+	Quando cê tiver
+	pronto, atravessa a
+	porta em SciLab 3!
 	"""
 	keyWait
 		any = false
@@ -180,9 +183,9 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's break off the
-	Net moderately and
-	call it a day.
+	Bora começar a sair
+	da Rede e dar o dia
+	por encerrado.
 	"""
 	keyWait
 		any = false
@@ -269,9 +272,9 @@ script 25 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	This is it⋯
-	We'd better tell
-	Mom we're going.
+	É hoje... Bora falar
+	pra mamãe que a gente
+	tá de saída.
 	"""
 	keyWait
 		any = false
@@ -282,8 +285,9 @@ script 26 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	We'd better jack
-	out and get ready.
+	Melhor a gente
+	desconectar e se
+	preparar.
 	"""
 	keyWait
 		any = false
@@ -294,9 +298,9 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Let's go back to
-	the Nebula's base
-	when you're ready!
+	Quando cê estiver
+	pronto, vamos voltar
+	pra base da Nebula!
 	"""
 	keyWait
 		any = false
@@ -375,9 +379,9 @@ script 50 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	I can sense a
-	dark energy⋯
-	Stay sharp!
+	Eu tô sentindo uma
+	energia sombria...
+	Não baixa a guarda!
 	"""
 	keyWait
 		any = false

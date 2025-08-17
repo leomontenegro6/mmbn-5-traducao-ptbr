@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Well⋯?"
+	"E...?"
 	keyWait
 		any = false
 	clearMsg
@@ -15,23 +15,23 @@ script 1 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	SECURITY CODE
-	CHECK PASSED.
+	CÓDIGO DE SEGURANÇA
+	CONFIRMADO.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"DOOR UNLOCKED."
+	"PORTA DESTRANCADA."
 	keyWait
 		any = false
 	clearMsg
 	soundDisableTextSFX
 	soundPlay
 		track = 337
-	"Pshh,"
+	"Tshhh... "
 	soundPlay
 		track = 332
-	" clang!"
+	" Clém!"
 	keyWait
 		any = false
 	clearMsg
@@ -42,7 +42,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Okay! It's open!"
+	"Beleza! Abriu!"
 	keyWait
 		any = false
 	clearMsg
@@ -52,15 +52,15 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	"""
-	Careful! Anything
-	could be in there!
+	Cuidado! Não sabemos
+	o que tem aí dentro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Okay!"
+	"Uhum!"
 	keyWait
 		any = false
 	end
@@ -69,15 +69,15 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	"""
-	Careful! Anything
-	could be in there!
+	Cuidado! Não sabemos
+	o que tem aí dentro!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Okay!"
+	"Uhum!"
 	keyWait
 		any = false
 	end

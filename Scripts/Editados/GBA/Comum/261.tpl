@@ -8,13 +8,13 @@ script 0 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"⋯Power's been shown!"
+	"... Força foi mostrada!"
 	keyWait
 		any = false
 	flagClear
@@ -24,19 +24,19 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A voice speaks out
-	of nowhere.
+	Um voz é ouvida,
+	saída do nada.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Show your power⋯"
+	"Mostre sua força..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Find 140
-	SFrags⋯
+	Reúna 140
+	Fragmentos S...
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 2 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I'm a NetDealer.
-	Wanna see my stuff?
+	Sou um NetVendedor.
+	Quer ver meus produtos?
 	
 	"""
 	positionOptionHorizontal
@@ -75,7 +75,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Sure "
+	" Sim "
 	option
 		brackets = 0
 		left = 0
@@ -84,7 +84,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" No,thanks"
+	" Não"
 	select
 		default = 0
 		BSeparate = false
@@ -100,7 +100,7 @@ script 2 mmbn5 {
 }
 script 3 mmbn5 {
 	clearMsg
-	"Come again soon,OK?"
+	"Volte sempre, hein?"
 	keyWait
 		any = false
 	end
@@ -110,8 +110,8 @@ script 4 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Sorry,
-	I'm all sold out.
+	Desculpe, mas está
+	tudo esgotado.
 	"""
 	keyWait
 		any = false
@@ -120,8 +120,8 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The NetDealer's
-	gone.
+	O NetVendedor foi
+	embora.
 	"""
 	keyWait
 		any = false

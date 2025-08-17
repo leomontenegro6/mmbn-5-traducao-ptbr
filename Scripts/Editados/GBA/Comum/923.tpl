@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Prepare for battle⋯"
+	"Prepare-se para a\nbatalha..."
 	keyWait
 		any = false
 	clearMsg
@@ -14,8 +14,8 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Prepare for battle?
-	Right!
+	Preparar pra batalha?
+	Beleza!
 	"""
 	keyWait
 		any = false
@@ -27,14 +27,14 @@ script 2 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan installed
-	"ArmrData",
-	"KtnaData",and
+	Lan instalou
+	"DadoArmd",
+	"DadoKtna"
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"HelmData\"!"
+	"e \"DadoElmo\"!"
 	keyWait
 		any = false
 	clearMsg
@@ -45,7 +45,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"N-now what⋯"
+	"E-e agora...?"
 	keyWait
 		any = false
 	end
@@ -53,8 +53,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Time to fight!
-	Open the door⋯!!!
+	Hora de lutar!
+	Abra-se, porta...!!!
 	"""
 	keyWait
 		any = false
@@ -65,13 +65,12 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	That's it!
-	The door's open!
+	Legal! A porta abriu!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"I'm going in!"
+	"Eu vou entrar!"
 	keyWait
 		any = false
 	end

@@ -2,13 +2,13 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"A map of the ship."
+	"Um mapa do navio."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The Engine Room
-	lies ahead.
+	A Sala das Máquinas
+	fica logo à frente.
 	"""
 	keyWait
 		any = false
@@ -17,8 +17,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A huge,expensive-
-	looking mirror.
+	Um enorme e caro
+	espelho.
 	"""
 	keyWait
 		any = false
@@ -30,17 +30,17 @@ script 2 mmbn5 {
 		jumpIfTeamColonel = 7
 	msgOpen
 	"""
-	A painting of a
-	beach that looks
-	almost real.
+	É a pintura de uma
+	praia.
+	Parece até real.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's quite amazing
-	since the real thing
-	is visible nearby.
+	O que é incrível, visto
+	que há uma praia de
+	verdade aqui perto.
 	"""
 	keyWait
 		any = false
@@ -58,16 +58,17 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A door to the party
-	room. There's
-	a mirror on 1 side.
+	Uma porta para o salão
+	de festas. Há um espelho
+	em um dos lados.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ladies probably use
-	this to freshen up⋯
+	As mulheres provavel-
+	mente o usam para
+	retocar a maquiagem...
 	"""
 	keyWait
 		any = false
@@ -76,16 +77,16 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	The door looks like
-	it somehow leads
-	to a party room.
+	Parece que essa porta
+	dá acesso ao salão de
+	festas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A large mirror is
-	on the other side.
+	Há um enorme espelho
+	do outro lado dela.
 	"""
 	keyWait
 		any = false
@@ -94,9 +95,9 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	This looks like a
-	place to get some
-	peace and quiet.
+	Parece ser um lugar
+	perfeito pra descansar
+	em silêncio.
 	"""
 	keyWait
 		any = false
@@ -105,20 +106,23 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	msgOpen
 	"""
-	An impressive scene
-	adorns the wall.
+	Uma visão impressionante
+	enfeita a parede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	The finely painted
-	fireworks are very
+	Uma pintura
+	habilmente produzida,
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"colorful."
+	"""
+	retratando fogos de
+	artifício bem coloridos.
+	"""
 	keyWait
 		any = false
 	end
@@ -138,28 +142,28 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	It repels all light
-	and always reflects
-	this⋯
+	Ele repele toda a
+	luz e sempre reflete
+	isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A mirror repels
-	all light⋯
+	Espelhos repelem
+	toda a luz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	And that mirror over
-	there is reflecting⋯
+	E aquele espelho ali
+	tá refletindo...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Under the sofa!"
+	"Debaixo do sofá!"
 	keyWait
 		any = false
 	clearMsg
@@ -170,9 +174,9 @@ script 10 mmbn5 {
 	playerAnimateScene
 		animation = 24
 	"""
-	Lan carefully
-	applies the
-	"Sofa Stamp."
+	Lan cuidadosamente
+	carimba o
+	"Carimbo do Sofá".
 	"""
 	playerFinish
 	playerResetScene
@@ -183,8 +187,8 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Cool!!!
-	I got a stamp!!!
+	Beleza!!!
+	Consegui um carimbo!!!
 	"""
 	keyWait
 		any = false
@@ -197,17 +201,17 @@ script 11 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	The roar of the
-	engines can be heard
-	through this door.
+	O estrondo do motor
+	pode ser ouvido através
+	da porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It's locked to keep
-	out unauthorized
-	personnel.
+	Ela está trancada, para
+	barrar o acesso de
+	pessoal não autorizado.
 	"""
 	keyWait
 		any = false
@@ -216,20 +220,20 @@ script 11 mmbn5 {
 script 12 mmbn5 {
 	msgOpen
 	"""
-	CODE RED. SWITCHED
-	TO MANUAL MODE.
+	CÓDIGO VERMELHO.
+	ADOTANDO MODO MANUAL.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PLEASE ENTER
-	SECURITY CODE.
+	INSIRA O CÓDIGO
+	DE SEGURANÇA.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"ENTER KEYWORD.\n"
+	"INSIRA CÓDIGO.\n"
 	option
 		brackets = 1
 		left = 8
@@ -330,7 +334,8 @@ script 12 mmbn5 {
 		count = 1
 	"""
 	OK
-	(L/R:Cursor U/D:Num)
+	Conferindo número de
+	loteria! Bip Bip...
 	"""
 	menuSelectShipCode
 		jumpIfCorrect = 14
@@ -342,8 +347,8 @@ script 12 mmbn5 {
 script 13 mmbn5 {
 	msgOpen
 	"""
-	INCORRECT
-	SECURITY CODE⋯
+	CÓDIGO DE SEGURANÇA
+	INCORRETO...
 	"""
 	keyWait
 		any = false
@@ -357,8 +362,7 @@ script 14 mmbn5 {
 script 15 mmbn5 {
 	msgOpen
 	"""
-	No code number has
-	been entered.
+	Nenhum código inserido.
 	"""
 	keyWait
 		any = false

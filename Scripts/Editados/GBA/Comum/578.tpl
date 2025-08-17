@@ -10,16 +10,16 @@ script 1 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Nebula seems to
-	have another trick
-	up their sleeve.
+	Parece que a Nebula tem
+	mais um truque na manga.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	They're better
-	than I thought!
+	Aquele pessoal lá é
+	melhor do que eu
+	pensava!
 	"""
 	keyWait
 		any = false
@@ -30,15 +30,14 @@ script 2 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	I don't care what
-	Nebula does.
+	Tô pouco me lixando
+	pro que a Nebula faz.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I'm not just
-	interested.
+	Não me interessa nada.
 	"""
 	keyWait
 		any = false
@@ -49,9 +48,9 @@ script 10 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Looks like the
-	other areas are
-	having fun now!
+	Parece que as
+	outras áreas tão
+	mó divertidas agora!
 	"""
 	keyWait
 		any = false
@@ -66,14 +65,14 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Nebula is doing
-	a lot better
-	than I expected.
+	A Nebula tá se saindo
+	bem melhor do que eu
+	esperava.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"They're good."
+	"Eles mandam bem."
 	keyWait
 		any = false
 	end
@@ -83,14 +82,14 @@ script 20 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	I saw Nebula set
-	up some strange
-	device over there.
+	Eu vi a Nebula plantar
+	um dispositivo mó
+	esquisito ali.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"What is it?"
+	"Quê que era?"
 	keyWait
 		any = false
 	end
@@ -100,17 +99,15 @@ script 21 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	What is that
-	odd device
-	over there?
+	Que maquininha esquisita
+	é aquela ali?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Well,I don't care
-	so long as it
-	doesn't bother me.
+	Bom, se não me
+	perturba, tanto faz.
 	"""
 	keyWait
 		any = false
@@ -121,16 +118,14 @@ script 30 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	Nebula's turned
-	the whole Net
+	A Nebula virou a Rede
+	inteira de ponta-cabeça.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	upside down.
-	It's so inspiring
-	to me!
+	É tão... inspirador!
 	"""
 	keyWait
 		any = false
@@ -141,16 +136,16 @@ script 31 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	We should leave
-	Nebula alone.
+	A gente devia deixar
+	a Nebula quieta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Their actions are
-	actually making
-	our lives easier!
+	As ações dela tão
+	é facilitando as
+	nossas vidas!
 	"""
 	keyWait
 		any = false
@@ -161,23 +156,22 @@ script 40 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	The Net is
-	totally afraid
-	of Nebula.
+	A Rede tá morrendo
+	de medo da Nebula.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I envy Nebula!
-	They're my heroes!
+	Que inveja dela!
+	Eles são meus heróis!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	I want to be
-	just like them!
+	Quero ser que nem
+	eles quando eu crescer!
 	"""
 	keyWait
 		any = false
@@ -188,16 +182,16 @@ script 41 mmbn5 {
 		mugshot = HeelNaviBlack
 	msgOpen
 	"""
-	A team of Navis
-	will attack Nebula?
+	Uma equipe de Navis
+	vai atacar a Nebula?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So what? Nebula will
-	win for sure. They
-	are just like us.
+	E daí? A Nebula vai
+	vencer, certeza. Eles
+	são que nem a gente.
 	"""
 	keyWait
 		any = false

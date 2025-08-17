@@ -7,34 +7,36 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Well done,people."
+	"Bom trabalho, homens."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like this is
-	enemy territory⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We can't afford to
-	make any mistakes.
+	Parece que estamos
+	em território inimigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rushing our advance
-	would not be wise.
+	Não podemos nos dar
+	ao luxo de cometer
+	nenhum erro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack out and
-	assess our position.
+	Apressar o nosso avanço
+	não seria nada sábio.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vamos desconectar
+	e reavaliar bem
+	a nossa posição.
 	"""
 	keyWait
 		any = false
@@ -44,7 +46,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What is it,MegaMan?"
+	"O que foi, MegaMan?"
 	keyWait
 		any = false
 	clearMsg
@@ -56,8 +58,8 @@ script 2 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I feel an
-	immense power⋯
+	Eu tô sentindo
+	um poder imenso...
 	"""
 	keyWait
 		any = false
@@ -69,7 +71,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"⋯An immense power?"
+	"... Um poder imenso?"
 	keyWait
 		any = false
 	clearMsg
@@ -79,7 +81,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Exorcists of evil⋯"
+	"Exorcistas da\nmaldade..."
 	keyWait
 		any = false
 	end
@@ -88,7 +90,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Show yourself!!!"
+	"Apareça!!"
 	keyWait
 		any = false
 	end
@@ -97,16 +99,17 @@ script 6 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	A far stronger evil
-	power lies beyond.
+	Um poder maligno
+	muito mais forte
+	se esconde além.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You and your friends
-	together must smite
-	this great evil.
+	Você e seus amigos
+	terão que abater esse
+	grande mal juntos.
 	"""
 	keyWait
 		any = false
@@ -116,7 +119,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"What's this⋯?"
+	"O que é isto...?"
 	keyWait
 		any = false
 	clearMsg
@@ -132,8 +135,8 @@ script 8 mmbn5 {
 		timer = 0
 		value = 12
 	"""
-	MegaMan got a
-	BattleChip:
+	MegaMan adquiriu
+	um chip:
 	"JustcOne J"!!!
 	"""
 	keyWait
@@ -146,13 +149,13 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Now go on⋯"
+	"Agora, vá..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Go on and smite the
-	great evil.
+	Prossiga e esmague
+	o grande mal.
 	"""
 	keyWait
 		any = false
@@ -164,7 +167,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"It's gone⋯"
+	"... Sumiu."
 	keyWait
 		any = false
 	clearMsg
@@ -175,7 +178,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"What was it anyway?"
+	"Mas quem que era...?"
 	keyWait
 		any = false
 	end
@@ -184,7 +187,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Let's keep going!"
+	"... Bom, bora só\nseguir em frente!"
 	keyWait
 		any = false
 	clearMsg
@@ -196,8 +199,8 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Why the sudden
-	enthusiasm?
+	Por que todo esse
+	entusiasmo, de repente?
 	"""
 	keyWait
 		any = false
@@ -210,9 +213,9 @@ script 14 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	I'm not sure. I just
-	have this feeling
-	that I must go on⋯
+	Não sei. Só, desceu
+	esta sensação de que
+	eu tenho que avançar...
 	"""
 	keyWait
 		any = false
@@ -224,22 +227,22 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"It was that voice"
+	"Foi a voz"
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	It could be one of
-	Nebula's traps!
+	Talvez fosse uma
+	armadilha da Nebula!
 	"""
 	keyWait
 		any = false
@@ -252,9 +255,8 @@ script 16 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	No,that voice
-	couldn't have come
-	from Nebula.
+	Não, é impossível aquela
+	voz ter sido da Nebula.
 	"""
 	keyWait
 		any = false
@@ -266,26 +268,26 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	"."
 	waitSkip
 		frames = 30
-	"・"
+	". "
 	waitSkip
 		frames = 30
-	"I see. Very well."
+	"Saquei. Beleza."
 	keyWait
 		any = false
 	clearMsg
-	"Let's go,MegaMan."
+	"Vamos nessa, MegaMan."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's go smack down
-	this great evil!!!
+	Bora lá esmagar
+	esse grande mal!!!
 	"""
 	keyWait
 		any = false
@@ -297,7 +299,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Yeah!!!"
+	"É!!!"
 	keyWait
 		any = false
 	end
@@ -306,34 +308,36 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = Colonel
 	msgOpen
-	"Well done,people."
+	"Bom trabalho, homens."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Looks like this is
-	enemy territory⋯
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	We can't afford to
-	make any mistakes.
+	Parece que estamos
+	em território inimigo...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Rushing our advance
-	would not be wise.
+	Não podemos nos dar
+	ao luxo de cometer
+	nenhum erro.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's jack out and
-	assess our position.
+	Apressar o nosso avanço
+	não seria nada sábio.
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
+	Vamos desconectar
+	e reavaliar bem
+	a nossa posição.
 	"""
 	keyWait
 		any = false

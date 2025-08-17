@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	There's not much
-	time,MegaMan! Find
-	the server fast!
+	A gente tá sem tempo,
+	MegaMan! Encontra o
+	servidor, e rápido!
 	"""
 	keyWait
 		any = false
@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"I'm on it!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	end

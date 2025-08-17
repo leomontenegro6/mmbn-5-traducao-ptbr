@@ -4,13 +4,13 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = CloudMan
 	msgOpen
-	"Hmph."
+	"Hmpf."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So you made it
-	here already.
+	Então, você já
+	chegou até aqui.
 	"""
 	keyWait
 		any = false
@@ -39,16 +39,16 @@ script 2 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	All the hate
-	gathers here.
+	Todo o ódio
+	se reúne aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Shrouded deep,
-	deep in darkness,
-	thick as my clouds!
+	Envolto nas mais profundas
+	trevas, densas como as
+	minhas nuvens!
 	"""
 	keyWait
 		any = false
@@ -77,9 +77,8 @@ script 4 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	My clouds will
-	envelop your
-	whole being!
+	As minhas nuvens vão
+	engolir todo o seu ser!
 	"""
 	keyWait
 		any = false
@@ -107,13 +106,13 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -125,7 +124,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -137,8 +136,9 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan,get ready!
-	Battle routine,set!
+	MegaMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -150,7 +150,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -159,13 +159,13 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -177,7 +177,7 @@ script 19 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -189,8 +189,9 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	GyroMan,get ready!
-	Battle routine,set!
+	GyroMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -202,7 +203,7 @@ script 21 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -211,13 +212,13 @@ script 22 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -229,7 +230,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -241,8 +242,9 @@ script 24 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	SerchMan,get ready!
-	Battle routine,set!
+	SearchMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -254,7 +256,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -263,13 +265,13 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -281,7 +283,7 @@ script 27 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -293,8 +295,9 @@ script 28 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	NapalmMan,get ready!
-	Battle routine,set!
+	NapalmMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -306,7 +309,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = NapalmMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -315,13 +318,13 @@ script 34 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -333,7 +336,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -345,8 +348,9 @@ script 36 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Meddy,get ready!
-	Battle routine,set!
+	Meddy, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -358,7 +362,7 @@ script 37 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -367,13 +371,13 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -385,7 +389,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -397,8 +401,9 @@ script 44 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ShadowMan,get ready!
-	Battle routine,set!
+	ShadowMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -410,7 +415,7 @@ script 45 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -419,13 +424,13 @@ script 46 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -437,7 +442,7 @@ script 47 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -449,8 +454,9 @@ script 48 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	NumberMan,get ready!
-	Battle routine,set!
+	NumberMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -462,7 +468,7 @@ script 49 mmbn5 {
 	mugshotShow
 		mugshot = NumberMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -471,13 +477,13 @@ script 50 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -489,7 +495,7 @@ script 51 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -501,8 +507,9 @@ script 52 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	TomahawkMan,ready?
-	Battle routine,set!
+	TomahawkMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -514,7 +521,7 @@ script 53 mmbn5 {
 	mugshotShow
 		mugshot = TomahawkMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
@@ -523,13 +530,13 @@ script 58 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"CloudMan⋯"
+	"CloudMan..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	What the heck
-	is beyond him?
+	O que é aquilo
+	atrás dele?
 	"""
 	keyWait
 		any = false
@@ -541,7 +548,7 @@ script 59 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"\"All the hate\"?"
+	"\"Todo o ódio\"?"
 	keyWait
 		any = false
 	clearMsg
@@ -553,8 +560,9 @@ script 60 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ToadMan,get ready!
-	Battle routine,set!
+	ToadMan, em posição!
+	Rotina de batalha,
+	preparar!
 	"""
 	keyWait
 		any = false
@@ -566,7 +574,7 @@ script 61 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Execute!"
+	"Executar!"
 	keyWait
 		any = false
 	end
