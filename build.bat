@@ -1,7 +1,11 @@
 :: Arquivo .bat que remonta as roms traduzidas.
 @echo off
 cls
-echo ==Mega Man Battle Network 5
+echo ==Mega Man Battle Network 5 - Script para remonta de roms traduzidas==
+
+if "%1"=="-c" goto colonel
+if "%1"=="-p" goto protoman
+
 echo Escolha a versao para gerar:
 echo c - Equipe Colonel
 echo p - Equipe Proto Man
@@ -23,11 +27,10 @@ echo ==Gerando rom traduzida da versao Equipe Colonel.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-call recomprimir_graficos_comprimidos.bat
-.\Ferramentas\armips.exe .\Asm\graficos_equipe_colonel.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0 -sym graficos_equipe_colonel.sym
 
 echo ==Expandindo rom para 16mb==
-.\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Equipe Colonel"
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Equipe Colonel"
 
 echo Done.
 exit
@@ -42,11 +45,10 @@ echo ==Gerando rom traduzida da versao Equipe Proto Man.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-call recomprimir_graficos_comprimidos.bat
-.\Ferramentas\armips.exe .\Asm\graficos_equipe_protoman.asm
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1 -sym graficos_equipe_protoman.sym
 
 echo ==Expandindo rom para 16mb==
-.\Ferramentas\armips.exe .\Asm\expansor_rom.asm -strequ output "Equipe ProtoMan"
+.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\expansor_rom.asm -strequ output "Equipe ProtoMan"
 
 echo Done.
 exit
