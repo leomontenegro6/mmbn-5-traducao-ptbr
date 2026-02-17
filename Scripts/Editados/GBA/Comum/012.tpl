@@ -1,7 +1,7 @@
 @size 35
 
 script 0 mmbn5s {
-	"Tempo"
+	"Tempo    "
 	end
 }
 script 1 mmbn5s {
@@ -13,7 +13,7 @@ script 2 mmbn5s {
 	end
 }
 script 3 mmbn5s {
-	"Zennys"
+	"Zennys "
 	end
 }
 script 4 mmbn5s {

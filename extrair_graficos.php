@@ -11,7 +11,7 @@ $graficos = [
     (object)['nome' => 'Licenciado pela Nintendo', 'offset' => '0x6D9E90', 'tiles' => '1x14'],
     (object)['nome' => 'Menus', 'offset' => '0x6E2D04', 'tiles' => '1x76'],
     (object)['nome' => 'Menus2', 'offset' => '0x6E4C88', 'tiles' => '16x7'],
-    (object)['nome' => 'Chip Select', 'offset' => '0x6F952C', 'tiles' => '1x7'],
+    (object)['nome' => 'Chip Select', 'offset' => '0x6F950C', 'tiles' => '1x11'],
     (object)['nome' => 'Shuffle', 'offset' => '0x6FB108', 'tiles' => '2x18'],
     (object)['nome' => 'L or R', 'offset' => '0x6FB808', 'tiles' => '1x8'],
     (object)['nome' => 'Arm', 'offset' => '0x6FBA88', 'tiles' => '2x12'],

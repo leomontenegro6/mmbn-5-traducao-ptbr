@@ -22,6 +22,20 @@
 .org FonteGrande
     .incbin "Graficos/Editados/Fonte grande.gba"
 
+; Gráficos diversos da tela de batalhas
+.org Arm
+    .incbin "Graficos/Editados/Arm.gba"
+.org AttackPlus30
+    .incbin "Graficos/Editados/Attack Plus 30.gba"
+.org AttackPlusX
+    .incbin "Graficos/Editados/Attack Plus X.gba"
+.org ChipSelect
+    .incbin "Graficos/Editados/Chip Select.gba"
+.org Pause
+    .incbin "Graficos/Editados/Pause.gba"
+.org UniteBlock
+    .incbin "Graficos/Editados/Unite Block.gba"
+
 ; Nome "Licenciado pela Nintendo", antes da tela-título.
 .org LicenciadoPelaNintendo
     .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
