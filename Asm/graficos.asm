@@ -22,23 +22,37 @@
 .org FonteGrande
     .incbin "Graficos/Editados/Fonte grande.gba"
 
-; Gráficos diversos da tela de batalhas
+; Nome "Licenciado pela Nintendo", antes da tela-título.
+.org LicenciadoPelaNintendo
+    .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
+
+; Menus, ao apertar Start.
+.org MenuPET1
+    .incbin "Graficos/Editados/Menu PET 1.gba"
+.org MenuPET2
+    .incbin "Graficos/Editados/Menu PET 2.gba"
+
+; Tela de seleção de chips, entre turnos de batalhas.
 .org Arm
     .incbin "Graficos/Editados/Arm.gba"
+.org ArmChangeNoData
+    .incbin "Graficos/Editados/Arm Change No Data.gba"
+.org ChipSelect
+    .incbin "Graficos/Editados/Chip Select.gba"
+.org UniteBlock
+    .incbin "Graficos/Editados/Unite Block.gba"
+
+; Gráficos exibidos durante as batalhas.
+.org Pause
+    .incbin "Graficos/Editados/Pause.gba"
+.org LorR
+    .incbin "Graficos/Editados/L or R.gba"
+
+; Nomes de chip de boost de ataque.
 .org AttackPlus30
     .incbin "Graficos/Editados/Attack Plus 30.gba"
 .org AttackPlusX
     .incbin "Graficos/Editados/Attack Plus X.gba"
-.org ChipSelect
-    .incbin "Graficos/Editados/Chip Select.gba"
-.org Pause
-    .incbin "Graficos/Editados/Pause.gba"
-.org UniteBlock
-    .incbin "Graficos/Editados/Unite Block.gba"
-
-; Nome "Licenciado pela Nintendo", antes da tela-título.
-.org LicenciadoPelaNintendo
-    .incbin "Graficos/Editados/Licenciado pela Nintendo.gba"
 
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
