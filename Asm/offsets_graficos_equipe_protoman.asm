@@ -9,6 +9,13 @@ LicenciadoPelaNintendo equ 0x086D8BB4
 MenuPET1 equ 0x086E1A3C
 MenuPET2 equ 0x086E39C0
 
+MenuPet1PastaTM1 equ 0x086E2A6E
+MenuPet1PastaTM2 equ 0x086E2A7E
+MenuPet1SubChipsTM1 equ 0x086E2A8E
+MenuPet1SubChipsTM2 equ 0x086E2A9E
+MenuPet1SalvarTM1 equ 0x086E2B4E
+MenuPet1SalvarTM2 equ 0x086E2B5E
+
 Arm equ 0x086FA7CC
 ArmChangeNoData equ 0x0874F5B8
 ChipSelect equ 0x086F8250
