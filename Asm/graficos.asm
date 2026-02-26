@@ -87,14 +87,18 @@
 
 LogoTelaTitulo:
     .if versao == 1
-        .lz77gba "Graficos/Editados/Logo tela-titulo equipe protoman.gba"
+        .lz77gba "Graficos/Editados/Logo tela-titulo (EP).gba"
     .elseif versao == 0
-        .lz77gba "Graficos/Editados/Logo tela-titulo equipe colonel.gba"
+        .lz77gba "Graficos/Editados/Logo tela-titulo (EC).gba"
     .endif
     .align
 
 NomesTelaTitulo1:
-    .lz77gba "Graficos/Editados/Nomes tela-titulo 1.gba"
+    .if versao == 1
+        .lz77gba "Graficos/Editados/Nomes tela-titulo 1 (EP).gba"
+    .elseif versao == 0
+        .lz77gba "Graficos/Editados/Nomes tela-titulo 1 (EC).gba"
+    .endif
     .align
 
 NomesTelaTitulo2:

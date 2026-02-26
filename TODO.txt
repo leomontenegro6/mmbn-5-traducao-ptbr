@@ -1,1 +1,1 @@
-- Editar menu exibido ao apertar Start
+- Procurar fonte usada para as letras da parte superior dos menus (PASTAS, SUBCHIPS, COLEÇÃO, etc)
