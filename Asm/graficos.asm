@@ -55,6 +55,10 @@
     .incbin "Graficos/Editados/Chip Select.gba"
 .org UniteBlock
     .incbin "Graficos/Editados/Unite Block.gba"
+.org Shuffle
+    .incbin "Graficos/Editados/Shuffle.gba"
+.org Tactics
+    .incbin "Graficos/Editados/Tactics.gba"
 
 ; Gráficos exibidos durante as batalhas.
 .org Pause
@@ -68,6 +72,16 @@
 .org AttackPlusX
     .incbin "Graficos/Editados/Attack Plus X.gba"
 
+; Gráfico exibido após ativar uma armadilha.
+.org Trap1
+    .incbin "Graficos/Editados/Trap1.gba"  
+.org Trap2
+    .incbin "Graficos/Editados/Trap2.gba" 
+.org Trap3
+    .incbin "Graficos/Editados/Trap3.gba"
+.org Trap4
+    .incbin "Graficos/Editados/Trap4.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
@@ -76,6 +90,38 @@
     .dw NomesTelaTitulo1 + 0x80000000
 .org PonteirosNomesTelaTitulo2
     .dw NomesTelaTitulo2 + 0x80000000
+.org PonteiroSubmenus1
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus2
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus3
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus4
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus5
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus6
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus7
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus8
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus9
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus10
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus11
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus12
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus13
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus14
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus15
+    .dw Submenus + 0x80000000
+.org PonteiroSubmenus16
+    .dw Submenus + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -103,6 +149,10 @@ NomesTelaTitulo1:
 
 NomesTelaTitulo2:
     .lz77gba "Graficos/Editados/Nomes tela-titulo 2.gba"
+    .align
+
+Submenus:
+    .lz77gba "Graficos/Editados/Submenus.gba"
     .align
 
 .close

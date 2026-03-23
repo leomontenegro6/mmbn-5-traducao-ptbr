@@ -20,6 +20,8 @@ Arm equ 0x086FBA88
 ArmChangeNoData equ 0x087508BC
 ChipSelect equ 0x086F950C
 UniteBlock equ 0x086FCE20
+Shuffle equ 0x086FB108
+Tactics equ 0x086FEEDC
 
 Pause equ 0x086FCA88
 LorR equ 0x086FB808
@@ -27,6 +29,27 @@ LorR equ 0x086FB808
 AttackPlus30 equ 0x08724964
 AttackPlusX equ 0x0871F024
 
+Trap1 equ 0x0838100C
+Trap2 equ 0x08381230
+Trap3 equ 0x08381534
+Trap4 equ 0x083817B8
+
 PonteiroLogoTelaTitulo equ 0x08030848
 PonteirosNomesTelaTitulo1 equ 0x08030830
 PonteirosNomesTelaTitulo2 equ 0x08030818
+PonteiroSubmenus1 equ 0x0804A110
+PonteiroSubmenus2 equ 0x0812A7A0
+PonteiroSubmenus3 equ 0x0812B3B8
+PonteiroSubmenus4 equ 0x0812C86C
+PonteiroSubmenus5 equ 0x0812EB4C
+PonteiroSubmenus6 equ 0x0812FF44
+PonteiroSubmenus7 equ 0x08130660
+PonteiroSubmenus8 equ 0x08130B04
+PonteiroSubmenus9 equ 0x08130E14
+PonteiroSubmenus10 equ 0x08132F98
+PonteiroSubmenus11 equ 0x08135BA8
+PonteiroSubmenus12 equ 0x08136920
+PonteiroSubmenus13 equ 0x081378DC
+PonteiroSubmenus14 equ 0x08139988
+PonteiroSubmenus15 equ 0x0813A9E0
+PonteiroSubmenus16 equ 0x0813BFB0

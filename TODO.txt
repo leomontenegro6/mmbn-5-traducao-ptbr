@@ -1,1 +1,17 @@
-- Procurar fonte usada para as letras da parte superior dos menus (PASTAS, SUBCHIPS, COLEÇÃO, etc)
+- Editar submenus
+  - EDITAR PASTA
+  - SUB CHIP
+  - LIBRARY
+  - MEGAMAN
+    - DELETE TIME
+    - NAVI CUSTOMIZER
+  - E-MAIL
+  - KEYITEM
+  - NETWORK
+    - BATTLE CHIP TRADE
+    - PROGRUM PERTS
+  - SAVE
+
+- Editar outros menus similares aos submenus, porém possivelmente separados
+  - CHIP TRADER
+  - MAP DATA

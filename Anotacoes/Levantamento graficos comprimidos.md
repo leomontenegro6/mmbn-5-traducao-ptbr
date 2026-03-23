@@ -1,0 +1,32 @@
+# Levantamento de gráficos comprimidos (Versão Team Colonel)
+
+| Offset   | Descrição                                   | Codec | Editado |
+|----------|---------------------------------------------|-------|---------|
+| 0x6DA08C | Game Over                                   | 4bpp  |         |
+| 0x6DA53C | Presented by Capcom                         | 4bpp  |         |
+| 0x6DB5A8 | Map Data                                    | 4bpp  |         |
+| 0x6E095C | Nomes Localidades Mapa                      | 4bpp  |         |
+| 0x6E15B4 | Chip Trader                                 | 4bpp  |         |
+| 0x6E18C0 | Bugfrags (loja)                             | 4bpp  |         |
+| 0x6E1A80 | Crossover Points                            | 4bpp  |         |
+| 0x6E6F04 | Submenus                                    | 4bpp  |         |
+| 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
+| 0x6EBCA4 | New                                         | 4bpp  |         |
+| 0x6EDBB8 | No Image                                    | 4bpp  |         |
+| 0x6EE584 | Information                                 | 4bpp  |         |
+| 0x6EE65C | Move Remove                                 | 4bpp  |         |
+| 0x6EF720 | Navigator                                   | 4bpp  |         |
+| 0x6F36CC | Ok Yes No Wait                              | 4bpp  |         |
+| 0x6F3AD4 | Selecting                                   | 4bpp  |         |
+| 0x6F4154 | No Entry                                    | 4bpp  |         |
+| 0x7D827C | Crossover Battle                            | 4bpp  |         |
+| 0x7DA648 | Back Next Name Comment                      | 4bpp  |         |
+| 0x7DAEB0 | Entry Update List ID                        | 4bpp  |         |
+| 0x7DC520 | Game Help                                   | 4bpp  |         |
+| 0x7DD7C0 | Telas Foruns                                | 4bpp  |         |
+| 0x7E5A10 | Press A Button Order Pt Major Hit           | 4bpp  |         |
+| 0x7E6530 | Zenny Bugfrags                              | 4bpp  |         |
+| 0x7E6A08 | Items                                       | 4bpp  |         |
+| 0x7F8DB8 | Nomes tela-titulo (new game continue compl) | 4bpp  | Sim     |
+| 0x7F95D0 | Nomes tela-titulo (copyright)               | 4bpp  | Sim     |
+| 0x7F9BC4 | Tela-titulo                                 | 8bpp  | Sim     |
