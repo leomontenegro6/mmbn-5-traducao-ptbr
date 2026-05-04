@@ -1,5 +1,4 @@
 - Editar submenus
-  - SUB CHIP
   - LIBRARY
   - MEGAMAN
     - DELETE TIME

@@ -12,6 +12,7 @@
 | 0x6E6F04 | Submenus                                    | 4bpp  |         |
 | 0x6E8940 | Folder Edit 1 (tm)                          |       |         |
 | 0x6EA3D8 | Folder Edit 2 (tm)                          |       |         |
+| 0x6EB18C | Subchip (tm)                                |       |         |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |
