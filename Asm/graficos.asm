@@ -122,6 +122,12 @@
     .dw Submenus + 0x80000000
 .org PonteiroSubmenus16
     .dw Submenus + 0x80000000
+.org PonteiroEditarPasta1TM1
+    .dw EditarPastaTM1 + 0x80000000
+.org PonteiroEditarPasta2TM1
+    .dw EditarPastaTM2 + 0x80000000
+.org PonteiroEditarPasta2TM2
+    .dw EditarPastaTM2 + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -153,6 +159,14 @@ NomesTelaTitulo2:
 
 Submenus:
     .lz77gba "Graficos/Editados/Submenus.gba"
+    .align
+
+EditarPastaTM1:
+    .lz77gba "Graficos/Editados/Editar Pasta (tm).gba"
+    .align
+
+EditarPastaTM2:
+    .lz77gba "Graficos/Editados/Editar Pasta 2 (tm).gba"
     .align
 
 .close

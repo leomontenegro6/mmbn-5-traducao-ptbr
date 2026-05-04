@@ -10,6 +10,8 @@
 | 0x6E18C0 | Bugfrags (loja)                             | 4bpp  |         |
 | 0x6E1A80 | Crossover Points                            | 4bpp  |         |
 | 0x6E6F04 | Submenus                                    | 4bpp  |         |
+| 0x6E8940 | Folder Edit 1 (tm)                          |       |         |
+| 0x6EA3D8 | Folder Edit 2 (tm)                          |       |         |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |

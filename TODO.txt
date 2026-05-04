@@ -1,5 +1,4 @@
 - Editar submenus
-  - EDITAR PASTA
   - SUB CHIP
   - LIBRARY
   - MEGAMAN
@@ -9,7 +8,7 @@
   - KEYITEM
   - NETWORK
     - BATTLE CHIP TRADE
-    - PROGRUM PERTS
+    - PROGRAM PARTS
   - SAVE
 
 - Editar outros menus similares aos submenus, porém possivelmente separados

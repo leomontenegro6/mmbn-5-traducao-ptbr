@@ -53,3 +53,6 @@ PonteiroSubmenus13 equ 0x081378DC
 PonteiroSubmenus14 equ 0x08139988
 PonteiroSubmenus15 equ 0x0813A9E0
 PonteiroSubmenus16 equ 0x0813BFB0
+PonteiroEditarPasta1TM1 equ 0x0812A7C4
+PonteiroEditarPasta2TM1 equ 0x0813191C
+PonteiroEditarPasta2TM2 equ 0x0813C04C
