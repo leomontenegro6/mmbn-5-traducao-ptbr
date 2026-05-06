@@ -27,7 +27,7 @@ echo ==Gerando rom traduzida da versao Equipe Colonel.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
-.\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\tilemaps_submenus.asm -equ versao 0
+php .\editar_tilemaps_submenus.php c
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0 -sym graficos_equipe_colonel.sym
 
 echo ==Expandindo rom para 16mb==
@@ -46,6 +46,7 @@ echo ==Gerando rom traduzida da versao Equipe Proto Man.
 echo ==Aplicando patches extras na rom modificada:==
 
 echo ==Graficos==
+php .\editar_tilemaps_submenus.php p
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1 -sym graficos_equipe_protoman.sym
 
 echo ==Expandindo rom para 16mb==
