@@ -57,3 +57,4 @@ PonteiroEditarPasta1TM1 equ 0x0812A7C4
 PonteiroEditarPasta2TM1 equ 0x0813191C
 PonteiroEditarPasta2TM2 equ 0x0813C04C
 PonteiroSubchipsTM equ 0x0812B3C4
+PonteiroColecaoTM equ 0x0812C878

@@ -29,3 +29,13 @@
 .org 0x08000042
     .stringn "(SUBCHIPS) [30][31][31][31]"
 .close
+
+; Tilemap do "Coleção", na tela de usar chips
+.open "Graficos/Editados/Colecao (tm).gba", 0x08000000
+.loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
+.org 0x08000006
+    .stringn "(COLECAO)"
+.loadtable "Tabelas/Telas Menus - Nomes Parte Baixo.tbl"
+.org 0x08000042
+    .stringn "(COLECAO)"
+.close

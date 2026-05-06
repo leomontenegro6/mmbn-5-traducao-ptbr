@@ -1,5 +1,5 @@
 - Editar submenus
-  - LIBRARY
+  - LIBRARY (acentuar no final)
   - MEGAMAN
     - DELETE TIME
     - NAVI CUSTOMIZER

@@ -130,6 +130,8 @@
     .dw EditarPastaTM2 + 0x80000000
 .org PonteiroSubchipsTM
     .dw SubchipsTM + 0x80000000
+.org PonteiroColecaoTM
+    .dw ColecaoTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -173,6 +175,10 @@ EditarPastaTM2:
 
 SubchipsTM:
     .lz77gba "Graficos/Editados/Subchips (tm).gba"
+    .align
+
+ColecaoTM:
+    .lz77gba "Graficos/Editados/Colecao (tm).gba"
     .align
 
 .close
