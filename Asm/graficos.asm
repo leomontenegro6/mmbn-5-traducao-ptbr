@@ -132,6 +132,8 @@
     .dw SubchipsTM + 0x80000000
 .org PonteiroColecaoTM
     .dw ColecaoTM + 0x80000000
+.org PonteiroCustomizadorNaviTM
+    .dw CustomizadorNaviTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -179,6 +181,10 @@ SubchipsTM:
 
 ColecaoTM:
     .lz77gba "Graficos/Editados/Colecao (tm).gba"
+    .align
+
+CustomizadorNaviTM:
+    .lz77gba "Graficos/Editados/Customizador de Navi (tm).gba"
     .align
 
 .close

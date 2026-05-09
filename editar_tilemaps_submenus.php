@@ -29,6 +29,13 @@ $tilemaps = [
         'comment' => 'na tela de ver a coleção de chips',
         'top_text' => '(COLECAO)',
         'bottom_text' => '(COLECAO)'
+    ],
+    [
+        'filename' => 'Customizador de Navi (tm).gba',
+        'description' => 'Customizador de Navi',
+        'comment' => 'na tela de customização de Navi',
+        'top_text' => '(CUSTOMIZADOR DE NAVI)[23][24][0E][25][0E][25][0E]',
+        'bottom_text' => '(CUSTOMIZADOR DE NAVI) [30][31][31][31]'
     ]
 ];
 
@@ -55,7 +62,6 @@ foreach ($tilemaps as $i => $tilemap) {
 
 // Write to file
 file_put_contents('Asm/tilemaps_submenus.asm', $armips_code);
-exit;
 
 // Execute ARMIPS
 exec('.\Ferramentas\armips-lzss\armips-lzss-v1.exe Asm/tilemaps_submenus.asm', $output, $return_code);

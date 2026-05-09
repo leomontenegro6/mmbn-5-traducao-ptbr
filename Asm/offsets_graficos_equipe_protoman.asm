@@ -58,3 +58,4 @@ PonteiroEditarPasta2TM1 equ 0x08131834
 PonteiroEditarPasta2TM2 equ 0x0813BF64
 PonteiroSubchipsTM equ 0x0812B2DC
 PonteiroColecaoTM equ 0x0812C790
+PonteiroCustomizadorNaviTM equ 0x08132EEC

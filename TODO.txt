@@ -2,7 +2,6 @@
   - LIBRARY (acentuar no final)
   - MEGAMAN
     - DELETE TIME
-    - NAVI CUSTOMIZER
   - E-MAIL
   - KEYITEM
   - NETWORK
