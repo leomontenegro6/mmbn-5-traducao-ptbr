@@ -15,6 +15,7 @@
 | 0x6EB18C | Subchip (tm)                                |       | Sim     |
 | 0x6F0FE4 | Coleção (tm)                                |       | Sim     |
 | 0x6EDDF8 | Customizador de Navi (tm)                   |       | Sim     |
+| 0x6F1D34 | Tempo de Luta (tm)                          |       | Sim     |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |

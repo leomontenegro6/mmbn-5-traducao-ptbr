@@ -1,7 +1,5 @@
 - Editar submenus
   - LIBRARY (acentuar no final)
-  - MEGAMAN
-    - DELETE TIME
   - E-MAIL
   - KEYITEM
   - NETWORK

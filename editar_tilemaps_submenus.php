@@ -4,38 +4,33 @@
 $tilemaps = [
     [
         'filename' => 'Editar Pasta (tm).gba',
-        'description' => 'Editar Pasta 1',
-        'comment' => 'na tela de seleção de pasta',
         'top_text' => '(EDITAR PASTA)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
         'bottom_text' => '(EDITAR PASTA) [30]'
     ],
     [
         'filename' => 'Editar Pasta 2 (tm).gba',
-        'description' => 'Editar Pasta 2',
-        'comment' => 'na tela de edição de pasta',
         'top_text' => '(EDITAR PASTA)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
         'bottom_text' => '(EDITAR PASTA) [30]'
     ],
     [
         'filename' => 'Subchips (tm).gba',
-        'description' => 'Subchips',
-        'comment' => 'na tela de usar subchips',
         'top_text' => '(SUBCHIPS)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
         'bottom_text' => '(SUBCHIPS) [30][31][31][31]'
     ],
     [
         'filename' => 'Colecao (tm).gba',
-        'description' => 'Coleção',
-        'comment' => 'na tela de ver a coleção de chips',
         'top_text' => '(COLECAO)',
         'bottom_text' => '(COLECAO)'
     ],
     [
         'filename' => 'Customizador de Navi (tm).gba',
-        'description' => 'Customizador de Navi',
-        'comment' => 'na tela de customização de Navi',
         'top_text' => '(CUSTOMIZADOR DE NAVI)[23][24][0E][25][0E][25][0E]',
         'bottom_text' => '(CUSTOMIZADOR DE NAVI) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Tempo de Luta (tm).gba',
+        'top_text' => '(TEMPO DE LUTA)[23][24][0E][25][0E][25][0E]',
+        'bottom_text' => '(TEMPO DE LUTA) [30][31][31][31]'
     ]
 ];
 
@@ -48,7 +43,7 @@ foreach ($tilemaps as $i => $tilemap) {
     }
 
     $armips_code .= <<<EOD
-    ; Tilemap do "{$tilemap['description']}", {$tilemap['comment']}
+    ; Tilemap para "{$tilemap['filename']}"
     .open "Graficos/Editados/{$tilemap['filename']}", 0x08000000
     .loadtable "Tabelas/Telas Menus - Nomes Parte Cima.tbl"
     .org 0x08000006

@@ -134,6 +134,8 @@
     .dw ColecaoTM + 0x80000000
 .org PonteiroCustomizadorNaviTM
     .dw CustomizadorNaviTM + 0x80000000
+.org PonteiroTempoDeLutaTM
+    .dw TempoDeLutaTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -185,6 +187,10 @@ ColecaoTM:
 
 CustomizadorNaviTM:
     .lz77gba "Graficos/Editados/Customizador de Navi (tm).gba"
+    .align
+
+TempoDeLutaTM:
+    .lz77gba "Graficos/Editados/Tempo de Luta (tm).gba"
     .align
 
 .close
