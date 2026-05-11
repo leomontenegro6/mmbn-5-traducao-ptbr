@@ -3,7 +3,6 @@
   - NETWORK
     - BATTLE CHIP TRADE
     - PROGRAM PARTS
-  - SAVE
 
 - Editar outros menus similares aos submenus, porém possivelmente separados
   - CHIP TRADER

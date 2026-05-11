@@ -138,6 +138,8 @@
     .dw TempoDeLutaTM + 0x80000000
 .org PonteiroItensTM
     .dw ItensTM + 0x80000000
+.org PonteiroSalvarTM
+    .dw SalvarTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -197,6 +199,10 @@ TempoDeLutaTM:
 
 ItensTM:
     .lz77gba "Graficos/Editados/Itens (tm).gba"
+    .align
+
+SalvarTM:
+    .lz77gba "Graficos/Editados/Salvar (tm).gba"
     .align
 
 .close

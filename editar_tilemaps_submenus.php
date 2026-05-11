@@ -36,6 +36,11 @@ $tilemaps = [
         'filename' => 'Itens (tm).gba',
         'top_text' => '(ITENS)[23][24][0E][25][0E][25][0E]',
         'bottom_text' => '(ITENS) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Salvar (tm).gba',
+        'top_text' => '(SALVAR)[23][24][0E][25][0E][25][0E]',
+        'bottom_text' => '(SALVAR) [30][31][31][31]'
     ]
 ];
 

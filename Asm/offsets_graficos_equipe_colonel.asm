@@ -61,3 +61,4 @@ PonteiroColecaoTM equ 0x0812C878
 PonteiroCustomizadorNaviTM equ 0x08132FD4
 PonteiroTempoDeLutaTM equ 0x08136944
 PonteiroItensTM equ 0x08130678
+PonteiroSalvarTM equ 0x08130E20
