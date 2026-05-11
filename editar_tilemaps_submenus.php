@@ -31,6 +31,11 @@ $tilemaps = [
         'filename' => 'Tempo de Luta (tm).gba',
         'top_text' => '(TEMPO DE LUTA)[23][24][0E][25][0E][25][0E]',
         'bottom_text' => '(TEMPO DE LUTA) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Itens (tm).gba',
+        'top_text' => '(ITENS)[23][24][0E][25][0E][25][0E]',
+        'bottom_text' => '(ITENS) [30][31][31][31]'
     ]
 ];
 

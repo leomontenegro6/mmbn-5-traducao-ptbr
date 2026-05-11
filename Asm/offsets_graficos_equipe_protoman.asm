@@ -60,3 +60,4 @@ PonteiroSubchipsTM equ 0x0812B2DC
 PonteiroColecaoTM equ 0x0812C790
 PonteiroCustomizadorNaviTM equ 0x08132EEC
 PonteiroTempoDeLutaTM equ 0x0813685C
+PonteiroItensTM equ 0x08130590
