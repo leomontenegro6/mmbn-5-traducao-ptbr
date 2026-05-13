@@ -62,3 +62,5 @@ PonteiroCustomizadorNaviTM equ 0x08132FD4
 PonteiroTempoDeLutaTM equ 0x08136944
 PonteiroItensTM equ 0x08130678
 PonteiroSalvarTM equ 0x08130E20
+PonteiroRedeTM1 equ 0x08130B1C
+PonteiroRedeTM2 equ 0x08135BC0

@@ -41,6 +41,16 @@ $tilemaps = [
         'filename' => 'Salvar (tm).gba',
         'top_text' => '(SALVAR)[23][24][0E][25][0E][25][0E]',
         'bottom_text' => '(SALVAR) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Rede (tm).gba',
+        'top_text' => '(REDE)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
+        'bottom_text' => '(REDE) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Rede 2 (tm).gba',
+        'top_text' => '(REDE)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
+        'bottom_text' => '(REDE) [30][31][31][31]'
     ]
 ];
 

@@ -140,6 +140,10 @@
     .dw ItensTM + 0x80000000
 .org PonteiroSalvarTM
     .dw SalvarTM + 0x80000000
+.org PonteiroRedeTM1
+    .dw RedeTM1 + 0x80000000
+.org PonteiroRedeTM2
+    .dw RedeTM2 + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -203,6 +207,14 @@ ItensTM:
 
 SalvarTM:
     .lz77gba "Graficos/Editados/Salvar (tm).gba"
+    .align
+
+RedeTM1:
+    .lz77gba "Graficos/Editados/Rede (tm).gba"
+    .align
+
+RedeTM2:
+    .lz77gba "Graficos/Editados/Rede 2 (tm).gba"
     .align
 
 .close

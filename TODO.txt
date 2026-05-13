@@ -1,6 +1,6 @@
 - Editar submenus
   - LIBRARY (acentuar no final)
-  - NETWORK
+  - NETWORK (ok)
     - BATTLE CHIP TRADE
     - PROGRAM PARTS
 
