@@ -146,6 +146,8 @@
     .dw RedeTM2 + 0x80000000
 .org PonteiroTrocaDeChips
     .dw TrocaDeChips + 0x80000000
+.org PonteiroTrocaDeProgramas
+    .dw TrocaDeProgramas + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -221,6 +223,10 @@ RedeTM2:
 
 TrocaDeChips:
     .lz77gba "Graficos/Editados/Troca de Chips (tm).gba"
+    .align
+
+TrocaDeProgramas:
+    .lz77gba "Graficos/Editados/Troca de Programas (tm).gba"
     .align
 
 .close

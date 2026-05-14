@@ -56,7 +56,13 @@ $tilemaps = [
         'filename' => 'Troca de Chips (tm).gba',
         'top_text' => '(TROCA DE CHIPS)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
         'bottom_text' => '(TROCA DE CHIPS) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Troca de Programas (tm).gba',
+        'top_text' => '(TROCA DE PROGRAMAS)[23][24][0E][25][0E][25][0E][25][0E]',
+        'bottom_text' => '(TROCA DE PROGRAMAS) [30][31][31][31]'
     ]
+
 ];
 
 // Generate ARMIPS code

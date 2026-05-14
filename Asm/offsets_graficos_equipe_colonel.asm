@@ -65,3 +65,4 @@ PonteiroSalvarTM equ 0x08130E20
 PonteiroRedeTM1 equ 0x08130B1C
 PonteiroRedeTM2 equ 0x08135BC0
 PonteiroTrocaDeChips equ 0x08139A54
+PonteiroTrocaDeProgramas equ 0x0813AA40
