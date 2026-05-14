@@ -20,6 +20,8 @@
 | 0x6EABAC | Salvar (tm)                                 |       | Sim     |
 | 0x6F1F88 | Rede (tm)                                   |       | Sim     |
 | 0x6F2190 | Rede 2 (tm)                                 |       | Sim     |
+| 0x6F34D8 | Troca de Chips (tm)                         |       | Sim     |
+| 0x       | Troca de Programas (tm)                     |       |         |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |

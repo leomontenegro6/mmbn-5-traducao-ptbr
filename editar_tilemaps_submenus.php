@@ -51,6 +51,11 @@ $tilemaps = [
         'filename' => 'Rede 2 (tm).gba',
         'top_text' => '(REDE)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
         'bottom_text' => '(REDE) [30][31][31][31]'
+    ],
+    [
+        'filename' => 'Troca de Chips (tm).gba',
+        'top_text' => '(TROCA DE CHIPS)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
+        'bottom_text' => '(TROCA DE CHIPS) [30][31][31][31]'
     ]
 ];
 

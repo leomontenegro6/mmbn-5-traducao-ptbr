@@ -1,9 +1,9 @@
 - Editar submenus
   - LIBRARY (acentuar no final)
   - NETWORK (ok)
-    - BATTLE CHIP TRADE
     - PROGRAM PARTS
 
 - Editar outros menus similares aos submenus, porém possivelmente separados
-  - CHIP TRADER
+  - CHIP TRADER (Troca-chips)
   - MAP DATA
+  - CHIP TRADE (Rede)
