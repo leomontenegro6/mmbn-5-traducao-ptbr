@@ -150,6 +150,8 @@
     .dw TrocaDeProgramasTM + 0x80000000
 .org PonteiroTrocarChipTM
     .dw TrocarChipTM + 0x80000000
+.org PonteiroTrocarProgramaTM
+    .dw TrocarProgramaTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -233,6 +235,10 @@ TrocaDeProgramasTM:
 
 TrocarChipTM:
     .lz77gba "Graficos/Editados/Trocar Chip (tm).gba"
+    .align
+
+TrocarProgramaTM:
+    .lz77gba "Graficos/Editados/Trocar Programa (tm).gba"
     .align
 
 .close

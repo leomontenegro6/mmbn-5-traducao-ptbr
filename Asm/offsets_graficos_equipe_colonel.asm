@@ -67,3 +67,4 @@ PonteiroRedeTM2 equ 0x08135BC0
 PonteiroTrocaDeChipsTM equ 0x08139A54
 PonteiroTrocaDeProgramasTM equ 0x0813AA40
 PonteiroTrocarChipTM equ 0x08139A6C
+PonteiroTrocarProgramaTM equ 0x0813AA4C

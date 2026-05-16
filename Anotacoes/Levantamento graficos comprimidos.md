@@ -23,7 +23,7 @@
 | 0x6F34D8 | Troca de Chips (tm)                         |       | Sim     |
 | 0x6F3C90 | Troca de Programas (tm)                     |       | Sim     |
 | 0x6F35C8 | Trocar Chip (tm)                            |       | Sim     |
-| 0x       | Trocar Programa (tm)                        |       |         |
+| 0x6F3DC4 | Trocar Programa (tm)                        |       | Sim     |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |

@@ -1,7 +1,5 @@
 - Editar submenus
   - LIBRARY (acentuar no final)
-  - NETWORK (ok)
-    - PROGRAM TRADE
 
 - Editar outros menus similares aos submenus, porém possivelmente separados
   - CHIP TRADER

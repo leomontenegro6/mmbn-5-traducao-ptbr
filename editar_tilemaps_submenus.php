@@ -68,6 +68,13 @@ $tilemaps = [
         'bottom_text' => '[31][31][31][31][31][31][31][7701] (TROCAR CHIP) [30][31][31][31][31][31][31]',
         'top_offset' => 0x08000004,
         'bottom_offset' => 0x08000040
+    ],
+    [
+        'filename' => 'Trocar Programa (tm).gba',
+        'top_text' => '[0E][0E][0E][0E][7501][7601](TROCAR PROGRAMA)[23][9201][0E][0E][0E][0E][0E]',
+        'bottom_text' => '[31][31][31][31][7701] (TROCAR PROGRAMA) [30][31][31][31][31][31]',
+        'top_offset' => 0x08000004,
+        'bottom_offset' => 0x08000040
     ]
 ];
 
