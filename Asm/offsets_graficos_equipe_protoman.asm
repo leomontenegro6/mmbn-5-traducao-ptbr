@@ -64,5 +64,6 @@ PonteiroItensTM equ 0x08130590
 PonteiroSalvarTM equ 0x08130D38
 PonteiroRedeTM1 equ 0x08130A34
 PonteiroRedeTM2 equ 0x08135AD8
-PonteiroTrocaDeChips equ 0x0813996C
-PonteiroTrocaDeProgramas equ 0x0813A958
+PonteiroTrocaDeChipsTM equ 0x0813996C
+PonteiroTrocaDeProgramasTM equ 0x0813A958
+PonteiroTrocarChipTM equ 0x08139984
