@@ -154,6 +154,10 @@
     .dw TrocarProgramaTM + 0x80000000
 .org PonteiroChipTrader
     .dw ChipTrader + 0x80000000
+.org PonteiroMapData
+    .dw MapData + 0x80000000
+.org PonteiroMapDataTM
+    .dw MapDataTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -246,5 +250,13 @@ TrocarProgramaTM:
 ChipTrader:
     .lz77gba "Graficos/Editados/Chip Trader.gba"
     .align
+
+MapData:
+    .lz77gba "Graficos/Editados/Map Data.gba"
+    .align
+
+MapDataTM:
+    .lz77gba "Graficos/Editados/Map Data (tm).gba"
+    .align    
 
 .close

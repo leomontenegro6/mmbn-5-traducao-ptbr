@@ -4,7 +4,8 @@
 |----------|---------------------------------------------|-------|---------|
 | 0x6DA08C | Game Over                                   | 4bpp  |         |
 | 0x6DA53C | Presented by Capcom                         | 4bpp  |         |
-| 0x6DB5A8 | Map Data                                    | 4bpp  |         |
+| 0x6DB5A8 | Map Data                                    | 4bpp  | Sim     |
+| 0x6DD5E0 | Map Data (tm)                               |       | Sim     |
 | 0x6E095C | Nomes Localidades Mapa                      | 4bpp  |         |
 | 0x6E15B4 | Chip Trader                                 | 4bpp  | Sim     |
 | 0x6E18C0 | Bugfrags (loja)                             | 4bpp  |         |
@@ -13,17 +14,17 @@
 | 0x6E8940 | Folder Edit 1 (tm)                          |       | Sim     |
 | 0x6EA3D8 | Folder Edit 2 (tm)                          |       | Sim     |
 | 0x6EB18C | Subchip (tm)                                |       | Sim     |
-| 0x6F0FE4 | Coleção (tm)                                |       | Sim     |
-| 0x6EDDF8 | Customizador de Navi (tm)                   |       | Sim     |
-| 0x6F1D34 | Tempo de Luta (tm)                          |       | Sim     |
-| 0x6F0CDC | Itens (tm)                                  |       | Sim     |
-| 0x6EABAC | Salvar (tm)                                 |       | Sim     |
-| 0x6F1F88 | Rede (tm)                                   |       | Sim     |
-| 0x6F2190 | Rede 2 (tm)                                 |       | Sim     |
-| 0x6F34D8 | Troca de Chips (tm)                         |       | Sim     |
-| 0x6F3C90 | Troca de Programas (tm)                     |       | Sim     |
-| 0x6F35C8 | Trocar Chip (tm)                            |       | Sim     |
-| 0x6F3DC4 | Trocar Programa (tm)                        |       | Sim     |
+| 0x6F0FE4 | Library (tm)                                |       | Sim     |
+| 0x6EDDF8 | Navi Customizer (tm)                        |       | Sim     |
+| 0x6F1D34 | Delete Time (tm)                            |       | Sim     |
+| 0x6F0CDC | Key Item (tm)                               |       | Sim     |
+| 0x6EABAC | Save (tm)                                   |       | Sim     |
+| 0x6F1F88 | Network (tm)                                |       | Sim     |
+| 0x6F2190 | Network 2 (tm)                              |       | Sim     |
+| 0x6F34D8 | Trade Chips (tm)                            |       | Sim     |
+| 0x6F3C90 | Progrum Perts (tm)                          |       | Sim     |
+| 0x6F35C8 | Chip Trade (tm)                             |       | Sim     |
+| 0x6F3DC4 | Program Trade (tm)                          |       | Sim     |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |

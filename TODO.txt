@@ -1,5 +1,2 @@
 - Editar submenus
   - LIBRARY (acentuar no final)
-
-- Editar outros menus similares aos submenus, porém possivelmente separados
-  - MAP DATA
