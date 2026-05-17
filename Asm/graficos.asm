@@ -152,6 +152,8 @@
     .dw TrocarChipTM + 0x80000000
 .org PonteiroTrocarProgramaTM
     .dw TrocarProgramaTM + 0x80000000
+.org PonteiroChipTrader
+    .dw ChipTrader + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -239,6 +241,10 @@ TrocarChipTM:
 
 TrocarProgramaTM:
     .lz77gba "Graficos/Editados/Trocar Programa (tm).gba"
+    .align
+
+ChipTrader:
+    .lz77gba "Graficos/Editados/Chip Trader.gba"
     .align
 
 .close

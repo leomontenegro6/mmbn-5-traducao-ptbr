@@ -6,7 +6,7 @@
 | 0x6DA53C | Presented by Capcom                         | 4bpp  |         |
 | 0x6DB5A8 | Map Data                                    | 4bpp  |         |
 | 0x6E095C | Nomes Localidades Mapa                      | 4bpp  |         |
-| 0x6E15B4 | Chip Trader                                 | 4bpp  |         |
+| 0x6E15B4 | Chip Trader                                 | 4bpp  | Sim     |
 | 0x6E18C0 | Bugfrags (loja)                             | 4bpp  |         |
 | 0x6E1A80 | Crossover Points                            | 4bpp  |         |
 | 0x6E6F04 | Submenus                                    | 4bpp  |         |

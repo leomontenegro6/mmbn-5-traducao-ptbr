@@ -68,3 +68,4 @@ PonteiroTrocaDeChipsTM equ 0x0813996C
 PonteiroTrocaDeProgramasTM equ 0x0813A958
 PonteiroTrocarChipTM equ 0x08139984
 PonteiroTrocarProgramaTM equ 0x0813A964
+PonteiroChipTrader equ 0x0804A114
