@@ -132,6 +132,12 @@
     .dw SubchipsTM + 0x80000000
 .org PonteiroColecaoTM
     .dw ColecaoTM + 0x80000000
+.org PonteiroMegamanMegatiroTM
+    .dw MegamanMegatiroTM + 0x80000000
+.org PonteiroMegamanPastaTM
+    .dw MegamanPastaTM + 0x80000000
+.org PonteiroMegamanProgramaTM
+    .dw MegamanProgramaTM + 0x80000000
 .org PonteiroCustomizadorNaviTM
     .dw CustomizadorNaviTM + 0x80000000
 .org PonteiroTempoDeLutaTM
@@ -205,6 +211,18 @@ SubchipsTM:
 
 ColecaoTM:
     .lz77gba "Graficos/Editados/Colecao (tm).gba"
+    .align
+
+MegamanMegatiroTM:
+    .lz77gba "Graficos/Editados/Mega Buster (tm).gba"
+    .align
+
+MegamanPastaTM:
+    .lz77gba "Graficos/Editados/Folder (tm).gba"
+    .align
+
+MegamanProgramaTM:
+    .lz77gba "Graficos/Editados/Progrm (tm).gba"
     .align
 
 CustomizadorNaviTM:

@@ -19,8 +19,8 @@ $tilemaps = [
     ],
     [
         'filename' => 'Colecao (tm).gba',
-        'top_text' => '(COLECAO)',
-        'bottom_text' => '(COLECAO)'
+        'top_text' => '(COLEÇÃO)',
+        'bottom_text' => '(COLEÇÃO)'
     ],
     [
         'filename' => 'Customizador de Navi (tm).gba',

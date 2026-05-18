@@ -58,6 +58,9 @@ PonteiroEditarPasta2TM1 equ 0x08131834
 PonteiroEditarPasta2TM2 equ 0x0813BF64
 PonteiroSubchipsTM equ 0x0812B2DC
 PonteiroColecaoTM equ 0x0812C790
+PonteiroMegamanMegatiroTM equ 0x0812EA88
+PonteiroMegamanPastaTM equ 0x0812EA94
+PonteiroMegamanProgramaTM equ 0x0812EAA0
 PonteiroCustomizadorNaviTM equ 0x08132EEC
 PonteiroTempoDeLutaTM equ 0x0813685C
 PonteiroItensTM equ 0x08130590

@@ -1,2 +1,11 @@
 - Editar submenus
-  - LIBRARY (acentuar no final)
+  - Editar Pasta:
+    - Sort
+  - MegaMan 
+    - Param, Abil
+    - My Record, Total Record, A
+    - Information
+  - E-mail
+    - No Image
+  - Rede
+    - Selecting, Ok Yes No

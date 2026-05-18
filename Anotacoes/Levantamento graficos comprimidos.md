@@ -15,6 +15,9 @@
 | 0x6EA3D8 | Folder Edit 2 (tm)                          |       | Sim     |
 | 0x6EB18C | Subchip (tm)                                |       | Sim     |
 | 0x6F0FE4 | Library (tm)                                |       | Sim     |
+| 0x6F14BC | Mega Buster (tm)                            |       | Sim     |
+| 0x6F1508 | Folder (tm)                                 |       | Sim     |
+| 0x6F1550 | Progrm (tm)                                 |       | Sim     |
 | 0x6EDDF8 | Navi Customizer (tm)                        |       | Sim     |
 | 0x6F1D34 | Delete Time (tm)                            |       | Sim     |
 | 0x6F0CDC | Key Item (tm)                               |       | Sim     |
