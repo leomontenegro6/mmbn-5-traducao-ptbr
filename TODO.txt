@@ -1,9 +1,6 @@
 - Editar submenus
   - Editar Pasta:
     - Sort
-  - MegaMan 
-    - Param, Abil
-    - My Record, Total Record, A
   - E-mail
     - No Image
   - Rede
