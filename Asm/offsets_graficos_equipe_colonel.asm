@@ -74,3 +74,4 @@ PonteiroTrocarProgramaTM equ 0x0813AA4C
 PonteiroChipTrader equ 0x0804A11C
 PonteiroMapData equ 0x0803E6CC
 PonteiroMapDataTM equ 0x0803E6E4
+PonteiroInformation equ 0x08132FB0

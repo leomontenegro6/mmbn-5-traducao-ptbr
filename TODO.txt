@@ -4,7 +4,6 @@
   - MegaMan 
     - Param, Abil
     - My Record, Total Record, A
-    - Information
   - E-mail
     - No Image
   - Rede

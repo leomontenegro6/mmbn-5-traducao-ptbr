@@ -164,6 +164,8 @@
     .dw MapData + 0x80000000
 .org PonteiroMapDataTM
     .dw MapDataTM + 0x80000000
+.org PonteiroInformation
+    .dw Information + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -276,5 +278,9 @@ MapData:
 MapDataTM:
     .lz77gba "Graficos/Editados/Map Data (tm).gba"
     .align    
+
+Information:
+    .lz77gba "Graficos/Editados/Information.gba"
+    .align
 
 .close

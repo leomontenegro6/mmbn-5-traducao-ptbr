@@ -31,7 +31,7 @@
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  |         |
 | 0x6EBCA4 | New                                         | 4bpp  |         |
 | 0x6EDBB8 | No Image                                    | 4bpp  |         |
-| 0x6EE584 | Information                                 | 4bpp  |         |
+| 0x6EE584 | Information                                 | 4bpp  | Sim     |
 | 0x6EE65C | Move Remove                                 | 4bpp  |         |
 | 0x6EF720 | Navigator                                   | 4bpp  |         |
 | 0x6F36CC | Ok Yes No Wait                              | 4bpp  |         |
