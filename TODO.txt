@@ -1,7 +1,5 @@
 - Editar submenus
   - Editar Pasta:
     - Sort
-  - E-mail
-    - No Image
   - Rede
     - Selecting, Ok Yes No

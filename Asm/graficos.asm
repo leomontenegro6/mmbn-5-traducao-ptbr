@@ -143,9 +143,13 @@
 .org PonteiroTempoDeLutaTM
     .dw TempoDeLutaTM + 0x80000000
 .org PonteiroCustomizacaoTM1
-    .dw CustomizacaoTM1 + 0x80000000
+    .dw CustomizacaoTM + 0x80000000
 .org PonteiroCustomizacaoTM2
-    .dw CustomizacaoTM2 + 0x80000000
+    .dw CustomizacaoTM + 0x80000000
+.org PonteiroEmailNoImage1
+    .dw EmailNoImage + 0x80000000
+.org PonteiroEmailNoImage2
+    .dw EmailNoImage + 0x80000000
 .org PonteiroItensTM
     .dw ItensTM + 0x80000000
 .org PonteiroSalvarTM
@@ -239,12 +243,12 @@ TempoDeLutaTM:
     .lz77gba "Graficos/Editados/Tempo de Luta (tm).gba"
     .align
 
-CustomizacaoTM1:
+CustomizacaoTM:
     .lz77gba "Graficos/Editados/Customizacao (tm).gba"
     .align
 
-CustomizacaoTM2:
-    .lz77gba "Graficos/Editados/Customizacao (tm).gba"
+EmailNoImage:
+    .lz77gba "Graficos/Editados/No Image.gba"
     .align
 
 ItensTM:
