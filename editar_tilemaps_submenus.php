@@ -33,6 +33,11 @@ $tilemaps = [
         'bottom_text' => '(TEMPO DE LUTA) [30][31][31][31]'
     ],
     [
+        'filename' => 'Customizacao (tm).gba',
+        'top_text' => '(CUSTOMIZAÇÃO)[23][24][0E][25][0E][25][0E][25][0E][25][0E][25][0E]',
+        'bottom_text' => '(CUSTOMIZAÇÃO) [30][31][31][31]'
+    ],
+    [
         'filename' => 'Itens (tm).gba',
         'top_text' => '(ITENS)[23][24][0E][25][0E][25][0E]',
         'bottom_text' => '(ITENS) [30][31][31][31]'

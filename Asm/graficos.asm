@@ -142,6 +142,10 @@
     .dw CustomizadorNaviTM + 0x80000000
 .org PonteiroTempoDeLutaTM
     .dw TempoDeLutaTM + 0x80000000
+.org PonteiroCustomizacaoTM1
+    .dw CustomizacaoTM1 + 0x80000000
+.org PonteiroCustomizacaoTM2
+    .dw CustomizacaoTM2 + 0x80000000
 .org PonteiroItensTM
     .dw ItensTM + 0x80000000
 .org PonteiroSalvarTM
@@ -233,6 +237,14 @@ CustomizadorNaviTM:
 
 TempoDeLutaTM:
     .lz77gba "Graficos/Editados/Tempo de Luta (tm).gba"
+    .align
+
+CustomizacaoTM1:
+    .lz77gba "Graficos/Editados/Customizacao (tm).gba"
+    .align
+
+CustomizacaoTM2:
+    .lz77gba "Graficos/Editados/Customizacao (tm).gba"
     .align
 
 ItensTM:

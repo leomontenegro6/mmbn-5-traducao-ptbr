@@ -20,6 +20,7 @@
 | 0x6F1550 | Progrm (tm)                                 |       | Sim     |
 | 0x6EDDF8 | Navi Customizer (tm)                        |       | Sim     |
 | 0x6F1D34 | Delete Time (tm)                            |       | Sim     |
+| 0x6E96CC | Custom (tm)                                 |       | Sim     |
 | 0x6F0CDC | Key Item (tm)                               |       | Sim     |
 | 0x6EABAC | Save (tm)                                   |       | Sim     |
 | 0x6F1F88 | Network (tm)                                |       | Sim     |

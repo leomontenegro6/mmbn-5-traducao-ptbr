@@ -63,6 +63,8 @@ PonteiroMegamanPastaTM equ 0x0812EB7C
 PonteiroMegamanProgramaTM equ 0x0812EB88
 PonteiroCustomizadorNaviTM equ 0x08132FD4
 PonteiroTempoDeLutaTM equ 0x08136944
+PonteiroCustomizacaoTM1 equ 0x0812EBF4
+PonteiroCustomizacaoTM2 equ 0x081378E8
 PonteiroItensTM equ 0x08130678
 PonteiroSalvarTM equ 0x08130E20
 PonteiroRedeTM1 equ 0x08130B1C
