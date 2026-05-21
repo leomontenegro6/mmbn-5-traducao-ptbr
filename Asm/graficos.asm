@@ -174,6 +174,18 @@
     .dw MapDataTM + 0x80000000
 .org PonteiroInformation
     .dw Information + 0x80000000
+.org PonteiroSort1
+    .dw Sort + 0x80000000
+.org PonteiroSort2
+    .dw Sort + 0x80000000
+.org PonteiroSort3
+    .dw Sort + 0x80000000
+.org PonteiroSortTM1
+    .dw SortTM + 0x80000000
+.org PonteiroSortTM2
+    .dw SortTM + 0x80000000
+.org PonteiroSortTM3
+    .dw SortTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -297,6 +309,14 @@ MapDataTM:
 
 Information:
     .lz77gba "Graficos/Editados/Information.gba"
+    .align
+
+Sort:
+    .lz77gba "Graficos/Editados/Sort (ID ABC etc).gba"
+    .align
+
+SortTM:
+    .lz77gba "Graficos/Editados/Sort (ID ABC etc) (tm).gba"
     .align
 
 .close

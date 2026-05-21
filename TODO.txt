@@ -1,5 +1,3 @@
 - Editar submenus
-  - Editar Pasta:
-    - Sort
   - Rede
     - Selecting, Ok Yes No

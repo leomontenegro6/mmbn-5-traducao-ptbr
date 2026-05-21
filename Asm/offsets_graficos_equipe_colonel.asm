@@ -79,3 +79,9 @@ PonteiroChipTrader equ 0x0804A11C
 PonteiroMapData equ 0x0803E6CC
 PonteiroMapDataTM equ 0x0803E6E4
 PonteiroInformation equ 0x08132FB0
+PonteiroSort1 equ 0x0804A194
+PonteiroSort2 equ 0x081318BC
+PonteiroSort3 equ 0x081399F4
+PonteiroSortTM1 equ 0x0804A1AC
+PonteiroSortTM2 equ 0x081318D4
+PonteiroSortTM3 equ 0x08139A0C
