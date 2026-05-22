@@ -186,6 +186,18 @@
     .dw SortTM + 0x80000000
 .org PonteiroSortTM3
     .dw SortTM + 0x80000000
+.org PonteiroSelecting1
+    .dw Selecting + 0x80000000
+.org PonteiroSelecting2
+    .dw Selecting + 0x80000000
+.org PonteiroSelecting3
+    .dw Selecting + 0x80000000
+.org PonteiroOkYesNoWait1
+    .dw OkYesNoWait + 0x80000000
+.org PonteiroOkYesNoWait2
+    .dw OkYesNoWait + 0x80000000
+.org PonteiroOkYesNoWait3
+    .dw OkYesNoWait + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -321,6 +333,14 @@ Sort:
 
 SortTM:
     .lz77gba "Graficos/Editados/Sort (ID ABC etc) (tm).gba"
+    .align
+
+Selecting:
+    .lz77gba "Graficos/Editados/Selecting.gba"
+    .align
+
+OkYesNoWait:
+    .lz77gba "Graficos/Editados/Ok Yes No Wait.gba"
     .align
 
 GameOver:

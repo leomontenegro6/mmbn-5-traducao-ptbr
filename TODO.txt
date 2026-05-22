@@ -1,3 +1,5 @@
 - Editar submenus
-  - Rede
-    - Selecting, Ok Yes No
+  - MegaMan
+    - Navi Customizer (Move Remove)
+  - E-mail
+    - New
