@@ -2,7 +2,8 @@
 
 | Offset   | Descrição                                   | Codec | Editado |
 |----------|---------------------------------------------|-------|---------|
-| 0x6DA08C | Game Over                                   | 4bpp  |         |
+| 0x6DA08C | Game Over                                   | 4bpp  | Sim     |
+| 0x6DA34C | Game Over (tm)                              |       | Sim     |
 | 0x6DA53C | Presented by Capcom                         | 4bpp  |         |
 | 0x6DB5A8 | Map Data                                    | 4bpp  | Sim     |
 | 0x6DD5E0 | Map Data (tm)                               |       | Sim     |

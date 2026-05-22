@@ -85,3 +85,5 @@ PonteiroSort3 equ 0x0813990C
 PonteiroSortTM1 equ 0x0804A1A4
 PonteiroSortTM2 equ 0x081317EC
 PonteiroSortTM3 equ 0x08139924
+PonteiroGameOver equ 0x0803E49C
+PonteiroGameOverTM equ 0x0803E4B4

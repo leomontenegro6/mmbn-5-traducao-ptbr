@@ -186,6 +186,10 @@
     .dw SortTM + 0x80000000
 .org PonteiroSortTM3
     .dw SortTM + 0x80000000
+.org PonteiroGameOver
+    .dw GameOver + 0x80000000
+.org PonteiroGameOverTM
+    .dw GameOverTM + 0x80000000
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -317,6 +321,14 @@ Sort:
 
 SortTM:
     .lz77gba "Graficos/Editados/Sort (ID ABC etc) (tm).gba"
+    .align
+
+GameOver:
+    .lz77gba "Graficos/Editados/Game Over.gba"
+    .align
+
+GameOverTM:
+    .lz77gba "Graficos/Editados/Game Over (tm).gba"
     .align
 
 .close
