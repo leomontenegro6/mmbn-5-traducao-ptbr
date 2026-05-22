@@ -93,3 +93,5 @@ PonteiroSelecting3 equ 0x0813A970
 PonteiroOkYesNoWait1 equ 0x08033110
 PonteiroOkYesNoWait2 equ 0x0813999C
 PonteiroOkYesNoWait3 equ 0x0813A97C
+PonteiroMoveRemove1 equ 0x080330B8
+PonteiroMoveRemove2 equ 0x08132F58

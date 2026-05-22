@@ -198,6 +198,10 @@
     .dw OkYesNoWait + 0x80000000
 .org PonteiroOkYesNoWait3
     .dw OkYesNoWait + 0x80000000
+.org PonteiroMoveRemove1
+    .dw MoveRemove + 0x80000000
+.org PonteiroMoveRemove2
+    .dw MoveRemove + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -341,6 +345,10 @@ Selecting:
 
 OkYesNoWait:
     .lz77gba "Graficos/Editados/Ok Yes No Wait.gba"
+    .align
+
+MoveRemove:
+    .lz77gba "Graficos/Editados/Move Remove.gba"
     .align
 
 GameOver:

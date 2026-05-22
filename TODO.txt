@@ -1,5 +1,3 @@
 - Editar submenus
-  - MegaMan
-    - Navi Customizer (Move Remove)
   - E-mail
     - New
