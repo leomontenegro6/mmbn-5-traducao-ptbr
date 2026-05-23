@@ -216,6 +216,10 @@
     .dw BugfragsLoja + 0x80000000
 .org PonteiroZennyBugfrags
     .dw ZennyBugfrags + 0x80000000
+.org PonteiroItemsLoja1
+    .dw ItemsLoja + 0x80000000
+.org PonteiroItemsLoja2
+    .dw ItemsLoja + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -379,6 +383,10 @@ BugfragsLoja:
 
 ZennyBugfrags:
     .lz77gba "Graficos/Editados/Zenny Bugfrags.gba"
+    .align
+
+ItemsLoja:
+    .lz77gba "Graficos/Editados/Items (loja).gba"
     .align
 
 GameOver:

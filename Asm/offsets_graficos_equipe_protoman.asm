@@ -102,3 +102,5 @@ PonteiroNomesLocalidadesMapa1 equ 0x08033090
 PonteiroNomesLocalidadesMapa2 equ 0x0803E710
 PonteiroBugfragsLoja equ 0x080A239C
 PonteiroZennyBugfrags equ 0x08046F18
+PonteiroItemsLoja1 equ 0x080330A8
+PonteiroItemsLoja2 equ 0x08046F84

@@ -46,8 +46,8 @@
 | 0x7DC520 | Game Help                                   | 4bpp  |         |
 | 0x7DD7C0 | Telas Foruns                                | 4bpp  |         |
 | 0x7E5A10 | Press A Button Order Pt Major Hit           | 4bpp  |         |
-| 0x7E6530 | Zenny Bugfrags                              | 4bpp  | Sim     |
-| 0x7E6A08 | Items                                       | 4bpp  |         |
+| 0x7E6530 | Zenny Bugfrags (loja)                       | 4bpp  | Sim     |
+| 0x7E6A08 | Items (loja)                                | 4bpp  | Sim     |
 | 0x7F8DB8 | Nomes tela-titulo (new game continue compl) | 4bpp  | Sim     |
 | 0x7F95D0 | Nomes tela-titulo (copyright)               | 4bpp  | Sim     |
 | 0x7F9BC4 | Tela-titulo                                 | 8bpp  | Sim     |
