@@ -98,3 +98,5 @@ PonteiroOkYesNoWait3 equ 0x0813A97C
 PonteiroMoveRemove1 equ 0x080330B8
 PonteiroMoveRemove2 equ 0x08132F58
 PonteiroNewEmails equ 0x0812FEA4
+PonteiroNomesLocalidadesMapa1 equ 0x08033090
+PonteiroNomesLocalidadesMapa2 equ 0x0803E710

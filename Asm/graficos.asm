@@ -208,6 +208,10 @@
     .dw MoveRemove + 0x80000000
 .org PonteiroNewEmails
     .dw NewEmails + 0x80000000
+.org PonteiroNomesLocalidadesMapa1
+    .dw NomesLocalidadesMapa + 0x80000000
+.org PonteiroNomesLocalidadesMapa2
+    .dw NomesLocalidadesMapa + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -359,6 +363,10 @@ MoveRemove:
 
 NewEmails:
     .lz77gba "Graficos/Editados/New (emails).gba"
+    .align
+
+NomesLocalidadesMapa:
+    .lz77gba "Graficos/Editados/Nomes Localidades Mapa.gba"
     .align
 
 GameOver:
