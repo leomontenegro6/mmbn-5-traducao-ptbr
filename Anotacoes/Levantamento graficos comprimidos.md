@@ -9,7 +9,7 @@
 | 0x6DD5E0 | Map Data (tm)                               |       | Sim     |
 | 0x6E095C | Nomes Localidades Mapa                      | 4bpp  | Sim     |
 | 0x6E15B4 | Chip Trader                                 | 4bpp  | Sim     |
-| 0x6E18C0 | Bugfrags (loja)                             | 4bpp  |         |
+| 0x6E18C0 | Bugfrags (loja)                             | 4bpp  | Sim     |
 | 0x6E1A80 | Crossover Points                            | 4bpp  |         |
 | 0x6E6F04 | Submenus                                    | 4bpp  | Sim     |
 | 0x6E8940 | Folder Edit 1 (tm)                          |       | Sim     |
@@ -46,7 +46,7 @@
 | 0x7DC520 | Game Help                                   | 4bpp  |         |
 | 0x7DD7C0 | Telas Foruns                                | 4bpp  |         |
 | 0x7E5A10 | Press A Button Order Pt Major Hit           | 4bpp  |         |
-| 0x7E6530 | Zenny Bugfrags                              | 4bpp  |         |
+| 0x7E6530 | Zenny Bugfrags                              | 4bpp  | Sim     |
 | 0x7E6A08 | Items                                       | 4bpp  |         |
 | 0x7F8DB8 | Nomes tela-titulo (new game continue compl) | 4bpp  | Sim     |
 | 0x7F95D0 | Nomes tela-titulo (copyright)               | 4bpp  | Sim     |

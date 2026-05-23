@@ -100,3 +100,5 @@ PonteiroMoveRemove2 equ 0x08132F58
 PonteiroNewEmails equ 0x0812FEA4
 PonteiroNomesLocalidadesMapa1 equ 0x08033090
 PonteiroNomesLocalidadesMapa2 equ 0x0803E710
+PonteiroBugfragsLoja equ 0x080A239C
+PonteiroZennyBugfrags equ 0x08046F18

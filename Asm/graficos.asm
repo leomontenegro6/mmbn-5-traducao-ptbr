@@ -212,6 +212,10 @@
     .dw NomesLocalidadesMapa + 0x80000000
 .org PonteiroNomesLocalidadesMapa2
     .dw NomesLocalidadesMapa + 0x80000000
+.org PonteiroBugfragsLoja
+    .dw BugfragsLoja + 0x80000000
+.org PonteiroZennyBugfrags
+    .dw ZennyBugfrags + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -367,6 +371,14 @@ NewEmails:
 
 NomesLocalidadesMapa:
     .lz77gba "Graficos/Editados/Nomes Localidades Mapa.gba"
+    .align
+
+BugfragsLoja:
+    .lz77gba "Graficos/Editados/Bugfrags (loja).gba"
+    .align
+
+ZennyBugfrags:
+    .lz77gba "Graficos/Editados/Zenny Bugfrags.gba"
     .align
 
 GameOver:
