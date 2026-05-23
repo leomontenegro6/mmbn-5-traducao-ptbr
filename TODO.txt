@@ -1,3 +1,0 @@
-- Editar submenus
-  - E-mail
-    - New

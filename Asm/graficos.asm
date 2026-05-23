@@ -82,6 +82,10 @@
 .org Trap4
     .incbin "Graficos/Editados/Trap4.gba"
 
+; Gráficos e tilemaps das telas de fóruns
+.org NewForuns
+    .incbin "Graficos/Editados/New (foruns).gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
@@ -202,6 +206,8 @@
     .dw MoveRemove + 0x80000000
 .org PonteiroMoveRemove2
     .dw MoveRemove + 0x80000000
+.org PonteiroNewEmails
+    .dw NewEmails + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -349,6 +355,10 @@ OkYesNoWait:
 
 MoveRemove:
     .lz77gba "Graficos/Editados/Move Remove.gba"
+    .align
+
+NewEmails:
+    .lz77gba "Graficos/Editados/New (emails).gba"
     .align
 
 GameOver:

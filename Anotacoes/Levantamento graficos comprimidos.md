@@ -32,7 +32,7 @@
 | 0x6F3DC4 | Program Trade (tm)                          |       | Sim     |
 | 0x6EA4BC | Sort (ID ABC etc)                           | 4bpp  | Sim     |
 | 0x6EA7E0 | Sort (ID ABC etc) (tm)                      | 4bpp  | Sim     |
-| 0x6EBCA4 | New                                         | 4bpp  |         |
+| 0x6EBCA4 | New (emails)                                | 4bpp  | Sim     |
 | 0x6EDBB8 | No Image                                    | 4bpp  | Sim     |
 | 0x6EE584 | Information                                 | 4bpp  | Sim     |
 | 0x6EE65C | Move Remove                                 | 4bpp  | Sim     |

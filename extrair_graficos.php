@@ -33,7 +33,7 @@ $graficos = [
     (object)['nome' => 'Arm Change No Data', 'offset' => '0x7508BC', 'tiles' => '7x6'],
     (object)['nome' => 'Telas Resultados 3', 'offset' => '0x7513FC', 'tiles' => '1x233'],
     (object)['nome' => 'Cut', 'offset' => '0x7D67E8', 'tiles' => '1x38'],
-    (object)['nome' => 'New', 'offset' => '0x7DDAB8', 'tiles' => '2x4'],
+    (object)['nome' => 'New (foruns)', 'offset' => '0x7DDAB8', 'tiles' => '2x4'],
     (object)['nome' => 'Move Bacan Cam PHASE TRGT', 'offset' => '0x7E4294', 'tiles' => '2x15'],
 ];
 

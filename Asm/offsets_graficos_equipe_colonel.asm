@@ -34,6 +34,8 @@ Trap2 equ 0x08381230
 Trap3 equ 0x08381534
 Trap4 equ 0x083817B8
 
+NewForuns equ 0x087DDAB8
+
 PonteiroLogoTelaTitulo equ 0x08030848
 PonteirosNomesTelaTitulo1 equ 0x08030830
 PonteirosNomesTelaTitulo2 equ 0x08030818
@@ -95,3 +97,4 @@ PonteiroOkYesNoWait2 equ 0x08139A84
 PonteiroOkYesNoWait3 equ 0x0813AA64
 PonteiroMoveRemove1 equ 0x080330BC
 PonteiroMoveRemove2 equ 0x08133040
+PonteiroNewEmails equ 0x0812FF8C
