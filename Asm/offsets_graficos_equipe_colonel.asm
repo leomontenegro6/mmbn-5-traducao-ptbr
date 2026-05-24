@@ -104,3 +104,5 @@ PonteiroBugfragsLoja equ 0x080A2480
 PonteiroZennyBugfrags equ 0x08046F20
 PonteiroItemsLoja1 equ 0x080330AC
 PonteiroItemsLoja2 equ 0x08046F8C
+PonteiroTelasForuns equ 0x08142880
+PonteiroTelasForunsTM equ 0x081428BC

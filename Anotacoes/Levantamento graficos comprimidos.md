@@ -44,7 +44,8 @@
 | 0x7DA648 | Back Next Name Comment                      | 4bpp  |         |
 | 0x7DAEB0 | Entry Update List ID                        | 4bpp  |         |
 | 0x7DC520 | Game Help                                   | 4bpp  |         |
-| 0x7DD7C0 | Telas Foruns                                | 4bpp  |         |
+| 0x7DD7C0 | Telas Foruns                                | 4bpp  | Sim     |
+| 0x7DDA84 | Telas Foruns (tm)                           |       | Sim     |
 | 0x7E5A10 | Press A Button Order Pt Major Hit           | 4bpp  |         |
 | 0x7E6530 | Zenny Bugfrags (loja)                       | 4bpp  | Sim     |
 | 0x7E6A08 | Items (loja)                                | 4bpp  | Sim     |

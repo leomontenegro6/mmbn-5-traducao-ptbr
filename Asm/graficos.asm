@@ -220,6 +220,10 @@
     .dw ItemsLoja + 0x80000000
 .org PonteiroItemsLoja2
     .dw ItemsLoja + 0x80000000
+.org PonteiroTelasForuns
+    .dw TelasForuns + 0x80000000
+.org PonteiroTelasForunsTM
+    .dw TelasForunsTM + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -387,6 +391,14 @@ ZennyBugfrags:
 
 ItemsLoja:
     .lz77gba "Graficos/Editados/Items (loja).gba"
+    .align
+
+TelasForuns:
+    .lz77gba "Graficos/Editados/Telas Foruns.gba"
+    .align
+
+TelasForunsTM:
+    .lz77gba "Graficos/Editados/Telas Foruns (tm).gba"
     .align
 
 GameOver:
