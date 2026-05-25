@@ -59,6 +59,10 @@
     .incbin "Graficos/Editados/Shuffle.gba"
 .org Tactics
     .incbin "Graficos/Editados/Tactics.gba"
+.org NoDataSelected
+    .incbin "Graficos/Editados/No Data Selected.gba"
+.org ChipDataTransmission
+    .incbin "Graficos/Editados/Chip Data Transmission.gba"
 
 ; Gráficos exibidos durante as batalhas.
 .org Pause
@@ -224,6 +228,10 @@
     .dw TelasForuns + 0x80000000
 .org PonteiroTelasForunsTM
     .dw TelasForunsTM + 0x80000000
+.org PonteiroShuffleAFolder
+    .dw ShuffleAFolder
+.org PonteiroBlocking
+    .dw Blocking
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -399,6 +407,14 @@ TelasForuns:
 
 TelasForunsTM:
     .lz77gba "Graficos/Editados/Telas Foruns (tm).gba"
+    .align
+
+ShuffleAFolder:
+    .incbin "Graficos/Editados/Shuffle a Folder.gba"
+    .align
+
+Blocking:
+    .incbin "Graficos/Editados/Blocking.gba"
     .align
 
 GameOver:

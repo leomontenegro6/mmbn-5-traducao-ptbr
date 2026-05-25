@@ -22,6 +22,8 @@ ChipSelect equ 0x086F950C
 UniteBlock equ 0x086FCE20
 Shuffle equ 0x086FB108
 Tactics equ 0x086FEEDC
+NoDataSelected equ 0x08733064
+ChipDataTransmission equ 0x08732B24
 
 Pause equ 0x086FCA88
 LorR equ 0x086FB808
@@ -106,3 +108,5 @@ PonteiroItemsLoja1 equ 0x080330AC
 PonteiroItemsLoja2 equ 0x08046F8C
 PonteiroTelasForuns equ 0x08142880
 PonteiroTelasForunsTM equ 0x081428BC
+PonteiroShuffleAFolder equ 0x08024624
+PonteiroBlocking equ 0x0802459C
