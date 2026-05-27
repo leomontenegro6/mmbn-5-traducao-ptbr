@@ -36,6 +36,10 @@ Trap2 equ 0x08381230
 Trap3 equ 0x08381534
 Trap4 equ 0x083817B8
 
+TelasResultados equ 0x0874BE3C
+TelasResultados2 equ 0x0874F2BC
+TelasResultados3 equ 0x087513FC
+
 NewForuns equ 0x087DDAB8
 
 PonteiroLogoTelaTitulo equ 0x08030848

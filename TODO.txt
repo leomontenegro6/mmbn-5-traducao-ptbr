@@ -1,5 +1,5 @@
 - Tela de batalha contra vírus:
-    - RESULT, DeleteTime, Busting LV, GET DATA, Press A Button
+    - RESULT, DeleteTime, Busting LV, GET DATA
 - Tela de batalha em cabo link:
     - Lose
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo
@@ -9,3 +9,6 @@
     - Fundos da Loja do Higsby: Sale invertido
     - QG da Nebula: Gráficos de Level 1/2/3
 - Checar bug que impedia alguns e-mails de serem checados em uma das versões (acho que do Baryl, na versão Colonel)
+- Editar gráficos do modo crossover battle:
+    - Tela de batalha:
+        - RESULT, DeleteTime, Busting LV, GET DATA

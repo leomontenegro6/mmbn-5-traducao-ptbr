@@ -86,6 +86,14 @@
 .org Trap4
     .incbin "Graficos/Editados/Trap4.gba"
 
+; Gráficos das telas de resultados, exibidos após batalhas.
+.org TelasResultados
+    .incbin "Graficos/Editados/Telas Resultados.gba"
+.org TelasResultados2
+    .incbin "Graficos/Editados/Telas Resultados 2.gba"
+.org TelasResultados3
+    .incbin "Graficos/Editados/Telas Resultados 3.gba"
+
 ; Gráficos e tilemaps das telas de fóruns
 .org NewForuns
     .incbin "Graficos/Editados/New (foruns).gba"
