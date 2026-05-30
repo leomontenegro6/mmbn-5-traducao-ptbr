@@ -1,7 +1,5 @@
 - Tela de batalha contra vírus:
-    - RESULT, DeleteTime, Busting LV, GET DATA
-- Tela de batalha em cabo link:
-    - Lose
+    - Battle Start X, Enemy Deleted, Megaman Deleted, etc
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo
 - Backgrounds pendentes editar:
     - ACDC: Higsby's pra Higsby

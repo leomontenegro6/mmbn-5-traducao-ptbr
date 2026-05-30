@@ -39,6 +39,9 @@ Trap4 equ 0x083817B8
 TelasResultados equ 0x0874BE3C
 TelasResultados2 equ 0x0874F2BC
 TelasResultados3 equ 0x087513FC
+TelasResultadosTM equ 0x0874E83C
+TelasResultadosVenceuTM equ 0x0874EB9C
+TelasResultadosPerdeuTM equ 0x0874EEFC
 
 NewForuns equ 0x087DDAB8
 

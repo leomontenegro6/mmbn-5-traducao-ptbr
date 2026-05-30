@@ -93,6 +93,12 @@
     .incbin "Graficos/Editados/Telas Resultados 2.gba"
 .org TelasResultados3
     .incbin "Graficos/Editados/Telas Resultados 3.gba"
+.org TelasResultadosTM
+    .incbin "Graficos/Editados/Telas Resultados (tm).gba"
+.org TelasResultadosVenceuTM
+    .incbin "Graficos/Editados/Telas Resultados Venceu (tm).gba"
+.org TelasResultadosPerdeuTM
+    .incbin "Graficos/Editados/Telas Resultados Perdeu (tm).gba"
 
 ; Gráficos e tilemaps das telas de fóruns
 .org NewForuns
