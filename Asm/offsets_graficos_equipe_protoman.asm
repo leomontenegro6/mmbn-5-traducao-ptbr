@@ -25,6 +25,8 @@ Tactics equ 0x086FDC20
 NoDataSelected equ 0x08731DA8
 ChipDataTransmission equ 0x08731868
 
+Cstmzing equ 0x0873DBF4
+
 Pause equ 0x086FB7CC
 LorR equ 0x086FA54C
 

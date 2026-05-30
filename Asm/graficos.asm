@@ -63,6 +63,8 @@
     .incbin "Graficos/Editados/No Data Selected.gba"
 .org ChipDataTransmission
     .incbin "Graficos/Editados/Chip Data Transmission.gba"
+.org Cstmzing
+    .incbin "Graficos/Editados/Cstmzing.gba"
 
 ; Gráficos exibidos durante as batalhas.
 .org Pause

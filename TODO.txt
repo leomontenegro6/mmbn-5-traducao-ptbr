@@ -1,5 +1,6 @@
 - Tela de batalha contra vírus:
-    - Battle Start X, Enemy Deleted, Megaman Deleted, etc
+    - Battle X Start, Enemy Deleted, Megaman Deleted, Turn X Start, etc
+    - Final Turn
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo
 - Backgrounds pendentes editar:
     - ACDC: Higsby's pra Higsby
