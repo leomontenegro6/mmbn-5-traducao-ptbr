@@ -24,7 +24,7 @@ $graficos = [
     (object)['nome' => 'Chip Data Transmission', 'offset' => '0x732B24', 'tiles' => '7x6'],
     (object)['nome' => 'No Data Selected', 'offset' => '0x733064', 'tiles' => '7x6'],
     (object)['nome' => 'Fonte Nomes Batalhas', 'offset' => '0x73CEF4', 'tiles' => '4x14'],
-    (object)['nome' => 'Prg Advance', 'offset' => '0x73D5F4', 'tiles' => '2x14'],
+    (object)['nome' => 'Prg Advance', 'offset' => '0x73D674', 'tiles' => '2x12'],
     (object)['nome' => 'Cstmzing', 'offset' => '0x73DBF4', 'tiles' => '2x19'],
     (object)['nome' => 'Final Turn', 'offset' => '0x73E0B4', 'tiles' => '2x7'],
     (object)['nome' => 'Interval', 'offset' => '0x73E274', 'tiles' => '2x9'],

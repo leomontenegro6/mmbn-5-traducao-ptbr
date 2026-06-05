@@ -1,6 +1,8 @@
 - Tela de batalha contra vírus:
-    - Battle X Start, Enemy Deleted, Megaman Deleted, Turn X Start, etc
-    - Final Turn
+    - Max Mode, Finish, Turn Liberate
+    - Letreiros de batalhas com outros navis
+- Tela de batalha em modo link
+    - Interval (?)
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo
 - Backgrounds pendentes editar:
     - ACDC: Higsby's pra Higsby

@@ -63,8 +63,14 @@
     .incbin "Graficos/Editados/No Data Selected.gba"
 .org ChipDataTransmission
     .incbin "Graficos/Editados/Chip Data Transmission.gba"
+.org PrgAdvance
+    .incbin "Graficos/Editados/Prg Advance.gba"
 .org Cstmzing
     .incbin "Graficos/Editados/Cstmzing.gba"
+.org FonteNomesBatalhas
+    .incbin "Graficos/Editados/Fonte Nomes Batalhas.gba"
+.org FinalTurn
+    .incbin "Graficos/Editados/Final Turn.gba"
 
 ; Gráficos exibidos durante as batalhas.
 .org Pause
@@ -252,6 +258,96 @@
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
     .dw GameOverTM + 0x80000000
+.org PonteiroTelaBatalhaIniciarBatalha
+    .dw TelaBatalhaIniciarBatalha
+.org PonteiroTelaBatalhaInimigoDeletado
+    .dw TelaBatalhaInimigoDeletado
+.org PonteiroTelaBatalhaMegamanDeletado
+    .dw TelaBatalhaMegamanDeletado
+.org PonteiroTelaBatalhaIniciarTurnoX
+    .dw TelaBatalhaIniciarTurnoX
+.org PonteiroTelaBatalhaTurnoFinal
+    .dw TelaBatalhaTurnoFinal
+.org PonteiroTelaBatalhaVenceu
+    .dw TelaBatalhaVenceu
+.org PonteiroTelaBatalhaPerdeu
+    .dw TelaBatalhaPerdeu
+.org PonteiroTelaBatalhaEmpate
+    .dw TelaBatalhaEmpate
+.org PonteiroTelaBatalhaBatalhaX
+    .dw TelaBatalhaBatalhaX
+.org PonteiroTelaBatalhaAnalisarDados
+    .dw TelaBatalhaAnalisarDados
+.org PonteiroTelaBatalhaBandeiraDeletada
+    .dw TelaBatalhaBandeiraDeletada
+.org PonteiroTelaBatalhaIniciarBatalhaX
+    .dw TelaBatalhaIniciarBatalhaX
+.org PonteiroTelaBatalhaMegamanVenceu
+    .dw TelaBatalhaMegamanVenceu
+.org PonteiroTelaBatalhaRoundXLutem
+    .dw TelaBatalhaRoundXLutem
+.org PonteiroTelaBatalhaModoMaximo
+    .dw TelaBatalhaModoMaximo
+.org PonteiroTelaBatalhaFim
+    .dw TelaBatalhaFim
+.org PonteiroTelaBatalhaPenalidade
+    .dw TelaBatalhaPenalidade
+.org PonteiroTelaBatalhaTempoEsgotado
+    .dw TelaBatalhaTempoEsgotado
+.org PonteiroTelaBatalhaLiberacaoCompleta
+    .dw TelaBatalhaLiberacaoCompleta
+.org PonteiroTelaBatalhaLiberacaoFracassada
+    .dw TelaBatalhaLiberacaoFracassada
+.org PonteiroTelaBatalhaProtomanDeletado
+    .dw TelaBatalhaProtomanDeletado
+.org PonteiroTelaBatalhaGyromanDeletado
+    .dw TelaBatalhaGyromanDeletado
+.org PonteiroTelaBatalhaSerchmanDeletado
+    .dw TelaBatalhaSerchmanDeletado
+.org PonteiroTelaBatalhaNapalmmanDeletado
+    .dw TelaBatalhaNapalmmanDeletado
+.org PonteiroTelaBatalhaMagnetmanDeletado
+    .dw TelaBatalhaMagnetmanDeletado
+.org PonteiroTelaBatalhaMeddyDeletada
+    .dw TelaBatalhaMeddyDeletada
+.org PonteiroTelaBatalhaColonelDeletado
+    .dw TelaBatalhaColonelDeletado
+.org PonteiroTelaBatalhaShadowmanDeletado
+    .dw TelaBatalhaShadowmanDeletado
+.org PonteiroTelaBatalhaNumbermanDeletado
+    .dw TelaBatalhaNumbermanDeletado
+.org PonteiroTelaBatalhaTomahawkmmanDeletado
+    .dw TelaBatalhaTomahawkmmanDeletado
+.org PonteiroTelaBatalhaKnightmanDeletado
+    .dw TelaBatalhaKnightmanDeletado
+.org PonteiroTelaBatalhaToadmanDeletado
+    .dw TelaBatalhaToadmanDeletado
+.org PonteiroTelaBatalhaLiberarTurnoX
+    .dw TelaBatalhaLiberarTurnoX
+.org PonteiroTelaBatalhaProtomanVenceu
+    .dw TelaBatalhaProtomanVenceu
+.org PonteiroTelaBatalhaGyromanVenceu
+    .dw TelaBatalhaGyromanVenceu
+.org PonteiroTelaBatalhaSerchmanVenceu
+    .dw TelaBatalhaSerchmanVenceu
+.org PonteiroTelaBatalhaNapalmmanVenceu
+    .dw TelaBatalhaNapalmmanVenceu
+.org PonteiroTelaBatalhaMagnetmanVenceu
+    .dw TelaBatalhaMagnetmanVenceu
+.org PonteiroTelaBatalhaMeddyVenceu
+    .dw TelaBatalhaMeddyVenceu
+.org PonteiroTelaBatalhaColonelVenceu
+    .dw TelaBatalhaColonelVenceu
+.org PonteiroTelaBatalhaShadowmanVenceu
+    .dw TelaBatalhaShadowmanVenceu
+.org PonteiroTelaBatalhaNumbermanVenceu
+    .dw TelaBatalhaNumbermanVenceu
+.org PonteiroTelaBatalhaTomahawkmmanVenceu
+    .dw TelaBatalhaTomahawkmmanVenceu
+.org PonteiroTelaBatalhaKnightmanVenceu
+    .dw TelaBatalhaKnightmanVenceu
+.org PonteiroTelaBatalhaToadmanVenceu
+    .dw TelaBatalhaToadmanVenceu
 
 ; Inserindo gráficos no final da rom
 .if versao == 1
@@ -439,6 +535,193 @@ GameOver:
 
 GameOverTM:
     .lz77gba "Graficos/Editados/Game Over (tm).gba"
+    .align
+
+; OAMs dos nomes da tela de batalha, exibidos ora antes dos turnos, ora no final delas
+.if versao == 1
+    .loadtable "Tabelas/Tela Batalha - Nomes (Equipe Protoman).tbl"
+.elseif versao == 0
+    .loadtable "Tabelas/Tela Batalha - Nomes (Equipe Colonel).tbl"
+.endif
+
+TelaBatalhaIniciarBatalha:
+    .stringn 0x28,0x40,0x00,0x00,"< INICIAR BATALHA! >"
+    .align
+
+TelaBatalhaInimigoDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"< INIMIGO DELETADO!>"
+    .align
+
+TelaBatalhaMegamanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"< MEGAMAN DELETADO!>"
+    .align
+
+TelaBatalhaIniciarTurnoX:
+    .stringn 0x28,0x40,0x01,0x00,"< INICIAR TURNO   !>",0xA8,0x40,0x00,0x00
+    .align
+
+TelaBatalhaTurnoFinal:
+    .stringn 0x38,0x40,0x00,0x00,"< TURNO FINAL! >_"
+    .align
+
+TelaBatalhaVenceu:
+    .stringn 0x4C,0x40,0x00,0x00,"< VENCEU! >_"
+    .align
+
+TelaBatalhaPerdeu:
+    .stringn 0x4C,0x40,0x00,0x00,"< PERDEU! >_"
+    .align
+
+TelaBatalhaEmpate:
+    .stringn 0x4C,0x40,0x00,0x00,"< EMPATE! >_"
+    .align
+
+TelaBatalhaBatalhaX:
+    .stringn 0x40,0x40,0x01,0x00,"< BATALHA    >__",0x94,0x40,0x00,0x00
+    .align
+
+TelaBatalhaAnalisarDados:
+    .stringn 0x2C,0x10,0x02,0x00,"< DANOS RECEBIDOS >_"
+    .align
+
+TelaBatalhaBandeiraDeletada:
+    .stringn 0x28,0x40,0x00,0x00,"<BANDEIRA DELETADA!>"
+    .align
+
+TelaBatalhaIniciarBatalhaX:
+    .stringn 0x28,0x40,0x01,0x00,"<INICIAR BATALHA   >",0xAC,0x40,0x00,0x00
+    .align
+
+TelaBatalhaMegamanVenceu:
+    .stringn 0x2C,0x40,0x00,0x00,"< MEGAMAN VENCEU! >_"
+    .align
+
+TelaBatalhaRoundXLutem:
+    .stringn 0x2C,0x40,0x01,0x00,"< ROUND    LUTEM! >_",0x6C,0x40,0x00,0x00
+    .align
+
+TelaBatalhaModoMaximo:
+    .stringn 0x38,0x40,0x00,0x00,"< MODO MAXIMO! >" ; acentuar depois
+    .align
+
+TelaBatalhaFim:
+    .stringn 0x4C,0x40,0x00,0x00,"< FINISH! >_" ; checar depois
+    .align
+
+TelaBatalhaPenalidade:
+    .stringn 0x38,0x40,0x00,0x00,"< PENALIDADE!! >"
+    .align
+
+TelaBatalhaTempoEsgotado:
+    .stringn 0x2C,0x40,0x00,0x00,"< TEMPO ESGOTADO! >_"
+    .align
+
+TelaBatalhaLiberacaoCompleta:
+    .stringn 0x24,0x40,0x00,0x00,"<LIBERACAO COMPLETA! >__"
+    .align
+
+TelaBatalhaLiberacaoFracassada:
+    .stringn 0x14,0x40,0x00,0x00,"<LIBERACAO FRACASSADA! >"
+    .align
+
+TelaBatalhaProtomanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<PROTOMAN DELETADO>_"
+    .align
+
+TelaBatalhaGyromanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"< GYROMAN DELETADO >"
+    .align
+
+TelaBatalhaSerchmanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<SERCHMAN DELETADO>_"
+    .align
+
+TelaBatalhaNapalmmanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<NAPALMMAN DELETADO>"
+    .align
+
+TelaBatalhaMagnetmanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<MAGNETMAN DELETADO>"
+    .align
+
+TelaBatalhaMeddyDeletada:
+    .stringn 0x30,0x40,0x00,0x00,"< MEDDY DELETADA >__"
+    .align
+
+TelaBatalhaColonelDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"< COLONEL DELETADO >"
+    .align
+
+TelaBatalhaShadowmanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<SHADOWMAN DELETADO>"
+    .align
+
+TelaBatalhaNumbermanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<NUMBERMAN DELETADO>"
+    .align
+
+TelaBatalhaTomahawkmmanDeletado:
+    .stringn 0x20,0x40,0x00,0x00,"<TOMAHAWKMAN DELETADO>__"
+    .align
+
+TelaBatalhaKnightmanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"<KNIGHTMAN DELETADO>"
+    .align
+
+TelaBatalhaToadmanDeletado:
+    .stringn 0x28,0x40,0x00,0x00,"< TOADMAN DELETADO >"
+    .align
+
+TelaBatalhaLiberarTurnoX:
+    .stringn 0x28,0x40,0x01,0x00,"<   TURN LIBERATE! >",0x38,0x40,0x00,0x00 ; checar depois
+    .align
+
+TelaBatalhaProtomanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"< PROTOMAN VENCEU! >"
+    .align
+
+TelaBatalhaGyromanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"< GYROMAN VENCEU! >_"
+    .align
+
+TelaBatalhaSerchmanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"< SERCHMAN VENCEU! >"
+    .align
+
+TelaBatalhaNapalmmanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"<NAPALMMAN VENCEU!>_"
+    .align
+
+TelaBatalhaMagnetmanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"<MAGNETMAN VENCEU!>_"
+    .align
+
+TelaBatalhaMeddyVenceu:
+    .stringn 0x30,0x40,0x00,0x00,"< MEDDY VENCEU! >___"
+    .align
+
+TelaBatalhaColonelVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"< COLONEL VENCEU! >_"
+    .align
+
+TelaBatalhaShadowmanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"<SHADOWMAN VENCEU!>_"
+    .align
+
+TelaBatalhaNumbermanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"<NUMBERMAN VENCEU!>_"
+    .align
+
+TelaBatalhaTomahawkmmanVenceu:
+    .stringn 0x18,0x40,0x00,0x00,"< TOMAHAWKMAN VENCEU! >_"
+    .align
+
+TelaBatalhaKnightmanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"<KNIGHTMAN VENCEU!>_"
+    .align
+
+TelaBatalhaToadmanVenceu:
+    .stringn 0x28,0x40,0x00,0x00,"< TOADMAN VENCEU! >_"
     .align
 
 .close
