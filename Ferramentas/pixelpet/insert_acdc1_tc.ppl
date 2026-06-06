@@ -1,0 +1,26 @@
+// Reading palette from PNG file
+Import-Bitmap "pngs/ACDC1 (TC).pal.png"
+Convert-Bitmap GBA --sloppy
+Read-Palettes -ps 208
+Convert-Palettes GBA
+
+// Generating tilemap from the first graphic set
+Import-Bitmap "pngs/ACDC1-1 (TC).png"
+Convert-Bitmap GBA --sloppy
+Generate-Tilemap GBA-8BPP
+
+Serialize-Tilemap
+Export-Bytes "data/tm-033228-tc-0.bin"
+Clear-Tilemap
+
+// Generating tilemap from the first graphic set
+Import-Bitmap "pngs/ACDC1-2 (TC).png"
+Convert-Bitmap GBA --sloppy
+Generate-Tilemap GBA-8BPP -a
+
+Serialize-Tilemap
+Export-Bytes "data/tm-033228-tc-1.bin"
+
+// Generating combined tilesets from both tilemaps. It'll be splitted later.
+Serialize-Tileset
+Export-Bytes "data/td-033220-tc.bin"

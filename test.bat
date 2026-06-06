@@ -7,6 +7,8 @@ SET CURRENTDIR=%cd%
 set version=Equipe Colonel
 IF "%1" == "p" SET version=Equipe ProtoMan
 IF "%2" == "vbalink" GOTO vbalink
+IF "%2" == "vbam" GOTO vbam
+IF "%2" == "vbam_boktai2" GOTO vbam_boktai2
 IF "%2" == "nocash" GOTO nocash
 IF "%2" == "mesen" GOTO mesen
 GOTO mgba
@@ -18,6 +20,14 @@ GOTO end
 :vbalink
 start "" "%VBALINK_PATH%" "%CURRENTDIR%\Mega Man Battle Network 5 - %version% (BR).gba"
 start "" "%VBALINK_PATH%" "%CURRENTDIR%\Mega Man Battle Network 5 - %version% (BR).gba"
+GOTO end
+
+:vbam
+start "" "%VBAM_PATH%" "%CURRENTDIR%\Mega Man Battle Network 5 - %version% (BR).gba"
+GOTO end
+
+:vbam_boktai2
+start "" "%VBAM_PATH%" "%BOKTAI2_PATH%"
 GOTO end
 
 :nocash

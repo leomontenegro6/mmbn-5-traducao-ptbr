@@ -148,6 +148,8 @@ PonteiroSortTM2 equ 0x081317EC
 PonteiroSortTM3 equ 0x08139924
 PonteiroGameOver equ 0x0803E49C
 PonteiroGameOverTM equ 0x0803E4B4
+PonteiroBairroAcdc1 equ 0x0803321C
+PonteiroBairroAcdc1TM equ 0x08033224
 PonteiroSelecting1 equ 0x08033114
 PonteiroSelecting2 equ 0x08139990
 PonteiroSelecting3 equ 0x0813A970

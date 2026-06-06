@@ -254,6 +254,10 @@
     .dw ShuffleAFolder
 .org PonteiroBlocking
     .dw Blocking
+.org PonteiroBairroAcdc1
+    .dw BairroAcdc1
+.org PonteiroBairroAcdc1TM
+    .dw BairroAcdc1TM
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -529,6 +533,22 @@ Blocking:
     .incbin "Graficos/Editados/Blocking.gba"
     .align
 
+BairroAcdc1:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Bairro ACDC - Higsbys (TP).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Bairro ACDC - Higsbys (TC).gba"
+    .endif
+    .align
+
+BairroAcdc1TM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Bairro ACDC - Higsbys (TP) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Bairro ACDC - Higsbys (TC) (tm).gba"
+    .endif
+    .align
+
 GameOver:
     .lz77gba "Graficos/Editados/Game Over.gba"
     .align
@@ -605,7 +625,7 @@ TelaBatalhaModoMaximo:
     .align
 
 TelaBatalhaFim:
-    .stringn 0x4C,0x40,0x00,0x00,"< FINISH! >_" ; checar depois
+    .stringn 0x58,0x40,0x00,0x00,"< FIM! >_"
     .align
 
 TelaBatalhaPenalidade:
@@ -617,11 +637,11 @@ TelaBatalhaTempoEsgotado:
     .align
 
 TelaBatalhaLiberacaoCompleta:
-    .stringn 0x24,0x40,0x00,0x00,"<LIBERACAO COMPLETA! >__"
+    .stringn 0x24,0x40,0x00,0x00,"<LIBERACAO COMPLETA! >__" ; acentuar depois
     .align
 
 TelaBatalhaLiberacaoFracassada:
-    .stringn 0x14,0x40,0x00,0x00,"<LIBERACAO FRACASSADA! >"
+    .stringn 0x14,0x40,0x00,0x00,"<LIBERACAO FRACASSADA! >" ; acentuar depois
     .align
 
 TelaBatalhaProtomanDeletado:

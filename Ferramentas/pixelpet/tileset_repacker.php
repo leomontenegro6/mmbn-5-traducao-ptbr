@@ -1,0 +1,154 @@
+<?php
+/**
+ * MMBN5 Tileset Repacker
+ * 
+ * This script repacks a background container file, previously extracted by the
+ * "tileset_unpacker.php" script, based on a given offset. It results in a
+ * single background file, preceded by a header file and followed by the
+ * compressed tilesets, ready to be inserted ingame later on.
+ * 
+ * It works by reading the header and tileset files from the "data" directory,
+ * compressing the tilesets using LZSS 0x10 compression, and writing the
+ * repacked data to a new file in the same directory.
+ * 
+ * Usage: php tileset_repacker.php <offset> <version_suffix>
+ * 
+ * Arguments:
+ * - offset: Hexadecimal offset used to identify the header and tileset files.
+ * - version_suffix: (optional) Suffix to identify the game version,
+ *   e.g. "tc" or "tp".
+ */
+
+require_once 'common.php';
+
+// Reading parameters from the command line.
+if ($argc < 1) {
+    echo "Usage: php tileset_repacker.php <offset> <version_suffix>\n";
+    exit(1);
+}
+
+$pointer_offset = hexdec($argv[1]);
+$pointer_offset = str_pad(dechex($pointer_offset), 6, '0', STR_PAD_LEFT);
+$version_suffix = isset($argv[2]) ? "-{$argv[2]}" : '';
+
+if (!file_exists("data/header-{$pointer_offset}{$version_suffix}.bin")) {
+    echo "Error: Header file does not exist.\n";
+    exit(1);
+}
+if (!file_exists("data/td-{$pointer_offset}{$version_suffix}-0.bin")) {
+    echo "Error: Missing first tileset file.\n";
+    exit(1);
+}
+if (!file_exists("data/td-{$pointer_offset}{$version_suffix}-1.bin")) {
+    echo "Error: Missing second tileset file.\n";
+    exit(1);
+}
+
+// Create new file "img-<offset>.bin" to store the repacked tilesets.
+$destination_filename = "data/img-{$pointer_offset}{$version_suffix}.bin";
+
+// Open the destination file in write mode.
+// Delete its previous contents if it exists.
+if (file_exists($destination_filename)) {
+    if (!unlink($destination_filename)) {
+        echo "Error: Could not delete existing destination file.\n";
+        exit(1);
+    }
+}
+$destination_file = fopen($destination_filename, "wb");
+if (!$destination_file) {
+    echo "Error: Could not open destination file for writing.\n";
+    exit(1);
+}
+
+// Read the header file.
+$header_filename = "data/header-{$pointer_offset}{$version_suffix}.bin";
+$header_content = file_get_contents($header_filename);
+if ($header_content === false) {
+    echo "Error: Could not read header file.\n";
+    fclose($destination_file);
+    exit(1);
+}
+
+// Write the header content to the destination file.
+fwrite($destination_file, $header_content);
+
+// Compressing the tilesets and appending them to the destination file.
+for ($i=0; $i<2; $i++) {
+    $tileset_filename = "data/td-{$pointer_offset}{$version_suffix}-{$i}.bin";
+
+    if ($i == 0) {
+        // Update the size of the first tileset in the header.
+        // The value should be its size, divided by 4 in 32bit.
+        $tileset_filesize = dechex(filesize($tileset_filename) / 4);
+        $tileset_filesize = str_pad($tileset_filesize, 8, '0', STR_PAD_LEFT);
+        $tileset_filesize = changeEndianness($tileset_filesize);
+        fseek($destination_file, 0x0);
+        fwrite($destination_file, hex2bin($tileset_filesize));
+
+        // Update the second offset to vram to dump files to.
+        // The value should be the size of the first tileset.
+        $second_vram_offset = dechex(filesize($tileset_filename));
+        $second_vram_offset = str_pad($second_vram_offset, 8, '0', STR_PAD_LEFT);
+        $second_vram_offset = changeEndianness($second_vram_offset);
+        fseek($destination_file, 0x14);
+        fwrite($destination_file, hex2bin($second_vram_offset));
+    } elseif ($i == 1){
+        // Check if the destination file's current position, at the end
+        // of the file, is a multiple of 4.
+        fseek($destination_file, 0, SEEK_END);
+        $current_position = ftell($destination_file);
+        if ($current_position % 4 !== 0) {
+            // If not, pad with zeros to make it a multiple of 4.
+            $padding_size = 4 - ($current_position % 4);
+            fwrite($destination_file, str_repeat("\x00", $padding_size));
+        }
+
+        // Get offset of the current position in the destination file,
+        // so that we can update it in the 5th DWORD of the header.
+        $end_pointer_offset = dechex(ftell($destination_file));
+        $end_pointer_offset = str_pad($end_pointer_offset, 8, '0', STR_PAD_LEFT);
+        $end_pointer_offset = changeEndianness($end_pointer_offset);
+        fseek($destination_file, 0x10);
+        fwrite($destination_file, hex2bin($end_pointer_offset));
+
+        // Update the size of the second tileset in the header.
+        // The value should be its size, divided by 4 in 32bit.
+        $tileset_filesize = dechex(filesize($tileset_filename) / 4);
+        $tileset_filesize = str_pad($tileset_filesize, 8, '0', STR_PAD_LEFT);
+        $tileset_filesize = changeEndianness($tileset_filesize);
+        fseek($destination_file, 0xC);
+        fwrite($destination_file, hex2bin($tileset_filesize));
+    }
+    
+    // Go to the end of the file to proceed.
+    fseek($destination_file, 0, SEEK_END);
+
+    echo "Compressing tileset in file \"{$tileset_filename}\" and adding to the header... ";
+    $temporary_tileset_data = "data/tmp.bin";
+    if (file_exists($temporary_tileset_data)) { 
+        unlink($temporary_tileset_data);
+    }
+    copy($tileset_filename, $temporary_tileset_data);
+    $command = "..\lzss.exe -evn $temporary_tileset_data";
+    $exec = shell_exec($command);
+    if ($exec === null) {
+        echo "Error: Compression command failed.\n";
+        fclose($destination_file);
+        exit(1);
+    }
+
+    $tileset_content = file_get_contents($temporary_tileset_data);
+    if ($tileset_content === false) {
+        echo "Error: Could not read tileset file.\n";
+        fclose($destination_file);
+        exit(1);
+    }
+
+    // Write the header content to the destination file.
+    fwrite($destination_file, $tileset_content);
+
+    echo " OK.\n";
+}
+
+echo "Done.\n";

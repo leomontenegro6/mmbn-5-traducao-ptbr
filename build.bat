@@ -30,6 +30,10 @@ echo ==Graficos==
 cd ".\Ferramentas\dmp-to-gba\"
 call converter.bat
 cd "..\..\"
+cd ".\Ferramentas\pixelpet\"
+call inserir.bat
+call remontar.bat
+cd "..\..\"
 php .\editar_tilemaps_submenus.php c
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 0 -sym graficos_equipe_colonel.sym
 
@@ -51,6 +55,10 @@ echo ==Aplicando patches extras na rom modificada:==
 echo ==Graficos==
 cd ".\Ferramentas\dmp-to-gba\"
 call converter.bat
+cd "..\..\"
+cd ".\Ferramentas\pixelpet\"
+call inserir.bat
+call remontar.bat
 cd "..\..\"
 php .\editar_tilemaps_submenus.php p
 .\Ferramentas\armips-lzss\armips-lzss-v1.exe .\Asm\graficos.asm -equ versao 1 -sym graficos_equipe_protoman.sym
