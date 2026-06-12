@@ -10,3 +10,7 @@ copy ".\data\img-03321C-tp.bin" "..\..\Graficos\Editados\BGs\Bairro ACDC - Higsb
 move ".\data\tm-033224-tp.bin" "..\..\Graficos\Editados\BGs\Bairro ACDC - Higsbys (TP) (tm).gba"
 
 :: Remontando gráfico de dentro da Loja do Higsby, no Bairro ACDC.
+php .\tileset_repacker.php 33268 tc
+php .\tileset_repacker.php 33264 tp
+copy ".\data\img-033268-tc.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Interior (TC).gba"
+copy ".\data\img-033264-tp.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Interior (TP).gba"

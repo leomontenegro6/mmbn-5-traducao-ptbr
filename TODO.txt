@@ -1,16 +1,14 @@
-- Gráficos "Std" e "Dark" na tela-título
 - Tela de batalha contra vírus:
-    - Max Mode, Finish, Turn Liberate
     - Letreiros de batalhas com outros navis
-- Tela de batalha em modo link
-    - Interval (?)
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo
 - Créditos ao zerar o jogo (tentar aplicar fonte VWF, e adicionar nossos créditos)
 - Backgrounds pendentes editar:
-    - Loja do Higsby: Welcome, Free Space, Sale, e outras placas de background menores
+    - Loja do Higsby: Free Space, Sale, e outras placas de background menores
     - Fundos da Loja do Higsby: Sale invertido
     - QG da Nebula: Gráficos de Level 1/2/3
 - Checar bug que impedia alguns e-mails de serem checados em uma das versões (acho que do Baryl, na versão Colonel)
-- Editar gráficos do modo crossover battle:
-    - Tela de batalha:
-        - RESULT, DeleteTime, Busting LV, GET DATA
+- Editar gráficos do modo operation battle:
+    - Operation Battle (Batalha de Operação)
+- Editar gráficos do modo crossover battle (Batalha Cruzada):
+    - Interval
+    - RESULT, DeleteTime, Busting LV, GET DATA

@@ -8,3 +8,5 @@
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 5 - Team ProtoMan (USA).gba" 33224
 
 :: Desempacotando gráfico de dentro da Loja do Higsby, na Cidade ACDC
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 5 - Team Colonel (USA).gba" 33268
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 5 - Team ProtoMan (USA).gba" 33264

@@ -27,6 +27,7 @@ ChipDataTransmission equ 0x08732B24
 Cstmzing equ 0x0873DBF4
 PrgAdvance equ 0x0873D674
 FonteNomesBatalhas equ 0x0873CEF4
+FonteNomesBatalhas2 equ 0x087FD798
 FinalTurn equ 0x0873E0B4
 
 PonteiroTelaBatalhaIniciarBatalha equ 0x0801B80C
@@ -61,7 +62,7 @@ PonteiroTelaBatalhaNumbermanDeletado equ 0x0801B88C
 PonteiroTelaBatalhaTomahawkmmanDeletado equ 0x0801B890
 PonteiroTelaBatalhaKnightmanDeletado equ 0x0801B894
 PonteiroTelaBatalhaToadmanDeletado equ 0x0801B898
-PonteiroTelaBatalhaLiberarTurnoX equ 0x0801B89C
+PonteiroTelaBatalhaLiberacaoDeXTurno equ 0x0801B89C
 PonteiroTelaBatalhaProtomanVenceu equ 0x0801B8A0
 PonteiroTelaBatalhaGyromanVenceu equ 0x0801B8A4
 PonteiroTelaBatalhaSerchmanVenceu equ 0x0801B8A8
@@ -150,6 +151,7 @@ PonteiroGameOver equ 0x0803E4A0
 PonteiroGameOverTM equ 0x0803E4B8
 PonteiroBairroAcdc1 equ 0x08033220
 PonteiroBairroAcdc1TM equ 0x08033228
+PonteiroLojaHigsbyInterior equ 0x08033268
 PonteiroSelecting1 equ 0x08033118
 PonteiroSelecting2 equ 0x08139A78
 PonteiroSelecting3 equ 0x0813AA58

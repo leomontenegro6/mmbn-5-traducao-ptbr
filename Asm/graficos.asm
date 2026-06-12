@@ -69,6 +69,8 @@
     .incbin "Graficos/Editados/Cstmzing.gba"
 .org FonteNomesBatalhas
     .incbin "Graficos/Editados/Fonte Nomes Batalhas.gba"
+.org FonteNomesBatalhas2
+    .incbin "Graficos/Editados/Fonte Nomes Batalhas 2.gba"
 .org FinalTurn
     .incbin "Graficos/Editados/Final Turn.gba"
 
@@ -258,6 +260,8 @@
     .dw BairroAcdc1
 .org PonteiroBairroAcdc1TM
     .dw BairroAcdc1TM
+.org PonteiroLojaHigsbyInterior
+    .dw LojaHigsbyInterior
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -326,8 +330,8 @@
     .dw TelaBatalhaKnightmanDeletado
 .org PonteiroTelaBatalhaToadmanDeletado
     .dw TelaBatalhaToadmanDeletado
-.org PonteiroTelaBatalhaLiberarTurnoX
-    .dw TelaBatalhaLiberarTurnoX
+.org PonteiroTelaBatalhaLiberacaoDeXTurno
+    .dw TelaBatalhaLiberacaoDeXTurno
 .org PonteiroTelaBatalhaProtomanVenceu
     .dw TelaBatalhaProtomanVenceu
 .org PonteiroTelaBatalhaGyromanVenceu
@@ -549,6 +553,14 @@ BairroAcdc1TM:
     .endif
     .align
 
+LojaHigsbyInterior:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (TP).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (TC).gba"
+    .endif
+    .align
+
 GameOver:
     .lz77gba "Graficos/Editados/Game Over.gba"
     .align
@@ -621,7 +633,7 @@ TelaBatalhaRoundXLutem:
     .align
 
 TelaBatalhaModoMaximo:
-    .stringn 0x38,0x40,0x00,0x00,"< MODO MAXIMO! >" ; acentuar depois
+    .stringn 0x38,0x40,0x00,0x00,"< MODO MÁXIMO! >"
     .align
 
 TelaBatalhaFim:
@@ -637,11 +649,11 @@ TelaBatalhaTempoEsgotado:
     .align
 
 TelaBatalhaLiberacaoCompleta:
-    .stringn 0x24,0x40,0x00,0x00,"<LIBERACAO COMPLETA! >__" ; acentuar depois
+    .stringn 0x28,0x40,0x00,0x00,"<LIBERAÇÃO COMPLETA¡/"
     .align
 
 TelaBatalhaLiberacaoFracassada:
-    .stringn 0x14,0x40,0x00,0x00,"<LIBERACAO FRACASSADA! >" ; acentuar depois
+    .stringn 0x28,0x40,0x00,0x00,"<liberaçãFRACASSADA¡/"
     .align
 
 TelaBatalhaProtomanDeletado:
@@ -692,8 +704,8 @@ TelaBatalhaToadmanDeletado:
     .stringn 0x28,0x40,0x00,0x00,"< TOADMAN DELETADO >"
     .align
 
-TelaBatalhaLiberarTurnoX:
-    .stringn 0x28,0x40,0x01,0x00,"<   TURN LIBERATE! >",0x38,0x40,0x00,0x00 ; checar depois
+TelaBatalhaLiberacaoDeXTurno:
+    .stringn 0x2C,0x40,0x01,0x00,"<liberaçãode  TURNO¡/_",0x84,0x40,0x00,0x00
     .align
 
 TelaBatalhaProtomanVenceu:
