@@ -262,6 +262,10 @@
     .dw BairroAcdc1TM
 .org PonteiroLojaHigsbyInterior
     .dw LojaHigsbyInterior
+.org PonteiroLojaHigsbyFundos
+    .dw LojaHigsbyFundos
+.org PonteiroLojaHigsbyFundosTM
+    .dw LojaHigsbyFundosTM
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -558,6 +562,22 @@ LojaHigsbyInterior:
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (TP).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Interior (TC).gba"
+    .endif
+    .align
+
+LojaHigsbyFundos:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Fundos (TP).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Fundos (TC).gba"
+    .endif
+    .align
+
+LojaHigsbyFundosTM:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Fundos (TP) (tm).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/Loja do Higsby - Fundos (TC) (tm).gba"
     .endif
     .align
 

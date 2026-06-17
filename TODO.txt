@@ -3,7 +3,6 @@
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo
 - Créditos ao zerar o jogo (tentar aplicar fonte VWF, e adicionar nossos créditos)
 - Backgrounds pendentes editar:
-    - Fundos da Loja do Higsby: Sale invertido
     - QG da Nebula: Gráficos de Level 1/2/3
 - Checar bug que impedia alguns e-mails de serem checados em uma das versões (acho que do Baryl, na versão Colonel)
 - Editar gráficos do modo operation battle:
