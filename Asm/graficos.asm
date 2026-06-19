@@ -114,6 +114,10 @@
 .org NewForuns
     .incbin "Graficos/Editados/New (foruns).gba"
 
+; Gráficos do minigame de cortes de samurai, na Cidade de Endo.
+.org Cut
+    .incbin "Graficos/Editados/Cut.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo

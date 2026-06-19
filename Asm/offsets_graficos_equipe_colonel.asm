@@ -96,6 +96,8 @@ TelasResultadosPerdeuTM equ 0x0874EEFC
 
 NewForuns equ 0x087DDAB8
 
+Cut equ 0x087D67E8
+
 PonteiroLogoTelaTitulo equ 0x08030848
 PonteirosNomesTelaTitulo1 equ 0x08030830
 PonteirosNomesTelaTitulo2 equ 0x08030818
