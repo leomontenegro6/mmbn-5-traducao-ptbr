@@ -183,9 +183,8 @@ script 7 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Acho que eu devia ir
-	pra casa trocar de
-	roupa.
+	Acho que eu devia ir pra
+	casa trocar de roupa.
 	"""
 	keyWait
 		any = false
@@ -228,8 +227,8 @@ script 10 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Sim, fui informada dos
-	Navis desaparecidos.
+	Sim, fui informada do
+	Navi desaparecido.
 	"""
 	keyWait
 		any = false
@@ -242,8 +241,8 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certa de que eles
-	voltarão sãos e salvos!
+	Estou certa de que ele
+	voltará são e salvo!
 	"""
 	keyWait
 		any = false
@@ -261,13 +260,13 @@ script 11 mmbn5 {
 	"""
 	Esse pessoal do tour
 	não podia abaixar o
-	volume, né?
+	volume, não?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Está tirando a minha
+	Estão tirando a minha
 	concentração na minha
 	pesquisa.
 	"""
@@ -355,8 +354,8 @@ script 22 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Para se conectar, vá
-	ao Controle de Missão,
+	Para se isso, use o
+	Controle de Missão,
 	nos fundos.
 	"""
 	keyWait

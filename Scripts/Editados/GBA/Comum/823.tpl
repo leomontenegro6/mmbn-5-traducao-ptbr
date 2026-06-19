@@ -191,7 +191,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ouivu, Lan?"
+	"Ouviu, Lan?"
 	keyWait
 		any = false
 	clearMsg

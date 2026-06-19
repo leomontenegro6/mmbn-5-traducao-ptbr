@@ -181,14 +181,15 @@ script 7 mmbn5 {
 	"""
 	Eu não passo mó pinta
 	de importante, aqui,
-	no meio da rua?
+	parado no meio da rua?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Na verdade, eu tô só na
-	vagabundagem. He he...
+	vagabundagem mesmo.
+	He he...
 	"""
 	keyWait
 		any = false
@@ -333,8 +334,8 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	A ÁREA ENDO FICA
-	SUBINDO AQUELAS
-	ESCADAS ALI.
+	SUBINDO AQUELA
+	RAMPA ALI.
 	"""
 	keyWait
 		any = false
@@ -353,9 +354,9 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Agora eu vou ter fazer
-	uma volta enorme pra
-	voltar lá.
+	Agora eu vou ter que
+	fazer uma volta enorme
+	pra voltar lá.
 	"""
 	keyWait
 		any = false

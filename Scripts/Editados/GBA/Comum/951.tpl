@@ -111,7 +111,7 @@ script 6 mmbn5 {
 	clearMsg
 	"""
 	Meninos covardes como
-	ele merecem uma dura!
+	eles merecem uma dura!
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 7 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O que a gente faz?!
+	O que você vai fazer?!
 	"""
 	keyWait
 		any = false
@@ -188,7 +188,7 @@ script 12 mmbn5 {
 	"""
 	Vamos reunir todo mundo
 	e dar uma surra nos
-	Navis da Nebula, coaxo!
+	Navis da Nebula, croac!
 	"""
 	keyWait
 		any = false
@@ -258,7 +258,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"OK, coaxo!"
+	"OK, croac!"
 	keyWait
 		any = false
 	end
@@ -268,7 +268,7 @@ script 18 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O que a gente faz?!
+	O que você vai fazer?!
 	"""
 	keyWait
 		any = false

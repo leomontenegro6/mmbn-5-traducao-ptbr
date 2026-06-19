@@ -166,8 +166,8 @@ script 40 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Pra ser franco, eu tô
-	apavorado também...
+	Pra ser franco,
+	eu tô, também...
 	"""
 	keyWait
 		any = false

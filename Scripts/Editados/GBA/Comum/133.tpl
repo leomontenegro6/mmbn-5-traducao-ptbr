@@ -10,8 +10,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Até o Higsby tem
-	um lato oculto.
+	Quem diria que o
+	Higsby tinha um lado
+	artístico secreto.
 	"""
 	keyWait
 		any = false
@@ -108,8 +109,7 @@ script 6 mmbn5 {
 	msgOpen
 	"""
 	A placa-mãe está à
-	mostra, e há fios
-	soltos.
+	mostra, e há fios soltos.
 	"""
 	keyWait
 		any = false
@@ -235,7 +235,7 @@ script 13 mmbn5 {
 	"""
 	Toda a papelada
 	é cuidadosamente
-	armazenada aqui.
+	organizada aqui.
 	"""
 	keyWait
 		any = false
@@ -287,8 +287,7 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	A placa-mãe está à
-	mostra, e há fios
-	soltos.
+	mostra, e há fios soltos.
 	"""
 	keyWait
 		any = false

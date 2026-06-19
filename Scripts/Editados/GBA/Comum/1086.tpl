@@ -31,7 +31,7 @@ script 1 mmbn5 {
 	clearMsg
 	"""
 	Será que você consegue
-	liebrar essa área
+	liberar essa área
 	inteira sozinho?
 	"""
 	keyWait

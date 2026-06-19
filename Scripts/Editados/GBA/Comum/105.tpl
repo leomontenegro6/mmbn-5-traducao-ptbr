@@ -72,8 +72,7 @@ script 11 mmbn5 {
 	clearMsg
 	"""
 	Bora achar o servidor
-	escondido no Bairro
-	ACDC!
+	escondido no Bairro ACDC!
 	"""
 	keyWait
 		any = false

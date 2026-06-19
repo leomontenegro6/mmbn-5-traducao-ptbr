@@ -61,7 +61,7 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ser maiores e mais
+	ficar maiores e mais
 	espetaculares do que
 	todos no mundo!
 	"""
@@ -95,8 +95,8 @@ script 5 mmbn5 {
 	clearMsg
 	"""
 	Faço o que for preciso
-	pra deixar a Velha Mina
-	maior!
+	pra dar mais vida pra
+	Velha Mina!
 	"""
 	keyWait
 		any = false
@@ -237,7 +237,7 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	Acho que não adianta
-	nada tentare resolver
+	nada tentar resolver
 	isso na conversa agora!
 	"""
 	keyWait

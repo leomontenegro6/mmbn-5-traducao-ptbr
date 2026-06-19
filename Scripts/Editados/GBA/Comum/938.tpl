@@ -7,7 +7,7 @@ script 0 mmbn5 {
 	"""
 	"Uma caixa que
 	detém as rochas
-	marca o local..."
+	marca o local"...
 	"""
 	keyWait
 		any = false

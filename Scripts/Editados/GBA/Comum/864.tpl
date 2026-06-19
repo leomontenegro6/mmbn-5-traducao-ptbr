@@ -5,16 +5,16 @@ script 0 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente restaurou
-	a rede que leva pra
-	Área SciLab,
+	A gente restaurou a
+	parte da Rede que leva
+	pra Área SciLab,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mas não deu pra gente
-	chegar na área ocupada.
+	mas não deu pra chegar
+	na área ocupada.
 	"""
 	keyWait
 		any = false
@@ -143,9 +143,7 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É aquele Navi com
-	quem a gente lutou
-	no CPU Esquilo!
+	Ah! O do CPU Esquilo!
 	"""
 	keyWait
 		any = false

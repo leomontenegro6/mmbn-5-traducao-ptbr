@@ -20,14 +20,14 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	Dispositivos estranhos,
-	organizados como
-	produtos em uma loja.
+	expostos como produtos
+	em uma loja.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A caixa tem uma tranca
+	Essa coisa tem uma tranca
 	eletrônica. Acho que dá
 	para se conectar nela!
 	"""
@@ -92,12 +92,12 @@ script 10 mmbn5 {
 	". "
 	waitSkip
 		frames = 30
-	"Bingo!!!"
+	"aqui!!!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
-	"Lan adquiriu:"
+	"Lan adquiriu: "
 	itemGive
 		item = 35
 		amount = 1
@@ -121,13 +121,12 @@ script 10 mmbn5 {
 		buffer = 0
 		item = 35
 	"""
-	" e
-	"
+	" e "
 	"""
 	printItem
 		buffer = 0
 		item = 37
-	"\"."
+	".\""
 	playerFinish
 	playerResetScene
 	keyWait
@@ -157,7 +156,7 @@ script 11 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	Esse depósito guarda
+	Esse mostruário guarda
 	dispostivos portáteis
 	de natureza ilícita.
 	"""

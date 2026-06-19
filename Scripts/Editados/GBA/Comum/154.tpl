@@ -57,7 +57,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	A Sala das Máquinas
+	A sala das máquinas
 	abriga uma variedade
 	de sistemas de controle.
 	"""
@@ -100,7 +100,7 @@ script 5 mmbn5 {
 	"."
 	waitSkip
 		frames = 30
-	"."
+	". "
 	waitSkip
 		frames = 30
 	"""
@@ -152,8 +152,8 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ela leva a um túnel
-	de inspeção.
+	Ela leva a um duto
+	de ventilação.
 	"""
 	keyWait
 		any = false

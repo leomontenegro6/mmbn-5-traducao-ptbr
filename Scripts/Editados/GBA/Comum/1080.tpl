@@ -9,7 +9,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	O que aconteceu com
-	o nosso outro colega?
+	nossos outros colegas?
 	"""
 	keyWait
 		any = false
@@ -22,7 +22,7 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Ele logo aparecerá...
+	Eles logo aparecerão...
 	"""
 	keyWait
 		any = false
@@ -115,9 +115,8 @@ script 7 mmbn5 {
 		mugshot = GyroMan
 	msgOpen
 	"""
-	Se VOCÊ tá dizendo
-	isso, ele deve ser
-	mesmo...
+	Se VOCÊ tá dizendo isso,
+	ele deve ser mesmo...
 	"""
 	keyWait
 		any = false
@@ -379,7 +378,7 @@ script 30 mmbn5 {
 	msgOpen
 	"""
 	O que aconteceu com
-	o nosso outro colega?
+	nossos outros colegas?
 	"""
 	keyWait
 		any = false
@@ -392,7 +391,7 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Ele logo aparecerá...
+	Eles logo aparecerão...
 	"""
 	keyWait
 		any = false
@@ -433,7 +432,7 @@ script 34 mmbn5 {
 		mugshot = TomahawkMan
 	msgOpen
 	"""
-	Bora botar pra querar!
+	Bora botar pra quebrar!
 	Fiquem espertos pro meu
 	Corte da Machadinha!!
 	"""

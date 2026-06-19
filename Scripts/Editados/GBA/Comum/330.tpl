@@ -200,14 +200,14 @@ script 40 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Encontro com uma garota?"
+	"Programa com a\nnamoradinha?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotShow
 		mugshot = Lan
 	"""
-	Não! É a trabalho,
+	N-não! É a trabalho,
 	o negócio! Só trabalho!
 	"""
 	keyWait
@@ -276,8 +276,8 @@ script 40 mmbn5 {
 	clearMsg
 	"""
 	Só espero que deixe o
-	seu trabalho um pouqui-
-	nho mais interessante.
+	seu trabalho um pouquinho
+	mais interessante.
 	"""
 	keyWait
 		any = false

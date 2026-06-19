@@ -233,7 +233,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"E... espera"
+	"E... espera!"
 	keyWait
 		any = false
 	end
@@ -657,8 +657,8 @@ script 22 mmbn5 {
 	msgOpen
 	"""
 	Justo quando achamos
-	que o pior do dia ia
-	ser aquele estranho,
+	que o pior do dia ia ser
+	aquele esquisitão lá,
 	"""
 	keyWait
 		any = false

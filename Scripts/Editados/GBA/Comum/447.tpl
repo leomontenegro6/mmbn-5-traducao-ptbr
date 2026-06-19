@@ -37,7 +37,7 @@ script 0 mmbn5 {
 	"""
 	Então, é você quem
 	está herdando e
-	executando os desejos
+	realizando os desejos
 	"""
 	keyWait
 		any = false
@@ -76,7 +76,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = OfficialNavi
-	"É seu agora."
+	"É sua agora."
 	keyWait
 		any = false
 	clearMsg
@@ -84,8 +84,8 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	"""
 	Será que isto é
-	uma chave para a
-	Visão Passada?
+	uma chave para
+	uma Visão Passada?
 	"""
 	keyWait
 		any = false
@@ -117,7 +117,7 @@ script 0 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Hum... Opa!"
+	"Hum... Ah!"
 	keyWait
 		any = false
 	clearMsg
@@ -144,9 +144,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Parecem ser ruínas de
-	dados de muito tempo no
-	passado.
+	O Navi parece ser
+	dados-ruína de muito
+	tempo atrás.
 	"""
 	keyWait
 		any = false

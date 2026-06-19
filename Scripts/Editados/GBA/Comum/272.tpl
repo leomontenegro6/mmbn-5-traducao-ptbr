@@ -154,7 +154,7 @@ script 30 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Mom
-	"... Sim."
+	"... Certo."
 	keyWait
 		any = false
 	end
@@ -163,7 +163,7 @@ script 31 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Volte logo..."
+	"Volta logo..."
 	keyWait
 		any = false
 	end

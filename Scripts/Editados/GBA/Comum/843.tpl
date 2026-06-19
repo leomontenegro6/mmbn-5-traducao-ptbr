@@ -21,14 +21,14 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Pare já com isso!
+	Por favor, pare!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ai...
-	Ela não me obedece!
+	Não...
+	Ele não me obedece!
 	"""
 	keyWait
 		any = false
@@ -117,7 +117,7 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu devo ter o dobro da
+	Devo ter o dobro da
 	sua idade, então, mais
 	respeito! Além disso...
 	"""
@@ -126,7 +126,7 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	o que você tá fazendo
-	aqui? Eu tô estravazando
+	aqui? Eu tô extravasando
 	estresse, tá bom?!
 	"""
 	keyWait

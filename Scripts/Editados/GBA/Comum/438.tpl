@@ -24,7 +24,7 @@ script 1 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	E estrada verde e
+	A estrada verde e
 	ampla sobre a qual
 	você está agora
 	"""
@@ -64,8 +64,7 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Será que é na Área
-	ACDC 2?
+	Hã? É na Área ACDC 2?
 	"""
 	keyWait
 		any = false
@@ -73,7 +72,7 @@ script 2 mmbn5 {
 	"""
 	É só seguir a rua
 	principal que você
-	chega na Área ACDC 2.
+	chega nela.
 	"""
 	keyWait
 		any = false
@@ -84,7 +83,7 @@ script 3 mmbn5 {
 		mugshot = NormalNaviPink
 	msgOpen
 	"""
-	Eita! Tô perdido!
+	Eita! Tô perdida!
 	Pra que lado fica a
 	rua principal mesmo?!
 	"""
@@ -147,6 +146,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = Roll
 	"""
+	Legal.
 	O GutsMan e o Glide
 	tavam lá na Área ACDC 2.
 	"""

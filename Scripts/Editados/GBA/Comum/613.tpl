@@ -526,7 +526,7 @@ script 17 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Tu já éra!"
+	"Tu já era!"
 	keyWait
 		any = false
 	flagSet

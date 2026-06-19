@@ -151,7 +151,7 @@ script 11 mmbn5 {
 	"""
 	Argh, quanto poder de
 	fogo! Não dá pra eu
-	passar por isso.
+	passar por isso!
 	"""
 	keyWait
 		any = false

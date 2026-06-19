@@ -98,8 +98,8 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Não se entregue
-	pra alma maligna!!!
+	Não se deixa vencer
+	pela alma maligna!!!
 	"""
 	keyWait
 		any = false
@@ -199,7 +199,7 @@ script 13 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 354
-	"Clic!!!"
+	"Tchlic!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -329,7 +329,7 @@ script 17 mmbn5 {
 		jumpIfTeamColonel = 53
 	clearMsg
 	mugshotHide
-	"Lan "
+	"Lan"
 	waitSkip
 		frames = 30
 	"."
@@ -344,7 +344,7 @@ script 17 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"E-essa voz."
+	"E-essa voz"
 	waitSkip
 		frames = 30
 	"."
@@ -736,7 +736,7 @@ script 38 mmbn5 {
 	msgOpen
 	"""
 	Unck...
-	O meu MegaAtirador
+	O meu MegaTiro
 	não quer disparar...
 	"""
 	keyWait
@@ -839,7 +839,7 @@ script 44 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"MegaAtirador!!!"
+	"MegaTiro!!!"
 	keyWait
 		any = false
 	end
@@ -909,7 +909,7 @@ script 48 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"MegaAtirador!!!"
+	"MegaTiro!!!"
 	keyWait
 		any = false
 	end

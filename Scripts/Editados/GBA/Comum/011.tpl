@@ -13,7 +13,7 @@ script 2 mmbn5s {
 	end
 }
 script 3 mmbn5s {
-	"Sr.Pasta"
+	"SrPasta"
 	end
 }
 script 4 mmbn5s {

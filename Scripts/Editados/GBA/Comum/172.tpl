@@ -8,7 +8,7 @@ script 0 mmbn5 {
 	msgOpen
 	msgOpen
 	"""
-	Esse sistema desliga
+	Esse sistema controla
 	a esteira das pedras.
 	"""
 	keyWait
@@ -71,7 +71,7 @@ script 2 mmbn5 {
 	soundPlay
 		track = 212
 	"""
-	A esteira das
+	O suprimento de
 	pedras parou!
 	"""
 	keyWait
@@ -81,7 +81,7 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	A esteira das pedras
+	O suprimento das pedras
 	parou, graças à Chave
 	de Parada.
 	"""

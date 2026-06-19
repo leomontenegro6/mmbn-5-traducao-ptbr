@@ -635,7 +635,7 @@ script 35 mmbn5 {
 	"""
 	Patrulhe a Área ACDC e
 	confirme que todos da
-	Nebula se foram.
+	Nebula se foram mesmo.
 	"""
 	keyWait
 		any = false
@@ -816,8 +816,8 @@ script 45 mmbn5 {
 	clearMsg
 	"""
 	Patrulhe a Área ACDC e
-	confirme que todos
-	da Nebula se foram.
+	confirme que todos da
+	Nebula se foram mesmo.
 	"""
 	keyWait
 		any = false

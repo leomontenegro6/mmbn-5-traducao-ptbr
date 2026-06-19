@@ -35,8 +35,8 @@ script 2 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan, bora
-	seguir em frente.
+	MegaMan,
+	bora mais adiante.
 	"""
 	keyWait
 		any = false
@@ -44,7 +44,7 @@ script 2 mmbn5 {
 	"""
 	Vai que a gente acha
 	alguma pista, né?
-	Se a gente der sorte...
+	Se a gente der sorte.
 	"""
 	keyWait
 		any = false

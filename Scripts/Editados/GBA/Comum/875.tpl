@@ -56,7 +56,7 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	... Ah!
-	MegaMan, pra trás!
+	MegaMan, saia daí!
 	"""
 	keyWait
 		any = false
@@ -213,7 +213,7 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	... Ah!
-	MegaMan, para trás!
+	MegaMan, saia daí!
 	"""
 	keyWait
 		any = false
@@ -358,7 +358,7 @@ script 25 mmbn5 {
 		value = 3
 	"""
 	A alma de MegaMan
-	ressou com a de
+	ressoou com a de
 	GyroMan!
 	"""
 	keyWait
@@ -436,7 +436,7 @@ script 26 mmbn5 {
 		value = 3
 	"""
 	A alma de MegaMan
-	ressou com a de
+	ressoou com a de
 	ShadowMan!
 	"""
 	keyWait

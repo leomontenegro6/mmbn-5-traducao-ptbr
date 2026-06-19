@@ -50,7 +50,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A LETRA DO MEIO
+	A LETRA DA DIREITA
 	COMPLETA ESTE NOME DE
 	VEÍCULO: "_ATINETE".
 	"""
@@ -204,7 +204,7 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A LETRA DO MEIO
+	A LETRA DA DIREITA
 	COMPLETA ESTE NOME DE
 	VEÍCULO: "_ATINETE".
 	"""

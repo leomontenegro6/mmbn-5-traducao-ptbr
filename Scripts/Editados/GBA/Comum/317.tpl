@@ -383,7 +383,7 @@ script 51 mmbn5 {
 	msgOpen
 	"""
 	Vamos proteger o SciLab
-	até você voltar.
+	até vocês voltarem.
 	"""
 	keyWait
 		any = false

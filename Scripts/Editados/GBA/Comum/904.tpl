@@ -441,7 +441,7 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E após liberar a Área
+	E, após liberar a Área
 	Endo, forçaremos o
 	que restar da Nebula
 	"""
@@ -1085,7 +1085,7 @@ script 44 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E após liberar a Área
+	E, após liberar a Área
 	Endo, forçaremos o
 	que restar da Nebula
 	"""

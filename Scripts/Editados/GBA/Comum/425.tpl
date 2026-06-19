@@ -44,8 +44,8 @@ script 20 mmbn5 {
 	msgOpen
 	"""
 	Eu não me incomodo de
-	fazer manutenção, mas
-	dá um medo aqui...
+	fazer manutenção, mas...
+	esta altura toda...
 	"""
 	keyWait
 		any = false

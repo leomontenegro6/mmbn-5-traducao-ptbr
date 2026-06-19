@@ -17,7 +17,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	mugshotHide
 	msgOpen
-	"Terminamos!"
+	"A gente já era!"
 	keyWait
 		any = false
 	end

@@ -57,9 +57,9 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O sistema de comunica-
-	ções na Área Endo 3
-	pode ser a causa.
+	O sistema de comunicações
+	na Área Endo 3 pode ser
+	a causa.
 	"""
 	keyWait
 		any = false

@@ -52,9 +52,9 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A NEBULA ESTÁ NO
-	CONTROLE DA ÁREA
-	ENDO 5! CUIDADO!
+	A ÁREA ENDO 5 ESTÁ SOB
+	O CONTROLE DA NEBULA!
+	TOME MUITO CUIDADO!
 	"""
 	keyWait
 		any = false

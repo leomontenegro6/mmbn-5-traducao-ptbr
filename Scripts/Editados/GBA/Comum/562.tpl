@@ -47,9 +47,9 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Iuhú! Eu sou o primeiro
-	a vir aqui desde que foi
-	libertada! Legal!
+	Iurrú! Sou o primeiro
+	a vir aqui desde que a
+	área foi libertada! Aê!
 	"""
 	keyWait
 		any = false
@@ -90,9 +90,9 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	DÁ MUITO MEDO EM
-	PENSAR NO QUE ESTÁ
-	HAVENDO POR AÍ.
+	DÁ MUITO MEDO PENSAR
+	NO QUE ESTÁ HAVENDO
+	POR AÍ.
 	"""
 	keyWait
 		any = false

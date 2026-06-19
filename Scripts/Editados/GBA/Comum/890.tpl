@@ -16,7 +16,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O que é isso?!"
+	"O que foi isso?!"
 	keyWait
 		any = false
 	end
@@ -230,8 +230,7 @@ script 13 mmbn5 {
 	clearMsg
 	"""
 	festa estão concluídos.
-	Sigam para o Salão de
-	Fiesta.
+	Sigam para o Salão Fiesta.
 	"""
 	keyWait
 		any = false

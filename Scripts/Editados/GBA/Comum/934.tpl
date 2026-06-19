@@ -24,9 +24,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eles libertam áreas
-	dela que a Nebula
-	capturou.
+	Eles libertam áreas dela
+	que a Nebula capturou.
 	"""
 	keyWait
 		any = false
@@ -253,15 +252,14 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	E... não conta isso nem
-	pro Dex nem pra Yai,
-	OK?
+	pro Dex nem pra Yai, OK?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Nunca que aqueles dois
-	iam ficar fora disso
+	iam ficar de fora disso
 	se soubessem.
 	"""
 	keyWait
@@ -325,9 +323,9 @@ script 16 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Cê tá certo, não dá
-	pra gente ficar parado
-	sem fazer nada...
+	Mas cê tava certo. A
+	gente não suporta ficar
+	parado sem fazer nada...
 	"""
 	keyWait
 		any = false
@@ -467,7 +465,7 @@ script 24 mmbn5 {
 	clearMsg
 	"""
 	Por que é que você
-	quer saber sobre isso?
+	quer saber sobre ela?
 	"""
 	keyWait
 		any = false
@@ -494,17 +492,16 @@ script 25 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu preciso dele pra
-	curar a doença do meu
-	avô, sabe?
+	Preciso dele pra
+	tratar a doença
+	do meu avô, sabe?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Enfim, você vai me
-	contar onde fica,
-	não vai?!
+	Enfim, você vai me contar
+	onde fica, não vai?!
 	"""
 	keyWait
 		any = false
@@ -901,9 +898,8 @@ script 47 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você tá pensando
-	em em fazer uma
-	matéria lá, não tá?
+	Você tá pensando em fazer
+	uma matéria lá, não tá?
 	"""
 	keyWait
 		any = false
@@ -1187,7 +1183,7 @@ script 65 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Beleza! Até depois!"
+	"Beleza!\nAté depois, gente!"
 	keyWait
 		any = false
 	end

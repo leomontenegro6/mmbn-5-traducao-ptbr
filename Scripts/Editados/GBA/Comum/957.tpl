@@ -280,7 +280,7 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A Nebula está plantando
+	A Nebula plantou
 	microsservidores
 	"""
 	keyWait

@@ -121,7 +121,7 @@ script 5 mmbn5 {
 	clearMsg
 	"""
 	Dito isso, a gente
-	precisa do ProtoMan
+	precisa do Colonel
 	"""
 	keyWait
 		any = false
@@ -193,7 +193,7 @@ script 9 mmbn5 {
 	"""
 	Não tem inimigo que
 	a gente não consiga
-	vencer juntos! Coaxo!
+	vencer juntos! Croac!
 	"""
 	keyWait
 		any = false

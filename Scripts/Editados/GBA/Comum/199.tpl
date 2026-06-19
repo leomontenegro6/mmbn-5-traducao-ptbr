@@ -12,7 +12,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	Aliás, não...
-	Há dois bebês chorando.
+	São dois bebês chorando.
 	"""
 	keyWait
 		any = false
@@ -117,19 +117,20 @@ script 5 mmbn5 {
 }
 script 6 mmbn5 {
 	msgOpen
-	"Um duto..."
+	"São dutas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	De dia, é um brinquedo
-	para as crianças.
+	De dia, servem de
+	brinquedo para as
+	crianças.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	De noite, é uma cama
+	De noite, são camas
 	para cães vira-lata.
 	"""
 	keyWait

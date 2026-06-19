@@ -46,7 +46,7 @@ script 3 mmbn5 {
 	"""
 	Ah, então, você quer
 	que eu sirva de escudo
-	pra metralhadora?
+	pras metralhadoras?
 	"""
 	keyWait
 		any = false
@@ -220,7 +220,7 @@ script 13 mmbn5 {
 	msgOpen
 	"""
 	Agora!
-	StepSwrd!
+	Avanço da Espada!
 	"""
 	keyWait
 		any = false
@@ -375,7 +375,7 @@ script 25 mmbn5 {
 	"""
 	KnightMan...
 	O Navi da Princesa
-	Pride, de Brilhândia!
+	Pride, da Brilholândia!
 	"""
 	keyWait
 		any = false
@@ -437,8 +437,8 @@ script 29 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Vamos destruir a
-	metralhadora enquanto
+	Vamos destruir as
+	metralhadoras enquanto
 	você segura os tiros!
 	"""
 	keyWait
@@ -488,7 +488,7 @@ script 33 mmbn5 {
 	msgOpen
 	"""
 	Agora!
-	ScrenDiv!
+	Investida Visor!
 	"""
 	keyWait
 		any = false

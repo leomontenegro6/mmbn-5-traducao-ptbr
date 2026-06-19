@@ -23,7 +23,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Descubra que é esse
+	Descubra quem é esse
 	tal Senhor do Caos.
 	"""
 	keyWait
@@ -79,7 +79,7 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Descubra que é esse
+	Descubra quem é esse
 	tal Senhor do Caos.
 	"""
 	keyWait

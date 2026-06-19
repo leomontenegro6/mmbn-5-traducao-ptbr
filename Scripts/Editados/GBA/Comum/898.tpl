@@ -29,7 +29,7 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	Então prepare-se para
-	a derrota! Eu vou
+	a derrota! Eu irei
 	reaver o sistema!
 	"""
 	keyWait

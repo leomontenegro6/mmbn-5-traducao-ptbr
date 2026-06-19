@@ -81,7 +81,7 @@ script 4 mmbn5 {
 	"""
 	Você precisa deletá-lo
 	para abrir a rota para
-	o Darkloide da área.
+	o Tenebroide da área.
 	"""
 	keyWait
 		any = false
@@ -133,7 +133,7 @@ script 6 mmbn5 {
 	"""
 	Tente abatê-los antes
 	da fase de ataque
-	dos Darkloides,
+	dos Tenebroides,
 	"""
 	keyWait
 		any = false
@@ -248,7 +248,7 @@ script 14 mmbn5 {
 	"""
 	Você precisa deletá-lo
 	para abrir a rota para
-	o Darkloide da área.
+	o Tenebroide da área.
 	"""
 	keyWait
 		any = false
@@ -300,7 +300,7 @@ script 16 mmbn5 {
 	"""
 	Tente abatê-los antes
 	da fase de ataque
-	dos Darkloides,
+	dos Tenebroides,
 	"""
 	keyWait
 		any = false

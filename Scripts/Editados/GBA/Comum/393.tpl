@@ -144,9 +144,8 @@ script 5 mmbn5 {
 	space
 		count = 1
 	"""
-	 OK
-	Conferindo número de
-	loteria! Bip Bip...
+	OK
+	(E/D: Cursor C/B: Nº)
 	"""
 	menuSelectShipCode
 		jumpIfCorrect = 7

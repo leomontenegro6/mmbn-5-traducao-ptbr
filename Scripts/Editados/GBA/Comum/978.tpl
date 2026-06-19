@@ -18,7 +18,7 @@ script 0 mmbn5 {
 	"""
 	a gente vai ter
 	que desativar essa
-	eletro-barreira.
+	eletrobarreira.
 	"""
 	keyWait
 		any = false
@@ -235,7 +235,7 @@ script 15 mmbn5 {
 	clearMsg
 	"""
 	teremos de desativar
-	essa eletro-barreira.
+	essa eletrobarreira.
 	"""
 	keyWait
 		any = false
@@ -356,7 +356,7 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É melhor o MagnetMan ir.
+	É melhor o KnightMan ir.
 	As habilidades de defesa
 	dele são excelentes.
 	"""

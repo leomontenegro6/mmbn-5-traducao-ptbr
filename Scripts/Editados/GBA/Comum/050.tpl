@@ -56,8 +56,8 @@ script 2 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 adquiriu
-	um chip:
+	 adquiriu um
+	chip: "
 	"""
 	printChip
 		buffer = 3
@@ -127,8 +127,8 @@ script 7 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 adquiriu
-	um chip:
+	 adquiriu um
+	chip: "
 	"""
 	printChip
 		buffer = 3
@@ -202,8 +202,8 @@ script 12 mmbn5 {
 		animation = 24
 	printCurrentNavi
 	"""
-	 adquiriu
-	um chip:
+	 adquiriu um
+	chip: "
 	"""
 	printChip
 		buffer = 3
@@ -602,7 +602,7 @@ script 42 mmbn5 {
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	"\nFragBugs!!!"
+	" FragBug(s)!!!"
 	keyWait
 		any = false
 	playerFinish
@@ -656,7 +656,7 @@ script 47 mmbn5 {
 		minLength = 0
 		padZeros = false
 		padLeft = false
-	"\nFragBugs!!!"
+	" FragBug(s)!!!"
 	keyWait
 		any = false
 	playerFinish

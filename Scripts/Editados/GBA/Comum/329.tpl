@@ -273,8 +273,8 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, aonde é que você
-	vai?
+	Lan, aonde é que
+	você PENSA que vai?
 	"""
 	keyWait
 		any = false

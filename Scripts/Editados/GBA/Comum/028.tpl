@@ -111,7 +111,7 @@ script 6 mmbn5 {
 		delay = 0
 	"""
 	Bumeran-
-	gue pela
+	gue pelo
 	campo
 	"""
 	keyWait
@@ -578,9 +578,9 @@ script 32 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sunshine
-	aparece
-	c/ botão
+	Aperte A
+	pra usar
+	Luz Sol
 	"""
 	keyWait
 		any = true
@@ -596,9 +596,9 @@ script 33 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sunshine
-	aparece
-	c/ botão
+	Aperte A
+	pra usar
+	Luz Sol
 	"""
 	keyWait
 		any = true
@@ -614,9 +614,9 @@ script 34 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Sunshine
-	aparece
-	c/ botão
+	Aperte A
+	pra usar
+	Luz Sol
 	"""
 	keyWait
 		any = true
@@ -2507,9 +2507,9 @@ script 140 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
+	Revida
+	vs.
 	Fogo
-	te
-	machuca
 	"""
 	keyWait
 		any = true
@@ -2525,9 +2525,9 @@ script 141 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
+	Revida
+	vs.
 	Água
-	te
-	machuca
 	"""
 	keyWait
 		any = true
@@ -2543,9 +2543,9 @@ script 142 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
+	Revida
+	vs.
 	Elet.
-	te
-	machuca
 	"""
 	keyWait
 		any = true
@@ -2561,9 +2561,9 @@ script 143 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
+	Revida
+	vs.
 	Madeira
-	te
-	machuca
 	"""
 	keyWait
 		any = true
@@ -2633,9 +2633,9 @@ script 147 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Fere
-	alvo que
-	se curam
+	Fere alvo
+	que se
+	cura
 	"""
 	keyWait
 		any = true
@@ -4308,9 +4308,9 @@ script 242 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3 bombas
-	à frente!
-	9 qdros
+	Bomba
+	3x3 a
+	3 qdros!
 	"""
 	keyWait
 		any = true
@@ -4326,9 +4326,9 @@ script 243 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3 bombas
-	à frente!
-	9 qdros
+	Bomba
+	3x3 a
+	3 qdros!
 	"""
 	keyWait
 		any = true
@@ -4344,9 +4344,9 @@ script 244 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	3 bombas
-	à frente!
-	9 qdros
+	Bomba
+	3x3 a
+	3 qdros!
 	"""
 	keyWait
 		any = true

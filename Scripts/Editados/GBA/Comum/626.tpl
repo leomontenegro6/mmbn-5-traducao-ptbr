@@ -15,14 +15,6 @@ script 0 mmbn5 {
 	"""
 	keyWait
 		any = false
-	clearMsg
-	"""
-	DEU MEDO, NÉ? EU
-	ASSUSTO QUALQUER
-	LADRÃO COM ESSA VOZ!
-	"""
-	keyWait
-		any = false
 	end
 }
 script 1 mmbn5 {
@@ -47,9 +39,9 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ESSE NEGÓCIO DE SIS-
-	TEMA 24 HORAS TÁ ME
-	CANSANDO FORTE...
+	ESSE NEGÓCIO DE
+	SISTEMA 24 HORAS TÁ
+	ME CANSANDO FORTE...
 	"""
 	keyWait
 		any = false

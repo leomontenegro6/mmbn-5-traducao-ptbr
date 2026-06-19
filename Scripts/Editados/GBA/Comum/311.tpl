@@ -26,9 +26,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu consigo me lembrar
-	de todos os códigos de
-	chips.
+	Eu consigo me lembrar de
+	todos os códigos de chips.
 	"""
 	keyWait
 		any = false
@@ -90,7 +89,7 @@ script 10 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"O quê?"
+	"O que foi?"
 	keyWait
 		any = false
 	clearMsg
@@ -131,8 +130,8 @@ script 10 mmbn5 {
 		mugshot = Raika
 	"""
 	Não é verdade.
-	Eu sou sempre assim
-	em Sharo.
+	Eu sou sempre assim,
+	é uma coisa de Sharo.
 	"""
 	keyWait
 		any = false
@@ -147,9 +146,9 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Enfim, eu tenho um tra-
-	balho pro SearchMan e
-	pras habilidades dele!
+	Enfim, eu tenho um
+	trabalho pro SearchMan
+	e pras habilidades dele!
 	"""
 	keyWait
 		any = false
@@ -645,8 +644,7 @@ script 45 mmbn5 {
 	msgOpen
 	"""
 	Você pode achar que eu
-	estou só rodopiando
-	aqui,
+	estou só rodopiando aqui,
 	"""
 	keyWait
 		any = false

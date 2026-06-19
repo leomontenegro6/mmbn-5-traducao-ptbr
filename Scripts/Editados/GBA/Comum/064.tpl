@@ -184,8 +184,8 @@ script 49 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos reunir os mate-
-	riais pra fogueira!
+	Vamos reunir os materiais
+	pra fogueira!
 	"""
 	keyWait
 		any = false
@@ -336,8 +336,8 @@ script 59 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos procurar com
-	atenção.
+	Vamos procurar
+	com atenção.
 	Cadê o Dex...?
 	"""
 	keyWait

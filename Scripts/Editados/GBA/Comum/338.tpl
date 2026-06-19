@@ -47,8 +47,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	Decidi levar uma vida
-	honesta daqui pra
-	frente.
+	honesta daqui pra frente.
 	"""
 	keyWait
 		any = false
@@ -184,9 +183,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = NebulaGoon
 	"""
-	Com isto, vai dar pra
-	eu me virar por um
-	tempo.
+	Com isto, vai dar pra eu
+	me virar por um tempo.
 	"""
 	keyWait
 		any = false
@@ -352,9 +350,9 @@ script 100 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O que eu, o Sr. Famoso,
-	estou fazendo aqui,
-	você pergunta?
+	Sr. Famoso?!
+	Mas é o que é que
+	você tá fazendo aqui?
 	"""
 	keyWait
 		any = false
@@ -708,9 +706,9 @@ script 110 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	O que eu, o Sr. Famoso,
-	estou fazendo aqui,
-	você pergunta?
+	Sr. Famoso?!
+	Mas é o que é que
+	você tá fazendo aqui?
 	"""
 	keyWait
 		any = false

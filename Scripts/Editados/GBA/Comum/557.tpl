@@ -24,9 +24,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	SERÁ QUE SE PREOCUPAM
-	COM OS EFEITOS DOS
-	PAINEIS DAS TREVAS?
+	SERÁ QUE TODOS TÊM
+	MEDO DOS EFEITOS DOS
+	QUADROS NEGROS?
 	"""
 	keyWait
 		any = false
@@ -73,7 +73,7 @@ script 10 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"EU TENHO TANTA COISA\nPARA FAZER!"
+	"ESTOM COM TANTA COISA\nPARA FAZER!"
 	keyWait
 		any = false
 	end

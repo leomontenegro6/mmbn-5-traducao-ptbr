@@ -56,7 +56,7 @@ script 10 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Chaud! Cê té legal?"
+	"Chaud! Cê tá legal?"
 	keyWait
 		any = false
 	clearMsg

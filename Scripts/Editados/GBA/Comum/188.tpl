@@ -8,7 +8,11 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Undernet à frente.\nAcesso proibido para\n o público geral.\""
+	"""
+	"Undernet à frente.
+	Acesso proibido para
+	o público geral."
+	"""
 	keyWait
 		any = false
 	end

@@ -299,9 +299,8 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Mas, afinal, quem
-	foi que mandou
-	aquele e-mail?
+	Mas, afinal, quem foi
+	que mandou esse e-mail?
 	"""
 	keyWait
 		any = false
@@ -310,5 +309,5 @@ script 26 mmbn5 {
 	end
 }
 script 30 mmbn5s {
-	"OBRIGADO POR JOGAR!!"
+	"OBRIGADO  POR  JOGAR!!!"
 }

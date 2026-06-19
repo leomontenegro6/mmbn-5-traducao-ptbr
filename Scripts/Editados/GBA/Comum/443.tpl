@@ -321,8 +321,7 @@ script 16 mmbn5 {
 	msgOpen
 	"""
 	Shh! Não fala comigo!
-	Vão descobrir onde eu
-	tô!
+	Vão descobrir onde eu tô!
 	"""
 	keyWait
 		any = false
@@ -418,7 +417,7 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Lan, já tá na hora da
+	Lan, pronto pra
 	missão de liberação?
 	"""
 	keyWait

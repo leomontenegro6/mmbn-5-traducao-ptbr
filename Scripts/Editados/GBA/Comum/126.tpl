@@ -71,8 +71,7 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	Arbusto aparado para
-	se assemelhar a um
-	urso.
+	se assemelhar a um urso.
 	"""
 	keyWait
 		any = false
@@ -114,8 +113,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Essa árvore foi
-	aparada para parecer
+	Esse arbusto foi
+	aparado para parecer
 	um dinossauro.
 	"""
 	keyWait

@@ -91,7 +91,7 @@ script 5 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	A eletro-barreira
+	A eletrobarreira
 	foi desativada!
 	"""
 	keyWait
@@ -557,7 +557,7 @@ script 41 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	A eletro-barreira
+	A eletrobarreira
 	foi desativada!
 	"""
 	keyWait

@@ -82,7 +82,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Bora achar o Chaud!"
+	"Bora falar com o Chaud!"
 	keyWait
 		any = false
 	end
@@ -283,8 +283,7 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Já tá na hora da gente
-	ir!
+	Já é hora da gente ir!
 	Se despede da sua mãe!
 	"""
 	keyWait

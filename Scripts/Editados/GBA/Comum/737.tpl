@@ -14,7 +14,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	TEM MUITAS COISAS
-	ESCRITAS NESTE FÓRUM.
+	ESCRITAS AQUI.
 	"""
 	keyWait
 		any = false

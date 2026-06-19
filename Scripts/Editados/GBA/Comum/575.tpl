@@ -107,8 +107,8 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	Agora cês sabem o
-	quanto a vida é
-	hipócrita!
+	quanto a vida de
+	vocês é hipócrita!
 	"""
 	keyWait
 		any = false
@@ -148,8 +148,8 @@ script 30 mmbn5 {
 	clearMsg
 	"""
 	Agora cês sabem o
-	quanto a vida é
-	hipócrita!
+	quanto a vida de
+	vocês é hipócrita!
 	"""
 	keyWait
 		any = false

@@ -92,9 +92,9 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ele é capaz de contro-
-	lar remotamente todos
-	os utensílios da casa.
+	Ele é capaz de controlar
+	remotamente todos os
+	utensílios da casa.
 	"""
 	keyWait
 		any = false
@@ -215,7 +215,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Esta casinha de\ncachorro"
+	"Essa casinha de\ncachorro"
 	waitSkip
 		frames = 30
 	"."
@@ -229,13 +229,13 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Tem alguma coisa
+	Tem uma coisa
 	escrita nela!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"\"O Gáu está... ... limpa\no ar na mina de\ncarvão da ilha..."
+	"\"O Gáu está... ... filtra\no ar na mina de\ncarvão da ilha..."
 	keyWait
 		any = false
 	clearMsg
@@ -244,8 +244,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Foi escrito há muito
-	tempo e está difícil
+	Foi escrito faz muito
+	tempo, e tá super difícil
 	de ler.
 	"""
 	keyWait
@@ -294,7 +294,7 @@ script 14 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"\"O Gáu está... ... limpa\no ar na mina de\ncarvão da ilha..."
+	"\"O Gáu está... ... filtra\no ar na mina de\ncarvão da ilha..."
 	keyWait
 		any = false
 	clearMsg
@@ -303,7 +303,7 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	foi escrito com
+	Foi escrito com
 	pincel atômico.
 	"""
 	keyWait

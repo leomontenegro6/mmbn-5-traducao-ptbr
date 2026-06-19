@@ -68,8 +68,8 @@ script 2 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Uf. Estou pegando tantas
-	bebidas saudáveis aqui.
+	Uf. Eu não paro de
+	comprar energéticos aqui.
 	Ando tão cansado...
 	"""
 	keyWait
@@ -96,12 +96,12 @@ script 2 mmbn5 {
 	". "
 	wait
 		frames = 15
-	"Mas\n"
+	"Mas "
 	wait
 		frames = 15
 	"""
-	eu queria TANTO ir
-	pra casa dormir...
+	eu queria TANTO
+	ir pra casa dormir...
 	"""
 	keyWait
 		any = false
@@ -383,9 +383,8 @@ script 35 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	A página do SciLab
-	está sob ataque da
-	Nebula.
+	A página do SciLab está
+	sob ataque da Nebula.
 	"""
 	keyWait
 		any = false

@@ -117,9 +117,6 @@ script 3 mmbn5 {
 			jump = 4,
 			jump = continue
 		]
-	keyWait
-		any = false
-	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
@@ -148,7 +145,7 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu fico pensando nisso
+	Fico pensando nisso
 	a noite inteira.
 	Me tira o sono!
 	"""
@@ -422,7 +419,7 @@ script 31 mmbn5 {
 	clearMsg
 	"""
 	Saco...
-	Ainda vai falta muito
+	Ainda falta muito
 	pro jantar?
 	"""
 	keyWait

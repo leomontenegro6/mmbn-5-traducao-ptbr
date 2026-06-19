@@ -63,14 +63,14 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	Que inveja do pessoal
-	do SciLab, com o parque
-	lindo deles.
+	do SciLab, com este
+	parque lindo deles.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Acho que eu vou legar
+	Acho que eu vou largar
 	meu emprego e tentar
 	uma vaga no SciLab!
 	"""
@@ -235,9 +235,9 @@ script 30 mmbn5 {
 		mugshot = BusinessMan
 	msgOpen
 	"""
-	Creio que esse monumen-
-	to represente o grandi-
-	oso poder dos chips.
+	Creio que este monumento
+	represente o grandioso
+	poder dos chips.
 	"""
 	keyWait
 		any = false
@@ -377,7 +377,7 @@ script 43 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	mas quando começa
+	mas, quando começa
 	a NetLuta, ele se
 	transforma, sei lá!
 	"""

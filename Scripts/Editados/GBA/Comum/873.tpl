@@ -325,7 +325,7 @@ script 19 mmbn5 {
 	clearMsg
 	"""
 	Sabe, aquela rota que
-	vocês não conseguiram
+	vocês não conseguiam
 	atravessar.
 	"""
 	keyWait

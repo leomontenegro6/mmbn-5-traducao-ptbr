@@ -22,9 +22,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	A luz difusa das velas
-	alimenta o clima da
-	sala.
+	A luz difusa da vela
+	alimenta o clima da sala.
 	"""
 	keyWait
 		any = false

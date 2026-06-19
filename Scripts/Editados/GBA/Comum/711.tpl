@@ -113,7 +113,7 @@ script 5 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Putz..."
+	"Falou..."
 	keyWait
 		any = false
 	clearMsg

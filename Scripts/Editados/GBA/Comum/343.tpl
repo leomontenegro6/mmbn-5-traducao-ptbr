@@ -225,9 +225,9 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Os dados na Loja do
-	Higsby, somados, dão
-	que número?
+	O número de cima dos
+	dados na Loja do Higsby,
+	somados, dão que número?
 	"""
 	keyWait
 		any = false
@@ -307,7 +307,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" HoodMan\n"
+	" PridMan\n"
 	option
 		brackets = 0
 		left = 1
@@ -316,7 +316,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" WoodMan\n"
+	" CridMan\n"
 	option
 		brackets = 0
 		left = 2
@@ -1310,8 +1310,8 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Afinal de contas, eu sou
-	SOU o Questionário Rei!
+	Afinal de contas, eu SOU
+	o Questionário Rei!
 	"""
 	keyWait
 		any = false

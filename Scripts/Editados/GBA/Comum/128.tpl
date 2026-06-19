@@ -75,8 +75,8 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Uma foto
-	cuidadosamente exposta.
+	Uma foto cuidadosamente
+	exposta.
 	"""
 	keyWait
 		any = false
@@ -121,15 +121,14 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	Um escabelo
-	versátil.
+	Um escabelo versátil.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não tem sito muito
-	usado, ultimamente.
+	Não tem sido muito
+	usado ultimamente.
 	"""
 	keyWait
 		any = false
@@ -176,7 +175,7 @@ script 9 mmbn5 {
 	msgOpen
 	"""
 	Um pôster do
-	"Mestre Otenko."
+	"Mestre Otenko".
 	"""
 	keyWait
 		any = false
@@ -281,7 +280,7 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos sobrescever os
+	Sobrescever os
 	dados anteriores?
 	
 	"""
@@ -794,7 +793,7 @@ script 38 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Vamos sobrescever os
+	Sobrescever os
 	dados anteriores?
 	
 	"""
@@ -1014,7 +1013,7 @@ script 47 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Vamos sobrescever os
+	Sobrescever os
 	dados anteriores?
 	
 	"""

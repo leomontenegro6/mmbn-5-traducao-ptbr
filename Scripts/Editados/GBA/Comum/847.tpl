@@ -225,7 +225,7 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Té sentindo esse cheiro?
+	Tá sentindo esse cheiro?
 	É cheiro de desculpa
 	esfarrapada!
 	"""
@@ -252,7 +252,7 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	Hi hi! Finalmente, uma
-	chance de estravasar
+	chance de extravasar
 	um pouco de estresse!
 	"""
 	keyWait

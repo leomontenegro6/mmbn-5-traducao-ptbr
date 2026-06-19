@@ -472,9 +472,8 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A GENTE DEVIA ERA
-	USAR CORES MAIS
-	ESCURAS.
+	A GENTE DEVIA ERA USAR
+	CORES MAIS ESCURAS.
 	"""
 	keyWait
 		any = false

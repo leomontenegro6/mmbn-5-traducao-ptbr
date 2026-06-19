@@ -1577,7 +1577,7 @@ script 57 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nFragBugs!"
+	" FragBug(s)!"
 	playerFinish
 	keyWait
 		any = false
@@ -1783,7 +1783,7 @@ script 60 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nFragBugs!!!"
+	" FragBug(s)!!!"
 	playerFinish
 	keyWait
 		any = false
@@ -1989,7 +1989,7 @@ script 63 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\nFragBugs!!!"
+	" FragBug(s)!!!"
 	playerFinish
 	keyWait
 		any = false

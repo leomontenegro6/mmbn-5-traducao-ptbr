@@ -218,7 +218,7 @@ script 12 mmbn5 {
 	msgOpen
 	"""
 	Você quer que eu acabe
-	com esse sujeitinho aí?
+	com esses sujeitinhos aí?
 	"""
 	keyWait
 		any = false
@@ -310,7 +310,7 @@ script 17 mmbn5 {
 		mugshot = HeelNaviPurple
 	msgOpen
 	"""
-	D-Dr.Regal...
+	D-Dr. Regal...
 	Me perdoe...!
 	"""
 	keyWait

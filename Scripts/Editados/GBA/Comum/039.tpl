@@ -129,16 +129,16 @@ script 4 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Bom, eu vou só seleci-
-	onar chips "S", já que
-	não tem nenhum "*"!
+	Bom, eu vou só selecionar
+	chips "S", já que não
+	tem nenhum "*"!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ataca com o Area-
-	Grab e a WideSwrd!
+	Ataca com o AreaGrab
+	e a WideSwrd!
 	"""
 	keyWait
 		any = false
@@ -176,8 +176,7 @@ script 7 mmbn5 {
 	msgOpen
 	"""
 	Seleciona o AreaGrab!
-	Pra cancelar, aperte
-	"B".
+	Pra cancelar, aperte "B".
 	"""
 	keyWait
 		any = false
@@ -330,9 +329,8 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Agora a gente pode
-	avançar mais e
-	usar a WideSwrd!
+	Daí a gente vai poder
+	mais e usar a WideSwrd!
 	"""
 	keyWait
 		any = false

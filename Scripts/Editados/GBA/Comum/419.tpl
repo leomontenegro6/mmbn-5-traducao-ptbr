@@ -10,7 +10,7 @@ script 0 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Aquele holograma de
+	Este holograma de
 	samurai tem um visual
 	tão legal, né?
 	"""
@@ -80,9 +80,9 @@ script 11 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Aqui fica a Sala Crisân-
-	temo, segundo andar,
-	após a torre de menagem.
+	Aqui fica a Sala Crisânte-
+	mo, segundo andar, antes
+	da torre de menagem.
 	"""
 	keyWait
 		any = false

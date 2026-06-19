@@ -818,7 +818,7 @@ script 16 mmbn5 {
 	clearMsg
 	"""
 	Se o seu Navi estiver
-	agindo estranho, abra a
+	agindo estranho, veja a
 	Janela de Emoção.
 	"""
 	keyWait
@@ -863,7 +863,7 @@ script 17 mmbn5 {
 	clearMsg
 	"""
 	e disse: "Isso aí é
-	alguma pegadinha, ô
+	alguma pegadinha, ô,
 	palhaço?"
 	"""
 	keyWait
@@ -907,7 +907,7 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	mas eu sinto que o meu
+	mas sinto que o meu
 	Navi tem ficado mais
 	rude desde então.
 	"""
@@ -917,7 +917,7 @@ script 18 mmbn5 {
 	"""
 	E, no outro dia,
 	de repente, ele
-	teve um surto..
+	teve um surto...
 	"""
 	keyWait
 		any = false

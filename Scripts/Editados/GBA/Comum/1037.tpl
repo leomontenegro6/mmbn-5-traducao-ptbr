@@ -33,9 +33,7 @@ script 0 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	Olha, tem
-	postagem
-	nova!
+	Olha, tem postagem nova!
 	"""
 	keyWait
 		any = false
@@ -100,9 +98,8 @@ script 2 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	Olha, tem
-	postagem
-	nova!
+	Novas postagens
+	foram feitas!
 	"""
 	keyWait
 		any = false
@@ -153,9 +150,8 @@ script 4 mmbn5 {
 		type = 0
 	msgOpen
 	"""
-	Olha, tem
-	postagem
-	nova!
+	Novas postagens
+	foram feitas!
 	"""
 	keyWait
 		any = false

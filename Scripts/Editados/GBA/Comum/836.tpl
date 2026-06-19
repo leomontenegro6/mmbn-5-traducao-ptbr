@@ -33,7 +33,7 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	mugshotHide
 	msgOpen
-	"10 minuos depois..."
+	"10 minutos depois..."
 	keyWait
 		any = false
 	end

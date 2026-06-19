@@ -26,7 +26,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = BlueShirtBoy
 	"""
-	Tá esperando o quê?!
+	Sai da frente VOCÊ!
 	ANDA!
 	"""
 	keyWait
@@ -236,7 +236,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"O que houve?"
+	"O que houve comigo...?"
 	keyWait
 		any = false
 	end

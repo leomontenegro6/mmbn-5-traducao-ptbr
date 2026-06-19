@@ -112,9 +112,8 @@ script 20 mmbn5 {
 		mugshot = Man
 	msgOpen
 	"""
-	Eu não consegui achar
-	o meu PET que caiu no
-	mar.
+	Eu não consegui achar o
+	meu PET que caiu no mar.
 	"""
 	keyWait
 		any = false

@@ -137,7 +137,7 @@ script 15 mmbn5 {
 		mugshot = CloudMan
 	msgOpen
 	"""
-	Voltem logo aqui, ha ha!
+	Venham logo aqui, ha ha!
 	Vou receber vocês com
 	nuvens de tempestade!
 	"""

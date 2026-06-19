@@ -234,7 +234,7 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	ESTE É O COMPUTADOR
-	DA FORNALHA DA CASA
+	DA LAREIRA DA CASA
 	DA SRTA. YAI.
 	"""
 	keyWait

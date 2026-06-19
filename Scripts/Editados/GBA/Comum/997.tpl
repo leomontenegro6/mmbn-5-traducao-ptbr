@@ -7,13 +7,13 @@ script 0 mmbn5 {
 	"""
 	Hmmm... O chip na
 	segunda prateleira
-	desse guarda-chips...
+	desse porta-chips...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Olha só!
+	Ah, aqui!
 	É um interruptor!
 	"""
 	keyWait
@@ -30,7 +30,7 @@ script 1 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan puxou o
+	Lan apertou o
 	interruptor!!!
 	"""
 	keyWait

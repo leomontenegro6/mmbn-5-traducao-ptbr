@@ -49,8 +49,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Enfim, o Tuby tá com
-	tudo agora.
+	Enfim, este Tuby tá
+	com tudo agora.
 	Até em Ni-Hon!
 	"""
 	keyWait

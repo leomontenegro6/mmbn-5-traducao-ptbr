@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	Ah, não!
-	Outro desafio,
+	Fazer esse desafio
 	de novo, não!
 	"""
 	keyWait

@@ -50,7 +50,7 @@ script 2 mmbn5 {
 	clearMsg
 	"""
 	DE QUE ADIANTA CUIDAR
-	DESSE TIPO DE LIXO?!
+	DESTE TIPO DE LIXO?!
 	"""
 	keyWait
 		any = false

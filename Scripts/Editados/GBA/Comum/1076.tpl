@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = ShadeMan
 	msgOpen
 	"""
-	Não esperava que você
-	fosse chegar tão longe!
+	Não esperava que vocês
+	fossem chegar tão longe!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Bem-vindo ao festim
+	Bem-vindos ao festim
 	da escuridão!
 	"""
 	keyWait
@@ -50,8 +50,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Agora, deixe-me sentir
-	um gostinho do seu
+	Vamos, deixe-me
+	saborear esse seu
 	poder! Ha ha ha!
 	"""
 	keyWait

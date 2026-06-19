@@ -58,9 +58,9 @@ script 10 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Pode vir! Você será
-	só mais um arranhão
-	na minha lâmina!
+	Podem vir! Vocês serão
+	novos arranhões na
+	minha lâmina!
 	"""
 	keyWait
 		any = false
@@ -85,15 +85,16 @@ script 12 mmbn5 {
 	msgOpen
 	"""
 	Que energia poderosa
-	é essa que eu sinto
-	vindo de você...?
+	é essa que vocês
+	empunham...?!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É essa a sua ideia
-	de "poder da justiça"?
+	É aquilo que vocês
+	chamam de...
+	"poder da justiça"?
 	"""
 	keyWait
 		any = false

@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	DublSoul requires
-	the sacrifice of a
-	compatible chip.
+	A União de Alma requer
+	o sacrifício de um
+	chip compatível.
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sacrifice? You
-	mean I'll lose it?
+	Sacrifício?
+	Então eu perco ele?
 	"""
 	keyWait
 		any = false
@@ -32,25 +32,25 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	"""
-	Yep. Right now,
-	MegaMan can unite
-	with MagnSoul.
+	Aham. No momento,
+	o MegaMan pode se unir
+	à MagnAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	So,by sacrificing an
-	\[Elec\] chip,he can
-	use DublSoul.
+	Logo, ao sacrificar um
+	chip Elét., ele poderá
+	ativar a União de Alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's how to do it.
-	First,select an
-	\[Elec\] chip.
+	Vou mostrar como se faz.
+	Primeiro, selecione um
+	chip Elét.
 	"""
 	keyWait
 		any = false
@@ -61,8 +61,8 @@ script 3 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Then select the
-	Unite command.
+	Em seguida, selecione
+	o comando "Unir".
 	"""
 	keyWait
 		any = false
@@ -72,7 +72,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Try it,Lan."
+	"Vai lá, Lan."
 	keyWait
 		any = false
 	end
@@ -82,8 +82,8 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Let's practice by
-	selecting Thunder.
+	Pra praticar,
+	selecione o Thunder.
 	"""
 	keyWait
 		any = false
@@ -94,9 +94,9 @@ script 6 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	No,select Thunder.
-	Cancel and then
-	select again.
+	Não, selecione o Thunder.
+	Cancele e selecione de
+	novo.
 	"""
 	keyWait
 		any = false
@@ -107,8 +107,8 @@ script 7 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,you forgot the
-	Unite command.
+	Lan, você esqueceu
+	do comando "Unir".
 	"""
 	keyWait
 		any = false
@@ -119,8 +119,8 @@ script 8 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan,there's no
-	need to cancel.
+	Lan, não tem
+	pra que cancelar.
 	"""
 	keyWait
 		any = false
@@ -131,8 +131,8 @@ script 9 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Hey,wait a sec!
-	There's more.
+	Calma aí!
+	Ainda tem mais.
 	"""
 	keyWait
 		any = false
@@ -143,55 +143,53 @@ script 10 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	See? That's how a
-	DublChip is made.
-	Selecting OK will
+	Viu? É assim que se
+	usa um Chip de União.
+	Selecione "OK" pra,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now automatically
-	activate DublSoul.
-	MagnSoul has x2 Atk
+	automaticamente, ativar
+	a UniAlma. A MagnAlma
+	causa dano dobrado
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when using A Button
-	PwrAtk with an
-	\[Elec\] chip.
+	quando você segura e
+	solta "A" ao usar um
+	chip \[Elét\].
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Also,B Button + Left
-	can stop an enemy
-	that's in front of
+	Além disso, "B" +
+	Esquerda pode paralisar
+	um inimigo à sua frente,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	you and PwrAtk
-	with the B Button
+	e o ataque carregado
+	com o botão "B"
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	becomes a MagBolt
-	that pulls the enemy
-	to you!
+	se torna um MagBolt, que
+	puxa o alvo até você!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Let's give it try,
-	Lan!
+	Experimente, Lan!
 	"""
 	keyWait
 		any = false
@@ -202,47 +200,49 @@ script 11 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	That's DublSoul.
-	Mastering it will
-	make you stronger.
+	Essa é a União de Alma.
+	Dominá-la com certeza
+	vai te deixar mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,there are a
-	few restrictions
-	on uniting.
+	Contudo, a União
+	apresenta certas
+	restrições.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,you can't
-	sacrifice Regular
-	Chips.
+	Em primeiro lugar, não
+	é possível sacrificar
+	Chips Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Second,you can only
-	unite once with the
-	same soul in battle.
+	Em segundo, você só
+	pode se unir a cada
+	alma uma vez por luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Third,DublSoul only
-	lasts 3 turns.
+	E em terceiro, a
+	União de Alma só
+	dura três turnos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Consider this before
-	you use DublSoul.
+	Pense bem em tudo
+	isso antes de usar
+	esse novo poder.
 	"""
 	keyWait
 		any = false
@@ -252,7 +252,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"No need to cancel."
+	"Não precisa cancelar."
 	keyWait
 		any = false
 	end

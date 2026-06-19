@@ -83,8 +83,8 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O que aconteceu com a
-	sua atitude de sempre?
+	Cadê aquela animação
+	de sempre?
 	"""
 	keyWait
 		any = false
@@ -127,8 +127,8 @@ script 41 mmbn5 {
 		mugshot = Mayl
 	msgOpen
 	"""
-	Era pra gente ir pra
-	casa da Yai pra um
+	Eu e a Yai marcamos
+	dela vir aqui pra um
 	estudo em grupo,
 	"""
 	keyWait

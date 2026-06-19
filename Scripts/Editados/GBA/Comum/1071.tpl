@@ -147,9 +147,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então, a função desses
-	botões muda entre a luta
-	e a Tela de Customização.
+	Então, a os botões não
+	são usados pra Tela
+	Custom., e sim pra luta!
 	"""
 	keyWait
 		any = false
@@ -310,9 +310,9 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então, a função desses
-	botões muda entre a luta
-	e a Tela de Customização.
+	Então, a os botões não
+	são usados pra Tela
+	Custom., e sim pra luta!
 	"""
 	keyWait
 		any = false

@@ -119,16 +119,16 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	Ué...
-	O que aconteceu com
-	aquele samurai,
+	O que aconteceu
+	com esse samurai?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	o que tava de
-	armadura, com uma
-	katana?
+	Ele não tava com uma
+	armadura e uma katana
+	antes?
 	"""
 	keyWait
 		any = false

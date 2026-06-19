@@ -7,7 +7,7 @@ script 0 mmbn5 {
 	"Ah! "
 	wait
 		frames = 30
-	"\nDesculpa, desculpa!!"
+	"\nLicença, licença!!"
 	keyWait
 		any = false
 	end
@@ -70,7 +70,7 @@ script 4 mmbn5 {
 	"""
 	Eu não falei com ela,
 	mas vi ela entrando
-	correndo ali.
+	correndo aqui.
 	"""
 	keyWait
 		any = false
@@ -219,7 +219,7 @@ script 12 mmbn5 {
 	"""
 	Não acredito que você
 	não sabe...
-	Eles aparecem por lá!
+	Eles aparecem por aqui!
 	"""
 	keyWait
 		any = false
@@ -247,7 +247,7 @@ script 14 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Fantasmas!\n"
+	"Fantasmas!"
 	wait
 		frames = 20
 	"\nF・a・"
@@ -517,7 +517,7 @@ script 21 mmbn5 {
 	msgOpen
 	"""
 	... E, mesmo entendendo,
-	cê ainda vai entrar lá,
+	cê ainda vai entrar,
 	não vai?
 	"""
 	keyWait
@@ -568,7 +568,7 @@ script 24 mmbn5 {
 	"""
 	Se o lugar é sinistro
 	assim, então não podemos
-	deixar a Meddy lá.
+	deixar a Meddy aqui.
 	"""
 	keyWait
 		any = false
@@ -583,7 +583,7 @@ script 25 mmbn5 {
 	"""
 	Se o lugar é sinistro
 	assim, então não podemos
-	deixar o ToadMan lá.
+	deixar o ToadMan aqui.
 	"""
 	keyWait
 		any = false

@@ -65,22 +65,23 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos dar o
+	Vamos dar a
 	"
 	"""
 	printItem
 		buffer = 0
 		item = 1
 	"""
-	" pra ela!
+	" pra Navi!
 	Me conecta!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aperte "R"
-	pra conectar!
+	Aperte "R" na frente
+	do seu computador pra
+	me conectar!
 	"""
 	keyWait
 		any = false
@@ -145,7 +146,7 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos lá buscá-los!
+	Vamos chamar o pessoal!
 	Eles devem estar nas
 	casas deles!
 	"""
@@ -367,7 +368,7 @@ script 31 mmbn5 {
 	msgOpen
 	"""
 	Você deve tá cansado.
-	Já vai dormir?
+	Cama?
 	"""
 	keyWait
 		any = false

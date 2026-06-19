@@ -198,7 +198,7 @@ script 65 mmbn5 {
 		mugshot = Tesla
 	msgOpen
 	"""
-	Você? Usando ProtoMan?
+	Você? Usando o ProtoMan?
 	Nossa! O Chaud é cheio
 	de surpresas...
 	"""

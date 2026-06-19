@@ -103,7 +103,7 @@ script 0 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	"\"."
+	".\""
 	keyWait
 		any = false
 	end
@@ -170,7 +170,7 @@ script 1 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	"\"."
+	".\""
 	playerFinish
 	playerResetObject
 	keyWait
@@ -210,7 +210,7 @@ script 2 mmbn5 {
 	printCode
 		buffer = 0
 		code = *
-	"\"."
+	".\""
 	keyWait
 		any = false
 	clearMsg

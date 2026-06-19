@@ -25,9 +25,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Pareciam estar escavan-
-	do esta parte quando a
-	mina foi fechada.
+	Pareciam estar escavando
+	esta parte quando a mina
+	foi fechada.
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	Aqui há uma pá
-	abadonada.
+	abandonada.
 	"""
 	keyWait
 		any = false

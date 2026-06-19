@@ -42,9 +42,9 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	SERÁ QUE SE PREOCUPAM
-	COM OS EFEITOS DOS
-	PAINEIS DAS TREVAS?
+	SERÁ QUE ESTÃO TODOS
+	COM MEDO DOS EFEITOS
+	DOS QUADROS NEGROS?
 	"""
 	keyWait
 		any = false

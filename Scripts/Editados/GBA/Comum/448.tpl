@@ -77,7 +77,7 @@ script 1 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"o \""
+	"a \""
 	printItem
 		buffer = 0
 		item = 9
@@ -162,15 +162,14 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Tome, o
-	"
+	Tome, a "
 	"""
 	printItem
 		buffer = 0
 		item = 9
 	"""
 	"
-	é todo seu!
+	é toda sua!
 	"""
 	keyWait
 		any = false
@@ -245,7 +244,7 @@ script 4 mmbn5 {
 	msgOpen
 	"""
 	Oi, rapaz.
-	Vai comprar o meu
+	Vai comprar a minha
 	"
 	"""
 	printItem

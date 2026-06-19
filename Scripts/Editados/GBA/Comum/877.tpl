@@ -302,7 +302,7 @@ script 17 mmbn5 {
 	"""
 	O programa de sono que
 	usamos era um dos mais
-	poderosos que existe,
+	potentes que existe,
 	"""
 	keyWait
 		any = false

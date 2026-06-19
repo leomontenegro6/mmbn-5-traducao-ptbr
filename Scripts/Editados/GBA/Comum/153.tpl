@@ -39,9 +39,8 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Tudo bem mesmo tomar
-	uma bebida tão azul
-	assim?
+	Tudo bem mesmo tomar uma
+	bebida tão azul assim?
 	"""
 	keyWait
 		any = false
@@ -94,7 +93,7 @@ script 5 mmbn5 {
 	"""
 	O estrondo das máquinas
 	pode ser ouvido através
-	do duto de ventilação.
+	deste duto de ventilação.
 	"""
 	keyWait
 		any = false

@@ -50,7 +50,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"3, 2, 1, VAI!"
+	"3, 2, 1, DECOLAR!"
 	keyWait
 		any = false
 	end

@@ -66,7 +66,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Que incrível, Higsby"
+	"Que incrível, Higsby!"
 	keyWait
 		any = false
 	clearMsg
@@ -109,7 +109,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Valeu, Higsby!"
+	"Valeu!"
 	keyWait
 		any = false
 	clearMsg
@@ -174,8 +174,8 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Beleza, agora, eu vou
-	falar com o Chaud!
+	Beleza, agora, eu
+	vou chamar o Chaud!
 	"""
 	keyWait
 		any = false
@@ -190,8 +190,8 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Beleza, agora, eu vou
-	falar com o Baryl!
+	Beleza, agora, eu
+	vou chamar o Baryl!
 	"""
 	keyWait
 		any = false
@@ -324,9 +324,8 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	pra contar pra ela
-	como chegava na
-	Undernet!
+	pra contar pra ela como
+	chegava na Undernet!
 	"""
 	keyWait
 		any = false

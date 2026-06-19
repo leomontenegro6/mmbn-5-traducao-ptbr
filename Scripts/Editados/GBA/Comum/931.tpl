@@ -314,7 +314,7 @@ script 19 mmbn5 {
 	"""
 	Vamos, MagnetMan,
 	já chega. É melhor
-	nos desconectarmos.
+	desconectar.
 	"""
 	keyWait
 		any = false
@@ -833,7 +833,7 @@ script 55 mmbn5 {
 	"""
 	deixarei a liderança
 	com o ProtoMan e lutarei
-	como um soldado normal.
+	como um soldado comum.
 	"""
 	keyWait
 		any = false

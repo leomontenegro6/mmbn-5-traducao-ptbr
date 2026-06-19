@@ -18,7 +18,8 @@ script 0 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	EU ABRO A PORTA PARA
+	EU POSSUO O PODER DE
+	ABRIR O PORTAL PARA
 	O MUNDO DAS TREVAS...
 	"""
 	keyWait
@@ -32,9 +33,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	VOCÊ DEVE MOSTRAR O
-	PODER DE VENCER AS
-	TREVAS
+	PARA TAL, VOCÊ DEVE
+	MOSTRAR O PODER DE
+	VENCER AS TREVAS
 	"""
 	keyWait
 		any = false
@@ -47,9 +48,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	QUER QUE EU ABRA A
-	PORTA PARA O MUNDO
-	DAS TREVAS?
+	SÓ ENTÃO VOCÊ PODERÁ
+	IR PARA O MUNDO DAS
+	TREVAS...
 	"""
 	keyWait
 		any = false
@@ -63,14 +64,14 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	SE ASSIM DESEJAR,
-	POSSO ABRIR A PORTA
+	POSSO ABRIR O PORTAL
 	DO MUNDO DAS TREVAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	MAS, UMA VEZ ABERTA,
+	MAS, UMA VEZ ABERTO,
 	VÍRUS, ENLOUQUECIDOS
 	PELOS PODERES DAS
 	"""
@@ -85,8 +86,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	DESEJA QUE EU ABRA A
-	PORTA PARA A ÁREA
+	DESEJA QUE EU ABRA O
+	PORTAL PARA A ÁREA
 	NEBULA?
 	"""
 	keyWait
@@ -136,7 +137,8 @@ script 1 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	EU ABRO A PORTA PARA
+	EU POSSUO O PODER DE
+	ABRIR O PORTAL PARA
 	O MUNDO DAS TREVAS...
 	"""
 	keyWait
@@ -150,9 +152,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	VOCÊ DEVE MOSTRAR O
-	PODER DE VENCER AS
-	TREVAS
+	PARA TAL, VOCÊ DEVE
+	MOSTRAR O PODER DE
+	VENCER AS TREVAS
 	"""
 	keyWait
 		any = false
@@ -165,9 +167,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	QUER QUE EU ABRA A
-	PORTA PARA O MUNDO
-	DAS TREVAS?
+	SÓ ENTÃO VOCÊ PODERÁ
+	IR PARA O MUNDO DAS
+	TREVAS...
 	"""
 	keyWait
 		any = false
@@ -198,7 +200,7 @@ script 2 mmbn5 {
 	soundEnableTextSFX
 	clearMsg
 	"""
-	A PORTA SE ABRIU.
+	O PORTAL SE ABRIU.
 	PROSSIGA!
 	"""
 	keyWait
@@ -217,7 +219,7 @@ script 3 mmbn5 {
 	msgOpen
 	"""
 	DESEJA QUE EU FECHE
-	A PORTA PARA A ÁREA
+	O PORTAL PARA A ÁREA
 	NEBULA?
 	"""
 	keyWait
@@ -268,7 +270,7 @@ script 4 mmbn5 {
 	msgOpen
 	"""
 	POIS BEM...
-	FECHAREI A PORTA.
+	FECHAREI O PORTAL.
 	"""
 	keyWait
 		any = false

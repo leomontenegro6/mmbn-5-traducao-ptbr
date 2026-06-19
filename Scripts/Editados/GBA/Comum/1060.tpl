@@ -61,7 +61,7 @@ script 7 mmbn5 {
 	msgOpen
 	"""
 	Não subestimem
-	os Darkloides!
+	os Tenebroides!
 	"""
 	keyWait
 		any = false

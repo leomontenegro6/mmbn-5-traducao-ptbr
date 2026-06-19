@@ -6,7 +6,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	A CYBER-ESCOTILHA
-	ESTÁ ATIVADA DEVIDD
+	ESTÁ ATIVADA DEVIDO
 	À INUNDAÇÃO.
 	"""
 	keyWait

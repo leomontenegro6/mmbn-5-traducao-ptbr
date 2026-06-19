@@ -424,7 +424,7 @@ script 20 mmbn5s {
 		minLength = 3
 		padZeros = false
 		padLeft = true
-	"L"
+	"D"
 	printBuffer
 		buffer = 1
 		minLength = 3
@@ -440,7 +440,7 @@ script 21 mmbn5s {
 		minLength = 3
 		padZeros = false
 		padLeft = true
-	"L"
+	"D"
 	printBuffer
 		buffer = 3
 		minLength = 3

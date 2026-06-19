@@ -257,7 +257,7 @@ script 18 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	... E-esta que é a
+	... E-essa que é a
 	RedeAlma?
 	"""
 	keyWait

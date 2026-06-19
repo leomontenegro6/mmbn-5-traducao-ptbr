@@ -226,7 +226,7 @@ script 13 mmbn5 {
 	"""
 	Cê tá lidando com a
 	Nebula! Não pode ser
-	covarde!
+	frouxo!
 	"""
 	keyWait
 		any = false
@@ -346,8 +346,8 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	Mestre DarkMega,
-	pode deixar isso aí
-	com a gente.
+	pode deixar isto
+	aqui com a gente.
 	"""
 	keyWait
 		any = false
@@ -360,7 +360,7 @@ script 20 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	É... Deem cabo deles.
+	É... Deem cabo dele.
 	"""
 	keyWait
 		any = false
@@ -805,7 +805,7 @@ script 46 mmbn5 {
 	"""
 	Cê tá lidando com a
 	Nebula! Não pode ser
-	covarde!
+	frouxo!
 	"""
 	keyWait
 		any = false
@@ -939,7 +939,7 @@ script 53 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	É... Deem cabo deles.
+	É... Deem cabo dele.
 	"""
 	keyWait
 		any = false

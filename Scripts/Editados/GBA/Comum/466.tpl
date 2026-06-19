@@ -436,7 +436,7 @@ script 11 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"OK! FALEM BEM ALTO!!!"
+	"OK! FALE BEM ALTO!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -470,7 +470,7 @@ script 21 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	OK, OS NAVIS COMUNS
+	OK, OS NAVIS CIVIS
 	CHEGARÃO A QUALQUER
 	MOMENTO!
 	"""
@@ -478,8 +478,8 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	SORRIA, GENTE!
-	COM TUDO O QUE TÊM!!!
+	SORRIA, RAPAZ!
+	COM TUDO O QUE TEM!!!
 	"""
 	keyWait
 		any = false

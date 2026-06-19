@@ -54,9 +54,9 @@ script 2 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Documento de identifi-
-	cação de funcionários
-	do SciLab.
+	Documento de
+	identificação de
+	funcionários do SciLab.
 	"""
 	waitHold
 }
@@ -93,7 +93,7 @@ script 4 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Velhos anzol e linha.
+	Anzol e linha bem velhos.
 	"""
 	waitHold
 }
@@ -187,9 +187,9 @@ script 9 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Dados da trava eletrô-
-	nica na área da mina
-	na Ilha Oran.
+	Dados da tranca
+	eletrônica na área
+	da mina na Ilha Oran.
 	"""
 	waitHold
 }
@@ -208,8 +208,7 @@ script 10 mmbn5 {
 		top = 128
 	"""
 	Um programa que
-	permite a Navis
-	pensar.
+	permite a Navis pensarem.
 	"""
 	waitHold
 }
@@ -228,8 +227,7 @@ script 11 mmbn5 {
 		top = 128
 	"""
 	Um programa que
-	permite a Navis
-	falar.
+	permite a Navis falarem.
 	"""
 	waitHold
 }
@@ -268,8 +266,7 @@ script 13 mmbn5 {
 		top = 128
 	"""
 	Um programa que
-	permite a Navis
-	lutar.
+	permite a Navis lutarem.
 	"""
 	waitHold
 }
@@ -307,9 +304,9 @@ script 15 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Um programa que
-	permite a Navis
-	lutar.
+	Programa que permite
+	a um Navi quebrar
+	rochas duras.
 	"""
 	waitHold
 }
@@ -347,9 +344,9 @@ script 17 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	Chave que liga o apa-
-	relho que controla o
-	suprimento de rochas.
+	Chave que aciona o
+	aparelho que controla
+	o suprimento de rochas.
 	"""
 	waitHold
 }
@@ -548,7 +545,7 @@ script 27 mmbn5 {
 		top = 128
 	"""
 	Terceira ACDC,
-	quarto quadro. Lá,
+	quarto bloco. Lá,
 	um caminho para Oran.
 	"""
 	keyWait
@@ -944,8 +941,8 @@ script 66 mmbn5 {
 		top = 128
 	"""
 	Permite a você girar
-	peças rosa com os
-	botões "L" e "R".
+	peças cor-de-rosa com
+	os botões "L" e "R".
 	"""
 	waitHold
 }
@@ -1004,7 +1001,7 @@ script 69 mmbn5 {
 		top = 128
 	"""
 	Permite a você girar
-	peças verde com os
+	peças verdes com os
 	botões "L" e "R".
 	"""
 	waitHold
@@ -1045,7 +1042,7 @@ script 81 mmbn5 {
 	"""
 	Arquivo com um código
 	para se conectar à
-	página da Dex.
+	página do Dex.
 	"""
 	waitHold
 }
@@ -1157,7 +1154,7 @@ script 87 mmbn5 {
 	positionMugshot
 		left = 30
 		top = 128
-	"Banner do Mayl."
+	"Banner do Dex."
 	waitHold
 }
 script 88 mmbn5 {

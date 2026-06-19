@@ -42,16 +42,16 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	A mesa do
-	administrador do SciLab.
+	A mesa do administrador
+	do SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A pessoa que se senta
-	aqui detém grande in-
-	fluência sobre o SciLab.
+	A pessoa que fica
+	aqui detém grande
+	influência sobre o lugar.
 	"""
 	keyWait
 		any = false
@@ -68,8 +68,7 @@ script 3 mmbn5 {
 	clearMsg
 	"""
 	Ela é, majoritariamente,
-	usada para emitir
-	ordens.
+	usada para emitir ordens.
 	"""
 	keyWait
 		any = false

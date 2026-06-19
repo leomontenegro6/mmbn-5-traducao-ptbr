@@ -77,9 +77,9 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Verdade! Suas habilida-
-	des de análise podem
-	hackear a tranca...
+	Verdade! Suas habilidades
+	de análise podem hackear
+	a tranca...
 	"""
 	keyWait
 		any = false
@@ -409,9 +409,9 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Verdade! Suas habilida-
-	des de análise podem
-	hackear a tranca...
+	Verdade! Suas habilidades
+	de análise podem hackear
+	a tranca...
 	"""
 	keyWait
 		any = false

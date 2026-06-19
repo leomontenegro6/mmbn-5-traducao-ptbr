@@ -65,7 +65,7 @@ script 2 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Maneiro, a página! E
+	Maneira, a página! E
 	valeu por trocar aquele
 	chip legal comigo, Guts!
 	"""
@@ -266,15 +266,14 @@ script 8 mmbn5 {
 	"""
 	Será que aconteceu
 	alguma coisa? Ele não
-	entrou pra Nebula.. né?
+	entrou pra Nebula... né?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Por que uma organização
-	ia querer dominar a
-	Rede?
+	ia querer dominar a Rede?
 	"""
 	keyWait
 		any = false
@@ -326,16 +325,15 @@ script 9 mmbn5 {
 	clearMsg
 	"""
 	Realmente, a gente
-	depende demais nos
+	depende demais dos
 	nossos Navis.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Só me faz querer
-	cuidar muuuuuito
-	bem do meu!
+	Só me faz querer cuidar
+	muuuuuito bem do meu!
 	"""
 	keyWait
 		any = false
@@ -359,8 +357,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	e, ainda assim,
-	esquece de valorizar
-	eles.
+	esquece de valorizar eles.
 	"""
 	keyWait
 		any = false
@@ -498,9 +495,8 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Vamos dar uma festa
-	na mansão Ayano em
-	breve.
+	Vamos dar uma festa na
+	mansão Ayano em breve.
 	"""
 	keyWait
 		any = false
@@ -759,7 +755,7 @@ script 18 mmbn5 {
 	clearMsg
 	"""
 	Aposto que eles servem
-	um baquete, tipo, de
+	um banquete, tipo, de
 	outro mundo...
 	"""
 	keyWait
@@ -1242,9 +1238,8 @@ script 28 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Só tomem cuidado pra
-	não pularem nada
-	importante!
+	Só tomem cuidado pra não
+	pularem nada importante!
 	"""
 	keyWait
 		any = false

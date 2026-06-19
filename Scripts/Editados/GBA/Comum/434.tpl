@@ -372,7 +372,7 @@ script 50 mmbn5 {
 	clearMsg
 	"""
 	Eu vou lutar pelo
-	MagnetMan!
+	MagnetMan, também!
 	"""
 	keyWait
 		any = false

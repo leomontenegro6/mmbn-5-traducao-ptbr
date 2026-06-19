@@ -127,8 +127,8 @@ script 13 mmbn5 {
 		mugshot = NaviGirlOrange
 	msgOpen
 	"""
-	Eu achei que era por
-	aqui que se chegava
+	Eu podia jurar que era
+	por aqui que se chegava
 	na página do SciLab...
 	"""
 	keyWait
@@ -302,13 +302,14 @@ script 40 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	FOI DIFÍCIL CHEGAR
-	ATÉ AQUI...
+	DEVE TER SIDO DIFÍCIL
+	PRA VOCÊ CHEGAR ATÉ
+	AQUI...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"MAS EU TÔ BEM!"
+	"MAS TÁ TRANQUILO!"
 	keyWait
 		any = false
 	clearMsg
@@ -529,8 +530,8 @@ script 47 mmbn5 {
 	clearMsg
 	"""
 	PROCURE PELO MEU AMIGO
-	ESCONDIDO ATRÁS DAS
-	NUVENS DOURADAS,
+	ESCONDIDO ATRÁS DA
+	NUVEM DOURADA,
 	"""
 	keyWait
 		any = false
@@ -567,8 +568,8 @@ script 49 mmbn5 {
 	msgOpen
 	"""
 	PROCURE PELO MEU AMIGO
-	ESCONDIDO ATRÁS DAS
-	NUVENS DOURADAS,
+	ESCONDIDO ATRÁS DA
+	NUVEM DOURADAS,
 	"""
 	keyWait
 		any = false

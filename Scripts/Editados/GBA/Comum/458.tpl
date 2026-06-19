@@ -80,7 +80,7 @@ script 12 mmbn5 {
 		mugshot = NaviGirlPurple
 	msgOpen
 	"""
-	Não acredito que você
+	Não acredito que ele
 	se perdeu. A gente
 	tava andando juntos!
 	"""
@@ -88,8 +88,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O seu senso de direção
-	é uma tragédia!!
+	O senso de direção desse
+	aí é uma tragédia!!
 	"""
 	keyWait
 		any = false
@@ -143,7 +143,7 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	Argh, eu não entendo
-	nada disto!
+	bulhufas disto!
 	"""
 	keyWait
 		any = false

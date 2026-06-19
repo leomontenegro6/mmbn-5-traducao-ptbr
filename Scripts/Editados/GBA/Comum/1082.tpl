@@ -9,7 +9,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	Há alguma coisa errada
-	com esse Quadro Negro.
+	com aquele Quadro Negro.
 	"""
 	keyWait
 		any = false
@@ -59,7 +59,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Algo está vindo!"
+	"Sinto uma presença!"
 	keyWait
 		any = false
 	clearMsg
@@ -252,7 +252,7 @@ script 13 mmbn5 {
 	msgOpen
 	"""
 	O seu poder de busca
-	é bem admirável!
+	é admirável, de fato!
 	"""
 	keyWait
 		any = false
@@ -296,8 +296,8 @@ script 20 mmbn5 {
 	msgOpen
 	"""
 	Tem alguma coisa
-	errada nesse Quadro
-	Negro aí.
+	errada naquele
+	Quadro Negro ali.
 	"""
 	keyWait
 		any = false
@@ -523,7 +523,7 @@ script 33 mmbn5 {
 	msgOpen
 	"""
 	O seu poder de busca
-	é bem admirável!
+	é admirável, de fato!
 	"""
 	keyWait
 		any = false

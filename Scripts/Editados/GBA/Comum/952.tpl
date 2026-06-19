@@ -443,14 +443,14 @@ script 24 mmbn5 {
 	"""
 	M-MegaMan, você está
 	em plena forma de novo,
-	coaxo!
+	croac!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Agora, você dá conta,
-	coaxo!
+	croac!
 	"""
 	keyWait
 		any = false
@@ -669,7 +669,7 @@ script 35 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Claro, coaxo!"
+	"Claro, croac!"
 	keyWait
 		any = false
 	end
@@ -769,7 +769,7 @@ script 39 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = ToadMan
-	"Com licença, coaxo."
+	"Com licença, croac."
 	keyWait
 		any = false
 	end
@@ -784,7 +784,7 @@ script 40 mmbn5 {
 	clearMsg
 	"""
 	Contemplem o
-	Recital Anfíbio, coaxo!
+	Recital Anfíbio, croac!
 	"""
 	keyWait
 		any = false
@@ -796,7 +796,7 @@ script 41 mmbn5 {
 	msgOpen
 	"""
 	As minhas músicas têm
-	o poder de curar, coaxo!
+	o poder de curar, croac!
 	"""
 	keyWait
 		any = false
@@ -820,21 +820,21 @@ script 43 mmbn5 {
 	"""
 	OK, líder!
 	Agora, estamos prontos
-	pra luta, coaxo!
+	pra luta, croac!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Pode começar a missão
-	quando quiser, coaxo.
+	quando quiser, croac.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	E óbvio que eu vou
-	com vocês, coaxo!
+	com vocês, croac!
 	"""
 	keyWait
 		any = false

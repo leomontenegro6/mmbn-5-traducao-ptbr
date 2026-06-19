@@ -127,7 +127,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Iá!!!"
+	"Aaghh..!!!"
 	keyWait
 		any = false
 	soundPlayBGM

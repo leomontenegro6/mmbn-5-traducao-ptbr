@@ -234,12 +234,12 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	O meu pai trabalha bem
-	lá no fundo dessa mina!
+	lá no fundo da mina!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ele é tão da hora!"
+	"Ele é tão legal!"
 	keyWait
 		any = false
 	flagSet
@@ -252,12 +252,12 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	O meu pai trabalha bem
-	lá no fundo dessa mina!
+	lá no fundo da mina!
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Ele é tão da hora!"
+	"Ele é tão legal!"
 	keyWait
 		any = false
 	end

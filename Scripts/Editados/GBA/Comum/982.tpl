@@ -21,7 +21,7 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tem outra entrada
+	Tem uma entrada
 	de conexão aqui.
 	"""
 	keyWait

@@ -40,9 +40,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Esperemos que todos
-	voltem para postar
-	suas opiniões!
+	Esperamos que todos
+	voltem a postar suas
+	opiniões!
 	"""
 	keyWait
 		any = false
@@ -97,8 +97,8 @@ script 2 mmbn5 {
 		top = 108
 	"""
 	Claro que não, Nekomama!
-	Com certeza foi
-	o Sr. Famoso!
+	Com certeza foi o
+	Sr. Famoso!
 	"""
 	keyWait
 		any = false
@@ -474,9 +474,9 @@ script 9 mmbn5 {
 		left = 202
 		top = 108
 	"""
-	Sr. Questionário?!
+	Questionário?!
 	Quem chamou o
-	Sr. Questionário?!
+	Questionário?!
 	"""
 	keyWait
 		any = false
@@ -838,7 +838,7 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Aqueles peixes gigante
+	Aqueles peixes gigantes
 	de pedra no telhado
 	do castelo,
 	"""
@@ -846,7 +846,7 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	nadando pelo do céu azul!
+	nadando pelo céu azul!
 	"""
 	keyWait
 		any = false
@@ -1055,7 +1055,7 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	Talvez eu vá procurar
-	por ele qualquer dia...
+	por ela qualquer dia...
 	"""
 	keyWait
 		any = false

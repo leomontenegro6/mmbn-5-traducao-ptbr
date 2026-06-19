@@ -7,9 +7,8 @@ script 0 mmbn5 {
 		jumpIfFalse = continue
 	msgOpen
 	"""
-	Há uma densa
-	plantação de bambu
-	aqui.
+	Há uma densa plantação
+	de bambu aqui.
 	"""
 	keyWait
 		any = false
@@ -54,8 +53,8 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Pode-se sentir com cla-
-	reza a força vital da
+	Pode-se sentir com
+	clareza a força vital da
 	natureza através delas.
 	"""
 	keyWait

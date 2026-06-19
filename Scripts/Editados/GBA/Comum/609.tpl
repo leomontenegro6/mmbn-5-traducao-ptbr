@@ -540,7 +540,7 @@ script 21 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	A Rede não tem andaodo
+	A Rede não tem andado
 	muito divertida,
 	"""
 	keyWait
@@ -564,8 +564,8 @@ script 22 mmbn5 {
 	msgOpen
 	"""
 	A PÁGINA DO SCILAB
-	RESISTIRÁ A TODO ATA-
-	QUE BESTA DA NEBULA!
+	RESISTIRÁ A TODO ATAQUE
+	BESTA DA NEBULA!
 	"""
 	keyWait
 		any = false

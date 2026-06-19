@@ -88,8 +88,7 @@ script 2 mmbn5 {
 		mugshot = Scientist
 	"""
 	Obrigado!
-	Salvou a minha vida,
-	filha.
+	Salvou a minha vida, filha.
 	"""
 	keyWait
 		any = false
@@ -112,8 +111,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Essa camisa aí tá
-	fedendo.
+	Essa camisa aí
+	tá fedendo.
 	"""
 	keyWait
 		any = false
@@ -128,8 +127,7 @@ script 2 mmbn5 {
 	clearMsg
 	"""
 	Tá achando que eu sou
-	FEITA de tempo livre,
-	é?!
+	FEITA de tempo livre, é?!
 	"""
 	keyWait
 		any = false
@@ -212,7 +210,7 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = Scientist
 	"""
-	Obrigada!
+	Obrigado!
 	Você é um anjo.
 	"""
 	keyWait
@@ -221,15 +219,15 @@ script 6 mmbn5 {
 	mugshotShow
 		mugshot = PigtailsGirl
 	"""
-	Eu trouxe umas meias
+	Eu trouxe meias
 	limpas também.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Pronto, agora você tá
-	precavido...
+	Pronto, agora você
+	tá precavido...
 	por enquanto!
 	"""
 	keyWait
@@ -292,8 +290,8 @@ script 12 mmbn5 {
 	msgOpen
 	"""
 	Tem alguma coisa errada
-	na Rede, mas não deve-
-	mos entrar em pânico.
+	na Rede, mas não devemos
+	entrar em pânico.
 	"""
 	keyWait
 		any = false
@@ -403,8 +401,8 @@ script 21 mmbn5 {
 		mugshot = BlondMan
 	msgOpen
 	"""
-	Ah! Eu ainda não tinha
-	visto esta sala.
+	Ah! Eu ainda não conheci
+	essa sala aqui.
 	"""
 	keyWait
 		any = false
@@ -437,8 +435,7 @@ script 23 mmbn5 {
 	msgOpen
 	"""
 	Desculpa, mas eu tenho
-	marido e filhos na
-	Ameropa.
+	marido e filhos por lá.
 	"""
 	keyWait
 		any = false
@@ -468,9 +465,9 @@ script 25 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	Ô, pode parar!
-	Esta área aqui está
-	interditada!
+	Opa, pode parar!
+	Essa área aí é
+	ultra restrita!
 	"""
 	keyWait
 		any = false
@@ -641,16 +638,16 @@ script 45 mmbn5 {
 	msgOpen
 	"""
 	Droga...
-	Agora, encheram a área
-	de guardas.
+	Agora, botaram um
+	guarda na porta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Bom, não é surpresa,
-	já que eu me infiltrei
-	aqui...
+	já que eu inventei de
+	me infiltrar lá...
 	"""
 	keyWait
 		any = false

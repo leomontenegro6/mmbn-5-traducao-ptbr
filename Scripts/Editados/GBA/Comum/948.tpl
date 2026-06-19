@@ -221,8 +221,8 @@ script 16 mmbn5 {
 	msgOpen
 	"""
 	Eu voltei das profundezas
-	do inferno pra acabar
-	com vocês!
+	do inferno pra acabar com
+	você!
 	"""
 	keyWait
 		any = false
@@ -251,7 +251,7 @@ script 18 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Vocês, Darkloides, não
+	Vocês, Tenebroides, não
 	sabem mesmo a hora de
 	desistir...
 	"""
@@ -425,7 +425,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Iargh!"
+	"Aah!"
 	keyWait
 		any = false
 	end
@@ -460,8 +460,7 @@ script 35 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Eu não vou deixar
-	você se explodir!
+	Ele vai se autodestruir!
 	"""
 	keyWait
 		any = false
@@ -576,7 +575,7 @@ script 45 mmbn5 {
 	clearMsg
 	"""
 	Desculpa, mas eu
-	tenho que ir, coaxo.
+	tenho que ir, croac.
 	"""
 	keyWait
 		any = false
@@ -600,7 +599,7 @@ script 47 mmbn5 {
 	"""
 	O MegaMan tá me
 	dizendo pra não ir
-	pra Undernet, coaxo.
+	pra Undernet, croac.
 	"""
 	keyWait
 		any = false
@@ -685,7 +684,7 @@ script 52 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"OK, coaxo!"
+	"OK, croac!"
 	keyWait
 		any = false
 	clearMsg
@@ -715,14 +714,14 @@ script 54 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Me deixa, coaxo!
+	Me deixa, croac!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Jornalismo é assim,
-	coaxo!
+	croac!
 	"""
 	keyWait
 		any = false
@@ -732,7 +731,7 @@ script 55 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"...... Coaaaaxooooo!"
+	"...... Crooooaac!"
 	keyWait
 		any = false
 	soundPlayBGM
@@ -772,8 +771,8 @@ script 59 mmbn5 {
 	msgOpen
 	"""
 	Eu voltei das profundezas
-	do inferno pra acabar
-	com vocês!
+	do inferno pra acabar com
+	você!
 	"""
 	keyWait
 		any = false
@@ -802,7 +801,7 @@ script 61 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Vocês, Darkloides, não
+	Vocês, Tenebroides, não
 	sabem mesmo a hora de
 	desistir...
 	"""
@@ -983,7 +982,7 @@ script 75 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Coaxo!"
+	"Croac!"
 	keyWait
 		any = false
 	end
@@ -1018,8 +1017,7 @@ script 78 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Eu não vou deixar
-	você se explodir!
+	Ele vai se autodestruir!
 	"""
 	keyWait
 		any = false
@@ -1031,7 +1029,7 @@ script 79 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"C-c-c-coaaaxooo!"
+	"C-c-c-croooac!"
 	keyWait
 		any = false
 	clearMsg

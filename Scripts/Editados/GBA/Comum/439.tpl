@@ -23,7 +23,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"CONCLUÍDOS!!!"
+	"FINALIZADOS!!!"
 	keyWait
 		any = false
 	end
@@ -145,7 +145,7 @@ script 5 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"CONCLUÍDOS!!!"
+	"FINALIZADOS!!!"
 	keyWait
 		any = false
 	end
@@ -229,9 +229,9 @@ script 20 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	ESTA É A ESTAÇÃO DA
-	ÁREA ACDC 1. PRIMEIRA
-	NO MUNDO CIBERNÉTICO.
+	ESTA É A ÁREA ACDC 1.
+	A PRIMEIRA NO MUNDO
+	CIBERNÉTICO.
 	"""
 	keyWait
 		any = false

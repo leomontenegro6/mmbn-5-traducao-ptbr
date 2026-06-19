@@ -28,8 +28,8 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	O elmo está cercado
-	por uma aura poderosa.
+	O elmo emana
+	uma aura poderosa.
 	"""
 	keyWait
 		any = false
@@ -80,8 +80,8 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A armadura tem alguns
-	reparos aqui e ali.
+	Essa armadura apresenta
+	alguns reparos aqui e ali.
 	"""
 	keyWait
 		any = false
@@ -188,9 +188,9 @@ script 10 mmbn5 {
 script 11 mmbn5 {
 	msgOpen
 	"""
-	Uma lista de curiosi-
-	dades básicas sobre
-	elmos e armaduras.
+	Uma lista de curiosidades
+	básicas sobre elmos e
+	armaduras.
 	"""
 	keyWait
 		any = false
@@ -512,7 +512,7 @@ script 21 mmbn5 {
 }
 script 22 mmbn5 {
 	msgOpen
-	"Agora, em frente!"
+	"Agora, avante!"
 	keyWait
 		any = false
 	end

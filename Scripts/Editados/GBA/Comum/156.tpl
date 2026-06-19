@@ -193,8 +193,8 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Tem um carimbo atrás
-	do leme do navio!!
+	Tem um carimbo
+	atrás do leme!
 	"""
 	keyWait
 		any = false

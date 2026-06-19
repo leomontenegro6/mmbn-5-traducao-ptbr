@@ -555,8 +555,8 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Agora, sob certas con-
-	dições, ele pode usar
+	Agora, sob certas
+	condições, ele pode usar
 	um Poder das Trevas:
 	"""
 	keyWait
@@ -597,17 +597,15 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O Poder das Trevas
-	é dificílimo de
-	controlar.
+	O Poder das Trevas é
+	dificílimo de controlar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Segurar "B" carrega
-	o poder dentro de
-	você,
+	Segurar "B" carrega o
+	poder dentro de você,
 	"""
 	keyWait
 		any = false
@@ -644,7 +642,7 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Mas se você errar o
+	Mas, se você errar o
 	tempo e o Poder das
 	Trevas estiver baixo...
 	"""
@@ -707,7 +705,7 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A Nebula está plantando
+	A Nebula plantou
 	microsservidores
 	"""
 	keyWait
@@ -757,9 +755,9 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O sistema de comunica-
-	ções na Área Endo 3
-	pode ser a causa.
+	O sistema de comunicações
+	na Área Endo 3 pode ser
+	a causa.
 	"""
 	keyWait
 		any = false
@@ -787,7 +785,7 @@ script 12 mmbn5 {
 		jumpIfTeamColonel = 104
 	"""
 	A MagnAlma lhe permite
-	se sincronizar usando
+	fazer sincronia usando
 	chips Elétricos.
 	"""
 	keyWait
@@ -938,8 +936,7 @@ script 14 mmbn5 {
 	clearMsg
 	"""
 	e também atirar um
-	Napalm atrás do
-	inimigo.
+	Napalm no inimigo.
 	"""
 	keyWait
 		any = false
@@ -1097,8 +1094,8 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você também pode refle-
-	tir ataques apertando
+	Você também pode refletir
+	ataques apertando
 	"B" + Esquerda.
 	"""
 	keyWait
@@ -1199,8 +1196,8 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Gostaríamos de agrade-
-	cer por sua ajuda em
+	Gostaríamos de agradecer
+	por sua ajuda em
 	resolver o incidente
 	"""
 	keyWait
@@ -1221,7 +1218,7 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Esperamos que aceite-a,
+	Esperamos que a aceite,
 	por favor.
 	"""
 	keyWait
@@ -1252,21 +1249,22 @@ script 19 mmbn5 {
 }
 script 20 mmbn5 {
 	"""
-	Eu analisei os dados
-	e fiz isto.
+	Eu tava analisando
+	os meus dados e
+	fiz isto aqui.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Imagino que será bem
-	mais útil para você
-	do que para mim.
+	Imagino que vai ser
+	bem mais útil pra
+	você do que pra mim.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Por favor, leve."
+	"Por favor, leva."
 	keyWait
 		any = false
 	clearMsg
@@ -1442,7 +1440,7 @@ script 21 mmbn5 {
 	clearMsg
 	"""
 	de luta e várias
-	coisas mais.
+	outras coisas.
 	"""
 	keyWait
 		any = false
@@ -1473,24 +1471,24 @@ script 21 mmbn5 {
 }
 script 22 mmbn5 {
 	"""
-	Nossa revista é reche-
-	ada de informações
+	Nossa revista é
+	recheada de informações
 	iradas sobre ACDC!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Loja do Higsby abriu
-	de novo, após grandes
+	A Loja do Higsby voltou
+	a operar, após grandes
 	reformas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mais chips, mais equi-
-	pamentos e tudo mais
+	Mais chips, mais
+	equipamentos e tudo mais
 	que se pode querer, é!
 	"""
 	keyWait
@@ -1498,8 +1496,8 @@ script 22 mmbn5 {
 	clearMsg
 	"""
 	O Higsby está esperando
-	por vocês, em carne e
-	osso!
+	por vocês, em carne,
+	osso e chips!
 	"""
 	keyWait
 		any = false
@@ -2254,7 +2252,7 @@ script 109 mmbn5 {
 	"""
 	para desferir um
 	corte triangular,
-	o ScrenDiv!
+	a Investida Visor!
 	"""
 	keyWait
 		any = false

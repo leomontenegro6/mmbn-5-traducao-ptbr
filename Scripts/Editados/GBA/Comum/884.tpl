@@ -4,7 +4,7 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Caaaramba!\nOlha só esse navio!"
+	"Caaaramba!\nOlha só este navio!"
 	keyWait
 		any = false
 	clearMsg
@@ -506,7 +506,7 @@ script 28 mmbn5 {
 		any = false
 	end
 }
-script 14 mmbn5 {
+script 29 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen

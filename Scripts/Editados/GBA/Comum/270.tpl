@@ -50,7 +50,7 @@ script 10 mmbn5 {
 	"""
 	Não fique de bobeira
 	o dia todo só porque
-	a aula foi cancelada!
+	a escola foi suspensa!
 	"""
 	keyWait
 		any = false
@@ -121,9 +121,8 @@ script 40 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Um cruzeiro atracou
-	no porto atrás do
-	SciLab.
+	Um cruzeiro atracou no
+	porto atrás do SciLab.
 	"""
 	keyWait
 		any = false

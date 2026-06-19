@@ -39,8 +39,9 @@ script 2 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Lembre-se: mantenha a
-	calma e a concentração.
+	Lembre-se: mantenha
+	sempre a calma e a
+	concentração.
 	"""
 	keyWait
 		any = false

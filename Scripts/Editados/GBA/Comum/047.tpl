@@ -81,8 +81,7 @@ script 1 mmbn5 {
 		delay = 3
 	"""
 	Lan! Aquele Powie que
-	você deixou cair no
-	lago...
+	cê deixou cair no lago...
 	"""
 	keyWait
 		any = false
@@ -132,7 +131,7 @@ script 1 mmbn5 {
 		mugshot = MegaMan
 	textSpeed
 		delay = 3
-	"Resposta correta."
+	"Resposta certa."
 	keyWait
 		any = false
 	clearMsg
@@ -290,8 +289,8 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGold
 	"""
-	Sim! O Senhor da
-	Gargalhada!
+	Sim!
+	O Deus da Gargalhada!
 	"""
 	keyWait
 		any = false
@@ -499,8 +498,8 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu... Eu sinto
-	os espíritos!
+	Eu...
+	Eu sinto os espíritos!
 	"""
 	keyWait
 		any = false
@@ -518,8 +517,7 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Há quanto tempo,
-	Lan, é!
+	Há quanto tempo, Lan, é!
 	"""
 	keyWait
 		any = false
@@ -583,9 +581,9 @@ script 12 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Onde quer que eu fos-
-	se, eu achava Progs
-	ninja. Eu tava tipo...
+	Aonde quer que eu fosse,
+	eu achava Progs ninja.
+	Eu tava tipo...
 	"""
 	keyWait
 		any = false
@@ -687,8 +685,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É, eu vi da primeira
-	vez.
+	É, eu vi da primeira vez.
 	"""
 	keyWait
 		any = false
@@ -904,7 +901,7 @@ script 22 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Bem-vindo,ó!"
+	"Bem-vindo, ó!"
 	keyWait
 		any = false
 	clearMsg
@@ -916,7 +913,7 @@ script 22 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Bem-vindo,ííí!"
+	"Bem-vindo, ííí!"
 	keyWait
 		any = false
 	clearMsg
@@ -944,9 +941,9 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Eu peguei um cyber-
-	resfriado e tô meio
-	mal.
+	Eu peguei um
+	cyber-resfriado
+	e tô meio mal.
 	"""
 	keyWait
 		any = false
@@ -1162,8 +1159,7 @@ script 32 mmbn5 {
 	soundPlay
 		track = 141
 	"""
-	Eu sou um novo
-	MegaMan!
+	Sou eu, o novo MegaMan!
 	"""
 	textSpeed
 		delay = 2
@@ -1267,14 +1263,14 @@ script 40 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Sua Majestade?"
+	"... Marco?"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
-	Claro, caro súdito.
-	... Hã?
+	Pólo.
+	... Ah!
 	"""
 	keyWait
 		any = false
@@ -1288,7 +1284,7 @@ script 40 mmbn5 {
 	mugshotHide
 	"""
 	Eu não acredito
-	que cê caiu nessa!
+	que eu caí nessa!
 	"""
 	keyWait
 		any = false
@@ -1383,14 +1379,13 @@ script 42 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Tá bom, tá bom."
+	"Aham, sei."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Mas cê não tá
-	esquecendo uma
-	coisa?
+	esquecendo uma coisa?
 	"""
 	keyWait
 		any = false
@@ -1548,8 +1543,7 @@ script 44 mmbn5 {
 	clearMsg
 	"""
 	Foi mal, MegaMan.
-	Isso é tudo culpa
-	minha.
+	Isso é tudo culpa minha.
 	"""
 	keyWait
 		any = false

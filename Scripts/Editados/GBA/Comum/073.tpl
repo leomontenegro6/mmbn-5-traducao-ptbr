@@ -159,8 +159,8 @@ script 30 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vá pro CPU Fábrica 1
-	e me conecta!
+	Me conecta no
+	CPU Fábrica 1!
 	"""
 	keyWait
 		any = false
@@ -228,8 +228,8 @@ script 34 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vá pro CPU Fábrica 2
-	e me conecta!
+	Me conecta no
+	CPU Fábrica 2!
 	"""
 	keyWait
 		any = false
@@ -331,8 +331,7 @@ script 44 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	É a nossa batalha
-	final...
+	É a nossa batalha final...
 	Vamos lá!
 	"""
 	keyWait

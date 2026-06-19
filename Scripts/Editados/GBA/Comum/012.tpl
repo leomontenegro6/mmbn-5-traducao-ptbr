@@ -5,7 +5,7 @@ script 0 mmbn5s {
 	end
 }
 script 1 mmbn5s {
-	"Coleção"
+	"Cole."
 	end
 }
 script 2 mmbn5s {

@@ -125,8 +125,8 @@ script 6 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	Finalmente vamos começar
-	a missão hoje?
+	Finalmente vamos sair
+	numa missão hoje?
 	"""
 	keyWait
 		any = false

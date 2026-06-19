@@ -79,7 +79,7 @@ script 2 mmbn5 {
 	clearMsg
 	"""
 	A Nebula já nos deu
-	muita dor cabeça.
+	muita dor de cabeça.
 	"""
 	keyWait
 		any = false
@@ -106,7 +106,7 @@ script 2 mmbn5 {
 	"por・"
 	waitSkip
 		frames = 30
-	"\nfa・"
+	"fa・"
 	waitSkip
 		frames = 30
 	"vor?"
@@ -214,7 +214,7 @@ script 7 mmbn5 {
 		value = 1
 	"""
 	A alma de MegaMan
-	ressou com a de
+	ressoou com a de
 	MagnetMan!
 	"""
 	keyWait
@@ -465,7 +465,7 @@ script 20 mmbn5 {
 		value = 1
 	"""
 	A alma de MegaMan
-	ressou com a de
+	ressoou com a de
 	KnightMan!
 	"""
 	keyWait

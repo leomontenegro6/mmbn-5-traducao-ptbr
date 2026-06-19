@@ -65,7 +65,7 @@ script 10 mmbn5 {
 	"""
 	Ou seja: não estaremos
 	a salvo até ele ser
-	contido!
+	detido!
 	"""
 	keyWait
 		any = false

@@ -9,12 +9,12 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	Esta área é controlada
-	por um Darkloide.
+	por um Tenebroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mas especificamente...\nele!"
+	"Mais especificamente...\nele!"
 	keyWait
 		any = false
 	end
@@ -62,7 +62,7 @@ script 3 mmbn5 {
 	"""
 	É ele quem está
 	espalhando Chips das
-	Trevas! Abata-o!
+	Trevas. Abatam-no!
 	"""
 	keyWait
 		any = false
@@ -78,7 +78,7 @@ script 3 mmbn5 {
 	"""
 	de qualquer direção
 	durante a fase
-	dos Darkloides.
+	dos Tenebroides.
 	"""
 	keyWait
 		any = false
@@ -168,12 +168,12 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	Esta área é controlada
-	por um Darkloide.
+	por um Tenebroide.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Mas especificamente...\nele!"
+	"Mais especificamente...\nele!"
 	keyWait
 		any = false
 	end
@@ -215,7 +215,7 @@ script 13 mmbn5 {
 	"""
 	É ele quem está
 	espalhando Chips das
-	Trevas! Abata-o!
+	Trevas. Abatam-no!
 	"""
 	keyWait
 		any = false
@@ -231,7 +231,7 @@ script 13 mmbn5 {
 	"""
 	de qualquer direção
 	durante a fase
-	dos Darkloides.
+	dos Tenebroides.
 	"""
 	keyWait
 		any = false

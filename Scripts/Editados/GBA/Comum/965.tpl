@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"MegaAtirador nele!"
+	"MegaTiro nele!"
 	keyWait
 		any = false
 	clearMsg

@@ -40,7 +40,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	MAS DARKLOIDES DA
+	MAS TENEBROIDES DA
 	NEBULA ESTÃO NA
 	ÁREA ORAN 3 AGORA,
 	"""

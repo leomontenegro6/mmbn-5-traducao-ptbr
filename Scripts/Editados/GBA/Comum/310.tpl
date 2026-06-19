@@ -133,8 +133,7 @@ script 10 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Ainda falta tanto
-	ainda...
+	Falta tanto ainda...
 	"""
 	keyWait
 		any = false
@@ -299,9 +298,8 @@ script 22 mmbn5 {
 		mugshot = OrangeShirtBoy
 	msgOpen
 	"""
-	Quando eu crescer,
-	eu vou virar um
-	super cientista!
+	Quando eu crescer, vou
+	virar um super cientista!
 	"""
 	keyWait
 		any = false
@@ -495,16 +493,16 @@ script 40 mmbn5 {
 		mugshot = OldWoman
 	msgOpen
 	"""
-	Eu não aguento ter que
-	pensar em subir essas
-	escadas.
+	Eu não aguento sequer
+	ter que pensar em subir
+	essas escadas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Acho que vou esquecer
-	o SciLab por hoje...
+	Acho que vou deixar o
+	SciLab para outro dia...
 	"""
 	keyWait
 		any = false

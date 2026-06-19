@@ -6,7 +6,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	"Terceira ACDC,
-	quarto quadro. Lá,
+	quarto bloco. Lá,
 	um caminho para Oran.
 	"""
 	keyWait
@@ -21,7 +21,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ir para o quarto quadro
+	ir para o quarto bloco
 	a partir da entrada.
 	"""
 	keyWait
@@ -105,9 +105,8 @@ script 6 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A porta apareceu
-	por causa da
-	"
+	Essa porta apareceu por
+	causa da "
 	"""
 	printItem
 		buffer = 0
@@ -164,7 +163,7 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	".. Destrancou!"
+	"... Destrancou!"
 	keyWait
 		any = false
 	clearMsg

@@ -40,7 +40,7 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É usada com frequência
+	É usado com frequência
 	para a troca de chips
 	e NetLutas.
 	"""
@@ -149,8 +149,7 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	A porta para a outra
-	sala fica logo atrás
-	dele.
+	sala fica logo atrás dele.
 	"""
 	keyWait
 		any = false
@@ -814,7 +813,7 @@ script 33 mmbn5 {
 	clearMsg
 	"""
 	Permite usar "L" e "R"
-	para girar peças verde
+	para girar peças verdes
 	no CustNavi.
 	"""
 	playerFinish
@@ -930,8 +929,7 @@ script 40 mmbn5 {
 	mugshotShow
 		mugshot = Maid
 	"""
-	Use-o com sabedoria,
-	viu?
+	Use-o com sabedoria, viu?
 	"""
 	keyWait
 		any = false

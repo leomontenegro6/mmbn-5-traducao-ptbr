@@ -6,7 +6,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	Aí, deve dar pra abrir
-	a porta com o 
+	a porta com a 
 	"""
 	keyWait
 		any = false

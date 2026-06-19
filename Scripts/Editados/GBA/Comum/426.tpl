@@ -25,9 +25,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	mas estou fraco demais
-	agora pra entrar na
-	luta agora.
+	mas sou fraco
+	demais pra entrar
+	na luta agora.
 	"""
 	keyWait
 		any = false

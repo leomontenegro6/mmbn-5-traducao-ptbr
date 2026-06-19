@@ -34,8 +34,8 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	Será um problema se
-	MegaMan conseguir domi-
-	nar o Poder das Trevas.
+	MegaMan conseguir dominar
+	o Poder das Trevas.
 	"""
 	keyWait
 		any = false

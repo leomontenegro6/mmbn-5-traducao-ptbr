@@ -60,7 +60,7 @@ script 3 mmbn5 {
 	clearMsg
 	"""
 	Ou seja, ele já deve
-	ter obtivo aquilo...
+	ter obtido aquilo...
 	"""
 	keyWait
 		any = false
@@ -227,7 +227,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Rgh! Eu tô cercado!"
+	"Rgh! Cercaram a gente!"
 	keyWait
 		any = false
 	clearMsg

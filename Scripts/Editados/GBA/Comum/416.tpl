@@ -82,15 +82,15 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	E, além disso, é um
-	patromônio histórico,
+	patrimônio histórico,
 	aberto ao público.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Espero que aproveite
-	este inspirador sítio
+	Espero que desfrute
+	deste inspirador sítio
 	histórico.
 	"""
 	keyWait

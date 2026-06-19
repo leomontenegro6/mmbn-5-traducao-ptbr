@@ -9,7 +9,7 @@ script 0 mmbn5 {
 		mugshot = MrProgGold
 	msgOpen
 	"""
-	EU ABRO A PORTA PARA
+	EU ABRO O PORTAL PARA
 	O MUNDO DAS TREVAS,
 	A TERRA DO CAOS.
 	"""
@@ -32,7 +32,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	DESEJA QUE EU ABRA
-	A PORTA PARA O MUNDO
+	O PORTAL PARA O MUNDO
 	DAS TREVAS?
 	"""
 	keyWait
@@ -54,8 +54,8 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	SE AINDA ASSIM DESEJAR
-	ENTRAR, EU ABRIREI A
-	PORTA.
+	ENTRAR, EU ABRIREI O
+	PORTAL.
 	"""
 	keyWait
 		any = false
@@ -139,7 +139,7 @@ script 3 mmbn5 {
 	msgOpen
 	"""
 	DESEJA QUE EU FECHE
-	A PORTA PARA O MUNDO
+	O PORTAL PARA O MUNDO
 	DAS TREVAS?
 	"""
 	keyWait
@@ -190,7 +190,7 @@ script 4 mmbn5 {
 	msgOpen
 	"""
 	POIS BEM...
-	FECHAREI A PORTA.
+	FECHAREI O PORTAL.
 	"""
 	keyWait
 		any = false

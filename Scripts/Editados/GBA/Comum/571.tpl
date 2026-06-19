@@ -97,8 +97,8 @@ script 31 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A ÁREA ENDO 5 FOI
-	LIBERTADA!
+	A ÁREA ENDO 5
+	FOI LIBERTADA!
 	ESTOU TÃO FELIZ!
 	"""
 	keyWait

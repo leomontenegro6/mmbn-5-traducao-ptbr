@@ -128,7 +128,7 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	E este é o quarto
-	quadro a partir da
+	bloco a partir da
 	Área ACDC 2.
 	"""
 	keyWait
@@ -143,8 +143,7 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	E a entrada para a
-	Área Oran fica bem
-	ali...
+	Área Oran fica bem ali...
 	"""
 	keyWait
 		any = false
@@ -271,7 +270,7 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Mas agora, ela
+	Mas, agora, ela
 	praticamente já
 	voltou ao normal.
 	"""

@@ -480,7 +480,7 @@ script 25 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Vai lá, Yai! Vai!"
+	"Yai esmaga! Yai ataca!"
 	keyWait
 		any = false
 	clearMsg
@@ -774,7 +774,7 @@ script 45 mmbn5 {
 	"""
 	Bom, a gente NÃO tem
 	muita fé em você, mas
-	boa sorte mesmo assim.
+	vai lá, campeão.
 	"""
 	keyWait
 		any = false

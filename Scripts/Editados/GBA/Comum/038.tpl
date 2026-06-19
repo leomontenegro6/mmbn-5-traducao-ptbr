@@ -78,8 +78,8 @@ script 3 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Tô vendo os dados de
-	chip selecionados aqui!
+	Tô vendo os dados do
+	chip selecionado aqui!
 	"""
 	keyWait
 		any = false
@@ -90,7 +90,7 @@ script 4 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Aqui fica o volume
+	Aqui fica a medição
 	de ataque do chip.
 	"""
 	keyWait
@@ -108,7 +108,7 @@ script 5 mmbn5 {
 	"""
 	Ah, importante: aqui
 	ficam os Pontos de
-	Vida, ou "PV", do vírus.
+	Vida, ou "PV", dos vírus.
 	"""
 	keyWait
 		any = false
@@ -120,7 +120,7 @@ script 6 mmbn5 {
 	msgOpen
 	"""
 	Os PV mostram quanto
-	dano ele aguenta.
+	dano eles aguentam.
 	Não posso esquecer!
 	"""
 	keyWait
@@ -150,8 +150,7 @@ script 7 mmbn5 {
 	clearMsg
 	"""
 	A gente tem 2 Cannons,
-	então, seleciona os
-	dois!
+	então, seleciona os dois!
 	"""
 	keyWait
 		any = false
@@ -210,9 +209,9 @@ script 9 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Depois dos 2 Cannons,
-	eu ainda posso seleci-
-	onar mais 1 chip.
+	São 2 Cannons.
+	Eu ainda posso selecionar
+	mais 1 chip!
 	"""
 	keyWait
 		any = false
@@ -278,8 +277,7 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E aí, algum chip bom
-	aí?
+	E aí, algum chip bom aí?
 	"""
 	keyWait
 		any = false
@@ -303,9 +301,9 @@ script 14 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Agora que eu selecio-
-	nei os dados de chips,
-	é só apertar "OK"!
+	Agora que eu selecionei
+	os dados dos chips, é
+	só apertar "OK"!
 	"""
 	keyWait
 		any = false

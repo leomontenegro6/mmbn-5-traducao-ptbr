@@ -174,8 +174,8 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	e o Fyrefox parece
-	genuinamente arrependido
-	pelo que fez.
+	arrependido de verdade
+	do que fez.
 	"""
 	keyWait
 		any = false

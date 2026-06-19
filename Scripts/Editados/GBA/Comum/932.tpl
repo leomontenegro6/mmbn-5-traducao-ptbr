@@ -16,7 +16,7 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	msgOpen
-	"Vamos!"
+	"Começar!"
 	keyWait
 		any = false
 	end

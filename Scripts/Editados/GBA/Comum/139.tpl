@@ -492,23 +492,23 @@ script 20 mmbn5 {
 script 21 mmbn5 {
 	msgOpen
 	"""
-	Uma cerca barra o cami-
-	nho. 
-	"""
-	keyWait
-		any = false
-	end
-	"""
-	Por que, quando
-	somos impedidos de
+	Uma cerca barra
+	o caminho. 
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	entrar em um lugar,
+	Por que, quando somos
+	impedidos de entrar em
+	um lugar,
+	"""
+	keyWait
+		any = false
+	clearMsg
+	"""
 	acabamos querendo
-	entrar lá mais ainda?
+	entrar mais ainda?
 	"""
 	keyWait
 		any = false
@@ -545,8 +545,8 @@ script 22 mmbn5 {
 script 23 mmbn5 {
 	msgOpen
 	"""
-	A entrada parece funci-
-	onal, mas você não
+	A entrada parece
+	funcional, mas você não
 	consegue se conectar...
 	"""
 	keyWait
@@ -554,8 +554,7 @@ script 23 mmbn5 {
 	clearMsg
 	"""
 	A rede da Ilha Oran
-	deve estar com
-	defeito...
+	deve estar avariada...
 	"""
 	keyWait
 		any = false
@@ -564,9 +563,9 @@ script 23 mmbn5 {
 script 24 mmbn5 {
 	msgOpen
 	"""
-	O vento assopra um
-	pouco de grama seca
-	para fora da pilha.
+	O vento sopra a pouca
+	grama seca que sobrou
+	da pilha.
 	"""
 	keyWait
 		any = false

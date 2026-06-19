@@ -86,7 +86,7 @@ script 3 mmbn5 {
 	"""
 	DAÍ, VOCÊ PODERÁ
 	TRANSITAR LIVREMENTE
-	ENTRE ESTA PÁGINA
+	ENTRE A SUA PÁGINA
 	"""
 	keyWait
 		any = false
@@ -251,8 +251,8 @@ script 8 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AQUELE É O FÓRUM DE
-	LUTA, O TESOURO
+	ESTE AQUI É O FÓRUM
+	DE LUTA, O TESOURO
 	MÁXIMO DESTA PÁGINA.
 	"""
 	keyWait

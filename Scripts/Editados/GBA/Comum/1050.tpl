@@ -58,7 +58,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = SearchMan
 	msgOpen
-	"Liberação Dupla!"
+	"Liberação Gêmea!"
 	keyWait
 		any = false
 	end
@@ -68,7 +68,7 @@ script 6 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Liberação Dupla
+	Liberação Gêmea
 	bem-sucedida!
 	"""
 	keyWait
@@ -84,7 +84,7 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Liberação Dupla
+	Liberação Gêmea
 	bem-sucedida!
 	"""
 	keyWait
@@ -192,8 +192,8 @@ script 28 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Armadilha encontrada!
-	Eu a removi!
+	Armadilha detectada!
+	Eu a neutralizei!
 	"""
 	keyWait
 		any = false
@@ -350,7 +350,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\npontos restaurados!"
+	" pontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -408,7 +408,7 @@ script 74 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" FragBugs!!"
+	" FragBug(s)!!"
 	keyWait
 		any = false
 	flagSet
@@ -433,7 +433,7 @@ script 75 mmbn5 {
 		animation = 1
 	callLiberationItemPanel
 	"""
-	SerchMan adquiriu
+	SearchMan adquiriu
 	um chip:
 	"
 	"""
@@ -466,8 +466,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	Você desbloqueou o
-	Quadro Barreira
+	Você desbloqueou os
+	Quadros Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -520,8 +520,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	SearchMan foi
-	paralisado!
+	SearchMan está
+	imobilizado!
 	"""
 	keyWait
 		any = false
@@ -572,7 +572,7 @@ script 87 mmbn5 {
 	mugshotHide
 	"""
 	SearchMan
-	foi paralisado!
+	está imobilizado!
 	"""
 	keyWait
 		any = false
@@ -592,7 +592,7 @@ script 90 mmbn5 {
 	mugshotHide
 	"""
 	SearchMan foi
-	congelado!
+	imobilizado!
 	"""
 	keyWait
 		any = false

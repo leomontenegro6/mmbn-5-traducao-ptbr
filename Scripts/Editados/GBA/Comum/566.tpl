@@ -18,8 +18,8 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	VAMOS!
-	EXPERIMENTE CORRER
-	ATÉ O FINAL!
+	EXPERIMENTE CORRER DA
+	ENTRADA PARA O FINAL!
 	"""
 	keyWait
 		any = false

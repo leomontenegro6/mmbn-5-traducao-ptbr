@@ -125,9 +125,9 @@ script 31 mmbn5 {
 		mugshot = OfficialNavi
 	msgOpen
 	"""
-	AINDA NÃO CONSIGO ME
-	DESFAZER DOS MEUS
-	PENSAMENTOS RAIVOSOS!
+	Ainda não consigo me
+	desfazer dos meus
+	pensamentos raivosos...!
 	"""
 	keyWait
 		any = false

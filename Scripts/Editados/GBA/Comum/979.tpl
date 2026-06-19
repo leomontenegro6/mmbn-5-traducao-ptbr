@@ -138,7 +138,7 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Durante as lutas, é
+	Durante a operação, é
 	vital trabalhar com
 	seu colega de equipe!
 	"""

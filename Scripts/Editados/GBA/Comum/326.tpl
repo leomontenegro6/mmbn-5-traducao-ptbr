@@ -403,8 +403,7 @@ script 21 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Raika?
-	O que houve?
+	Raika... Por quê?
 	"""
 	keyWait
 		any = false
@@ -479,8 +478,8 @@ script 24 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	O sistema de comunica-
-	ções na Área Endo 3 é
+	O sistema de comunicações
+	na Área Endo 3 é
 	protegido por uma
 	"""
 	keyWait
@@ -488,7 +487,7 @@ script 24 mmbn5 {
 	clearMsg
 	"""
 	segurança bem forte.
-	A Nebula não o atacará
+	A Nebula não o destruirá
 	tão cedo.
 	"""
 	keyWait
@@ -508,8 +507,8 @@ script 25 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	O sistema de comunica-
-	ções na Área Endo 3 é
+	O sistema de comunicações
+	na Área Endo 3 é
 	protegido por uma
 	"""
 	keyWait
@@ -517,7 +516,7 @@ script 25 mmbn5 {
 	clearMsg
 	"""
 	segurança bem forte.
-	A Nebula não o atacará
+	A Nebula não o destruirá
 	tão cedo.
 	"""
 	keyWait
@@ -869,8 +868,7 @@ script 70 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan, a Nebula nos
-	atacou!
+	Lan, a Nebula nos atacou!
 	"""
 	keyWait
 		any = false
@@ -887,8 +885,7 @@ script 71 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan Hikari, a Nebula nos
-	atacou!
+	Lan, a Nebula nos atacou!
 	"""
 	keyWait
 		any = false

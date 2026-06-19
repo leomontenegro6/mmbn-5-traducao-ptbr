@@ -25,8 +25,8 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	A entrada da frente
-	está logo adiante.
+	Há um acesso
+	logo adiante.
 	"""
 	keyWait
 		any = false
@@ -282,7 +282,7 @@ script 17 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"E aí, Beryl?"
+	"E aí, Baryl?"
 	keyWait
 		any = false
 	clearMsg
@@ -294,8 +294,8 @@ script 18 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	A entrada da frente
-	está logo adiante.
+	Há um acesso
+	logo adiante.
 	"""
 	keyWait
 		any = false

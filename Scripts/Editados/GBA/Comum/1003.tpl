@@ -166,7 +166,7 @@ script 3 mmbn5 {
 	clearMsg
 	"""
 	não existe mais
-	neste plano.
+	neste mundo.
 	"""
 	keyWait
 		any = false
@@ -298,7 +298,7 @@ script 9 mmbn5 {
 	"""
 	Cê não tinha dito que
 	o Regal "não existia
-	mais neste plano"?
+	mais neste mundo"?
 	"""
 	keyWait
 		any = false
@@ -1030,7 +1030,7 @@ script 45 mmbn5 {
 	clearMsg
 	"""
 	não existe mais
-	neste plano.
+	neste mundo.
 	"""
 	keyWait
 		any = false
@@ -1163,7 +1163,7 @@ script 51 mmbn5 {
 	"""
 	Você não tinha dito que
 	o Regal "não existia
-	mais neste plano"?
+	mais neste mundo"?
 	"""
 	keyWait
 		any = false

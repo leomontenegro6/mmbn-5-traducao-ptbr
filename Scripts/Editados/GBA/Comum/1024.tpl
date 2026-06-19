@@ -278,7 +278,7 @@ script 23 mmbn5 {
 	mugshotShow
 		mugshot = Meddy
 	msgOpen
-	"Pronto?"
+	"OK..."
 	keyWait
 		any = false
 	clearMsg
@@ -307,7 +307,7 @@ script 25 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Hora do show, coaxo!"
+	"Hora do show, croac!"
 	keyWait
 		any = false
 	end
@@ -371,7 +371,7 @@ script 32 mmbn5 {
 }
 script 33 mmbn5 {
 	msgOpen
-	"Fechou!"
+	"A barreira voltou!"
 	keyWait
 		any = false
 	end

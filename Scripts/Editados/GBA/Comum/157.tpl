@@ -116,7 +116,7 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	msgOpen
 	"""
-	O pinheiro é um
+	Esses pinheiros são um
 	complemento perfeito
 	para o castelo.
 	"""
@@ -126,7 +126,7 @@ script 6 mmbn5 {
 }
 script 7 mmbn5 {
 	msgOpen
-	"\"O Castelo Shachi foi\nconstruído há cerca\nde 300 anos.\""
+	"\"O Castelo Shachi foi\nconstruído há cerca\nde 300 anos."
 	keyWait
 		any = false
 	clearMsg
@@ -134,7 +134,7 @@ script 7 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"proteger contra incêndios.\""
+	"protegê-lo contra\nincêndios.\""
 	keyWait
 		any = false
 	end
@@ -165,7 +165,7 @@ script 8 mmbn5 {
 script 9 mmbn5 {
 	msgOpen
 	"""
-	O pinheiro é um
+	Este pinheiro é um
 	complemento perfeito
 	para o castelo.
 	"""

@@ -247,12 +247,12 @@ script 100 mmbn5 {
 	msgOpen
 	"""
 	Já faz tanto tempo que
-	eu não recebo visitas...
+	não recebo visitas...
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Eu sou o LarkMan."
+	"Eu sou LarkMan."
 	keyWait
 		any = false
 	clearMsg

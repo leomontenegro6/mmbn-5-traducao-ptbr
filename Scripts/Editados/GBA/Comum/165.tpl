@@ -61,9 +61,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Não podemos avançar
-	sem desativá-la
-	primeiro!
+	Não podemos avançar sem
+	desativá-la primeiro!
 	"""
 	keyWait
 		any = false
@@ -223,9 +222,8 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Possui uma entrada
-	de controle para
-	conexão.
+	Possui uma entrada de
+	conexão, para controle.
 	"""
 	keyWait
 		any = false
@@ -255,7 +253,7 @@ script 11 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"É possível se conectar\nnela."
+	"É possível se conectar\nnele."
 	keyWait
 		any = false
 	end
@@ -301,7 +299,7 @@ script 13 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"É possível se conectar\nnela."
+	"É possível se conectar\nnele."
 	keyWait
 		any = false
 	end

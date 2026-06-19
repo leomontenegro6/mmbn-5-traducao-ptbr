@@ -64,7 +64,7 @@ script 3 mmbn5 {
 	"."
 	waitSkip
 		frames = 30
-	". Ah!"
+	". Ah!\n"
 	waitSkip
 		frames = 30
 	"""

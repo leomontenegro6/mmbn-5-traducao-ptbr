@@ -48,7 +48,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = Raika
 	msgOpen
-	"Manda ver, Lan!"
+	"Prossiga, Lan!"
 	keyWait
 		any = false
 	end

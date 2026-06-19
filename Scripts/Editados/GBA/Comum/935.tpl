@@ -417,7 +417,7 @@ script 16 mmbn5 {
 }
 script 17 mmbn5 {
 	mugshotShow
-		mugshot = Chaud
+		mugshot = Baryl
 	msgOpen
 	"... Ah, a Visão Passada."
 	keyWait
@@ -439,7 +439,7 @@ script 18 mmbn5 {
 }
 script 19 mmbn5 {
 	mugshotShow
-		mugshot = Chaud
+		mugshot = Baryl
 	msgOpen
 	"""
 	Ela grava momentos
@@ -520,7 +520,7 @@ script 20 mmbn5 {
 }
 script 21 mmbn5 {
 	mugshotShow
-		mugshot = Chaud
+		mugshot = Baryl
 	msgOpen
 	"""
 	Encontre esse cão, Lan.
@@ -531,7 +531,7 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Siga pra Visão Passada
+	Siga para a Visão Passada
 	imediatamente!
 	"""
 	keyWait
@@ -556,7 +556,7 @@ script 22 mmbn5 {
 }
 script 23 mmbn5 {
 	mugshotShow
-		mugshot = Chaud
+		mugshot = Baryl
 	msgOpen
 	"Boa sorte."
 	keyWait
@@ -955,7 +955,7 @@ script 39 mmbn5 {
 		any = false
 	end
 }
-script 16 mmbn5 {
+script 40 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
@@ -980,7 +980,7 @@ script 16 mmbn5 {
 }
 script 41 mmbn5 {
 	mugshotShow
-		mugshot = Baryl
+		mugshot = Chaud
 	msgOpen
 	"... Ah, a Visão Passada."
 	keyWait
@@ -1002,7 +1002,7 @@ script 42 mmbn5 {
 }
 script 43 mmbn5 {
 	mugshotShow
-		mugshot = Baryl
+		mugshot = Chaud
 	msgOpen
 	"""
 	Ela grava momentos
@@ -1083,7 +1083,7 @@ script 44 mmbn5 {
 }
 script 45 mmbn5 {
 	mugshotShow
-		mugshot = Baryl
+		mugshot = Chaud
 	msgOpen
 	"""
 	Encontre esse cão, Lan.
@@ -1094,7 +1094,7 @@ script 45 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Siga para a Visão
+	Siga pra Visão
 	Passada imediatamente!
 	"""
 	keyWait
@@ -1119,7 +1119,7 @@ script 46 mmbn5 {
 }
 script 47 mmbn5 {
 	mugshotShow
-		mugshot = Baryl
+		mugshot = Chaud
 	msgOpen
 	"Boa sorte."
 	keyWait

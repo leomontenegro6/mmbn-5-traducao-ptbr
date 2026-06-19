@@ -1308,7 +1308,7 @@ script 42 mmbn5 {
 		frames = 18
 	"""
 	Foi!
-	Escapamos de lá.
+	Demos no pé.
 	"""
 	keyWait
 		any = false
@@ -1957,14 +1957,11 @@ script 65 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Senhor Chaud,"
+	"Hm."
 	keyWait
 		any = false
 	clearMsg
-	"""
-	acha que seria melhor
-	batermos em retirada?
-	"""
+	"Acha que seria melhor\nbatermos em retirada?\n"
 	positionOptionHorizontal
 		width = 8
 	option

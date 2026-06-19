@@ -182,7 +182,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Tesla
 	msgOpen
-	"E-Err, Chaud?"
+	"E-err, Chaud?"
 	keyWait
 		any = false
 	clearMsg
@@ -488,7 +488,7 @@ script 28 mmbn5 {
 	mugshotShow
 		mugshot = Higsby
 	msgOpen
-	"E-err, Colonel?"
+	"E-err, sr. Baryl?"
 	keyWait
 		any = false
 	clearMsg

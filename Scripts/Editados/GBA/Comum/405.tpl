@@ -125,8 +125,7 @@ script 6 mmbn5 {
 	msgOpen
 	"""
 	Esta é a CEO de uma
-	famosa petroleira,
-	sabia?
+	famosa petroleira, sabia?
 	"""
 	keyWait
 		any = false

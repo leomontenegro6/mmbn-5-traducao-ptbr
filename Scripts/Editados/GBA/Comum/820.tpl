@@ -377,19 +377,19 @@ script 17 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Puip"
+	"Tuu "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Puip"
+	"Tuu "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Puip..."
+	"Tuu..."
 	keyWait
 		any = false
 	clearMsg
@@ -591,7 +591,7 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	mugshotShow
-		mugshot = Chaud
+		mugshot = Baryl
 	"Exatamente."
 	keyWait
 		any = false

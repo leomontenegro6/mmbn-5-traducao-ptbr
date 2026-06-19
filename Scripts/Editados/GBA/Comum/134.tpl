@@ -44,9 +44,9 @@ script 2 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Um jaleco de labora-
-	tório especial para
-	funcionários do SciLab.
+	Um jaleco de laboratório
+	especial para funcionários
+	do SciLab.
 	"""
 	keyWait
 		any = false
@@ -272,8 +272,8 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Tomara que ele
-	esteja por perto!!!
+	Tomara que ele ainda
+	esteja por aqui!!!
 	"""
 	keyWait
 		any = false
@@ -293,8 +293,7 @@ script 11 mmbn5 {
 	clearMsg
 	"""
 	Uma segurança potente
-	limita quem pode
-	operá-lo.
+	limita quem pode operá-lo.
 	"""
 	keyWait
 		any = false
@@ -303,9 +302,9 @@ script 11 mmbn5 {
 script 20 mmbn5 {
 	msgOpen
 	"""
-	Um jaleco de labora-
-	tório especial para
-	funcionários do SciLab.
+	Um jaleco de laboratório
+	especial para funcionários
+	do SciLab.
 	"""
 	keyWait
 		any = false

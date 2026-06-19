@@ -39,9 +39,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	mas a segurança da
-	Rede requer monitora-
-	mento 24 horas por dia.
+	mas a segurança da Rede
+	requer monitoramento
+	24 horas por dia.
 	"""
 	keyWait
 		any = false
@@ -54,7 +54,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você viu umas pessoas
+	Você viu aquele cara
 	correndo no parque,
 	lá fora?
 	"""
@@ -104,8 +104,8 @@ script 3 mmbn5 {
 	clearMsg
 	"""
 	Vou pra casa me trocar
-	ou peço pra minha mulher
-	trazer roupas novas?
+	ou peço pra patroa
+	trazer roupas limpas?
 	"""
 	keyWait
 		any = false

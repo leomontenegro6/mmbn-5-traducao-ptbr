@@ -86,7 +86,7 @@ script 21 mmbn5 {
 	"""
 	Eu quero sair por aí
 	na doida!
-	Estravazar tudo!
+	Extravasar tudo!
 	"""
 	keyWait
 		any = false

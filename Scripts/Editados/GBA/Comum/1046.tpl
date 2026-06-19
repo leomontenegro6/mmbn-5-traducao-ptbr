@@ -5,11 +5,11 @@ script 0 mmbn5s {
 	end
 }
 script 1 mmbn5s {
-	"LiberaçãoDupla"
+	"LiberaçãoGêmea"
 	end
 }
 script 2 mmbn5s {
-	"LiberaçãoGêmea"
+	"LiberaçãoDupla"
 	end
 }
 script 3 mmbn5s {
@@ -112,8 +112,8 @@ script 30 mmbn5 {
 	msgOpen
 	"""
 	Acabaram os Buracos
-	Negros! Os Darkloides
-	estão desprotegidos!
+	Negros! O Tenebroide
+	está desprotegido!
 	"""
 	keyWait
 		any = false

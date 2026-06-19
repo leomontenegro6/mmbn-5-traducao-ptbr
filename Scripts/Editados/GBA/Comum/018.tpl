@@ -541,7 +541,7 @@ script 37 mmbn5 {
 		mugshot = Scientist
 	msgOpen
 	"""
-	EXECUÇÃO concluída!
+	Execução concluída!
 	Agora verifique como
 	o MegaMan está.
 	"""
@@ -671,7 +671,7 @@ script 37 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E isso poderia gerar
+	E isso poderá gerar
 	um bug. Então, atenção.
 	"""
 	keyWait

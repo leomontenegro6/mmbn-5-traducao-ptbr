@@ -32,8 +32,8 @@ script 98 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	ProtoMan, detenha
-	o Navi do Fyrefox!
+	ProtoMan, detém o
+	Navi do Fyrefox!
 	"""
 	keyWait
 		any = false
@@ -44,8 +44,8 @@ script 99 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Colonel, detenha
-	o Navi do Fyrefox!
+	Colonel, detém o
+	Navi do Dingo!
 	"""
 	keyWait
 		any = false

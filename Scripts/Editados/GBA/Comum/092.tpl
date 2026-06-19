@@ -57,7 +57,7 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora entregar o
+	Bora entregar a
 	"
 	"""
 	printItem
@@ -91,7 +91,7 @@ script 13 mmbn5 {
 	msgOpen
 	"""
 	Sai da Rede!
-	Vamos atrás deles!
+	Bora falar com o pessoal!
 	"""
 	keyWait
 		any = false
@@ -126,9 +126,9 @@ script 15 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Já tá na hora da
-	gente ir nas casas
-	do pessoal!
+	A gente tem que ir
+	nas casas do pessoal
+	falar com eles!
 	"""
 	keyWait
 		any = false
@@ -175,8 +175,9 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	MegaMan! Bora
-	conferir a Rede!
+	MegaMan! Bora ver
+	como é que tão as
+	coisas na Rede!
 	"""
 	keyWait
 		any = false
@@ -262,9 +263,9 @@ script 27 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos em frente!
-	O que tá rolando
-	na Rede?
+	Vamos mais adiante!
+	O que tá rolando na
+	Rede?
 	"""
 	keyWait
 		any = false
@@ -308,9 +309,9 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	A gente desconecta
-	depois de completar
-	uma ronda!
+	Depois que a gente
+	terminar de dar uma
+	volta, desconecta!
 	"""
 	keyWait
 		any = false

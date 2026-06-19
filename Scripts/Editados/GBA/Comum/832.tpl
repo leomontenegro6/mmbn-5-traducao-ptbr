@@ -18,8 +18,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu já falei que é
-	muito feio fazer
+	Eu já falei mil vezes
+	é que muito feio fazer
 	uma dama esperar!
 	"""
 	keyWait

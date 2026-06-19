@@ -40,8 +40,8 @@ script 7 mmbn5 {
 		mugshot = DarkMegaMan
 	msgOpen
 	"""
-	Take this!
-	MegaBuster!
+	Toma isso!
+	MegaTiro!
 	"""
 	keyWait
 		any = false
@@ -60,7 +60,7 @@ script 10 mmbn5 {
 	"""
 	Quem quer ser o
 	primeiro a sentir
-	o meu MegaAtirador?
+	o meu MegaTiro?
 	"""
 	keyWait
 		any = false

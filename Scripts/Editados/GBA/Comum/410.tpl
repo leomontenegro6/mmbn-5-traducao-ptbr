@@ -96,9 +96,9 @@ script 10 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	Está tudo bem agora.
-	Preciso admitir que
-	fico meio aliviado.
+	Parece que tudo voltou ao
+	normal. Não vou mentir:
+	isso me deixa aliviado...
 	"""
 	keyWait
 		any = false
@@ -150,8 +150,7 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	Eles estão loucos para
-	sair e esticar as
-	pernas.
+	sair e esticar as pernas.
 	"""
 	keyWait
 		any = false

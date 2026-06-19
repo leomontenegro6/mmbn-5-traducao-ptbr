@@ -172,7 +172,7 @@ script 8 mmbn5 {
 		mugshot = SearchMan
 	msgOpen
 	"""
-	Só o que falta é um
+	Só o que há aqui é um
 	único arquivo de texto...
 	"""
 	keyWait

@@ -69,7 +69,7 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	Preciso conferir cada
-	um deles neste
+	chip que tem neste
 	contêiner, sozinho!
 	"""
 	keyWait

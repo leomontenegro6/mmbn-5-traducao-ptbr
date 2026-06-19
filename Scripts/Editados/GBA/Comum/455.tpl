@@ -133,7 +133,7 @@ script 20 mmbn5 {
 	msgOpen
 	"""
 	PARECE QUE RASTREARAM
-	A SABOTAGEM, E VEIO
+	A SABOTAGEM. VEIO LÁ
 	DA ÁREA ENDO!
 	"""
 	keyWait
@@ -236,8 +236,8 @@ script 40 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	PARECE QUE ALGUMAS
-	ÁREAS ESTÃO TENDO
+	PARECE QUE ALGUMA
+	ÁREA ESTÁ TENDO
 	SÉRIOS PROBLEMAS...
 	"""
 	keyWait
@@ -311,7 +311,7 @@ script 52 mmbn5 {
 		mugshot = NormalNaviYellow
 	msgOpen
 	"""
-	Senhor! Você está quase
+	O professor está quase
 	chegando na resposta!
 	"""
 	keyWait

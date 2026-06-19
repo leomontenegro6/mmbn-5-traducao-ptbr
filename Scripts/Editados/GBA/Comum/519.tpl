@@ -76,8 +76,8 @@ script 5 mmbn5 {
 	wait
 		frames = 60
 	"""
-	Agora, vá pegar o
-	próximo.
+	Agora, vá me pegar
+	de novo.
 	"""
 	keyWait
 		any = false

@@ -17,7 +17,7 @@ script 0 mmbn5 {
 		mugshot = PigtailsGirl
 	msgOpen
 	"""
-	Que quadro idiota de
+	Que mural idiota de
 	passarinhos é esse?!
 	"""
 	keyWait
@@ -88,7 +88,7 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E, pelo meno, eu não
+	E, pelo menos, eu não
 	sou noiva de bolo!
 	Baaiixiiinhoo!!
 	"""

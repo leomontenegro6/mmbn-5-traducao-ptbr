@@ -110,16 +110,15 @@ script 6 mmbn5 {
 		jumpIfTeamColonel = 14
 	msgOpen
 	"""
-	Este livro extra-
-	grosso é um guia de
-	estratégias para o
+	Este livro extra-grosso
+	é um guia de estratégias
+	para o mais recente
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mais recente jogo
-	lançado.
+	jogo lançado.
 	"""
 	keyWait
 		any = false

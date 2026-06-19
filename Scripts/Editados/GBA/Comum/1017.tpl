@@ -136,7 +136,7 @@ script 8 mmbn5 {
 		value = 12
 	"""
 	MegaMan adquiriu
-	um chip:
+	um chip: 
 	"JustcOne J"!!!
 	"""
 	keyWait

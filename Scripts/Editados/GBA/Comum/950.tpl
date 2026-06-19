@@ -5,13 +5,13 @@ script 0 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 346
-	"Dim Dom..."
+	"Dim Dom... "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 346
-	"Dim Dom...*"
+	"Dim Dom..."
 	keyWait
 		any = false
 	clearMsg
@@ -81,8 +81,7 @@ script 5 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	Eu vim te pedir
-	um favor.
+	Eu vim te pedir um favor.
 	"""
 	keyWait
 		any = false
@@ -106,7 +105,7 @@ script 7 mmbn5 {
 		mugshot = Jasmine
 	msgOpen
 	"""
-	Eu quero que você
+	Quero que você
 	me bote na equipe.
 	"""
 	keyWait
@@ -229,8 +228,7 @@ script 14 mmbn5 {
 	msgOpen
 	"""
 	Jasmine, espera!
-	Você não pode ir
-	sozinha!
+	Você não pode ir sozinha!
 	"""
 	keyWait
 		any = false
@@ -240,7 +238,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ela não tá\nbrincando, Lan!"
+	"Ela não tava\nbrincando, Lan!"
 	keyWait
 		any = false
 	clearMsg
@@ -314,7 +312,7 @@ script 21 mmbn5 {
 		mugshot = Ribitta
 	msgOpen
 	"""
-	Eu quero entrar pra
+	Quero entrar pra
 	equipe de vocês, Lan!
 	"""
 	keyWait
@@ -439,8 +437,7 @@ script 28 mmbn5 {
 	msgOpen
 	"""
 	Ribitta, espera!
-	Você não pode ir
-	sozinha!
+	Você não pode ir sozinha!
 	"""
 	keyWait
 		any = false
@@ -450,7 +447,7 @@ script 29 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Ela não tá blefando, Lan!"
+	"Ela não tava\nblefando, Lan!"
 	keyWait
 		any = false
 	clearMsg

@@ -84,7 +84,7 @@ script 5 mmbn5 {
 	msgOpen
 	"""
 	Mas que papo é esse?!
-	É VOCÊ é que tá com a
+	VOCÊ é que tá com a
 	Nebula!
 	"""
 	keyWait

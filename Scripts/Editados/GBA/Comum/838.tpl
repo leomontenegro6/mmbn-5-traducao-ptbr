@@ -52,7 +52,7 @@ script 3 mmbn5 {
 	"""
 	Outrora uma mina ativa,
 	agora tá completamente
-	inabitada.
+	inutilizada.
 	"""
 	keyWait
 		any = false

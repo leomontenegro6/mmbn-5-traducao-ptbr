@@ -20,8 +20,7 @@ script 1 mmbn5 {
 	clearMsg
 	"""
 	É o Dex!
-	A conexão foi
-	restaurada!
+	A conexão foi restaurada!
 	"""
 	keyWait
 		any = false
@@ -113,7 +112,7 @@ script 7 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Beleza, Lan!
+	Tá bom, Lan!
 	Só não faz a gente
 	esperar muito!
 	"""
@@ -228,8 +227,8 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Se a gente soubesse,
-	daria pra desligar ela!
+	Se a gente souber,
+	vai dar pra desligar ela!
 	"""
 	keyWait
 		any = false
@@ -257,9 +256,9 @@ script 16 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Tá bom, Lan!
-	A gente depende de
-	você!
+	Beleza, Lan!
+	A gente depende
+	de você!
 	"""
 	keyWait
 		any = false

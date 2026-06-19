@@ -865,7 +865,7 @@ script 217 mmbn5s {
 	end
 }
 script 218 mmbn5s {
-	"Z Saver"
+	"Z Saber"
 	end
 }
 script 219 mmbn5s {

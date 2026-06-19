@@ -170,7 +170,7 @@ script 14 mmbn5 {
 	"""
 	Uma linda estátua
 	contendo um espelho,
-	ao lado de um pilar.
+	afixado a um pilar.
 	"""
 	keyWait
 		any = false

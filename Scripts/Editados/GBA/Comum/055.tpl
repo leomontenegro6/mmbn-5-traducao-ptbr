@@ -269,8 +269,7 @@ script 23 mmbn5 {
 		delay = 0
 	"""
 	Corra sem
-	segurar
-	"B"
+	segurar B
 	"""
 	waitHold
 	end

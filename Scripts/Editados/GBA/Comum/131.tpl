@@ -57,7 +57,7 @@ script 3 mmbn5 {
 	msgOpen
 	"""
 	Pode parecer uma
-	fornalha de verdade,
+	lareira de verdade,
 	"""
 	keyWait
 		any = false
@@ -125,8 +125,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Pendurada aqui, uma
-	pintura cativante
+	Exposta aqui, uma
+	cativante pintura
 	de uma paisagem.
 	"""
 	keyWait
@@ -134,8 +134,8 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	Negociantes de arte
-	sempre querem comprar
-	obras famosas.
+	sempre procuram obras
+	famosas para comprar.
 	"""
 	keyWait
 		any = false
@@ -144,7 +144,7 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A pássaro aí dentro
+	O pássaro aí dentro
 	encara o Lan.
 	"""
 	keyWait
@@ -297,7 +297,7 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	Pelo menos, é isso o
-	que a Yai anda falando
+	que a Yai fica falando
 	o tempo todo...
 	"""
 	keyWait
@@ -331,15 +331,14 @@ script 15 mmbn5 {
 	"""
 	Um sistema de controle
 	climático que parece
-	uma fornalha.
+	uma lareira.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Está ligado,
-	produzindo um som
-	de zumbido.
+	Está ligado, emitindo um
+	som como o de um zumbido.
 	"""
 	keyWait
 		any = false

@@ -87,7 +87,7 @@ script 60 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Er, já viu esta pessoa
+	Er, já viu este homem
 	e este cachorro aqui?
 	"""
 	keyWait
@@ -122,8 +122,7 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Você conheceu o meu
-	vô?!
+	Você conheceu o meu vô?!
 	"""
 	keyWait
 		any = false

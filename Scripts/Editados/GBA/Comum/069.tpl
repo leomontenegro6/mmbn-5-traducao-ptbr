@@ -216,7 +216,7 @@ script 20 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos contar pra ele
+	Vamos contar pro cara
 	que tava tudo bem na
 	Área Endo!
 	"""
@@ -463,7 +463,7 @@ script 60 mmbn5 {
 	msgOpen
 	"""
 	O que será que o Chaud
-	anda fazendo?
+	quer?
 	"""
 	keyWait
 		any = false
@@ -475,7 +475,7 @@ script 61 mmbn5 {
 	msgOpen
 	"""
 	O que será que o Baryl
-	anda fazendo?
+	quer?
 	"""
 	keyWait
 		any = false
@@ -513,7 +513,8 @@ script 64 mmbn5 {
 	msgOpen
 	"""
 	Aonde será que o vovô
-	levava o cachorro?
+	levava o cachorro? Um
+	lugar cheio de terra...
 	"""
 	keyWait
 		any = false
@@ -551,9 +552,8 @@ script 66 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Acho que tem alguma
-	coisa a ver com o
-	SciLab...
+	Acho que tem alguma coisa
+	a ver com o SciLab...
 	"""
 	keyWait
 		any = false
@@ -634,9 +634,9 @@ script 74 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Um novo local pro Con-
-	trole de Missão? Quem
-	a gente consulta...?
+	Um novo local pro Controle
+	de Missão? Quem a gente
+	consulta...?
 	"""
 	keyWait
 		any = false
@@ -647,7 +647,7 @@ script 75 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O Arquivo de Dados fica
+	A Ficha de Dados caiu
 	perto de um objeto im-
 	pressionante em Endo 3.
 	"""
@@ -660,7 +660,7 @@ script 76 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora levar ele
+	Bora levar o negócio
 	pro Higsby!
 	"""
 	keyWait
@@ -699,8 +699,7 @@ script 83 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos pra Undernet,
-	Lan!
+	Vamos pra Undernet, Lan!
 	A Meddy tá em apuros!
 	"""
 	keyWait
@@ -712,8 +711,7 @@ script 84 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos pra Undernet,
-	Lan!
+	Vamos pra Undernet, Lan!
 	O ToadMan tá em apuros!
 	"""
 	keyWait

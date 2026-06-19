@@ -172,9 +172,9 @@ script 41 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Digo, não TEM nada que
-	eu possa vez numa
-	situação destas...
+	Digo, não TINHA nada que
+	eu pudesse fazer numa
+	situação daquelas...
 	"""
 	keyWait
 		any = false

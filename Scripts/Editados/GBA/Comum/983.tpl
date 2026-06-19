@@ -6,7 +6,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	MegaMan, podem
-	ter mais Darkloides
+	ter mais Tenebroides
 	esperando na frente!
 	"""
 	keyWait

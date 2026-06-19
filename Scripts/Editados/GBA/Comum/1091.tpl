@@ -45,7 +45,7 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	A Área Nebula é o
-	berço dos Darkloides.
+	berço dos Tenebroides.
 	"""
 	keyWait
 		any = false
@@ -669,7 +669,7 @@ script 71 mmbn5 {
 	"""
 	CosmoMan! Você é
 	um dos homens do
-	Senhor do Caos, coaxo?!
+	Senhor do Caos, croac?!
 	"""
 	keyWait
 		any = false

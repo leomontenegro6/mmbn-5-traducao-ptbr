@@ -36,14 +36,13 @@ script 1 mmbn5 {
 script 2 mmbn5 {
 	msgOpen
 	"""
-	Um adorável
-	travesseiro em
-	forma de coração.
+	Uma adorável almofada
+	em forma de coração.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"A Mayl o adora."
+	"A Mayl a adora."
 	keyWait
 		any = false
 	end
@@ -79,9 +78,8 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	Uma escada para
-	a cama de cima
-	do beliche.
+	Uma escada para a cama
+	de cima do beliche.
 	"""
 	keyWait
 		any = false
@@ -91,8 +89,7 @@ script 5 mmbn5 {
 	msgOpen
 	"""
 	Um closet...
-	Não posso abrir para
-	ver.
+	Não posso abrir para ver.
 	"""
 	keyWait
 		any = false

@@ -67,7 +67,7 @@ script 5 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Clic!"
+	"Hm!"
 	keyWait
 		any = false
 	end

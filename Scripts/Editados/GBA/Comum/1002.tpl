@@ -9,8 +9,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E o mundo com o
-	qual eu sonhei...
+	E o mundo com o qual
+	eu tanto sonhei...
 	"""
 	keyWait
 		any = false

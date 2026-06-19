@@ -25,8 +25,8 @@ script 1 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	É tão poderoso quanto
-	o de verdade...
+	É tão imponente quanto
+	o verdadeiro...
 	"""
 	keyWait
 		any = false
@@ -44,9 +44,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Aliás, eu recomendaria
-	ir embora, se estiver
-	nervoso!
+	Aliás, eu recomendaria ir
+	embora, se for precavido!
 	"""
 	keyWait
 		any = false
@@ -101,7 +100,7 @@ script 20 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Se o número de ataques
+	Se o alcance desse ataque
 	de interferência for
 	alguma indicação,
 	"""
@@ -110,7 +109,7 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	a Nebula deve ser um
-	bando bem forte!
+	povinho bem forte!
 	"""
 	keyWait
 		any = false
@@ -206,16 +205,16 @@ script 41 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Parece que a área
-	perto da SciLab tá
+	Parece que os arredores
+	da área SciLab tão
 	encarando uns problemas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	É melhor a gente ficar
-	longe.
+	É melhor nem
+	chegar perto.
 	"""
 	keyWait
 		any = false
@@ -283,7 +282,7 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"É aqui?"
+	"É isto?"
 	keyWait
 		any = false
 	clearMsg
@@ -309,8 +308,8 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	É melhor a gente voltar
-	pro Higsby agora!
+	Melhor a gente voltar
+	pro Higsby, já!
 	"""
 	keyWait
 		any = false

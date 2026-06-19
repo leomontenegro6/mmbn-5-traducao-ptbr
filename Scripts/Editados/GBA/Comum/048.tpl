@@ -84,7 +84,7 @@ script 1 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"O que você disse?"
+	"... O que FOI que\nvocê disse?!"
 	keyWait
 		any = false
 	clearMsg
@@ -439,7 +439,7 @@ script 21 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = MegaMan
-	"Er, claro..."
+	"Er, tá bom..."
 	keyWait
 		any = false
 	clearMsg
@@ -635,9 +635,8 @@ script 31 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Minha vida pode
-	ser só uma pequena
-	faísca
+	Minha vida pode ser
+	só uma pequena faísca
 	"""
 	keyWait
 		any = false
@@ -659,7 +658,7 @@ script 31 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"Um brilho?"
+	"Brilhar?"
 	keyWait
 		any = false
 	clearMsg

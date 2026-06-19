@@ -59,7 +59,7 @@ script 3 mmbn5 {
 	msgOpen
 	"""
 	Nem o medo vai
-	me parar! Coaxo!
+	me parar! Croac!
 	"""
 	keyWait
 		any = false

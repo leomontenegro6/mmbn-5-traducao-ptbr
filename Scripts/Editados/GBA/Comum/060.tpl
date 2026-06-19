@@ -101,8 +101,7 @@ script 23 mmbn5 {
 	msgOpen
 	"""
 	O que aconteceu no
-	SciLab?
-	Vamos lá ver!
+	SciLab? Vamos ver!
 	"""
 	keyWait
 		any = false
@@ -175,7 +174,7 @@ script 29 mmbn5 {
 	"""
 	Vamos para a sala
 	atrás da Sala de
-	Operações.
+	Comando.
 	"""
 	keyWait
 		any = false

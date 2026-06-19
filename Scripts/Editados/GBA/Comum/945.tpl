@@ -145,8 +145,8 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E mesmo se a gente
-	deletar os Darkloides
+	E, mesmo se a gente
+	deletar os Tenebroides
 	da Nebula,
 	"""
 	keyWait
@@ -178,7 +178,7 @@ script 7 mmbn5 {
 	"""
 	Hm. Eu nunca esperei
 	que fosse ouvir isso
-	vindo de você...
+	de você...
 	"""
 	keyWait
 		any = false
@@ -230,7 +230,7 @@ script 9 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Aham! Nós somos uma
+	Hm! Nós somos uma
 	equipe. Você não está
 	lutando sozinho aqui...
 	"""
@@ -342,9 +342,8 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu vou achar uma
-	base secreta irada
-	pra gente!
+	Eu vou achar uma base
+	secreta irada pra gente!
 	"""
 	keyWait
 		any = false
@@ -512,8 +511,8 @@ script 22 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E mesmo se a gente
-	deletar os Darkloides
+	E, mesmo se a gente
+	deletar os Tenebroides
 	da Nebula,
 	"""
 	keyWait
@@ -716,9 +715,8 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu vou achar uma
-	base secreta irada
-	pra gente!
+	Eu vou achar uma base
+	secreta irada pra gente!
 	"""
 	keyWait
 		any = false

@@ -160,8 +160,8 @@ script 55 mmbn5 {
 		mugshot = Yai
 	msgOpen
 	"""
-	Você tá atrás de uma
-	sala bem amplo?
+	Você tá atrás de um
+	espaço bem amplo?
 	"""
 	keyWait
 		any = false

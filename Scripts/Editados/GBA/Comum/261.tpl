@@ -8,7 +8,7 @@ script 0 mmbn5 {
 		jumpIfOutOfRange = continue
 	msgOpen
 	"""
-	Um voz é ouvida,
+	Uma voz é ouvida,
 	saída do nada.
 	"""
 	keyWait
@@ -24,7 +24,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	Um voz é ouvida,
+	Uma voz é ouvida,
 	saída do nada.
 	"""
 	keyWait

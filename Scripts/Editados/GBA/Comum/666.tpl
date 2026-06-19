@@ -95,14 +95,14 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A armadura é mantida
-	pelo samurai na sala
-	ao lado.
+	Também protejo as
+	armaduras de samurai
+	nesta sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
-	"Por que não dá uma\nolhada?"
+	"Por que não dá uma\nolhada nelas?"
 	keyWait
 		any = false
 	end

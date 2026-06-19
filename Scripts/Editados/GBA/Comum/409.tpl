@@ -146,8 +146,8 @@ script 16 mmbn5 {
 	msgOpen
 	"""
 	Aquela vibração foi
-	estranha. E as leituras
-	estavam normais...
+	estranha. As leituras
+	estão normais...
 	"""
 	keyWait
 		any = false
@@ -240,7 +240,7 @@ script 21 mmbn5 {
 	clearMsg
 	"""
 	Todos os equipamentos
-	da ponte estão bem.
+	da ponte estão normais.
 	"""
 	keyWait
 		any = false

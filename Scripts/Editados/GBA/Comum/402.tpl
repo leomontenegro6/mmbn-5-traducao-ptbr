@@ -59,7 +59,7 @@ script 5 mmbn5 {
 	"""
 	O sistema tinha sido
 	desconectado para
-	fazer renovações.
+	renovações.
 	"""
 	keyWait
 		any = false
@@ -147,7 +147,7 @@ script 17 mmbn5 {
 	msgOpen
 	"""
 	Depois de limpar o
-	Salão de Fiesta, faço a
+	Salão Fiesta, faço a
 	manutenção das máquinas.
 	"""
 	keyWait

@@ -111,8 +111,8 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É bem antiga,
-	mas colabora para a
+	É bem antiga, mas
+	contribui para a
 	atmosfera do lugar.
 	"""
 	keyWait

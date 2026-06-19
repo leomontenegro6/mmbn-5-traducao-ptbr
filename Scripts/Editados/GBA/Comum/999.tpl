@@ -367,7 +367,7 @@ script 25 mmbn5 {
 		mugshot = Roll
 	msgOpen
 	"""
-	MegaMan, vocês já
+	Mega, você e o Lan já
 	arriscaram tudo pra
 	chegar até aqui.
 	"""

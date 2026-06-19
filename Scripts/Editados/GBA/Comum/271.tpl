@@ -197,7 +197,7 @@ script 65 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Então, pode-se utilizar
+	Então, dá para utilizar
 	chips diferentes de
 	mesmo código...
 	"""
@@ -226,7 +226,7 @@ script 66 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	"""
-	Acha que consegue
+	Será que eu consigo
 	decorar todos?
 	"""
 	keyWait
@@ -285,8 +285,7 @@ script 75 mmbn5 {
 	msgOpen
 	"""
 	Acho que vou pedir pra
-	Mayl me dar aulas de
-	novo.
+	Mayl me dar mais aulas.
 	"""
 	keyWait
 		any = false
@@ -306,7 +305,7 @@ script 76 mmbn5 {
 	msgOpen
 	"""
 	O que foi?
-	Está tendo algum
+	Tá com algum
 	problema, filho?
 	"""
 	keyWait

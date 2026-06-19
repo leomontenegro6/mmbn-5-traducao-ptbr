@@ -11,9 +11,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O PORTAL ALÉM DAQUI
-	SE CONECTA AO
-	CPU SERVIDOR!
+	O PORTAL MAIS À
+	FRENTE SE CONECTA
+	AO CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
@@ -144,9 +144,9 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O PORTAL ALÉM DAQUI
-	SE CONECTA AO
-	CPU SERVIDOR!
+	O PORTAL MAIS À
+	FRENTE SE CONECTA
+	AO CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
@@ -243,17 +243,15 @@ script 60 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	O PORTAL ALÉM DAQUI
-	SE CONECTA AO
-	CPU SERVIDOR!
+	ESTE PORTAL SE CONECTA
+	AO CPU SERVIDOR!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	DÁ PARA ACESSAR A
-	ÁREA ORAN ATRAVÉS
-	DO CPU SERVIDOR!
+	DÁ PARA ACESSAR A ÁREA
+	ORAN ATRAVÉS DELE!
 	"""
 	keyWait
 		any = false

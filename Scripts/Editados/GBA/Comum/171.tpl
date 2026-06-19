@@ -13,7 +13,7 @@ script 0 mmbn5 {
 		jumpIfLess = continue
 	msgOpen
 	"""
-	Esse sistema desliga
+	Esse sistema controla
 	a esteira das pedras,
 	"""
 	keyWait
@@ -21,7 +21,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	mas a chave que lhe
-	falta previne seu uso.
+	falta impede seu uso.
 	"""
 	keyWait
 		any = false
@@ -74,7 +74,7 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	Esse sistema desliga
+	Esse sistema controla
 	a esteira das pedras.
 	"""
 	keyWait
@@ -126,7 +126,7 @@ script 4 mmbn5 {
 	soundPlay
 		track = 212
 	"""
-	A esteira das
+	O suprimento de
 	pedras parou!
 	"""
 	keyWait
@@ -136,7 +136,7 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	A esteira das pedras
+	O suprimento das pedras
 	parou, graças à Chave
 	de Parada.
 	"""

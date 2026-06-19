@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"\"Cais à frente.\""
+	"\"Porto à frente.\""
 	keyWait
 		any = false
 	end
@@ -10,7 +10,7 @@ script 0 mmbn5 {
 script 1 mmbn5 {
 	msgOpen
 	"""
-	É uma bancada
+	É um banquinho
 	para descanso.
 	"""
 	keyWait
@@ -107,7 +107,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O SciLab e o Cais
+	O SciLab e o Porto
 	são acessíveis
 	"""
 	keyWait

@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Aqui vai dar na próxima
-	área marcada pra
-	liberação.
+	Esse é o acesso pra
+	próxima área marcada
+	pra liberação.
 	"""
 	keyWait
 		any = false
@@ -20,9 +20,9 @@ script 1 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Que nuvem esquisita
-	é essa aí? Dá pra
-	atravessar ela?
+	Que nuvens esquisitas
+	são essas aí? Dá pra
+	atravessar elas?
 	"""
 	keyWait
 		any = false
@@ -64,7 +64,7 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	Mas o poder sombrio
-	dessa nuvem tá
+	dessas nuvens tá
 	barrando o caminho!
 	"""
 	keyWait
@@ -116,8 +116,8 @@ script 8 mmbn5 {
 	msgOpen
 	"""
 	A rota pro SciLab 3
-	tá barrada por uma
-	nuvem roxa.
+	tá barrada por umas
+	nuvens roxas.
 	"""
 	keyWait
 		any = false
@@ -129,14 +129,14 @@ script 9 mmbn5 {
 	mugshotShow
 		mugshot = Chaud
 	msgOpen
-	"Uma nuvem roxa..."
+	"Nuvens roxas..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Entendo.
-	Isso pode ser uma
-	péssima notícia.
+	Isso pode ser um
+	empecilho dos grandes.
 	"""
 	keyWait
 		any = false
@@ -150,8 +150,8 @@ script 9 mmbn5 {
 	clearMsg
 	"""
 	Pois bem.
-	Pode voltar por ora,
-	Lan.
+	Por enquanto,
+	pode voltar, Lan.
 	"""
 	keyWait
 		any = false
@@ -186,8 +186,8 @@ script 11 mmbn5 {
 	msgOpen
 	"""
 	A rota pro SciLab 3
-	tá barrada por uma
-	nuvem roxa.
+	tá barrada por umas
+	nuvens roxas.
 	"""
 	keyWait
 		any = false
@@ -199,7 +199,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Uma nuvem roxa..."
+	"Nuvens roxas..."
 	keyWait
 		any = false
 	clearMsg
@@ -213,8 +213,8 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	Pois bem.
-	Pode voltar por ora,
-	Lan.
+	Por enquanto,
+	pode voltar, Lan.
 	"""
 	keyWait
 		any = false

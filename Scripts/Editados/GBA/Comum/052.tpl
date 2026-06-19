@@ -69,7 +69,7 @@ script 16 mmbn5s {
 	end
 }
 script 17 mmbn5s {
-	"ChvParar"
+	"ChvParad"
 	end
 }
 script 18 mmbn5s {

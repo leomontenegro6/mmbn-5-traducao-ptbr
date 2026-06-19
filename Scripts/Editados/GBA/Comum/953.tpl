@@ -39,7 +39,7 @@ script 3 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Esse é o CosmoMan!"
+	"Essa voz... CosmoMan!"
 	keyWait
 		any = false
 	end
@@ -276,7 +276,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Esse é o CosmoMan!"
+	"Essa voz... CosmoMan!"
 	keyWait
 		any = false
 	end
@@ -352,7 +352,7 @@ script 24 mmbn5 {
 	"""
 	Não conseguimos
 	recuperar o Colonel,
-	coaxo...
+	croac...
 	"""
 	keyWait
 		any = false
@@ -390,7 +390,7 @@ script 26 mmbn5 {
 	"""
 	... É!
 	Eu vou salvar ele,
-	sim, coaxo!
+	sim, croac!
 	"""
 	keyWait
 		any = false

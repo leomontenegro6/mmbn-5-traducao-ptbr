@@ -74,8 +74,8 @@ script 5 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom, não é hora de
-	ficar admirando ele!
+	Bom, não é hora de ficar
+	comparando ele a animais!
 	Atrás dele!
 	"""
 	keyWait
@@ -169,8 +169,8 @@ script 12 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bom, não é hora de
-	ficar admirando ele!
+	Bom, não é hora de ficar
+	comparando ele a animais!
 	Atrás dele!
 	"""
 	keyWait

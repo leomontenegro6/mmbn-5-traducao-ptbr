@@ -306,8 +306,9 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	... A gente tem ir atrás
-	de mais informações...
+	... A gente tem
+	que ir atrás de
+	mais informações...
 	"""
 	keyWait
 		any = false

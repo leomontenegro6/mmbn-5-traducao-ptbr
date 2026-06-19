@@ -17,7 +17,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Você ta legal?!"
+	"Você tá legal?!"
 	keyWait
 		any = false
 	clearMsg

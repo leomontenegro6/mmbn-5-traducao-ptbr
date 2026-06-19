@@ -25,8 +25,8 @@ script 1 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Os olhos do Shachi se
-	abrem com um "clique",
+	O olho do Shachi se
+	abre com um "clique",
 	"""
 	soundPlay
 		track = 212
@@ -100,7 +100,7 @@ script 5 mmbn5 {
 	clearMsg
 	"""
 	"Terceira ACDC,
-	quarto quadro. Lá,
+	quarto bloco. Lá,
 	um caminho para Oran.
 	"""
 	keyWait

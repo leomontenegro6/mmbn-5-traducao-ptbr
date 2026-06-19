@@ -25,8 +25,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Meddy, você espera
-	aqui!
+	Meddy, você espera aí!
 	"""
 	keyWait
 		any = false
@@ -185,7 +184,7 @@ script 15 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Eu também vou\nlutar, coaxo!"
+	"Eu também vou\nlutar, croac!"
 	keyWait
 		any = false
 	clearMsg
@@ -223,7 +222,7 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"C-coaaxo!!!"
+	"C-croooac!!!"
 	keyWait
 		any = false
 	clearMsg
@@ -285,7 +284,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"COAXO! COAAAAXOO!!!"
+	"CROAC! CROOOAAAC!!!"
 	keyWait
 		any = false
 	end
@@ -342,7 +341,7 @@ script 28 mmbn5 {
 	clearMsg
 	"""
 	O seu ódio deixará a
-	nós, os Darkloides,
+	nós, os Tenebroides,
 	ainda mais fortes!!!
 	"""
 	keyWait

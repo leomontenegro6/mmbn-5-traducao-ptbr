@@ -566,12 +566,12 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"Volte agora!"
+	"Vamos embora!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Desculpa, Lan, mas
+	Foi mal, Lan, mas
 	eu vou desconectar
 	agora.
 	"""
@@ -584,7 +584,7 @@ script 21 mmbn5 {
 		mugshot = Raika
 	msgOpen
 	"""
-	SerchMan,
+	SearchMan,
 	desconectar?
 	
 	"""

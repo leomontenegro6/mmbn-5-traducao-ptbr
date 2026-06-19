@@ -248,7 +248,7 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A sua experança logo se
+	A sua esperança logo se
 	tornará desespero...
 	"""
 	keyWait

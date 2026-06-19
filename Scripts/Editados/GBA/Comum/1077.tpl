@@ -14,7 +14,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Observe!"
+	"Observem!"
 	keyWait
 		any = false
 	end
@@ -214,7 +214,7 @@ script 20 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Observe!"
+	"Observem!"
 	keyWait
 		any = false
 	end

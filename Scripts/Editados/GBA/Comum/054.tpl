@@ -33,7 +33,7 @@ script 7 mmbn5s {
 	end
 }
 script 8 mmbn5s {
-	"Escuto"
+	"Escudo"
 	end
 }
 script 9 mmbn5s {
@@ -149,7 +149,7 @@ script 36 mmbn5s {
 	end
 }
 script 37 mmbn5s {
-	"Charga+1"
+	"Carga+1"
 	end
 }
 script 38 mmbn5s {

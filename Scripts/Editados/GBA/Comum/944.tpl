@@ -186,8 +186,8 @@ script 9 mmbn5 {
 	msgOpen
 	"""
 	Poderia desconectar,
-	Hikari? O Chaud quer
-	falar com você.
+	Hikari? O senhor Chaud
+	quer falar com você.
 	"""
 	keyWait
 		any = false

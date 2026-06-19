@@ -114,8 +114,7 @@ script 8 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Uma coisa muito
-	especial?
+	Uma coisa muito especial?
 	"""
 	keyWait
 		any = false
@@ -231,7 +230,7 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Tá bom, o cartão tá...
+	Tá bom, cartão, cartão...
 	"""
 	keyWait
 		any = false
@@ -368,8 +367,8 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Crianças,
-	fiquem longe do...!
+	Crianças, saiam
+	de perto dessa...!
 	"""
 	keyWait
 		any = false
@@ -381,7 +380,7 @@ script 24 mmbn5 {
 	mugshotShow
 		mugshot = Yai
 	msgOpen
-	"Hung... Tá..."
+	"Hung... Hng..."
 	keyWait
 		any = false
 	clearMsg
@@ -461,7 +460,8 @@ script 28 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Já é seguro\nentrar agora.
+	Já é seguro
+	entrar agora.
 	"""
 	keyWait
 		any = false

@@ -46,7 +46,7 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	.........
-	O que aconteceu?!
+	O que foi isso?!
 	"""
 	keyWait
 		any = false
@@ -80,7 +80,7 @@ script 7 mmbn5 {
 	clearMsg
 	"""
 	.........
-	O que aconteceu?!
+	O que foi isso?!
 	"""
 	keyWait
 		any = false

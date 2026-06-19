@@ -132,7 +132,7 @@ script 30 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Lá vou eu!"
+	"Olha só eu!"
 	keyWait
 		any = false
 	end

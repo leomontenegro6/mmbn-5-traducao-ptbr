@@ -132,7 +132,7 @@ script 7 mmbn5 {
 	"."
 	waitSkip
 		frames = 30
-	". "
+	"."
 	waitSkip
 		frames = 30
 	" "

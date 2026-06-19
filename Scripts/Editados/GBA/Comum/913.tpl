@@ -200,7 +200,7 @@ script 16 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	O Dr.Hikari acabou de se
+	O Dr. Hikari acabou de se
 	tornar pai de gêmeos!
 	"""
 	keyWait

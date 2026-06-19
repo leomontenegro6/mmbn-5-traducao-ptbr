@@ -43,7 +43,8 @@ script 5 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Lan, vá atrás do líder!
+	Lan, pense bem
+	na minha proposta!
 	"""
 	keyWait
 		any = false
@@ -54,7 +55,8 @@ script 6 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Lan, vá atrás do líder!
+	Lan, pense bem
+	na minha proposta!
 	"""
 	keyWait
 		any = false

@@ -148,7 +148,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	Eu tava me divertindo
-	tando fazendo a
+	tanto fazendo a
 	manutenção do GutsMan...
 	"""
 	keyWait

@@ -44,7 +44,7 @@ script 3 mmbn5 {
 	"""
 	Não adianta!!
 	É imune ao meu
-	MegaAtirador...
+	MegaTiro...
 	"""
 	keyWait
 		any = false
@@ -174,9 +174,9 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O meu MegaAtirador
+	O meu MegaTiro
 	nem conseguiu fazer
-	um arranhão nele..
+	um arranhão nele...
 	"""
 	keyWait
 		any = false
@@ -426,7 +426,7 @@ script 31 mmbn5 {
 	"""
 	Após receber o ataque
 	de autodestruição do
-	Darkloide,
+	Tenebroide,
 	"""
 	keyWait
 		any = false
@@ -460,7 +460,7 @@ script 32 mmbn5 {
 	mugshotShow
 		mugshot = DarkProtoMan
 	msgOpen
-	"Apareça!!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
@@ -1077,9 +1077,9 @@ script 71 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	O meu MegaAtirador
+	O meu MegaTiro
 	nem conseguiu fazer
-	um arranhão nele..
+	um arranhão nele...
 	"""
 	keyWait
 		any = false
@@ -1326,7 +1326,7 @@ script 89 mmbn5 {
 	"""
 	Após receber o ataque
 	de autodestruição do
-	Darkloide,
+	Tenebroide,
 	"""
 	keyWait
 		any = false
@@ -1360,7 +1360,7 @@ script 90 mmbn5 {
 	mugshotShow
 		mugshot = DarkColonel
 	msgOpen
-	"Apareça!!"
+	"Quem é você?!"
 	keyWait
 		any = false
 	clearMsg
@@ -1661,7 +1661,7 @@ script 109 mmbn5 {
 	msgOpen
 	"""
 	Fiz o melhor tratamento
-	que pude nele, coaxo.
+	que pude nele, croac.
 	"""
 	keyWait
 		any = false

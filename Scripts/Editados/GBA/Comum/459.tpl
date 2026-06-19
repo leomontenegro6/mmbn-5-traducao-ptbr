@@ -83,7 +83,7 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"... E, agora, eu perdi\nela!"
+	"... E, agora, perdi ela!"
 	keyWait
 		any = false
 	end
@@ -182,8 +182,8 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	FOQUE FORTE
-	NOS ESTUDOS!
+	DEDIQUE-SE FORTE
+	AOS ESTUDOS!
 	"""
 	keyWait
 		any = false
@@ -335,8 +335,7 @@ script 43 mmbn5 {
 	clearMsg
 	"""
 	Hum, naquela direção
-	fica a página do
-	SciLab...
+	fica a página do SciLab...
 	"""
 	keyWait
 		any = false
@@ -391,8 +390,9 @@ script 52 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Katanas são realmente
-	úteis. É sério!
+	Chips Katana são
+	realmente úteis.
+	É sério!
 	"""
 	keyWait
 		any = false
@@ -493,8 +493,9 @@ script 62 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	Katanas são realmente
-	úteis. É sério!
+	Chips Katana são
+	realmente úteis.
+	É sério!
 	"""
 	keyWait
 		any = false

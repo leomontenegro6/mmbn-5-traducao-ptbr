@@ -6,7 +6,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	MegaMan, desliga
-	a eletro-barreira!
+	a eletrobarreira!
 	"""
 	keyWait
 		any = false

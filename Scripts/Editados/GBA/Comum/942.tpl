@@ -138,8 +138,8 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Agora, hora de tirar
-	isto aqui do forno!
+	Agora, hora de dar
+	o fora daqui!
 	"""
 	keyWait
 		any = false
@@ -252,7 +252,7 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Um Darkloide sempre
+	Um Tenebroide sempre
 	volta à vida... enquanto
 	houver escuridão!
 	"""
@@ -305,7 +305,7 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Não tneho tempo pra
+	Não tenho tempo pra
 	perder com vocês agora!
 	"""
 	keyWait
@@ -428,7 +428,7 @@ script 26 mmbn5 {
 	"""
 	A nossa página está
 	sendo atacada por
-	Darkloides da Nebula!
+	Tenebroides da Nebula!
 	"""
 	keyWait
 		any = false

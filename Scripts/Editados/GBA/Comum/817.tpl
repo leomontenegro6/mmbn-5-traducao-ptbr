@@ -12,7 +12,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"tá nesta direção!"
+	"fica nesta direção!"
 	keyWait
 		any = false
 	clearMsg
@@ -42,7 +42,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Poxa deixar!"
+	"Pode deixar!"
 	keyWait
 		any = false
 	clearMsg
@@ -191,7 +191,7 @@ script 13 mmbn5 {
 	mugshotShow
 		mugshot = ProtoMan
 	msgOpen
-	"Não posso!"
+	"Não irei!"
 	keyWait
 		any = false
 	clearMsg

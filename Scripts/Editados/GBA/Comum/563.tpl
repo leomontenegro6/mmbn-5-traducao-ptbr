@@ -153,8 +153,7 @@ script 31 mmbn5 {
 		mugshot = PurpleNavi
 	msgOpen
 	"""
-	A Área Oran é legal e
-	tal,
+	A Área Oran é legal e tal,
 	"""
 	keyWait
 		any = false
@@ -214,7 +213,7 @@ script 50 mmbn5 {
 	clearMsg
 	"""
 	Eles vão ficar nessa
-	criancisse pra sempre?!
+	criancice pra sempre?!
 	"""
 	keyWait
 		any = false

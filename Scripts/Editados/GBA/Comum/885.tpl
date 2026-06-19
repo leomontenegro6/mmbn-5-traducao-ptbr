@@ -164,7 +164,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Vocês ricos tão
+	Vocês ricos são
 	todos patéticos!
 	"""
 	keyWait
@@ -281,7 +281,7 @@ script 11 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Eu sou o Lan!
+	Eu sou Lan Hikari!
 	Cê quer um desafio, né?
 	Então, cai dentro!
 	"""

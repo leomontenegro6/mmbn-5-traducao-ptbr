@@ -88,9 +88,9 @@ script 4 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	entro em Sincronia To-
-	tal, um estado em que
-	nós agimos como um só.
+	entro em Sincronia Total,
+	um estado em que nós
+	dois agimos como um só.
 	"""
 	keyWait
 		any = false
@@ -306,7 +306,7 @@ script 13 mmbn5 {
 	"""
 	Ô, calminha aí,
 	esquentadinho.
-	Ainda tem mais.
+	Ainda tem vírus sobrando.
 	"""
 	keyWait
 		any = false

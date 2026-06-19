@@ -23,7 +23,7 @@ script 0 mmbn5 {
 	"""
 	para me permitir
 	explicar as coisas
-	a você devidamente;.
+	a você devidamente.
 	"""
 	keyWait
 		any = false
@@ -279,7 +279,7 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ele se enche gradual-
+	Ela se enche gradual-
 	mente com o passar do
 	tempo, indo de amarelo
 	"""

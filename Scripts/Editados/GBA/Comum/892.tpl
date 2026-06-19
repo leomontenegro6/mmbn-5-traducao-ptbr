@@ -132,7 +132,7 @@ script 7 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"Mas o quê que...?!"
+	"Mas o que que...?!"
 	keyWait
 		any = false
 	end

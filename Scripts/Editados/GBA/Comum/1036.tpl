@@ -33,9 +33,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você lava as minhas
-	mãos, eu lavo as suas,
-	sabe?
+	Cê lava as minhas mãos,
+	eu lavo as suas, sabe?
 	"""
 	keyWait
 		any = false
@@ -207,8 +206,8 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	Pera... Será um efeito
-	efeito colateral de eu
-	usar Chips das Trevas?
+	colateral de eu usar
+	Chips das Trevas?
 	"""
 	keyWait
 		any = false

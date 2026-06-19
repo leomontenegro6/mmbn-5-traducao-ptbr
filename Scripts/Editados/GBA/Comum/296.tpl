@@ -109,9 +109,8 @@ script 37 mmbn5 {
 		mugshot = Girl
 	msgOpen
 	"""
-	Por que todos os chips
-	na vitrine são tão
-	caros?
+	Por que todos os chips 
+	na vitrine são tão caros?
 	"""
 	keyWait
 		any = false
@@ -232,8 +231,7 @@ script 90 mmbn5 {
 	clearMsg
 	"""
 	Se você quer uma coisa,
-	tem que pagar o preço,
-	é.
+	tem que pagar o preço, é.
 	"""
 	keyWait
 		any = false
@@ -382,9 +380,8 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	coisa bem legal, e
-	deixou cair a Ficha
-	de Dados.
+	coisa bem legal, e deixou
+	cair a Ficha de Dados.
 	"""
 	keyWait
 		any = false
@@ -408,7 +405,7 @@ script 92 mmbn5 {
 	msgOpen
 	"""
 	EEBAAAA!!!
-	É isto mesmo, é!
+	É isso mesmo, é!
 	Obrigado, é!
 	"""
 	keyWait

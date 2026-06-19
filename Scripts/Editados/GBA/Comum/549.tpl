@@ -42,7 +42,7 @@ script 2 mmbn5 {
 	mugshotShow
 		mugshot = Charlie
 	msgOpen
-	"Todo seu, Lan!"
+	"Vai que é tua, Lan!"
 	keyWait
 		any = false
 	end

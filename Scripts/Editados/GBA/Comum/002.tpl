@@ -384,11 +384,11 @@ script 106 mmbn5s {
 	end
 }
 script 107 mmbn5s {
-	"Equipe"
+	"Créditos"
 	end
 }
 script 108 mmbn5s {
-	"Team Colonel"
+	"Equipe Colonel"
 	end
 }
 script 109 mmbn5s {

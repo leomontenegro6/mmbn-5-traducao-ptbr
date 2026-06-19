@@ -37,7 +37,7 @@ script 1 mmbn5 {
 }
 script 2 mmbn5 {
 	msgOpen
-	"\"Esta porta está sob\ncontrole do SciLab."
+	"\"Esta porta está sob\njurisdição do SciLab."
 	keyWait
 		any = false
 	clearMsg
@@ -98,7 +98,7 @@ script 5 mmbn5 {
 		jumpIfTeamColonel = 6
 	mugshotHide
 	msgOpen
-	"\"Esta porta está sob\ncontrole do SciLab."
+	"\"Esta porta está sob\njurisdição do SciLab."
 	keyWait
 		any = false
 	clearMsg
@@ -130,7 +130,7 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Precisamos adquirir a
+	Precisamos possuir a
 	chave certa para isso.
 	"""
 	keyWait
@@ -156,7 +156,7 @@ script 5 mmbn5 {
 script 6 mmbn5 {
 	mugshotHide
 	msgOpen
-	"\"Esta porta está sob\ncontrole do SciLab."
+	"\"Esta porta está sob\njurisdição do SciLab."
 	keyWait
 		any = false
 	clearMsg

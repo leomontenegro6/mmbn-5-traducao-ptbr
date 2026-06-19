@@ -123,7 +123,7 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A CHAVE DE DESLIGAR
+	A CHAVE DE PARADA
 	QUE EU LHE DEI TAMBÉM
 	PODE SER USADA NAS
 	"""
@@ -131,7 +131,7 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	OUTRAS ALAVANCAS.
+	OUTRAS ESTEIRAS.
 	"""
 	keyWait
 		any = false

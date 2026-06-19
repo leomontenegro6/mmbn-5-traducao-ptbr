@@ -31,7 +31,7 @@ script 1 mmbn5 {
 	"Tshhh... "
 	soundPlay
 		track = 332
-	" Clém!"
+	"Clém!"
 	keyWait
 		any = false
 	clearMsg

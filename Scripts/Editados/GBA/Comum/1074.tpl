@@ -160,7 +160,7 @@ script 14 mmbn5 {
 	"""
 	Acho que ele prefere
 	fazer do jeito difícil.
-	Pronto, Lan Hikari?
+	Pronto, Hikari?
 	"""
 	keyWait
 		any = false

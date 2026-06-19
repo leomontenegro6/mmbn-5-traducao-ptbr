@@ -5,8 +5,8 @@ script 0 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Eu não esperava que
-	você chegasse até aqui.
+	Nunca imaginei que vocês
+	chegariam até aqui.
 	"""
 	keyWait
 		any = false
@@ -14,7 +14,7 @@ script 0 mmbn5 {
 	"""
 	E, para o seu próprio
 	bem, teria sido melhor
-	que não chegasse...!
+	que não chegassem...!
 	"""
 	keyWait
 		any = false
@@ -52,7 +52,7 @@ script 2 mmbn5 {
 	"""
 	Por esse motivo, a sua
 	chance de sobrevivência
-	é menos que zero!
+	é menor que zero!
 	"""
 	keyWait
 		any = false
@@ -71,9 +71,9 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E é por isso que a
-	gente sempre luta
-	com tudo!
+	E é por isso mesmo que
+	a gente sempre luta com
+	tudo!
 	"""
 	keyWait
 		any = false

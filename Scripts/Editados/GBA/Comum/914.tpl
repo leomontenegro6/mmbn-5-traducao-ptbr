@@ -144,8 +144,8 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	A coisa que o Dr. Regal
-	quer pode estar escon-
-	dida em qualquer lugar!
+	quer pode estar escondida
+	em qualquer lugar aqui!
 	"""
 	keyWait
 		any = false

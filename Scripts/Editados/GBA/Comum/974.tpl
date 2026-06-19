@@ -357,7 +357,7 @@ script 21 mmbn5 {
 	msgOpen
 	"""
 	Você tem companhia,
-	Lan... Eu vou espero no
+	Lan... Te espero no
 	helicóptero. Não demore.
 	"""
 	keyWait

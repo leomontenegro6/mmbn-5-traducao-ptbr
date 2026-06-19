@@ -159,8 +159,7 @@ script 8 mmbn5 {
 	msgOpen
 	"""
 	Navis da Nebula...
-	Será que é o
-	SearchMan?!
+	Será que é o SearchMan?!
 	"""
 	keyWait
 		any = false
@@ -174,8 +173,7 @@ script 9 mmbn5 {
 	msgOpen
 	"""
 	Navis da Nebula...
-	Será que é o
-	NumberMan?!
+	Será que é o NumberMan?!
 	"""
 	keyWait
 		any = false

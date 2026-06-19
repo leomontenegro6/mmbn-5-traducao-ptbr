@@ -30,9 +30,8 @@ script 1 mmbn5 {
 		mugshot = SciLabWoman
 	msgOpen
 	"""
-	Estou fazendo um
-	backup deste sistema
-	aqui.
+	Estou fazendo um backup
+	deste sistema aqui.
 	"""
 	keyWait
 		any = false
@@ -248,14 +247,14 @@ script 41 mmbn5 {
 	"""
 	Não são só os Navis
 	da Nebula, tem os
-	Darkloides também...
+	Tenebroides também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Nem o ProtoMan consegue
-	enfrentar tantos
+	dar conta de tantos
 	inimigos assim!
 	"""
 	keyWait
@@ -276,14 +275,14 @@ script 42 mmbn5 {
 	"""
 	Não são só os Navis
 	da Nebula, tem os
-	Darkloides também...
+	Tenebroides também...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Nem o Colonel consegue
-	enfrentar tantos
+	dar conta de tantos
 	inimigos assim!
 	"""
 	keyWait
@@ -365,8 +364,7 @@ script 51 mmbn5 {
 	msgOpen
 	"""
 	Obrigada por nos ajudar
-	a evitar o pior dos
-	casos.
+	a evitar o pior dos casos.
 	"""
 	keyWait
 		any = false

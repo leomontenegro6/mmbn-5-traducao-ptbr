@@ -92,8 +92,8 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A Área ACDC Area
-	está a salvo agora.
+	A Área ACDC está
+	a salvo agora.
 	"""
 	keyWait
 		any = false

@@ -14,13 +14,13 @@ script 30 mmbn5 {
 	mugshotShow
 		mugshot = Dex
 	msgOpen
-	"He he he..."
+	"Uff... Arf..."
 	keyWait
 		any = false
 	clearMsg
 	"""
 	É preciso ser durão pra
-	mandar bem na luta...
+	mandar bem na NetLuta...
 	"""
 	keyWait
 		any = false
@@ -38,9 +38,9 @@ script 35 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Acho que tem alguém
+	Acho que tem mais alguém
 	treinando mais lá pra
-	cima também.
+	cima, também.
 	"""
 	keyWait
 		any = false
@@ -48,7 +48,7 @@ script 35 mmbn5 {
 	"""
 	Eu escuto a pessoa, às
 	vezes. Parece que ela
-	leva bem a sério!
+	leva o negócio a sério!
 	"""
 	keyWait
 		any = false

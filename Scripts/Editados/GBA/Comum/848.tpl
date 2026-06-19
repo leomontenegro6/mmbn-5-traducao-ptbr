@@ -80,7 +80,7 @@ script 5 mmbn5 {
 	clearMsg
 	"""
 	Nossa, acho que eu
-	estravasei uma década
+	extravasei uma década
 	inteira de estresse nela!
 	"""
 	keyWait
@@ -189,15 +189,16 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	É melhor você ir
-	logo salvar os
+	salvar logo os
 	seus amiguinhos!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Aquele acesso ali vai
-	te levar lá pra baixo!
+	Esse acesso à sua
+	frente deve te levar
+	lá pra baixo!
 	"""
 	keyWait
 		any = false

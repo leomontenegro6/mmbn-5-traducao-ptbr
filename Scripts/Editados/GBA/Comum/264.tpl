@@ -6,7 +6,8 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	O que cê vai escrever
-	no seu relatório?
+	no seu trabalho da
+	escola?
 	"""
 	keyWait
 		any = false
@@ -369,8 +370,7 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Eu vi o Dex ainda
-	agora.
+	Eu vi o Dex ainda agora.
 	Ele tava boladão.
 	"""
 	keyWait

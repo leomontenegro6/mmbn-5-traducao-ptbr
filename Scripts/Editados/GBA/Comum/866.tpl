@@ -201,7 +201,7 @@ script 7 mmbn5 {
 	"""
 	pra conseguir passar
 	pela defesa potente
-	od MagnetMan!
+	do MagnetMan!
 	"""
 	keyWait
 		any = false

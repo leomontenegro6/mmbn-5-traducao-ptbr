@@ -126,9 +126,9 @@ script 13 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Você sabe quem é o
-	analista supremo de
-	dados!
+	Eu sei quem é o
+	analista supremo
+	de dados!
 	"""
 	keyWait
 		any = false
@@ -218,7 +218,7 @@ script 20 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos contar pra ele
+	Vamos contar pro cara
 	que tava tudo bem na
 	Área Endo!
 	"""
@@ -474,7 +474,7 @@ script 60 mmbn5 {
 	msgOpen
 	"""
 	O que será que o Chaud
-	anda fazendo?
+	quer?
 	"""
 	keyWait
 		any = false
@@ -486,7 +486,7 @@ script 61 mmbn5 {
 	msgOpen
 	"""
 	O que será que o Baryl
-	anda fazendo?
+	quer?
 	"""
 	keyWait
 		any = false
@@ -524,7 +524,8 @@ script 64 mmbn5 {
 	msgOpen
 	"""
 	Aonde será que o vovô
-	levava o cachorro?
+	levava o cachorro? Um
+	lugar cheio de terra...
 	"""
 	keyWait
 		any = false
@@ -568,9 +569,8 @@ script 66 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Acho que tem alguma
-	coisa a ver com o
-	SciLab...
+	Acho que tem alguma coisa
+	a ver com o SciLab...
 	"""
 	keyWait
 		any = false
@@ -664,9 +664,9 @@ script 74 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Um novo local pro Con-
-	trole de Missão? Quem
-	a gente consulta...?
+	Um novo local pro Controle
+	de Missão? Quem a gente
+	consulta...?
 	"""
 	keyWait
 		any = false
@@ -677,7 +677,7 @@ script 75 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	O Arquivo de Dados fica
+	A Ficha de Dados caiu
 	perto de um objeto im-
 	pressionante em Endo 3.
 	"""

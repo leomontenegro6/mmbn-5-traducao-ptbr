@@ -29,9 +29,9 @@ script 1 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Essa é a base da Nebula,
-	lar do Sindicato Chip
-	das Trevas.
+	Esta é a base da Nebula,
+	lar do Sindicato Chip das
+	Trevas.
 	"""
 	keyWait
 		any = false
@@ -329,9 +329,9 @@ script 17 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Essa é a base da Nebula,
-	lar do Sindicato Chip
-	das Trevas.
+	Esta é a base da Nebula,
+	lar do Sindicato Chip das
+	Trevas.
 	"""
 	keyWait
 		any = false

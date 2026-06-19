@@ -5,7 +5,7 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	A porta secreta fica aí.
+	A porta secreta fica ali.
 	Vá!
 	"""
 	keyWait
@@ -18,7 +18,7 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	Parece haver uma
-	porta secreta aí.
+	porta secreta ali.
 	"""
 	keyWait
 		any = false

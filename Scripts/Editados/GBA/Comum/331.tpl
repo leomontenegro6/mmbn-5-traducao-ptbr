@@ -413,9 +413,8 @@ script 65 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	diferente da situação
-	no SciLab, que é
-	urgente!
+	diferente da situação no
+	SciLab, que é urgente!
 	"""
 	keyWait
 		any = false

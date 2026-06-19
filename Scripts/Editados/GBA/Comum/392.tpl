@@ -410,7 +410,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Apimentado\n"
+	" Amargo\n"
 	option
 		brackets = 0
 		left = 2
@@ -419,7 +419,7 @@ script 2 mmbn5 {
 		down = 0
 	space
 		count = 1
-	" Amargo"
+	" Apimentado"
 	select
 		default = 0
 		BSeparate = false
@@ -718,7 +718,7 @@ script 2 mmbn5 {
 	clearMsg
 	"""
 	Em qual das esculturas
-	à frente do SciLab dá
+	em frente ao SciLab dá
 	para se conectar?
 	"""
 	keyWait
@@ -1544,8 +1544,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Quando me achar, você
-	vai ter que gritar:
+	Quando me achar
+	você tem que gritar:
 	"Te peguei!"
 	"""
 	keyWait
@@ -1598,7 +1598,7 @@ script 13 mmbn5 {
 	"""
 	Vou estar em uma das
 	Áreas ACDC. Vem me
-	procurar, tá bom?!
+	procurar, viu?!
 	"""
 	keyWait
 		any = false

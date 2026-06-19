@@ -63,8 +63,8 @@ script 50 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Por que o Chaud fez
-	a gente vir pra cá?
+	Por que será que o
+	Chaud me chamou aqui?
 	"""
 	keyWait
 		any = false
@@ -75,8 +75,8 @@ script 51 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Por que o Baryl fez
-	a gente vir pra cá?
+	Por que será que o
+	Baryl me chamou aqui?
 	"""
 	keyWait
 		any = false
@@ -181,8 +181,8 @@ script 57 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Destranque a porta para
-	a Área Oran 2. Iremos
+	Destranque a porta na
+	Área Oran 2. Iremos
 	para a Área Endo.
 	"""
 	keyWait
@@ -194,8 +194,8 @@ script 58 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Destranque a porta para
-	a Área Oran 2. Iremos
+	Destranque a porta na
+	Área Oran 2. Iremos
 	para a Área Endo.
 	"""
 	keyWait
@@ -237,9 +237,9 @@ script 61 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Alguém que tenha um
-	convite para uma
-	festa... Entendo.
+	Alguém que seria
+	convidado para uma
+	festa assim... Entendo.
 	"""
 	keyWait
 		any = false
@@ -250,9 +250,9 @@ script 62 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Alguém que tenha um
-	convite para uma
-	festa... Entendo.
+	Alguém que seria
+	convidado para uma
+	festa assim... Entendo.
 	"""
 	keyWait
 		any = false
@@ -422,9 +422,8 @@ script 74 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Vamos investigar um
-	pouco o interior do
-	navio...
+	Vamos investigar
+	um pouco o navio...
 	"""
 	keyWait
 		any = false
@@ -435,9 +434,8 @@ script 75 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Vamos investigar um
-	pouco o interior do
-	navio...
+	Vamos investigar
+	um pouco o navio...
 	"""
 	keyWait
 		any = false
@@ -463,9 +461,9 @@ script 76 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Temos os carimbos de
-	que precisamos. Agora,
-	fale com o organizador!
+	Adquirimos todos os
+	carimbos. Agora, fale
+	com o organizador!
 	"""
 	keyWait
 		any = false
@@ -488,9 +486,9 @@ script 77 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Temos os carimbos de
-	que precisamos. Agora,
-	fale com o organizador!
+	Adquirimos todos os
+	carimbos. Agora, fale
+	com o organizador!
 	"""
 	keyWait
 		any = false
@@ -504,8 +502,8 @@ script 78 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Siga para a Sala
-	das Máquinas!
+	Siga para a sala
+	das máquinas!
 	"""
 	keyWait
 		any = false
@@ -516,8 +514,8 @@ script 79 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Siga para a Sala
-	das Máquinas!
+	Siga para a sala
+	das máquinas!
 	"""
 	keyWait
 		any = false
@@ -568,8 +566,8 @@ script 80 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Para a Sala das
-	Máquinas. Depressa!
+	Para a sala das
+	máquinas. Depressa!
 	"""
 	keyWait
 		any = false
@@ -580,8 +578,8 @@ script 81 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Para a Sala das
-	Máquinas. Temos
+	Para a sala das
+	máquinas. Temos
 	que nos apressar.
 	"""
 	keyWait
@@ -601,8 +599,8 @@ script 82 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Volte à Sala das
-	Máquinas! Precisamos
+	Volte à sala das
+	máquinas! Precisamos
 	corrigir o bug.
 	"""
 	keyWait
@@ -614,8 +612,8 @@ script 83 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Volte à Sala das
-	Máquinas! Precisamos
+	Volte à sala das
+	máquinas! Precisamos
 	corrigir o bug.
 	"""
 	keyWait
@@ -695,7 +693,7 @@ script 88 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Iremos para a festa.
+	Sigamos para a festa.
 	"""
 	keyWait
 		any = false
@@ -706,7 +704,7 @@ script 89 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Iremos para a festa.
+	Sigamos para a festa.
 	"""
 	keyWait
 		any = false
@@ -720,7 +718,7 @@ script 90 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Investigue a sala!
+	Investigue o salão!
 	Deve haver algum tipo
 	de truque!
 	"""
@@ -733,7 +731,7 @@ script 91 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Investigue a sala!
+	Investigue o salão!
 	Deve haver algum tipo
 	de truque!
 	"""
@@ -776,7 +774,7 @@ script 94 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Vamos atrás daquele
+	Vamos atrás do
 	sujeito, Hikari!
 	"""
 	keyWait
@@ -789,7 +787,7 @@ script 95 mmbn5 {
 	msgOpen
 	"""
 	Vamos atrás daquele
-	sujeito, Lan!
+	sujeito, Lan Hikari!
 	"""
 	keyWait
 		any = false
@@ -961,8 +959,8 @@ script 110 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Vamos vasculhar o
-	navio.
+	Vamos investigar
+	o navio.
 	"""
 	keyWait
 		any = false
@@ -973,8 +971,8 @@ script 111 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Vamos vasculhar o
-	navio.
+	Vamos investigar
+	o navio.
 	"""
 	keyWait
 		any = false

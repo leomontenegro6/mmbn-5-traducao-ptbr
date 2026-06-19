@@ -82,8 +82,8 @@ script 11 mmbn5 {
 		mugshot = CosmoMan
 	msgOpen
 	"""
-	Navis insignificantes
-	como vocês não têm
+	Um Navi insignificante
+	como você não tem
 	chance contra mim!
 	"""
 	keyWait

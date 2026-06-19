@@ -5,9 +5,9 @@ script 0 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	DublSoul requires
-	the sacrifice of a
-	compatible chip.
+	A União de Alma requer
+	o sacrifício de um
+	chip compatível.
 	"""
 	keyWait
 		any = false
@@ -19,8 +19,8 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	Sacrifice? Does that
-	mean I'll lose it?
+	Sacrifício?
+	Então eu perco ele?
 	"""
 	keyWait
 		any = false
@@ -33,32 +33,32 @@ script 2 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	You got it. Right
-	now,MegaMan can
-	unite with KngtSoul.
+	Correto. No momento,
+	o MegaMan pode se unir
+	à KngtAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	KnightMan's a Navi
-	that can destroy all
-	with one swing⋯
+	O KnightMan é um Navi
+	capaz de destruir tudo
+	com um só golpe...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sacrifice AirHoc or
-	another Break-based
-	chips to DublSoul.
+	Sacrifique AirHoc ou
+	um chip de Quebra afim
+	para ativar a UniAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Here's how to do it.
-	First,select
+	Vou mostrar como se faz.
+	Primeiro, selecione o
 	AirHoc.
 	"""
 	keyWait
@@ -70,8 +70,8 @@ script 3 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Next,select the
-	Unite command.
+	Em seguida, selecione
+	o comando "Unir".
 	"""
 	keyWait
 		any = false
@@ -81,7 +81,7 @@ script 4 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"Give it a try,Lan."
+	"Vamos seguir, Lan."
 	keyWait
 		any = false
 	end
@@ -91,8 +91,8 @@ script 5 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Let's practice⋯
-	Select AirHoc.
+	Vamos praticar...
+	Selecione AirHoc.
 	"""
 	keyWait
 		any = false
@@ -103,9 +103,9 @@ script 6 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No,select AirHoc.
-	Cancel and then try
-	selecting it again.
+	Não, selecione o AirHoc.
+	Cancele e selecione de
+	novo.
 	"""
 	keyWait
 		any = false
@@ -116,8 +116,8 @@ script 7 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	No,no! Select the
-	Unite command.
+	Não, não! Selecione
+	o comando "Unir".
 	"""
 	keyWait
 		any = false
@@ -128,8 +128,7 @@ script 8 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Hey,there's no
-	need to cancel.
+	Ei, não precisa cancelar.
 	"""
 	keyWait
 		any = false
@@ -140,8 +139,8 @@ script 9 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Hold on there!
-	⋯There's more.
+	Espere!
+	... Ainda não acabamos.
 	"""
 	keyWait
 		any = false
@@ -152,54 +151,55 @@ script 10 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	So that's how a
-	DublChip is made.
-	Selecting OK will
+	E é assim que se
+	executa a UniAlma.
+	Se apertar "OK", você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	now automatically
-	activate DublSoul.
-	KngtSoul has x2 Atk
+	irá ativar a UniAlma
+	automaticamente.
+	A KngtAlma causa dano
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	when using A Button
-	PwrAtk with Break-
-	based chips.
+	dobrado ao segurar e
+	soltar "A" ao se usar
+	chips de Quebra.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	You'll be invincible
-	temporarily when
+	Você também ficará
+	temporariamente
+	invencível
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	using the chip at
-	an area's front.
+	enquanto estiver usando
+	um chip na coluna da
+	frente da sua área.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A PwrAtk with the B
-	Button becomes a
-	Royal Wrecking Ball!
+	E o ataque carregado com
+	"B" se tornará uma Bola
+	de Demolição Real!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Now,let's give
-	it a try.
+	Bom, vamos testar.
 	"""
 	keyWait
 		any = false
@@ -210,47 +210,49 @@ script 11 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	That's DublSoul.
-	Mastering it will
-	make you stronger.
+	Essa é a União de Alma.
+	Dominá-la com certeza
+	vai te deixar mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	However,there are a
-	few restrictions
-	on uniting.
+	Contudo, a União
+	apresenta certas
+	restrições.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	First,you can't
-	sacrifice Regular
-	Chips.
+	Em primeiro lugar, não
+	é possível sacrificar
+	Chips Padrão.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Second,you can only
-	unite once with the
-	same soul in battle.
+	Em segundo, você só
+	pode se unir a cada
+	alma uma vez por luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Third,DublSoul only
-	lasts 3 turns.
+	E em terceiro, a
+	União de Alma só
+	dura três turnos.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Consider this before
-	you use DublSoul.
+	Pense bem em tudo
+	isso antes de usar
+	esse novo poder.
 	"""
 	keyWait
 		any = false
@@ -260,7 +262,7 @@ script 12 mmbn5 {
 	mugshotShow
 		mugshot = Baryl
 	msgOpen
-	"No need to cancel."
+	"Não precisa cancelar."
 	keyWait
 		any = false
 	end

@@ -20,7 +20,7 @@ script 0 mmbn5 {
 	msgOpen
 	"""
 	Aí, guri!
-	Come os meus biscoitos!
+	Come os meus bolinhos!
 	"""
 	keyWait
 		any = false
@@ -162,8 +162,8 @@ script 21 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Eu fico com essa lem-
-	brança de que bati a
+	Eu fico com essa
+	lembrança de que bati a
 	cabeça com muita força.
 	"""
 	keyWait
@@ -198,9 +198,8 @@ script 22 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Quem foi o culpado
-	disso? Não teve graça
-	nenhuma!
+	Quem foi o culpado disso?
+	Não teve graça nenhuma!
 	"""
 	keyWait
 		any = false
@@ -232,7 +231,7 @@ script 30 mmbn5 {
 	msgOpen
 	"""
 	Eu nunca vou parar de
-	vender meus biscoitos!
+	vender meus quitutes!
 	Nunca, jamais!
 	"""
 	keyWait

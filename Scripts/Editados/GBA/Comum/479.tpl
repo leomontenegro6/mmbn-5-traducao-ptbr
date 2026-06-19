@@ -451,7 +451,7 @@ script 100 mmbn5 {
 	msgOpen
 	"""
 	São dados de registro
-	de luta do SerchMan.
+	de luta do SearchMan.
 	"""
 	keyWait
 		any = false
@@ -460,7 +460,7 @@ script 100 mmbn5 {
 		mugshot = MegaMan
 	"""
 	Lan, vamos desafiar
-	o SerchMan?
+	o SearchMan?
 	"""
 	keyWait
 		any = false
@@ -501,7 +501,7 @@ script 100 mmbn5 {
 		mugshot = MegaMan
 	"""
 	Beleza!
-	Hora da revanche!
+	Outra hora, então!
 	"""
 	keyWait
 		any = false
@@ -538,6 +538,8 @@ script 101 mmbn5 {
 }
 script 102 mmbn5 {
 	mugshotShow
+		mugshot = MegaMan
+	msgOpen
 	"Vencemos!"
 	keyWait
 		any = false
@@ -625,7 +627,7 @@ script 105 mmbn5 {
 		mugshot = MegaMan
 	"""
 	Beleza!
-	Hora da revanche!
+	Outra hora, então!
 	"""
 	keyWait
 		any = false
@@ -662,6 +664,8 @@ script 106 mmbn5 {
 }
 script 107 mmbn5 {
 	mugshotShow
+		mugshot = MegaMan
+	msgOpen
 	"Vencemos!"
 	keyWait
 		any = false

@@ -28,7 +28,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Trrriiiimmm..."
+	"Trrriiiimmm...\n"
 	wait
 		frames = 120
 	soundDisableTextSFX
@@ -229,7 +229,7 @@ script 7 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Trrriiiimmm..."
+	"Trrriiiimmm...\n"
 	wait
 		frames = 120
 	soundDisableTextSFX

@@ -137,7 +137,7 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	Bora encerrar por hoje.
-	Depois desta volta,
+	Depois disto aqui,
 	a gente desconecta.
 	"""
 	keyWait
@@ -182,8 +182,7 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	Bora voltar pra Ilha
-	Oran e ver como tá a
-	Tesla!
+	Oran e ajudar a Tesla!
 	"""
 	keyWait
 		any = false
@@ -284,7 +283,7 @@ script 28 mmbn5 {
 	msgOpen
 	"""
 	Bora ver a nuvem
-	preta em SciLab 2!
+	roxa em SciLab 2!
 	"""
 	keyWait
 		any = false
@@ -372,8 +371,8 @@ script 57 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Destranque a porta para
-	a Área Oran 2. Iremos
+	Destranque a porta na
+	Área Oran 2. Iremos
 	para a Área Endo.
 	"""
 	keyWait
@@ -501,9 +500,8 @@ script 74 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora dar uma volta
-	e conferir o interior
-	do navio!
+	Bora dar uma volta e
+	conferir a área do navio!
 	"""
 	keyWait
 		any = false
@@ -526,9 +524,9 @@ script 76 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Temos os carimbos de
-	que precisamos. Agora,
-	fale com o organizador!
+	Adquirimos todos os
+	carimbos. Agora, fale
+	com o organizador!
 	"""
 	keyWait
 		any = false
@@ -539,8 +537,8 @@ script 78 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Bora pra Sala das
-	Máquinas!
+	Bora pra sala das
+	máquinas!
 	"""
 	keyWait
 		any = false
@@ -584,8 +582,8 @@ script 80 mmbn5 {
 	msgOpen
 	"""
 	Desconecta! A gente
-	tem que ir na Sala
-	das Máquinas!
+	tem que ir na sala
+	das máquinas!
 	"""
 	keyWait
 		any = false
@@ -596,8 +594,8 @@ script 82 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Vamos pra Sala das
-	Máquinas! Temos que
+	Vamos pra sala das
+	máquinas! Temos que
 	consertar o bug!
 	"""
 	keyWait
@@ -610,8 +608,8 @@ script 86 mmbn5 {
 	msgOpen
 	"""
 	Desconecta! Vamos
-	voltar pra Sala das
-	Máquinas!
+	voltar pra sala das
+	máquinas!
 	"""
 	keyWait
 		any = false
@@ -652,8 +650,8 @@ script 90 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Desconecta! Vamos
-	tentar descobrir o
+	Desconecta! A gente
+	tem que descobrir o
 	truque do Salão Fiesta!
 	"""
 	keyWait

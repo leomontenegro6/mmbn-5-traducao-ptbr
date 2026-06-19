@@ -99,7 +99,7 @@ script 0 mmbn5 {
 	printFolderName
 		buffer = 0
 		entry = 3
-	"\"."
+	".\""
 	keyWait
 		any = false
 	end
@@ -180,7 +180,7 @@ script 1 mmbn5 {
 	printFolderName
 		buffer = 0
 		entry = 3
-	"\"."
+	".\""
 	keyWait
 		any = false
 	end
@@ -233,7 +233,7 @@ script 2 mmbn5 {
 	printFolderName
 		buffer = 0
 		entry = 3
-	"\"."
+	".\""
 	keyWait
 		any = false
 	clearMsg

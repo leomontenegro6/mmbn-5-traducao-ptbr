@@ -147,7 +147,7 @@ script 8 mmbn5 {
 	"""
 	Aqui são exibidos os
 	terminais nos quais o
-	SciLab vem trabalhando.
+	SciLab já trabalhou.
 	"""
 	keyWait
 		any = false

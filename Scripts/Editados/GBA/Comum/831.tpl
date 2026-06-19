@@ -108,7 +108,7 @@ script 6 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 219
-	"Trriiiiimmm..."
+	"Trriiiiimmm...\n"
 	wait
 		frames = 120
 	soundDisableTextSFX

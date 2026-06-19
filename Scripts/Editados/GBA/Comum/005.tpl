@@ -101,7 +101,7 @@ script 24 mmbn5s {
 	end
 }
 script 25 mmbn5s {
-	"________Cais"
+	"_______Porto"
 	end
 }
 script 26 mmbn5s {
@@ -117,7 +117,7 @@ script 28 mmbn5s {
 	end
 }
 script 29 mmbn5s {
-	"_Sala Fiesta"
+	"Salão Fiesta"
 	end
 }
 script 30 mmbn5s {
@@ -129,11 +129,11 @@ script 31 mmbn5s {
 	end
 }
 script 32 mmbn5s {
-	"____Sala Mãe"
+	"Sala Crisân."
 	end
 }
 script 33 mmbn5s {
-	"_Quarto Lily"
+	"__Sala Lírio"
 	end
 }
 script 34 mmbn5s {
@@ -271,7 +271,7 @@ script 67 mmbn5s {
 	end
 }
 script 68 mmbn5s {
-	"CPUTravaElét"
+	"CPUTrancElét"
 	end
 }
 script 69 mmbn5s {
@@ -279,11 +279,11 @@ script 69 mmbn5s {
 	end
 }
 script 70 mmbn5s {
-	"CPUArCondici"
+	"CPUVntilação"
 	end
 }
 script 71 mmbn5s {
-	"CPU Parafuso"
+	"CPU Juntas"
 	end
 }
 script 72 mmbn5s {
@@ -431,15 +431,15 @@ script 107 mmbn5s {
 	end
 }
 script 108 mmbn5s {
-	"Area Nebula2"
+	"Área Nebula2"
 	end
 }
 script 109 mmbn5s {
-	"Area Nebula4"
+	"Área Nebula4"
 	end
 }
 script 110 mmbn5s {
-	"Area Nebula6"
+	"Área Nebula6"
 	end
 }
 script 111 mmbn5s {
@@ -447,7 +447,7 @@ script 111 mmbn5s {
 	end
 }
 script 112 mmbn5s {
-	"CPU Fornalha"
+	"CPU Lareira"
 	end
 }
 script 113 mmbn5s {
@@ -558,7 +558,7 @@ script 139 mmbn5s {
 	end
 }
 script 140 mmbn5s {
-	"CPU Mensagem"
+	"CPU Qdro Msg"
 	end
 }
 script 240 mmbn5s {

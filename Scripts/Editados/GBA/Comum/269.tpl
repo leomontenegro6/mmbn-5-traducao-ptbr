@@ -376,7 +376,7 @@ script 11 mmbn5 {
 	mugshotShow
 		mugshot = Mom
 	msgOpen
-	"Cuidado, filho."
+	"Se cuida, filho."
 	keyWait
 		any = false
 	end
@@ -431,7 +431,7 @@ script 20 mmbn5 {
 	". "
 	waitSkip
 		frames = 30
-	"Uff..."
+	"Ai..."
 	keyWait
 		any = false
 	end
@@ -465,8 +465,8 @@ script 35 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Já vai embora?
-	Divirtam-se!
+	Já vai pra praia?
+	Aproveitem!
 	"""
 	keyWait
 		any = false

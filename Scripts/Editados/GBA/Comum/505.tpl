@@ -72,8 +72,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	É SÓ FICAR NA FRENTE
-	DA PEDRA E APERTAR
-	"A".
+	DA PEDRA E APERTAR "A".
 	"""
 	keyWait
 		any = false
@@ -121,8 +120,7 @@ script 1 mmbn5 {
 	clearMsg
 	"""
 	É SÓ FICAR NA FRENTE
-	DA PEDRA E APERTAR
-	"A".
+	DA PEDRA E APERTAR "A".
 	"""
 	keyWait
 		any = false

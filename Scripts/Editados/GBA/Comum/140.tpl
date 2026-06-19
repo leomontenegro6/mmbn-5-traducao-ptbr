@@ -202,7 +202,7 @@ script 7 mmbn5 {
 script 8 mmbn5 {
 	msgOpen
 	"""
-	Certas peças estão
+	Certas partes estão
 	cobertas de ferrugem.
 	"""
 	keyWait
@@ -210,8 +210,7 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	Provavelmente corroídas
-	pela brisa salgada do
-	mar.
+	pela brisa salgada do mar.
 	"""
 	keyWait
 		any = false

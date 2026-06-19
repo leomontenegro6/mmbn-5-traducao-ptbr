@@ -10,9 +10,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Uma rede mantém a soci-
-	edade a salvo de toda
-	ameaça cibernética.
+	Uma rede mantém a
+	sociedade a salvo de
+	toda ameaça cibernética.
 	"""
 	keyWait
 		any = false
@@ -189,7 +189,7 @@ script 11 mmbn5 {
 	mugshotHide
 	msgOpen
 	"""
-	Lan pegou o
+	Lan pegou seu
 	terminal pessoal:
 	"""
 	keyWait

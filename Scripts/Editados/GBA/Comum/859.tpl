@@ -100,7 +100,7 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Good luck to you!"
+	"Boa sorte!"
 	keyWait
 		any = false
 	clearMsg
@@ -121,7 +121,7 @@ script 4 mmbn5 {
 	msgOpen
 	"""
 	MegaMan, bora atrás
-	dos agentes da Nebula
+	desses agentes da Nebula
 	que sobraram aqui!
 	"""
 	keyWait

@@ -193,8 +193,7 @@ script 40 mmbn5 {
 	msgOpen
 	"""
 	PARECE QUE A ÁREA
-	SCILAB ESTÁ EM
-	APUROS...
+	SCILAB ESTÁ EM APUROS...
 	"""
 	keyWait
 		any = false

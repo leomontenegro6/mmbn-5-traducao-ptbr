@@ -300,7 +300,7 @@ script 25 mmbn5 {
 	msgOpen
 	"""
 	Desculpa não poder
-	vir antes, coaxo.
+	vir antes, croac.
 	"""
 	keyWait
 		any = false
@@ -308,7 +308,7 @@ script 25 mmbn5 {
 	"""
 	Mas, agora, você
 	tem 100% da minha
-	atenção! Coaxo!
+	atenção! Croac!
 	"""
 	keyWait
 		any = false

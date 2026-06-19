@@ -84,7 +84,7 @@ script 2 mmbn5 {
 script 3 mmbn5 {
 	msgOpen
 	"""
-	O Código de Segurança
+	O Cubo de Segurança
 	da página da Mayl.
 	"""
 	keyWait
@@ -102,7 +102,7 @@ script 3 mmbn5 {
 script 4 mmbn5 {
 	msgOpen
 	"""
-	O Código de Segurança
+	O Cubo de Segurança
 	da página da Yai.
 	"""
 	keyWait

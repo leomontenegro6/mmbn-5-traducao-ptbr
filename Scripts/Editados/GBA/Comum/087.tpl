@@ -68,7 +68,7 @@ script 30 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Entra lá e acaba
+	Vai nessa! Acaba
 	com essa barreira!
 	"""
 	keyWait

@@ -328,7 +328,7 @@ script 20 mmbn5 {
 	"""
 	Então, temos outro
 	criminoso pra achar
-	dentre todos aqui??
+	dentre todos aqui?!
 	"""
 	keyWait
 		any = false
@@ -354,9 +354,9 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O ladrão deve ter
-	achado uma forma de se
-	conectar ao CPUVisualizç,
+	O ladrão deve ter achado
+	uma forma de se conectar
+	ao CPUVisualização,
 	"""
 	keyWait
 		any = false
@@ -387,9 +387,9 @@ script 22 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O ladrão deve ter
-	achado uma forma de se
-	conectar ao CPUVisualizç,
+	O ladrão deve ter achado
+	uma forma de se conectar
+	ao CPUVisualização,
 	"""
 	keyWait
 		any = false

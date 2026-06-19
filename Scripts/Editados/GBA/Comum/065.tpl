@@ -486,8 +486,8 @@ script 57 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Destranque a porta para
-	a Área Oran 2. Iremos
+	Destranque a porta na
+	Área Oran 2. Iremos
 	para a Área Endo.
 	"""
 	keyWait
@@ -499,8 +499,8 @@ script 58 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Destranque a porta para
-	a Área Oran 2. Iremos
+	Destranque a porta na
+	Área Oran 2. Iremos
 	para a Área Endo.
 	"""
 	keyWait
@@ -542,9 +542,9 @@ script 61 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Alguém que tenha um
-	convite para uma
-	festa... Entendo.
+	Alguém que seria
+	convidado para uma
+	festa assim... Entendo.
 	"""
 	keyWait
 		any = false
@@ -555,9 +555,9 @@ script 62 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Alguém que tenha um
-	convite para uma
-	festa... Entendo.
+	Alguém que seria
+	convidado para uma
+	festa assim... Entendo.
 	"""
 	keyWait
 		any = false

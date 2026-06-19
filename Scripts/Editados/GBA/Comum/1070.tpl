@@ -42,8 +42,8 @@ script 1 mmbn5 {
 		mugshot = ProtoMan
 	msgOpen
 	"""
-	Esse é um Quadro Negro.
-	Ele é manchado com o
+	Esses são Quadros Negros.
+	Quadros manchados com o
 	Poder das Trevas.
 	"""
 	keyWait
@@ -147,7 +147,7 @@ script 5 mmbn5 {
 	"""
 	Observe o medidor no
 	canto superior-direito
-	da tela aqui.
+	da tela.
 	"""
 	keyWait
 		any = false
@@ -370,9 +370,9 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Recomendo iniciar
-	essa luta deste ponto
-	inferior-direito.
+	Comece liberando o bloco
+	direito ou o esquerdo
+	pelo lado sudeste.
 	"""
 	keyWait
 		any = false
@@ -476,8 +476,8 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	msgOpen
 	"""
-	Esse é um Quadro Negro.
-	Ele é manchado com o
+	Esses são Quadros Negros.
+	Quadros manchados com o
 	Poder das Trevas.
 	"""
 	keyWait
@@ -582,7 +582,7 @@ script 35 mmbn5 {
 	"""
 	Observe o medidor no
 	canto superior-direito
-	da tela aqui.
+	da tela.
 	"""
 	keyWait
 		any = false
@@ -796,9 +796,9 @@ script 53 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Recomendo iniciar
-	essa luta deste ponto
-	inferior-direito.
+	Comece liberando o bloco
+	direito ou o esquerdo
+	pelo lado sudeste.
 	"""
 	keyWait
 		any = false

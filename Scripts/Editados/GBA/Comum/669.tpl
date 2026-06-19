@@ -70,7 +70,8 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	Lembre-se: mantenha
-	a calma e o foco.
+	sempre a calma e a
+	concentração.
 	"""
 	keyWait
 		any = false
@@ -88,15 +89,15 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu vigio o elmo que
-	fica na sala ao lado.
+	Eu monitoro os elmos
+	que ficam nesta sala.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Recomendo você ir dar
-	uma conferida nele.
+	Recomendo a você dar
+	uma conferida neles.
 	"""
 	keyWait
 		any = false

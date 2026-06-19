@@ -100,7 +100,7 @@ script 4 mmbn5 {
 	"""
 	DAÍ, VOCÊ PODERÁ
 	TRANSITAR LIVREMENTE
-	ENTRE ESTA PÁGINA
+	ENTRE A SUA PÁGINA
 	"""
 	keyWait
 		any = false
@@ -242,7 +242,7 @@ script 11 mmbn5 {
 	"""
 	A MAYL COMEÇOU A
 	COMPOR MÚSICAS NO
-	PC ESTES DIAS.
+	COMPUTADOR ESTES DIAS.
 	"""
 	keyWait
 		any = false
@@ -502,9 +502,8 @@ script 22 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	EU TAVA FALANDO MAL
-	DA MAYL E, AÍ, EU
-	ACORDEI.
+	EU TAVA FALANDO MAL DA
+	MAYL E, AÍ, EU ACORDEI.
 	"""
 	keyWait
 		any = false

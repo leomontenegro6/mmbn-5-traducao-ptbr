@@ -80,7 +80,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	"""
-	OK! EXECUÇÃO
+	OK! Execução
 	concluída!
 	"""
 	keyWait
@@ -119,8 +119,8 @@ script 2 mmbn5 {
 	soundPlay
 		track = 123
 	"""
-	Sair do Cus-
-	tomizador?
+	Sair do
+	Customizador?
 	
 	"""
 	positionOptionFromCenter
@@ -183,8 +183,8 @@ script 3 mmbn5 {
 	soundPlay
 		track = 123
 	"""
-	Sair do Cus-
-	tomizador?
+	Sair do
+	Customizador?
 	
 	"""
 	positionOptionFromCenter
@@ -308,7 +308,7 @@ script 5 mmbn5 {
 	waitHold
 }
 script 10 mmbn5s {
-	"RUN・・・"
+	"EXECUTANDO"
 	end
 }
 script 11 mmbn5s {

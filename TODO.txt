@@ -1,3 +1,7 @@
+- Gráficos das missões de liberação
+  - Player Phase XX, Darkloid Phase XX, FAILURE
+  - Move Cam, MoveCam (F), Back
+  - PHASE X, TRGT PHASE X
 - Tela de batalha contra vírus:
     - Letreiros de batalhas com outros navis
 - Editar gráfico "CUT", do minigame de cortes de samurais em Endo

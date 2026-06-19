@@ -314,8 +314,8 @@ script 21 mmbn5 {
 	clearMsg
 	"""
 	Ainda não temos uma
-	estratégia para a
-	metralhadora na Área
+	estratégia para as
+	metralhadoras na Área
 	"""
 	keyWait
 		any = false
@@ -396,8 +396,8 @@ script 24 mmbn5 {
 	clearMsg
 	"""
 	Ainda não temos uma
-	estratégia para a
-	metralhadora na
+	estratégia para as
+	metralhadoras na
 	"""
 	keyWait
 		any = false
@@ -446,13 +446,13 @@ script 26 mmbn5 {
 	"""
 	Mas como é que a gente
 	vai se proteger contra
-	aquela metralhadora
+	aquelas metralhadoras
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	doida da Nebula?
+	doidas da Nebula?
 	"""
 	keyWait
 		any = false

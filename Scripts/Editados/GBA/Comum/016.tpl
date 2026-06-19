@@ -139,13 +139,13 @@ script 18 mmbn5 {
 	end
 }
 script 19 mmbn5 {
-	"ChaosUnison"
+	"UniCaos"
 	keyWait
 		any = false
 	end
 }
 script 20 mmbn5 {
-	"Anon"
+	"Anônimo"
 	keyWait
 		any = false
 	end

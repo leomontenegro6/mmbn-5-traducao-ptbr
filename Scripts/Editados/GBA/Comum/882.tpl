@@ -55,7 +55,7 @@ script 2 mmbn5 {
 	clearMsg
 	"""
 	isso não teria
-	impedido os reforços de
+	impedido os reforços da
 	Nebula de aparecerem.
 	"""
 	keyWait
@@ -361,8 +361,7 @@ script 14 mmbn5 {
 	msgOpen
 	"""
 	Essa é a sua tarefa:
-	impedir isso de
-	acontecer.
+	impedir isso de acontecer.
 	"""
 	keyWait
 		any = false
@@ -653,7 +652,7 @@ script 28 mmbn5 {
 	clearMsg
 	"""
 	isso não teria
-	impedido os reforços de
+	impedido os reforços da
 	Nebula de aparecerem.
 	"""
 	keyWait
@@ -959,8 +958,7 @@ script 40 mmbn5 {
 	msgOpen
 	"""
 	Essa é a sua tarefa:
-	impedir isso de
-	acontecer.
+	impedir isso de acontecer.
 	"""
 	keyWait
 		any = false

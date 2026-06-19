@@ -66,7 +66,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA VERMELHA.
 	"""
 	keyWait
@@ -221,7 +221,7 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA VERMELHA.
 	"""
 	keyWait
@@ -419,7 +419,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA VERMELHA.
 	"""
 	keyWait
@@ -583,7 +583,7 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA BRANCA.
 	"""
 	keyWait
@@ -695,7 +695,7 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA BRANCA.
 	"""
 	keyWait
@@ -785,7 +785,7 @@ script 20 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA AZUL.
 	"""
 	keyWait
@@ -941,7 +941,7 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA AZUL.
 	"""
 	keyWait
@@ -1167,7 +1167,7 @@ script 26 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA AZUL.
 	"""
 	keyWait
@@ -1341,7 +1341,7 @@ script 30 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA VERMELHA.
 	"""
 	keyWait
@@ -1453,7 +1453,7 @@ script 33 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	TRAGA O NINJA DE
+	LEVE O NINJA DE
 	MÁSCARA VERMELHA.
 	"""
 	keyWait

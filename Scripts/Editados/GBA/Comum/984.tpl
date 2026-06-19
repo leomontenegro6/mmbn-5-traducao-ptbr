@@ -125,9 +125,9 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A escuridão eterna
-	aguarda aquele que
-	cair ferido neste dia!
+	Somente a escuridão
+	eterna aguarda os
+	impertinentes!
 	"""
 	keyWait
 		any = false
@@ -269,9 +269,9 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A escuridão eterna
-	aguarda aquele que
-	cair ferido neste dia!
+	Somente a escuridão
+	eterna aguarda os
+	impertinentes!
 	"""
 	keyWait
 		any = false

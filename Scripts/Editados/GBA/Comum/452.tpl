@@ -389,7 +389,7 @@ script 100 mmbn5 {
 		mugshot = MegaMan
 	"""
 	Beleza!
-	Hora da revanche!
+	Outra hora, então!
 	"""
 	keyWait
 		any = false
@@ -552,7 +552,7 @@ script 105 mmbn5 {
 		mugshot = MegaMan
 	"""
 	Beleza!
-	Hora da revanche!
+	Outra hora, então!
 	"""
 	keyWait
 		any = false
@@ -603,6 +603,8 @@ script 107 mmbn5 {
 		jumpIfKnightMan = continue
 		jumpIfToadMan = continue
 	mugshotShow
+		mugshot = MegaMan
+	msgOpen
 	"Vencemos!"
 	keyWait
 		any = false

@@ -284,7 +284,7 @@ script 15 mmbn5 {
 	clearMsg
 	"""
 	Juntos, podemos vencer
-	o Sincato Chip das
+	o Sindicato Chip das
 	Trevas, a Nebula...
 	"""
 	keyWait

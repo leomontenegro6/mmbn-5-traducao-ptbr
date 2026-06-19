@@ -53,8 +53,8 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	que não se abrem,
-	não importa o que
-	você faça.
+	não importa o quanto
+	você tente.
 	"""
 	keyWait
 		any = false
@@ -112,7 +112,7 @@ script 7 mmbn5 {
 	clearMsg
 	"""
 	o Lan estende uma
-	perna sobre essa pilha
+	perna sobre essa coisa
 	sem se dar conta.
 	"""
 	keyWait
@@ -127,7 +127,7 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	o Lan estende uma
-	perna sobre essa pilha
+	perna sobre essa coisa
 	sem se dar conta.
 	"""
 	keyWait
@@ -138,8 +138,8 @@ script 9 mmbn5 {
 	msgOpen
 	"""
 	Há números talhados
-	no lado oculto dessa
-	construção.
+	na área escondida
+	deste armazém.
 	"""
 	keyWait
 		any = false

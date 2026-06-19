@@ -103,7 +103,7 @@ script 7 mmbn5 {
 		value = 8
 	"""
 	MegaMan adquiriu
-	um chip:
+	um chip: 
 	"BigHook G"!!!
 	"""
 	keyWait
@@ -123,7 +123,7 @@ script 8 mmbn5 {
 		value = 8
 	"""
 	MegaMan adquiriu
-	um chip:
+	um chip: 
 	"MetrKnuk M"!!!
 	"""
 	keyWait

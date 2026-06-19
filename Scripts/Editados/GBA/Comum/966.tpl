@@ -356,9 +356,9 @@ script 22 mmbn5 {
 		mugshot = Dusk
 	msgOpen
 	"""
-	Depois dessa última
-	questão, você nunca
-	mais me verá de novo.
+	Tendo resolvido isso,
+	não irei mais me pôr
+	no seu caminho.
 	"""
 	keyWait
 		any = false

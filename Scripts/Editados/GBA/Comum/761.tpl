@@ -260,7 +260,7 @@ script 2 mmbn5 {
 	printCode
 		buffer = 0
 		code = T
-	"\"."
+	".\""
 	keyWait
 		any = false
 	clearMsg

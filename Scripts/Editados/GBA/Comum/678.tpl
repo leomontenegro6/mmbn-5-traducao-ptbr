@@ -42,7 +42,7 @@ script 1 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"EU PRECISO\nDE FÉRIAS!!!"
+	"EU PRECISO DE\nFÉÉÉÉÉRIAAAAAS!!!"
 	keyWait
 		any = false
 	end

@@ -57,7 +57,7 @@ script 13 mmbn5s {
 	end
 }
 script 14 mmbn5s {
-	"  CONTRAGOLPE!   "
+	"  CONTRA-GOLPE!   "
 	end
 }
 script 15 mmbn5s {

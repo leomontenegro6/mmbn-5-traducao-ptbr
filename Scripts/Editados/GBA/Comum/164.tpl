@@ -2,7 +2,7 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Um Fórum..."
+	"Um quadro de mensagens..."
 	keyWait
 		any = false
 	clearMsg
@@ -10,7 +10,7 @@ script 0 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"\"Camaradas!!!\nPreparem-se para esse\npara esse dia!\""
+	"\"Camaradas!!!\nPreparem-se para\nesse dia!\""
 	keyWait
 		any = false
 	clearMsg

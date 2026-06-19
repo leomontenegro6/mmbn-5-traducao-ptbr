@@ -255,9 +255,9 @@ script 4 mmbn5 {
 		mugshot = OldMan
 	msgOpen
 	"""
-	É o último que eu
-	tenho...
-	Vai perder essa chance?
+	É o último que eu tinha...
+	Se quiser mais, vai ficar
+	querendo!
 	"""
 	keyWait
 		any = false
@@ -307,9 +307,9 @@ script 10 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Sr. Questionário?!
+	Questionário?!
 	Alguém chamou o
-	Sr. Questionário?!
+	Questionário?!
 	"""
 	keyWait
 		any = false
@@ -334,7 +334,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	Sou o famoso
-	Sr. Questionário! Eu
+	Questionário! Eu
 	RESPIRO questionários!
 	"""
 	keyWait
@@ -413,9 +413,9 @@ script 11 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Sr. Questionário?!
+	Questionário?!
 	Quem chamou o
-	Sr. Questionário?!
+	Questionário?!
 	"""
 	keyWait
 		any = false
@@ -434,7 +434,7 @@ script 11 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Sim, sou eu, o\nSr. Questionário!"
+	"Sim, sou eu, o\nQuestionário!"
 	keyWait
 		any = false
 	clearMsg

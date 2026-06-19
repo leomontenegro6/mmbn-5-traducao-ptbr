@@ -78,7 +78,7 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E visto como a segurança
+	E, visto como a segurança
 	é rígida... deve ter sido
 	a Nebula.
 	"""
@@ -122,7 +122,7 @@ script 2 mmbn5 {
 	"""
 	Conecte-se àquela
 	estátua de bronze
-	na base da ladeira
+	descendo as escadas
 	"""
 	keyWait
 		any = false
@@ -186,8 +186,7 @@ script 3 mmbn5 {
 	clearMsg
 	"""
 	de um castelo.
-	Vai entender quando
-	vir...
+	Vai entender quando vir...
 	"""
 	keyWait
 		any = false
@@ -324,8 +323,7 @@ script 9 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Cê não pode entrar
-	ainda!
+	Cê não pode entrar ainda!
 	Vamos conferir a Rede!
 	"""
 	keyWait
@@ -419,8 +417,8 @@ script 23 mmbn5 {
 		mugshot = BlackMan
 	msgOpen
 	"""
-	Nossa, esta loja
-	tem tudo! Produtos
+	Nossa, esta loja tem
+	de tudo! Produtos
 	ni-honenses de primeira!
 	"""
 	keyWait
@@ -706,8 +704,8 @@ script 52 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Sabe por que tem tantos
-	pinheiros cercando o
+	Sabe por que tem tantas
+	árvores cercando o
 	castelo?
 	"""
 	keyWait
@@ -762,16 +760,16 @@ script 53 mmbn5 {
 		mugshot = YoungWoman
 	msgOpen
 	"""
-	Tá, eu conto.
-	Na verdade, pinheiros
-	são muito nutritivos.
+	Tá, eu conto. Esse tipo
+	de pinheiro, na verdade,
+	é muito nutritivo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Exércitos comiam cascas
-	de pinheiros aos montes
+	deles aos montes
 	durante cercos.
 	"""
 	keyWait
@@ -812,15 +810,15 @@ script 54 mmbn5 {
 	msgOpen
 	"""
 	Oi, menino.
-	Quer uns biscoitinhos?
+	Quer um manju?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	São bem fofinhos e
-	cheios de passas
-	deliciosas!
+	São ultra recheados
+	com a nossa deliciosa
+	pasta de feijão azuki!
 	"""
 	keyWait
 		any = false
@@ -830,14 +828,14 @@ script 60 mmbn5 {
 	mugshotShow
 		mugshot = Woman
 	msgOpen
-	"Aceita uns biscoitinhos?"
+	"Aceita um manju?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	São bem fofinhos e
-	cheios de passas
-	deliciosas!
+	São ultra recheados
+	com a nossa deliciosa
+	pasta de feijão azuki!
 	"""
 	keyWait
 		any = false
@@ -882,7 +880,7 @@ script 63 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Você disse que a gente
+	Ele disse que a gente
 	ia visitar o castelo
 	antes de mais nada...
 	"""

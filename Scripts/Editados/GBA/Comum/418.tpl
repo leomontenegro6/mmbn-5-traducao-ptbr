@@ -242,7 +242,7 @@ script 3 mmbn5 {
 	printCode
 		buffer = 0
 		code = I
-	"\"."
+	".\""
 	keyWait
 		any = false
 	clearMsg
@@ -308,7 +308,7 @@ script 5 mmbn5 {
 	"""
 	Que vista fabulosa do
 	Buda!
-	... Ei, sai daí!
+	... Ei, sai daqui!
 	"""
 	keyWait
 		any = false

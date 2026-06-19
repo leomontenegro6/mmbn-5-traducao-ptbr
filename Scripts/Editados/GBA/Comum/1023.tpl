@@ -7,9 +7,9 @@ script 0 mmbn5 {
 		mugshot = NinjaProgRed
 	msgOpen
 	"""
-	TOMA ISSO!
+	AGORA!
 	CYBER ARTE NINJA!
-	"VANTANIA"!
+	"VENTANIA"!
 	"""
 	keyWait
 		any = false
@@ -73,11 +73,11 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"AGORA,"
+	"MISSÃO CUMPRIDA..."
 	keyWait
 		any = false
 	clearMsg
-	"EU ME DESPEÇO!"
+	"ADEUS!"
 	keyWait
 		any = false
 	end
@@ -89,7 +89,7 @@ script 4 mmbn5 {
 		mugshot = NinjaProgWhite
 	msgOpen
 	"""
-	TOMA ISSO!
+	AGORA!
 	CYBER ARTE NINJA!
 	"MACACO VOADOR"!
 	"""
@@ -136,11 +136,11 @@ script 6 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"AGORA,"
+	"MISSÃO CUMPRIDA..."
 	keyWait
 		any = false
 	clearMsg
-	"EU ME DESPEÇO!"
+	"ADEUS!"
 	keyWait
 		any = false
 	end
@@ -152,7 +152,7 @@ script 7 mmbn5 {
 		mugshot = NinjaProgBlue
 	msgOpen
 	"""
-	TOMA ISSO!
+	AGORA!
 	CYBER ARTE NINJA!
 	"INSETO D'ÁGUA"!
 	"""
@@ -179,7 +179,7 @@ script 8 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"YAAAAAAH!"
+	"IIÁÁÁÁÁ!"
 	keyWait
 		any = false
 	wait
@@ -218,11 +218,11 @@ script 10 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"AGORA,"
+	"MISSÃO CUMPRIDA..."
 	keyWait
 		any = false
 	clearMsg
-	"EU ME DESPEÇO!"
+	"ADEUS!"
 	keyWait
 		any = false
 	end

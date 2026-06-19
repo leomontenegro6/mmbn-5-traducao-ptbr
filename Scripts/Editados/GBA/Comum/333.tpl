@@ -30,7 +30,7 @@ script 0 mmbn5 {
 	printCode
 		buffer = 0
 		code = F
-	"\"."
+	".\""
 	keyWait
 		any = false
 	clearMsg
@@ -189,7 +189,7 @@ script 1 mmbn5 {
 	printCode
 		buffer = 0
 		code = T
-	"\"."
+	".\""
 	playerFinish
 	playerResetObject
 	keyWait

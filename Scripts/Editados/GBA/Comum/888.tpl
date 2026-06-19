@@ -20,7 +20,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	M-Mas não era
+	M-mas não era
 	pra Eugene Chaud
 	estar no navio!
 	"""
@@ -74,7 +74,7 @@ script 5 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Clic!"
+	"Hm!"
 	keyWait
 		any = false
 	end
@@ -147,7 +147,7 @@ script 11 mmbn5 {
 	msgOpen
 	mugshotAnimation
 		animation = 1
-	"Clic!"
+	"Hm!"
 	keyWait
 		any = false
 	end

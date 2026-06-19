@@ -52,15 +52,15 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ou encarar uma corrida
-	de carimbos escondidos
+	ou encarar uma caçada
+	a carimbos escondidos
 	pelo navio!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A arena da NetLuta
+	A arena de NetLuta
 	parece meio ocupada
 	agora...
 	"""
@@ -69,7 +69,7 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	Que tal encarar a
-	corrida dos carimbos,
+	caçada aos carimbos,
 	então?
 	"""
 	keyWait
@@ -158,27 +158,15 @@ script 1 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"1. Gira e vira\n"
-	spacePx
-		count = 22
-	"para a esquerda e\npara a direita!"
+	"1. Gira e vira\npara a esquerda e\npara a direita!"
 	keyWait
 		any = false
 	clearMsg
-	"2. Aonde navegamos,\n"
-	spacePx
-		count = 22
-	"uma donzela observa."
+	"2. Aonde navegamos,\numa donzela observa."
 	keyWait
 		any = false
 	clearMsg
-	"3. Repele toda a\n"
-	spacePx
-		count = 22
-	"luz e sempre me\n"
-	spacePx
-		count = 22
-	"reflete."
+	"3. Sou refletido por\naquilo que repele\ntoda a luz."
 	keyWait
 		any = false
 	clearMsg
@@ -248,7 +236,7 @@ script 3 mmbn5 {
 	clearMsg
 	"""
 	Mudou de ideia quanto
-	à corrida dos carimbos?
+	à caçada aos carimbos?
 	"""
 	keyWait
 		any = false
@@ -307,27 +295,15 @@ script 4 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"1. Gira e vira\n"
-	spacePx
-		count = 22
-	"para a esquerda e\npara a direita!"
+	"1. Gira e vira\npara a esquerda e\npara a direita!"
 	keyWait
 		any = false
 	clearMsg
-	"2. Aonde navegamos,\n"
-	spacePx
-		count = 22
-	"uma donzela observa."
+	"2. Aonde navegamos,\numa donzela observa."
 	keyWait
 		any = false
 	clearMsg
-	"3. Repele toda a\n"
-	spacePx
-		count = 22
-	"luz e sempre me\n"
-	spacePx
-		count = 22
-	"reflete."
+	"3. Sou refletido por\naquilo que repele\ntoda a luz."
 	keyWait
 		any = false
 	clearMsg
@@ -451,7 +427,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	"Um e um e nova dodô
-	nova onze"...
+	nova onça"...
 	Mas que número era?!
 	"""
 	keyWait
@@ -671,17 +647,16 @@ script 26 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Q-que tremor foi
-	aquele...?
+	Q-que tremor foi esse...?
 	Algum acidente?
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não, pare! Os passagei-
-	ros vão se preocupar
-	se te virem assim.
+	Não, pare! Os passageiros
+	vão se preocupar se te
+	virem assim.
 	"""
 	keyWait
 		any = false

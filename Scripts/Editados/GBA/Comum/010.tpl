@@ -126,7 +126,7 @@ script 3 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = MegaMan
-	"Só pode usar 4."
+	"O máximo é 4."
 	keyWait
 		any = false
 	end
@@ -219,7 +219,7 @@ script 6 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" MegaChips."
+	" MegaChip(s)."
 	keyWait
 		any = false
 	end
@@ -252,7 +252,7 @@ script 7 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" GigaChips."
+	" GigaChip(s)."
 	keyWait
 		any = false
 	end
@@ -428,7 +428,7 @@ script 16 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Chips das Trevas."
+	" Chip(s) das Trevas."
 	keyWait
 		any = false
 	end
@@ -518,7 +518,7 @@ script 23 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = ProtoMan
-	"Só pode usar 4."
+	"O máximo é 4."
 	keyWait
 		any = false
 	end
@@ -557,7 +557,7 @@ script 26 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" MegaChips."
+	" MegaChip(s)."
 	keyWait
 		any = false
 	end
@@ -572,7 +572,7 @@ script 27 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" GigaChips."
+	" GigaChip(s)."
 	keyWait
 		any = false
 	end
@@ -599,7 +599,7 @@ script 36 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Chips das Trevas."
+	" Chip(s) das Trevas."
 	keyWait
 		any = false
 	end
@@ -665,7 +665,7 @@ script 43 mmbn5 {
 	msgOpen
 	mugshotShow
 		mugshot = Colonel
-	"Só pode usar 4."
+	"O máximo é 4."
 	keyWait
 		any = false
 	end
@@ -704,7 +704,7 @@ script 46 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" MegaChips."
+	" MegaChip(s)."
 	keyWait
 		any = false
 	end
@@ -719,7 +719,7 @@ script 47 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" GigaChips."
+	" GigaChip(s)."
 	keyWait
 		any = false
 	end
@@ -746,7 +746,7 @@ script 56 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = false
-	" Chips das Trevas."
+	" Chip(s) das Trevas."
 	keyWait
 		any = false
 	end

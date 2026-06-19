@@ -54,15 +54,15 @@ script 2 mmbn5 {
 	"""
 	Não é comum esbarrar
 	na mesma pessoa na
-	Rede de novo.
+	Rede duas vezes.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Eu nunca me canso de
-	olhar pela Rede, a
-	noite inteira...
+	Eu nunca me canso
+	de dar uma olhada pela
+	Rede, a noite inteira...
 	"""
 	keyWait
 		any = false
@@ -122,7 +122,7 @@ script 20 mmbn5 {
 	"""
 	Quem é você? Não tá
 	vendo que a gente quer
-	ficar a sós?
+	privacidade, não?
 	"""
 	keyWait
 		any = false
@@ -287,7 +287,7 @@ script 32 mmbn5 {
 	clearMsg
 	"""
 	Aquele portal ali
-	parece suspeito.
+	parece tão suspeito.
 	Onde será que ele dá?
 	"""
 	keyWait

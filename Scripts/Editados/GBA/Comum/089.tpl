@@ -142,7 +142,7 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	Bora encerrar por hoje.
-	Depois desta volta,
+	Depois disto aqui,
 	a gente desconecta.
 	"""
 	keyWait
@@ -187,8 +187,7 @@ script 19 mmbn5 {
 	msgOpen
 	"""
 	Bora voltar pra Ilha
-	Oran e ver como tá a
-	Tesla!
+	Oran e ajudar a Tesla!
 	"""
 	keyWait
 		any = false
@@ -313,7 +312,7 @@ script 28 mmbn5 {
 	msgOpen
 	"""
 	Bora ver a nuvem
-	preta em SciLab 2!
+	roxa em SciLab 2!
 	"""
 	keyWait
 		any = false
@@ -426,7 +425,7 @@ script 57 mmbn5 {
 	msgOpen
 	"""
 	Destranca a porta
-	pra Área Oran 2.
+	na Área Oran 2.
 	Vamos pra Área Endo!
 	"""
 	keyWait

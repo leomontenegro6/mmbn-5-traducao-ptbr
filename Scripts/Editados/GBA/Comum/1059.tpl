@@ -5,7 +5,7 @@ script 0 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Bora lá, coaxo!
+	Bora lá, croac!
 	Liberar quadro!
 	"""
 	keyWait
@@ -17,7 +17,7 @@ script 1 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Coaxo!
+	Croac!
 	Liberação concluída!
 	"""
 	keyWait
@@ -29,7 +29,7 @@ script 2 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Boa, coaxo!
+	Boa, croac!
 	Liberação de 1 turno!
 	"""
 	keyWait
@@ -41,8 +41,8 @@ script 3 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Poxa, coaxo!
-	Liberation failed!
+	Poxa, croac!
+	A liberação falhou!
 	"""
 	keyWait
 		any = false
@@ -61,7 +61,7 @@ script 5 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Liberação Dupla!"
+	"Liberação Gêmea!"
 	keyWait
 		any = false
 	end
@@ -71,8 +71,8 @@ script 6 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Coaxo!
-	Liberação Dupla
+	Croac!
+	Liberação Gêmea
 	bem-sucedida!
 	"""
 	keyWait
@@ -84,14 +84,14 @@ script 7 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Coaxo!
+	Croac!
 	Liberação de 1 turno!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Liberação Dupla
+	Liberação Gêmea
 	bem-sucedida!
 	"""
 	keyWait
@@ -203,7 +203,7 @@ script 12 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Coaxo!
+	Croac!
 	É a Melodia da Vida.
 	Quero ver vida aí!
 	"""
@@ -227,7 +227,7 @@ script 55 mmbn5 {
 	msgOpen
 	"""
 	Vamos salvar,
-	coaxo?
+	croac?
 	
 	"""
 	positionOptionHorizontal
@@ -313,7 +313,7 @@ script 56 mmbn5 {
 	clearMsg
 	"""
 	Tentar de novo,
-	coaxo?
+	croac?
 	
 	"""
 	positionOptionHorizontal
@@ -560,7 +560,7 @@ script 72 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	"\npontos restaurados!"
+	" pontos restaurados!"
 	keyWait
 		any = false
 	end
@@ -618,7 +618,7 @@ script 74 mmbn5 {
 		minLength = 1
 		padZeros = false
 		padLeft = true
-	" FragBugs!!"
+	" FragBug(s)!!"
 	keyWait
 		any = false
 	flagSet
@@ -676,8 +676,8 @@ script 78 mmbn5 {
 script 79 mmbn5 {
 	msgOpen
 	"""
-	Você desbloqueou o
-	Quadro Barreira
+	Você desbloqueou os
+	Quadros Barreira
 	"""
 	printBuffer
 		buffer = 1
@@ -693,7 +693,7 @@ script 80 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"C-c-coaxo!"
+	"C-c-croac!"
 	keyWait
 		any = false
 	clearMsg
@@ -719,7 +719,7 @@ script 81 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Coaxo!"
+	"Croac!"
 	keyWait
 		any = false
 	clearMsg
@@ -730,8 +730,8 @@ script 81 mmbn5 {
 		jumpIfInRange = 90
 		jumpIfOutOfRange = continue
 	"""
-	ToadMan foi
-	paralisado!
+	ToadMan está
+	imobilizado!
 	"""
 	keyWait
 		any = false
@@ -741,7 +741,7 @@ script 85 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Coaxo!"
+	"Croac!"
 	keyWait
 		any = false
 	clearMsg
@@ -758,7 +758,7 @@ script 86 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Coaxo!"
+	"Croac!"
 	keyWait
 		any = false
 	clearMsg
@@ -775,14 +775,14 @@ script 87 mmbn5 {
 	mugshotShow
 		mugshot = ToadMan
 	msgOpen
-	"Coaxo!"
+	"Croac!"
 	keyWait
 		any = false
 	clearMsg
 	mugshotHide
 	"""
 	ToadMan
-	foi paralisado!
+	está imobilizado!
 	"""
 	keyWait
 		any = false
@@ -793,7 +793,7 @@ script 90 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Coaxo! N-não consigo
+	Croac! N-não consigo
 	me mexer...
 	"""
 	keyWait
@@ -802,7 +802,7 @@ script 90 mmbn5 {
 	mugshotHide
 	"""
 	ToadMan foi
-	congelado!
+	imobilizado!
 	"""
 	keyWait
 		any = false
@@ -872,7 +872,7 @@ script 105 mmbn5 {
 		mugshot = ToadMan
 	msgOpen
 	"""
-	Coaxo! O chefão foi
+	Croac! O chefão foi
 	nadar com os peixinhos!
 	"""
 	keyWait

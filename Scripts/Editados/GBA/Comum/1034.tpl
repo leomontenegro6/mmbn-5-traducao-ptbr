@@ -299,9 +299,9 @@ script 4 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E, sim, existem outros
-	chips com efeitos especi-
-	ais, como o do Pulsar.
+	E, sim, há mais chips
+	com efeitos especiais,
+	como o do Pulsar.
 	"""
 	keyWait
 		any = false
@@ -764,7 +764,7 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	e postar mensagens
-	"engraçacinhas".
+	"engraçadinhas".
 	"""
 	keyWait
 		any = false
@@ -995,9 +995,8 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Enfim, uma combinação
-	que use quadros
-	de Elemento...
+	Enfim, uma combinação que
+	use quadros de Elemento...
 	"""
 	keyWait
 		any = false
@@ -1094,9 +1093,8 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Nisshi, a minha
-	dica para você
-	é "sementes".
+	Nisshi, a minha dica
+	para você é "sementes".
 	"""
 	keyWait
 		any = false
@@ -1157,7 +1155,7 @@ script 19 mmbn5 {
 	clearMsg
 	"""
 	O Shakey também me
-	deu muito trabalho,
+	dava muito trabalho,
 	até que, um dia,
 	"""
 	keyWait

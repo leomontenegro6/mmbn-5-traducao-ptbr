@@ -36,9 +36,8 @@ script 1 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	O PROGRAMA MAIS
-	ADIANTE NÃO TEM MAIS
-	SALVAÇÃO.
+	O PROG MAIS ADIANTE
+	NÃO TEM MAIS SALVAÇÃO.
 	"""
 	keyWait
 		any = false
@@ -68,8 +67,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É, EU SOU UM PROGRAMA
-	NOVO AGORA!
+	É, EU SOU UM
+	NOVO PROG AGORA!
 	"""
 	keyWait
 		any = false

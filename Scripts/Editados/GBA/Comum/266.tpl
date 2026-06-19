@@ -5,14 +5,14 @@ script 0 mmbn5 {
 		mugshot = BlueShirtBoy
 	msgOpen
 	"""
-	Eu ganhei um novo PET.
+	Eu ganhei um PET novo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E o meu Navi é do mais
-	novo modelo, também.
+	E o meu Navi é o modelo
+	mais recente, também.
 	E aí? Inveja?
 	"""
 	keyWait
@@ -248,8 +248,7 @@ script 31 mmbn5 {
 	msgOpen
 	"""
 	Eu ando me esquecendo
-	cada vez mais das
-	coisas.
+	cada vez mais das coisas.
 	"""
 	keyWait
 		any = false
@@ -432,9 +431,6 @@ script 40 mmbn5 {
 			jump = continue,
 			jump = continue
 		]
-	keyWait
-		any = false
-	clearMsg
 	mugshotShow
 		mugshot = CapBoy
 	msgOpen
@@ -453,8 +449,7 @@ script 41 mmbn5 {
 	msgOpen
 	"""
 	Eu me conectei à Rede
-	ontem, antes de ir
-	dormir.
+	ontem, antes de ir dormir.
 	"""
 	keyWait
 		any = false
@@ -494,7 +489,7 @@ script 41 mmbn5 {
 	"""
 	Tem algum tipo de poder
 	bizarro levando Navis
-	pra Undernet!
+	pra Undernet de lá!
 	"""
 	keyWait
 		any = false
@@ -519,14 +514,14 @@ script 42 mmbn5 {
 	mugshotShow
 		mugshot = OldMan
 	msgOpen
-	"Eu vi aquela briga."
+	"Eu vi a briga."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não tem nada de errado
-	com um pouco de
-	competição,
+	Não tem nada de
+	errado com um pouco
+	de competição,
 	"""
 	keyWait
 		any = false
@@ -540,9 +535,9 @@ script 42 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Suponho que essa seja
-	a coisa mais difícil de
-	se fazer...
+	Suponho que essa
+	seja a coisa mais
+	difícil de se fazer...
 	"""
 	keyWait
 		any = false

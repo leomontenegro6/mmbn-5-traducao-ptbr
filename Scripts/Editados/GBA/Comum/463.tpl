@@ -214,8 +214,7 @@ script 31 mmbn5 {
 	msgOpen
 	"""
 	Tudo parece tão...
-	igual pra mim, estes
-	dias.
+	igual pra mim, estes dias.
 	"""
 	keyWait
 		any = false

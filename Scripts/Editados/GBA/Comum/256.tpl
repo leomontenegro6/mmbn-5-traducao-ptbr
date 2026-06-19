@@ -108,7 +108,7 @@ script 11 mmbn5 {
 	"""
 	Um sistema de controle
 	que permite comunicação
-	via rede perfeita em
+	perfeita via rede em
 	"""
 	keyWait
 		any = false

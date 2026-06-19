@@ -2,12 +2,12 @@
 
 script 0 mmbn5 {
 	msgOpen
-	"Um mapa do navio."
+	"Placas do navio."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A Sala das Máquinas
+	A sala das máquinas
 	fica logo à frente.
 	"""
 	keyWait
@@ -60,15 +60,15 @@ script 4 mmbn5 {
 	"""
 	Uma porta para o salão
 	de festas. Há um espelho
-	em um dos lados.
+	em um dos lados dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As mulheres provavel-
-	mente o usam para
-	retocar a maquiagem...
+	As mulheres provavelmente
+	o usam para retocar a
+	maquiagem...
 	"""
 	keyWait
 		any = false
@@ -142,16 +142,15 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Ele repele toda a
-	luz e sempre reflete
-	isso...
+	Refletido por uma
+	coisa que repele
+	toda a luz...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Espelhos repelem
-	toda a luz...
+	Espelhos repelem luz...
 	"""
 	keyWait
 		any = false
@@ -334,8 +333,7 @@ script 12 mmbn5 {
 		count = 1
 	"""
 	OK
-	Conferindo número de
-	loteria! Bip Bip...
+	(E/D: Cursor C/B: Nº)
 	"""
 	menuSelectShipCode
 		jumpIfCorrect = 14

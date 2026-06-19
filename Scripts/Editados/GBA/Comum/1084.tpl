@@ -84,8 +84,8 @@ script 6 mmbn5 {
 		mugshot = DarkProtoMan
 	msgOpen
 	"""
-	Então, você é o
-	inimigo dos Oficiais...
+	Então, vocês são os
+	inimigos dos Oficiais...
 	"""
 	keyWait
 		any = false
@@ -160,7 +160,7 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Será que os Darkloids
+	Será que os Tenebroides
 	modificaram ele que
 	nem me modificaram...?
 	"""
@@ -272,9 +272,9 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	eu posso liberar uma
-	fileira de paineis
-	atacando só a ponta!
+	posso liberar toda uma
+	fileira de painéis, com
+	um Navi na outra ponta!
 	"""
 	keyWait
 		any = false
@@ -286,13 +286,13 @@ script 18 mmbn5 {
 	mugshotShow
 		mugshot = GyroMan
 	msgOpen
-	"Maravilha!"
+	"Ô, maravilha!"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Isso vai ser mais útil
-	do que o meu voo sobre
+	Isso vai casar tão bem
+	com o meu voo sobre
 	Quadros Negros.
 	"""
 	keyWait
@@ -421,8 +421,8 @@ script 36 mmbn5 {
 		mugshot = DarkColonel
 	msgOpen
 	"""
-	Então, você é o
-	inimigo dos Oficiais...
+	Então, vocês são os
+	inimigos dos Oficiais...
 	"""
 	keyWait
 		any = false
@@ -494,7 +494,7 @@ script 41 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Será que os Darkloids
+	Será que os Tenebroides
 	modificaram ele que
 	nem me modificaram...?
 	"""
@@ -560,7 +560,7 @@ script 45 mmbn5 {
 	msgOpen
 	"""
 	Então, é a minha
-	hora de brilhar, coaxo!
+	hora de brilhar, croac!
 	"""
 	keyWait
 		any = false
@@ -595,7 +595,7 @@ script 47 mmbn5 {
 	"""
 	Eu vou cantar a Melodia
 	da Vida pra deixar vocês
-	muito mais fortes, coaxo!
+	muito mais fortes, croac!
 	"""
 	keyWait
 		any = false

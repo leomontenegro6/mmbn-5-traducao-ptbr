@@ -20,7 +20,7 @@ script 1 mmbn5 {
 		mugshot = Fyrefox
 	msgOpen
 	"""
-	A porta tá trancada.
+	O caminho tá barrado.
 	"""
 	keyWait
 		any = false
@@ -131,7 +131,7 @@ script 8 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	A porta tá trancada.
+	O caminho tá barrado.
 	"""
 	keyWait
 		any = false

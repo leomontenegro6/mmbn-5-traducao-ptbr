@@ -94,7 +94,7 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	Para ir ao laboratório
-	do Dr.Hikari, use as
+	do Dr. Hikari, use as
 	escadas ou o elevador.
 	"""
 	keyWait
@@ -389,8 +389,8 @@ script 21 mmbn5 {
 	clearMsg
 	"""
 	mas não o vejo em lugar
-	nenhum. Será que esta-
-	mos nos desencontrando?
+	nenhum. Será que estamos
+	nos desencontrando?
 	"""
 	keyWait
 		any = false

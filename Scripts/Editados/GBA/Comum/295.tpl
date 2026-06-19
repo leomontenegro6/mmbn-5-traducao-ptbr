@@ -195,8 +195,8 @@ script 30 mmbn5 {
 	msgOpen
 	"""
 	Será que eu descolo
-	algum chip raro
-	ultrarraro por aqui?
+	algum chip ultra-raro
+	por aqui?
 	"""
 	keyWait
 		any = false

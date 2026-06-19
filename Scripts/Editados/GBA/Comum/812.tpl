@@ -14,8 +14,8 @@ script 0 mmbn5 {
 	clearMsg
 	"""
 	Achei que não tinha
-	mais nenhum Navi
-	do seu calibre.
+	mais nenhum Navi do
+	seu calibre por aqui.
 	"""
 	keyWait
 		any = false
@@ -37,7 +37,7 @@ script 1 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 155
-	"Tzzz! Tzzz!"
+	"Triim! Triiim!"
 	keyWait
 		any = false
 	clearMsg
@@ -163,7 +163,7 @@ script 7 mmbn5 {
 	"""
 	Não dá pra você
 	quebrar ela com o
-	seu MegaAtirador?
+	seu MegaTiro?
 	"""
 	keyWait
 		any = false
@@ -179,7 +179,7 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O Atirador é inútil
+	O MegaTiro é inútil
 	contra ele...
 	"""
 	keyWait
@@ -325,7 +325,7 @@ script 14 mmbn5 {
 	clearMsg
 	"""
 	Melhor a gente não
-	preocupar ele ainda mais.
+	preocupar ela ainda mais.
 	"""
 	keyWait
 		any = false

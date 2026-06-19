@@ -13,14 +13,14 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	É RARO TER VISITAS
-	AQUI...
+	É RARO RECEBER
+	VISITAS AQUI...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	VOCÊ ESTÁ ATRÁS DE
+	ESTÁ ATRÁS DE
 	ALGUMA COISA?
 	"""
 	keyWait
@@ -73,15 +73,15 @@ script 1 mmbn5 {
 	msgOpen
 	"""
 	... HM.
-	"ENCONTRE O
-	QUARTO QUEBRA-ROCHAS.
+	"A QUARTA MÁQUINA
+	DE QUEBRAR ROCHAS.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	PROCURE PELA CAIXA
-	QUE BARRA AS PEDRAS."
+	UMA CAIXA QUE DETÉM AS
+	ROCHAS MARCA O LOCAL."
 	"""
 	keyWait
 		any = false
@@ -120,7 +120,7 @@ script 1 mmbn5 {
 	"""
 	TALVEZ TENHA UM PORTAL
 	PARA OUTRA DIMENSÃO
-	MAIS OU MENOS POR ALI.
+	POR ALI, OU ALGO ASSIM.
 	"""
 	keyWait
 		any = false
@@ -140,8 +140,8 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	DEVE SER PERTO DAQUELE
-	APARELHO QUE BARRA AS
-	PEDRAS. TEM QUE SER!
+	APARELHO QUE PARA A
+	ESTEIRA. TEM QUE SER!
 	"""
 	keyWait
 		any = false

@@ -32,7 +32,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu sei que vocês são
+	Sei que vocês são
 	os inimigos que eu
 	devo abater.
 	"""
@@ -114,7 +114,7 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu sei que vocês são
+	Sei que vocês são
 	os inimigos que eu
 	devo abater.
 	"""
@@ -444,7 +444,7 @@ script 59 mmbn5 {
 	"""
 	Você é o Navi do Baryl,
 	e líder da nossa equipe,
-	coaxo!
+	croac!
 	"""
 	keyWait
 		any = false

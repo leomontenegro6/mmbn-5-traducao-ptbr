@@ -37,8 +37,8 @@ script 5 mmbn5 {
 		mugshot = Maid
 	msgOpen
 	"""
-	Todo esse barulho
-	no navio não me diz
+	Todo esse barulho fora
+	do navio não me diz
 	respeito agora.
 	"""
 	keyWait
@@ -97,8 +97,7 @@ script 16 mmbn5 {
 	msgOpen
 	"""
 	Por que eu tenho que
-	ajudar ela com o
-	trabalho?
+	ajudar ela com o trabalho?
 	"""
 	keyWait
 		any = false

@@ -291,8 +291,8 @@ script 20 mmbn5 {
 	clearMsg
 	"""
 	Eu pedi um desconto na
-	loja e eles só fizeram
-	uma careta pra mim.
+	loja e o cara só fez
+	cara feia pra mim.
 	"""
 	keyWait
 		any = false
@@ -557,9 +557,8 @@ script 40 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ELE IRÁ ASPIRAR TODA
-	E QUALQUER CYBER
-	NUVEM.
+	ELE IRÁ ASPIRAR TODA E
+	QUALQUER CYBER NUVEM.
 	"""
 	keyWait
 		any = false
@@ -574,8 +573,8 @@ script 40 mmbn5 {
 	clearMsg
 	"""
 	O ESPAÇO RESTANTE É
-	MOSTRADO EM UMA BARRA
-	À DIREITA.
+	MOSTRADO NA BARRA À
+	DIREITA.
 	"""
 	keyWait
 		any = false
@@ -867,17 +866,16 @@ script 47 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ELE IRÁ ASPIRAR TODA
-	E QUALQUER CYBER
-	NUVEM.
+	ELE IRÁ ASPIRAR TODA E
+	QUALQUER CYBER NUVEM.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	QUANDO A BARRA À DI-
-	REITA FICAR CHEIA, NÃO
-	PODERÁ ASPIRAR MAIS.
+	QUANDO A BARRA À
+	DIREITA FICAR CHEIA, 
+	NÃO PODERÁ ASPIRAR MAIS.
 	"""
 	keyWait
 		any = false

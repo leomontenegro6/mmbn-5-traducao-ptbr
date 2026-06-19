@@ -332,7 +332,7 @@ script 17 mmbn5 {
 	"""
 	... O que não surpreende,
 	visto o sequestro de
-	Megaman.
+	MegaMan.
 	"""
 	keyWait
 		any = false
@@ -475,7 +475,7 @@ script 25 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 333
-	"Deixe de ser mole!"
+	"Pá!"
 	keyWait
 		any = false
 	clearMsg
@@ -486,7 +486,7 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = Lan
 	msgOpen
-	"O quê...?!"
+	"Ungh!"
 	keyWait
 		any = false
 	end
@@ -496,8 +496,7 @@ script 27 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Não é hora para
-	fraqueza.
+	Deixe de ser mole.
 	"""
 	keyWait
 		any = false

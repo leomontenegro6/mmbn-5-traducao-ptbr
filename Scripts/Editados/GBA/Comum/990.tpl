@@ -7,7 +7,7 @@ script 0 mmbn5 {
 	"""
 	Se, ao menos, a gente
 	pudesse desligar essa
-	eletro-barreira...
+	eletrobarreira...
 	"""
 	keyWait
 		any = false
