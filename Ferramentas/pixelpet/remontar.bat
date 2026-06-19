@@ -24,3 +24,9 @@ copy ".\data\img-033274-tc.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Fu
 move ".\data\tm-03327C-tc.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Fundos (TC) (tm).gba"
 copy ".\data\img-033270-tp.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Fundos (TP).gba"
 move ".\data\tm-033278-tp.bin" "..\..\Graficos\Editados\BGs\Loja do Higsby - Fundos (TP) (tm).gba"
+
+:: Remontando gráfico de Lv1/2/3, no QG da Nebula
+php .\tileset_repacker.php 333E8 tc
+php .\tileset_repacker.php 333E4 tp
+copy ".\data\img-0333E8-tc.bin" "..\..\Graficos\Editados\BGs\QG da Nebula - Nv1-3 (TC).gba"
+copy ".\data\img-0333E4-tp.bin" "..\..\Graficos\Editados\BGs\QG da Nebula - Nv1-3 (TP).gba"

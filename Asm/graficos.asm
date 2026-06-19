@@ -266,6 +266,8 @@
     .dw LojaHigsbyFundos
 .org PonteiroLojaHigsbyFundosTM
     .dw LojaHigsbyFundosTM
+.org PonteiroQgNebulaNv123
+    .dw QgNebulaNv123
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -578,6 +580,14 @@ LojaHigsbyFundosTM:
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Fundos (TP) (tm).gba"
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/Loja do Higsby - Fundos (TC) (tm).gba"
+    .endif
+    .align
+
+QgNebulaNv123:
+    .if versao == 1
+        .incbin "Graficos/Editados/BGs/QG da Nebula - Nv1-3 (TP).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/BGs/QG da Nebula - Nv1-3 (TC).gba"
     .endif
     .align
 

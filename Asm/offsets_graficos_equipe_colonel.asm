@@ -154,6 +154,7 @@ PonteiroBairroAcdc1TM equ 0x08033228
 PonteiroLojaHigsbyInterior equ 0x08033268
 PonteiroLojaHigsbyFundos equ 0x08033274
 PonteiroLojaHigsbyFundosTM equ 0x0803327C
+PonteiroQgNebulaNv123 equ 0x080333E8
 PonteiroSelecting1 equ 0x08033118
 PonteiroSelecting2 equ 0x08139A78
 PonteiroSelecting3 equ 0x0813AA58

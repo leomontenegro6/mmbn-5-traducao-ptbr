@@ -18,3 +18,7 @@
 :: Desempacotando tilemap dos fundos da Loja do Higsby, na Cidade ACDC
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 5 - Team Colonel (USA).gba" 3327C
 :: php .\tilemap_unpacker.php "..\..\Mega Man Battle Network 5 - Team ProtoMan (USA).gba" 33278
+
+:: Desempacotando gráfico de Lv1/2/3, no QG da Nebula
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 5 - Team Colonel (USA).gba" 333E8
+:: php .\tileset_unpacker.php "..\..\Mega Man Battle Network 5 - Team ProtoMan (USA).gba" 333E4
