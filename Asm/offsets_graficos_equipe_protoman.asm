@@ -98,6 +98,8 @@ NewForuns equ 0x087DC7B4
 
 Cut equ 0x087D54E4
 
+MoveCamBackPhaseTRGT equ 0x087E2F70
+
 PonteiroLogoTelaTitulo equ 0x08030844
 PonteirosNomesTelaTitulo1 equ 0x0803082C
 PonteirosNomesTelaTitulo2 equ 0x08030814
@@ -176,3 +178,5 @@ PonteiroTelasForuns equ 0x08142798
 PonteiroTelasForunsTM equ 0x081427D4
 PonteiroShuffleAFolder equ 0x08024620
 PonteiroBlocking equ 0x08024598
+PonteiroPlayerPhaseDarkloidPhase1 equ 0x080330CC
+PonteiroPlayerPhaseDarkloidPhase2 equ 0x08052FEC

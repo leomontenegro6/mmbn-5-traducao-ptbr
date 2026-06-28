@@ -118,6 +118,10 @@
 .org Cut
     .incbin "Graficos/Editados/Cut.gba"
 
+; Gráficos das missões de liberação
+.org MoveCamBackPhaseTRGT
+    .incbin "Graficos/Editados/MoveCam Back Phase TargetPhase.gba"
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
@@ -260,6 +264,10 @@
     .dw ShuffleAFolder
 .org PonteiroBlocking
     .dw Blocking
+.org PonteiroPlayerPhaseDarkloidPhase1
+    .dw PlayerPhaseDarkloidPhase + 0x80000000
+.org PonteiroPlayerPhaseDarkloidPhase2
+    .dw PlayerPhaseDarkloidPhase + 0x80000000
 .org PonteiroBairroAcdc1
     .dw BairroAcdc1
 .org PonteiroBairroAcdc1TM
@@ -545,6 +553,10 @@ ShuffleAFolder:
 
 Blocking:
     .incbin "Graficos/Editados/Blocking.gba"
+    .align
+
+PlayerPhaseDarkloidPhase:
+    .lz77gba "Graficos/Editados/Player Phase Darkloid Phase.gba"
     .align
 
 BairroAcdc1:
