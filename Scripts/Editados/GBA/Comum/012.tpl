@@ -32,7 +32,7 @@ script 4 mmbn5s {
 	end
 }
 script 5 mmbn5s {
-	"S/M/G"
+	"P/M/G"
 	end
 }
 script 6 mmbn5s {

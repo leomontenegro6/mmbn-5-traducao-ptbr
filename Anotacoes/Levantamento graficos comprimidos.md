@@ -4,7 +4,7 @@
 |----------|---------------------------------------------|-------|---------|
 | 0x6DA08C | Game Over                                   | 4bpp  | Sim     |
 | 0x6DA34C | Game Over (tm)                              |       | Sim     |
-| 0x6DA53C | Presented by Capcom                         | 4bpp  |         |
+| 0x6DA53C | Presented by Capcom                         | 4bpp  | Sim     |
 | 0x6DB5A8 | Map Data                                    | 4bpp  | Sim     |
 | 0x6DD5E0 | Map Data (tm)                               |       | Sim     |
 | 0x6E095C | Nomes Localidades Mapa                      | 4bpp  | Sim     |
@@ -46,7 +46,7 @@
 | 0x7DC520 | Game Help                                   | 4bpp  |         |
 | 0x7DD7C0 | Telas Foruns                                | 4bpp  | Sim     |
 | 0x7DDA84 | Telas Foruns (tm)                           |       | Sim     |
-| 0x7E5A10 | Press A Button Order Pt Major Hit           | 4bpp  |         |
+| 0x7E5A10 | Press A Button Order Pt Major Hit           | 4bpp  | Sim     |
 | 0x7E6530 | Zenny Bugfrags (loja)                       | 4bpp  | Sim     |
 | 0x7E6A08 | Items (loja)                                | 4bpp  | Sim     |
 | 0x7F8DB8 | Nomes tela-titulo (new game continue compl) | 4bpp  | Sim     |

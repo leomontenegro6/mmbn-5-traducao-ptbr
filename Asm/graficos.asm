@@ -13,6 +13,8 @@
 ; Fontes dos textos acentuadas.
 .org FonteTextosVwf
     .incbin "Graficos/Editados/Fonte textos (VWF).gba"
+.org FonteCreditosVwf
+    .incbin "Graficos/Editados/Fonte creditos (VWF).gba"
 .org FonteTextos
     .incbin "Graficos/Editados/Fonte textos.gba"
 .org FonteTextosSombra
@@ -280,6 +282,8 @@
     .dw LojaHigsbyFundosTM
 .org PonteiroQgNebulaNv123
     .dw QgNebulaNv123
+.org PonteiroApresentadoPelaCapcom
+    .dw ApresentadoPelaCapcom + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -605,6 +609,10 @@ QgNebulaNv123:
     .elseif versao == 0
         .incbin "Graficos/Editados/BGs/QG da Nebula - Nv1-3 (TC).gba"
     .endif
+    .align
+
+ApresentadoPelaCapcom:
+    .lz77gba "Graficos/Editados/Presented By.gba"
     .align
 
 GameOver:

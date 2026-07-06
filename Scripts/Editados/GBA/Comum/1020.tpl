@@ -151,8 +151,8 @@ script 10 mmbn5 {
 		height = 3
 	"""
 	Confira a conexão com
-	o Adaptador Wireless
-	e reinicie.
+	o Adaptador Sem Fio
+	e resete.
 	"""
 	waitHold
 }
@@ -169,7 +169,7 @@ script 11 mmbn5 {
 	clearMsg
 	"""
 	Não deixe nada entre
-	os Adaptadores Wireless.
+	os Adaptadores Sem Fio.
 	"""
 	keyWait
 		any = false
@@ -276,7 +276,7 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Vamos atrás
+	Bora atrás
 	do Dex, Lan!
 	"""
 	keyWait
@@ -309,5 +309,5 @@ script 26 mmbn5 {
 	end
 }
 script 30 mmbn5s {
-	"OBRIGADO  POR  JOGAR!!!"
+	"OBRIGADO POR JOGAR!!!"
 }

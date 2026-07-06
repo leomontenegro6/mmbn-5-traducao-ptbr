@@ -5,15 +5,15 @@ script 0 mmbn5s {
 	end
 }
 script 1 mmbn5s {
-	" M.Yasuma"
+	" M. Yasuma"
 	end
 }
 script 2 mmbn5s {
-	" K.Ozaki"
+	" K. Ozaki"
 	end
 }
 script 3 mmbn5s {
-	" T.Shimogawa"
+	" T. Shimogawa"
 	end
 }
 script 4 mmbn5s {
@@ -21,11 +21,11 @@ script 4 mmbn5s {
 	end
 }
 script 5 mmbn5s {
-	" M.Eguchi"
+	" M. Eguchi"
 	end
 }
 script 6 mmbn5s {
-	" T.Takenaka"
+	" T. Takenaka"
 	end
 }
 script 7 mmbn5s {
@@ -33,15 +33,15 @@ script 7 mmbn5s {
 	end
 }
 script 8 mmbn5s {
-	" Y.Ishihara"
+	" Y. Ishihara"
 	end
 }
 script 9 mmbn5s {
-	" T.Nakashima"
+	" T. Nakashima"
 	end
 }
 script 10 mmbn5s {
-	" H.Kaji"
+	" H. Kaji"
 	end
 }
 script 11 mmbn5s {
@@ -49,7 +49,7 @@ script 11 mmbn5s {
 	end
 }
 script 12 mmbn5s {
-	" T.Namegaya"
+	" T. Namegaya"
 	end
 }
 script 13 mmbn5s {
@@ -57,7 +57,7 @@ script 13 mmbn5s {
 	end
 }
 script 14 mmbn5s {
-	" S.Iwasaki"
+	" S. Iwasaki"
 	end
 }
 script 15 mmbn5s {
@@ -65,7 +65,7 @@ script 15 mmbn5s {
 	end
 }
 script 16 mmbn5s {
-	" H.Aoki"
+	" H. Aoki"
 	end
 }
 script 17 mmbn5s {
@@ -73,15 +73,15 @@ script 17 mmbn5s {
 	end
 }
 script 18 mmbn5s {
-	" K.Sato"
+	" K. Sato"
 	end
 }
 script 19 mmbn5s {
-	" I.Nakayama"
+	" I. Nakayama"
 	end
 }
 script 20 mmbn5s {
-	" M.Oishi"
+	" M. Oishi"
 	end
 }
 script 21 mmbn5s {
@@ -89,15 +89,15 @@ script 21 mmbn5s {
 	end
 }
 script 22 mmbn5s {
-	" M.Kijima"
+	" M. Kijima"
 	end
 }
 script 23 mmbn5s {
-	" C.Ryugo"
+	" C. Ryugo"
 	end
 }
 script 24 mmbn5s {
-	" J.Fujisaki"
+	" J. Fujisaki"
 	end
 }
 script 25 mmbn5s {
@@ -105,35 +105,35 @@ script 25 mmbn5s {
 	end
 }
 script 26 mmbn5s {
-	" H.Shingaki"
+	" H. Shingaki"
 	end
 }
 script 27 mmbn5s {
-	" K.Matsuda"
+	" K. Matsuda"
 	end
 }
 script 28 mmbn5s {
-	" M.Sakano"
+	" M. Sakano"
 	end
 }
 script 29 mmbn5s {
-	" T.Anai"
+	" T. Anai"
 	end
 }
 script 30 mmbn5s {
-	" S.Ito"
+	" S. Ito"
 	end
 }
 script 31 mmbn5s {
-	" T.Tahara"
+	" T. Tahara"
 	end
 }
 script 32 mmbn5s {
-	" N.Nishiyama"
+	" N. Nishiyama"
 	end
 }
 script 33 mmbn5s {
-	" S.Ikuta"
+	" S. Ikuta"
 	end
 }
 script 34 mmbn5s {
@@ -141,7 +141,7 @@ script 34 mmbn5s {
 	end
 }
 script 35 mmbn5s {
-	" A.Kaida"
+	" A. Kaida"
 	end
 }
 script 36 mmbn5s {
@@ -149,11 +149,11 @@ script 36 mmbn5s {
 	end
 }
 script 37 mmbn5s {
-	" S.Amagishi"
+	" S. Amagishi"
 	end
 }
 script 38 mmbn5s {
-	" T.Moriguchi"
+	" T. Moriguchi"
 	end
 }
 script 39 mmbn5s {
@@ -161,11 +161,11 @@ script 39 mmbn5s {
 	end
 }
 script 40 mmbn5s {
-	" S.Komaki"
+	" S. Komaki"
 	end
 }
 script 41 mmbn5s {
-	" K.Mizuno"
+	" K. Mizuno"
 	end
 }
 script 42 mmbn5s {
@@ -177,23 +177,23 @@ script 43 mmbn5s {
 	end
 }
 script 44 mmbn5s {
-	" H.Kojima"
+	" H. Kojima"
 	end
 }
 script 45 mmbn5s {
-	" M.Hinami"
+	" M. Hinami"
 	end
 }
 script 46 mmbn5s {
-	" I.Nakamura"
+	" I. Nakamura"
 	end
 }
 script 47 mmbn5s {
-	" M.Okuta"
+	" M. Okuta"
 	end
 }
 script 48 mmbn5s {
-	" M.Yamada"
+	" M. Yamada"
 	end
 }
 script 49 mmbn5s {
@@ -201,7 +201,7 @@ script 49 mmbn5s {
 	end
 }
 script 50 mmbn5s {
-	" A.Iwasaki"
+	" A. Iwasaki"
 	end
 }
 script 51 mmbn5s {
@@ -209,71 +209,71 @@ script 51 mmbn5s {
 	end
 }
 script 52 mmbn5s {
-	" M.Nanba"
+	" M. Nanba"
 	end
 }
 script 53 mmbn5s {
-	"Agradec. Especiais"
+	"Agradecimentos Especiais"
 	end
 }
 script 54 mmbn5s {
-	" S.Kurosawa"
+	" S. Kurosawa"
 	end
 }
 script 55 mmbn5s {
-	" S.Ukai"
+	" S. Ukai"
 	end
 }
 script 56 mmbn5s {
-	" H.Nakamura"
+	" H. Nakamura"
 	end
 }
 script 57 mmbn5s {
-	" K.Choya"
+	" K. Choya"
 	end
 }
 script 58 mmbn5s {
-	" N.Minamide"
+	" N. Minamide"
 	end
 }
 script 59 mmbn5s {
-	" T.Sato"
+	" T. Sato"
 	end
 }
 script 60 mmbn5s {
-	" K.Yasuda"
+	" K. Yasuda"
 	end
 }
 script 61 mmbn5s {
-	" A.Hayashi"
+	" A. Hayashi"
 	end
 }
 script 62 mmbn5s {
-	" K.Funahara"
+	" K. Funahara"
 	end
 }
 script 63 mmbn5s {
-	" T.Sano"
+	" T. Sano"
 	end
 }
 script 64 mmbn5s {
-	" T.Kanda"
+	" T. Kanda"
 	end
 }
 script 65 mmbn5s {
-	" T.Ono"
+	" T. Ono"
 	end
 }
 script 66 mmbn5s {
-	" O.Kushima"
+	" O. Kushima"
 	end
 }
 script 67 mmbn5s {
-	" S.Kobayashi"
+	" S. Kobayashi"
 	end
 }
 script 68 mmbn5s {
-	" Y.Yasuda"
+	" Y. Yasuda"
 	end
 }
 script 69 mmbn5s {
@@ -301,7 +301,7 @@ script 74 mmbn5s {
 	end
 }
 script 75 mmbn5s {
-	" T.Horinouchi"
+	" T. Horinouchi"
 	end
 }
 script 76 mmbn5s {
@@ -309,7 +309,7 @@ script 76 mmbn5s {
 	end
 }
 script 77 mmbn5s {
-	" K.Inafune"
+	" K. Inafune"
 	end
 }
 script 78 mmbn5s {
@@ -317,15 +317,15 @@ script 78 mmbn5s {
 	end
 }
 script 79 mmbn5s {
-	" M.Yasuma"
+	" M. Yasuma"
 	end
 }
 script 80 mmbn5s {
-	" M.Yoshioka"
+	" M. Yoshioka"
 	end
 }
 script 100 mmbn5s {
-	"Tempo     "
+	"Tempo        "
 	printBuffer
 		buffer = 0
 		minLength = 2
@@ -340,7 +340,7 @@ script 100 mmbn5s {
 	end
 }
 script 101 mmbn5s {
-	"Coleção   S "
+	"Coleção      P "
 	printBuffer
 		buffer = 0
 		minLength = 3
@@ -367,7 +367,7 @@ script 103 mmbn5s {
 	end
 }
 script 104 mmbn5s {
-	"               D "
+	"               T "
 	printBuffer
 		buffer = 0
 		minLength = 3
@@ -392,10 +392,10 @@ script 108 mmbn5s {
 	end
 }
 script 109 mmbn5s {
-	"Battle Network5"
+	"Battle Network 5"
 	end
 }
 script 110 mmbn5s {
-	" K.Yoshitomi"
+	" K. Yoshitomi"
 	end
 }

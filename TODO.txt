@@ -1,9 +1,10 @@
-- Tela de batalha contra vírus:
-    - Letreiros de batalhas com outros navis
-- Créditos ao zerar o jogo (tentar aplicar fonte VWF, e adicionar nossos créditos)
+- Créditos ao zerar o jogo (adicionar nossos créditos)
+- Checar bug de travamento do jogo, após o pós-créditos (workaround adicionado, ver com TTK depois)
 - Checar bug que impedia alguns e-mails de serem checados em uma das versões (acho que do Baryl, na versão Colonel)
 - Editar gráficos do modo operation battle:
-    - Operation Battle (Batalha de Operação)
+    - Operation Battle (Batalha de Operação), No Entry
 - Editar gráficos do modo crossover battle (Batalha Cruzada):
     - Interval
     - RESULT, DeleteTime, Busting LV, GET DATA
+- Tela de batalha contra vírus:
+    - Letreiros de batalhas com outros navis

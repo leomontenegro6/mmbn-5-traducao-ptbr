@@ -1,7 +1,7 @@
 FonteTextosVwf equ 0x080426B4
+FonteCreditosVwf equ 0x08042D98
 FonteTextos equ 0x086C1528
 FonteTextosSombra equ 0x086BA4C8
-
 FonteGrande equ 0x086CBA68
 
 LicenciadoPelaNintendo equ 0x086D8BB4
@@ -159,6 +159,7 @@ PonteiroLojaHigsbyInterior equ 0x08033264
 PonteiroLojaHigsbyFundos equ 0x08033270
 PonteiroLojaHigsbyFundosTM equ 0x08033278
 PonteiroQgNebulaNv123 equ 0x080333E4
+PonteiroApresentadoPelaCapcom equ 0x0813D228
 PonteiroSelecting1 equ 0x08033114
 PonteiroSelecting2 equ 0x08139990
 PonteiroSelecting3 equ 0x0813A970
