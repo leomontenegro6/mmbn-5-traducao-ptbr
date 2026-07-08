@@ -39,7 +39,7 @@
 | 0x6EF720 | Navigator                                   | 4bpp  |         |
 | 0x6F36CC | Ok Yes No Wait                              | 4bpp  | Sim     |
 | 0x6F3AD4 | Selecting                                   | 4bpp  | Sim     |
-| 0x6F4154 | No Entry                                    | 4bpp  |         |
+| 0x6F4154 | No Entry                                    | 4bpp  | Sim     |
 | 0x7D827C | Crossover Battle                            | 4bpp  |         |
 | 0x7DA648 | Back Next Name Comment                      | 4bpp  |         |
 | 0x7DAEB0 | Entry Update List ID                        | 4bpp  |         |

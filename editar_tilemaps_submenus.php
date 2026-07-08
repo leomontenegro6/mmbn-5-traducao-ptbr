@@ -80,6 +80,11 @@ $tilemaps = [
         'bottom_text' => '[31][31][31][31][7701] (TROCAR PROGRAMA) [30][31][31][31][31][31]',
         'top_offset' => 0x08000004,
         'bottom_offset' => 0x08000040
+    ],
+    [
+        'filename' => 'Batalha de Operacao (tm).gba',
+        'top_text' => '(BATALHA DE OPERAÇÃO)[23][24][0E][25][0E][25][0E][25]',
+        'bottom_text' => '(BATALHA DE OPERAÇÃO) [30][31][31][31]'
     ]
 ];
 

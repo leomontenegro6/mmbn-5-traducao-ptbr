@@ -81,6 +81,7 @@ LorR equ 0x086FB808
 
 AttackPlus30 equ 0x08724964
 AttackPlusX equ 0x0871F024
+AttackNaviPlus equ 0x086FD47C
 
 Trap1 equ 0x0838100C
 Trap2 equ 0x08381230
@@ -141,6 +142,7 @@ PonteiroTrocaDeChipsTM equ 0x08139A54
 PonteiroTrocaDeProgramasTM equ 0x0813AA40
 PonteiroTrocarChipTM equ 0x08139A6C
 PonteiroTrocarProgramaTM equ 0x0813AA4C
+PonteiroBatalhaDeOperacaoTM equ 0x0813BFD4
 PonteiroChipTrader equ 0x0804A11C
 PonteiroMapData equ 0x0803E6CC
 PonteiroMapDataTM equ 0x0803E6E4
@@ -160,6 +162,8 @@ PonteiroLojaHigsbyFundos equ 0x08033274
 PonteiroLojaHigsbyFundosTM equ 0x0803327C
 PonteiroQgNebulaNv123 equ 0x080333E8
 PonteiroApresentadoPelaCapcom equ 0x0813D310
+PonteiroBatalhaDeOperacaoSemEntrada1 equ 0x08033124
+PonteiroBatalhaDeOperacaoSemEntrada2 equ 0x0813C028
 PonteiroSelecting1 equ 0x08033118
 PonteiroSelecting2 equ 0x08139A78
 PonteiroSelecting3 equ 0x0813AA58

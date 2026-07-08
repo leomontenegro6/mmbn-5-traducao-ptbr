@@ -17,7 +17,7 @@ $graficos = [
     (object)['nome' => 'Arm', 'offset' => '0x6FBA88', 'tiles' => '2x12'],
     (object)['nome' => 'Pause', 'offset' => '0x6FCA88', 'tiles' => '1x10'],
     (object)['nome' => 'Unite Block', 'offset' => '0x6FCE20', 'tiles' => '3x6'],
-    (object)['nome' => 'Attack Navi Plus', 'offset' => '0x6FDE7C', 'tiles' => '1x19'],
+    (object)['nome' => 'Attack Navi Plus', 'offset' => '0x6FD47C', 'tiles' => '1x19'],
     (object)['nome' => 'Tactics', 'offset' => '0x6FEEDC', 'tiles' => '2x19'],
     (object)['nome' => 'Attack Plus X', 'offset' => '0x71F024', 'tiles' => '7x6'],
     (object)['nome' => 'Attack Plus 30', 'offset' => '0x724964', 'tiles' => '7x6'],

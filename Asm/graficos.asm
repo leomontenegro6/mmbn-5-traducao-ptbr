@@ -87,6 +87,8 @@
     .incbin "Graficos/Editados/Attack Plus 30.gba"
 .org AttackPlusX
     .incbin "Graficos/Editados/Attack Plus X.gba"
+.org AttackNaviPlus
+    .incbin "Graficos/Editados/Attack Navi Plus.gba"
 
 ; Gráfico exibido após ativar uma armadilha.
 .org Trap1
@@ -208,6 +210,8 @@
     .dw TrocarChipTM + 0x80000000
 .org PonteiroTrocarProgramaTM
     .dw TrocarProgramaTM + 0x80000000
+.org PonteiroBatalhaDeOperacaoTM
+    .dw BatalhaDeOperacaoTM + 0x80000000
 .org PonteiroChipTrader
     .dw ChipTrader + 0x80000000
 .org PonteiroMapData
@@ -284,6 +288,10 @@
     .dw QgNebulaNv123
 .org PonteiroApresentadoPelaCapcom
     .dw ApresentadoPelaCapcom + 0x80000000
+.org PonteiroBatalhaDeOperacaoSemEntrada1
+    .dw OperacaoBatalhaSemEntrada + 0x80000000
+.org PonteiroBatalhaDeOperacaoSemEntrada2
+    .dw OperacaoBatalhaSemEntrada + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -487,6 +495,10 @@ TrocarProgramaTM:
     .lz77gba "Graficos/Editados/Trocar Programa (tm).gba"
     .align
 
+BatalhaDeOperacaoTM:
+    .lz77gba "Graficos/Editados/Batalha de Operacao (tm).gba"
+    .align
+
 ChipTrader:
     .lz77gba "Graficos/Editados/Chip Trader.gba"
     .align
@@ -613,6 +625,10 @@ QgNebulaNv123:
 
 ApresentadoPelaCapcom:
     .lz77gba "Graficos/Editados/Presented By.gba"
+    .align
+
+OperacaoBatalhaSemEntrada:
+    .lz77gba "Graficos/Editados/No Entry.gba"
     .align
 
 GameOver:
