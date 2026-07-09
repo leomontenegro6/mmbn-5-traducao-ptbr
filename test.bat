@@ -18,11 +18,13 @@ GOTO end
 
 :vbalink
 start "" "%VBALINK_PATH%" "%CURRENTDIR%\Mega Man Battle Network 5 - %version% (BR).gba"
+timeout /t 1 >nul
 start "" "%VBALINK_PATH%" "%CURRENTDIR%\Mega Man Battle Network 5 - %version% (BR).gba"
 GOTO end
 
 :vbalink_boktai2
 start "" "%VBALINK_PATH%" "%CURRENTDIR%\Mega Man Battle Network 5 - %version% (BR).gba"
+timeout /t 1 >nul
 start "" "%VBALINK_PATH%" "%BOKTAI2_PATH%"
 GOTO end
 

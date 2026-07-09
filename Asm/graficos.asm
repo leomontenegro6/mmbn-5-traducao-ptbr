@@ -292,6 +292,12 @@
     .dw OperacaoBatalhaSemEntrada + 0x80000000
 .org PonteiroBatalhaDeOperacaoSemEntrada2
     .dw OperacaoBatalhaSemEntrada + 0x80000000
+.org PonteiroBatalhaCruzadaTelaDeNomes1
+    .dw BatalhaCruzadaTelaDeNomes + 0x80000000
+.org PonteiroBatalhaCruzadaTelaDeNomes2
+    .dw BatalhaCruzadaTelaDeNomes + 0x80000000
+.org PonteiroBatalhaCruzadaTelaPrincipal
+    .dw BatalhaCruzadaTelaPrincipal + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -629,6 +635,14 @@ ApresentadoPelaCapcom:
 
 OperacaoBatalhaSemEntrada:
     .lz77gba "Graficos/Editados/No Entry.gba"
+    .align
+
+BatalhaCruzadaTelaDeNomes:
+    .lz77gba "Graficos/Editados/Batalha Cruzada - Tela de Nomes.gba"
+    .align
+
+BatalhaCruzadaTelaPrincipal:
+    .lz77gba "Graficos/Editados/Batalha Cruzada - Tela Principal.gba"
     .align
 
 GameOver:

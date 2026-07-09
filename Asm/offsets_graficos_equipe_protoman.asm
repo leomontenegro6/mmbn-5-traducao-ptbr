@@ -164,6 +164,9 @@ PonteiroQgNebulaNv123 equ 0x080333E4
 PonteiroApresentadoPelaCapcom equ 0x0813D228
 PonteiroBatalhaDeOperacaoSemEntrada1 equ 0x08033120
 PonteiroBatalhaDeOperacaoSemEntrada2 equ 0x0813BF40
+PonteiroBatalhaCruzadaTelaDeNomes1 equ 0x0803A844
+PonteiroBatalhaCruzadaTelaDeNomes2 equ 0x0804952C
+PonteiroBatalhaCruzadaTelaPrincipal equ 0x0803A690
 PonteiroSelecting1 equ 0x08033114
 PonteiroSelecting2 equ 0x08139990
 PonteiroSelecting3 equ 0x0813A970
