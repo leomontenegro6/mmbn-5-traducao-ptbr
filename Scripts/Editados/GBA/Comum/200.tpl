@@ -190,9 +190,9 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Sobre ela, xícaras de
-	chá. Sente-se um resquí-
-	cio do cheiro da bebida.
+	Sobre ela, xícaras
+	de chá. Sente-se um
+	resquício do aroma.
 	"""
 	keyWait
 		any = false

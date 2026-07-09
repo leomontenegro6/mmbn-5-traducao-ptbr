@@ -107,9 +107,9 @@ script 13 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	A gente tem que con-
-	sertar a Rede! Vamos
-	lá pra Área Oran 3!
+	Temos que consertar
+	a Rede! Vamos lá
+	pra Área Oran 3!
 	"""
 	keyWait
 		any = false

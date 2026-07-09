@@ -60,9 +60,9 @@ script 2 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	AS ÁREAS DE TODOS OS
-	LUGARES ESTÃO EM APU-
-	ROS! O QUE FAREMOS?!
+	AS ÁREAS DE TODOS
+	OS LUGARES ESTÃO EM
+	APUROS! O QUE FAREMOS?!
 	"""
 	keyWait
 		any = false

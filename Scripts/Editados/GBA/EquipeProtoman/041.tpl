@@ -5,7 +5,7 @@ script 0 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	A União de Alma requer
+	O Uníssono de Alma requer
 	o sacrifício de um
 	chip compatível.
 	"""
@@ -33,8 +33,8 @@ script 2 mmbn5 {
 		mugshot = Chaud
 	"""
 	Aham. No momento,
-	o MegaMan pode se unir
-	à MagnAlma.
+	o MegaMan pode fazer
+	uníssono com a MagnAlma.
 	"""
 	keyWait
 		any = false
@@ -42,7 +42,7 @@ script 2 mmbn5 {
 	"""
 	Logo, ao sacrificar um
 	chip Elét., ele poderá
-	ativar a União de Alma.
+	ativar o Uníssono de Alma.
 	"""
 	keyWait
 		any = false
@@ -144,7 +144,7 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	Viu? É assim que se
-	usa um Chip de União.
+	usa um Chip de Uníssono.
 	Selecione "OK" pra,
 	"""
 	keyWait
@@ -200,7 +200,7 @@ script 11 mmbn5 {
 		mugshot = Chaud
 	msgOpen
 	"""
-	Essa é a União de Alma.
+	Esse é o Uníssono de Alma.
 	Dominá-la com certeza
 	vai te deixar mais forte.
 	"""
@@ -208,7 +208,7 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Contudo, a União
+	Contudo, o Uníssono
 	apresenta certas
 	restrições.
 	"""
@@ -225,15 +225,15 @@ script 11 mmbn5 {
 	clearMsg
 	"""
 	Em segundo, você só
-	pode se unir a cada
-	alma uma vez por luta.
+	pode fazer um uníssono
+	uma vez por luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E em terceiro, a
-	União de Alma só
+	E em terceiro, o
+	Uníssono de Alma só
 	dura três turnos.
 	"""
 	keyWait

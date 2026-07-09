@@ -70,8 +70,8 @@ script 4 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você nunca vai impressi-
-	onar as pessoas com
+	Você nunca vai impres-
+	sionar as pessoas com
 	novos fogos de artifício
 	"""
 	keyWait

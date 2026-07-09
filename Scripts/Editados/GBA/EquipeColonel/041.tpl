@@ -5,7 +5,7 @@ script 0 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	A União de Alma requer
+	O Uníssono de Alma requer
 	o sacrifício de um
 	chip compatível.
 	"""
@@ -210,15 +210,15 @@ script 11 mmbn5 {
 		mugshot = Baryl
 	msgOpen
 	"""
-	Essa é a União de Alma.
-	Dominá-la com certeza
+	Esse é o Uníssono de Alma.
+	Dominá-lo com certeza
 	vai te deixar mais forte.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Contudo, a União
+	Contudo, o Uníssono
 	apresenta certas
 	restrições.
 	"""
@@ -234,16 +234,16 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Em segundo, você só
-	pode se unir a cada
+	Em segundo, só pode
+	fazer uníssono como cada
 	alma uma vez por luta.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	E em terceiro, a
-	União de Alma só
+	E em terceiro, o
+	Uníssono de Alma só
 	dura três turnos.
 	"""
 	keyWait

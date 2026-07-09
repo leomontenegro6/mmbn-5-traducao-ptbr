@@ -121,8 +121,8 @@ script 14 mmbn5 {
 	mugshotShow
 		mugshot = Ribitta
 	"""
-	Vamos iniciar o pro-
-	grama de treinamento?
+	Iniciar o programa
+	de treinamento?
 	
 	"""
 	positionOptionHorizontal
@@ -243,8 +243,8 @@ script 22 mmbn5 {
 		mugshot = Ribitta
 	"""
 	O Progress Chip Gate
-	não foi está devida-
-	mente conectado.
+	não foi devidamente
+	conectado.
 	"""
 	keyWait
 		any = false

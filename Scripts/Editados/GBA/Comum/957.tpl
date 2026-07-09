@@ -302,13 +302,13 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	pare o ataque da Nebula.
+	pare o ataque dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas quanto mais perto
+	Mas, quanto mais perto
 	chegarem de um, mais
 	ele afetará vocês.
 	"""

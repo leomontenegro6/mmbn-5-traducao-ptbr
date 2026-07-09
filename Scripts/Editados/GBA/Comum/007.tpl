@@ -182,39 +182,40 @@ script 45 mmbn5s {
 }
 script 46 mmbn5s {
 	"""
-	Chaud's
 	Custom
+	do Chaud
 	"""
 	end
 }
 script 47 mmbn5s {
 	"""
-	Mr.-
-	Match's
 	Custom
+	do Sr.
+	Match
 	"""
 	end
 }
 script 48 mmbn5s {
 	"""
-	Count-
-	Zap's
 	Custom
+	do Conde
+	Zap
 	"""
 	end
 }
 script 49 mmbn5s {
 	"""
-	Anetta's
 	Custom
+	da
+	Anetta
 	"""
 	end
 }
 script 50 mmbn5s {
 	"""
-	Chill-
-	ski's
 	Custom
+	do
+	Chillski
 	"""
 	end
 }
@@ -400,37 +401,37 @@ script 95 mmbn5s {
 }
 script 96 mmbn5s {
 	"""
-	Lan's
 	Custom
+	do Lan
 	"""
 	end
 }
 script 97 mmbn5s {
 	"""
-	Dex's
 	Custom
+	do Dex
 	"""
 	end
 }
 script 98 mmbn5s {
 	"""
-	Maddy's
 	Custom
+	da Maddy
 	"""
 	end
 }
 script 99 mmbn5s {
 	"""
-	Yahoot's
-	Bug
-	Repair
+	Conserto
+	de Bug
+	Yahoot
 	"""
 	end
 }
 script 100 mmbn5s {
 	"""
-	Tora's
-	Tactics
+	Táticas
+	do Tora
 	"""
 	end
 }
@@ -474,9 +475,9 @@ script 108 mmbn5s {
 }
 script 109 mmbn5s {
 	"""
-	Dad's
-	Repair
-	Program
+	Programa
+	de repa-
+	ros Pai
 	"""
 	end
 }
@@ -496,7 +497,7 @@ script 111 mmbn5s {
 	end
 }
 script 116 mmbn5s {
-	"Attack  \nSpeed   \nCharge  \nCustom  \nMegFld  \nGigFld  \nSoulTm  "
+	"Ataque  \nRapidz   \nCarga   \nCustom  \nMegPst  \nGigPst  \nTpAlma  "
 	end
 }
 script 117 mmbn5s {

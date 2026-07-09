@@ -730,8 +730,8 @@ script 75 mmbn5 {
 	msgOpen
 	"""
 	A Ficha de Dados caiu
-	perto de um objeto im-
-	pressionante em Endo 3.
+	perto de um objeto
+	impressionante em Endo 3.
 	"""
 	keyWait
 		any = false

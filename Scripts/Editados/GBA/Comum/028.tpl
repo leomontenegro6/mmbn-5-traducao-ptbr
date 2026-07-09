@@ -362,9 +362,9 @@ script 20 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	9qdos vi-
-	ram gelo
-	a 3qdos.
+	9 quadros
+	viram ge-
+	lo a 3qds
 	"""
 	keyWait
 		any = true
@@ -435,8 +435,8 @@ script 24 mmbn5 {
 		delay = 0
 	"""
 	Shakey
-	treme
-	a 3qdos
+	treme a
+	3 quadros
 	"""
 	keyWait
 		any = true
@@ -453,8 +453,8 @@ script 25 mmbn5 {
 		delay = 0
 	"""
 	Shakey
-	treme
-	a 3qdos
+	treme a
+	3 quadros
 	"""
 	keyWait
 		any = true
@@ -471,8 +471,8 @@ script 26 mmbn5 {
 		delay = 0
 	"""
 	Shakey
-	treme
-	a 3qdos
+	treme a
+	3 quadros
 	"""
 	keyWait
 		any = true
@@ -490,7 +490,7 @@ script 27 mmbn5 {
 	"""
 	Explosão
 	estática
-	a 2qdos
+	a 2 qdos
 	"""
 	keyWait
 		any = true
@@ -687,8 +687,8 @@ script 38 mmbn5 {
 		delay = 0
 	"""
 	Bomba
-	racha
-	a 3qdros
+	racha a
+	3 quadros
 	"""
 	keyWait
 		any = true
@@ -706,7 +706,7 @@ script 39 mmbn5 {
 	"""
 	Bomba
 	paralisa
-	a 3qdros
+	a 3 qdros
 	"""
 	keyWait
 		any = true
@@ -723,7 +723,7 @@ script 40 mmbn5 {
 		delay = 0
 	"""
 	Enfraque-
-	ce 3qdos
+	ce 3 qdos
 	à frente
 	"""
 	keyWait
@@ -760,7 +760,7 @@ script 42 mmbn5 {
 	"""
 	Campo vi-
 	ra grama
-	a 3qdos
+	a 3 qdos
 	"""
 	keyWait
 		any = true
@@ -777,8 +777,8 @@ script 43 mmbn5 {
 		delay = 0
 	"""
 	Campo vi-
-	ra lava
-	a 3qdos
+	ra lava a
+	3 quadros
 	"""
 	keyWait
 		any = true
@@ -849,8 +849,8 @@ script 47 mmbn5 {
 		delay = 0
 	"""
 	Campo vi-
-	ra água
-	a 3qdos
+	ra água a
+	3 quadros
 	"""
 	keyWait
 		any = true
@@ -1295,8 +1295,8 @@ script 72 mmbn5 {
 		delay = 0
 	"""
 	Empurra
-	alvo
-	2qdros
+	alvo 2
+	quadros
 	"""
 	keyWait
 		any = true
@@ -1313,8 +1313,8 @@ script 73 mmbn5 {
 		delay = 0
 	"""
 	Empurra
-	alvo
-	2qdros
+	alvo 2
+	quadros
 	"""
 	keyWait
 		any = true
@@ -1331,8 +1331,8 @@ script 74 mmbn5 {
 		delay = 0
 	"""
 	Empurra
-	alvo
-	2qdros
+	alvo 2
+	quadros
 	"""
 	keyWait
 		any = true
@@ -1404,7 +1404,7 @@ script 78 mmbn5 {
 	"""
 	Sensor2
 	eltrocuta
-	a 3qdros
+	a 3 qdros
 	"""
 	keyWait
 		any = true
@@ -1422,7 +1422,7 @@ script 79 mmbn5 {
 	"""
 	Sensor2
 	eltrocuta
-	a 3qdros
+	a 3 qdros
 	"""
 	keyWait
 		any = true
@@ -1440,7 +1440,7 @@ script 80 mmbn5 {
 	"""
 	Sensor2
 	eltrocuta
-	a 3qdros
+	a 3 qdros
 	"""
 	keyWait
 		any = true

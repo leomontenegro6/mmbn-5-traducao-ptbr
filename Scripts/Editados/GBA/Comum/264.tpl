@@ -734,9 +734,9 @@ script 41 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Como é que é? "Eu falo
-	tão alto que vão desco-
-	brir meu esconderijo"?
+	Como é que é? "Falo tão
+	alto que vão descobrir
+	meu esconderijo"?
 	"""
 	keyWait
 		any = false

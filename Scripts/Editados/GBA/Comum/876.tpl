@@ -55,9 +55,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	permitindo ao MegaMan
-	adquirir uma nova
-	habilidade.
+	conferindo ao MegaMan
+	uma nova habilidade.
 	"""
 	keyWait
 		any = false
@@ -93,8 +92,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Essa é a
-	União de Alma,
+	Esse é o
+	Uníssono de Alma,
 	"""
 	keyWait
 		any = false
@@ -115,8 +114,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Domine essa nova
-	técnica imediatamente!"
+	Domine bem essa
+	nova técnica!"
 	"""
 	keyWait
 		any = false
@@ -134,7 +133,7 @@ script 1 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"União de Alma?"
+	"Uníssono de Alma?"
 	keyWait
 		any = false
 	clearMsg
@@ -198,9 +197,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	permitindo ao MegaMan
-	adquirir uma nova
-	habilidade.
+	conferindo ao MegaMan
+	uma nova habilidade.
 	"""
 	keyWait
 		any = false
@@ -237,8 +235,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É a chamada
-	União de Alma,
+	É a chamado
+	Uníssono de Alma,
 	"""
 	keyWait
 		any = false
@@ -259,8 +257,8 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Domine essa nova
-	técnica imediatamente!"
+	Domine bem essa
+	nova técnica!"
 	"""
 	keyWait
 		any = false
@@ -278,7 +276,7 @@ script 2 mmbn5 {
 	clearMsg
 	mugshotShow
 		mugshot = Lan
-	"União de Alma?"
+	"Uníssono de Alma?"
 	keyWait
 		any = false
 	clearMsg

@@ -15,7 +15,7 @@ script 1 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"União do Caos..."
+	"Uníssono do Caos..."
 	keyWait
 		any = false
 	clearMsg

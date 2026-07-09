@@ -1425,8 +1425,8 @@ script 84 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Anda
-	3qdros
+	Anda 3
+	quadros
 	vertical
 	"""
 	keyWait
@@ -2340,7 +2340,7 @@ script 145 mmbn5 {
 	"""
 	Usa
 	WideSword
-	a 2qdros
+	a 2 qdros
 	"""
 	keyWait
 		any = true
@@ -2530,8 +2530,8 @@ script 157 mmbn5 {
 		delay = 0
 	"""
 	Explosão
-	3qdros se
-	pega trás
+	3q se pe-
+	ga atrás
 	"""
 	keyWait
 		any = true
@@ -2595,7 +2595,7 @@ script 161 mmbn5 {
 	"""
 	Planta
 	armadilha
-	a 2qdos
+	a 2 qdos
 	"""
 	keyWait
 		any = true

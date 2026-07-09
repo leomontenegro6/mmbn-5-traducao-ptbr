@@ -279,8 +279,8 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ela se enche gradual-
-	mente com o passar do
+	Ela se enche
+	gradualmente com o
 	tempo, indo de amarelo
 	"""
 	keyWait
@@ -479,9 +479,9 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Embaralhar consumirá a
-	sua Barra de Customi-
-	zação, então, cuidado!
+	Embaralhar consumirá
+	a sua Barra de
+	Customização. Cuidado!
 	"""
 	keyWait
 		any = false

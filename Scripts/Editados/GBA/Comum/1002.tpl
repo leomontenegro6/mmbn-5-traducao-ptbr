@@ -764,8 +764,8 @@ script 38 mmbn5 {
 		mugshot = LordWily
 	msgOpen
 	"""
-	Vim cumprir com meu de-
-	ver, tanto como cientista
+	Vim cumprir com meu dever,
+	tanto como cientista
 	quanto como seu pai...
 	"""
 	keyWait
