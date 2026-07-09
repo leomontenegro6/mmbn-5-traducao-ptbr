@@ -167,6 +167,9 @@ PonteiroBatalhaDeOperacaoSemEntrada2 equ 0x0813BF40
 PonteiroBatalhaCruzadaTelaDeNomes1 equ 0x0803A844
 PonteiroBatalhaCruzadaTelaDeNomes2 equ 0x0804952C
 PonteiroBatalhaCruzadaTelaPrincipal equ 0x0803A690
+PonteiroBatalhaCruzadaTelaBatalha1 equ 0x0803A750
+PonteiroBatalhaCruzadaTelaBatalha2 equ 0x080495B0
+PonteiroBatalhaCruzadaTelaAjuda equ 0x0803A8C4
 PonteiroSelecting1 equ 0x08033114
 PonteiroSelecting2 equ 0x08139990
 PonteiroSelecting3 equ 0x0813A970

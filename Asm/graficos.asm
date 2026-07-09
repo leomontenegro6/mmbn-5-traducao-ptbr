@@ -298,6 +298,12 @@
     .dw BatalhaCruzadaTelaDeNomes + 0x80000000
 .org PonteiroBatalhaCruzadaTelaPrincipal
     .dw BatalhaCruzadaTelaPrincipal + 0x80000000
+.org PonteiroBatalhaCruzadaTelaBatalha1
+    .dw BatalhaCruzadaTelaBatalha + 0x80000000
+.org PonteiroBatalhaCruzadaTelaBatalha2
+    .dw BatalhaCruzadaTelaBatalha + 0x80000000
+.org PonteiroBatalhaCruzadaTelaAjuda
+    .dw BatalhaCruzadaTelaAjuda + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -643,6 +649,14 @@ BatalhaCruzadaTelaDeNomes:
 
 BatalhaCruzadaTelaPrincipal:
     .lz77gba "Graficos/Editados/Batalha Cruzada - Tela Principal.gba"
+    .align
+
+BatalhaCruzadaTelaBatalha:
+    .lz77gba "Graficos/Editados/Batalha Cruzada - Tela Batalha.gba"
+    .align
+
+BatalhaCruzadaTelaAjuda:
+    .lz77gba "Graficos/Editados/Batalha Cruzada - Tela Ajuda.gba"
     .align
 
 GameOver:
