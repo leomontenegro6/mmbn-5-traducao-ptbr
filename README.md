@@ -1,4 +1,4 @@
-# [GBA] MegaMan Battle Network 4 - Tradução PT-BR
+# [GBA] MegaMan Battle Network 5 - Tradução PT-BR
 
 Este é um projeto de tradução do jogo MegaMan Battle Network 5, de Gameboy Advance, para português do Brasil. O projeto foi feito com base na versão americana do jogo.
 

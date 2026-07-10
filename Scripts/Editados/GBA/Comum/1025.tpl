@@ -8,7 +8,7 @@ script 0 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Faça uma Luta
+	Faça uma Batalha
 	Cruzada com Boktai 2:
 	Solar Boy Django!
 	"""
@@ -36,7 +36,7 @@ script 2 mmbn5 {
 		delay = 0
 	"""
 	Vou explicar as
-	Lutas Cruzadas.
+	Batalhas Cruzadas.
 	"""
 	waitHold
 }
@@ -821,7 +821,7 @@ script 90 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Sobre L. Cruzadas\n"
+	" Sobre Batalhas Cruzadas\n"
 	option
 		brackets = 0
 		left = 1
@@ -830,7 +830,7 @@ script 90 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Sobre Ícone de Pert.\n"
+	" Sobre Ícones de Perturb.\n"
 	option
 		brackets = 0
 		left = 2
@@ -866,7 +866,7 @@ script 91 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Sobre L. Cruzadas\n"
+	" Sobre Batalhas Cruzadas\n"
 	option
 		brackets = 0
 		left = 1
@@ -875,7 +875,7 @@ script 91 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Sobre Ícone de Pert.\n"
+	" Sobre Ícones de Perturb.\n"
 	option
 		brackets = 0
 		left = 2
@@ -911,7 +911,7 @@ script 92 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Sobre L. Cruzadas\n"
+	" Sobre Batalhas Cruzadas\n"
 	option
 		brackets = 0
 		left = 1
@@ -920,7 +920,7 @@ script 92 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Sobre Ícone de Pert.\n"
+	" Sobre Ícones de Perturb.\n"
 	option
 		brackets = 0
 		left = 2

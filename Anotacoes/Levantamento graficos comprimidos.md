@@ -10,7 +10,7 @@
 | 0x6E095C | Nomes Localidades Mapa                      | 4bpp  | Sim     |
 | 0x6E15B4 | Chip Trader                                 | 4bpp  | Sim     |
 | 0x6E18C0 | Bugfrags (loja)                             | 4bpp  | Sim     |
-| 0x6E1A80 | Crossover Points                            | 4bpp  |         |
+| 0x6E1A80 | Crossover Points                            | 4bpp  | Sim     |
 | 0x6E6F04 | Submenus                                    | 4bpp  | Sim     |
 | 0x6E8940 | Folder Edit 1 (tm)                          |       | Sim     |
 | 0x6EA3D8 | Folder Edit 2 (tm)                          |       | Sim     |

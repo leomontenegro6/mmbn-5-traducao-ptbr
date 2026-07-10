@@ -1229,7 +1229,7 @@ script 50 mmbn5 {
 	"""
 	E eu vim aqui para
 	trocar seus Pontos
-	de Crossover!
+	Cruzados!
 	"""
 	keyWait
 		any = false

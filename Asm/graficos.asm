@@ -75,6 +75,10 @@
     .incbin "Graficos/Editados/Fonte Nomes Batalhas 2.gba"
 .org FinalTurn
     .incbin "Graficos/Editados/Final Turn.gba"
+.org Interval
+    .incbin "Graficos/Editados/Interval.gba"
+.org Block
+    .incbin "Graficos/Editados/Block.gba"
 
 ; Gráficos exibidos durante as batalhas.
 .org Pause
@@ -304,6 +308,8 @@
     .dw BatalhaCruzadaTelaBatalha + 0x80000000
 .org PonteiroBatalhaCruzadaTelaAjuda
     .dw BatalhaCruzadaTelaAjuda + 0x80000000
+.org PonteiroBatalhaCruzadaPontosCruzados
+    .dw BatalhaCruzadaPontosCruzados + 0x80000000
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -657,6 +663,10 @@ BatalhaCruzadaTelaBatalha:
 
 BatalhaCruzadaTelaAjuda:
     .lz77gba "Graficos/Editados/Batalha Cruzada - Tela Ajuda.gba"
+    .align
+
+BatalhaCruzadaPontosCruzados:
+    .lz77gba "Graficos/Editados/Batalha Cruzada - Pontos Cruzados.gba"
     .align
 
 GameOver:

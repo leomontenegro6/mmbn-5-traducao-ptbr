@@ -4,7 +4,7 @@ $graficos = [
     (object)['nome' => 'Trap2', 'offset' => '0x381230', 'tiles' => '2x4'],
     (object)['nome' => 'Trap3', 'offset' => '0x381534', 'tiles' => '2x4'],
     (object)['nome' => 'Trap4', 'offset' => '0x3817B8', 'tiles' => '2x4'],
-    (object)['nome' => 'Block', 'offset' => '0x394EA4', 'tiles' => '4x16'],
+    (object)['nome' => 'Block', 'offset' => '0x394EA4', 'tiles' => '1x65'],
     (object)['nome' => 'Fonte textos', 'offset' => '0x6C2804', 'tiles' => '1x1321'],
     (object)['nome' => 'Fonte textos sombra', 'offset' => '0x6BB7A4', 'tiles' => '16x56'],
     (object)['nome' => 'Fonte grande', 'offset' => '0x6CCD44', 'tiles' => '1x1168'],

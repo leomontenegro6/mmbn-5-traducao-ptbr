@@ -29,6 +29,8 @@ PrgAdvance equ 0x0873C3B8
 FonteNomesBatalhas equ 0x0873BC38
 FonteNomesBatalhas2 equ 0x087FCA34
 FinalTurn equ 0x0873CDF8
+Interval equ 0x0873CFB8
+Block equ 0x08394EA4
 
 PonteiroTelaBatalhaIniciarBatalha equ 0x0801B810
 PonteiroTelaBatalhaInimigoDeletado equ 0x0801B814
@@ -170,6 +172,7 @@ PonteiroBatalhaCruzadaTelaPrincipal equ 0x0803A690
 PonteiroBatalhaCruzadaTelaBatalha1 equ 0x0803A750
 PonteiroBatalhaCruzadaTelaBatalha2 equ 0x080495B0
 PonteiroBatalhaCruzadaTelaAjuda equ 0x0803A8C4
+PonteiroBatalhaCruzadaPontosCruzados equ 0x080A23EC
 PonteiroSelecting1 equ 0x08033114
 PonteiroSelecting2 equ 0x08139990
 PonteiroSelecting3 equ 0x0813A970
