@@ -1,5 +1,4 @@
-- Créditos ao zerar o jogo (adicionar nossos créditos)
 - Checar bug de travamento do jogo, após o pós-créditos (workaround adicionado, ver com TTK depois)
-- Checar bug que impedia alguns e-mails de serem checados em uma das versões (acho que do Baryl, na versão Colonel)
+- Checar bug que impedia os e-mails "ColAlma" e "MedlAlma" de serem checados na versão Colonel
 - Tela de batalha contra vírus:
     - Letreiros de batalhas com outros navis

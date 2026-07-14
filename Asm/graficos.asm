@@ -314,6 +314,8 @@
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
     .dw GameOverTM + 0x80000000
+.org PonteiroMetadadosDialogosCreditos
+    .dw MetadadosDialogosCreditos
 .org PonteiroTelaBatalhaIniciarBatalha
     .dw TelaBatalhaIniciarBatalha
 .org PonteiroTelaBatalhaInimigoDeletado
@@ -675,6 +677,14 @@ GameOver:
 
 GameOverTM:
     .lz77gba "Graficos/Editados/Game Over (tm).gba"
+    .align
+
+MetadadosDialogosCreditos:
+    .if versao == 1
+        .incbin "Graficos/Editados/Metadados dialogos creditos (EP).gba"
+    .elseif versao == 0
+        .incbin "Graficos/Editados/Metadados dialogos creditos (EC).gba"
+    .endif
     .align
 
 ; OAMs dos nomes da tela de batalha, exibidos ora antes dos turnos, ora no final delas
