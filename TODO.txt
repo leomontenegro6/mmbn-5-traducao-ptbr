@@ -1,4 +1,3 @@
-- Checar bug de travamento do jogo, após o pós-créditos (workaround adicionado, ver com TTK depois)
 - Checar bug que impedia os e-mails "ColAlma" e "MedlAlma" de serem checados na versão Colonel
 - Tela de batalha contra vírus:
     - Letreiros de batalhas com outros navis

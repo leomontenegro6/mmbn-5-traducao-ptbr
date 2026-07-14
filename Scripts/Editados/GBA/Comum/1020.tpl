@@ -151,8 +151,8 @@ script 10 mmbn5 {
 		height = 3
 	"""
 	Confira a conexão com
-	o Adaptador Sem Fio
-	e resete.
+	o Adaptador Wireless
+	e reinicie.
 	"""
 	waitHold
 }
@@ -161,15 +161,14 @@ script 11 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Erro!
-	Falha de transmissão.
+	Falha de transmissão!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Não deixe nada entre
-	os Adaptadores Sem Fio.
+	os Adaptadores Wireless.
 	"""
 	keyWait
 		any = false
@@ -186,8 +185,8 @@ script 15 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora praticar, Lan!
-	Iniciando programa!
+	Bora praticar!
+	Iniciar programa!
 	"""
 	keyWait
 		any = false
@@ -244,7 +243,7 @@ script 23 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	E-mail novo, Lan!
+	E-mail novo!
 	"""
 	keyWait
 		any = false
@@ -257,15 +256,8 @@ script 23 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Selecione
-	"E-mail" no menu
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	pra conferir
-	e ler e-mails!
+	Selecione "E-mail"
+	no menu para ler!
 	"""
 	keyWait
 		any = false
@@ -276,8 +268,7 @@ script 25 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Bora atrás
-	do Dex, Lan!
+	Bora atrás do Dex!
 	"""
 	keyWait
 		any = false
@@ -287,20 +278,20 @@ script 26 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"União do Caos...?"
+	"Uníssono do Caos...?"
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Então, agora, eu tenho
-	a União do Caos...
+	Então, agora, eu
+	tenho isso...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas, afinal, quem foi
-	que mandou esse e-mail?
+	Mas, afinal, quem
+	mandou o e-mail?
 	"""
 	keyWait
 		any = false
@@ -309,5 +300,6 @@ script 26 mmbn5 {
 	end
 }
 script 30 mmbn5s {
-	"OBRIGADO POR JOGAR!!!"
+	"OBRIGADO  POR  JOGAR!!!"
+	end
 }
