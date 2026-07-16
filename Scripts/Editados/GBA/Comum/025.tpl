@@ -710,7 +710,7 @@ script 40 mmbn5 {
 		mugshot = Ribitta
 	"""
 	Nossa! Agora ele tá
-	trocando de pasta!
+	trocando de arma!
 	"""
 	waitHold
 }
@@ -903,7 +903,7 @@ script 61 mmbn5 {
 		mugshot = Ribitta
 	"""
 	ProtoMan, o mestre
-	da espada, entro
+	da espada, entrou
 	no páreo!
 	"""
 	keyWait

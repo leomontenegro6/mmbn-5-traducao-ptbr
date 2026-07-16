@@ -10,17 +10,9 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Os invasores
-	precisam ser detidos
-	imediatamente,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	antes que o SciLab
-	acabe sendo tomado
-	por completo!
+	Os invasores devem
+	ser detidos antes que
+	o SciLab seja tomado!
 	"""
 	keyWait
 		any = false
@@ -28,16 +20,14 @@ script 0 mmbn5 {
 }
 script 1 mmbn5 {
 	"""
-	Como já sabem,
-	um grupo criminoso
-	chamado Nebula
+	Como já sabem, um
+	grupo criminoso chamado
+	Nebula invadiu a Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	executou uma
-	invasão na Rede.
 	Como resultado,
 	"""
 	keyWait
@@ -52,8 +42,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O nível de segurança
-	está especialmente alto
+	A segurança está
+	especialmente alta
 	na Cidade de Endo,
 	"""
 	keyWait
@@ -67,9 +57,9 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Para a sua própria
-	segurança, fiquem
-	fora da Rede por ora!
+	Para sua própria
+	segurança, não entrem
+	na Rede por ora!
 	"""
 	keyWait
 		any = false
@@ -82,8 +72,8 @@ script 2 mmbn5 {
 		jumpIfTeamProtoMan = continue
 		jumpIfTeamColonel = 100
 	"""
-	A próxima missão se
-	dará na Área Oran 3.
+	A próxima missão
+	será na Área Oran 3.
 	"""
 	keyWait
 		any = false
@@ -91,15 +81,14 @@ script 2 mmbn5 {
 	"""
 	Mas, primeiro,
 	precisaremos fazer
-	reconhecimento na área.
+	reconhecimento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	As suas ordens são
-	para ir à Área Oran 1,
-	na Rede.
+	Suas ordens são para
+	ir à Área Oran 1.
 	"""
 	keyWait
 		any = false
@@ -118,15 +107,14 @@ script 3 mmbn5 {
 		jumpIfTeamColonel = 101
 	"""
 	Agentes da Nebula
-	continuam na Área Oran.
+	seguem na Área Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Suas ordens são
-	para ir até lá
-	imediatamente.
+	para ir até lá.
 	"""
 	keyWait
 		any = false
@@ -139,16 +127,16 @@ script 3 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você não será capaz
-	de acessá-la através
+	Não será capaz de
+	acessá-la através
 	da Ilha Oran.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Siga para lá através
-	da Área ACDC.
+	Acesse-a pela Área
+	ACDC.
 	"""
 	keyWait
 		any = false
@@ -175,8 +163,7 @@ script 4 mmbn5 {
 	clearMsg
 	"""
 	dizendo que queria
-	testar as minhas
-	habilidades...
+	me testar...
 	"""
 	keyWait
 		any = false
@@ -190,7 +177,7 @@ script 4 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Por favor, vem aqui pra
+	Por favor, venha à
 	broca na Velha Mina!
 	"""
 	keyWait
@@ -219,8 +206,7 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ele queria que você
-	ficasse com ele.
+	Ele queria isso.
 	"""
 	keyWait
 		any = false
@@ -232,7 +218,7 @@ script 5 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Aqui vai um lembrete:"
+	"Vou ajudar:"
 	keyWait
 		any = false
 	clearMsg
@@ -261,7 +247,7 @@ script 5 mmbn5 {
 	clearMsg
 	"""
 	melhor conseguirá
-	customizar o MegaMan!
+	customizá-lo!
 	"""
 	keyWait
 		any = false
@@ -278,9 +264,8 @@ script 5 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Pode ser que você
-	precise trocar de
-	pasta,
+	Talvez você precise
+	trocar de pasta,
 	"""
 	keyWait
 		any = false
@@ -293,7 +278,7 @@ script 5 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Portanto, vou lhe dar\nisto aqui também."
+	"Portanto, pegue isto\ntambém."
 	keyWait
 		any = false
 	clearMsg
@@ -384,9 +369,8 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	permitindo ao MegaMan
-	adquirir uma nova
-	habilidade.
+	conferindo ao MegaMan
+	uma nova habilidade.
 	"""
 	keyWait
 		any = false
@@ -407,7 +391,7 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	as almas alcançam uma
+	elas alcançam uma
 	sincronia temporária,
 	"""
 	keyWait
@@ -415,15 +399,15 @@ script 6 mmbn5 {
 	clearMsg
 	"""
 	dando ao MegaMan as
-	habilidades do Navi
-	em questão.
+	habilidades daquele
+	Navi.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Essa é a
-	União de Alma,
+	Esse é o
+	Uníssono de Alma,
 	"""
 	keyWait
 		any = false
@@ -444,8 +428,8 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Domine essa nova
-	técnica imediatamente!
+	Domine bem essa
+	nova técnica!
 	"""
 	keyWait
 		any = false
@@ -483,9 +467,8 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Os Chips das Trevas
-	podem deixar o seu
-	Navi muito forte.
+	Eles podem deixar o
+	seu Navi muito forte...
 	"""
 	keyWait
 		any = false
@@ -499,7 +482,7 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Se você usar Chips das
+	Se usar Chips das
 	Trevas continuamente,
 	"""
 	keyWait
@@ -507,8 +490,8 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	eles envenenarão
-	seu corpo e alma
-	aos poucos.
+	corpo e alma aos
+	poucos.
 	"""
 	keyWait
 		any = false
@@ -523,7 +506,7 @@ script 8 mmbn5 {
 	clearMsg
 	"""
 	Alma Sombria.
-	Se você, por acaso,
+	Se, por acaso,
 	encontrar alguém
 	"""
 	keyWait
@@ -562,21 +545,21 @@ script 9 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"a União do Caos."
+	"o Uníssono do Caos."
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Você pode ativar a
-	União do Caos com o uso
-	de Chips das Trevas.
+	Você pode ativar o
+	Uníssono do Caos com o
+	uso de Chips das Trevas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Uma vez no modo de
-	União do Caos, você
+	Uníssono do Caos,
 	pode apertar "B"
 	"""
 	keyWait
@@ -591,7 +574,7 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Mas não se esqueça!
+	Mas não esqueça!
 	"""
 	keyWait
 		any = false
@@ -611,17 +594,17 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	fazendo o Poder das
-	Trevas aparecer e
-	mudar de forma sem
+	fazendo ele aparecer
+	e mudar de forma sem
+	parar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	parar. Calcule bem
-	o tempo na hora de
-	lançar seu ataque,
+	Calcule bem o tempo
+	na hora de lançar
+	o ataque,
 	"""
 	keyWait
 		any = false
@@ -642,9 +625,9 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Mas, se você errar o
-	tempo e o Poder das
-	Trevas estiver baixo...
+	Mas, se errar o tempo
+	e o Poder das Trevas
+	estiver baixo...
 	"""
 	keyWait
 		any = false
@@ -670,7 +653,7 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A União do Caos
+	O Uníssono do Caos
 	só dura um turno.
 	Adicionalmente...
 	"""
@@ -678,16 +661,16 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	só se pode usar a
-	União do Caos durante
-	uma União de Alma.
+	só se pode usar o
+	Uníssono do Caos durante
+	um Uníssono de Alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Planeje com cautela
-	antes de usá-la.
+	antes de usar.
 	"""
 	keyWait
 		any = false
@@ -727,13 +710,13 @@ script 10 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	pare o ataque da Nebula.
+	pare o ataque dela.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Mas quanto mais perto
+	Mas, quanto mais perto
 	chegarem de um, mais
 	ele afetará vocês.
 	"""
@@ -771,9 +754,9 @@ script 11 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	então, por favor,
-	evitem isso, mesmo
-	em áreas liberadas.
+	então evitem isso,
+	mesmo em áreas
+	liberadas.
 	"""
 	keyWait
 		any = false
@@ -817,8 +800,8 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	E chips Elétricos
-	causam o dobro do
-	dano normal!
+	causam o dobro
+	do dano!
 	"""
 	keyWait
 		any = false
@@ -831,7 +814,7 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -883,7 +866,7 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -950,7 +933,7 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -1000,7 +983,7 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -1036,8 +1019,8 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Selecione um Chip Próton
-	após selecionar um Chip
+	Selecione um após
+	selecionar um Chip
 	de Ataque.
 	"""
 	keyWait
@@ -1067,7 +1050,7 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -1126,7 +1109,7 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -1136,7 +1119,7 @@ script 17 mmbn5 {
 script 18 mmbn5 {
 	"""
 	Lan! Quero que
-	cê leve isto aqui.
+	leve isto aqui.
 	"""
 	keyWait
 		any = false
@@ -1150,8 +1133,8 @@ script 18 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você ainda tem o
-	MegaMan.
+	Cê ainda tem
+	o MegaMan.
 	"""
 	keyWait
 		any = false
@@ -1196,7 +1179,7 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Gostaríamos de agradecer
+	Queremos agradecer
 	por sua ajuda em
 	resolver o incidente
 	"""
@@ -1204,8 +1187,7 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	recente no Castelo
-	Shachi.
+	recente no castelo.
 	"""
 	keyWait
 		any = false
@@ -1218,8 +1200,7 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Esperamos que a aceite,
-	por favor.
+	Por favor, aceite-a.
 	"""
 	keyWait
 		any = false
@@ -1257,7 +1238,7 @@ script 20 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Imagino que vai ser
+	Imagino que vá ser
 	bem mais útil pra
 	você do que pra mim.
 	"""
@@ -1305,7 +1286,7 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	sob medida para ajudar
+	para ajudar
 	NetLutadores a não
 	ficarem para trás!
 	"""
@@ -1371,9 +1352,9 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Os SubChips não podem
-	ser usados em batalha,
-	mas eles restauram PV,
+	Eles não podem ser
+	usados em batalha,
+	mas restauram PV,
 	"""
 	keyWait
 		any = false
@@ -1395,14 +1376,14 @@ script 21 mmbn5 {
 	"""
 	Não se preocupe. Dá
 	para comprar mais em
-	lojas de SubChips
+	lojas espalhadas
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	espalhadas pela Rede
-	e pelo mundo real.
+	pela Rede e pelo
+	mundo real.
 	"""
 	keyWait
 		any = false
@@ -1415,9 +1396,8 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ah! E, antes que eu
-	esqueça, vou contar
-	uma coisinha.
+	Ah! E vou contar
+	mais uma coisinha.
 	"""
 	keyWait
 		any = false
@@ -1431,7 +1411,7 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	São ótimas pedidas para
+	São ótimos para
 	reunir informações,
 	aprender novas técnicas
 	"""
@@ -1446,15 +1426,15 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eles são "points"
-	muito úteis, então,
+	São "points" muito
+	úteis, então,
 	recomendo conferir!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	OK, então, jovens
+	OK, jovens
 	NetLutadores!
 	"""
 	keyWait
@@ -1495,8 +1475,8 @@ script 22 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O Higsby está esperando
-	por vocês, em carne,
+	O Higsby espera por
+	vocês, em carne,
 	osso e chips!
 	"""
 	keyWait
@@ -1541,7 +1521,7 @@ script 90 mmbn5 {
 	"""
 	Então, fique esperto!
 	Há pontos de conexão
-	por toda a parte.
+	por toda parte.
 	"""
 	keyWait
 		any = false
@@ -1555,7 +1535,7 @@ script 90 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	OK, então, jovens
+	OK, jovens
 	NetLutadores!
 	"""
 	keyWait
@@ -1573,22 +1553,22 @@ script 90 mmbn5 {
 script 91 mmbn5 {
 	clearMsg
 	"""
-	Aprenda como editar
-	a sua Pasta de Chips!
+	Aprenda a editar a
+	sua Pasta de Chips!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Chips de batalha
-	podem ser encontrados
-	espalhados por todo o
+	BattleChips podem
+	ser encontrados
+	espalhados por todo
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	mundo cibernético.
+	o mundo cibernético.
 	"""
 	keyWait
 		any = false
@@ -1602,8 +1582,8 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Sempre que você
-	adquirir um novo chip,
+	Sempre que adquiriri
+	um novo chip,
 	"""
 	keyWait
 		any = false
@@ -1617,9 +1597,9 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Se quiser editar a
-	sua Pasta, é só usar
-	o seu PET.
+	Para editar a
+	sua Pasta, é só
+	usar o seu PET.
 	"""
 	keyWait
 		any = false
@@ -1662,8 +1642,8 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Isso ajuda muito na
-	organização dos chips.
+	Isso ajuda muito
+	na organização.
 	"""
 	keyWait
 		any = false
@@ -1700,7 +1680,7 @@ script 91 mmbn5 {
 	clearMsg
 	"""
 	Quanto mais
-	chips você tiver,
+	chips tiver,
 	"""
 	keyWait
 		any = false
@@ -1714,7 +1694,7 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Certo, jovens
+	OK, jovens
 	NetLutadores!
 	"""
 	keyWait
@@ -1742,8 +1722,8 @@ script 100 mmbn5 {
 	clearMsg
 	"""
 	Mas, primeiro,
-	precisamos fazer reco-
-	nhecimento da área.
+	precisamos fazer
+	reconhecimento.
 	"""
 	keyWait
 		any = false
@@ -1773,8 +1753,8 @@ script 101 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Siga para a Área
-	Oran imediatamente.
+	Siga para lá
+	imediatamente.
 	"""
 	keyWait
 		any = false
@@ -1836,7 +1816,7 @@ script 102 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ele roubou certos
+	roubou certos
 	programas vitais
 	para o KnightMan.
 	"""
@@ -1844,8 +1824,7 @@ script 102 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O KnightMan
-	está completamente
+	Ele está completamente
 	imobilizado sem eles!
 	"""
 	keyWait
@@ -1875,9 +1854,8 @@ script 103 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	permitindo ao MegaMan
-	adquirir uma nova
-	habilidade.
+	conferindo ao MegaMan
+	uma nova habilidade.
 	"""
 	keyWait
 		any = false
@@ -1898,7 +1876,7 @@ script 103 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	a sincronia das almas
+	a sincronia delas
 	é temporariamente
 	alcançada,
 	"""
@@ -1914,8 +1892,8 @@ script 103 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É a chamada
-	União de Alma,
+	É o chamado
+	Uníssono de Alma,
 	"""
 	keyWait
 		any = false
@@ -1936,8 +1914,8 @@ script 103 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Domine essa nova
-	técnica imediatamente!
+	Domine bem essa
+	nova técnica!
 	"""
 	keyWait
 		any = false
@@ -1961,9 +1939,8 @@ script 104 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	quando você usa um
-	chip na coluna da
-	frente!
+	ao usar um chip
+	na coluna da frente!
 	"""
 	keyWait
 		any = false
@@ -1993,7 +1970,7 @@ script 104 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -2061,7 +2038,7 @@ script 105 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que ela
+	Estou certo de que
 	será útil para você!
 	"""
 	keyWait
@@ -2164,9 +2141,9 @@ script 107 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A NumAlma lhe permite
-	quantificar a luta a
-	seu favor!
+	Com a NumAlma, você
+	quantifica a luta
+	a seu favor!
 	"""
 	keyWait
 		any = false
@@ -2189,16 +2166,16 @@ script 108 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Seu tiro carregado dis-
-	para uma ShokSong, que
-	paralisa um alvo!
+	Seu tiro carregado
+	lança uma ShokSong,
+	que paralisa um alvo!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Além disso, você se
-	esconde ao ficar sobre
+	E você se esconde
+	ao ficar sobre
 	quadros de Água!
 	"""
 	keyWait
@@ -2206,20 +2183,16 @@ script 108 mmbn5 {
 	clearMsg
 	"""
 	Segure e solte "A"
-	com chips de Água
-	para dobrar o poder de
+	com chips de Água para
+	dobrar o ataque deles!
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"ataque deles!"
 	keyWait
 		any = false
 	clearMsg
 	"""
 	A ToadAlma pode parecer
 	meiga, mas tem poder
-	para dar e vender!
+	pra dar e vender!
 	"""
 	keyWait
 		any = false
@@ -2235,15 +2208,15 @@ script 108 mmbn5 {
 script 109 mmbn5 {
 	"""
 	Utilizando chips de
-	invocação, você se sin-
-	croniza com a ColAlma.
+	invocação, você se
+	sincroniza com a ColAlma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Ela lhe permite planejar
-	ataques sorrateiros.
+	ataques certeiros.
 	Segure e solte "B"
 	"""
 	keyWait
@@ -2290,14 +2263,14 @@ script 109 mmbn5 {
 	"""
 	Você também pode
 	plantar armadilhas
-	na área inimiga.
+	na área-alvo.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Quando o inimigo a
-	encontrar, a armadilha
+	Quando o inimigo
+	pisar, a armadilha
 	o atacará!
 	"""
 	keyWait
