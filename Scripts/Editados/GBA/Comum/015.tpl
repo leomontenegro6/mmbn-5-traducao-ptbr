@@ -438,21 +438,15 @@ script 6 mmbn5 {
 script 7 mmbn5 {
 	"""
 	Lan, por favor,
-	reúna todo mundo
+	reúna todos e
+	venham ao SciLab.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	e venham ao meu
-	laboratório no SciLab.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Tenho uma coisa para
-	mostrar para vocês.
+	Tenho algo a
+	mostrar pra vocês.
 	"""
 	keyWait
 		any = false
@@ -467,8 +461,8 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eles podem deixar o
-	seu Navi muito forte...
+	Eles podem deixar
+	seu Navi bem forte...
 	"""
 	keyWait
 		any = false
@@ -482,37 +476,23 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Se usar Chips das
-	Trevas continuamente,
+	Se usar esse Chips
+	continuamente, eles vão
+	envenenar corpo e alma,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	eles envenenarão
-	corpo e alma aos
-	poucos.
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	Antes que se dê
-	conta, você será
+	e logo o Navi será
 	controlado pela
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	Alma Sombria.
-	Se, por acaso,
-	encontrar alguém
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
+	Se um dia vir alguém
 	vendendo esses chips,
 	diga não.
 	"""
@@ -520,9 +500,8 @@ script 8 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Lembre-se: NUNCA
-	compre Chips das
-	Trevas!
+	NUNCA compre
+	Chips das Trevas!
 	"""
 	keyWait
 		any = false
@@ -539,8 +518,8 @@ script 9 mmbn5 {
 	clearMsg
 	"""
 	Agora, sob certas
-	condições, ele pode usar
-	um Poder das Trevas:
+	condições, ele pode
+	usar uma faceta dele:
 	"""
 	keyWait
 		any = false
@@ -550,9 +529,9 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você pode ativar o
-	Uníssono do Caos com o
-	uso de Chips das Trevas.
+	Você pode ativá-lo
+	com o uso de Chips
+	das Trevas.
 	"""
 	keyWait
 		any = false
@@ -580,8 +559,8 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O Poder das Trevas é
-	dificílimo de controlar.
+	Esse poder é dificílimo
+	de controlar.
 	"""
 	keyWait
 		any = false
@@ -603,8 +582,7 @@ script 9 mmbn5 {
 	clearMsg
 	"""
 	Calcule bem o tempo
-	na hora de lançar
-	o ataque,
+	na hora de atacar,
 	"""
 	keyWait
 		any = false
@@ -634,8 +612,7 @@ script 9 mmbn5 {
 	clearMsg
 	"""
 	MegaMan perderá seu
-	equilíbrio com o
-	Poder das Trevas.
+	equilíbrio com ele.
 	"""
 	keyWait
 		any = false
@@ -654,22 +631,21 @@ script 9 mmbn5 {
 	clearMsg
 	"""
 	O Uníssono do Caos
-	só dura um turno.
-	Adicionalmente...
+	só dura um turno,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	só se pode usar o
-	Uníssono do Caos durante
-	um Uníssono de Alma.
+	e só se pode usá-lo
+	durante um Uníssono
+	de Alma.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Planeje com cautela
+	Planeje bem
 	antes de usar.
 	"""
 	keyWait
@@ -703,13 +679,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	É possível que a
-	destruição desses
-	servidores
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
+	destruição deles
 	pare o ataque dela.
 	"""
 	keyWait
@@ -730,9 +700,9 @@ script 10 mmbn5 {
 }
 script 11 mmbn5 {
 	"""
-	No momento, a Rede
-	está apresentando
-	erros abrangentes.
+	A Rede está
+	apresentando erros
+	abrangentes.
 	"""
 	keyWait
 		any = false
@@ -775,9 +745,9 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Seu corpo troca para
-	o elemento Elétrico e
-	ganha magnetismo!
+	Seu corpo ganha o
+	elemento Elétrico
+	e magnetismo!
 	"""
 	keyWait
 		any = false
@@ -791,8 +761,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Aperte B + Esquerda
-	para paralisar o inimigo
+	B + Esquerda
+	paralisa o inimigo
 	temporariamente.
 	"""
 	keyWait
@@ -800,8 +770,7 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	E chips Elétricos
-	causam o dobro
-	do dano!
+	causam dano dobrado!
 	"""
 	keyWait
 		any = false
@@ -814,8 +783,8 @@ script 12 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -850,9 +819,9 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	o que dobra o poder
-	de ataque de chips de
-	Vento e Neutros.
+	o que dobra o ataque
+	de chips de Vento
+	e Neutros.
 	"""
 	keyWait
 		any = false
@@ -866,8 +835,8 @@ script 13 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -886,25 +855,25 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Ela faz o MegaMan
-	assumir o elemento Fogo
-	e usar novas armas!
+	Ela dá ao MegaMan
+	o elemento Fogo e
+	novas armas!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Use o tiro carregado
-	pra lançar uma série de
+	Com o tiro carregado,
+	lance uma série de
 	explosões - um FireVulc!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ela também aumenta
-	o dano de ataques
-	de fogo em 40!
+	E ela aumenta o
+	dano de ataques
+	de Fogo em 40!
 	"""
 	keyWait
 		any = false
@@ -933,8 +902,8 @@ script 14 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -969,8 +938,8 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	uma tática vital para
-	mudar o rumo da luta.
+	uma tática vital
+	nas lutas.
 	"""
 	keyWait
 		any = false
@@ -983,8 +952,8 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -1011,8 +980,8 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Além disso, Chips Próton
-	também aparecem na Tela
+	E Chips Próton também
+	aparecem na Tela
 	de Customização.
 	"""
 	keyWait
@@ -1027,16 +996,9 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Isso lhe permitirá
-	adicionar efeitos
-	extras,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	como Paralisia
-	ou Confusão.
+	Isso dará efeitos
+	extras a eles, como
+	Paralisia ou Confusão.
 	"""
 	keyWait
 		any = false
@@ -1050,8 +1012,8 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -1077,7 +1039,7 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Você também pode refletir
+	Também pode refletir
 	ataques apertando
 	"B" + Esquerda.
 	"""
@@ -1109,8 +1071,8 @@ script 17 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -1118,16 +1080,15 @@ script 17 mmbn5 {
 }
 script 18 mmbn5 {
 	"""
-	Lan! Quero que
-	leve isto aqui.
+	Lan! Pega.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Não tem muita coisa pra
-	eu fazer sem o GutsMan
-	aqui, mas...
+	eu fazer sem o GutsMan,
+	mas...
 	"""
 	keyWait
 		any = false
@@ -1179,15 +1140,9 @@ script 19 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Queremos agradecer
-	por sua ajuda em
-	resolver o incidente
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	recente no castelo.
+	Agradecemos por sua
+	ajuda em resolver o
+	incidente recente aqui.
 	"""
 	keyWait
 		any = false
@@ -1230,17 +1185,16 @@ script 19 mmbn5 {
 }
 script 20 mmbn5 {
 	"""
-	Eu tava analisando
-	os meus dados e
-	fiz isto aqui.
+	Eu tava analisando os
+	meus dados e achei isto.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Imagino que vá ser
-	bem mais útil pra
-	você do que pra mim.
+	Vai ser bem mais
+	útil pra você do
+	que pra mim.
 	"""
 	keyWait
 		any = false
@@ -1339,7 +1293,7 @@ script 21 mmbn5 {
 			jump = continue
 		]
 	clearMsg
-	"Conheça os seus\nSubChips!"
+	"Conheça seus SubChips!"
 	keyWait
 		any = false
 	clearMsg
@@ -1353,7 +1307,7 @@ script 21 mmbn5 {
 	clearMsg
 	"""
 	Eles não podem ser
-	usados em batalha,
+	usados em lutas,
 	mas restauram PV,
 	"""
 	keyWait
@@ -1367,15 +1321,15 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Porém! Cada SubChip só
-	pode ser usado uma vez.
+	Porém! Cada um só pode
+	ser usado uma vez.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Não se preocupe. Dá
-	para comprar mais em
+	Relaxa. Dá para
+	comprar mais em
 	lojas espalhadas
 	"""
 	keyWait
@@ -1389,23 +1343,21 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É só ficar atento
-	para elas.
+	É só ficar atento.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ah! E vou contar
-	mais uma coisinha.
+	Ah!
+	E mais uma coisinha.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Existem Fóruns por aí,
-	tanto aqui quanto no
-	mundo cibernético.
+	nos dois mundos.
 	"""
 	keyWait
 		any = false
@@ -1419,16 +1371,14 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	de luta e várias
-	outras coisas.
+	e várias outras coisas.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	São "points" muito
-	úteis, então,
-	recomendo conferir!
+	úteis, então, recomendo!
 	"""
 	keyWait
 		any = false
@@ -1468,8 +1418,8 @@ script 22 mmbn5 {
 	clearMsg
 	"""
 	Mais chips, mais
-	equipamentos e tudo mais
-	que se pode querer, é!
+	equipamentos e
+	mais de tudo, é!
 	"""
 	keyWait
 		any = false
@@ -1560,14 +1510,8 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	BattleChips podem
-	ser encontrados
+	Existem BattleChips
 	espalhados por todo
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	o mundo cibernético.
 	"""
 	keyWait
@@ -1575,21 +1519,21 @@ script 91 mmbn5 {
 	clearMsg
 	"""
 	Mas simplesmente
-	tê-los não significa
-	que você pode usá-los!
+	obte-los não significa
+	que você possa usá-los!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Sempre que adquiriri
+	Sempre que adquirir
 	um novo chip,
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	precisa lembrar de
+	deve lembrar de
 	inseri-lo na sua
 	Pasta de Chips!
 	"""
@@ -1597,9 +1541,8 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Para editar a
-	sua Pasta, é só
-	usar o seu PET.
+	Para editá-la, é
+	só usar o seu PET.
 	"""
 	keyWait
 		any = false
@@ -1612,13 +1555,7 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Enquanto você
-	edita a pasta,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
+	Enquanto edita a pasta,
 	aperte "START" para
 	organizar os dados.
 	"""
@@ -1642,7 +1579,7 @@ script 91 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Isso ajuda muito
+	Ajuda muito
 	na organização.
 	"""
 	keyWait
@@ -1657,23 +1594,15 @@ script 91 mmbn5 {
 	clearMsg
 	"""
 	e abrindo dados
-	misteriosos no
-	mundo cibernético.
+	misteriosos na Rede.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Você também pode
-	comprar chips em
-	certas lojas,
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	além de trocar
-	FragBugs por eles.
+	Também pode comprá-los
+	em certas lojas ou
+	trocar FragBugs por eles.
 	"""
 	keyWait
 		any = false
@@ -1687,8 +1616,8 @@ script 91 mmbn5 {
 	clearMsg
 	"""
 	melhor a pasta que
-	você pode montar para
-	usar em batalha!
+	poderá montar para
+	lutar!
 	"""
 	keyWait
 		any = false
@@ -1729,7 +1658,7 @@ script 100 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	As suas ordens são
+	Suas ordens são
 	para ir à Área Oran 1,
 	na Rede.
 	"""
@@ -1738,7 +1667,7 @@ script 100 mmbn5 {
 	clearMsg
 	"""
 	Enviarei o Colonel
-	para o local também.
+	também.
 	"""
 	keyWait
 		any = false
@@ -1760,9 +1689,8 @@ script 101 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Contudo, a rede da
-	área está instável
-	agora.
+	Contudo, a rede lá
+	está instável.
 	"""
 	keyWait
 		any = false
@@ -1776,7 +1704,7 @@ script 101 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Siga para lá através
+	Vá através
 	da Área ACDC.
 	"""
 	keyWait
@@ -1876,9 +1804,8 @@ script 103 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	a sincronia delas
-	é temporariamente
-	alcançada,
+	elas alcançam uma
+	sincronia temporária,
 	"""
 	keyWait
 		any = false
@@ -1899,9 +1826,8 @@ script 103 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	e, com certeza, será
-	bem útil para você
-	em combate.
+	e com certeza será
+	bem útil para você.
 	"""
 	keyWait
 		any = false
@@ -1947,8 +1873,8 @@ script 104 mmbn5 {
 	clearMsg
 	"""
 	Com seu tiro carregado,
-	você usa a esmagadora
-	Bola de Demolição Real.
+	você usa a  Bola de
+	Demolição Real.
 	"""
 	keyWait
 		any = false
@@ -1956,22 +1882,21 @@ script 104 mmbn5 {
 	"""
 	Segure "A" ao usar
 	chips de quebra para
-	dobrar o seu poder de
+	dobrar o ataque deles!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	ataque! A KngtAlma
-	lhe permite se impor
-	e prevalecer!
+	A KngtAlma lhe permite
+	se impor e prevalecer!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -2038,8 +1963,8 @@ script 105 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Estou certo de que
-	será útil para você!
+	Com certeza será
+	útil para você!
 	"""
 	keyWait
 		any = false
@@ -2056,16 +1981,16 @@ script 106 mmbn5 {
 	clearMsg
 	"""
 	Ela transforma todos os
-	quadros em quadros de
-	grama! E tem mais...
+	quadros em grama!
+	E tem mais...
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Ela dobra o ataque de
-	chips de Madeira sobre
-	quadros de grama!
+	Dobra o ataque de
+	chips de Madeira
+	usados sobre grama!
 	"""
 	keyWait
 		any = false
@@ -2086,22 +2011,16 @@ script 106 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E, para terminar,
-	armadilhas de Madeira
+	E armadilhas de Madeira
 	não irão lhe Confundir
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
 	ou Paralisar.
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Estou certo de que a
-	TmhkAlma lhe será útil!
+	A TmhkAlma será útil,
+	com certeza!
 	"""
 	keyWait
 		any = false
@@ -2135,22 +2054,21 @@ script 107 mmbn5 {
 	"""
 	Customização! E dá
 	+10 de dano a chips
-	sem elemento!
+	neutros!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	Com a NumAlma, você
-	quantifica a luta
-	a seu favor!
+	A NumAlma quantifica
+	a luta a seu favor!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
 	Estou certo de que
-	ela lhe será útil!
+	lhe será útil!
 	"""
 	keyWait
 		any = false
@@ -2184,13 +2102,13 @@ script 108 mmbn5 {
 	"""
 	Segure e solte "A"
 	com chips de Água para
-	dobrar o ataque deles!
+	dobrar o dano!
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	A ToadAlma pode parecer
+	A ToadAlma parece
 	meiga, mas tem poder
 	pra dar e vender!
 	"""
@@ -2199,7 +2117,7 @@ script 108 mmbn5 {
 	clearMsg
 	"""
 	Estou certo de que
-	ela lhe será útil!
+	lhe será útil!
 	"""
 	keyWait
 		any = false
@@ -2255,7 +2173,7 @@ script 109 mmbn5 {
 	clearMsg
 	"""
 	para usar um ataque
-	com esse chip!
+	com o chip!
 	"""
 	keyWait
 		any = false
@@ -2286,7 +2204,7 @@ script 109 mmbn5 {
 	clearMsg
 	"""
 	Estou certo de que
-	ela lhe será útil!
+	lhe será útil!
 	"""
 	keyWait
 		any = false
