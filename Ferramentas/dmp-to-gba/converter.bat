@@ -11,3 +11,6 @@ copy ".\data\MoveCam Back Phase TargetPhase.dmp" "..\..\Graficos\Editados\MoveCa
 php .\convert.php ".\data\Player Phase Darkloid Phase.dmp"
 copy ".\data\Player Phase Darkloid Phase.gba" "..\..\Graficos\Editados\Player Phase Darkloid Phase.gba"
 del ".\data\Player Phase Darkloid Phase.gba"
+
+:: Copiando sprite do "GET" para a pasta de gráficos editados.
+copy ".\data\Get.dmp" "..\..\Graficos\Editados\Get.gba"

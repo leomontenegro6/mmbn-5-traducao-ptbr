@@ -3880,7 +3880,7 @@ script 218 mmbn5 {
 		delay = 0
 	"""
 	Espada
-	Reploide,
+	reploide,
 	3 golpes
 	"""
 	keyWait

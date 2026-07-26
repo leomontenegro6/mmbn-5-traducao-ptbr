@@ -130,6 +130,11 @@
 .org MoveCamBackPhaseTRGT
     .incbin "Graficos/Editados/MoveCam Back Phase TargetPhase.gba"
 
+; Alterando código que muda o botão de pular cutscenes
+; do SELECT pro START.
+.org JumpCutscenesCode
+    .stringn 0x08
+
 ; Gráficos inseridos no final da rom, em sua maioria comprimidos.
 ; Catalogando ponteiros dos gráficos.
 .org PonteiroLogoTelaTitulo
@@ -310,6 +315,8 @@
     .dw BatalhaCruzadaTelaAjuda + 0x80000000
 .org PonteiroBatalhaCruzadaPontosCruzados
     .dw BatalhaCruzadaPontosCruzados + 0x80000000
+.org PonteiroGet
+    .dw Get
 .org PonteiroGameOver
     .dw GameOver + 0x80000000
 .org PonteiroGameOverTM
@@ -669,6 +676,10 @@ BatalhaCruzadaTelaAjuda:
 
 BatalhaCruzadaPontosCruzados:
     .lz77gba "Graficos/Editados/Batalha Cruzada - Pontos Cruzados.gba"
+    .align
+
+Get:
+    .incbin "Graficos/Editados/Get.gba"
     .align
 
 GameOver:

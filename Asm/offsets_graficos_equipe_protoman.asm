@@ -31,6 +31,7 @@ FonteNomesBatalhas2 equ 0x087FCA34
 FinalTurn equ 0x0873CDF8
 Interval equ 0x0873CFB8
 Block equ 0x08394EA4
+JumpCutscenesCode equ 0x0803741A
 
 PonteiroTelaBatalhaIniciarBatalha equ 0x0801B810
 PonteiroTelaBatalhaInimigoDeletado equ 0x0801B814
@@ -155,6 +156,7 @@ PonteiroSort3 equ 0x0813990C
 PonteiroSortTM1 equ 0x0804A1A4
 PonteiroSortTM2 equ 0x081317EC
 PonteiroSortTM3 equ 0x08139924
+PonteiroGet equ 0x08032AEC
 PonteiroGameOver equ 0x0803E49C
 PonteiroGameOverTM equ 0x0803E4B4
 PonteiroMetadadosDialogosCreditos equ 0x0813CF88

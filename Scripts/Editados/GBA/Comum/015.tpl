@@ -2165,7 +2165,7 @@ script 109 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Use TROCA DE BRAÇO e,
+	Use TROCAR ARMA e,
 	então, aperte "B"...
 	"""
 	keyWait
