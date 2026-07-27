@@ -1519,7 +1519,7 @@ script 91 mmbn5 {
 	clearMsg
 	"""
 	Mas simplesmente
-	obte-los não significa
+	obtê-los não significa
 	que você possa usá-los!
 	"""
 	keyWait

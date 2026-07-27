@@ -1,0 +1,113 @@
+[img]https://i.imgur.com/V4EyQcd.gif[/img]
+
+—————————————————–
+[b]Informações[/b]
+—————————————————–
+
+[b]Nome do jogo[/b]: MegaMan Battle Network 5
+[b]Versão[/b]: Americana
+[b]Plataforma[/b]: Gameboy Advance
+[b]Desenvolvedora[/b]: Capcom Production Studio 2
+[b]Distribuidora[/b]: Capcom
+[b]Gênero[/b]: RPG / Ação / Tática
+[b]Jogadores[/b]: 1
+
+—————————————————–
+[b]Enredo[/b]
+—————————————————–
+
+Após os eventos dos torneios e da organização Nebula quase conseguir fazer um asteroide destruir o mundo, uma impressionante operação mundial se inicia: toda a sociedade da Rede foi tomada por agentes da Nebula. Como parte desse plano, Dr. Regal, o líder da Nebula, sequestra o Pai do Lan, Dr. Hikari, e toma os PETs de todos os seus amigos. Mas por sorte, ele perde a oportunidade de roubar a única coisa que asseguraria sua vitória: o PET do Lan...
+
+Os oficiais da SciLab planejam uma contra-estratégia: Formar uma equipe de Navis e Operadores altamente competentes para liberar as áreas capturadas. Lan, tendo obtido no passado vitórias contra Wily, a WWW, Gospel e a Nebula, é convidado a se juntar nessa equipe especial. Ele aceita, pois assim conseguirá salvar os PETs dos seus amigos e resgatar seu pai.
+
+—————————————————–
+[b]Sobre a tradução[/b]
+—————————————————–
+
+Essa é uma tradução em conjunta entre Sahgo, eu e o pessoal do grupo Megaman Brasil (anteriormente chamada de MegaSpace). Sahgo é super fã dessa série, e traduziu sozinho os primeiros jogos da série. Com o sucesso de traduzir os jogos anteriores com a ferramenta de texto [url=https://github.com/Prof9/TextPet]TextPet[/url], feita pelo romhacker Prof. 9, somado ao apoio técnico do pessoal do The Rockman EXE Zone (TREZ) em partes mais avançadas de romhacking, conseguimos fazer a tradução desse jogo virar realidade.
+
+Poucos meses após o Sahgo ter terminado de traduzir os scripts do Megaman Battle Network 4, em junho de 2025 demos início à tradução do BN5, onde eu inicialmente havia extraído os scripts, editado a fonte dos diálogos (era idêntica à do BN4) e conseguido ajuda do Kosmus pra editar as telas-título. Passei os scripts pro Sahgo traduzir com o auxílio do [url=https://github.com/leomontenegro6/mmbn-dialog-previewer]mmbn-dialog-previewer[/url], e enquanto eu tava focado em editar os gráficos do BN4, o Sahgo e os outros membros do canal como PedroX, Gustavo Fraga e JonhSSG, tocaram em paralelo a tradução e revisão do BN5. Uns dois meses depois, todos os scripts foram traduzidos, e o pessoal já seguiu testando ingame com betas experimentais internos. Nesse meio tempo, alguns poucos gráficos mais simples também foram editadas pelo PedroX.
+
+Alguns meses depois, após o lançamento da versão 1.0 do BN4 em dezembro de 2025, estive editando os gráficos do BN5 aos poucos. Passei a me focar nisso a partir do final de fevereiro de 2026, onde segui editando os gráficos que encontrei um por um. Todo o know-how de romhacking do BN4 obtido com o pessoal do The Rockman EXE Zone (TREZ) foi trazido pro BN5, onde várias das coisas tinham o exato mesmo formato, facilitando bastante o processo. Até mesmo as ferramentas do BN4 foram trazidas pro BN5 as-is, como o [url=https://github.com/Prof9/PixelPet]PixelPet[/url] e os scripts em .php e .ppl, usados para edição de alguns tilemaps e backgrounds. Ao longo dos meses seguintes, eu estive editando os gráficos de backgrounds, o que levou cerca de 4 meses.
+
+Graças a todo esse imenso trabalho em equipe, finalizamos essa tradução e lançamos à comunidade, disponível em ambas as versões Equipe Colonel e Equipe ProtoMan. Esperamos que usufruam da tradução, da mesma forma que também o fizemos em todo esse processo.
+
+—————————————————–
+[b]Equipe[/b]
+—————————————————–
+
+[list]
+[*][b]Sahgo[/b]: Tradução, revisão e teste;
+[*][b]Solid One[/b]: Romhacking geral, gráficos, revisão e teste;
+[*][b]Kosmus[/b]: Gráficos;
+[*][b]Immegax[/b]: Hacking da coletânea, revisão e teste;
+[*][b]Marywolf[/b]: Gráficos da coletânea;
+[*][b]PedroX[/b]: Gráficos, revisão e teste;
+[*][b]JonhSSG[/b]: Revisão e teste;
+[*][b]Gustavo Fraga[/b]: Revisão e teste;
+[*][b]JoãoBlack64[/b]: Revisão e teste;
+[*][b]victoriemini[/b]: Gráficos e arte de capas;
+[/list]
+
+—————————————————–
+[b][i]Status[/i] da Tradução[/b]
+—————————————————–
+
+[b]Textos[/b]: 100%
+[b]Acentos[/b]: 100%
+[b]Gráficos[/b]: 100%
+[b]Revisão[/b]: 100%
+
+—————————————————–
+[b]Ferramentas Utilizadas[/b]
+—————————————————–
+
+[list]
+[li][b][url=https://mh-nexus.de/en/hxd/]HxD Hex Editor[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url=https://www.romhacking.net/utilities/291/]WindHex[/url][/b] : Editor hexadecimal usado para edições diversas;[/li]
+[li][b][url=https://github.com/Prof9/TextPet]TextPet[/url][/b] : Tool criada pelo romhacker Prof. 9 e usada para editar textos do jogo;[/li]
+[li][b][url=https://github.com/Prof9/PixelPet]PixelPet[/url][/b] : Tool criada pelo romhacker Prof. 9 para lidar com gráficos mais avançados;[/li]
+[li][b][url=https://www.romhacking.net/utilities/991/]Tile Molester Mod[/url][/b] : Editor de tiles usado para edição dos gráficos do jogo.[/li]
+[li][b][url=https://github.com/Kingcom/armips]armips assembler[/url][/b] : Ferramenta utilizada para remontar a rom, após edições.[/li]
+[li][b][url=https://github.com/leomontenegro6/mmbn-dialog-previewer]MMBN Dialog Previewer[/url][/b] : Extensão do VSCode criada para facilitar a tradução de scripts pela ferramenta TextPet;[/li]
+[/list]
+
+—————————————————–
+Changelog
+—————————————————–
+
+[b]Versão 1.0[/b]: 27/07/2026
+ Primeiro lançamento.
+
+—————————————————–
+[b]Agradecimentos[/b]
+—————————————————–
+
+[list]
+[*]Capcom, por ter lançado o jogo;
+[*]Ao pessoal do grupo MegaMan Brasil, pelo apoio;
+[*]Ao TTK, por todo o auxílio na parte técnica do jogo;
+[*]Ao Prof.9, por ter criado as ferramentas TextPet e PixelPet.
+[*]Ao pessoal do grupo The Rockman EXE Zone, pelo apoio geral em romhacking de jogos da série MMBN.
+[/list]
+
+—————————————————–
+[b]Imagens[/b]
+—————————————————–
+
+[img]https://i.imgur.com/pNyOGot.png[/img] [img]https://i.imgur.com/LaARMdL.png[/img] [img]https://i.imgur.com/0skdgIt.png[/img]
+[img]https://i.imgur.com/043cRyj.png[/img] [img]https://i.imgur.com/oRfsgli.png[/img] [img]https://i.imgur.com/OeEdORh.png[/img]
+[img]https://i.imgur.com/2BSRIjF.png[/img] [img]https://i.imgur.com/pJ7NbWN.png[/img] [img]https://i.imgur.com/ovJHVTp.png[/img]
+[img]https://i.imgur.com/Erbvq3r.png[/img] [img]https://i.imgur.com/XSXP6uf.png[/img] [img]https://i.imgur.com/JmizzGt.png[/img]
+[img]https://i.imgur.com/p9VnKdY.png[/img] [img]https://i.imgur.com/sS0rRwg.png[/img] [img]https://i.imgur.com/kxhOCi1.png[/img]
+[img]https://i.imgur.com/LxaKW38.png[/img]
+
+—————————————————–
+[b][i]Patch[/i][/b]
+—————————————————–
+
+Segue abaixo os patches da tradução, para download. Estão em formato IPS, e vocês podem aplicá-los através de programas como [url=https://www.romhacking.net/utilities/1040/]Floating IPS[/url] ou similares.
+
+Para a versão Equipe Colonel, o patch deve ser aplicado na rom [b]Mega Man Battle Network 5 - Team Colonel (USA).gba[/b], com header, de crc [b]A552F683[/b] / md5sum [b]68d79f7c8f41f7c8009f3b85119cb1c6[/b]. Já para a versão Equipe ProtoMan, o patch deve ser aplicado na rom [b]Mega Man Battle Network 5 - Team ProtoMan (USA).gba[/b], com header, de crc [b]A73E83A4[/b] / md5sum [b]71b00ba406c522d3cec48311bd7bc760[/b].
+
+[url=https://github.com/leomontenegro6/mmbn-5-traducao-ptbr/releases][i]Download[/i][/url]

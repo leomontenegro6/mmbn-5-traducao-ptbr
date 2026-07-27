@@ -67,8 +67,7 @@ script 1 mmbn5 {
 		mugshot = Dex
 	msgOpen
 	"""
-	Não olha pra mim assim,
-	não!
+	Não olha pra mim assim, não!
 	Eu não vou me atrasar!
 	"""
 	keyWait

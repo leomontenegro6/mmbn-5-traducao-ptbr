@@ -1,2 +1,1 @@
-- Tela de batalha contra vírus:
-    - Letreiros de batalhas com outros navis
+- Seguir jogando o BN5 e revisando ingame, para uma futura versão 1.1. 

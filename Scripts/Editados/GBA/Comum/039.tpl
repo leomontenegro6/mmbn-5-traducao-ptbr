@@ -4,12 +4,8 @@ script 0 mmbn5 {
 	mugshotShow
 		mugshot = MegaMan
 	msgOpen
-	"Lan,"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	agora, vamos usar
+	Lan, agora, vamos usar
 	chips de apoio e de
 	armas no ataque!
 	"""
@@ -17,14 +13,10 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O AreaGrab que você
-	deve ter aí me dará
-	mais espaço pra me
+	O AreaGrab que você deve
+	ter aí me dará mais espaço
+	pra me locomover.
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"locomover."
 	keyWait
 		any = false
 	end
@@ -329,7 +321,7 @@ script 17 mmbn5 {
 		mugshot = MegaMan
 	msgOpen
 	"""
-	Daí a gente vai poder
+	Daí a gente vai poder andar
 	mais e usar a WideSwrd!
 	"""
 	keyWait

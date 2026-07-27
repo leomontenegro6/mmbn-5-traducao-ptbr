@@ -47,13 +47,9 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"Olhando ela,"
-	keyWait
-		any = false
-	clearMsg
 	"""
-	dá pra ver o quão
-	bem você tá me
+	Olhando ela, dá pra ver
+	o quão bem você tá me
 	operando.
 	"""
 	keyWait
