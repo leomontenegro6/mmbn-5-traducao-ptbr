@@ -730,9 +730,9 @@ script 45 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Meu Navi estará espe-
-	rando nas profundezas
-	do computador dele.
+	Meu Navi estará esperando
+	nas profundezas do
+	computador dele.
 	"""
 	keyWait
 		any = false

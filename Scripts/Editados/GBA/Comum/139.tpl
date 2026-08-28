@@ -403,8 +403,7 @@ script 16 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	de anos,
-	aproximadamente.
+	de anos, aproximadamente.
 	"""
 	keyWait
 		any = false

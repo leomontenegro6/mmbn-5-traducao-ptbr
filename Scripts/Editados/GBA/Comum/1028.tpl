@@ -739,7 +739,7 @@ script 15 mmbn5 {
 		top = 108
 	"""
 	Estou colecionando chips
-	Elét pra dar à minha
+	Elétricos pra dar à minha
 	pasta uma carga extra.
 	"""
 	keyWait

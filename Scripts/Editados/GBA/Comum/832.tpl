@@ -19,7 +19,7 @@ script 1 mmbn5 {
 	clearMsg
 	"""
 	Eu já falei mil vezes
-	é que muito feio fazer
+	que é muito feio fazer
 	uma dama esperar!
 	"""
 	keyWait

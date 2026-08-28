@@ -15,8 +15,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	"A ARTE É
-	MARAVILHOSA"!!!
+	"A ARTE É MARAVILHOSA"!!!
 	"""
 	keyWait
 		any = false

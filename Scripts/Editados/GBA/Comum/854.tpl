@@ -153,8 +153,8 @@ script 6 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Bom, recomendo que par-
-	tam logo, antes que as
+	Bom, recomendo que
+	partam logo, antes que as
 	águas fiquem turbulentas.
 	"""
 	keyWait

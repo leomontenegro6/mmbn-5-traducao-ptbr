@@ -75,8 +75,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	E que arrependimento,
-	viu?!
+	E que arrependimento, viu?!
 	Que meeedooo!
 	"""
 	keyWait

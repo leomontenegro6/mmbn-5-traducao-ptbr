@@ -470,8 +470,7 @@ script 15 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	SIM! A RESPOSTA É
-	"TOE""
+	SIM! A RESPOSTA É "TOE"!
 	INGLÊS É DIFÍCIL, NÉ?!
 	"""
 	keyWait

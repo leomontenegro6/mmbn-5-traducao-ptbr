@@ -152,7 +152,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	automaticamente, ativar
-	a UniAlma. A MagnAlma
+	o UniAlma. A MagnAlma
 	causa dano dobrado
 	"""
 	keyWait

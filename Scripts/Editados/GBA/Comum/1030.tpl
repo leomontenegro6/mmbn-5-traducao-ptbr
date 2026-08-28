@@ -441,8 +441,8 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	Os frutos do mar são
-	ótimos, o céu é azul-
-	zinho... É do caramba!
+	ótimos, o céu é azulzinho...
+	É do caramba!
 	"""
 	keyWait
 		any = false
@@ -1227,7 +1227,7 @@ script 28 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Apertem "SELECT"
+	Apertem "START"
 	durante um evento...
 	"""
 	keyWait

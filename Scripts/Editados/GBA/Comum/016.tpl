@@ -79,7 +79,7 @@ script 9 mmbn5 {
 	end
 }
 script 10 mmbn5 {
-	"SciLabMn"
+	"CienSclb"
 	keyWait
 		any = false
 	end

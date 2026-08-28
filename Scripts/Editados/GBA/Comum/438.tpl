@@ -12,7 +12,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ESTE É A ÁREA ACDC 1.
+	ESTA É A ÁREA ACDC 1.
 	DIVIRTA-SE!
 	"""
 	keyWait

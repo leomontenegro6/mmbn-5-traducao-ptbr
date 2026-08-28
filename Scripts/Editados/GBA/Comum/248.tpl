@@ -120,8 +120,7 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Uma porta barra o
-	caminho.
+	Uma porta barra o caminho.
 	Não dá para abrir.
 	"""
 	keyWait

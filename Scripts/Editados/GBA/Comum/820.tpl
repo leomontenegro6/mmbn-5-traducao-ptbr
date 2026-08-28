@@ -247,8 +247,8 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	Mas você venceu o
-	Wily e a WWW daquele
-	cientista insano,
+	doentio Wily e a WWW
+	que ele comandava,
 	"""
 	keyWait
 		any = false
@@ -377,13 +377,13 @@ script 17 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Tuu "
+	"Tuu... "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Tuu "
+	"Tuu... "
 	wait
 		frames = 64
 	soundDisableTextSFX
@@ -637,7 +637,7 @@ script 27 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Eu sei não é todo
+	Eu sei que não é todo
 	mundo que consegue
 	dar conta do Colonel.
 	"""
@@ -646,8 +646,8 @@ script 27 mmbn5 {
 	clearMsg
 	"""
 	Mas você venceu o
-	Wily e a WWW daquele
-	cientista insano,
+	doentio Wily e a WWW
+	que ele comandava,
 	"""
 	keyWait
 		any = false
@@ -792,13 +792,13 @@ script 34 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Buip"
+	"Buip "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Buip"
+	"Buip "
 	wait
 		frames = 64
 	soundDisableTextSFX

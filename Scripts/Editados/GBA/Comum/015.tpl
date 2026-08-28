@@ -1873,7 +1873,7 @@ script 104 mmbn5 {
 	clearMsg
 	"""
 	Com seu tiro carregado,
-	você usa a  Bola de
+	você usa a Bola de
 	Demolição Real.
 	"""
 	keyWait
@@ -2165,7 +2165,7 @@ script 109 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Use TROCAR ARMA e,
+	Use TROCAS ARMA e,
 	então, aperte "B"...
 	"""
 	keyWait

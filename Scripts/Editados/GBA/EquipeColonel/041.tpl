@@ -51,7 +51,7 @@ script 2 mmbn5 {
 	"""
 	Sacrifique AirHoc ou
 	um chip de Quebra afim
-	para ativar a UniAlma.
+	para ativar o UniAlma.
 	"""
 	keyWait
 		any = false
@@ -152,14 +152,14 @@ script 10 mmbn5 {
 	msgOpen
 	"""
 	E é assim que se
-	executa a UniAlma.
+	executa o UniAlma.
 	Se apertar "OK", você
 	"""
 	keyWait
 		any = false
 	clearMsg
 	"""
-	irá ativar a UniAlma
+	irá ativar o UniAlma
 	automaticamente.
 	A KngtAlma causa dano
 	"""

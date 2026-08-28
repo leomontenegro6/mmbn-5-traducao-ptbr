@@ -294,14 +294,8 @@ script 15 mmbn5 {
 	msgOpen
 	"""
 	ESTA ÁREA FOI TOMADA
-	DE REPENTE POR UM
-	GRUPO DE NAVIS
-	"""
-	keyWait
-		any = false
-	clearMsg
-	"""
-	CRIMINOSOS!
+	DE REPENTE POR UM GRUPO
+	DE NAVIS CRIMINOSOS!
 	"""
 	keyWait
 		any = false

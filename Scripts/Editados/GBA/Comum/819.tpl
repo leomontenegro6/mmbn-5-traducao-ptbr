@@ -123,8 +123,8 @@ script 6 mmbn5 {
 	clearMsg
 	"""
 	Pra impedir o inimigo
-	de aprender sobre os
-	nossos planos...
+	de descobrir os nossos
+	planos...
 	"""
 	keyWait
 		any = false
@@ -741,9 +741,9 @@ script 37 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Para impedir o inimigo
-	de aprender sobre os
-	nossos planos...
+	Pra impedir o inimigo
+	de descobrir os nossos
+	planos...
 	"""
 	keyWait
 		any = false

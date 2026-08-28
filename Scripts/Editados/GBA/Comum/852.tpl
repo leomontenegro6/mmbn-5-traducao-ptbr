@@ -375,7 +375,7 @@ script 25 mmbn5 {
 	"""
 	KnightMan...
 	O Navi da Princesa
-	Pride, da Brilholândia!
+	Pride, da Dolcerya!
 	"""
 	keyWait
 		any = false

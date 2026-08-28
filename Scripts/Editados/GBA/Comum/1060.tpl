@@ -118,7 +118,7 @@ script 14 mmbn5 {
 	"""
 	Ora, vai fugir?
 	Que pena. Eu queria
-	tanto destrui-los!
+	tanto destruí-los!
 	"""
 	keyWait
 		any = false

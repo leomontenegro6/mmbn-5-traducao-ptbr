@@ -1,7 +1,7 @@
 @size 49
 
 script 0 mmbn5s {
-	"None"
+	"Nada"
 	end
 }
 script 1 mmbn5s {

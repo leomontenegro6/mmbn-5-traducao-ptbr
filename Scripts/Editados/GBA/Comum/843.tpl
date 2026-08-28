@@ -263,8 +263,8 @@ script 15 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A princesa da Brilholân-
-	dia? Do caso da Gospel?
+	A princesa da Dolcerya?
+	Do caso da Gospel?
 	Tá fazendo o quê aqui?
 	"""
 	keyWait
@@ -288,7 +288,7 @@ script 16 mmbn5 {
 	"""
 	conduzindo...
 	para um novo PET
-	da Brilholândia.
+	da Dolcerya.
 	"""
 	keyWait
 		any = false

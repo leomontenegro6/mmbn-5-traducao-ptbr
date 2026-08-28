@@ -54,7 +54,7 @@ script 1 mmbn5 {
 	clearMsg
 	"""
 	Me faz lembrar da
-	Brilholândia.
+	Dolcerya.
 	"""
 	keyWait
 		any = false

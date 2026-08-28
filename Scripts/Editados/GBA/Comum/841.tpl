@@ -124,13 +124,13 @@ script 8 mmbn5 {
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Tuu "
+	"Tuu... "
 	wait
 		frames = 64
 	soundDisableTextSFX
 	soundPlay
 		track = 221
-	"Tuu "
+	"Tuu... "
 	wait
 		frames = 64
 	soundDisableTextSFX

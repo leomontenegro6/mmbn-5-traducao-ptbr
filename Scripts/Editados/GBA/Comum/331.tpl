@@ -376,7 +376,7 @@ script 61 mmbn5 {
 		mugshot = Pride
 	msgOpen
 	"""
-	A Brilholândia está
+	Dolcerya está
 	com problemas.
 	"""
 	keyWait
@@ -430,7 +430,7 @@ script 66 mmbn5 {
 	msgOpen
 	"""
 	Felizmente, o problema
-	na Brilholândia não era
+	na Dolcerya não era
 	particularmente sério.
 	"""
 	keyWait

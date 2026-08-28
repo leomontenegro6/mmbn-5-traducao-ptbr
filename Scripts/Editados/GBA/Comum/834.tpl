@@ -177,7 +177,7 @@ script 9 mmbn5 {
 	"""
 	Daí, você remove a
 	cueca por debaixo
-	da rouba de banho...
+	da roupa de banho...
 	"""
 	keyWait
 		any = false

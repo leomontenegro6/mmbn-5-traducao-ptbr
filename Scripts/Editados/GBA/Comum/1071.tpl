@@ -147,9 +147,9 @@ script 7 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então, a os botões não
+	Então, os botões não
 	são usados pra Tela
-	Custom., e sim pra luta!
+	Custom, e sim pra luta!
 	"""
 	keyWait
 		any = false
@@ -310,9 +310,9 @@ script 17 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	Então, a os botões não
+	Então, os botões não
 	são usados pra Tela
-	Custom., e sim pra luta!
+	Custom, e sim pra luta!
 	"""
 	keyWait
 		any = false

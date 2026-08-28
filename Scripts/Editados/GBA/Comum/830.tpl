@@ -154,7 +154,7 @@ script 8 mmbn5 {
 	"""
 	Que tal a gente ir
 	pra algum lugar pra
-	espaiarar um pouquinho?
+	espairar um pouquinho?
 	"""
 	keyWait
 		any = false
@@ -518,8 +518,8 @@ script 29 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	A Mayl e os outros per-
-	deram os PETs, e eu tô
+	A Mayl e os outros
+	perderam os PETs, e eu tô
 	preocupado com o papai.
 	"""
 	keyWait

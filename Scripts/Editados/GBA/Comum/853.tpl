@@ -262,7 +262,7 @@ script 10 mmbn5 {
 	clearMsg
 	"""
 	Os nossos amigos devem
-	tá esperando a gente.
+	estar esperando a gente.
 	"""
 	keyWait
 		any = false
@@ -416,9 +416,9 @@ script 18 mmbn5 {
 		mugshot = KnightMan
 	msgOpen
 	"""
-	Pelo orgulho da
-	Brilholândia, eu
-	lutarei bravamente!
+	Pelo orgulho de
+	Dolcerya, eu lutarei
+	bravamente!
 	"""
 	keyWait
 		any = false
@@ -510,7 +510,7 @@ script 23 mmbn5 {
 	clearMsg
 	"""
 	Os nossos amigos devem
-	tá esperando a gente.
+	estar esperando a gente.
 	"""
 	keyWait
 		any = false

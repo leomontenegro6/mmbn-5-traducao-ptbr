@@ -2653,7 +2653,7 @@ script 148 mmbn5 {
 	"""
 	Copia
 	dano em
-	2o.alvo
+	2º alvo
 	"""
 	keyWait
 		any = true

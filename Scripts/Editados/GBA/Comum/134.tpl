@@ -172,7 +172,7 @@ script 9 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Não parecem serem
+	Não parecem ser
 	muito usados.
 	"""
 	keyWait

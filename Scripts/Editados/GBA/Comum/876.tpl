@@ -235,7 +235,7 @@ script 2 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	É a chamado
+	É o chamado
 	Uníssono de Alma,
 	"""
 	keyWait

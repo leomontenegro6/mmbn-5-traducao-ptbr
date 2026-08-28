@@ -241,9 +241,9 @@ script 16 mmbn5 {
 		mugshot = Dad
 	msgOpen
 	"""
-	... Ué? A tela de confir-
-	mação de identificação
-	não está aparecendo...
+	... Ué? A tela de confirmação
+	de identificação não está
+	aparecendo...
 	"""
 	keyWait
 		any = false

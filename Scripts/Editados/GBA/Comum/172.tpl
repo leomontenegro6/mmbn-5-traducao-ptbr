@@ -15,8 +15,7 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Usar a
-	"Chave de Parada"?
+	Usar a "ChvParad"?
 	"""
 	keyWait
 		any = false
