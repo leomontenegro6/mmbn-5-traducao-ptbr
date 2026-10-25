@@ -44,8 +44,8 @@ script 0 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	As pessoas me chamam
-	de...
+	As pessoas me
+	chamam de...
 	Questionária Mestre!
 	"""
 	keyWait
@@ -164,8 +164,8 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	As pessoas me chamam
-	de...
+	As pessoas me
+	chamam de...
 	Questionária Mestre!
 	"""
 	keyWait
@@ -466,7 +466,7 @@ script 2 mmbn5 {
 		down = 1
 	space
 		count = 1
-	" Energéticos\n"
+	" Refrigerante\n"
 	option
 		brackets = 0
 		left = 1
@@ -475,7 +475,7 @@ script 2 mmbn5 {
 		down = 2
 	space
 		count = 1
-	" Refrigerante\n"
+	" Energéticos\n"
 	option
 		brackets = 0
 		left = 2

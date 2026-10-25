@@ -113,7 +113,7 @@ script 6 mmbn5 {
 	"""
 	Uma grelha?
 	Uma panela?
-	Ou, talvez, um...
+	Ou, talvez, uma...
 	"""
 	keyWait
 		any = false

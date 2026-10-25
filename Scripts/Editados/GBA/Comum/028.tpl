@@ -2705,7 +2705,7 @@ script 151 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Esmaga
+	Soco em
 	alvo
 	próximo
 	"""
@@ -2723,7 +2723,7 @@ script 152 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Esmaga
+	Soco em
 	alvo
 	próximo
 	"""
@@ -2741,7 +2741,7 @@ script 153 mmbn5 {
 	textSpeed
 		delay = 0
 	"""
-	Esmaga
+	Soco em
 	alvo
 	próximo
 	"""

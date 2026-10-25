@@ -168,7 +168,7 @@ script 12 mmbn5 {
 		mugshot = ShadowMan
 	msgOpen
 	"""
-	Hmf. O que devo fazer
+	Hunf. O que devo fazer
 	com eles, Dark?
 	"""
 	keyWait

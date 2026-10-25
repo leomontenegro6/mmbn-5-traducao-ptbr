@@ -371,7 +371,7 @@ script 24 mmbn5 {
 	"""
 	MegaMan, desconecte-se
 	logo, enquanto estou
-	bloqueando a sucção.
+	bloqueando o aspirador.
 	"""
 	keyWait
 		any = false

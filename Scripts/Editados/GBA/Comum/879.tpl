@@ -396,9 +396,8 @@ script 21 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Já preparei um Navi
-	para substuituir o
-	MegaMan.
+	Já preparei um Navi para
+	substituir o MegaMan.
 	"""
 	keyWait
 		any = false

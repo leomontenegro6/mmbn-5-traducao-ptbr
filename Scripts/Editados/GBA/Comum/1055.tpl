@@ -434,7 +434,7 @@ script 79 mmbn5 {
 	msgOpen
 	"""
 	Você desbloqueou os
-	Quadros Barreira
+	Quadros Barreira 
 	"""
 	printBuffer
 		buffer = 1

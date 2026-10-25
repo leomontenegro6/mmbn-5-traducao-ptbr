@@ -681,7 +681,7 @@ script 40 mmbn5 {
 	clearMsg
 	"""
 	BOM, ENTENDEU COMO
-	FUNCIOINA?
+	FUNCIONA?
 	"""
 	keyWait
 		any = false

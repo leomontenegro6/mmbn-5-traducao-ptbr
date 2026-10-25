@@ -33,7 +33,7 @@ script 1 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	O Programa de Sucção
+	O Programa Aspirador
 	não consegue aspirá-la.
 	"""
 	keyWait

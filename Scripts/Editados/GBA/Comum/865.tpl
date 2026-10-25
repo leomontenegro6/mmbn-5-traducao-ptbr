@@ -270,7 +270,7 @@ script 12 mmbn5 {
 	clearMsg
 	"""
 	É como se o banco de
-	memória dele houvesse
+	memória dele tivesse
 	sido apagado!
 	"""
 	keyWait

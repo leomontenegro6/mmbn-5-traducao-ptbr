@@ -191,7 +191,7 @@ script 24 mmbn5 {
 	clearMsg
 	"""
 	Só sentir o cheiro do
-	sal no ar me reinvigora!
+	sal no ar me revigora!
 	"""
 	keyWait
 		any = false

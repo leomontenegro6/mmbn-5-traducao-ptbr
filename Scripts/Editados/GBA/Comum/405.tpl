@@ -86,9 +86,9 @@ script 4 mmbn5 {
 		mugshot = SciLabMan
 	msgOpen
 	"""
-	Esta é a melhor oportu-
-	nidade de negócios da
-	vida da minha empresa...
+	Esta é a melhor
+	oportunidade de negócios
+	da vida da minha empresa...
 	"""
 	keyWait
 		any = false

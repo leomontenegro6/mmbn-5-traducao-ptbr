@@ -273,7 +273,7 @@ script 10 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	V... você é o operador
+	V-você é o operador
 	do ShadowMan?!
 	Da Gospel?!
 	"""

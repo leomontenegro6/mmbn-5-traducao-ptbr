@@ -183,7 +183,7 @@ script 10 mmbn5 {
 		mugshot = Dingo
 	msgOpen
 	"""
-	A Ubercorp desenvolvou
+	A Ubercorp desenvolveu
 	esse sistema.
 	"""
 	keyWait

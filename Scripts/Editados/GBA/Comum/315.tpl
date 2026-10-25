@@ -580,9 +580,8 @@ script 42 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	ele tinha a maior velo-
-	cidade de processamento
-	do mercado.
+	ele tinha a maior velocidade
+	de processamento do mercado.
 	"""
 	keyWait
 		any = false

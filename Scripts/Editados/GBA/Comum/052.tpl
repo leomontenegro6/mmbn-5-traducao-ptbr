@@ -89,7 +89,7 @@ script 21 mmbn5s {
 	end
 }
 script 22 mmbn5s {
-	"SciChave"
+	"ChaveSci"
 	end
 }
 script 23 mmbn5s {
@@ -261,7 +261,7 @@ script 100 mmbn5s {
 	end
 }
 script 101 mmbn5s {
-	"SubMemór"
+	"SubMemri"
 	end
 }
 script 112 mmbn5s {

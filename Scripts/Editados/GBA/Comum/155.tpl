@@ -69,9 +69,9 @@ script 4 mmbn5 {
 script 5 mmbn5 {
 	msgOpen
 	"""
-	Plataforma de demons-
-	tração com um sistema
-	de holograma embutido.
+	Plataforma de demonstração
+	com um sistema de
+	holograma embutido.
 	"""
 	keyWait
 		any = false

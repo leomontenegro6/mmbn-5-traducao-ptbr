@@ -384,8 +384,8 @@ script 19 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	1 de 3 chaves neces-
-	sárias para trancar
+	1 de 3 chaves
+	necessárias para trancar
 	uma CyberEscotilha.
 	"""
 	waitHold
@@ -404,8 +404,8 @@ script 20 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	1 de 3 chaves neces-
-	sárias para trancar
+	1 de 3 chaves
+	necessárias para trancar
 	uma CyberEscotilha.
 	"""
 	waitHold
@@ -424,8 +424,8 @@ script 21 mmbn5 {
 		left = 30
 		top = 128
 	"""
-	1 de 3 chaves neces-
-	sárias para trancar
+	1 de 3 chaves
+	necessárias para trancar
 	uma CyberEscotilha.
 	"""
 	waitHold

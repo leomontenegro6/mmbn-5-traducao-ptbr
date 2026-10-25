@@ -688,9 +688,9 @@ script 29 mmbn5 {
 		mugshot = Lan
 	msgOpen
 	"""
-	É... Ei, que tal, então,
-	a gente levar o Knight-
-	Man ou o ShadowMan?
+	É... Ei, que tal, então, a
+	gente levar o KnightMan
+	ou o ShadowMan?
 	"""
 	keyWait
 		any = false

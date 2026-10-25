@@ -440,7 +440,7 @@ script 11 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"BEM-VINDO A SCILAB4!"
+	"BEM-VINDO A SCILAB 4!"
 	keyWait
 		any = false
 	end
@@ -449,7 +449,7 @@ script 20 mmbn5 {
 	mugshotShow
 		mugshot = MrProgGreen
 	msgOpen
-	"BEM-VINDO A SCILAB4!"
+	"BEM-VINDO A SCILAB 4!"
 	keyWait
 		any = false
 	clearMsg

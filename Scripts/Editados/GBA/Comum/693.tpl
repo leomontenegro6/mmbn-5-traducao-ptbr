@@ -84,7 +84,7 @@ script 3 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"SNIFF!"
+	"SNIF!"
 	keyWait
 		any = false
 	end

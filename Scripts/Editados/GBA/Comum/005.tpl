@@ -105,7 +105,7 @@ script 25 mmbn5s {
 	end
 }
 script 26 mmbn5s {
-	"________Hall"
+	"______Salão"
 	end
 }
 script 27 mmbn5s {

@@ -129,8 +129,8 @@ script 20 mmbn5 {
 	msgOpen
 	"""
 	Eu achei que seria fácil
-	fazer a lição de matemá-
-	tica na Área SciLab,
+	fazer a lição de matemática
+	na Área SciLab,
 	"""
 	keyWait
 		any = false

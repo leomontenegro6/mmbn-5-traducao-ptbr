@@ -90,8 +90,8 @@ script 30 mmbn5 {
 		mugshot = Mom
 	msgOpen
 	"""
-	Por que tá tão tristinho,
-	Lan?
+	Por que tá tão
+	tristinho, Lan?
 	Aconteceu alguma coisa?
 	"""
 	keyWait

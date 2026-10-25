@@ -158,9 +158,9 @@ script 7 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Sinto muito, mas passa-
-	geiros não podem entrar
-	na sala das máquinas.
+	Lamento, mas passageiros
+	não podem entrar na sala
+	das máquinas.
 	"""
 	keyWait
 		any = false
@@ -410,9 +410,9 @@ script 22 mmbn5 {
 		any = false
 	clearMsg
 	"""
-	Sinto muito, mas passa-
-	geiros não podem entrar
-	na sala das máquinas.
+	Lamento, mas passageiros
+	não podem entrar na sala
+	das máquinas.
 	"""
 	keyWait
 		any = false

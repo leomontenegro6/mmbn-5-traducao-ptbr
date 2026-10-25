@@ -73,7 +73,7 @@ script 10 mmbn5 {
 	keyWait
 		any = false
 	clearMsg
-	"ESTOM COM TANTA COISA\nPARA FAZER!"
+	"ESTOU COM TANTA COISA\nPARA FAZER!"
 	keyWait
 		any = false
 	end

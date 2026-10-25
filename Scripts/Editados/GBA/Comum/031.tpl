@@ -77,7 +77,7 @@ script 1 mmbn5 {
 	"."
 	wait
 		frames = 18
-	"."
+	". "
 	wait
 		frames = 18
 	"""

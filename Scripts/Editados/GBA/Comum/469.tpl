@@ -323,7 +323,7 @@ script 7 mmbn5 {
 		animation = 24
 	"""
 	Colonel adquiriu
-	um chip:
+	um chip: 
 	"""
 	printChip
 		buffer = 0

@@ -173,7 +173,7 @@ script 8 mmbn5 {
 		jumpIfSome = continue
 	"""
 	MegaMan adquiriu:
-	1 "BugFrag"!!!
+	1 "FragBug"!!!
 	"""
 	keyWait
 		any = false

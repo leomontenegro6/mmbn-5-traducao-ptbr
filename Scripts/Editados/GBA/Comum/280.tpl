@@ -128,8 +128,8 @@ script 41 mmbn5 {
 	msgOpen
 	"""
 	Eu e a Yai marcamos
-	dela vir aqui pra um
-	estudo em grupo,
+	de ela vir aqui pra
+	um estudo em grupo,
 	"""
 	keyWait
 		any = false

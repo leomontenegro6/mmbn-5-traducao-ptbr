@@ -5,7 +5,7 @@ script 0 mmbn5 {
 		mugshot = MrProgGreen
 	msgOpen
 	"""
-	A CYBER-ESCOTILHA
+	A CYBERESCOTILHA
 	ESTÁ ATIVADA DEVIDO
 	À INUNDAÇÃO.
 	"""
@@ -101,7 +101,7 @@ script 1 mmbn5 {
 	clearMsg
 	"""
 	A CHAVE QUE ABRE
-	A CYBER-ESCOTILHA
+	A CYBERESCOTILHA
 	FICA NA BASE DA
 	"""
 	keyWait
@@ -239,7 +239,7 @@ script 2 mmbn5 {
 	clearMsg
 	"""
 	A CHAVE QUE ABRE
-	A CYBER-ESCOTILHA
+	A CYBERESCOTILHA
 	FICA NA BASE DA
 	"""
 	keyWait

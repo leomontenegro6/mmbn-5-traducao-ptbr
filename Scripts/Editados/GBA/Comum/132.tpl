@@ -95,7 +95,7 @@ script 5 mmbn5 {
 	clearMsg
 	"""
 	"Chip Gate,
-	já à venda!!!
+	já à venda!!!"
 	"""
 	keyWait
 		any = false
@@ -131,7 +131,7 @@ script 7 mmbn5 {
 	clearMsg
 	"""
 	"Chip Gate,
-	já à venda!!!
+	já à venda!!!"
 	"""
 	keyWait
 		any = false
@@ -461,7 +461,7 @@ script 22 mmbn5 {
 		count = 1
 	"""
 	OK
-	(E/D:Cursor C/B:Núm.)
+	(E/D: Cursor  C/B: Núm.)
 	"""
 	flagSet
 		flag = 4294

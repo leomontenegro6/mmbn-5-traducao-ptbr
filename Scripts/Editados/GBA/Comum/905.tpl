@@ -725,7 +725,7 @@ script 43 mmbn5 {
 	mugshotShow
 		mugshot = ShadowMan
 	msgOpen
-	"... Hmf."
+	"... Hunf."
 	keyWait
 		any = false
 	end

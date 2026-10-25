@@ -313,11 +313,8 @@ script 21 mmbn5 {
 		mugshot = ProtoMan
 	"""
 	Utilizar
+	"
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"\""
 	printItem
 		buffer = 1
 		item = 0
@@ -437,11 +434,8 @@ script 31 mmbn5 {
 		mugshot = Colonel
 	"""
 	Utilizar
+	"
 	"""
-	keyWait
-		any = false
-	clearMsg
-	"\""
 	printItem
 		buffer = 1
 		item = 0

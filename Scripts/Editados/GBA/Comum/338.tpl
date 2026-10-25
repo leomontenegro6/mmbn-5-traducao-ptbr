@@ -351,8 +351,8 @@ script 100 mmbn5 {
 		mugshot = Lan
 	"""
 	Sr. Famoso?!
-	Mas é o que é que
-	você tá fazendo aqui?
+	Mas o que é que você
+	tá fazendo aqui?
 	"""
 	keyWait
 		any = false
@@ -707,8 +707,8 @@ script 110 mmbn5 {
 		mugshot = Lan
 	"""
 	Sr. Famoso?!
-	Mas é o que é que
-	você tá fazendo aqui?
+	Mas o que é que você
+	tá fazendo aqui?
 	"""
 	keyWait
 		any = false

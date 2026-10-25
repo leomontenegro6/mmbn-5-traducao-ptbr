@@ -59,7 +59,7 @@ script 2 mmbn5 {
 	msgOpen
 	"""
 	O sistema central e a
-	Área Scilab normalmente
+	Área SciLab normalmente
 	são interligados,
 	"""
 	keyWait
